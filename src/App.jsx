@@ -252,36 +252,141 @@ function FormattedExplanation({ text }) {
   )
 }
 
-// Book Explanation Component to render text & table explanation
+// Book Explanation Component to render page scan image when available
 function BookExplanation({ q }) {
+  const [activePageIdx, setActivePageIdx] = useState(0)
+  const [isFullScreen, setIsFullScreen] = useState(false)
+  const [imgError, setImgError] = useState(false)
+  
   const hasTextExplanation = !!q.explanation
-  if (!hasTextExplanation) return null
+  const explanationPages = q.explanation_pages || []
+  
+  const lookupKey = `${q.year}-${q.subject}-${q.number}`
+  const fallbackPageNum = explanationsMap[lookupKey]
+  const pagesToRender = explanationPages.length > 0 
+    ? explanationPages 
+    : (fallbackPageNum ? [fallbackPageNum] : [])
+    
+  const croppedImages = q.explanation_images || (q.explanation_image ? [q.explanation_image] : [])
+  const hasCroppedImage = croppedImages.length > 0 && !imgError
+
+  // Hide image box only for 113-2 Med 4, Med 5, Med 6
+  const isExcludedSubject = q.year === '113-2' && ['醫學(四)', '醫學(五)', '醫學(六)'].includes(q.subject)
+  const showImageContainer = !isExcludedSubject && (pagesToRender.length > 0 || hasCroppedImage)
+  
+  if (!hasTextExplanation && !showImageContainer) return null
+  
+  const activePageNum = pagesToRender[activePageIdx] || pagesToRender[0]
+  const imgUrl = hasCroppedImage 
+    ? croppedImages[Math.min(activePageIdx, croppedImages.length - 1)] 
+    : `/explanations/page_${activePageNum}.jpg`
   
   return (
     <div className="book-explanation-container" style={{ marginTop: '1rem', borderTop: '1px dashed var(--border-color)', paddingTop: '1rem' }}>
-      <div className="text-explanation-box">
-        <div style={{ fontWeight: 'bold', display: 'flex', alignItems: 'center', gap: '0.35rem', color: 'var(--accent-color)', fontSize: '0.95rem' }}>
-          📖 完整解說文字
+      {/* 1. OCR Text Explanation */}
+      {hasTextExplanation && (
+        <div className="text-explanation-box" style={{ marginBottom: showImageContainer ? '1rem' : '0' }}>
+          <div style={{ fontWeight: 'bold', display: 'flex', alignItems: 'center', gap: '0.35rem', color: 'var(--accent-color)', fontSize: '0.95rem' }}>
+            📖 完整解說文字
+          </div>
+          <div 
+            style={{ 
+              marginTop: '0.5rem', 
+              fontSize: '0.92rem', 
+              color: 'var(--text-primary)',
+              background: 'var(--bg-tertiary)',
+              padding: '1rem',
+              borderRadius: '6px',
+              border: '1px solid var(--border-color)',
+              maxHeight: '450px',
+              overflowY: 'auto'
+            }}
+          >
+            <FormattedExplanation text={q.explanation} />
+          </div>
         </div>
+      )}
+      
+      {/* 2. Original Book Scans (restored for all except 113-2 Med 4, 5, 6) */}
+      {showImageContainer && (
+        <div className="book-scans-box">
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.5rem' }}>
+            <span style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', display: 'flex', alignItems: 'center', gap: '0.35rem' }}>
+              {hasCroppedImage ? '🖼️ 對照原書詳解截圖' : `🖼️ 對照原書圖文與表格 (第 ${activePageNum} 頁)`}
+            </span>
+            
+            {/* Page Tabs Selector */}
+            {pagesToRender.length > 1 && !hasCroppedImage && (
+              <div style={{ display: 'flex', gap: '0.25rem' }}>
+                {pagesToRender.map((pageNum, idx) => (
+                  <button
+                    key={pageNum}
+                    className={`btn btn-sm ${activePageIdx === idx ? 'btn-primary' : 'btn-secondary'}`}
+                    style={{ padding: '0.2rem 0.5rem', fontSize: '0.75rem', borderRadius: '4px' }}
+                    onClick={() => setActivePageIdx(idx)}
+                  >
+                    第 {pageNum} 頁
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
+          
+          <div className="book-explanation-image-box animate-fade-in" style={{ position: 'relative' }}>
+            <img 
+              src={imgUrl} 
+              alt={`原書第 ${activePageNum} 頁詳解`}
+              style={{ width: '100%', maxHeight: '480px', objectFit: 'contain', borderRadius: '4px', border: '1px solid var(--border-color)', cursor: 'zoom-in', background: 'var(--bg-tertiary)' }}
+              onError={() => setImgError(true)}
+              onClick={() => setIsFullScreen(true)}
+            />
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '0.25rem', fontSize: '0.75rem', color: 'var(--text-secondary)' }}>
+              <span>點擊圖片可放大閱讀</span>
+              <button 
+                className="btn-link"
+                style={{ color: 'var(--accent-color)', cursor: 'pointer', border: 'none', background: 'none', padding: 0 }}
+                onClick={() => setIsFullScreen(true)}
+              >
+                🔍 全螢幕檢視
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+      
+      {/* Fullscreen Overlay Modal */}
+      {isFullScreen && showImageContainer && (
         <div 
-          style={{ 
-            marginTop: '0.5rem', 
-            fontSize: '0.92rem', 
-            color: 'var(--text-primary)',
-            background: 'var(--bg-tertiary)',
-            padding: '1rem',
-            borderRadius: '6px',
-            border: '1px solid var(--border-color)',
-            maxHeight: '450px',
-            overflowY: 'auto'
-          }}
+          className="modal-overlay" 
+          style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: 'rgba(0,0,0,0.85)', display: 'flex', justifyContent: 'center', alignItems: 'center', zIndex: 1000, cursor: 'zoom-out' }}
+          onClick={() => setIsFullScreen(false)}
         >
-          <FormattedExplanation text={q.explanation} />
+          <div 
+            style={{ position: 'relative', maxWidth: '90%', maxHeight: '90%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}
+            onClick={e => e.stopPropagation()}
+          >
+            <button 
+              style={{ position: 'absolute', top: '-2.5rem', right: 0, color: 'white', background: 'none', border: 'none', fontSize: '1.2rem', cursor: 'pointer' }}
+              onClick={() => setIsFullScreen(false)}
+            >
+              ✕ 關閉
+            </button>
+            <img 
+              src={imgUrl} 
+              alt="全螢幕詳解" 
+              style={{ maxWidth: '100%', maxHeight: '80vh', objectFit: 'contain', borderRadius: '6px', boxShadow: '0 4px 20px rgba(0,0,0,0.5)', cursor: 'zoom-out' }}
+              onClick={() => setIsFullScreen(false)}
+            />
+            <p style={{ color: 'white', marginTop: '1rem', fontSize: '0.9rem', textAlign: 'center' }}>
+              {hasCroppedImage ? '原書詳解截圖' : `原書第 ${activePageNum} 頁 - 2024年醫師國考試題詳解 臨床醫學`}
+            </p>
+          </div>
         </div>
-      </div>
+      )}
     </div>
   )
 }
+
 
 
 
