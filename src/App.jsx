@@ -332,11 +332,11 @@ function BookExplanation({ q }) {
             )}
           </div>
           
-          <div className="book-explanation-image-box animate-fade-in" style={{ position: 'relative' }}>
+          <div className="book-explanation-image-box animate-fade-in" style={{ position: 'relative', background: '#ffffff', borderRadius: '4px', padding: '0.5rem', border: '1px solid var(--border-color)' }}>
             <img 
               src={imgUrl} 
               alt={`原書第 ${activePageNum} 頁詳解`}
-              style={{ width: '100%', maxHeight: '480px', objectFit: 'contain', borderRadius: '4px', border: '1px solid var(--border-color)', cursor: 'zoom-in', background: 'var(--bg-tertiary)' }}
+              style={{ width: '100%', maxHeight: '550px', objectFit: 'contain', borderRadius: '4px', cursor: 'zoom-in', background: '#ffffff' }}
               onError={() => setImgError(true)}
               onClick={() => setIsFullScreen(true)}
             />
@@ -358,15 +358,15 @@ function BookExplanation({ q }) {
       {isFullScreen && showImageContainer && (
         <div 
           className="modal-overlay" 
-          style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: 'rgba(0,0,0,0.85)', display: 'flex', justifyContent: 'center', alignItems: 'center', zIndex: 1000, cursor: 'zoom-out' }}
+          style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: 'rgba(0,0,0,0.75)', display: 'flex', justifyContent: 'center', alignItems: 'center', zIndex: 1000, cursor: 'zoom-out' }}
           onClick={() => setIsFullScreen(false)}
         >
           <div 
-            style={{ position: 'relative', maxWidth: '90%', maxHeight: '90%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}
+            style={{ position: 'relative', maxWidth: '92%', maxHeight: '92%', display: 'flex', flexDirection: 'column', alignItems: 'center', background: '#ffffff', padding: '1rem', borderRadius: '8px', boxShadow: '0 8px 30px rgba(0,0,0,0.5)' }}
             onClick={e => e.stopPropagation()}
           >
             <button 
-              style={{ position: 'absolute', top: '-2.5rem', right: 0, color: 'white', background: 'none', border: 'none', fontSize: '1.2rem', cursor: 'pointer' }}
+              style={{ position: 'absolute', top: '0.5rem', right: '0.75rem', color: '#333333', background: 'none', border: 'none', fontSize: '1.2rem', cursor: 'pointer', fontWeight: 'bold' }}
               onClick={() => setIsFullScreen(false)}
             >
               ✕ 關閉
@@ -374,10 +374,10 @@ function BookExplanation({ q }) {
             <img 
               src={imgUrl} 
               alt="全螢幕詳解" 
-              style={{ maxWidth: '100%', maxHeight: '80vh', objectFit: 'contain', borderRadius: '6px', boxShadow: '0 4px 20px rgba(0,0,0,0.5)', cursor: 'zoom-out' }}
+              style={{ maxWidth: '100%', maxHeight: '82vh', objectFit: 'contain', borderRadius: '4px', background: '#ffffff' }}
               onClick={() => setIsFullScreen(false)}
             />
-            <p style={{ color: 'white', marginTop: '1rem', fontSize: '0.9rem', textAlign: 'center' }}>
+            <p style={{ color: '#555555', marginTop: '0.5rem', fontSize: '0.85rem', textAlign: 'center' }}>
               {hasCroppedImage ? '原書詳解截圖' : `原書第 ${activePageNum} 頁 - 2024年醫師國考試題詳解 臨床醫學`}
             </p>
           </div>
