@@ -312,7 +312,9 @@ function BookExplanation({ q }) {
         <div className="book-scans-box">
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.5rem' }}>
             <span style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', display: 'flex', alignItems: 'center', gap: '0.35rem' }}>
-              {hasCroppedImage ? '🖼️ 對照原書詳解截圖' : `🖼️ 對照原書圖文與表格 (第 ${activePageNum} 頁)`}
+              {hasCroppedImage 
+                ? (croppedImages.length > 1 ? `🖼️ 對照原書詳解截圖 (共 ${croppedImages.length} 頁)` : '🖼️ 對照原書詳解截圖') 
+                : `🖼️ 對照原書圖文與表格 (第 ${activePageNum} 頁)`}
             </span>
             
             {/* Page Tabs Selector */}
@@ -330,16 +332,52 @@ function BookExplanation({ q }) {
                 ))}
               </div>
             )}
+            {hasCroppedImage && croppedImages.length > 1 && (
+              <div style={{ display: 'flex', gap: '0.25rem' }}>
+                {croppedImages.map((_, idx) => (
+                  <button
+                    key={idx}
+                    className={`btn btn-sm ${activePageIdx === idx ? 'btn-primary' : 'btn-secondary'}`}
+                    style={{ padding: '0.2rem 0.5rem', fontSize: '0.75rem', borderRadius: '4px' }}
+                    onClick={() => setActivePageIdx(idx)}
+                  >
+                    第 {idx + 1} 頁
+                  </button>
+                ))}
+              </div>
+            )}
           </div>
           
           <div className="book-explanation-image-box animate-fade-in" style={{ position: 'relative', width: '100%', background: '#ffffff', borderRadius: '4px', border: '1px solid var(--border-color)', padding: '0.5rem' }}>
-            <img 
-              src={imgUrl} 
-              alt={`原書第 ${activePageNum} 頁詳解`}
-              style={{ width: '100%', height: 'auto', display: 'block', borderRadius: '4px', cursor: 'zoom-in', background: '#ffffff' }}
-              onError={() => setImgError(true)}
-              onClick={() => setIsFullScreen(true)}
-            />
+            {hasCroppedImage && croppedImages.length > 1 ? (
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+                {croppedImages.map((cropUrl, idx) => (
+                  <div key={idx} style={{ position: 'relative', borderBottom: idx < croppedImages.length - 1 ? '1px dashed var(--border-color)' : 'none', paddingBottom: idx < croppedImages.length - 1 ? '0.75rem' : '0' }}>
+                    <div style={{ fontSize: '0.75rem', fontWeight: 'bold', color: 'var(--accent-color)', marginBottom: '0.35rem' }}>
+                      📄 詳解第 {idx + 1} 頁截圖：
+                    </div>
+                    <img 
+                      src={cropUrl} 
+                      alt={`原書詳解截圖 ${idx + 1}`}
+                      style={{ width: '100%', height: 'auto', display: 'block', borderRadius: '4px', cursor: 'zoom-in', background: '#ffffff' }}
+                      onError={() => setImgError(true)}
+                      onClick={() => {
+                        setActivePageIdx(idx)
+                        setIsFullScreen(true)
+                      }}
+                    />
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <img 
+                src={imgUrl} 
+                alt={`原書詳解`}
+                style={{ width: '100%', height: 'auto', display: 'block', borderRadius: '4px', cursor: 'zoom-in', background: '#ffffff' }}
+                onError={() => setImgError(true)}
+                onClick={() => setIsFullScreen(true)}
+              />
+            )}
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '0.5rem', padding: '0 0.25rem', fontSize: '0.75rem', color: 'var(--text-secondary)' }}>
               <span>點擊圖片可放大閱讀</span>
               <button 
@@ -371,6 +409,21 @@ function BookExplanation({ q }) {
             >
               ✕ 關閉
             </button>
+            
+            {hasCroppedImage && croppedImages.length > 1 && (
+              <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1rem' }}>
+                {croppedImages.map((_, idx) => (
+                  <button
+                    key={idx}
+                    className={`btn btn-sm ${activePageIdx === idx ? 'btn-primary' : 'btn-secondary'}`}
+                    onClick={() => setActivePageIdx(idx)}
+                  >
+                    第 {idx + 1} 頁截圖
+                  </button>
+                ))}
+              </div>
+            )}
+            
             <img 
               src={imgUrl} 
               alt="全螢幕詳解" 
@@ -378,7 +431,9 @@ function BookExplanation({ q }) {
               onClick={() => setIsFullScreen(false)}
             />
             <p style={{ color: '#555555', marginTop: '0.75rem', fontSize: '0.85rem', textAlign: 'center' }}>
-              {hasCroppedImage ? '原書詳解截圖' : `原書第 ${activePageNum} 頁 - 2024年醫師國考試題詳解 臨床醫學`}
+              {hasCroppedImage 
+                ? (croppedImages.length > 1 ? `原書詳解截圖 (第 ${activePageIdx + 1} / ${croppedImages.length} 頁)` : '原書詳解截圖') 
+                : `原書第 ${activePageNum} 頁 - 2024年醫師國考試題詳解 臨床醫學`}
             </p>
           </div>
         </div>
