@@ -257,6 +257,11 @@ function BookExplanation({ q }) {
   const [activePageIdx, setActivePageIdx] = useState(0)
   const [isFullScreen, setIsFullScreen] = useState(false)
   const [imgError, setImgError] = useState(false)
+
+  useEffect(() => {
+    setImgError(false)
+    setActivePageIdx(0)
+  }, [q?.id, q?.explanation_image, q?.explanation_images])
   
   const hasTextExplanation = !!q.explanation
   const explanationPages = q.explanation_pages || []
