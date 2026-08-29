@@ -27501,6 +27501,9 @@
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-16_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-16_merged.png"
+    ],
+    "images": [
+      "/questions/113-2-醫學(三)-16-1.png"
     ]
   },
   {
@@ -28535,7 +28538,10 @@
     "answer": "C",
     "explanation": "",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-74_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/questions/113-2-醫學(三)-74-1.png"
+    ]
   },
   {
     "id": "113-2-醫學(三)-75",
