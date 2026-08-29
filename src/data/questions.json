@@ -27212,7 +27212,7 @@
       "D": "atorvastatin"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "參與到 statin 類藥物代謝的酵素很多，大致整理如下：\n\n| 代謝途徑 / 酵素 | 藥物 |\n| :--- | :--- |\n| CYP3A4 | Lovastatin、Simvastatin、Atorvastatin |\n| CYP2C9 | Rosuvastatin、Fluvastatin |\n| 不經 CYP 代謝 | Pravastatin、Pitavastatin |\n\n補充：\n1. Simvastatin、Lovastatin：為 prodrug，需經代謝後才有生理活性。\n2. Atorvastatin、Fluvastatin：腎功能不好可以使用。\n3. (冷知識) 葡萄柚、文旦主要是影響 CYP3A4。\n4. pravastatin 的代謝以 phase II 的 glucuronidation 為主，只有極少部分涉及 CYP3A4。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-1_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-1_merged.png"
@@ -27231,7 +27231,7 @@
       "D": "懷孕期以甲狀腺素（thyroxine）治療甲狀腺功能低下（hypothyroidism），目標是維持TSH在正常範圍，常需比懷孕前使用更低的劑量"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "孕時的甲狀腺主要受五大因素影響：\n1. 第一孕期時，hCG 刺激 TSH 受器，相對的 TSH 會因負回饋而減少。\n2. 第一孕期直到結束，雌激素 (estrogen) 刺激甲狀腺素結合蛋白 (thyroxine-binding globulin) 增加，使得 total T3 和 total T4 增加，但 free T4 在第一孕期後會漸下降，在第三孕期時比正常人更低。\n3. 免疫系統的變化間接影響自體免疫甲狀腺疾病。\n4. 甲狀腺素的代謝受胎盤 type 3 deiodinase 影響。\n5. 尿液排出碘增加，可能使甲狀腺缺碘。\n\n回到題目：\n(A) 正確。懷孕全程都會因甲狀腺素結合蛋白 (thyroxine-binding globulin) 增加使 total T3、total T4 上升。\n(B) 正確。第一孕期的 hCG 刺激會使 free T3、free T4 上升，但要注意過了第一孕期後，free T4 會開始下降。\n(C) 正確。Methimazole 致畸胎性強，尤其是在懷孕前十二周，故第一孕期會改用 PTU，第二孕期後，則因 PTU 的肝毒性較強，會用回 methimazole。\n(D) 錯誤。整體來說，孕時的甲狀腺會分泌更多甲狀腺素，反映整體生理需求之增加，因此對甲狀腺功能低下者來說，懷孕時補充甲狀腺素常需使用更高的劑量，約需比平常多 45%。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-2_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-2_merged.png"
@@ -27250,7 +27250,7 @@
       "D": "phagophobia"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "(A) Dysphagia：吞嚥困難——吞嚥時較為困難。\n(B) Aphagia：吞嚥不能——本題沒有。\n(C) Odynophagia：吞嚥痛——後咽部有刺痛感。\n(D) Phagophobia：吞嚥恐懼——因此有點害怕吞嚥。\n而喉嚨時常有異物感稱作 globus sensation，但前提是病人沒有吞嚥困難之下，感覺到有持續或間歇、無痛的喉嚨異物感，才能稱為 globus sensation。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-3_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-3_merged.png"
@@ -27269,7 +27269,7 @@
       "D": "Trendelenburg's sign"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "| Physical examination | 做法 | 意義 |\n| :--- | :--- | :--- |\n| Babinski's sign | 以扣診槌鈍端慢慢輕刮腳底外側，若大腳趾 Upgoing，則為 Babinski's sign 陽性。 | 陽性側的 Upper motor neuron 異常 |\n| Brudzinski's sign | 病人平躺，將其脖子屈曲（向前彎），若引起髖關節及膝蓋屈曲則為 Brudzinski's sign 陽性。 | 腦膜受到刺激 (Meningeal sign) |\n| Kernig's sign | 病人平躺並且使其單腳髖關節及膝關節皆屈曲 90 度，此時若無法將病人膝關節完全伸展（小腿向前踢）則為 Kernig's sign 陽性。 | 腦膜受到刺激 (Meningeal sign) |\n| Trendelenburg's sign | 病人一腳站立，另一隻腳髖關節屈曲 90 度，觀察屈曲側骨盆移動。若病人以左腳站立，右腳屈曲，此時正常人右邊骨盆會往上移。若右邊骨盆往下降，則為 Trendelenburg's sign 陽性。 | 承重側（站立那側）的臀中肌、臀小肌無力。 |\n\n有時候 Brudzinski's sign 和 Kernig's sign 會搞混，可用 Kernig's sign 的動作是小腿向前踢 (Kick) 來幫助記憶。\n參考資料：Evidence-Based Physical Diagnosis 4th edition",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-4_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-4_merged.png"
@@ -27288,7 +27288,7 @@
       "D": "三發性副甲狀腺機能亢進（tertiary hyperparathyroidism）"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "Primary hyperparathyroidism 是副甲狀腺分泌過多 Parathyroid hormone 導致高血鈣，Secondary hyperparathyroidism 是低血鈣引起副甲狀腺分泌過多 Parathyroid hormone，而 Tertiary hyperparathyroidism 是因副甲狀腺被長期刺激（例如 Secondary hyperparathyroidism 持續過久，常見於 CKD 病人），導致副甲狀腺過度增生並分泌 Parathyroid hormone，引起高血鈣。總結來說，Primary 和 Tertiary 跟高血鈣有關，而 Secondary 跟低血鈣有關，故此題選 (C)。\n高血鈣的可能成因如下表：\n\n| 分類 | 病因 |\n| :--- | :--- |\n| PTH 分泌過多 | Primary hyperparathyroidism（副甲狀腺腺瘤、增生、惡性腫瘤）<br>Tertiary hyperparathyroidism<br>Familial hypocalciuric hypercalcemia<br>Calcium sensor receptor (CaSR)功能受影響（如使用鋰鹽） |\n| 惡性腫瘤引起 | PTHrP 製造過多（許多 Solid tumor 都可能，如肺部 SCC）<br>Lytic skeletal metastasis（如乳癌、Multiple myeloma） |\n| 1,25(OH)2D 製造過多 | Granulomatous diseases（如類肉瘤、肺結核、矽肺病）<br>Lymphoma<br>Vitamin D 中毒 |\n| 骨質吸收增加 | Hyperthyroidism<br>移動受限（如長期臥床） |\n| 鈣質攝取過多 | Milk-alkali syndrome<br>Total parenteral nutrition (TPN) |\n| 其他 | 內分泌疾病：Adrenal insufficiency、嗜鉻細胞瘤<br>藥物：Thiazides、Vitamin A、Anti-estrogens |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-5_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-5_merged.png"
@@ -27307,7 +27307,7 @@
       "D": "第五型心肌梗塞，連續心肌酶cardiac troponin監測，應該至少有一次升高至大於99百分位（99thpercentile）參考值上限（upper reference limit）之十倍"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "(A) 錯誤，此為 angina 的描述。STEMI 常為突發性的斑塊 (plaque) 破裂，血小板形成阻塞性的血栓 (thrombus)，血流量急遽降低導致心肌壞死。相對地，血管慢性阻塞會使側枝循環發展良好，反而不容易發展為 STEMI。\n(B) 錯誤，確實多數的 STEMI 最終會在心電圖上看到 Q wave(Qw)，但在血管內 thrombus 非完全阻塞、阻塞時間短暫，或是側枝循環很好的病人不會出現 Qw，而 Qw 的波幅大小及存在時間與再灌流後的血流回復程度，以及缺血的心肌體積 (volume) 有關。〔過往認為與全層 (transmural) 缺血有關，但後續研究指出 Qw 與全層缺血的關聯性低〕。\n(C) 錯誤，cardiac troponin(cTn) 大於 99th percentile URL 為 types 1~2 MI 的診斷標準之一。cTn 伴隨以下任一狀況即可診斷 AMI：心肌缺血的典型症狀、ECG 上有新發生的缺血變化或 pathologic Q wave、MRI 或核醫影像上有新發現的存活心肌 (viable myocardium) 死亡、超音波上有新發現的局部心肌壁活動異常 (regional wall motion abnormalities)。\n(D) 正確，types 4~5 MI 為做 coronary procedure 後 48 小時內相關的 MI。type 4a 為 PCI 相關的 MI、type 5 為 CABG 相關的 MI。type 4a MI 的診斷條件為 cTn 為 99th percentile URL 的 5 倍，type 5 則為 URL 的 10 倍，且伴隨 (C) 選項提到的 ECG 的變化，或核醫、MRI、超音波等異常。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-6_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-6_merged.png"
@@ -27326,7 +27326,7 @@
       "D": "心室中隔缺損（ventricular septal defect, VSD）因存在高壓力差，所以無論缺損大小，很少會自行關閉"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "(A) 正確，因主循環的壓力較高，血液由左心房流向右心房，右心室因 preload 增加而擴大，產生肺動脈瓣延遲關閉、第二心音固定 (fixed S2)、心電圖出現 incomplete RBBB，有 10% 的患者最終出現肺動脈高壓，此時因心臟結構異常所導致的肺高壓稱為 Eisenmenger syndrome (ES)。\n(B) 錯誤，EA 為發育過程中，三尖瓣與底下的心肌層分離不佳，導致三尖瓣環位置往後、往心尖偏移。出現三尖瓣逆流 (TR)、第一心音分裂、因前葉脫垂而產生的 sail sign、右心房擴大，20% 患者可發現 WPW pattern。\n(C) 錯誤，PAPVR 很少出現肺動脈高壓，且部分患者無症狀。選擇開刀與否要看解剖構造的變異情形、肺通氣與灌流的狀況、對於血行動力的影響、手術經驗等。\n(D) 錯誤，VSD 自行關閉的機率除了看缺損大小還要看何種 type。癒合容易度由易至難：肌肉缺損型 (muscular) > 膜周邊缺損型 (perimembranous) > 房室腔型 (AV canal) 動脈下缺損型 (subarterial)。\n\n其他考點：\n1. PAPVR 最常見兩種的血管連接形式為：左上肺靜脈 - 無名靜脈 (innominate vein)、右上肺靜脈 -SVC，後者須特別注意是否合併 ASD 當中的靜脈竇缺損型 (sinus venous defect type)。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-7_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-7_merged.png"
@@ -27345,7 +27345,7 @@
       "D": "具有典型胸痛症狀的病人，無論冠狀動脈心臟病風險高低，電腦斷層鈣化指數都是最合適的檢查工具"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "冠狀動脈心臟病 (coronary artery disease, CAD) 的非侵入性評估工具有：stress test、myocardial viability assessment、coronary CT angiography (CCTA)、coronary artery calcium (CAC) score。\n\n| 壓力催迫性測試 (stress test) | 說明 |\n| :--- | :--- |\n| 目的 | 評估 CAD 的風險，作為後續是否要做心導管的參考依據。 |\n| 時機 | 已知的 CAD 病人出現 CAD 的症狀或臨床狀況變化時、CAD 低風險的胸痛病人、評估運動耐受力 (exercise tolerance)、欲定位缺血區域（需透過影像輔助）。<br>→(A)、(B) 皆正確 |\n| 禁忌症 | 48 小時內 AMI、高風險 unstable angina、急性肺栓塞、嚴重主動脈狹窄、無法控制的心臟衰竭或心律不整、嚴重高血壓 (SBP > 200 mmHg)、心包膜炎、心肌炎、急性主動脈剝離。<br>→(C) 正確 |\n| 評估方法 | 分為運動測試及藥物測試（特別在 LBBB、WPW pattern、V-pacing 的病人）。<br>除了 EKG 之外，可合併 echo、cardiac MRI 或核醫檢查 (MPI) 定位缺血區域。 |\n\n電腦斷層鈣化指數 (CAC score) 敏感度高 (91%) 但特異度低 (49%)，臨床的應用上主要是用來排除 CAD，或者對於冠心症中等風險 (10-year ASCVD 5~20%) 的族群，評估是否要開始用 statin 的依據之一。由此敘述可知，(D) 選項錯在 CAC score 只能在 CAD 中低風險的病人做為排除的工具。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-8_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-8_merged.png"
@@ -27364,7 +27364,7 @@
       "D": "cat scratch disease"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "| 房室傳導阻斷 (atrioventricular block) | 原因 |\n| :--- | :--- |\n| 結構性退化 | 傳導系統年老退化：Lev's disease 或 Lenegre's disease<br>主動脈瓣鈣化（二尖瓣鈣化也會但罕見） |\n| 醫源性 | 開心心臟，如：CABG、瓣膜置換等<br>心導管手術，如：燒灼手術、TAVI 等<br>Type 2/4/5 心律不整藥物，如：BB、non-DHP CCB、digoxin |\n| 傳染性疾病 | 細菌感染：感染性心內膜炎 (IE) 併瓣膜旁膿瘍<br>寄生蟲感染：Toxoplasmosis、Chagas' disease<br>病毒感染：Viral myocarditis<br>螺旋體感染：Lyme carditis |\n| 浸潤性 | Sarcoidosis、Amyloidosis、Lymphoma |\n| 免疫風濕性 | 反應性關節炎 (Reiter's syndrome)<br>SLE、RA、systemic sclerosis |\n| 先天性 | 母體紅斑性狼瘡 (anti-Ro/La)<br>先天性心臟異常<br>Idiopathic congenital AV block<br>基因 |\n| 神經肌肉性 | 萎縮性肌強直 (myotonic dystrophy) — 成人最常見的遺傳性肌肉疾病<br>粒線體疾病：Kearns-Sayre syndrome<br>迷走神經張力 (vagal tone) 上升 |\n| 其他 | 內分泌：甲狀腺疾病、醛固酮缺乏<br>心肌缺血 (myocardial infarction) |\n\n整理自 Harrison 21/e Table 245-2 Cause of AV block\n\n(D) cat scratch disease 是 B. henselae 感染造成，主要以 regional lymphadenitis 表現。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-9_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-9_merged.png"
@@ -27383,7 +27383,7 @@
       "D": "left ventricle"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "這題需要知道 TOF 的修補手術怎麼做才可以答的心安！\n\nLBBB with monomorphic VT 是 TOF 做心室修補手術後，少見的晚期併發症（發生率約為 3~14%）。發生 VT 的成因目前推測有二：(1) 修補手術常需做右心室的心室壁切開術 (ventriculotomy) 以修補心室中膈，疤痕形成 reentry circuit、(2) 長期右心室的血行動力過載 (hemodynamic overload)，使右心室肥大、結構異常進而影響功能。至於 LBBB 則是由右心起源的電流脈動往左心室傳遞（並非由 Purkinje fiber，才會 bundle branch block）。\n\n額外補充發生 VT 的風險包含：5 歲後才做手術修補、高度的心室異位搏動 (high-grade ventricular ectopy)、右心血行動力異常、QRS 寬度 >180 ms。術後病人於 30~50 歲之前，發生猝死 (sudden cardiac death) 的風險每年增加 1%。若病人會自發性跳 VT 就要裝 ICD，並考慮透過心導管做 ablation 或服用抗心律不整藥物。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-10_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-10_merged.png"
