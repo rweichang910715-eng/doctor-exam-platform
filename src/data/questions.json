@@ -27595,7 +27595,7 @@
       "D": "膽道狹窄"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "| 常見慢性胰臟炎 (chronic pancreatitis) 併發症 | 說明 |\n| :--- | :--- |\n| 胰臟偽囊腫 (pancreatic pseudocyst) | 約占慢性胰臟炎病人的 10%。大部分無症狀，少部分會有腹痛、血管阻塞症狀等。 |\n| 膽道及腸道阻塞 (Biliary and duodenal obstruction) | 約占慢性胰臟炎病人的 5-10%。十二指腸阻塞典型症狀如餐後上腹痛、噁心及黃疸等。慢性膽道阻塞有可能會引起次發性的肝硬化。 |\n| 胰源性腹水及肋膜積液 (Pancreatic ascites and pleural effusion) | 胸腹部之間的廔管形成、胰臟偽囊腫破裂都有可能會導致胰源性腹水及肋膜積液。大部分無症狀，但偶爾會有腹痛、腹脹（腹水多）、體重減輕或喘（胰源性肋膜積液）。 |\n| 脾靜脈栓塞 (Splenic vein thrombosis) | 約占慢性胰臟炎病人的 12%。可能導致門脈高壓、進一步導致胃靜脈屈張。有症狀者常以上消化道出血表現。 |\n| 假性動脈瘤 (Pseudoaneurysm) 形成 | 非常少見。有症狀者通常是假性動脈瘤破裂，以突發性疼痛合併無解釋的貧血或消化道出血表現。 |\n| 胰源性糖尿病（又稱 type 3c DM） | 約占慢性胰臟炎病人的 30-50%。值得注意的是，此類慢性胰臟炎疾患，alpha 細胞（分泌昇糖素）及 beta 細胞（分泌胰島素）皆受到破壞。酮體是由脂肪酸分解而來，過程需要昇糖素促進脂解 (lipolysis)。因此在慢性胰臟炎的病人，酮體不會高，不會產生糖尿病酮酸中毒症，故 (B) 錯誤。 |\n| 癌症風險 | 慢性胰臟發炎會增加得到胰臟腺癌 (pancreatic adenocarcinoma) 的風險。風險高低也會受到慢性胰臟炎的時間、病患有無抽菸等影響。 |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-21_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-21_merged.png"
@@ -27614,7 +27614,7 @@
       "D": "就算發生胃食道靜脈曲張出血，只要還沒有黃疸，沒有腹水，沒有肝性腦病變，就還不算是肝失代償（decompensation）"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "• 肝硬化定義：肝臟產生纖維化及再生結節，導致肝臟組織型變。\n• 失代償：產生門脈高壓（肝靜脈壓力 >5 mmHg）導致的併發症，如：腹水、靜脈曲張出血、自發性細菌性腹膜炎、肝腎症候群、肝肺症候群、肝腦病變、肝癌等。底下列出幾個較常見的：\n\n| 常見肝臟失代償 (decompensation) 併發症（發生任一個即算是失代償 → (D) 錯誤。） | 詳細說明 / 處置 |\n| :--- | :--- |\n| 腹水 (ascites) | • 60% 的病患在產生肝門靜脈高壓 10 年內發生。<br>• 通常是第一個產生的失代償併發症。<br>• 治療：降低鈉攝取 (1-2g/d)、利尿劑（目標一天尿 1000c.c.）。 |\n| 肝源性胸水 (hepatic hydrothorax) | • 通常單側（右 > 左）。<br>• 治療：避免放胸管（增加併發症）；治療方法同「腹水」。 |\n| 自發性細菌性腹膜炎 (SBP) | • 高死亡率，常伴隨肝腦病變、發燒、腹痛，但時常無症狀 (25%)。<br>• 病原菌通常為革蘭氏陰性菌 (E. coli, Klebs)。 |\n| 胃食道靜脈曲張出血 (Gastroesophageal varices with UGIB) | • Child A 約有 40% 病患產生；Child C 約有 80% 病患產生。<br>• 治療：三代 cepha；若懷疑是 MDRO(多重抗藥性細菌)，可給 tazocin 或 meropenem；懷疑 MRSA 可以給 vancomycin；注射白蛋白可增加存活率。<br>• 初級預防：通常較小的靜脈屈張會優先選用 β-blockers，較大用綁的。<br>• 非選擇性 β-blockers (Nadolol, propranolol, carvedilol)，可降低約 50% 的風險及死亡率，及延緩靜脈屈張進展 →(C) 錯誤。<br>• 內視鏡靜脈屈張結紮術 (EVL)：降低初級靜脈瘤出血機率效果比非選擇性 β-blockers 好，但對於降低死亡率效果沒有顯著差異。約 1-4 週綁一次，直到胃食道靜脈屈張消失。<br>• 次級預防：有靜脈屈張出血過的病人，約有 50% 再出血機率，以及 30% 死亡率。併用 β-blockers+ EVL 效果會比任一單用都好。 |\n| 肝性腦病變 (HE, hepatic encephalopathy) | • 為臨床診斷，無法單看血清氨濃度。<br>• 治療：lactulose（促進糞便排出氨，目標一天排便 2-4 次），無效可加上 rifaximin（降低腸胃道產氨細菌）。 |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-22_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-22_merged.png"
@@ -27633,7 +27633,7 @@
       "D": "postvagotomy diarrhea"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "| 胃部切除術後常見併發症 (Postgastrectomy complications) | 說明 / 處置 |\n| :--- | :--- |\n| dumping syndrome | **Early dumping**：腸胃道水分增加 → 噁心、腹瀉、上腹痛；血管內水分變少 → 低血壓、頭痛、盜汗、心悸<br>**Late dumping**：胰島素分泌造成低血糖，產生血管舒縮症狀 (vasomotor)<br>• 調整飲食習慣，少量多餐、細嚼慢嚥、限制液體食物攝取、避免精緻醣類。大部分人症狀會改善。<br>• 藥物：somatostatin (octreotide 可延長腸胃排空)、Serotonin antagonist (early dumping 有效)、Acarbose（減緩醣類分解、降低胰島素分泌，late dumping 有效）。<br>• 手術：藥物治療失敗才考慮。 |\n| A-loop syndrome | 輸入環狹窄或阻塞，為急症。<br>腹痛（嘔吐後緩解）、無膽汁、膽道 / 胰臟酵素 ↑ |\n| E-loop syndrome | 輸出環空腸狹窄扭轉。<br>間歇性腸阻塞、腹痛、膽汁嘔吐（較少見） |\n| Blind loop syndrome | 手術後產生額外迴路，導致食物累積、細菌過度孳生。<br>腹痛 / 脂肪瀉（腸胃道吸收異常）/ 食慾下降 / 大球性貧血 (Vit B12 ↓) |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-23_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-23_merged.png"
@@ -27652,7 +27652,7 @@
       "D": "使用鈉離子模式（sodium modeling）透析"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "此為 Type B dialyzer reaction。Dialyzer reaction 常見於第一次使用且含有 Bioincompatible cellulosic-containing membranes 的透析器。此反應可分為 Type A 與 Type B，Type A 是身體直接對新的透析器上的 Ethylene oxide（用來消毒）產生 IgE-mediated 的過敏反應，通常在開始透析後數分鐘就開始出現症狀，若沒有馬上中止透析則會發展成全身的過敏反應，此時需要以 Epinephrine 或類固醇治療。Type B 則是由補體以及 Cytokine 引起，通常以非特異的胸痛、背痛表現，在透析開始後數分鐘出現，隨著透析進行慢慢改善，通常 Supportive care 即可，欲改善症狀除了更換透析器之外也可以考慮重複使用透析器，能夠減輕或減少症狀出現。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-24_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-24_merged.png"
@@ -27671,7 +27671,7 @@
       "D": "febuxostat"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "(B) Uricosuric agents（如 Probenecid、Benzbromarone、Sulfinpyrazone）的降尿酸機轉是抑制腎臟再吸收尿酸，使尿中排出的尿酸增加，故可能會導致尿酸結石。\n\n| 結晶 | 處置建議 |\n| :--- | :--- |\n| 所有結晶 | 維持排尿量至少 2L/d |\n| 草酸鈣 | • 保鈣型利尿劑 (Thiazide)。<br>• 避免攝取大量維他命 C。<br>• 減少攝取草酸：避免高草酸食物、維持足量鈣質攝取（鈣質攝取增加，腸道會減少吸收草酸）。<br>• 增加尿中的檸檬酸（檸檬酸是天然的草酸鈣、磷酸鈣抑制劑）：攝取富含鹼性物質的食物（水果、蔬菜）、直接補充鹼性物質 (Potassium citrate、Potassium bicarbonate) 都可以增加尿中的檸檬酸。<br>註：攝取鹼性物質是為了增加尿中的檸檬酸，而非鹼化尿液（雖然尿液確實會變鹼），在生理範圍的尿液 pH 值並不影響草酸鈣結晶生成。<br>• 減少動物蛋白質攝取：可增加檸檬酸排出、減少鈣質排出。<br>• 減少鈉攝取：可減少鈣質排出。<br>• 減少果糖、蔗糖攝取。 |\n| 磷酸鈣 | • 減少尿鈣排出、增加尿中檸檬酸：如攝取富含鹼性物質的食物、直接補充鹼性物質都有效，但尿液變鹼會增加磷酸鈣結石形成的風險，故要注意監測尿液 pH 值。此類病人的腎臟排酸功能通常不太好，故也不建議酸化尿液。<br>• 減少攝取富含磷酸的食物。 |\n| 尿酸 | • 鹼化尿液（維持 pH 6.5）：攝取富含鹼性物質的食物、減少攝取酸性食物（動物的肉）、補充碳酸鹽或檸檬酸鹽 (Potassium-based 為首選)。<br>• 減少尿酸生成與排出：減少攝取高普林食物、Xanthine oxidase inhibitor (Allopurinol、Febuxostat)。 |\n| 胱胺酸 (Cystine) | • 使用結合 Cystine 的藥物：Tiopronin、Penicillamine。<br>• 鹼化尿液（維持 pH 7.5）：Potassium citrate、Potassium bicarbonate。 |\n| Struvite | 泌尿科以手術完全移除結石，並且預防泌尿道感染以防止結石復發。 |\n\n註：由於鈉鹽（如 Sodium bicarbonate）對於鈣以及胱胺酸排出都有不良影響，因此許多鹼化尿液的藥物首選都是 Potassium-based。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-25_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-25_merged.png"
@@ -27690,7 +27690,7 @@
       "D": "aristolochic acid nephropathy"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "Aristolochic acid nephropathy（馬兜鈴酸腎病變，AAN），又稱 Chinese herbal nephropathy、Balkan endemic nephropathy。馬兜鈴酸早期作為中藥減肥的處方，長期暴露後會產生慢性間質性腎炎 (Chronic interstitial nephritis)。尿液檢查通常只有少量白血球以及輕微蛋白尿。病人的血液檢查會呈現跟腎臟病變不成比例的貧血（腎臟功能不算很差但貧血很嚴重）。確診需要符合以下三項中的兩項：腎臟切片看到典型表現（腎臟間質纖維化且僅有少量細胞浸潤）、確認有攝取馬兜鈴酸、在腎臟或泌尿道組織偵測到 Aristolactam-DNA adducts（暴露到馬兜鈴酸後細胞 DNA 突變，通常是 A:T-to-T:A transversions）。AAN 除了會導致 Chronic interstitial nephritis，還會大幅提高上泌尿道上皮癌的發生率，故需要長期規則追蹤，且在進入 ESRD 後考慮雙側腎臟預防性切除。\n正常腎臟切片的腎絲球周圍應該都是一圈一圈的腎小管，而本題的切片腎小管不明顯且結構扭曲變形，許多間質的部分都被纖維化取代，沒有看到明顯的免疫細胞浸潤（如 Eosinophil、Giant cell reaction 等），故符合 AAN 的切片特徵。\n(A) Myeloma cast nephropathy 也稱 Light chain cast nephropathy，免疫球蛋白的輕鏈 (Bence-Jones protein) 不只會阻塞腎小管，還會引起 Foreign-body reaction 導致腎小管被破壞。腎臟切片會看到腎小管萎縮且被嗜伊紅性的 Casts 填滿，周圍可見 Giant cell reactions。其他診斷線索包含貧血、骨頭痛、高血鈣、尿蛋白增加（但 Dipstick 測不出來）。\n(B) Allergic interstitial nephritis 病人會有用藥史（通常是抗生素），除了急性腎損傷外，還可能伴隨發燒、紅疹、嗜伊紅性白血球增加。尿液檢查常見 Pyuria、WBC casts 以及輕微血尿。切片會看到間質以及腎小管有廣泛的白血球（包含 Eosinophils）浸潤（但通常不需要切片即可診斷）。\n(C) Chronic uric acid nephropathy 大多出現在有嚴重痛風以及有 Purine 代謝疾病導致長期高尿酸的病人。尿酸結晶會阻塞腎小管，也會引起 Foreign-body reaction，最終使腎臟纖維化。早期的臨床表現可能在皮質、髓質看到一些形態變化，尿液檢查可見蛋白尿以及尿液濃縮能力下降，但腎絲球過濾率依然是正常的。切片可見尿酸結晶沉積，周圍有 Granulomatous inflammation。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-26_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-26_merged.png"
@@ -27709,7 +27709,7 @@
       "D": "Henoch-Schönlein purpura（HSP）"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "四個選項只有 MPGN 補體會下降，故選 (B)。\n(A) Membranous nephropathy (MN) 雖然切片會看到補體沉積，但血中的補體通常是正常的。Primary MN 常會出現 PLA2R antibody，特異性高因此可輔助診斷。Secondary MN 跟感染（如梅毒、HBV、HCV）、SLE、藥物 (NSAIDs)、腫瘤有關。病人常表現蛋白尿、水腫、高血壓、顯微血尿。另外，在所有的 Nephrotic syndrome 中，MN 最常出現高凝血狀態以及 Renal vein thrombosis。\n(B) Membranoproliferative glomerulonephritis (MPGN) 分為三種類型 (Type I、II、III)，以 Type I 最常見，致病機轉為 Immune complex-mediated，跟感染（如 HCV、HBV、亞急性感染性心內膜炎）、自體免疫疾病（如 SLE、Sjögren syndrome、RA、MCTD）、Monoclonal gammopathy 有關。臨床常表現蛋白尿（或 Nephrotic syndrome）、血中補體降低 (Type I C3、C4 都降低，Type II 通常只有 C3 降低)、血尿、膿尿。\n(C) Focal segmental glomerulosclerosis (FSGS) 的補體是正常的。Secondary FSGS 跟病毒感染 (HIV、HBV、Parvovirus)、藥物或毒品（海洛因、搖頭丸、止痛藥、雙磷酸鹽）Adaptive response(Reflux nephropathy、腎臟發育不良、肥胖、高血壓)\n(D) Henoch-Schönlein purpura(HSP) 又稱 IgA vasculitis，血中補體正常。HSP 與 IgA nephropathy 的主要差別在於有無腎臟外侵犯（皮膚、腸胃道）以及發病年紀 (HSP 好發 4-7 歲，IgA nephropathy 好發 10-30 歲)。腎臟表現通常為輕微的腎絲球腎炎，尿液檢查可見血尿、RBC casts、蛋白尿（通常不會到 Nephrotic range），血液檢查通常看到輕微白血球升高，血小板、補體皆正常。可進一步參考小兒科【113-2(四)13】。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-27_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-27_merged.png"
@@ -27728,7 +27728,7 @@
       "D": "NaCl再吸收增加時，二磷酸腺苷（adenosine diphosphate, ADP）是緻密斑（macula densa）細胞釋放出來的訊號，來調控腎小管–腎絲球回饋"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "長得像一階國考的東西混進來了（本題為 Harrison 段落翻譯而來）。\n(A)(C) 錯誤。不是出球小動脈，而是入球小動脈 (Afferent arteriole)。\n(D) 錯誤。不是二磷酸腺苷 (ADP)，而是三磷酸腺苷 (ATP)。\n\n腎絲球過濾的自我調節 (Autoregulation) 主要有三個因素：入球小動脈的 Myogenic reflex、Tubuloglomerular feedback (TGF)、出球小動脈的 Angiotensin II-mediated vasoconstriction。\n\n| 因素 | 說明 |\n| :--- | :--- |\n| Myogenic reflex | 調控腎臟血流的第一道防線，入球小動脈根據腎臟的灌流狀況收縮或放鬆，可以對收縮壓的變化快速做出反應。 |\n| Tubuloglomerular feedback | • 根據過濾速度以及腎小管的流量調節入球小動脈收縮或放鬆。<br>• 當位於 Loop of Henle 粗上升支的 Macula densa 感知到腎小管流速、溶質過高時，會調控入球小動脈收縮以降低過高的過濾率。其中一個訊號就是當 NaCl 再吸收增加時，Macula densa 會釋放 ATP，並且在細胞外代謝成 Adenosine，使入球小動脈收縮。<br>• Angiotensin II 和 Reactive oxygen species 會增強 TGF，而一氧化氮 (NO) 會減弱 TGF。 |\n| Angiotensin II-mediated vasoconstriction | 當腎臟血流減少時，Renin 會從 Juxtaglomerular apparatus 裡的 Granular cells 釋放，並且代謝為 Angiotensin II 引起出球小動脈收縮，進而增加 GFR。 |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-28_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-28_merged.png"
@@ -27747,7 +27747,7 @@
       "D": "若造成急性腎損傷合併寡尿、高血鉀症，可考慮透析治療"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "(C) 鹼化尿液會減少磷酸鈣、Xanthine、Hypoxanthine 的溶解度，增加在腎小管結晶的風險。\nTumor lysis syndrome 是在腫瘤治療時因腫瘤細胞快速被破壞引起的症狀，最常見於治療 Burkitt's lymphoma、Acute lymphoblastic leukemia (ALL)。細胞破裂後胞內物質漏出，引起高尿酸血症、高血鉀、高血磷（導致低血鈣）。標準預防為使用 Allopurinol 以及大量給水，不建議鹼化尿液（雖然可以增加尿酸的溶解度，但會減少磷酸鈣、Xanthine、Hypoxanthine 的溶解度，增加在腎小管結晶的風險）。Febuxostat 可用於對 Allopurinol 過敏或腎衰竭的病人，且在中高風險產生 Tumor lysis syndrome 的病人控制尿酸的效果比 Allopurinol 好。有時用了標準預防後尿酸依然降不下來，此時使用 Rasburicase (recombinant urate oxidase) 可以在數小時內快速降低尿酸。在高風險產生 Tumor lysis syndrome 的病人也應該把 Rasburicase 作為預防用藥。若預防後依然出現高血鉀 (>6 mEq/L)、急性腎損傷 (Creatinine > 10 mg/dL、寡尿、無尿)、高尿酸 (>10 mg/dL)、高磷酸 (>10 mg/dL) 或有症狀的低血鈣，則考慮血液透析。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-29_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-29_merged.png"
@@ -27766,7 +27766,7 @@
       "D": "斥消靈（sirolimus）：蛋白尿"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "腎臟移植後常見的抗排斥藥物及副作用如下：\n\n| 藥物 | 副作用 |\n| :--- | :--- |\n| Glucocorticoid | 高血壓、糖尿病、高血脂、骨質疏鬆 |\n| Cyclosporine | 腎毒性、高血壓、高血脂、高血糖、多毛、牙齦增生 |\n| Tacrolimus | 跟 Cyclosporine 類似，但移植後糖尿病更常見，而多毛、牙齦增生較少見 |\n| Azathioprine | 骨髓抑制 (WBC > RBC > Plt) |\n| Mycophenolate mofetil (sodium) | 腸胃道症狀，肝臟 / 骨髓抑制較少見 |\n| Sirolimus、Everolimus | 高血脂、血小板低下、傷口癒合差、蛋白尿 |\n| Belatacept | Posttransplant lymphoproliferative disease(PTLD) |\n\n參考資料：Harrison's Principles of Internal Medicine 21st edition p2328 Table 313-3、Goldman-Cecil Medicine 26th Edition p845 Table 117-3",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-30_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-30_merged.png"
