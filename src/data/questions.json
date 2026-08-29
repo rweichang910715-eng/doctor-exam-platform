@@ -27402,7 +27402,7 @@
       "D": "傳統的動脈粥狀硬化危險因子，常會合併出現在鈣化性主動脈瓣狹窄的進展過程中"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "(A) 錯誤，主動脈瓣二葉畸形 (BAV) 50% 有 coarctation of aorta (CoA)、30% 有 supravalvular aortic stenosis (AS)、23% 有 subvalvular AS，前者病變位置常發生降主動脈；後兩者常發生在升主動脈。\n(B) 正確，雖然感染性心內膜炎 (infective endocarditis, IE) 常見原因之一的風濕性心臟病 (rheumatic heart disease, RHD) 盛行率逐年下降，但人口老化也是 IE 的風險因子，且施行瓣膜置換手術及裝設心臟植入式電子裝置 (cardiac implantable electronic device, CIED) 的人數逐年升高，因此 IE 的發生率是些微上升的。\n(C) 正確，主動脈瓣狹窄 (aortic stenosis, AS) 的原因有：BAV、RHD、主動脈瓣膜鈣化、放射治療。其中以退化性鈣化最常見。\n(D) 正確，動脈粥狀硬化的危險因子包含肥胖、三高、抽菸等，對於血管內壁及瓣膜造成反覆損傷，導致一系列脂肪沉積、發炎細胞啟動、細胞激素釋放等反應發生，最終由肌纖維母細胞 (myofibroblast) 形成動脈粥狀斑塊、瓣膜鈣化性病灶。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-11_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-11_merged.png"
@@ -27421,7 +27421,7 @@
       "D": "心包膜積水的病人一旦發現有心包填塞（cardiac tamponade），此時應緊急施行心包腔穿刺（pericardiocentesis）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "(A) 錯誤，Beck's triad 應為 hypotension、jugular venous distention 及 distant heart sound。pericardial friction rub 較常出現在 pericarditis（但 cardiac tamponade 也會出現，只是並非 Beck's triad 之一⋯）。其他表現有心搏過速、四肢冰冷、pulsus paradoxus（吸氣時 SBP 下降 10 mmHg 以上）。\n(B) 錯誤，胸部 X 光敏感性及特異性皆低，只能看到心臟外型變大 (cardiac silhouette)，首要安排的檢查為心臟超音波，可發現心包膜積液合併右心房或右心室舒張時被壓扁 (diastolic collapse)。\n(C) 錯誤，兩個是不同機轉而出現的疾病。限制性心肌病大多為心肌被物質浸潤 (amyloid、血基質等)，導致心肌的 compliance 下降、舒張功能異常。而束縮性心包膜炎則為急性心包膜炎後，臟層及壁層的心包膜沾黏，導致心室舒張的空間被限制、舒張功能異常。\n(D) 正確，心包填塞為心肺急症之一，右心被心包積液壓迫，導致舒張功能不良、preload 降低，心肌收縮力跟著降低 (Frank-Starling law)，出現嚴重低血壓。一旦出現症狀加上心超的證據，便可立即施行心包膜穿刺減壓。\n* 近年 cardiac tamponade、constrictive pericarditis、restrictive cardiomyopathy 的比較變得非常愛考，考生可搭配【113-1(三)6】複習！",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-12_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-12_merged.png"
@@ -27440,7 +27440,7 @@
       "D": "左心室射出分率正常的心衰竭（heart failure with preserved ejection fraction）的病人與左心室射"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "(A) 正確，在已開發國家中，CAD 佔心衰竭的 2/3 成因，而 75% 的 CAD 病人有高血壓、10~40% 有糖尿病的共病症。\n(B) 正確，這類親代如何影響子代的研究需要投入大量的時間成本所以很少見，而在心血管方面最著名的 Framingham offspring study 產出了很多研究成果。2006 年發表在 NEJM 的研究針對這群 cross-sectional cohort，收納了 458 名有親代心衰竭病史的後代掃心臟超音波，發現左心室質量增加、左心室內徑增加、左心室收縮功能異常的 odds ratio，較親代沒有心衰竭病史的 1039 名研究參與者高。顯示心衰竭有群聚效應 (aggregation effect)。\n（參考文獻：Lee, Douglas S et al. “Association of parental heart failure with risk of heart failure in offspring.” The New England journal of medicine vol. 355,2 (2006): 138-47.）\n(C) 正確，同 (A) 選項所述。以下補充心臟衰竭的成因：\n\n| 分類 | 原因 |\n| :--- | :--- |\n| 結構病變 | 冠狀動脈阻塞、瓣膜性心臟病、肺動脈高壓 |\n| 浸潤性疾病 | amyloidosis、sarcoidosis |\n| 毒物、藥物 | alcohol、cocaine、doxorubicin、hydroxychloroquine、trastuzumab |\n| 自體免疫 | giant cell myocarditis、lupus myocarditis |\n| 感染性疾病 | Chagas' disease、HIV |\n\n其他 high-output HF 成因有：thyrotoxicosis、AV shunt、cirrhosis、Vit B1 deficiency、anemia、myeloproliferative disease 等。\n(D) 錯誤，病因重疊是正確的，但藥物使用在兩群病人的成效大相逕庭。HFrEF 的病人可以用四大柱：ARNI、beta blocker、MRA、SGLT-2 inhibitor，而根據 QRS 是否 >130ms、LVEF 是否 <35%，可選擇 ICD 或 CRT 等治療選項。而 HFpEF 的病人，治療選項只剩下 SGLT-2 inhibitor 能降低死於心血管疾病的機率、MRA 降低因心衰竭住院的風險，ARNI 及 BB 皆沒有效益。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-13_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-13_merged.png"
@@ -27459,7 +27459,7 @@
       "D": "核子醫學心肌灌注掃描（SPECT）與電腦斷層冠狀動脈造影相比，對於冠狀動脈疾病的診斷更加敏感，尤其是在多支血管疾病的情況下"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "(A) 正確，Myocardial perfusion imaging(MPI) 為評估 CAD 的非侵入式檢查，可用於定位冠狀動脈灌流不足的區域。影像評估分為兩個階段，第一階段在負荷狀態（運動或給予藥物）後 5~10 分鐘內進行掃描，所得影像呈現在圖片中第 1、3、5 排；第二階段為休息 3~4 小時後進行掃描，所得影像呈現在圖片中第 2、4、6 排。\n(B) 正確，負荷狀態下心室中膈處顯影較其他區域少、休息狀態下顯影回復正常，代表在負荷狀態下出現中膈心肌缺血的情形。\n(C) 正確，不論在負荷狀態或是休息狀態下，下壁的顯影皆較少，代表血管可能已完全堵塞，該處的心肌已壞死無法回復。\n(D) 錯誤，多血管疾病會造成 MPI 偵測 CAD 的偽陰性，原因在於沒辦法看出不同區域的心肌灌流量的差異。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-14_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-14_merged.png"
@@ -27478,7 +27478,7 @@
       "D": "病患血清中常出現抗核抗體（antinuclear antibody）、antibody to liver-kidney microsomes（anti-LKM）等自體抗體"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "| 自體免疫肝炎 (autoimmune hepatitis, AIH) | 說明 / 內容 |\n| :--- | :--- |\n| 特性 | 一種慢性疾病，特徵是持續的肝細胞壞死和發炎，通常伴隨纖維化，可能進一步發展為肝硬化和肝功能衰竭。 |\n| 分類 | **Type1**：ANA、anti-smooth muscle Ab (ASMA)、anti-soluble liver antigen (anti-SLA)<br>**Type2**：anti-liver/kidney microsome 1 (anti-LKM1)、anti-liver cytosol type 1 (anti-LC-1)<br>**混和型**：AIH + PBC（若 AMA(+) 或組織學認為像自體免疫膽管炎則懷疑）<br>**藥物引起**：minocycline, nitrofurantoin, infliximab, hydralazine, α-methyldopa, statins |\n| 免疫病理機制 | 細胞免疫在自體免疫性肝炎扮演重要角色。在這類疾病的患者中，CD4+ T 淋巴細胞能夠對患者本身肝細胞膜蛋白產生敏感性，並摧毀肝細胞。免疫調節控制的異常（如調節性 CD4+CD25+ T 細胞影響受損）也可能發生。而遺傳易感性 (genetic predisposition) 研究顯示，某些單倍體基因與該疾病相關，如細胞毒性 T 淋巴細胞抗原 (CTLA-4) 和腫瘤壞死因子 α (TNFA*2) 的基因多型性。<br>* 發生基因突變機率高於 1% 時，稱為基因多型性 (genetic polymorphism)；小於 1% 時，稱作突變 (mutation)。 |\n| 治療 | 高劑量類固醇。最常使用 Prednisone |\n\n由此可知，調節性 T 細胞功能是抑制免疫反應，因此在自體免疫肝炎病人的體內活性應會下降。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-15_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-15_merged.png"
@@ -27497,7 +27497,7 @@
       "D": "Escherichia coli是最常見的感染細菌"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "• 右上腹痛首要考慮肝臟、膽囊、胰臟、小腸、大腸、右腎的問題。\n• 合併發燒，可能暗示有感染或發炎。\n• 根據電腦斷層影像，可見肝臟第二小葉 (seg II) 處有多顆大小不一、邊界清楚、形狀不規則 (irregular) 的低密度 (hypodense) 實質病灶伴隨氣泡。鑑別診斷包括肝膿瘍、肝臟水泡、血管瘤、腺瘤、惡性肝腫瘤、轉移性肝臟病灶等。\n• 根據病人主訴發燒五天，較偏向是急性病灶，因此感染會放在較前面的鑑別診斷。而糖尿病、年紀大都是肝膿瘍的風險因子。其他如男性、肝硬化、免疫不全、有在使用氫離子幫浦，也都是肝膿瘍的風險因子。肝膿瘍病患常見主訴有發燒 (90%)、右上腹痛 (50-75%)、噁心想吐，有時也會抱怨右肩痛（刺激到膈神經）。而肝膿瘍標準治療包括引流及抗生素治療。\n• 因此，下一步應考慮安排的檢查應包括血液培養，確認有無菌血症的可能、考慮針對肝臟病灶進行引流。小於五公分的病灶可以考慮使用細針抽吸，而較大的病灶可以考慮使用經皮引流管置放。若有腹膜炎徵象、膿瘍壁變厚、之前引流失敗者，則需考慮是否需手術引流。\n• 肝膿瘍病患常見多重細菌感染。而在亞洲，糖尿病病人最常見的病原菌是克雷伯氏肺炎桿菌 (Klebsiella pneumoniae)。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-16_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-16_merged.png"
@@ -27519,7 +27519,7 @@
       "D": "糞便體積增加劑（bulking agent）、止瀉劑、瀉劑、抗腸痙攣藥物、血清素促進劑或拮抗劑、抗憂鬱劑、選擇性血清素回收抑制劑等藥物及益生菌可以用來治療"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "| 腸躁症 (irritable bowel syndrome, IBS) | 說明 / 內容 |\n| :--- | :--- |\n| 定義 | 一種常見的腸胃疾病，為功能性胃腸道疾病 (functional GI disease) 的一種。通常以腹部不適為主要症狀，症狀持續 6 個月或更長時間，並至少符合以下兩種情況：<br>(1) 症狀在排便後改善<br>(2) 大便頻率變化<br>(3) 大便形狀變化<br>而腸躁症的症狀可能受到壓力、飲食、生活方式以及微生物群影響。 |\n| 分類 | **IBS-C（便秘為主）**：主要以便秘為特徵。<br>**IBS-D（腹瀉為主）**：主要以腹瀉為特徵。<br>**IBS-M（混合型）**：同時出現便秘和腹瀉。<br>**IBS-U（未分類型）**：症狀不符合其他類型標準。 |\n| 治療方法 | 認知行為療法 (cognitive behavior therapy, CBT)<br>益生菌<br>抗痙攣藥物<br>運動<br>神經調節劑〔例如三環類抗抑鬱藥 (TCA)、選擇性血清素再攝取抑制劑 (SSRI)〕<br>飲食調整〔如低發酵碳水化合物飲食（低 FODMAP 飲食）、無乳糖飲食〕 |\n| 針對不同亞型治療 | **IBS-C（便秘為主）**：<br>• 增加纖維攝取<br>• 瀉藥 (lubiprostone, linaclotide, tegaserod, tenapanor 等)<br>• 生物反饋療法<br>**IBS-D（腹瀉為主）**：<br>• 止瀉藥 (Loperamide, rifaximin, eluxadoline, bile acid sequestrants 等) |\n| 鑑別診斷 | **IBS**：功能性問題；Faecal calprotectin (-)<br>**IBD**：發炎；糞便潛血 faecal occult blood test (FOBT) (+)、糞便白血球增加 →(A) 是 IBD 而非 IBS |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-17_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-17_merged.png"
@@ -27538,7 +27538,7 @@
       "D": "小腸阻塞時，腸音常會先由正常變慢（hypoactive）進展為無腸音（absent bowel sound）。之後因為腸子加速蠕動，會形成高頻（high-pitched）快速蠕動的腸音"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "(A)(B)(C) 正確。\n(D) 腸阻塞患者早期腸子蠕動反而會增加，因此會有高頻、音樂性叮噹聲和被稱為腹鳴 (borborygmi) 的蠕動聲。然而，隨著病情的進展，腸音會逐漸減少或消失。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-18_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-18_merged.png"
@@ -27557,7 +27557,7 @@
       "D": "十至十四日療程之bismuth quadruple therapy（proton pump inhibitor, bismuth, tetracycline,metronidazole）"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "考幽門桿菌治療。\n\n### 幽門桿菌 (H. pylori) 感染者治療流程\n\n| 病人狀況 | 條件 / 策略 | 建議處方 |\n| :--- | :--- | :--- |\n| 有 penicillin 過敏史 | — | 鉍劑四合一 |\n| 無 penicillin 過敏史 (需要行胃鏡) | 可以檢測抗藥性 | 抗藥性引導治療（依照藥敏選藥） |\n| 無 penicillin 過敏史 (需要行胃鏡) | 無法檢測抗藥性 | 依區域 Clarithromycin 抗藥性盛行率選藥：<br>• ≥15-20%：鉍劑四合一、非鉍劑四合一<br>• <15%：鉍劑四合一 或 非鉍劑四合一 或 三合一 |\n| 無 penicillin 過敏史 (不需行胃鏡) | — | 依區域 Clarithromycin 抗藥性盛行率選藥：<br>• ≥15-20%：鉍劑四合一、非鉍劑四合一<br>• <15%：鉍劑四合一 或 非鉍劑四合一 或 三合一 |\n\n### 第一線處方\n\n| 處方名稱 | 天數 | 早 | 中 | 晚 | 睡前 |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **三合一 (14 天)** | | | | | |\n| PPI-CA Triple (Therapy) | 14 天 | PPI + CLARITH + AMOX 或 MNZ | | PPI + CLARITH + AMOX 或 MNZ | |\n| **非鉍劑四合一 (14 天)** | | | | | |\n| Concomitant therapy | 14 天 | PPI + CLARITH + AMOX + MNZ | | PPI + CLARITH + AMOX + MNZ | |\n| Sequential therapy | 前 7 天 | PPI + AMOX | | PPI + AMOX | |\n| | 後 7 天 | PPI + CLARITH + MNZ | | PPI + CLARITH + MNZ | |\n| Hybrid therapy | 前 7 天 | PPI + AMOX | | PPI + AMOX | |\n| | 後 7 天 | PPI + CLARITH + AMOX + MNZ | | PPI + CLARITH + AMOX + MNZ | |\n| Reverse hybrid therapy | 前 7 天 | PPI + CLARITH + AMOX + MNZ | | PPI + CLARITH + AMOX + MNZ | |\n| | 後 7 天 | PPI + AMOX | | PPI + AMOX | |\n| **鉍劑四合一** | | | | | |\n| Bismuth quadruple therapy | 10/14 天 | PPI + Bismuth + TET + MNZ | Bismuth + TET + MNZ | PPI + Bismuth + TET + MNZ | Bismuth + TET |\n\nPPI, proton pump inhibitor; CLARITH, clarithromycin; AMOX, amoxicillin; MNZ, metronidazole; TET, tetracycline\n\n由上表可知，三合一、非鉍劑四合一都是 14 天、鉍劑四合一則是 10 或 14 天。標準劑量無 7 天療法。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-19_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-19_merged.png"
@@ -27576,7 +27576,7 @@
       "D": "鼻胃管引流"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "| 急性胰臟炎處置 | 說明 | 備註 / 詳細內容 |\n| :--- | :--- | :--- |\n| 積極輸液 | 第一個 24 小時要積極輸液（最重要）：<br>20ml /kg IVB → 3ml/kg/hr | 輸液：lactate ringer (LR) 優於 normal saline (NS)<br>(LR 可降低 SIRS 的機率) |\n| 營養 | 建議早期經腸營養 | • 輕微胰臟炎：沒有嘔吐或腸麻痺就可以開始進食。低油低渣飲食和流質飲食一樣安全，且可減少住院天數。<br>• 嚴重胰臟炎：建議早期 (48-72 小時) 經腸營養，且感染風險較低，比 TPN 好。 |\n| 止痛 | 靜脈注射鴉片類藥物 | 監測呼吸、腎功能 |\n| 取石 | 若為膽結石胰臟炎 (Gallstone pancreatitis)，且合併膽管炎 / 敗血性休克 / T.bili ≥ 5，建議 24 小時內緊急 ERCP 取石 | • 較輕微者，建議早期進行膽囊切除術，降低再復發率<br>• 太嚴重進展到壞死性胰臟炎者，建議等發炎及積液 (fluid collection) 緩解後再進手術。 |\n| 降 TG | 胰島素（可活化脂蛋白解脂酶）、纖維酸衍生物 (fibrates)<br>+/- 分離術 (apheresis)（離心後直接撈掉血漿上面那層油） | |\n| 抗生素 | 若無感染症狀，不需使用預防性抗生素 | |\n\n因此，最重要的還是積極輸液穩定生命徵象，接著再評估患者是否適合去做 ERCP 取石。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-20_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-20_merged.png"
