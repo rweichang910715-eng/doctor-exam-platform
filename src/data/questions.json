@@ -27975,7 +27975,7 @@
       "D": "t(9;11)與DEK-NUP214"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "一翻兩瞪眼的題目，AML 的染色體變化與相對應基因融合如下表：\n\n| 染色體變化 | 基因融合 | Risk category |\n| :--- | :--- | :--- |\n| t(8;21) | RUNX1-RUNX1T1 | Favorable |\n| inv(16) or t(16;16) | CBFB-MYH11 | Favorable |\n| t(9;11) | MLLT3-KMT2A | Intermediate |\n| t(6;9) | DEK-NUP214 | Adverse |\n| t(9;22) | BCR-ABL1 | Adverse |\n| t(1;22) | RBM15-MKL1 | |\n| t(15;17) | PML-RARA | |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-41_merged.png",
     "explanation_images": null
   },
@@ -27992,7 +27992,7 @@
       "D": "其血液學的表現可以是全血球低下（pancytopenia）"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "(A)(B) 正確。Megaloblastic anemia 通常是因為維生素 B12 或葉酸缺乏引起，但也可能是其他疾病間接影響到維生素 B12 或葉酸代謝，或者是 DNA 合成異常直接導致（如某些 AML、影響 DNA 合成的化療藥物、Orotic aciduria、Thiamine-responsive megaloblastic anemia 等）。其骨髓通常呈現 Hypercellular，而貧血的主要原因為無效造血 (Ineffective erythropoiesis)。\n(C) 錯誤，形成原因為 DNA 合成 (DNA synthesis) 過程受阻。DNA 合成有四種前驅物 (dATP、dGTP、dTTP、dCTP)，其中 dTTP 的前驅物 (dTMP) 需要由 dUMP 轉換而來，此過程需葉酸循環中的 5,10-methylene-THF 作為輔酶。無論是葉酸或維生素 B12 缺乏，都會導致 5,10-methylene-THF 不足，進而導致 DNA 合成過程異常。\n(D) 正確。由於是 DNA 合成異常，因此紅血球、白血球、血小板數量都有可能被影響到，但白血球數量通常高於 1500/μL，血小板數量通常高於 40000/μL。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-42_merged.png",
     "explanation_images": null
   },
@@ -28009,7 +28009,7 @@
       "D": "非HIV感染相關之何杰金氏淋巴癌細胞裡幾乎都看得到EBV感染的證據"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "Hodgkin's lymphoma (HL) 是來自 Mature B lymphocyte 的惡性腫瘤，而 Non-Hodgkin's lymphoma 則可能來自成熟的 B cell、T cell 和 NK cell，故此題選 (A)。\nHIV 與 EBV 感染都是都是 HL 的 Risk factors，以典型的 Hodgkin's lymphoma (Classical HL) 來說，幾乎所有跟 HIV 相關的 HL 其癌細胞都可以檢測出 EBV，而非 HIV 相關的 HL 則只有約 1/3 可以檢測出 EBV。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-43_merged.png",
     "explanation_images": null
   },
@@ -28026,7 +28026,7 @@
       "D": "多血症（polycythemia）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "Multiple myeloma (MM) 的重要臨床表現可以用 SLiM-CRAB 記憶\n\n| 指標 / 分類 | 項目 | 診斷標準 |\n| :--- | :--- | :--- |\n| **Biomarkers** | | |\n| S | Sixty percent | 骨髓切片中的 Plasma cell percentage ≥ 60% |\n| Li | Light chain ratio | 血漿中增加的 Free light chain/ 未增加的 Free light chain ≥ 100 |\n| M | MRI lesion | MRI 看到 ≥1 個 Focal lesion |\n| **End-organ damage** | | |\n| C | Hypercalcemia | 血鈣高於 11 mg/dL（或高於正常值上限 1mg/dL 以上） |\n| R | Renal | Creatinine clearance < 40 ml/min 或 Serum creatinine > 2 mg/dL |\n| A | Anemia | Hb 低於 10 g/dL（或低於正常值下限 2 g/dL 以上） |\n| B | Bone lesion | 骨頭 X 光、CT 或 PET-CT 看到一個或以上的 Osteolytic lesions |\n\n由此可知 MM 貧血比較常見，最不可能是 Polycythemia，故選 (D)。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-44_merged.png",
     "explanation_images": null
   },
@@ -28043,7 +28043,7 @@
       "D": "micronodules"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "Usual interstitial pneumonia (UIP) 是 Idiopathic pulmonary fibrosis (IPF) 的表現，原本是指組織學的變化，後來亦用以形容影像學上的發現。\n\n| 項目 | 特徵 |\n| :--- | :--- |\n| High-resolution CT (HRCT) 特徵 | • 異常主要分布在 Subpleural、Basal 處，且通常不均勻 (Heterogenous)。<br>• 異常包含：Reticulation、Honeycombing appearance、Traction bronchiectasis。<br>• 通常沒有以下特徵：病灶分佈在氣管或血管旁 (Peribronchovascular)、廣泛的毛玻璃樣變化、Cysts、Consolidation、廣泛的 Micronodules。 |\n| 組織學特徵 | • 明顯的纖維化或結構扭曲，± 肋膜下或 Septum 旁出現 Honeycombing 變化。<br>• 塊狀的肺實質纖維化。<br>• Fibroblast foci。<br>• 排除其他診斷。 |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-45_merged.png",
     "explanation_images": null
   },
@@ -28060,7 +28060,7 @@
       "D": "慢性阻塞性肺病"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "四個選項都有可能會呼吸困難、胸痛，但心衰竭、肺栓塞（常合併 Deep vein thrombosis）比較容易出現腳水腫，其中心衰竭通常是雙側，DVT 通常是單側，故選 (B)。\n單側或雙側的下肢水腫考量的鑑別診斷會不太一樣。\n\n| 水腫型態 | 鑑別診斷與原因 |\n| :--- | :--- |\n| 雙側下肢水腫 | • 心臟：心衰竭、Constrictive pericarditis、肺高壓<br>• 肝臟：肝硬化<br>• 腎臟：ESRD、Nephrotic syndrome<br>• 藥物：NSAIDs、高血壓藥物 (CCB、Direct arterial vasodilators)、Steroid hormones (Glucocorticoid、Estrogens、Progestins) |\n| 單側下肢水腫 | • 靜脈阻塞：單側 Deep vein thrombosis、單側淋巴結腫大或腫瘤（而壓迫靜脈）、May-Thurner syndrome（右髂動脈壓左髂靜脈）、Venous insufficiency（靜脈功能不佳使血液鬱積）。<br>• 淋巴水腫：腫瘤、手術後、放射治療後<br>• 感染：蜂窩性組織炎、丹毒 (Erysipelas)。<br>• 其他：Baker cyst、燒傷、外傷、血管性水腫 (Angioedema)。 |\n\n註：單側下肢水腫的一些原因（如靜脈阻塞、淋巴水腫）亦可能以雙側水腫表現。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-46_merged.png",
     "explanation_images": null
   },
@@ -28077,7 +28077,7 @@
       "D": "抗生素治療時間通常為7～10天；必要時，需進行手術"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "肺膿瘍 (Lung abscess) 是肺部被微生物感染後引起壞死以及空洞化 (Necrosis and cavitation)，大多為單側且 >2cm。可分為原發性肺膿瘍 (Primary lung abscesses) 以及次發性肺膿瘍 (Secondary lung abscesses)，亦可依病程分為 Acute (<4-6 週，佔 60%) 或 Chronic。\n\n| 比較項目 | Primary | Secondary |\n| :--- | :--- | :--- |\n| 佔比 | 80% | 20% |\n| 定義 | 病人原本沒有肺部或全身性疾病，大多因吸入性肺炎引起。 | 病人肺部原本有疾病而導致支氣管阻塞（如異物或腫瘤壓迫），或有全身性疾病（如 HIV、免疫不全）。 |\n| 病原 | 口腔的厭氧菌 (Peptostreptococcus spp.、Prevotella spp.、Bacteroides spp.、Streptococcus milleri)、Microaerophilic streptococci | Staphylococcus aureus、Gram-negative rods (Pseudomonas aeruginosa、Enterobacteriaceae)、Nocardia spp.、Aspergillus spp.、Mucorales、Cryptococcus spp. |\n| 好發位置 | • Posterior upper lobes、Superior lower lobes<br>• 通常好發右肺（因為右支氣管比較直） | 根據不同 Underlying diseases 好發位置不同 |\n| 臨床表現 | • 類似肺炎：發燒、咳嗽、有痰、胸痛。<br>• 慢性（通常為厭氧菌感染）可能表現夜間盜汗、疲倦、貧血，痰的味道通常很臭。<br>• 若為非厭氧菌感染（如 S. aureus）則病程可能較猛爆且進展快速，常伴隨高燒。 | |\n| 檢查 | • CXR：有厚壁的空腔，可能看到 Air-fluid level<br>• CT：更容易看到 Cavitation，也可提供其他資訊（如是否為腫瘤壓迫引起、區分肺部感染和肋膜腔感染） | |\n| 藥物治療 | • Clindamycin 或 β-lactam/β-lactamase combination，單用 Metronidazole 沒用（對 Microaerophilic streptococci 無效）。<br>• 需治療到影像上看得到肺膿瘍，通常需 3 週以上，甚至可能達 14 週。 | 需根據感染菌種以及病人的免疫狀態選擇抗生素，且通常需要治療較久。 |\n| 手術介入 | 約 10-20% 病人對抗生素治療完全沒反應（持續發燒、膿瘍變大），而 6-8 公分以上的膿瘍對於單純抗生素治療的反應較差，這些患者需外科切除或經皮引流介入治療。 | |\n| 預後 | Primary lung abscesses 預後較好，Secondary lung abscesses 預後較差。其他預後較差的因素包含：年紀較大 (>60 歲)、好氧菌感染、就診時即敗血症、症狀持續 8 週以上、膿瘍大於 6 公分。 | |\n\n除了 Primary 以及 Secondary 外，肺膿瘍亦可能來自 Septic emboli，如 Tricuspid valve endocarditis（常見 S. aureus 感染）或 Lemierre's syndrome（咽喉的 Fusobacterium necrophorum 感染，擴散到頸部以及 Carotid sheath 裡的 Jugular vein，引起靜脈炎以及血栓）。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-47_merged.png",
     "explanation_images": null
   },
@@ -28094,7 +28094,7 @@
       "D": "因為發生在藥物使用後，應立即給與腎上腺素（epinephrine）及其他輔助藥物，如：抗組織胺、類固醇"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "此病人在藥物輸注 10 分鐘後開始出現過敏反應，且伴隨血壓下降，懷疑可能為 Anaphylactic shock，處置首選為 Epinephrine 肌肉注射。\n\n| Anaphylaxis 處置 | 說明 |\n| :--- | :--- |\n| Epinephrine | 0.3-0.5 ml (1mg/ml) epinephrine IM，可以每 5 分鐘至每 20 分鐘重複注射（依照症狀嚴重度決定注射時間間隔）<br>治療首選，症狀出現的 20 分鐘內沒有使用 Epinephrine 預後可能會變差。 |\n| 輔助藥物 | Antihistamine、Glucocorticoid、Bronchodilator 可以治療蕁麻疹、血管水腫以及支氣管痙攣，但藥物依然要以 Epinephrine 為優先。 |\n| 擺位 | 如果病人為站姿或坐姿可能會導致靜脈回流不足 (Empty ventricle syndrome)，且使用 Epinephrine 可能會加劇此狀況，故需在給藥前先讓病人躺下。 |\n| 氧氣與吸入性支氣管擴張劑 | 一般狀況使用 Nasal canula 加上 Nebulized albuterol 可能有幫助，但在病人缺氧嚴重時依然要考慮插管甚至氣切。 |\n| IV fluid 與升壓劑 | 在低血壓無法矯正時給予。 |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-48_merged.png",
     "explanation_images": null
   },
@@ -28111,7 +28111,7 @@
       "D": "僅①④"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "①：吸入性肺炎的病人通常會有一些風險因子（如酗酒、之前中風導致神經學異常、意識狀態改變、神經肌肉疾病、食道阻塞、口腔衛生差），痰液染色呈現許多白血球且有多種細菌混合。此病人沒有明顯風險因子（之前腦血管栓塞但沒有後遺症）且痰液染色沒有看到多菌種，故較不像吸入性肺炎。\n②③：此病人近期沒有住院，應為社區型肺炎，加上痰液染色看到革蘭氏陽性雙球菌，故最可能感染的菌種為 Streptococcus pneumoniae。也因為非院內肺炎，痰液染色沒有相關證據，故暫時無需涵蓋 Pseudomonas aeruginosa。\n④：肺炎病人有肋膜積液可能為 Parapneumonic effusion，當可以抽胸水時（即側躺時水深 >1cm）就應該做 Thoracentesis 取得胸水化驗。若胸水結果為 Exudate 且符合以下任一點，即為 Complicated parapneumonic effusion，通常需做更進一步的引流治療。\n(1) Loculated pleural fluid。\n(2) pH < 7.2。\n(3) Glucose < 60 mg/dL。\n(4) Gram stain 或 Culture 結果陽性。\n(5) 肉眼看起來就是膿（此稱為膿胸 Empyema）。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-49_merged.png",
     "explanation_images": null
   },
@@ -28128,7 +28128,7 @@
       "D": "支氣管擴張劑（bronchodilator）霧化治療"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "COPD acute exacerbation 的治療方式如下：\n\n| 處置類別 | 治療方式與說明 |\n| :--- | :--- |\n| 支氣管擴張劑 | • β-agonists、Muscarinic antagonists 可以單用也可以一起使用，通常使用霧化吸入治療（因為在呼吸窘迫的病人給藥比較方便）。<br>• 可以考慮加上 Theophylline，但目前沒什麼實證支持，如果要用的話需要監測血中濃度以免中毒。 |\n| 抗生素 | COPD 急性發作常見的菌種包含 S. pneumoniae、H. influenzae、M. catarrhalis、Chlamydia pneumoniae、病毒感染。中重度的急性發作無論是否有證據證明感染，通常都會使用抗生素治療。 |\n| 類固醇 | 急性發作而住院的病人，使用類固醇可以減少住院天數、加快恢復以及減少再次發作的機會，目前建議 30-40 mg prednisolone PO for 5-10 days。 |\n| 氧氣 | 給予氧氣維持血氧濃度 90% 以上（雖然 COPD 的病人因為長期二氧化碳滯留，給氧氣可能會呼吸抑制，但在急性發作時依然要給氧氣矯正低血氧）。 |\n| NIPPV | • 在 PaCO2 > 45 mmHg 的呼吸衰竭病人使用 Noninvasive positive-pressure ventilation (NIPPV) 可以降低死亡率、減少插管需求、減少住院天數、減少治療併發症。<br>• NIPPV 禁忌症通常就是插管適應症（如嚴重呼吸衰竭、血行動力學不穩定、意識狀態極差等），此時需插管治療而不可使用 NIPPV。 |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-50_merged.png",
     "explanation_images": null
   },
