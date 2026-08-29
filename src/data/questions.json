@@ -28143,7 +28143,7 @@
     },
     "answer": "B",
     "explanation": "此病人 CXR 無異常但 Acid-fast stain 陽性（即 AFB(+)），需做 NAAT 確認是 TB 還是 NTM，故選 (B)。\n\n根據 Harrison 21st edition，Nucleic acid amplification test (NAAT) 是目前建議的第一線診斷工具，如 Xpert MTB/RIF assay 可以在 2 小時內同時偵測 TB 以及 Rifampin resistance 抗藥性，診斷肺部 TB 的敏感性 85%（若 AFB 陽性可達 98%），特異性 98%。而 Acid-fast stain 的敏感性僅有 40-60%，且陰性無法排除 TB，陽性也無法區分是 TB 或是 NTM。\n\n根據台灣結核病診治指引第七版，若病人 CXR 高度懷疑為肺結核，應做痰塗片、細菌培養以及 NAAT，其中痰塗片、細菌培養的檢體最好要三套（至少兩套），且至少一套為清晨的檢體，結果判讀如下：\n\n| AFB(+) | 可診斷為肺結核，但仍建議做 NAAT |\n| :--- | :--- |\n| **AFB(-)，NAAT(+)** | 可依臨床判斷診斷為肺結核或再做一次 NAAT |\n| **AFB(-)，NAAT(-)** | 給抗生素治療一週後再做一次 CXR 看有沒有改善 |\n\n對於 CXR 肺結核可能性不高但無法完全排除者，視狀況做痰塗片、細菌培養以及 NAAT（若可能性很低則不建議做 NAAT），結果判讀如下：\n\n| AFB(+) | 一定要做 NAAT，確認為 TB 或 NTM（本題病人屬於此類） |\n| :--- | :--- |\n| **AFB(-)，NAAT(+)** | 可依臨床判斷或再做一次 NAAT |\n| **AFB(-)，NAAT(-)** 或沒做 | 肺結核無法完全排除，但應先考量其他疾病 |\n\n總而言之，為了加速肺結核的正確診斷，疑似肺結核的病人都應該要做 NAAT，而對於 CXR 顯示可能性不高但 AFB 陽性者更是應該要做 NAAT。\n參考資料：台灣結核病診治指引第七版",
-    "explanation_image": null,
+    "explanation_image": "/explanations/cropped/113-2-醫學(三)-51_merged.png",
     "explanation_images": null
   },
   {
@@ -28160,7 +28160,7 @@
     },
     "answer": "C",
     "explanation": "(A) 正確。女性在 35 歲之後，卵巢功能以及生育能力就開始下降，而停經約在 50 歲左右發生。\n(B) 正確。女性更年期會造成的症狀中，潮紅、夜間盜汗、不規則出血、陰道乾燥有較強的實證證據；睡眠問題則有中等的實證證據；情緒變化、憂鬱、記憶力變差、尿失禁等則尚無定論。\n(C) 錯誤。由於卵巢功能下降，雌二醇 (estradiol)、抑制素 (inhibin) 會減少，同時負回饋刺激濾泡刺激素 (follicle-stimulating hormone, FSH) 增加。\n(D) 正確。單用雌激素治療的好處在於更年期症狀改善、骨質密度增加和骨折風險減少；壞處在於子宮內膜癌、肺栓塞、深層靜脈栓塞、膽囊疾病之風險皆升高。若是合併使用雌激素和黃體素，則子宮內膜癌風險減少，但乳癌風險升高。",
-    "explanation_image": null,
+    "explanation_image": "/explanations/cropped/113-2-醫學(三)-52_merged.png",
     "explanation_images": null
   },
   {
@@ -28177,7 +28177,7 @@
     },
     "answer": "A",
     "explanation": "basal-bolus 胰島素注射法是指以長效的 basal 胰島素維持平時的血糖穩定、防止酮體產生，再加上短效的 bolus/prandial 胰島素控制餐後血糖，即本題的 (A)。一般來說，第一型糖尿病患者會從 basal-bolus 胰島素注射法開始，如果控制差再增加劑量。\n(B) 錯誤。睡前給予一次長效型的胰島素注射作為 basal 是合理的（如：insulin glargine）；錯在預混型的胰島素無法獨立調整長短效的劑量，不適合做 bolus 的注射，預混型胰島素主要用於配合度差的病人，透過增加方便性和簡化流程來提高醫囑遵從，稱為 conventional 胰島素注射法。\n(C) 錯誤。此給法只有 basal 劑量。\n(D) 錯誤。此給法只有 bolus 劑量。\n在此補充常常考的胰島素種類（每本書的數值會有一點差異，本處採用原文書 Goldman-Cecil）：\n\n| | onset | peak | duration of action |\n| :--- | :--- | :--- | :--- |\n| **Bolus insulin** | | | |\n| Lispro, aspart, glulisine | 5-15 分鐘 | 45-75 分鐘 | 2-4 小時 |\n| Regular insulin | 30 分鐘 | 2-4 小時 | 5-8 小時 |\n| **Basal insulin** | | | |\n| NPH | 2 小時 | 6-12 小時 | 14-24 小時 |\n| Detemir | 2 小時 | 3-9 小時 | 6-24 小時 |\n| Glargine | 2 小時 | 無 | 24 小時 |\n| Degludec | 2 小時 | 無 | 40 小時 |",
-    "explanation_image": null,
+    "explanation_image": "/explanations/cropped/113-2-醫學(三)-53_merged.png",
     "explanation_images": null
   },
   {
@@ -28194,7 +28194,7 @@
     },
     "answer": "C",
     "explanation": "糖尿病下肢病變有多重病因，包含：神經病變、周邊動脈疾病、異常足部生物力學、傷口不易癒合等。一方面，神經病變會導致生理的保護機制失效，造成不自覺的傷口、對於本體感覺和運動功能的影響也會使足部構造變化（如：Charcot joint）、對於自主神經的影響則會改變表層的血流，導致組織死亡；另一方面，周邊動脈疾病和傷口不易癒合導致皮膚屏障缺陷，增加感染機會。其處置包含篩檢高風險族群（如：男性、糖尿病超過十年、抽菸等）、衛教、預防措施等。\n(A) 正確。詳見上述。\n(B) 正確。血管血流變化會導致皮膚壞死，也會阻礙癒合。\n(C) 錯誤。衛教是預防策略重要的一環，包含：鞋子的選擇、足部清潔、定期檢查小傷口、避免赤腳走路等。\n(D) 正確。足部須避免患部的外來壓力，特別是在骨頭結構異常處，屬於預防措施之一。其他介入措施包含：輔具、足繭和指甲照護等。",
-    "explanation_image": null,
+    "explanation_image": "/explanations/cropped/113-2-醫學(三)-54_merged.png",
     "explanation_images": null
   },
   {
@@ -28211,7 +28211,7 @@
     },
     "answer": "C",
     "explanation": "(A) 錯誤。身體質量指數 (body mass index, BMI) = 體重 (kg) / 身高平方 ($\\text{m}^2$)；體重 100 公斤，身高 180 公分之男子，其 BMI 為 30.9。\n(B) 錯誤。世界衛生組織定義之過重為 $\\text{BMI} \\ge 25$，肥胖為 $\\text{BMI} \\ge 30$；衛生福利部定義之過重為 $\\text{BMI} \\ge 24$，肥胖為 $\\text{BMI} \\ge 27$。皆無男女差異，且數值皆與選項所述不符。\n(C) 正確。瘦素由脂肪組織分泌，會活化下視丘 POMC 神經元，同時抑制 NPY/AGRP 神經元，促進能量消耗並減少能量攝取。其他與能量平衡相關之激素補充如下：\n\n| 減少能量攝取 | 脂肪細胞：leptin、胃：CCK、小腸：GLP-1 和 GIP、大腸：peptide YY 和 oxyntomodulin、胰臟：insulin |\n| :--- | :--- |\n| **增加能量攝取** | 胃：ghrelin |\n\n(D) 錯誤。由於瘦素主要由脂肪組織分泌，肥胖者脂肪組織多，瘦素濃度會比一般人高，然而，在一定濃度以上的瘦素會失去效用，稱為瘦素阻抗 (leptin resistance)，所以即便瘦素變多，仍會產生肥胖。",
-    "explanation_image": null,
+    "explanation_image": "/explanations/cropped/113-2-醫學(三)-55_merged.png",
     "explanation_images": null
   },
   {
@@ -28228,7 +28228,7 @@
     },
     "answer": "C",
     "explanation": "(C) 甲狀腺細針穿刺細胞學檢查可以提供病理診斷，是「術前」判斷良惡性的黃金標準。\n大約在 5% 的成人身上摸得到甲狀腺結節，一般來說，會先測甲狀腺功能，如果 TSH 低，加上放射性碘檢查 (radionuclide scan) 確定是功能性結節 (hot nodule)，則大多是良性，不須進一步穿刺；反之，如果 TSH 正常，則會用超音波判斷結節是否需要進一步穿刺，進行甲狀腺細針穿刺細胞學檢查 (fine needle aspiration, FNA) 後，會依據 Bethesda Classification 做良惡性的分類和處置：\n\n| 分類 | 惡性或 NIFTP 之風險 | 處置 |\n| :--- | :--- | :--- |\n| **I. nondiagnostic or unsatisfactory** | 5-10% | 用超音波引導重新 FNA，若是原本超音波懷疑是良性，也可考慮追蹤觀察 |\n| **II. benign** | 0-3% | 追蹤 |\n| **III. atypia or follicular lesion of unknown significance (AUS/FLUS)** | 10-30% | 重新 FNA、診斷性手術或分子檢測 (molecular testing) |\n| **IV. follicular neoplasm** | 25-40% | 診斷性手術或分子檢測 |\n| **V. suspicious of malignancy** | 50-75% | 手術或分子檢測 |\n| **VI. malignant** | 97-99% | 手術 |\n\n值得注意的是重要觀念是，因為 follicular carcinoma 的細胞核本身不具特異表現，FNA 通常無法分辨 follicular neoplasm 是良性或是惡性；另外，【113-2(五)40】提到的 noninvasive follicular thyroid neoplasm with papillary-like nuclear features (NIFTP)，雖然與惡性腫瘤不同，但其診斷必須仰賴手術後病理，因此 Bethesda Classification 計算的風險中也包含 NIFTP 的風險。",
-    "explanation_image": null,
+    "explanation_image": "/explanations/cropped/113-2-醫學(三)-56_merged.png",
     "explanation_images": null
   },
   {
@@ -28245,7 +28245,7 @@
     },
     "answer": "C",
     "explanation": "分泌生長激素的腦下垂體腫瘤會造成肢端肥大症，而第一線的治療即是 (B) 經蝶鞍手術 (transsphenoidal surgery) 切除腫瘤，對於沒有辦法手術或切除後有殘餘腫瘤分泌者，才會考慮用 (D) 體抑素類似物 (somatostatin analogue，如：octreotide)，此外，術後生長激素輕微升高的患者可考慮 (C) 多巴胺受體作用劑 (dopamine receptor agonist，如：高劑量 cabergoline)。若是上述方法皆無效，則須考慮重新手術或加上生長激素受體抑制劑 (pegvisomant)，而 (A) 放射線治療效果慢且容易造成腦下垂體功能低下，是最後線的手段。\n\n值得注意的是，腦下垂體腫瘤中，手術通常是第一線治療，除了泌乳素瘤 (prolactinoma)。泌乳素瘤長的慢，無症狀無需治療，有症狀時，首要任務是控制泌乳激素，第一線治療為多巴胺受體作用劑（如：bromocriptine 或 cabergoline），可以抑制分泌同時減少腫瘤體積，若對藥物有抗性或造成視神經壓迫，則須考慮手術。同理，放射線治療是最後線的手段。",
-    "explanation_image": null,
+    "explanation_image": "/explanations/cropped/113-2-醫學(三)-57_merged.png",
     "explanation_images": null
   },
   {
@@ -28262,7 +28262,7 @@
     },
     "answer": "C",
     "explanation": "疾病甲狀腺正機能症 (sick euthyroid syndrome) 為一種甲狀腺以外的急性疾病造成之甲狀腺激素變化。low $\\text{T}_3$ syndrome 是最常見的表現，此時 type 2 deiodinase 會減弱、type 3 deiodinase 增加，導致 $\\text{T}_4$ 無法正常轉換為 $\\text{T}_3$，反而變成無功能的 reverse $\\text{T}_3$，且 reverse $\\text{T}_3$ 的代謝也因 type 2 deiodinase 減弱而受阻，造成 total 及 unbound $\\text{T}_3$ 下降、$\\text{T}_4$ 和 TSH 不變、而 reverse $\\text{T}_3$ 上升的臨床表現，另外，$\\text{T}_3$ 下降的程度會和急性疾病之嚴重度相關。\n\n然而，若是疾病非常嚴重，全身灌流不足時，肌肉和肝臟會加速 $\\text{T}_3$ 和 $\\text{T}_4$ 的代謝，導致 total $\\text{T}_3$ 和 $\\text{T}_4$ 都下降，為 low $\\text{T}_4$ syndrome，預後極差。\n\n回到本題可知，reverse $\\text{T}_3$ 是診斷疾病甲狀腺正機能症最關鍵的一環。",
-    "explanation_image": null,
+    "explanation_image": "/explanations/cropped/113-2-醫學(三)-58_merged.png",
     "explanation_images": null
   },
   {
@@ -28279,7 +28279,7 @@
     },
     "answer": "C",
     "explanation": "Harrison 上有關醫療照護相關感染導致的 UTI 段落裡就直接寫放導尿管後每天 3-7% 風險產生感染，解題上只能猜測既然是個常見的危險因子，風險應該至少有個 1% 以上，30% 好像又太多，所以選 (C)。\n以下補充常見的醫療照護相關感染 (Health care-associated infections or nosocomial infections)",
-    "explanation_image": null,
+    "explanation_image": "/explanations/cropped/113-2-醫學(三)-59_merged.png",
     "explanation_images": null
   },
   {
@@ -28296,7 +28296,7 @@
     },
     "answer": "C",
     "explanation": "(C) Macrolides 為抑制蛋白質合成。\n\n| 機轉 | 抗生素 |\n| :--- | :--- |\n| **抑制細胞壁合成** | $\\beta$-lactams、Glycopeptides (Vancomycin、Teicoplanin)、Lipoglycopeptides (Telavancin、Dalbavancin、Oritavancin)、Bacitracin、Fosfomycin |\n| **抑制蛋白質合成** | 16S rRNA : Aminoglycosides、Tetracyclines (Doxycycline、Minocycline、Tetracycline)<br>23S rRNA : Macrolides (Azithromycin、Clarithromycin、Erythromycin)、Ketolides (Telithromycin)、Lincosamides (Clindamycin)、Chloramphenicol、Oxazolidinones (Linezolid、Tedizolid) |\n| **抑制葉酸合成** | Sulfonamides (Sulfadiazine、Sulfisoxazole、Sulfamethoxazole)<br>Trimethoprim |\n| **抑制 DNA、RNA 合成或活性** | Quinolones、Rifamycins (Rifampin、Rifabutin、Rifapentine)、Nitrofurantoin、Metronidazole |\n| **破壞細胞膜完整性** | Polymyxins、Daptomycin |",
-    "explanation_image": null,
+    "explanation_image": "/explanations/cropped/113-2-醫學(三)-60_merged.png",
     "explanation_images": null
   },
   {
