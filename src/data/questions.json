@@ -28485,7 +28485,7 @@
       "D": "外在環境（external environment）"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "理想療癒環境 (optimal healing environment, OHE) 的目的在於營造對病人、其家屬以及醫療提供者一個具療癒性的醫療體系，層次上由內在到外在可以分成四個環境、八個面向：\n\n| 環境 | 面向 |\n| :--- | :--- |\n| 內在環境 (inner personal environment) | Healing intention、Personal wholeness |\n| 人際環境 (interpersonal environment) | Healing relationships、Healing organizations |\n| 行為環境 (behavioral environment) | Healthy lifestyles、Integrative care |\n| 外在環境 (external environment) | Healing spaces、Ecological resilience |\n\n本題持續地進行自我反思 (self-reflective process) 屬於內在環境的 Healing intention。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-71_merged.png",
     "explanation_images": null
   },
@@ -28502,7 +28502,7 @@
       "D": "可能有憂鬱症，應進一步確認診斷"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "老人憂鬱症篩檢量表 (GDS-15) 是針對 65 歲以上長者的憂鬱篩檢工具，和其他量表（如：PHQ-9）相比，GDS 採用是非題、不包含身體症狀，造成之偏誤較少，故更適合共病症多的長者。其分數切點沒有一致定論，台灣衛福部心理健康司的篩檢切點為：7-10 分可能有中度憂鬱，11 分以上可能有重度憂鬱。\n(A)(B) 錯誤。GDS 達 9 分已超過 7 分之切點，需要轉介心理輔導、諮商等相關資源。\n(C) 錯誤。應該找心理輔導或諮商資源（衛福部的「衛」）而不是社福單位（衛福部的「福」）。\n(D) 正確。依老人憂鬱症篩檢量表 (GDS-15) 流程圖，11 分以上會直接轉介醫療系統，而此病人 9 分會先以心理輔導資源為主，但就篩檢角度來說，病人確實有憂鬱症的可能，應進一步確認診斷。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-72_merged.png",
     "explanation_images": null
   },
@@ -28519,7 +28519,7 @@
       "D": "病人自主權利法"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "預立醫療照護諮商 (Advance Care Planning) 是依據 2019 年正式施行的《病人自主權利法》。容易混淆的應該是《安寧緩和醫療條例》，在此整理給大家：\n\n| 比較項目 | 《安寧緩和醫療條例》 | 《病人自主權利法》 |\n| :--- | :--- | :--- |\n| 施行時間 | 2000 年 | 2019 年 |\n| 文件 | 預立安寧緩和醫療暨維生醫療抉擇意願書 | 預立醫療決定書 (Advance Directive) |\n| 使用時機 | 末期病人* | 末期病人、處於不可逆轉之昏迷狀況、永久植物人狀態、極重度失智、其他經中央主管機關公告之病人（疾病狀況或痛苦難以忍受、疾病無法治癒且依當時醫療水準無其他合適解決方法之情形）。 |\n| 範圍 | 選擇是否接受：安寧緩和醫療、心肺復甦術、維生醫療 | 預設提供：安寧緩和醫療選擇<br>是否接受：維持生命治療、人工營養及流體餵養。 |\n| 健保卡註記 | 可選擇 | 強制 |\n\n*末期病人：指罹患嚴重傷病，經醫師診斷認為不可治癒，且有醫學上之證據，近期內病程進行至死亡已不可避免者。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-73_merged.png",
     "explanation_images": null
   },
@@ -28536,7 +28536,7 @@
       "D": "大腸憩室炎（colonic diverticulitis）"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "這題考電腦斷層影判讀。首先，這是一張有打顯影劑的 CT。（且是 portal vein phase：可以看得出圖中的 portal vein 很亮）出題老師很佛心的在圖上血管 distal 端畫了一個箭頭，如果一時之間認不出來，可以觀察到這條血管會跟另一條血管 (splenic v.) 匯流後，形成一條新的血管 (portal v.) 流進肝臟，推測出箭頭所指應為 SMV。SMV 內有 filling defect，所以是上腸繫膜靜脈血栓 (superior mesenteric vein thrombosis)。上腸繫膜靜脈血栓臨床上常見症狀包括發燒、不成比例的腹痛、腹脹、噁心嘔吐、腹瀉。風險因子包括外傷、系統性發炎、惡性腫瘤及感染等。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-74_merged.png",
     "explanation_images": null,
     "images": [
@@ -28556,7 +28556,7 @@
       "D": "12 mm大小的實質結節（solid nodule）"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "根據 Harrison 21st edition，Lung nodule 只有兩個影像學特徵可以用來預測其為良性：\n(1) 超過兩年都沒有變大。\n(2) 有良性的鈣化特徵，如中央鈣化、多個點狀鈣化、Bull's eye (Granuloma 常見)、Popcorn ball (Hamartoma 常見)。\n\nCT 上的 Lung nodule 可依據其密度分為 Solid、Ground-glass 以及 Part-solid（一部分 Solid 一部分 Ground-glass），但每種密度都有可能是癌症。結節較大 (≥ 8mm)、邊緣不規則、Spiculation、侵犯周邊組織、不對稱鈣化或沒有鈣化、跟過去的影像相比有變大等都是較惡性的特徵。\n\n當 CT 發現 Solitary pulmonary nodule 時，可先確認是否有良性的影像學特徵，如果沒有則需要進一步評估惡性腫瘤的可能性。除了考量上述的影像學特徵以外，亦須考慮病人的年紀（越老風險越高）、吸菸史及是否戒菸、與過去的影像比較，最後依照惡性的可能性決定下一步處置：\n\n| 惡性可能性 | 處置建議 |\n| :--- | :--- |\n| 可能性高 | Video-assisted thoracoscopic surgery 並做術中冷凍切片，若為惡性則做 Lobectomy。 |\n| 居中 | 做額外檢查：PET（若結節 ≥ 1cm）、Contrast-enhanced CT、Transthoracic fine-needle aspiration biopsy、Bronchoscopy。<br>若檢查結果偏向惡性，則處置同惡性可能性高，反之則同惡性可能性低。 |\n| 可能性低 | 於 3、6、9、12、18、24 個月做 High-resolution CT 追蹤。 |\n\n參考資料：Harrison's Principles of Internal Medicine 21st edition p603 Figure 78-6",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-75_merged.png",
     "explanation_images": null
   },
@@ -28573,7 +28573,7 @@
       "D": "腎臟功能下降容易導致脫水"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "看不懂題幹說的受傷跟選項裡的生理變化有什麼關係，選項內部的敘述其實也有點怪（筆者認為這題出得挺不好的）。本題可能來自急診教科書 Tintinalli's 的 Trauma in the elderly 章節，文中提到老化導致的生理變化會使老人受傷更難以恢復，也更難以評估。生理變化包含以下層面：\n\n| 器官系統 | 生理變化 |\n| :--- | :--- |\n| 心血管 | 心肌細胞變少並被膠原蛋白取代，收縮力、順應性變差（80 歲老人的心輸出量只有 20 歲年輕人的 50%），且對 Catecholamines 的反應降低，因此更加仰賴 Preload 以維持心輸出量，故老人低血容時更容易導致休克。<br>最大心跳速率及心輸出量隨著年紀增長而下降。<br>心臟傳導系統變差而導致心房顫動、Bundle branch blocks。 |\n| 呼吸 | 胸壁順應性、肌肉強度、肺部氣體交換能力隨著年紀增長而下降，對於低血氧及高碳酸血症的代償反應減弱，因此病人即使快要 Respiratory failure 也可能不會表現明顯的呼吸窘迫。<br>肺活量、Functional residual capacity、Forced expiratory volume 降低，使病人在受到胸部外傷時較難以代償。 |\n| 腎臟 | 腎功能隨年紀下降，使老人較容易脫水，使其更容易出現急性腎損傷。 |\n\n內科教科書 Goldman 的說法也如同上表所述，80 歲的老人會失去近 90% Sinus node 裡的細胞，導致休息及運動時的最大心跳速率降低，而傳導系統的老化則會使心房顫動的盛行率變高。故本題答案 (B) 筆者認為是有爭議的，亦有申覆但並未通過，原因不明。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-76_merged.png",
     "explanation_images": null
   },
@@ -28590,7 +28590,7 @@
       "D": "若病人使用毛地黃藥物，靜脈補充鈣離子可能會增加毒性"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "甲狀腺全手術的術後併發症包含血腫、感染、聲音沙啞、聲帶麻痺等，而內分泌來說，要注意副甲狀腺低下導致的低血鈣。血清游離鈣離子正常值為 4.65 to 5.25 mg/dL（總鈣離子為 8.5 to 10.5 mg/dL），此病人游離鈣離子僅 3.5 mg/dL，為甲狀腺全切除術後低血鈣之表現。\n\n本題雖問處置，但大部分都在考症狀，低血鈣症狀之包含：\n• 神經肌肉易興奮性 (neuromuscular irritability)：手指 / 腳趾 / 口周麻木、肌肉強直、Chvostek sign（檢查者用手指輕拍病人耳前的面頰，顏面肌肉會跟著收縮）、Trousseau sign（用量血壓的脈壓帶包住病人手臂，並充氣至其收縮壓以上 20mmHg 達三分鐘，可見其手腕痙攣）、癲癇、支氣管痙攣。\n• 異位骨化 (ectopic calcification)：常發生在基底核，會導致錐體外 (extrapyramidal) 症狀。\n• QTc 期間延長 (QT prolongation)，可能導致 Torsades de pointes。\n• 視乳頭水腫 (papilledema)。\n• 精神症狀：焦慮、情緒不穩、憂鬱、混亂、幻覺。\n而副甲狀腺低下導致的低血鈣，處置上以維生素 D 和鈣質補充為主，若效果不好可再考慮使用 rhPTH(recombinant human PTH)。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-77_merged.png",
     "explanation_images": null
   },
@@ -28607,7 +28607,7 @@
       "D": "α-glucosidase inhibitors（例如acarbose）"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "本題選項全部都不是「降血壓藥物」，故經申覆後一律給分。\n「降血糖藥物」是黃金考題，下表務必背熟。(C) 會直接促進胰島素釋放，故容易低血糖；(A)(B)(D) 皆是透過其他機制降血糖，不易低血糖。\n\n| 藥物類型 | 優點 | 缺點或副作用 | 需減藥或禁忌症 |\n| :--- | :--- | :--- | :--- |\n| Biguanides (Metformin) | 不會低血糖、沒有體重變化 | 腹瀉、乳酸中毒、維他命 B12 缺乏 | 心 / 肝 / 腎功能差、接受顯影劑檢查、酸血症 |\n| α-glucosidase inhibitor (Acarbose) | 降低餐後血糖 | 腸胃道排氣增多 | 肝 / 腎功能差 |\n| DPP-4 inhibitor (-gliptin) | 不會低血糖 | 蕁麻疹、血管性水腫 | 腎功能差 |\n| GLP-1 agonist (-glutide) | 不會低血糖、降低體重、減少心血管疾病 | 需注射、噁心、胰臟炎 | 腎功能差、甲狀腺髓質癌、胰臟疾病 |\n| SGLT2 inhibitor (-gliflozin) | 不會低血糖、降低體重 / 血壓、減少心血管疾病、具腎臟保護效果 | 泌尿道感染、多尿、脫水、正常血糖性酮酸中毒 | 腎功能差 |\n| Thiazolidinediones (-glitazone) | 降低胰島素需求 | 周邊水腫、鬱血性心臟衰竭、體重增加 | 心 / 肝 / 腎功能差 |\n| Sulfonylureas (Gli-, Gly-) | 降低餐後血糖、效果快 | 低血糖、體重增加 | 肝 / 腎功能差 |\n| Non-sulfonylureas (-glinide) | 降低餐後血糖、效果快 | 低血糖 | 肝 / 腎功能差 |\n| Insulin | 非常安全且效果可預測，適合住院病人的血糖控制 | 需注射、低血糖、體重增加 | 無 |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-78_merged.png",
     "explanation_images": null
   },
@@ -28624,7 +28624,7 @@
       "D": "病人自主權利法規定，應告知本人或關係人"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "以下將直接引用法條：\n(A)《醫師法》第 12-1 條規定，醫師診治病人時，應向病人或其家屬告知其病情、治療方針、處置、用藥、預後情形及可能之不良反應。\n(B)《醫療法》第 81 條規定，醫療機構診治病人時，應向病人或其法定代理人、配偶、親屬或關係人告知其病情、治療方針、處置、用藥、預後情形及可能之不良反應。\n(C)《安寧緩和醫療條例》第 8 條規定，醫師應將病情、安寧緩和醫療之治療方針及維生醫療抉擇告知末期病人或其家屬。但病人有明確意思表示欲知病情及各種醫療選項時，應予告知。\n(D)《病人自主權利法》第 5 條規定，病人就診時，醫療機構或醫師應以其所判斷之適當時機及方式，將病人之病情、治療方針、處置、用藥、預後情形及可能之不良反應等相關事項告知本人。病人未明示反對時，亦得告知其關係人。由此可知，《病人自主權利法》相當保障病人的權益，病情以告知本人為主，若只告知關係人則違反此條款。此選項應改成應告知「本人」並非「本人『或』關係人」。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-79_merged.png",
     "explanation_images": null
   },
@@ -28641,7 +28641,7 @@
       "D": "不可以，雖然病人死後醫師就沒有保密義務，但是洩露這個消息會妨害病人名譽"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "根據 2005 年修訂的里斯本宣言 (WMA Declaration of Lisbon on the Rights of the Patient)，第 8 條保密權利 (Right to confidentiality) 當中提到，所有包含病人的健康狀態、醫療狀況、診斷、預後、治療，以及所有其他可識別資訊都必須保密，即便病人死後也不能揭露。唯一的例外是病人的後代若要了解他們的健康風險，有得知相關資訊的權利。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-80_merged.png",
     "explanation_images": null
   },
