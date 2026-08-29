@@ -28315,7 +28315,7 @@
       "D": "抗病毒藥物之治療對腦脊髓液HSV PCR的陽性率有重大影響，治療3天後，腦脊髓液HSV PCR的陽性率即低於10%"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "直接出自 Harrison 段落的題目。\n(A) 正確。CSF PCR 診斷 HSV 的敏感性 96%，特異性 99%，等同甚至超過腦部切片。\n(B) 正確。在症狀出現後的 72 小時內 HSV CSF PCR 可能為陰性，在 1-3 天後重做則可能變成陽性。\n(C) 正確。皰疹病毒腦炎 (Herpes encephalitis) 病人的 HSV CSF PCR 陽性率隨著發病越久而越低，超過 14 天後約只有 20% 病人仍為陽性。\n(D) 錯誤，PCR 結果通常在一週內不受抗病毒治療影響。治療一週內陽性率有 98%，8-14 天後還有 50%，超過 15 天後剩下 21%。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-61_merged.png",
     "explanation_images": null
   },
@@ -28332,7 +28332,7 @@
       "D": "此病人梅毒治療後的療效評估，是在治療後6個月與12個月追蹤TPPA檢測，確認抗體效價下降至少4倍或以上"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "(A) 正確。梅毒的診斷方式分為 Nontreponemal test 與 Treponemal test。\n\n| 診斷方式 | 測試 | 說明 |\n| :--- | :--- | :--- |\n| Nontreponemal test | RPR、VDRL | • 用於篩檢以及追蹤疾病活性（治療成效）有些狀況會導致偽陽性（如自體免疫疾病或藥物濫用），故陽性需進一步做 Treponemal test 確診。<br>• 早期梅毒的效價通常超過 1:32，而下降四倍以上（如降至 1:8）表示治療有效。 |\n| Treponemal test | FTA-ABS、TPPA | 偵測梅毒的敏感性比 Nontreponemal test 高，診斷梅毒的 Positive predictive value 也很高，用以確診梅毒。 |\n\n(B)(C) 正確。梅毒的治療方式如下。\n\n| 梅毒階段 | 一般人 | 對 Penicillin 過敏者 |\n| :--- | :--- | :--- |\n| Primary、Secondary、Early latent | Penicillin G 2.4 mU IM ONCE | Doxycycline 100 mg PO BID 或 Tetracycline 500 mg PO QID for 2 weeks |\n| Late latent、Cardiovascular、Benign tertiary | Penicillin G 2.4 mU IM weekly for 3 weeks | • 沒有 HIV：Doxycycline 100 mg PO BID 或 Tetracycline 500 mg PO QID for 4 weeks<br>• 有 HIV：若病人順從性不佳，則去敏感化後使用 Penicillin 治療 |\n| **Neurosyphilis**（CSF 異常） | Aqueous crystalline penicillin G 18-24 mU/d IV for 10-14 days<br>或<br>Aqueous procaine penicillin G 2.4 mU/d IM + Probenecid 500 mg QID PO for 10-14 days | 去敏感化後用 Penicillin 治療 |\n\n選項 (B) 申覆後給分的理由是 penicillin 治療 syphilis 的單位是 million units，但縮寫為 mU 考生會誤以為是 milli units，故開放給分。（不過 Harrison 的表格上就是寫 mU）\n\n(D) 錯誤，追蹤療效应使用 Nontreponemal test(RPR 或 VDRL)。Nontreponemal test 的效價下降 4 倍以上為治療有效，Primary 或 Secondary syphilis 需要在治療後 6、12 個月追蹤，而 Latent 或 Late syphilis 則要在治療後 6、12、24 個月追蹤。若同時患有 HIV，則不論梅毒階段都建議更頻繁追蹤（3、6、9、12、24 個月）。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-62_merged.png",
     "explanation_images": null
   },
@@ -28349,7 +28349,7 @@
       "D": "這位病人急性HIV感染病症會自然改善，並不急著給與抗病毒治療。根據國內外治療指引，等到他血液中的CD4數值降低到350 cells/mm3以下，或者出現愛滋病（AIDS）相關病症再開始治療即可"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "目前的 HIV 診斷會先做 Fourth-generation HIV-1/2 antigen antibody immunoassay，此檢查同時檢驗病人血中是否有 HIV antibodies 以及 HIV p24 antigen，敏感性可達 99.5% 以上。若結果為陽性，則下一步需要做 HIV-1/HIV-2 antibody differentiation immunoassay 區分是哪種 HIV 的感染並確診。若 HIV-1/HIV-2 antibody differentiation immunoassay 的結果不明確（如兩者都 Negative 或 HIV-1 intermediate/HIV-2 negative），則需做 Nucleic acid test (NAT) 確認是否為急性感染。\n(A) 錯誤。Fourth-generation HIV-1/2 antigen antibody immunoassay 在急性感染（12 週內）有可能驗不出 HIV 而呈現陰性，且敏感度極高也不代表完全沒有偽陰性之可能，故對此病人不能保證 100% 能確診 HIV 感染。\n(B) 錯誤。目前 HIV 確診是先做 Fourth-generation HIV-1/2 antigen antibody immunoassay，再做 HIV-1/HIV-2 antibody differentiation immunoassay 或 HIV RNA level(HIV viral load) 確診。Western blot 是以往用以確診的方式，但在目前的診斷流程較無角色。\n(C) 正確。HIV 急性感染時抗體可能尚未產生，此時可用 PCR 技術檢驗血中 HIV viral load 來確診。\n(D) 錯誤。HIV 急性感染的症狀是會自己緩解沒錯，但抗病毒治療在診斷 HIV 後就要盡快給予，可以減緩疾病進展並減少傳染風險。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-63_merged.png",
     "explanation_images": null
   },
@@ -28366,7 +28366,7 @@
       "D": "綠膿桿菌（Pseudomonas aeruginosa）可見於被鐵釘穿刺傷（penetrating injury）造成的傷口感染"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "(A) 錯誤。若有明顯開放性傷口或細菌可進入的路徑，培養可以提供確切診斷，但在沒有明顯傷口的狀況下，無論是抽吸或是切片培養的陽性率僅有 20%。這個發現的意義是低菌量也可能引起蜂窩性組織炎，而擴散的紅斑可能是由胞外的毒素或身體產生的發炎物質引起。\n(B) 正確。反覆鏈球菌蜂窩性組織炎的風險因子有 Chronic venous stasis、做過 Saphenous venectomy（為了做 CABG）、慢性淋巴水腫、做過下肢淋巴結切除、Milroy disease 等，皆跟循環不良有關。\n(C) 正確。只要是咬傷（包含被人咬傷）都需要考慮厭氧菌感染，如 Fusobacterium、Bacteroides、好氧或厭氧的 Streptococci、Eikenella corrodens 等。較特別的菌種是貓咬傷要考慮 Pasteurella multocida，而狗咬傷還需要多考慮 Capnocytophaga canimorsus。\n(D) 正確。綠膿感染造成的軟組織感染主要有三種：Ecthyma gangrenosum（通常在白血球低下的病人）、Hot-tub folliculitis、Cellulitis（大多為穿刺傷引起，通常是踩到鐵釘而把綠膿桿菌帶入深層組織）。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-64_merged.png",
     "explanation_images": null
   },
@@ -28383,7 +28383,7 @@
       "D": "近期接觸過羊 — Coxiella burnetii"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "發病前兩週住過旅館或郵輪較常見 Legionella spp. 感染，跟水源的污染及細菌增生有關。詳細的社區型肺炎菌種與 Risk factor 請見【113-1(三)47】。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-65_merged.png",
     "explanation_images": null
   },
@@ -28400,7 +28400,7 @@
       "D": "Negotiate：與病人討論以取得治療共識"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "LEARN model 是幫助跨文化溝通的架構，是家醫科熱門考題，請參考本章的【113-1(三)66】。\n(C) 應為 Recommend。即便不知道 LEARN model，「Reward」這個單字與「對病人解釋治療的好處」這個敘述也是八竿子打不著，選它準沒錯。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-66_merged.png",
     "explanation_images": null
   },
@@ -28417,7 +28417,7 @@
       "D": "應置入導尿管以預防再跌倒"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "周全性老年醫學評估 (comprehensive geriatric assessment) 是一種系統性的評估，核心在於找出屬於各個長者的關鍵特質，包含但不限於：年齡、種族、宗教信仰、教育、飲食、興趣、過去病史、語言、婚姻、性傾向、家庭功能、職業、社經地位等。評估主要分為四大面向：醫療 (medical)、功能 (functional)、心理 (psychological) 和社會 (social)，並從中挖掘該長者目前最常遇到或最迫切的問題。\n(A) 正確。此病人有多重用藥 (polypharmacy) 的問題，而多重用藥本身即是跌倒的風險因子，可能是其目前狀況的關鍵因素。進行周全性老年醫學評估有助於了解其目前藥物有無交互作用、藥物包裝是否難以使用、藥物是否容易混淆等因素，幫助釐清忘記服藥的原因並改善。\n(B) 錯誤。病人服藥的問題不在於不遵醫囑，而在於藥物過多且頻次過於複雜，指導病人依照醫囑服藥對於現況幫助有限。\n(C) 錯誤。病人其餘功能皆良好情況下，沒有必要因為服藥管理就住進護理之家，應該調整病人目前的藥物使用來解決問題。\n(D) 錯誤。病人的根本問題是多重用藥，置放導尿管只是治標不治本，而且置放導尿管可能造成長者照顧困難或更多併發症，不是最佳做法。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-67_merged.png",
     "explanation_images": null
   },
@@ -28434,7 +28434,7 @@
       "D": "進行悲傷撫慰"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "(A) 和 (C) 本身就互斥，病人開始服用降血壓藥後血壓降至 100/60 mmHg（一般控制目標為 140/90 mmHg）且有頭暈，應先考慮是藥物劑量過高或副作用，調整藥物或減劑量是合理做法，不應只衛教病人依原醫囑服藥。\n(B) 和 (D) 在家屬近期過世情境下，是合理做法。從時間軸來看，這也可能是導致病人近期血壓升高的原因，調整血壓藥物時應考慮這項因素。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-68_merged.png",
     "explanation_images": null
   },
@@ -28451,7 +28451,7 @@
       "D": "小孩可接種，但孕婦不可接種"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "以下補充狂犬病暴露前後的預防概念：\n\n| 預防類型 | 處置方式與時程 |\n| :--- | :--- |\n| 暴露前預防 | 肌肉注射狂犬病疫苗（兩劑：第 0 天和第 7 天），若抽血驗到抗體效價 <0.5 IU/ml 或接種後超過三年，應追加 booster。 |\n| 暴露後預防 | • 傷口清潔，最好合併使用可殺病毒的製劑。<br>• 狂犬病免疫球蛋白 (rabies immune globulin)，若有暴露前預防則不給免疫球蛋白。<br>• 肌肉注射狂犬病疫苗（四劑：第 0、3、7、14 天），若有暴露前預防則為兩劑：第 0 天和第 3 天。 |\n\n(A) 錯誤。WHO 和美國 CDC 建議之暴露前預防接種的時程為第 0 天和第 7 天，共 2 劑。過去為第 0 天、第 7 天、第 21 或 28 天，共 3 劑，但在 2022 年已經改成建議施打 2 劑即可。\n(B) 錯誤。疫苗產生抗體約需 7-10 天，可維持 2-3 年，故一般來說 3 年後才需追加劑。\n(C) 正確。詳見上述，要注意曾接受完整暴露前疫苗接種就不要給予狂犬病免疫球蛋白。\n(D) 錯誤。狂犬病疫苗為死病毒疫苗，孕婦和哺乳婦女均可接種。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-69_merged.png",
     "explanation_images": null
   },
@@ -28468,7 +28468,7 @@
       "D": "Family Psychoeducation"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "本題考的是幫助家庭克服壓力的幾種治療取徑。\n(A) 動機式晤談 (Motivational Interviewing) 是一種以病人為中心，有目的地引導病人做出改變的一種晤談策略。對家庭來說，重點在於用開放性的問題了解病人或家屬的看法，並辨識出其抗拒改變的關鍵，以此為切入點去影響他們的動機。\n(B) 焦點解決短期治療 (Solution-focused Brief Therapy) 是一種以解決問題為目標的晤談策略，不探究問題的成因，而著重提出問題的解決方案。對家庭來說，重點在於找出需要處理的問題、整理現有資源，並確立短期、可達成的計畫。\n(C) 認知行為治療 (Cognitive Behavioral Therapy) 是一種透過引導病人的行為或改變不合理的認知，進而幫助調整病人情緒的晤談策略。對家庭來說，重點在於找出造成負面情緒的誘發因素，並透過設定行為目標的方式來讓病人和家屬學習調整情緒和壓力。\n(D) 家庭心理教育 (Family Psychoeducation) 是一種將病人的家屬納入病人照護、衛教、支持系統的策略，增加他們對病人疾病之了解，主要目的在於幫助病人獲得更完整的支持以及幫助其康復的過程。要注意這和家族治療 (Family Therapy) 不同，家族治療的目標是處理家族成員間的生理、心理或社會問題，但家庭心理教育的目標是處理病人的疾病，而非家庭關係。\n\n題幹是直接將原文書條列式中翻英，而且選項都蠻冷門的，要直接看出答案不容易。考場上比較好的解題法應該是推敲一下，會發現「③設定家庭成員在有限時間內，可學習以降低不良行為的目標」就直接提到從行為去介入，其實就是認知行為治療的典型策略，選有 behavioral 的 (C) 最合理。\n在此提供題幹原文給大家參考：\n① Support the thoughts, feelings, and emotions of patients and families working through an illness or stressful life event.\n② Identify certain triggers or barriers that impact negative thoughts and reactions to presenting problems.\n③ Set behavioral goals, where the family can learn to reduce maladaptive behaviors in a time-limited fashion.",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-70_merged.png",
     "explanation_images": null
   },
