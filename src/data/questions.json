@@ -27785,7 +27785,7 @@
       "D": "大量IgG4在組織活化T淋巴球，因此本疾病常造成急性的器官破壞而應給與大量steroid治療"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "很少見的疾病，選項也考得比較細，此題不易作答。\n(A) 正確。IgG4-related disease 有兩個常見且具特色的症狀，其一是會導致侵犯部位腫起，形成類似腫瘤的病灶 (Tumefactive lesions、Pseudotumor)。任何部位都可能侵犯，較常見的位置為胰臟、膽道、主要的唾液腺 (Submandibular、Parotid)、眼周組織、腎臟、肺部、淋巴結、後腹膜。其二是過敏性疾病 (Allergic diseases)，病人常會伴隨異位性體質 (Atopy)、濕疹、氣喘、鼻息肉、鼻竇炎、中等程度的 Peripheral eosinophilia。\n(B) 錯誤。IgG4-related disease 的病理特徵是緻密的 Lymphoplasmacytic infiltrate 形成 Storiform pattern，也可見閉塞性靜脈炎 (Obliterative phlebitis) 以及輕度至中等的 Eosinophilic infiltrate。浸潤的發炎細胞 B cell 及 T cell 皆有，T cell（主要為 CD4+）會廣泛分佈於病灶中，通常是最多的發炎細胞，而 B cell 則會形成 Geminal centers。免疫螢光染色可見病灶中有許多 IgG4-positive plasma cells。\n(C) 錯誤，有 30% 的病人血中的 IgG4 濃度是正常的。另外，血中的 IgG 濃度、疾病活動度、是否需要治療三者之間的相關性並沒有很好，IgG4 濃度通常在治療後會快速下降，但不會完全變為正常，而病人就算臨床症狀完全緩解，IgG4 濃度依然可能持續上升。但 IgG4 濃度持續上升的病人復發風險較高，這些患者可能要考慮重新治療。不過，就算 IgG4 濃度一直維持正常，病人依然有可能復發。\n(D) 錯誤，IgG4 在此疾病中的角色反而比較偏向反調節機制 (Counterregulatory mechanism)，而非導致主要的發炎過程，故並非活化 T lymphocyte 導致組織破壞。另外，此疾病的病程通常是亞急性（症狀可能出現數月至數年），與選項中所說的急性器官破壞不符。第一線治療是使用類固醇，起始劑量為 40 mg/d，之後在 2-3 個月內慢慢調降至 5 mg/d。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-31_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-31_merged.png"
@@ -27804,7 +27804,7 @@
       "D": "septic arthritis"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "關節液可依照以下流程判讀：\n\n| 順序 | 判讀項目 | 情況 | 判讀結果與可能原因 |\n| :--- | :--- | :--- | :--- |\n| 1 | 是否有血 | 有 | 可能為外傷、凝血功能不全、Neuropathic arthropathy (Charcot joint) |\n| | | 沒有 | 需鑑別 Inflammatory 與 Noninflammatory |\n| 2 | WBC 數量 | < 2000/μL | Noninflammatory，可能為 Osteoarthritis、外傷 |\n| | | > 2000/μL | 看 PMN 佔比確定是不是真的 Inflammatory |\n| 3 | PMN 佔比 | PMN < 75% | 還是 Noninflammatory，可能為 Osteoarthritis、外傷 |\n| | | PMN > 75% | Inflammatory，需鑑別 Septic arthritis 與 Crystal-induced arthritis |\n| 4 | 有無 Crystal | 有 | Crystal-induced arthritis，如 Gout、Pseudogout |\n| | | 沒有 | 懷疑為 Septic arthritis，需進一步做 Gram stain、Culture，並再確認一次 WBC 數量 |\n| 5 | WBC 數量 | < 50000/μL | 可能是 Inflammatory arthritis |\n| | | > 50000/μL | 很有可能是 Septic arthritis |\n\n參考資料：Harrison's Principles of Internal Medicine 21st edition p2852 figure 370-6\n\n此題關節液白血球只有 100/μL，可能為 Noninflammatory 的疾病，四個選項中僅有 Osteoarthritis 屬於此分類（其餘皆為 Inflammatory），故選 (A)。\n\n補充：\n關節液抽吸與分析 (Synovial fluid aspiration and analysis) 的適應症包含：\n(1) 單一關節炎 (Monoarthritis)。\n(2) 外傷且有關節積液。\n(3) 慢性多關節炎病人出現單一關節炎 (Monoarthritis in a patient with chronic polyarthritis)。\n(4) 懷疑關節感染、Crystal-induced arthritis 或關節積血。\n\n關節液分析的項目通常有：\n(1) 外觀與黏稠度。\n(2) WBC 數量、Differential count。\n(3) Gram stain、Culture、抗生素敏感度。\n(4) 偏光顯微鏡看是否有結晶。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-32_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-32_merged.png"
@@ -27823,7 +27823,7 @@
       "D": "lumbar myelopathy"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "本題看似在考盛行率，但其實除了 (B) 以外的選項都是不太會出現在 Rheumatoid arthritis 的關節外表現。不過選項中的症狀都比較冷門，可能因此不易選答。\nRheumatoid arthritis 常見的關節外表現如下表：\n\n| 部位 | 症狀 |\n| :--- | :--- |\n| 眼睛 | 結膜乾燥 (Keratoconjunctivitis sicca)、表層鞏膜炎 (Episcleritis)、鞏膜炎 (Scleritis) |\n| 口腔 | 口乾 (Xerostomia)、牙周炎 (Periodontitis) |\n| 神經 | Cervical myelopathy |\n| 血液 | Anemia of chronic disease、Felty's syndrome（類風濕性關節炎 + 嗜中性球低下 + 脾腫大）、Large granular lymphocyte leukemia、Lymphoma |\n| 肺部 | 肋膜積液、肺結節、Interstitial lung disease、Pulmonary vasculitis、Organizing pneumonia |\n| 心臟 | 心包膜炎、缺血性心臟病、心肌炎、心肌病變、心律不整、Mitral regurgitation |\n| 腎臟 | Membranous nephropathy、Secondary amyloidosis |\n| 腸胃道 | Vasculitis 侵犯 |\n| 骨骼 | Osteoporosis |\n| 內分泌 | Hypoandrogenism |\n| 皮膚 | Rheumatoid nodules、Purpura、Pyoderma gangrenosum |\n\n由上表可知 (A)(D) 錯誤。至於 (C) Pulmonary artery hypertension 其實還是有可能出現在 RA 病人（小麻的表格上也有寫）但非常少見，機轉目前認為跟 ILD 或 Vasculitis 有關。\n(B) Osteoporosis 在 RA 病人的盛行率約為正常族群的兩倍，在有 RA 的停經後婦女中的盛行率甚至高達三分之一。致病機轉為發炎的環境會促進噬骨細胞的活化，導致骨質流失，另外也跟使用類固醇以及失能導致的活動度降低有關。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-33_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-33_merged.png"
@@ -27842,7 +27842,7 @@
       "D": "類風濕性關節炎（rheumatoid arthritis）與HLA-DR4"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "HLA-B5801 與 B1502 比較常在藥物不良反應 (Allopurinol、Carbamazepine) 聽到，故 (A)、(B) 選項相對容易刪除，但 (C)、(D) 選項如果沒有背到其中一個就只能靠運氣猜猜看了。\n(A) 與 Type 1 diabetes mellitus 有關的是 HLA-DQ2、DQ6、DQ8。\n(B) 與 Behçet's disease 有關的是 HLA-B51。\n(C) 與 Sjögren's syndrome 有關的是 HLA-DRB1*0301、DQA1*0501、DQB1*0201。\n\n| 疾病 | 對應 HLA |\n| :--- | :--- |\n| Ankylosing spondylitis | B27 |\n| Autoimmune uveitis | B27 |\n| Behçet's disease | B51 |\n| Goodpasture's syndrome | DR2 |\n| Multiple sclerosis | DR2 |\n| Graves' disease | DR3 |\n| Systemic lupus erythematosus | DR3 |\n| Addison's disease | DR3 |\n| Myasthenia gravis | DR3、DR7 |\n| Pemphigus vulgaris | DR4 |\n| Rheumatoid arthritis | DR4 |\n| Hashimoto's thyroiditis | DR5 |\n| Sjögren's syndrome | DRB1*0301、DQA1*0501、DQB1*0201 |\n| Type 1 diabetes | DQ2、DQ6、DQ8 |\n| Celiac disease | DQ2、DQ8 |\n| Psoriasis vulgaris | Cw6 |\n| Carbamazepine 藥物不良反應 | B1502 |\n| Allopurinol 藥物不良反應 | B5801 |\n\n參考資料：Janeways's immunobiology 9th edition",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-34_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-34_merged.png"
@@ -27861,7 +27861,7 @@
       "D": "處方danazol"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "此為 Hereditary angioedema (HAE)，致病機轉為補體活化路徑失調，與 IgE 較無關，且題幹也提示沒有蕁麻疹、沒有過敏原，故檢驗 IgE 對疾病幫助不大。HAE 也是比較冷門且少見的疾病，光看題幹可能會不太知道是什麼病。\n\n| Hereditary angioedema (HAE) | 內容 / 說明 |\n| :--- | :--- |\n| 流病 | • 罕見的疾病（盛行率 1/50000），大多發生在出生後至 20 歲間。<br>• 為體染色體顯性遺傳，75% 有家族史，25% 病人為 de novo mutation。<br>• 突變的基因為 SERPING1 gene，會導致 C1 esterase inhibitor 製造或功能缺陷。 |\n| 致病機轉 | C1 esterase inhibitor 的濃度過低 (Type I，85%) 或功能缺陷 (Type II，15%，此類病人 C1 esterase inhibitor 濃度正常)，導致其無法正常抑制補體系統活化，使 C2、C4 一直被切割、消耗而在血中呈現低濃度。另外 C1 esterase inhibitor 缺失也會導致 Kinin pathway 調控異常而產生過多 Bradykinin，引起血管滲漏與水腫。除了 Type I 與 Type II 外，也有 C1 esterase inhibitor 數量、功能都正常的 HAE，此類患者的突變出現在其他跟 Bradykinin 有關的路徑中，被歸類為 Type III。 |\n| 症狀 | • 皮膚：通常是不會癢、非凹陷性 (Nonpitting)、不對稱的腫起，在青春期後會更加嚴重，侵犯範圍可遍及全身，包含臉部以及生殖器。<br>• 上呼吸道：超過 50% 患者會出現 Uvula、後咽部、喉頭水腫，可能致命。<br>• 腸胃道：影響腸胃道的黏膜表面，可能以急性腹症 (Acute abdomen) 表現。<br>• 單次發作通常會持續 24-72 小時，誘發的因素可能包含局部壓力 (Pressure)、外傷、壓力 (Stress) 等。 |\n| 診斷 | 抽血（尤其是在發作時）檢查 C1 esterase inhibitor protein 數量及功能，以及 C4 數量。 |\n| 治療 | • 急性發作：病人趕快自己注射 Bradykinin 2 receptor antagonist (Icatibant) 或 Kallikrein inhibitor (Ecallantide)，後續可以直接補充 C1 esterase inhibitor concentrate 或 Human recombinant C1 esterase inhibitor。Epinephrine、Antihistamine、Corticosteroids 的效果不佳。若病人對藥物反應不好，要做好插管甚至氣切的準備。<br>• 慢性治療：皮下注射 Plasma-derived C1 esterase inhibitor、皮下注射 Lanadelumab、口服 Kallikrein inhibitor、靜脈注射 C1 esterase inhibitor concentrate。二線治療可選擇 Danazol，可以增加 C1 esterase inhibitor 製造並減少症狀發生。需避免使用 ACE inhibitor 及 Estrogen 類藥物，這些藥物可能會誘發 Angioedema 發生。 |",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-35_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-35_merged.png"
@@ -27880,7 +27880,7 @@
       "D": "全身性化學治療或抗賀爾蒙治療"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "雖然用推理的會覺得這個病人乳房找不到任何東西，直接用手術治療好像最不合適所以選 (B)，但筆者並沒有找到「不能做乳房切除手術治療」的相關資料，反而 NCCN guidelines 還把 Mastectomy 作為治療選項，故筆者認為這題答案有爭議。此題有申覆但並未開放其他選項給分。\nHarrison 的 Carcinoma of unknown primary 章節中提到，當女性只有腋下淋巴結腫大且檢查出 Adenocarcinoma 或 Carcinoma 時，通常會當作 Stage II 或 III 的乳癌治療。若 MRI 檢查為陽性，則可以針對同側胸部進行放射線治療。化學治療或賀爾蒙治療則是依照病人的年紀（停經前 / 停經後）、淋巴結腫塊的大小、Hormone receptor 和 HER2 的表現來決定。在開始乳癌的療程之前，需要先以 Immunohistochemistry (IHC) 染乳癌相關的 Marker（如 Estrogen receptor、Mammaglobin、GCDFP-15、GATA3、HER-2）來確認此腫塊跟乳癌的相關性。\n而乳癌的 NCCN Guidelines (Version 4.2024) 提到，Occult breast cancer presenting with axillary metastases 是一個很少見的表現，目前處置建議的相關證據也不多。若懷疑為乳癌但 MRI 沒有 Findings 的病人，其治療取決於淋巴結轉移的狀況。若是 T0N1M0，則可以選擇 Mastectomy 加上 Axillary nodal dissection，或是 Axillary nodal dissection 加上 Whole breast irradiation ± nodal irradiation。系統性的化療、賀爾蒙治療、Trastuzumab 則根據 Stage II 或 III 乳癌的治療建議給予。若為 T0N2-3M0，則需要考慮在做完 Mastectomy 和 Axillary nodal dissection 後使用賀爾蒙治療、Neoadjuvant chemotherapy、Trastuzumab 作為輔助治療。\n\n參考資料：NCCN Guidelines Version 4.2024 Breast Cancer",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-36_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-36_merged.png"
@@ -27899,7 +27899,7 @@
       "D": "glucocorticoids — avascular necrosis of bones"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "(A) Anthracycline 類藥物（如 Doxorubicin、Idarubicin、Epirubicin、Mitoxantrone）較特別的副作用為心臟毒性 (Cardiotoxicity)。\n特別的癌症藥物毒性整理如下表：（網路搜尋「Chemo man」圖片，可以找一張自己喜歡的圖來幫助記憶）\n\n| 藥物 | 毒性 |\n| :--- | :--- |\n| Cisplatin | 周邊感覺神經病變、腎毒性、耳毒性 |\n| Carboplatin | 骨髓抑制、周邊神經病變（較少） |\n| Oxaliplatin | 周邊感覺神經病變 |\n| Cyclophosphamide | 出血性膀胱炎 |\n| Capecitabine | Hand-foot syndrome |\n| Pemetrexed | Hand-foot syndrome |\n| Bleomycin | 肺纖維化 |\n| Busulfan | 肺纖維化 |\n| Doxorubicin、Idarubicin | 心臟毒性 |\n| Irinotecan | 腹瀉 |\n| Mitomycin | Hemolytic-uremic syndrome |\n| Vincristine | 神經毒性（周邊神經病變） |\n| Paclitaxel、Docetaxel | 神經毒性（周邊感覺神經病變） |\n| Trastuzumab | 心臟失能（尤其以前使用過 Anthracyclines 的病人） |\n| Bevacizumab | Arterial thromboembolic events、腸胃道穿孔、蛋白尿 |\n\nGlucocorticoid 的副作用非常多，包含：\n\n| 部位 | 副作用 |\n| :--- | :--- |\n| 全身 | 體重增加、Cushing syndrome、感染機會增加、生長遲滯（小孩） |\n| 骨頭 | 骨質疏鬆、Osteonecrosis |\n| 代謝 | 糖尿病、高血壓、高血脂 |\n| 眼睛 | Posterior subcapsular cataracts、眼壓增加 |\n| 皮膚 | 皮膚變薄且脆弱、傷口癒合不佳 |\n| 其他 | 腸胃道出血與穿孔、情緒改變、肌肉病變 |\n\n參考資料：Basic & Clinical Pharmacology 14th edition",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-37_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-37_merged.png"
@@ -27918,7 +27918,7 @@
       "D": "如果是有BRAF突變的惡性黑色素細胞癌，第一線的治療可以使用免疫治療或標靶治療（BRAF抑制劑加上MEK抑制劑）"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "有些題目就是擺明了不想給你分數，筆者認為這題就是其中之一。\n第四期的 Malignant melanoma 即為轉移性黑色素細胞癌 (Metastatic melanoma)，其治療選項包含：\n\n| 分類 | 治療選項 |\n| :--- | :--- |\n| Immune checkpoint inhibitor | Anti-PD-1：Pembrolizumab、Nivolumab<br>Anti-CTLA-4：Ipilimumab |\n| Cytokine-based immunotherapy | High-dose interleukin 2 |\n| Oncolytic virus | Talimogene laherparepvec |\n| Targeted therapy | BRAF inhibitor：Vemurafenib、Dabrafenib、Encorafenib<br>MEK inhibitor：Trametinib、Cobimetinib、Binimetinib |\n| Local modality | Surgery<br>Stereotactic radiation |\n\n(A) 錯誤。標靶治療無論是單用 BRAF inhibitor 或 BRAF inhibitor + MEK inhibitor 合併治療，最大的限制是大多數病人的腫瘤會產生抗藥性而復發。對於這些病人後續可以考慮使用免疫治療或尋找進行中的 Clinical trials。\n(B) 正確。BRAF inhibitor 單獨使用會產生 Hyperproliferative skin lesions，其中有一部分是 Well-differentiated squamous cell carcinoma（發生率可達 25%）。合併 BRAF inhibitor 和 MEK inhibitor 治療的發生率則低很多，原因可能是 BRAF 未突變細胞的 MAP kinase pathway 會被 BRAF inhibitor 活化，而 MEK inhibitor 正好可以抑制此路徑而降低 SCC 發生率。目前沒有因治療產生的 SCC 發生遠端轉移的案例，故 SCC 切除後依然可以繼續使用 BRAF inhibitor 和 MEK inhibitor 治療黑色素細胞癌。\n(C)(D) 正確。選擇第四期黑色素細胞癌治療的第一步就是先看 BRAF 是否突變，若沒有突變選擇免疫治療，若有突變可以選擇 BRAF inhibitor + MEK inhibitor 或免疫治療。如果 BRAF 有突變的腫瘤生長速度快且有症狀，則建議直接選擇 BRAF inhibitor + MEK inhibitor 合併治療。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-38_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-38_merged.png"
@@ -27937,7 +27937,7 @@
       "D": "免疫治療的pembrolizumab"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "當攝護腺癌在血中 Testosterone 濃度低於 50 ng/ml 但依然持續進展時即稱為 Castration-resistant prostate cancer (CRPC)。此時可考慮使用的治療包含：\n\n| 分類 | 治療 |\n| :--- | :--- |\n| 紫杉醇類藥物 (Taxane) | Docetaxel、Cabazitaxel |\n| 新一代的 Antiandrogen 藥物 | Enzalutamide、Apalutamide、Darolutamide |\n| CYP17 inhibitor | Abiraterone acetate（＋ Prednisone） |\n| PARP inhibitor（適用有 BRCA2 突變者） | Olaparib、Rucaparib |\n| 其他 | Sipuleucel-T、Radium-223 |\n\n需注意第一代的 Antiandrogen 藥物（Flutamide、Bicalutamide、Nilutamide）不可使用於 CRPC，要使用新一代的才有效。\nPembrolizumab 在 Microsatellite instability (MSI) score 高的腫瘤有效，僅 2-3% 的攝護腺癌具有此特徵，且目前 Pembrolizumab 尚未有針對攝護腺癌的臨床試驗證實其療效，故此題選 (D)。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-39_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-39_merged.png"
@@ -27956,7 +27956,7 @@
       "D": "根除性攝護腺切除（radical prostatectomy）之後"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "血中 PSA 上升的原因不外乎良性攝護腺肥大 (BPH)、攝護腺癌、攝護腺發炎或感染、會陰部外傷等。\n如果攝護腺有切除乾淨，一般來說在做完 Radical prostatectomy 後 6 週血中應該要測不到 PSA，若超過 0.1 或 0.2 ng/ml 則視為 PSA failure，故此題選 (D)。",
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-40_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-40_merged.png"
