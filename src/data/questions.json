@@ -25952,9 +25952,11 @@
       "D": "單指多段截肢"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 手術斷指再接 (replantation) 適應症 | 禁忌症（或功能不好的指標） |\n| :--- | :--- |\n| • 拇指斷指：拇指對於手部功能極其重要，因此只要是拇指斷指，儘管有神經／韌帶／關節損傷也要再接，只要血管能接通，神經／韌帶的受損都可以用 graft 回復部分功能<br>• FDS insertion 處（約為 PIP joint）的遠端斷指：再接之後的功能都不會太差<br>• 小孩斷指、音樂家等需要手指的職業<br>• 多指斷裂：至少將中指及無名指接回，可以跟大拇指對指拿取物品，若手指嚴重損毀，接回相對完整的手指也有幫助 | • FDS insertion 處的近端斷指（特別是涉及 PIP joint 的斷指）：接回後手指僵硬，功能差<br>• 多段斷指或多節斷指：涉及多段神經及血管，手術複雜，且功能回復有限 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-61_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-61_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-62",
@@ -25969,9 +25971,11 @@
       "D": "第一薦椎神經根"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "L5 神經根由 L5 pedicle 下方的 neural foramen 鑽出，當 L5/S1 向前滑脫時，造成 foraminal stenosis，壓迫到的就是 L5 神經根\n\n以下整理頸椎及腰椎的 HIVD、椎間盤滑脫所影響到的神經根及最常見的為何：\n\n| 部位 | HIVD | 椎間盤滑脫 |\n| :--- | :--- | :--- |\n| **頸椎** | 最常見為 C6/C7，壓迫 C7 | 最常見為 C5/C6，壓迫 C6 |\n| **腰椎** | 最常見為 L4/L5，壓迫 L5 | 最常見為 L5/S1，壓迫 L5 |\n\n考生可自行上網搜尋解剖圖以方便思考，要注意的是，腰椎神經根由椎體下方鑽出；頸椎神經根由椎體上方鑽出，如：L4 神經根由 L4/L5 神經孔鑽出、C7 神經根由 C6/C7 神經孔鑽出",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-62_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-62_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-63",
@@ -25986,9 +25990,11 @@
       "D": "常見頸部較長與頭頸活動度受限"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 兒童頸椎融合症候群 (Klippel-Feil syndrome, KFS) | 內容說明 |\n| :--- | :--- |\n| **致病機轉** | 第 3~8 周時胚層分化障礙導致脊柱分節不良，使至少 2 節頸椎融合異常，目前已知的突變基因有 4 個：GDF6 (AD)、GDF3 (AD)、MEOX1 (AR)、MYO18B (AR) → (A) 正確 |\n| **流行病學** | 發生率約為每 40000 位新生兒出現 1 例，女性發生率略高 |\n| **臨床表現** | Triad (<50% 三者皆有)：頸部短、後髮際線低、頸部活動範圍受限<br>頸部縮短可能導致臉部不對稱，頸椎活動受限以致於頭痛、上背痛，50% 的患者合併脊椎側彎 (scoliosis)、50% 合併寰樞關節不穩定 (atlantoaxial instability)、30% 合併腎臟疾病、30% 合併聽力喪失；也有部分患者心肺系統異常，而神經異常較少見 → (B)(C)(D) 錯誤 |\n| **診斷** | 影像診斷 (X-ray、CT、MRI)，輔以臨床表現及基因檢測 |\n| **治療** | 矯正脊椎側彎、脊柱後突 (kyphosis)，若有神經壓迫的症狀須手術減壓，也須評估心臟、腎臟、腸胃道的異常是否矯正 |\n| **預後** | 大多數預後好，不做傷害頸部的活動，以免血管或神經損傷 |\n\n註：AD, autosomal dominant; AR, autosomal recessive",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-63_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-63_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-64",
@@ -26003,9 +26009,11 @@
       "D": "尿液鹼化（alkalinization of urine）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腎結石的術式包含：體外震波碎石術 (ESWL)、輸尿管鏡碎石術 (URSL)、經皮腎臟碎石取石術 (PCNL)，三者的使用條件及禁忌症不同，整理如下：\n\n| 評估項目 | ESWL | URSL | PCNL |\n| :--- | :--- | :--- | :--- |\n| **結石大小** | <2cm | - | >2cm |\n| **結石位置** | 腎臟 lower calyx 較不適合 | - | 沒有限制 |\n| **特殊條件** | KUB 可見結石才能打、肥胖者不適合 | ✕ | ✕ |\n| **禁忌症** | 懷孕、凝血功能差 | 泌尿道感染 | 懷孕、凝血功能差 |\n\n完全鹿角結石將腎盂完全堵塞，大小可達 5cm，ESWL 或 URSL 效果差，做 PCNL 為主\n\n結石是必考題！不同種之結石比較請參考本章【113-2(五)64】，處置請參考腎臟科【113-2(三)25】",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-64_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-64_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-65",
@@ -26020,9 +26028,11 @@
       "D": "莫氏顯微圖像手術（Mohs micrographic surgery）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "陰莖癌的分期如下：\n\n| 分期 | 侵犯範圍與定義 |\n| :--- | :--- |\n| **Tis** | 原位陰莖癌（腫瘤侵犯未超過基底膜） |\n| **Ta** | 非侵犯性、局部的 SCC |\n| **T1** | 侵犯陰莖頭、包皮、陰莖幹<br>• **T1a**：無淋巴血管侵犯、無神經旁侵犯、非高惡性度 (grade 3)<br>• **T1b**：有淋巴血管或神經旁侵犯，或為高惡性度 (grade 3) |\n| **T2** | 侵犯尿道海綿體 (corpus spongiosum)，不論有無侵犯尿道 |\n| **T3** | 侵犯陰莖海綿體 (corpus cavernosum)，不論有無侵犯尿道 |\n| **T4** | 侵犯周圍結構，如：陰囊、攝護腺、恥骨 |\n\nTis、Ta、T1 的陰莖癌復發率低，治療的選擇多，包含：\n\n| 治療方式 | 說明與特點 |\n| :--- | :--- |\n| **局部切除腫瘤** | 腫瘤邊緣至少留 1mm，復發率約 5~10% → (C) 正確 |\n| **塗抹化療藥物** | Tis 可使用 fluorouracil 或 imiquimod |\n| **雷射消融手術** | 使用 CO₂、Nd-YAG 雷射，對性功能保存較好 → (A) 正確 |\n| **全補皮手術 (Total glans resurfacing, TGS)** | 將陰莖頭及尿道海綿體的皮膚及固有層 (lamina propria) 刨除，再補上 skin graft，復發率低 |\n| **莫氏顯微手術 (MMS)** | 將部分切除的腫瘤，即時放在顯微鏡下檢視邊緣是否仍存有癌細胞，若邊緣有癌細胞則往該方向再多切除一塊組織，可以最小的傷害達到最完整的切除 → (D) 正確 |\n| **放射線治療** | 局部放射線或近接治療 (brachytherapy) 皆可，但會產生尿道黏膜炎、狹窄、瘻管形成、泌尿道感染等併發症 |\n\nT2 以上的陰莖癌則必須做陰莖切除手術 (penile amputation)，根據腫瘤大小決定做 partial 或 complete 的切除",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-65_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-65_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-66",
@@ -26037,9 +26047,11 @@
       "D": "血清鈣濃度（serum calcium level）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "mRCC 的預後因子於不同機構所列舉出的預後因子有些微差異，常見的為 Memorial Sloan-Kettering Cancer Center (MSKCC) 及本題的 IMDC，整理如下：\n\n| 危險因子項目 | MSKCC | IMDC |\n| :--- | :---: | :---: |\n| **診斷到治療時間小於 1 年** | V | V |\n| **Karnofsky PS <80%** | V | V |\n| **Hb 低於正常值下限 (12)** | V | V |\n| **校正後的血鈣大於正常值上限 (10)** | V | V |\n| **LDH 為正常值上限 1.5 倍** | V | |\n| **嗜中性球大於正常值上限 (7000)** | | V |\n| **血小板大於正常值上限 (400k)** | | V |\n\n本題困難的點在於：LDH 為 MSKCC 的指標而非 IMDC，考生若只記一個很容易選錯",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-66_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-66_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-67",
@@ -26054,9 +26066,11 @@
       "D": "治療轉移性攝護腺癌，使用 LHRH agonist 或 antagonist 效果相當"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "攝護腺癌 (prostate cancer, CaP) 的處置策略眾多，包含：積極追蹤 (active surveillance)、手術、放射線治療、化學預防 (chemoprevention)、賀爾蒙去勢療法 (androgen deprivation therapy)、化療、標靶治療等\n\n| 處置方式 | 詳細說明與選項分析 |\n| :--- | :--- |\n| **積極追蹤** | 符合以下條件：T2a 以下、Gleason ≤6 分 (grade 1)、PSA <10 ng/mL、攝護腺體積小、預期壽命 10 年以上，可考慮積極追蹤 → (B) 錯誤 |\n| **手術** | • 可根除癌症，攝護腺根除性切除 (radical prostatectomy) 將整個攝護腺、儲精囊摘除，並將剩餘的尿道與膀胱頸連接<br>• 而 TURP 僅刮除 transition zone 部分的攝護腺，未針對攝護腺癌好發的 peripheral zone 區域處理，並非治療攝護腺癌的術式 → (C) 正確 |\n| **放射線** | 可根除癌症，選用 IMRT 或 brachytherapy 皆可 |\n| **賀爾蒙** | • 化學預防：5α-reductase inhibitor (5ARI)，減少發生率但增加惡性度<br>• 內科去勢 (androgen deprivation therapy, ADT)：LHRH agonist (leuprolide 或 goserelin)、LHRH antagonist (degarelix)，兩者對攝護腺癌預後相當，嚴重症狀才併用 anti-androgen (bicalutamide 或 flutamide) → (D) 正確<br>• 外科去勢：bilateral orchiectomy，效果等同於內科去勢 → (A) 正確<br>• 二線賀爾蒙藥物使用新一代 anti-androgen，如：abiraterone、enzalutamide |\n| **化療** | 控制癌症，去勢抗性前列腺癌 (castration-refractory prostate cancer, CRPC) 可選用 docetaxel、cabazitaxel 作為二線治療 |\n| **標靶** | 控制骨轉移，如：denosumab |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-67_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-67_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-68",
@@ -26071,9 +26085,11 @@
       "D": "良性前列腺增生可能跟年老後體內雌激素（estrogen）濃度上升有關"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，BPH 為攝護腺內基質 (stromal) 與上皮 (epithelial) 受賀爾蒙刺激增生，形成壓迫膀胱出口的良性腫塊，30~40 歲男性盛行率為 8%、50~60 歲盛行率約 40%、80 歲以上盛行率高達 80%\n\n(B) 正確，前列腺阻塞的症狀與年齡有關，且與攝護腺的體積、部分下泌尿道症狀（如：頻尿、夜尿、解尿疼痛等）無關\n\n(C) 錯誤，BPH 的風險因子包含：種族（黑人及白人盛行率較亞洲人高）、基因（與 GATA3 的基因變異有關）、癌症家族史（家族有膀胱癌病史有關、有攝護腺癌病史無關）、肥胖、咖啡因、酒精、低活動度\n\n(D) 正確，雖然目前對 estrogen 於 BPH 的角色仍未知，但有觀察到 estrogen 比上 androgen 比例較高的長者，BPH 未緩解的比例較高，推測與攝護腺內基質的增生與維持有關",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-68_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-68_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-69",
@@ -26088,9 +26104,11 @@
       "D": "注射 Clostridial collagenase 是非手術治療方式之一"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 佩洛尼氏病 (Peyronie's disease, PD) | 說明與特點 |\n| :--- | :--- |\n| **疾病成因** | 後天產生，陰莖的白膜產生纖維化，形成局部硬塊 → (A) |\n| **流行病學** | 盛行率約 5%，年紀越大盛行率越高 |\n| **風險因子** | 有 PD 的家族史、生殖道或會陰部的創傷或手術史，部分研究將高血壓、糖尿病、高血脂、抽菸等造成血管內膜異常的疾病也認定為風險因子 → (C) |\n| **臨床表徵** | 陰莖勃起時彎曲畸形、疼痛、勃起功能障礙，進程緩慢，可能歷時數年 → (B) |\n| **治療** | • 口服藥：Vit E、potassium aminobenzoate、tamoxifen，證據力皆不強<br>• 病灶內注射：collagenase clostridium histolyticum (CCH)、verapamil<br>• 其他：體外震波、放射線治療、手術切除較長側的白膜（截長補短） → (D) |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-69_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-69_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-70",
@@ -26105,9 +26123,11 @@
       "D": "因脊神經管閉合不全（spinal dysraphism）引起的神經性膀胱"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "膀胱輸尿管逆流 (vesicoureteral reflux, VUR) 為幼童最常見的泌尿道異常，發生率約為每百位新生兒發生 1 例，根據致病機轉分為原發性及續發性：\n\n| 比較項目 | 原發性膀胱輸尿管逆流 | 續發性膀胱輸尿管逆流 |\n| :--- | :--- | :--- |\n| **比例** | 較常見 | 較少見 |\n| **致病機轉** | 輸尿管進入膀胱的角度異常，使輸尿管長度過短而導致關閉不全 | 因排尿時的膀胱壓異常增大，使得膀胱收縮時 UVJ 的關閉異常 |\n| **病因** | UVJ 病變：基因 (PAX2 等)，年紀增長後膀胱變大後通常可趨於正常 | • 解剖上異常：PUV、BOO<br>• 膀胱收縮異常：BBD、OAB |\n\n註：UVJ, ureterovesical junction; PUV, posterior urethral valve; BOO, bladder outlet obstruction; BBD, bladder bowel dysfunction; OAB, overactive bladder",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-70_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-70_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-71",
