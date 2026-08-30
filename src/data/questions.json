@@ -23102,9 +23102,11 @@
       "D": "是身體化症狀（somatization）病人要求更多檢查的行為表現"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "試想在什麼情境下，會在離開診間前才提問：除了極少數病人準備的問題多到要離開前還在提問之外，多數的原因是病人害怕提問。這類病人擔心被拒絕的心理狀態或是怕問出愚蠢的問題很丟臉，導致他們在診間內醞釀許久，遲遲不願提供關鍵訊息，直到離開前才累積足夠的勇氣提問；而會選擇離開前才提問，也是源於若提出的問題惹醫師不高興，也可以選擇匆忙離開。\n綜上所述，最符合的選項為 (B)。而面對這種狀況最好的解決方法，就是請病人離開診間前，再多問一句「有沒有其他擔憂或問題想問我？」",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-71_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-71_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-72",
@@ -23119,9 +23121,11 @@
       "D": "罹患肺結核或黴菌感染之風險較低"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 煤礦工人塵肺症 (Coal workers pneumoconiosis, CWP) | 矽肺症 (Silicosis) |\n| :--- | :--- |\n| **暴露物質** | 無機粉塵（比較：hypersensitivity pneumonitis 為有機粉塵） |\n| **好犯肺葉** | 上肺葉（比較：石綿暴露好犯下肺葉、鈹肺症為全身性肉芽腫） |\n| **影像特徵** | 約 1~5mm 的結節狀病灶、長期慢性暴露則出現網狀型態 (reticular pattern) | 約 1~10mm 的結節狀病灶、肺門淋巴結可能有蛋殼樣鈣化 (eggshell calcification) |\n| **相關疾病** | 肺纖維化、TB * | COPD、TB、肺癌、硬皮症 |\n\n\\* 輕微的 CWP 不會增加 TB 或黴菌感染的風險\n\n(A) 錯誤，CWP 是否增加罹患肺癌的風險在過去是爭論很久的議題，有些觀察性研究確實發現 CWP 會提高肺癌的勝算比 (odds ratio)，但因果關聯不明確。國際癌症研究機構 (IARC) 於 1997 年發布報告則是認定煤塵 (coal dust) 為三級致癌物，也就是沒有致癌性。而石英粉塵 (crystalline silica) 則是一級致癌物。\n(B)(C) 硬皮症、肺門淋巴結鈣化、TB 或黴菌感染皆為矽肺症的特徵。\n(D) 會增加感染 TB 的風險。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-72_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-72_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-73",
@@ -23136,9 +23140,11 @@
       "D": "骨頭轉移的疼痛，以非類固醇類抗發炎藥物（non-steroidal anti-inflammatory drug）為首選"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，疼痛牽涉到複雜的機轉，由疾病衍生出的各個層面，直接影響個體或間接透過降低疼痛閾值，交互作用下產生的不愉快感受或經驗。\n\n| 疼痛層面 | 舉例 |\n| :--- | :--- |\n| **生理** | 疾病本身造成組織實質性的受損，如：癌症侵犯周遭組織、癌症骨轉移。 |\n| **心理** | 因疾病或疼痛影響情緒，如：過去疼痛的經驗讓我更害怕下次疼痛的發生。 |\n| **社會** | 人際關係的改變，如：家人辭去喜愛的工作辛苦照顧我，心情感到虧欠。 |\n| **靈性** | 病人所秉持的信念導致，如：生病到生活無法自理，內心感受生不如死。 |\n\n(B) 錯誤，末期病人的疼痛控制要遵守三大原則 “By the ladder, by the clock, by the mouth.” 意即根據疼痛程度給止痛藥、定時給藥而非疼痛時再給、以口服給藥為主，此外也要根據病人個別狀況調整 (by the individual)。\n(C) 正確，末期病人有 65% 為本體痛 (nociceptive)，為感覺神經接受到有害刺激後，傳到大腦的疼痛處理中樞後的大腦感受，包含體疼痛 (somatic)、內臟疼痛 (visceral)。嗎啡類藥物作用在下行路徑的神經受體上 ($\\mu$ receptor) 而達到抑制疼痛訊號的效果。另外的 35% 為神經痛 (neuropathic)，為受損的神經自行發出疼痛的訊號，嗎啡類藥物的作用較差。\n(D) 正確，除了嗎啡類藥物之外，有其他類型的藥物能輔助減緩特定類型的疼痛，這類藥物稱為 “co-analgesics”\n\n| 疼痛類型 | 疼痛特徵 | 可選用的藥物 |\n| :--- | :--- | :--- |\n| **骨頭或軟組織痛** | 骨頭、關節觸壓或是活動時疼痛 | 非類固醇消炎藥 NSAIDs，如：ibuprofen、celecoxib<br>類固醇 steroid，如：dexamethasone |\n| **神經痛、感覺異常** | 燒灼感、電流刺激感，或是沿著脊髓神經節分布 | 三環抗憂鬱劑 TCA，如：amitriptyline、doxepin<br>抗癲癇藥物 anti-convulsant，如：carbamazepine、gabapentin、valproic acid<br>類固醇 steroid，如：dexamethasone |\n| **平滑肌攣縮痛** | 腸胃道或泌尿道絞痛 (cramps) | 抗膽鹼藥 anti-cholinergic，如：oxybutynin、hyoscyamine |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-73_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-73_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-74",
@@ -23153,9 +23159,11 @@
       "D": "髂靜脈或股靜脈的鈣化（calcifications in iliac or femoral vessels）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這題四個選項都會產生鈣化，考的是腹部器官的解剖位置：\n\n| 右季肋區 (rt. hypochondriac regions) | 上腹區 (Epigastric Region) | 左季肋區 (lt. hypochondriac regions) |\n| :--- | :--- | :--- |\n| 右肝、右腎、膽囊 | 左肝、胃小彎和幽門、十二指腸上部、胰臟、腎上腺 | 胃、胰尾、脾臟、左腎 |\n| **右腰區 (rt. lumbar regions)** | **臍區 (Umbilical Region)** | **左腰區 (lt. lumbar regions)** |\n| 升結腸 | 橫結腸、胃 | 降結腸 |\n| **右髂區 (Right Inguinal / Iliac Region)** | **腹下區 (Hypogastric / Pubic Region)** | **左髂區 (Left Inguinal / Iliac Region)** |\n| 闌尾 | 乙狀結腸、膀胱、子宮 | 乙狀結腸 |\n\n因此，最可能產生腹部正中央的鈣化是慢性胰臟炎所導致。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-74_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-74_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-75",
@@ -23170,9 +23178,11 @@
       "D": "腫瘤於磁振造影T2序列出現低訊號（hypointense nodule on T2WI）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 肝內血管瘤 (hepatic hemangioma) 的影像特色 | |\n| :--- | :--- |\n| **CT** | 周圍結節狀顯影及中央顯影劑流入 (peripheral nodular enhancement with central fill-in pattern) |\n| **MRI** | 邊緣清楚、組織型態均質<br>周圍結節狀顯影及中央顯影劑流入 (peripheral nodular enhancement with central fill-in pattern)<br>T1 低回音、T2 高回音 |\n\n其他肝臟腫瘤的影像學表現，請參考一般外科【113-1(五)35】。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-75_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-75_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-76",
@@ -23187,9 +23197,11 @@
       "D": "5,500 mL"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Parkland formula 為計算燒傷病人前 24 小時需給予的輸液量（以晶體溶液的 Lactated Ringer (LR) 為首選），公式為：輸液總量 (mL) = $4 \\times \\text{體重} \\times \\text{燒傷面積}$，前 8 小時給一半的總量、後 16 小時把剩下一半給完。必須注意的是這裡的燒傷面積僅計算「二度燒傷」以上。以此病人為例，24 小時輸液總量為 $4 \\times 50 \\times (20 + 5) = 5000\\text{ mL}$，前 8 小時須給 2500 mL。\n\n其他考點：\n1. 燒傷病人（小孩 TBSA > 15%、成人 TBSA > 20%）有 3 個 formula 要計算：\n\n| 公式名稱 | 計算目的 | 計算方式 |\n| :--- | :--- | :--- |\n| **Parkland** | 前 24 小時所需輸液總量 | $4 \\times \\text{體重} \\times \\text{燒傷面積}$，前 8 小時給完一半 |\n| **Modified Brooke** | 前 48 小時所需液體總量 | 前 24 小時輸晶體溶液為 $2 \\times \\text{體重} \\times \\text{燒傷面積}$，前 8 小時給完一半。<br>第 25~48 小時給膠體溶液及葡萄糖水 (D5W)：$0.33 \\sim 0.5 \\times \\text{體重} \\times \\text{燒傷面積}$ |\n| **Curreri** | 每日所需熱量 (kcal) | $25 \\times \\text{體重} + 40 \\times \\text{燒傷面積}$（>50% 則以 50 計算）<br>1~12 歲的兒童為：$60 \\times \\text{體重} + 35 \\times \\text{燒傷面積}$ |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-76_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-76_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-77",
@@ -23204,9 +23216,11 @@
       "D": "若心肌酵素正常，則可排除心肌梗塞，須尋找其他胸痛原因"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "病人出現胸痛、喘、冒冷汗的情形，需懷疑心肺急症。判讀心電圖發現有下壁導極 (lead II、III、aVF) 的 ST elevation (ST segment 上升 >1~1.5 mm)，且出現對應導極變化 (reciprocal change)，如：前壁導極 (lead V2、V3)、側壁導極 (lead I、aVL) 的 ST depression，須高度懷疑 STEMI。\n(A) 正確，懷疑 STEMI 的病人，door-to-EKG (D2E) 的目標為 10 分鐘內，須做完心電圖檢查並完成判讀；door-to-balloon (D2B) 為 90 分鐘內，須完成心導管氣球擴張。此外，在無心導管設備的地區，以致於 D2B 會超過 120 分鐘，則 door-to-needle (D2N) 目標為 30 分鐘內，須完成血栓溶解劑的施打。\n(B) 正確，下壁導極的 STEMI 有 40% 為右心室梗塞，須加做右心 EKG，將 V3~V6 對稱地貼至胸骨對側成 V3R~V6R（其中診斷價值最高的為 V4R）。\n(C) 正確，主動脈剝離的患者也會以胸痛、喘、冒冷汗表現，若血管剝離導致分支動脈部份或完全阻塞，則稱為 malperfusion syndrome，根據影響到的動脈，產生 AMI、中風、腸缺血、AKI 等表現。而冠狀動脈中以 RCA 最常被影響，導致下壁心肌梗塞。床邊心臟超音波主要能偵測是否有升主動脈的剝離。\n(D) 錯誤，此病患有症狀，且心電圖有 ST elevation，已可診斷 STEMI。AMI 初期抽血心肌酵素可能仍正常。另外，過去認為的心肌酵素包含 CK-MB、Troponin T、Troponin I 等，目前以後兩者為主（CK-MB 已被高度建議不要再用來偵測心肌梗塞了！）。\n\n以下補充懷疑 NSTEMI 的 ESC 0h/1h algorithms：\n\n| 懷疑 AMI | High-sensitive troponin T (ng/L) | High-sensitive troponin I (ng/L) |\n| :--- | :--- | :--- |\n| **可排除** | 0h <5，或 0h <12 且 $\\Delta$ 1h <3 | 0h <2，或 0h <5 且 $\\Delta$ 1h <2 |\n| **再觀察** | 介於中間 |\n| **須納入** | 0h $\\ge$52，或 $\\Delta$ 1h $\\ge$5 | 0h $\\ge$52，或 $\\Delta$ 1h $\\ge$6 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-77_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-77_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-78",
@@ -23221,9 +23235,11 @@
       "D": "對於其他藥物無效的嘔吐，可嘗試用多巴胺拮抗劑（dopamine antagonist）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，morphine 常見且重要的副作用有個口訣：MORPHINE，其中最需要注意的就是呼吸抑制，否則病人打完 morphine 之後掉血氧會很可怕…\n\n| MORPHINE 常見副作用 | | | |\n| :--- | :--- | :--- | :--- |\n| **M** | 縮瞳 (miosis，與便秘為唯二無耐受性，副作用不會隨著重複使用而減弱) | **H** | 低血壓 (hypotension)，含姿勢性低血壓 |\n| **O** | 無知覺 (out of it, = sedation) | **I** | 排便 / 尿障礙 (infrequency) |\n| **R** | 呼吸 respiratory distress | **N** | 噁心 (nausea) |\n| **P** | 皮膚搔癢 (pruritis)，與組織胺釋放有關 | **E** | 欣快感 (euphoria) |\n\n(B) 錯誤，針對呼吸困難病人的緩和治療，除了給予氧氣，也可以考慮使用嗎啡類藥物。原理是利用嗎啡類藥物呼吸抑制 (respiratory depression) 的副作用，減緩病人「喘的感覺」。然而起始劑量並非止痛劑量的雙倍，而是與止痛劑量相同即可（如：2.5~5mg IV Q4H）。\n(C) 正確，腸胃道阻塞造成的嘔吐可透過禁食、NG tube 減壓，或是 octreotide（如：sandostatin IV/SC）、corticosteroid (Dexamethasone IV) 緩解。\n(D) 正確，臨床上常用 prochlorperazine (Novamin)、metoclopramide (Primperan) 等藥物止吐，這些都是多巴胺拮抗劑。而末期病人的嘔吐除了化療副作用、腸胃道因癌症阻塞等因素之外，也會因焦慮躁動等過度心理活動造成，亦可考慮用 BZD 或是 haloperidol 等藥物減緩嘔吐。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-78_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-78_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-79",
@@ -23238,9 +23254,11 @@
       "D": "「不予急救」及「撤除維生醫療」，在安寧緩和醫療條例中適用不同規範"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據《安寧緩和醫療條例》第七條第三項，末期病人無簽署意願書且意識昏迷或無法清楚表達意願時，由其最近親屬出具同意書代替之…同意書或醫囑均不得與末期病人於意識昏迷或無法清楚表達意願前明示之意思表示相反。本題吳先生在意識清楚時已表示不願插管，因此應遵循病人的意願簽署同意書。\n\n其他考點：\n1. 安寧緩和條例中，病人簽署的為意願書、家屬簽署的為同意書。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-79_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-79_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-80",
@@ -23255,9 +23273,11 @@
       "D": "依據正義原則，選擇多數人最能接受的治療"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據《病人自主權利法》第十條第三項，醫療委任代理人於意願人意識昏迷或無法清楚表達意願時，代理意願人表達醫療意願，其權限如下：…依病人預立醫療決定內容，代理病人表達醫療意願。\n由此可知，醫療委任代理人應以病人在意識清楚時所表達的意願做決定。若病人先前未明確表達意願時，也應由自己對病人的了解，選擇病人最希望的治療處置。\n\n其他考點：\n1. 當病人有委任醫療代理人，且到達生命末期需要做決定時，決定醫療處置的順序為：本人 $\\rightarrow$ 代理人 $\\rightarrow$ 家屬。（家屬的順位較代理人後面）。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-80_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-80_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-1",
