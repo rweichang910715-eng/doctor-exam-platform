@@ -25002,9 +25002,11 @@
       "D": "E 級，anterior cord syndrome"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Spinal cord injury (SCI) 根據受損位置，會出現不同的表現及症候群，題幹的敘述為肩膀以下感覺異常、上肢肌力受損較下肢嚴重，暗示脊髓的前柱及後柱皆有部分受損，且位置較靠近中央（在 lateral corticospinal tract 當中，上肢運動神經分布較靠近內側），應為 central cord syndrome\n\nASIA Impairment Scale (AIS) 根據脊損損傷的程度分為 A~E 級：\n\n| AIS 分級 | 定義與特徵 |\n| :--- | :--- |\n| **A : 完全損傷 (Complete)** | 感覺及運動功能完全喪失 |\n| **B : 感覺不完全損傷 (Sensory incomplete)** | 感覺功能有 sacral sparing（S4-S5 仍保有感覺功能） |\n| **C : 運動不完全損傷 (Motor incomplete)** | 運動功能有 sacral sparing，且受損神經位階（neurological level of injury, NLI）以下的肌肉力量，僅不到半數超過 3 分 |\n| **D : 運動不完全損傷 (Motor incomplete)** | NLI 以下的肌肉力量，至少半數（含剛好一半）超過 3 分 |\n| **E : 正常** | 感覺及運動功能正常（先前脊髓損傷的人恢復後才能評） |\n\n**感覺測試的分級：**\n• 0 = 完全無感覺\n• 1 = 感覺改變（減弱或增強）\n• 2 = 正常\n\n**肌肉力量測試的分級：**\n• 0 = 完全癱軟\n• 1 = 可見或可觸摸的收縮\n• 2 = 可部分抵抗重力\n• 3 = 可恰巧抵抗重力\n• 4 = 可抵抗重力加上中等程度的阻力\n• 5 = 正常\n\n肩膀以下有感覺異常，因此 NLI 應定位於頸椎 level，上肢 1~2 分、下肢 3~4 分，剛好有半數的肌肉力量超過 3 分，因此為 AIS D\n\n關於 incomplete SCI 的比較，建議考生參考神經內科【 113-2(四)53 】、復健科【 113-1(六)59 】",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-11_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-11_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-12",
@@ -25019,9 +25021,11 @@
       "D": "腦實質出血 30 c.c."
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腦壓升高與腦中血液堆積、CSF 過多、腦實質病變等機轉有關：\n\n| 腦壓升高成因 | 次分類 | 詳細機轉與病因 |\n| :--- | :--- | :--- |\n| **腦中血液堆積** | 動脈血流量增加 | 使用血管擴張劑 (vasodilator)、嚴重低血氧、酸血症、血中二氧化碳過高 (hypercapnia) |\n| **腦中血液堆積** | 靜脈回流受阻 | 頸靜脈回流受阻、呼吸道壓力上升 |\n| **CSF 過多** | 製造增加 | 脈絡叢乳突瘤 (choroid plexus papilloma) |\n| **CSF 過多** | 回收減少 | SAH、IVH、阻塞性水腦症 |\n| **腦實質病變** | 腦組織腫脹 | • 因感染、癌症等原因導致 BBB 受損形成 vasogenic edema<br>• 因外傷或缺血導致細胞壞死而形成 cytotoxic edema<br>• 因高血鈉等滲透壓異常形成 interstitial edema (BBB 正常) |\n| **腦實質病變** | 腫塊 | space-occupying lesions |\n| **其他** | | pseudotumor cerebri (idiopathic intracranial hypertension, IIH)<br>normal pressure hydrocephalus (NPH) |\n\n(B) 選項降低血中 CO2 為腦傷病人降低腦壓的策略之一，考生可搭配神經外科【 113-2(五)12 】一同複習減少腦壓的處置策略",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-12_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-12_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-13",
@@ -25036,9 +25040,11 @@
       "D": "患者常合併智力障礙"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 腦膨出（encephalocele） | 說明 |\n| :--- | :--- |\n| **名詞定義** | 腦實質組織及／或腦膜透過顱骨未閉合的裂縫或缺口（常為中線上的骨縫癒合不良向顱骨外膨出（若只有腦膜跑出顱骨外，則特別稱為 meningocele） → (A) 正確 |\n| **分型** | 根據膨出位置的不同，可以分成前腦膨出 (sincipital)、顱底膨出 (basal)、枕葉膨出 (occipital)、頂葉膨出 (parietal) |\n| **流行病學** | 每萬活產兒約 0.8~5 例，北美及西歐多為枕葉膨出、亞洲區域多為前葉膨出 → (B) 正確 |\n| **臨床表現** | 常合併膨出處腦發育不良，產生智能低下的狀況 → (D) 正確<br>前腦膨出會合併顱顏形狀異常；顱底膨出會合併呼吸道阻塞、反覆上呼吸道感染、腦膜炎；枕葉膨出會出現顱神經異常、新生兒吸吮力差、癲癇 |\n| **治療** | • 取決於不同膨出部位、膨出內容物、膨出腫塊大小等<br>• 多數可透過手術切除膨出處並縫補缺損處 → (C) 錯誤<br>• 前腦膨出常須合併做顱顏整形；顱底膨出為減少腦膜炎發生率，須合併做顱底重建修補，若膨出物含有腦組織，則須做顱骨擴張成型術 (expanding cranioplasty) 來容納膨出的腦組織 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-13_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-13_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-14",
@@ -25053,9 +25059,11 @@
       "D": "type V"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| Mathes-Nahai classification of muscular flaps | | |\n| :--- | :--- | :--- |\n| **Type** | **血管供應** | **舉例** |\n| **I** | 單一血管 | Gastrocnemius<br>Tensor fascia lata |\n| **II** | 主要血管加上小血管<br>（若只有小血管 Flap 無法存活） | Gracilis<br>Trapezius |\n| **III** | 兩條主要血管 | Rectus abdominis<br>Gluteus maximus<br>Serratus anterior |\n| **IV** | 多段血管 | Sartorius<br>Tibialis anterior |\n| **V** | 主要血管加上次要血管<br>（只有次要血管 Flap 也能存活） | Pectoralis major<br>Latissimus dorsi |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-14_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-14_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-15",
@@ -25070,9 +25078,11 @@
       "D": "5"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Gilula's arcs 的三條線為近側腕骨（舟、月、三角、豆）的近端邊緣連線、近側腕骨的遠端邊緣連線，以及遠側腕骨（大、小、頭、鉤）的近端邊緣連線，若非平滑弧線代表可能有韌帶受傷或骨頭脫位\n\n（礙於版權無法放圖，可參考 Schwartz's Principles of Surgery 第 11 版 p1932 的 Figure 44-8）",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-15_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-15_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-16",
@@ -25087,9 +25097,11 @@
       "D": "第四型（class IV）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "• Angle classification 用以描述上排牙齒 (Maxillary teeth) 與下排牙齒 (Mandibular teeth) 之間的關係，共分成三型\n• Class I：咬合正常（上下顎第一大臼齒咬合在正常位置）\n• Class II：上顎前移（暴牙）\n• Class III：上顎後縮（戽斗）\n\n由此可知咬合不正矯正後盡量以 Class I (咬合正常) 為佳",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-16_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-16_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-17",
@@ -25104,9 +25116,11 @@
       "D": "鎖骨上皮瓣（supraclavicular flap）由鎖骨上動脈（supraclavicular artery）供應，可應用於臉部或頸部外側，需要做為較薄的皮瓣時使用"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此為來自教科書的段落的題目，提到的三種皮瓣皆屬於 Regional flaps，於頭頸部重建時常會使用到\n\n| Regional flaps | 供應血管 | 常見用途 |\n| :--- | :--- | :--- |\n| **Pectoralis major myocutaneous flap** | Thoracoacromial artery | • Total laryngectomy 後的下咽部重建首選<br>• 大血管暴露時的補救重建方式 |\n| **Submental flap** | Submental artery（來自 Facial artery） | • 口腔內部重建<br>• Parotid、temporal bone 重建 |\n| **Supraclavicular flap** | Supraclavicular artery（來自 Transverse cervical artery） | 臉部、頸部外側重建（需要較薄的皮瓣） |\n\n另外教科書上也列出了許多頭頸部重建可能使用的 Free flaps，一併整理於此供參考：\n\n| Free flaps | 供應血管 | 常見用途 |\n| :--- | :--- | :--- |\n| **Radial forearm** | Radial artery | Partial and hemiglossectomy、口底、臉頰重建 |\n| **Anterolateral thigh** | Descending branch of lateral femoral circumflex artery | Extended hemiglossectomy、Total glossectomy、下咽、頸部／臉部外側皮膚重建 |\n| **Lateral arm** | Posterior radial collateral artery | Parotid、Temporal bone、頸部／臉部外側皮膚重建 |\n| **Rectus** | Deep inferior epigastric artery | Total glossectomy、顱底重建 |\n| **Latissimus dorsi** | Thoracodorsal artery | 廣泛的頭皮及顱底重建 |\n| **Fibula osseocutaneous** | Fibular artery | 部分下頜及上頜骨重建 |\n| **Scapula osseocutaneous** | Circumflex scapular artery | 部分下頜及上頜骨重建 |\n| **Radial forearm osseocutaneous** | Radial artery | 部分下頜骨重建、眼眶重建 |\n| **Iliac crest** | Deep circumflex iliac artery | 部分下頜骨重建 |\n\n參考資料：Schwartz's Principles of Surgery 11th edition p651 Table 18-6",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-17_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-17_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-18",
@@ -25121,9 +25135,11 @@
       "D": "義乳乳房重建（implant-based reconstruction）導致的巨大細胞淋巴瘤（BIA-ALCL）西方人比東方人少見"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，目前最常使用的乳房重建方式是義乳乳房重建，根據 American Society of Plastic Surgeons (ASPS) 2023 年統計，施做乳房重建的 157740 人中，有 85970 人 (54.5%) 選擇使用組織擴張器後再植入義乳，36557 人 (23.1%) 選擇直接植入義乳，選擇使用 DIEP flap 者有 20703 人 (13.1%)，而 Transverse rectus abdominis myocutaneous (TRAM) flap 者則有 3453 人（Pedicle TRAM 1109 人，Free TRAM 2344 人）\n\n(B) 正確，義乳乳房重建的併發症包含血腫、傷口癒合不良、義乳移位、義乳破裂、莢膜攣縮、皮膚壞死、感染、血清腫 (seroma)、義乳外露等，增加併發症風險的狀況有：施做放射治療（術前或術後皆會增加）、肥胖、胸部較大、抽菸，另外，在近幾年發現表面粗糙的義乳 (Surface texture implants) 雖然可以減少莢膜攣縮，但可能導致慢性發炎而引起 Breast implant-associated anaplastic large cell lymphoma (BIA-ALCL)\n\n(C) 錯誤，Free flaps 受區血管首選為 Internal mammary artery (Internal thoracic artery)，理由包含血管管徑較粗、血流充足、相對不會被放射治療影響等\n\n(D) 錯誤，西方人（如美國、澳洲、英國、法國等）比較常見\n\n參考資料：\n• American Society of Plastic Surgeons: 2023 Plastic Surgery Statistics Report\n• Ionescu, P., Vibert, F., Amé, S., & Mathelin, C. (2021). New Data on the Epidemiology of Breast Implant-Associated Anaplastic Large Cell Lymphoma. European journal of breast health, 17(4), 302–307. https://doi.org/10.4274/ejbh.galenos.2021.2021-5-6",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-18_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-18_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-19",
@@ -25138,9 +25154,11 @@
       "D": "針對心臟收縮功能低下的病人，加上 digoxin 有足夠證據顯示助於降低死亡率"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，Class I recommendation 包含：戒菸、減少二手菸暴露、血壓控制到 140/90 mmHg 以下（有糖尿病或慢性腎臟病則再壓低至 130/80 mmHg 以下）、LDL 小於 100 mg/dL、沒有禁忌症者給予 aspirin、BMI 小於 25 kg/m²、HbA1c 小於 7%、每天中等強度的有氧運動等\n\n(B) 正確，對左心室收縮功能不良、急性冠心症 (acute coronary syndrome) 後、心肌梗塞後、血管重建治療 (revascularization) 後等四大類病人，若無禁忌症，皆建議給予 β-blocker\n\n(C) 正確，血管內的粥狀硬化斑塊 (atheroma) 會被纖維帽 (fibrous cap) 蓋住，若它破裂 (plaque rupture) 會造成斑塊內的物質釋出，引發凝血反應，形成血栓 (thrombus formation)，進展成急性冠心症 (acute coronary syndrome)\n\n(D) 錯誤，常考的觀念：在心衰竭病人上，digoxin 只會降低住院率，不會降低死亡率",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-19_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-19_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-20",
@@ -25155,9 +25173,11 @@
       "D": "心臟電腦斷層（heart CT）是目前的診斷標準工具"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，原發腫瘤以良性為大宗\n\n(B) 不可給予抗凝血劑，反而會增加栓塞風險，應手術切除，若是血塊才可以給予抗凝血劑治療，當無法靠病史和超音波區分血塊和腫瘤時，應做核磁共振幫助鑑別，不可貿然給抗凝血劑\n\n(C) 正確\n\n(D) 以心臟超音波和心臟核磁共振為主\n\n關於心臟腫瘤，詳見下方整理：\n\n| 心臟腫瘤分類 | 次分類 | 特徵與臨床重點 |\n| :--- | :--- | :--- |\n| **概述** | 轉移性多 | 黑色素細胞癌最常見 |\n| **概述** | 原發性少（良性佔 75%） | 其中 50% 是心臟黏液瘤 (myxoma)，其餘包含乳突纖維彈性瘤 (papillary fibroelastomas)、脂肪瘤 (lipomas)、橫紋肌瘤 (rhabdomyoma) 等 |\n| **概述** | 原發性少（惡性佔 25%） | 多長在右心，以肉瘤 (sarcoma) 為大宗，偶爾可見淋巴瘤 (lymphoma) |\n| **症狀** | | 依位置而定，最常出現的症狀是血流阻塞，由於大多腫瘤好發左心房，症狀會像是二尖瓣疾病造成喘、肺水腫，若是在其他腔室則可能造成右心衰竭、主動脈出口阻塞或猝死，有些腫瘤會造成栓塞，如：中風、腎動脈栓塞等 |\n| **診斷** | | 超音波是主要的檢查工具，進一步檢查會安排核磁共振 (cardiac magnetic resonance imaging) |\n| **治療** | | 腫瘤以手術為主；抗凝血劑可能引起栓塞，不可給予 |\n\n| 心臟黏液瘤（myxoma） | 臨床重點 |\n| :--- | :--- |\n| **概述** | 好發於 40-60 歲女性，75% 是從左心房中隔近卵圓窩 (fossa ovalis) 處長出來的，其他多長在右心房，大多是光滑的 (smooth)，但也有絨毛狀 (villous) 或易碎的 (friable) 的型態，後兩者較易造成栓塞 |\n| **治療** | 由於有阻塞和栓塞的風險，建議盡快手術切除 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-20_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-20_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-21",
