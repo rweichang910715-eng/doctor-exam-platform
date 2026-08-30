@@ -24812,9 +24812,11 @@
       "D": "應使用頸圈固定病人頸部"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "頭部外傷（traumatic brain injury, TBI）\n\n| 頭部外傷（traumatic brain injury, TBI） | |\n| :--- | :--- |\n| **病史** | • 墜落高度、車輛損壞情況、車內其他乘客狀況<br>• 過去疾病史、用藥史（尤其是抗凝劑）、藥物或酒精使用 |\n| **PE 評估** | • TBI 嚴重度依 GCS 分級：GCS=14-15：輕度；GCS=9-13：中度；GCS=3-8：重度<br>• 神經學評估：瞳孔光反射、肌力、感覺皮節等 |\n| **影像** | • 是否照 CT：新奧爾良標準（New Orleans Criteria）和加拿大頭部 CT 規則（Canadian CT Head Rule），較常用的是 Canadian CT Head Rule：若 GCS<13，或 GCS=13-15，且符合任一以下條件：GCS 兩小時後仍 <15、懷疑開放性或壓迫性頭骨骨折、年紀大於 65 歲、吐 >1 次、逆行性失憶 >30 分鐘、危險機轉（行人在路上被車撞、跌超過五階…）則建議做 CT |\n\n此病人 GCS<8，屬重度頭部外傷病患，底下針對中重度頭部外傷處置重點整理：\n\n| 處置 | |\n| :--- | :--- |\n| **呼吸** | 保護呼吸道：插管（endotracheal intubation）並接上呼吸器，勿過度換氣，PaO2 建議維持在 80-120 mmHg 之間，PaCO2 維持在 35-45 mmHg，(A) 選項正確 |\n| **循環** | 若有大量出血，輸液維持血壓，(C) 選項正確<br>（**CRASH-3 trial：在低或中度頭部外傷 (GCS=9-15) 病人給予 tranexamic acid 對於降低風險有顯著差異 (RR 0.78; 95% CI 0.64-0.95)，但對於重度頭部外傷 (GCS=3-8) 病人則沒有顯著差異 (RR 0.99; 95% CI 0.91-1.07)） |\n| **腦部** | • 床頭搖高 30 度<br>• 常規使用頸圈固定，並依 C-SPINE NEXUS Criteria 評估是否移除頸圈，(D) 選項正確<br>• 是否開刀根據血腫大小和病患意識狀態決定是否進行硬膜外、硬膜下和腦內血腫減壓手術 |\n| **預後模型** | • International Mission for Prognosis and Analysis of Clinical Trials in TBI (IMPACT)<br>• Corticosteroid Randomisation After Significant Head Injury (CRASH) |\n\n至於到底要不要給類固醇，CRASH trial 結果顯示使用類固醇死亡率是未使用的 1.18 倍（95% CI 1.09-1.27），因此不建議使用，(B) 選項錯誤",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-1_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-1_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-2",
@@ -24829,9 +24831,11 @@
       "D": "測量心跳、血壓及 EKG 的變化"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(C)(D) 正確\n\n(B) 腹部 X 光無法評估腹部鈍挫傷，原因是無法有效看出腹部軟組織是否有撕裂傷或檢測游離液體，雖然可以看出一些間接腹腔損傷的證據（如腹腔內的氣體），但敏感性和特異性都不足，相比之下，胸部和骨盆 X 光在初步評估中仍然具有重要價值，最大差異是這兩個部位外面有骨頭，用超音波掃視野受限，X 光相對穿透力較佳，可以穿透骨頭辨識鄰近區域可能存在的出血",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-2_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-2_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-3",
@@ -24846,9 +24850,11 @@
       "D": "會造成 cardiac output 降低"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腹內壓力（intra-abdominal pressure, IAP）可由膀胱壓間接測量，正常值約為 5 mmHg，大於 12 mmHg 稱為腹內高壓（intra-abdominal hypertension, IAH），開始影響橫膈膜的運動、造成不等程度的呼吸困難，當 IAP 持續上升，造成靜脈回流受阻時，則稱為腹部腔室症候群（abdominal compartment syndrome, ACS），導致回心血流降低、preload 不足，器官 perfusion 也隨之減少，(B) 選項錯在呼吸器的使用會受 IAP 影響，若發生 ACS 須調整呼吸器的參數或減壓",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-3_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-3_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-4",
@@ -24863,9 +24869,11 @@
       "D": "氣管內插管與肺坍塌無關"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "手術後肺塌陷最主要的致病原因為病人吸氣狀態不理想，無法撐開足夠多的肺泡，以致於肺擴張不全，在術後病人盛行率高達 25%，造成吸氣狀態不理想的原因有：術中麻醉藥使用、術後止痛不佳、痰液堆積、肺組織結構異常，鼓勵病人坐起來、術後早期下床走動、適當止痛都對肺塌陷的預防有幫助\n\n(D) 選項氣管內插管放置過深，可能導致支氣管開口被擋住，造成部份肺葉塌陷；也會造成支氣管刺激，使痰液分泌增加，且使用呼吸器的病人若 tidal volume 過低，肺也會無法完全擴張，這些都是造成肺塌陷的因素",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-4_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-4_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-5",
@@ -24880,9 +24888,11 @@
       "D": "沒有肝外轉移病灶"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "HCC 換肝的準則最先為 1996 年 Milan criteria 所提出：\n• 單一肝腫瘤 ≤ 5 cm → (A) 錯誤\n• 2~3 顆肝腫瘤，其最大徑不超過 3 cm → (B) 正確\n• 沒有血管侵犯及肝外轉移 → (C)、(D) 正確\n\n後來發現 Milan criteria 要求過於嚴格，2001 年衍生 UCSF criteria：\n• 單一肝腫瘤 ≤ 6.5 cm\n• 2~3 顆肝腫瘤，其最大徑不超過 4.5 cm，以及個別腫瘤直徑加總不超過 8 cm\n• 沒有血管侵犯及肝外轉移",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-5_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-5_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-6",
@@ -24897,9 +24907,11 @@
       "D": "胰臟移植後最常見的長期死亡原因為糖尿病復發"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，胰臟移植通常是用來治療 type 1 DM 的患者，及部分低死亡風險的 type 2 DM 病人，台灣胰臟移植的適應症羅列如下：\n\n| Type 1 DM | Type 2 DM |\n| :--- | :--- |\n| • 併有糖尿病合併症產生，如：視網膜病變、腎病變、神經病變、心腦血管病變<br>• 常因血糖過低或過高引發生命威脅者<br>• 因血糖控制不易產生求學、就業、日常生活困難者 | • 已使用胰島素注射治療，且合併有腎衰竭現象者，但胰島素注射量須少於 1.5 U/kg/day，且無其他器官嚴重疾病 |\n\n(B) 錯誤，胰臟移植的內分泌同樣由血液供給全身，而外分泌可選擇引流至膀胱及腸道，目前傾向使用腸道引流，以下比較膀胱引流及腸道引流的優缺點：\n\n| 比較項目 | 膀胱引流 | 腸道引流 |\n| :--- | :--- | :--- |\n| **優點** | • 減少腸道細菌移生感染移植胰臟<br>• 可偵測尿液中 amylase 的濃度，作為發生排斥的早期偵測工具 | • 較符合正常生理<br>• 當膀胱引流出現併發症時，可再次手術轉換成腸道引流 |\n| **缺點** | • 富含 HCO3- 的胰液無法由腸道再吸收，導致嚴重的代謝性酸中毒<br>• 泌尿道感染、排尿疼痛 | • 有細菌感染的風險，但大規模研究證實其實感染風險沒有顯著上升 |\n\n(C) 正確，胰臟移植的併發症包含腸吻合滲漏、出血、血管栓塞、感染、胰臟炎、腸阻塞，其中移植物的血管栓塞（graft thrombosis）為最常見的移植失敗原因，因此會考慮在術後短暫給低劑量的 heparin 減少栓塞風險\n\n(D) 錯誤，常見考點！洗腎、胰臟或腎臟移植病人最常見的死因為心血管疾病，因此在移植前須審慎評估病人心血管狀況，移植後也要定期追蹤",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-6_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-6_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-7",
@@ -24914,9 +24926,11 @@
       "D": "鎂（Mg）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "接受胃切除手術的病人須將剩餘的胃與腸子連接，B-II 將切除後小腸的斷端縫成盲端，並在小腸遠端與胃的斷端做 side-to-end 連接，術後會犧牲掉十二指腸吸收養分的功能，因此，主要由十二指腸吸收的養份都可能缺乏，以下整理消化道各段吸收的物質：\n\n| 消化道部位 | 吸收物質 |\n| :--- | :--- |\n| **胃** | 酒精、藥物、碘、銅 |\n| **十二指腸** | 鈣、磷、鎂、二價鐵、folate (B9)、脂溶性維生素 (A/D/E/K) |\n| **空腸** | 磷、鎂、二價鐵、folate (B9) |\n| **迴腸** | 膽鹽、Vit B12 |\n| **大腸** | Biotin (B7)、Vit K、短鏈脂肪酸 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-7_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-7_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-8",
@@ -24931,9 +24945,11 @@
       "D": "不管復發或原發腫瘤，radiation therapy 都沒有治療的角色"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 腦膜瘤（meningioma） | |\n| :--- | :--- |\n| **流行病學** | 佔腦／脊髓腫瘤的 1/3，為最常見的 primary CNS tumor（過去為 glioblastoma multiforme 最多），男女比 1 : 2，10% 為多發性 → (C) 錯誤 |\n| **致病機轉** | 源於蜘蛛網膜顆粒（arachnoid granules）上的帽細胞（cap cell） → (A) 錯誤<br>與放射治療、女性荷爾蒙、神經纖維瘤（neurofibromatosis）有關 |\n| **臨床表現** | 視力喪失、嗅覺喪失、單側手腳無力、頭痛、癲癇等 |\n| **影像特徵** | Meningioma 為腦實質外的腫瘤（軸外腫瘤，extra-axial tumor），典型特徵包含：dura-based（緊鄰在硬腦膜旁）、有 dura tail（導致顱骨反應）、有 CSF cleft（腫瘤與腦實質間有 CSF）、腫瘤輪廓平整、可見鈣化 |\n| **治療／預後** | 手術切除為治癒性的治療，針對惡性腦膜瘤可考慮術後放射線治療 → (D) 錯誤<br>Simpson grading scale 用來評估腫瘤切除後的完整度（與復發率相關） → (B) 正確 |\n\n| 評估工具 | 切除範圍與程度 | 10 年復發率 |\n| :--- | :--- | :--- |\n| **Grade 0** | 有留 2~3 cm 邊緣 | |\n| **Grade I** | 有將異常顱骨或硬腦膜取下 | 10 年復發率：9% |\n| **Grade II** | 有切除硬腦膜、移除靜脈竇血塊 | 10 年復發率：19% |\n| **Grade III** | 完整切除腫瘤本體 | 10 年復發率：29% |\n| **Grade IV** | 部份切除腫瘤 | 10 年復發率：44% |\n| **Grade V** | 僅減壓或 biopsy | 10 年復發率：100% |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-8_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-8_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-9",
@@ -24948,9 +24964,11 @@
       "D": "necrosis"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "膠質瘤（glioma）特指星狀細胞瘤（astrocytoma），根據組織學下的特徵分為 grade I~IV，與 high grade 相關的特徵包含：細胞數多（hypercellularity）、細胞核異型性高（nuclear atypia, = nuclear pleomorphism）、血管內增生（endovascular hyperplasia），另外，在 glioblastoma multiforme (GBM) 當中會出現細胞壞死（necrosis）的組織特徵，為 GBM 的診斷條件之一\n\n**其他考點：**\n1. 兒童 glioma 占兒童原發性腦瘤 10~20%：midbrain glioma 常以水腦表現、pontine glioma 常以多條腦神經麻痺表現，midbrain glioma 的存活率較好\n2. Glioma 較好發於男性（男女比 2 : 1），治療方式以切除為主\n\n| 膠質瘤（glioma）分級 | 特徵與預後 |\n| :--- | :--- |\n| **Grade I : pilocytic astrocytoma** | 多於 20 歲前診斷，男女發生率相同，存活中位數為 8~10 年，常侷限於下視丘、視神經、小腦，產生視乳突水腫（papilledema）、ataxia 的症狀，手術切除後可痊癒 |\n| **Grade II : diffuse astrocytoma** | 好發於兒童或年輕人，存活中位數為 5~8 年，細胞分化良性但臨床表現惡性，影像上少有鈣化 |\n| **Grade III : anaplastic astrocytoma** | 平均 46 歲診斷，存活中位數 2~3 年，分化不良為惡性細胞，組織學呈絲狀分裂（anaplasia and mitotic activity） |\n| **Grade IV : glioblastoma multiforme (GBM)** | 平均 56 歲診斷，存活中位數 <1~2 年，惡性，有微小血管增生或是壞死（microvascular proliferation and/or necrosis） |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-9_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-9_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-10",
@@ -24965,9 +24983,11 @@
       "D": "Glasgow Coma Scale 的分數與預後無關"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "顱內動脈瘤（cerebral aneurysm）破裂的預後量表有很多，Hunt and Hess scale 透過臨床症狀分級，可用來預測存活率：\n\n| Hunt and Hess scale Grade | 臨床表徵 | 存活率 |\n| :--- | :--- | :--- |\n| **1** | 無症狀或輕微頭痛、輕微頸部僵硬 | 70% |\n| **2** | 中等至嚴重頭痛、頸部僵硬，可能有顱神經麻痺 | 60% |\n| **3** | 意識昏睡（drowsy），輕微神經學異常 | 50% |\n| **4** | 意識木僵（stupor），中等至嚴重半邊無力 | 20% |\n| **5** | 深度昏迷、垂死狀態（moribund） | 10% |\n\n(A) 錯誤，Hunt and Hess scale 無 0 分\n\nFisher grade 透過 brain CT 影像中蜘蛛網膜下腔出血（SAH）量分級 → (B) 錯誤，用來預測後續動脈攣縮（vasospasm）的發生率及嚴重度，現多以 modified Fisher grade 來分級：\n\n| Modified Fisher Grade | 影像特徵 | 動脈攣縮率 |\n| :--- | :--- | :--- |\n| **0** | 沒有 SAH 及 IVH | 0% |\n| **1** | 輕微的 SAH（寬度 <1mm），且沒有 IVH | 24% |\n| **2** | 輕微的 SAH（寬度 <1mm），但有 IVH | 33% |\n| **3** | 大量出血的 SAH（寬度 >1mm），且沒有 IVH | 33% |\n| **4** | 大量出血的 SAH（寬度 >1mm），但有 IVH | 40% |\n\nWorld Federation of Neurological Surgeons (WFNS) 透過 GCS 以及是否有肌力異常分級，預測死亡率：\n\n| WFNS Grade | GCS score 及是否有 motor deficit | 死亡率 |\n| :--- | :--- | :--- |\n| **1** | GCS=15，無肌力異常 | Grade 越低，死亡率越低<br>→ (C) 正確，(D) 錯誤 |\n| **2** | GCS=13~14，無肌力異常 | |\n| **3** | GCS=13~14，有肌力異常 | |\n| **4** | GCS=7~12，不論有無肌力異常 | |\n| **5** | GCS=3~6，不論有無肌力異常 | |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-10_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-10_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-11",
