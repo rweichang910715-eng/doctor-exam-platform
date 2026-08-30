@@ -24432,9 +24432,11 @@
       "D": "目前臨床上最有效監測鋰鹽中毒的方法為臨床觀察"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(D) 目前主要以定期抽血監測鋰鹽濃度來確保其維持於治療濃度範圍內。\n血中鋰鹽濃度超過 1.2 mEq/L 時就可能開始產生中毒症狀，濃度超過 1.4 mEq/L 時通常都有症狀，老人可能在濃度接近甚至低於 1.2 mEq/L 時就有症狀。鋰鹽的中毒症狀如下：\n\n| 中毒程度 | 症狀 |\n| :--- | :--- |\n| **輕微至中度中毒**<br>(1.5-2.0 mEq/L) | **GI**：<br>• 嘔吐、腹痛、口乾<br>**Neurologic**：<br>1. 共濟失調 (Ataxia)<br>2. 頭昏 (Dizziness)<br>3. 口齒不清<br>4. 眼震<br>5. 疲累或過度興奮<br>6. 肌肉無力 |\n| **中度至嚴重中毒**<br>(2.0-2.5 mEq/L) | **GI**：<br>• 食慾不振、持續噁心嘔吐<br>**Neurologic**：<br>1. 視力模糊<br>2. 肌肉抽動、抽搐<br>3. 肌腱過度反射 (Choreoathetoid movement)<br>4. 譫妄<br>5. 昏厥<br>6. EEG 變化<br>7. 意識改變 (Stupor、Coma)<br>8. Circulatory failure（血壓下降、心律不整、傳導異常） |\n| **嚴重中毒**<br>(>2.5 mEq/L) | 1. 全身抽搐<br>2. 少尿、腎衰竭<br>3. 死亡 |\n\n鋰鹽中毒的治療包含停藥、補水（治療脫水）、口服 Sodium polystyrene sulfonate (SPS) 或 Polyethylene glycol (PEG) solution 移除腸胃道中尚未吸收的鋰鹽、洗胃 (Gastric lavage)。嚴重的病人會需要血液透析 (Hemodialysis) 以快速移除血中過多的鋰鹽，透析後組織中的鋰鹽可能會重新分布至血液中導致血中鋰鹽再次增加，故可能會需要多次血液透析",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-61_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-61_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-62",
@@ -24449,9 +24451,11 @@
       "D": "為了治療該病人，首選用藥是苯二氮平（benzodiazepine）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，強制住院由專科醫師評估與法院裁定，無需經過丈夫同意。根據精神衛生法的規定，嚴重病人傷害他人或自己或有傷害之虞，經專科醫師診斷有住院必要者，保護人應協助其前往醫療機構辦理住院。如果病人拒絕住院，地方主管機關可以指定醫療機構緊急安置，並且由兩位以上的專科醫師於 7 日內完成強制鑑定，若鑑定結果仍為需要住院但病人仍拒絕或無法表達，精神醫療機構可以向法院聲請裁定強制住院。\n(B) 錯誤，被偷妄想在其他精神疾病亦可能出現。另外，被偷妄想是 Alzheimer's disease 最常見的妄想類型。\n(C) 正確。其實不只思覺失調症，大多數的精神疾病診斷都需要排除其他物質（毒品、藥物）或其他狀況導致的精神症狀。\n(D) 錯誤，急性精神症狀的治療首選為抗精神病藥 (Antipsychotics)，大部分會選擇第二代的抗精神病藥。BZD 在急性期通常用以輔助控制激躁 (Agitation)，並非用以治療精神疾病",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-62_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-62_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-63",
@@ -24466,9 +24470,11 @@
       "D": "憂鬱症是評估安樂死問題的重要項目"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 醫師施予措施協助病人安樂死為主動式方法 (Active)。安樂死依照病人意願可分成 Voluntary（病人自己要求）和 Involuntary（病人無做決定的能力而由他人決定）；依照方式可分為 Passive（撤除維生醫療）和 Active（直接幫助病人死亡）。\n\n主動式安樂死在行為上即是殺人，本就具有許多討論空間，再加上有些狀況可能讓病人短期內想尋死，但一段時間後又可能改變心意。其中憂鬱症就是備受討論的一個爭點，此類患者具備完整的行為能力且在憂鬱症發作時可能有自殺意念 (Suicidal ideation)，但經過治療後自殺意念可能消失，這樣的狀態對於安樂死的評估是一大挑戰",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-63_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-63_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-64",
@@ -24483,9 +24489,11 @@
       "D": "使用鎮定安眠類藥物處方，一般建議以不超過兩週為原則"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確。阻塞性呼吸障礙常見的表現包含過度睡眠、打呼、肥胖、夜間醒來、睡起來卻感覺都沒休息到、起床後頭痛或口乾等。有關 Obstructive sleep apnea syndrome 的相關診斷可參考【113-1(三)46】。\n(B) 正確，此定義來自 DSM-5。病人出現三種症狀任一項（難以入睡、無法維持睡眠、早醒）且達每週 3 次持續 3 個月以上，並排除其他疾病、藥物，即可符合 Insomnia disorder 診斷。\n(C) 錯誤，根據上述 DSM-5 的定義，Insomnia disorder 需排除其他疾病引起的失眠才能下這個診斷（此診斷的核心概念就是要鑑別病人的失眠是其他疾病的症狀，抑或是本身即為疾病）。\n(D) 正確。絕大多數的鎮靜安眠藥物都只適合短期使用，不宜長期使用。在剛開始以藥物治療失眠患者時，建議藥物使用 1-2 週後重新評估以決定後續治療方式",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-64_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-64_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-65",
@@ -24500,9 +24508,11 @@
       "D": "暴食症患者之自我評價不因對身材或體重的看法而有不當影響"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Binge eating disorder 是病人會在短時間內進食異常大量的食物（通常是高熱量食物），且不會有任何的代償行為（如催吐、使用瀉劑），在過程中患者會感到自己無法控制地不停進食，且對此感到羞恥、尷尬，因此通常是自己單獨進食。治療首選為 Cognitive-behavioral therapy (CBT)，可降低過度進食及其相關症狀，但無法降低患者體重。SSRI 及運動合併 CBT 的治療效果會比單獨使用 CBT 更好。藥物目前有較多證據的為 Lisdexamfetamine，其同時具有減重及減少暴食行為的效果。SSRI 雖然也可以改善暴食行為，但並無法維持減重效果。\n\nBulimia nervosa 是大量進食合併防止體重增加的代償行為（如催吐、過度運動、使用瀉劑、利尿劑等），在進食過程中會因腹痛、噁心等症狀停止進食，接著開始感到罪惡、憂鬱。患者的自我評價會過度被身形及體重影響，再加上代償行為，因此其體重通常會維持在正常範圍。其第一線治療為 Cognitive-behavioral therapy (CBT)，除了暴食行為外亦可改善患者對於體重、身形、食物及自我的認知。藥物則以 SSRI（尤其 Fluoxetine）為主，無論患者是否有 Mood disorder，都可以減少暴食及催吐行為。\n\n補充：最常出現 binge eating disorder 及 bulimia nervosa 的精神科疾病為物質濫用或依賴，其次依序為焦慮症 (anxiety)、恐慌症 (phobia)、憂鬱症 (MDD)",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-65_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-65_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-66",
@@ -24517,9 +24527,11 @@
       "D": "Omega-3的作用機轉，主要是血清素回收抑制作用"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)、(B) 選項的敘述中立客觀，相對容易排除，而 (C)、(D) 選項則是在精神科教科書裡有一個表格在討論一些醫療食品，筆者認為拿這個當考點是有點為難人了。\n\n| 醫療食品 | 適應症 | 機轉 |\n| :--- | :--- | :--- |\n| Caprylic triglyceride | Alzheimer disease | 增加血中 Ketone 濃度，可提供腦部能量 |\n| L-methylfolate | 憂鬱症 | 調控 Serotonin、Norepinephrine、Dopamine 合成，可輔助 SSRI 類藥物的效果 |\n| S-adenosyl-L-methionine (SAMe) | 憂鬱症 | 在合成 Hormone、Serotonin、Norepinephrine 過程中本來就有的天然成分 |\n| L-Tryptophan | 睡眠障礙、憂鬱症 | Serotonin 的前驅物 |\n| Omega-3-fatty acid | 憂鬱症、增強認知 | 直接影響脂質代謝，可強化抗憂鬱藥物的效果 |\n| Theramine | 睡眠障礙、增強認知 | 增加 Acetylcholine 和 Glutamate |\n| N-acetylcysteine | 憂鬱症、強迫症 | 減少神經傳導中的 Glutamate、強化 SSRI |\n| L-Tyrosine | 憂鬱症 | Epinephrine 和 Norepinephrine 的前驅物 |\n| Glycine | 憂鬱症 | 可活化 NMDA receptor，促進腦部興奮性訊號的傳導 |\n| Citicoline | Alzheimer disease<br>缺血性腦損傷 | 促進腦部磷脂質和 Acetylcholine 合成，可能可以增強記憶力 |\n| Acetyl-L-carnitine | Alzheimer disease<br>失憶 | 抗氧化劑，可減少腦部受到氧化傷害 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-66_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-66_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-67",
@@ -24534,9 +24546,11 @@
       "D": "一般臨床而言，老年人發生與呼吸相關的睡眠障礙症（breathing-related sleep disorders）之經驗比年輕成年人高"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "直接從教科書翻譯的題目，(B) 選項錯在雖然慮病症在 60 歲以上的老年人很常見，但其盛行率的高峰其實是在 40-50 歲。\n(A) 正確，教科書中舉例 65 歲以上白人男性的自殺率是一般民眾的 5 倍，而老年人自殺的原因 1/3 是孤單。約 10% 有自殺意念 (Suicidal ideation) 的老年人合併有經濟問題、健康狀況不佳、憂鬱等因素。自殺身亡 (Commit suicide) 和自殺未遂 (Attempt suicide) 的男女女性比率不同，自殺身亡者有 60% 為男性，而自殺未遂者 75% 為女性。\n(C) 正確，此選項完全是從教科書翻譯而來。Anxiety disorder 為許多疾病的總稱，為所有精神科疾病最早發作的，其中老年人最常見的為恐懼症 (Phobias)。恐慌症 (Panic disorder) 在老年才初次發作比較少見，但依然可能會發生。\n(D) 正確。跟睡眠障礙 (Sleep disorders) 發生率最相關的單一因素就是高齡，常見各種睡眠問題、白天嗜睡、使用安眠藥等。老年人發生 Breathing-related sleep disorder 以及藥物引起的 Movement disorder 的比例也比年輕人更高",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-67_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-67_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-68",
@@ -24551,9 +24565,11 @@
       "D": "可長時間約束，以避免病人暴力和預防跌倒"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確。譫妄主要需要藥物治療的症狀為精神症 (Psychosis)、激躁 (Agitation) 及失眠 (Insomnia)，常用的抗精神病藥物包含 Haloperidol、Quetiapine、Olanzapine 等。\n(B) 正確。長效的 BZD 可能會導致病人白天嗜睡，增加意外發生的可能，故若要使用應選擇短中效的 BZD 較佳。另外鎮靜安眠類的藥物本身就是譫妄的誘發因子，可能會惡化非酒精引起的譫妄而導致 Paradoxical agitation，因此如果可以的話應該盡量找出病人譫妄、失眠的可能原因並加以治療（例如若病人是因為疼痛而產生譫妄、失眠，則應該使用鴉片類藥物達成止痛、鎮靜效果）。\n(C) 正確。譫妄病人既不能對外界感知太少（例如視力、聽力不佳都是譫妄的危險因子），也不能被外界過度刺激（例如住在加護病房就是導致譫妄的誘發因子），因此幫病人建立一個適合的環境非常重要。常用的方式包含由熟悉的家人陪伴、佈置熟悉的照片或裝飾、放置日曆或時鐘，並且規則提醒病人周邊的人、事、物以幫助其建立定向感。\n(D) 錯誤。譫妄的危險因子中就包含環境因素，包含約束、住在加護病房、使用導尿管、睡眠不佳等，因此長時間約束病人不僅無法治療，還可能導致症狀惡化。譫妄其他的誘發因子包含藥物（鎮靜安眠、多重用藥、酒精、藥物戒斷）、神經疾病（中風、腦出血、腦膜炎）、內科疾病（感染、缺氧、休克、貧血、發燒、脫水、營養不佳）、手術（尤其骨科手術、心臟手術）等",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-68_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-68_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-69",
@@ -24568,9 +24584,11 @@
       "D": "長期使用美沙冬後，藥效持續24小時以上，每天給與一次治療即可"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "鴉片類藥物替代療法有幾個好處：\n1. 替代療法使用的藥物產生的欣快感 (Euphoria) 較少，長期使用也很少導致嗜睡或憂鬱 → (A)\n2. 使用口服劑型，使病人毋須共用針具而暴露於血液傳染疾病的風險中 → (B)\n3. 減少病人為了獲取毒品而犯罪的機會，替代療法最主要的壞處則是雖然選擇了傷害性較小的藥物，但其本質依然是毒品，故病人仍會有依賴性，停止使用時也經常於 24~72 小時出現戒斷症狀，可持續長達 2 週 → (C)\n(D) 美沙冬在血中濃度達到最高的時間較慢（4 小時），半衰期較長（第一劑 15 小時，經過數天治療後平均 25 小時），故每天一次治療即可。\n\n參考資料：衛福部心理健康司 鴉片類成癮物質替代治療臨床指引",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-69_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-69_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-70",
@@ -24585,9 +24603,11 @@
       "D": "男性濫用者較女性多"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，BZD 常見的戒斷症狀包含焦慮、易怒、失眠、難以專注、顫抖、噁心、抽搐、癲癇、譫妄等。\n(B) 錯誤，BZD 的戒斷症狀通常在停用後的 2-3 天後出現，但如果是半衰期較長的藥物則可能在停用後 5-6 天才出現。\n(C) 錯誤，半衰期較短的 BZD 較容易成癮，也較容易出現嚴重的戒斷症狀。一般來說短期（1-2 周內）使用中低劑量的 BZD 通常不會有明顯的依賴性或戒斷症狀，但有些使用短效型 BZD 的病人可能在單次用藥並停藥後即開始出現焦慮感。突然停藥（尤其是短效的 BZD）或是使用 Flumazenil 快速逆轉 BZD 藥效可能引起嚴重的戒斷症狀，因此停藥時建議逐漸下調劑量而非直接不吃藥。\n(D) 錯誤，女性比男性更容易濫用鎮靜、安眠或抗焦慮藥物",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-70_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-70_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-71",
