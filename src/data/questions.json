@@ -25382,9 +25382,11 @@
       "D": "內視鏡胃內水球置放術（BIB）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "減重手術為熱門考點，請考生務必熟讀：\n\n| 術式 | 手術方法 | 優缺點 | 機制 |\n| :--- | :--- | :--- | :--- |\n| **腹腔鏡可調節式胃束帶手術**<br>LAGB (2.8%) | 將環型束帶套在食道－胃接口處，下方形成一小囊，可調節其出口大小以限制進食量 | 手術風險低，但減重效果相對差 | • 限制性手術 |\n| **袖狀胃切除術**<br>Gastric Sleeve Surgery (59.4%) | 將囊狀胃裁切掉胃大彎側的一部分，形成香蕉形狀的管狀胃 | 手術方法簡單，較不會有營養及維生素缺乏的風險，但較易導致胃酸逆流 | • 限制性：次要<br>• 吸收不良性：主要，影響多種腸道賀爾蒙分泌與能量消耗，使 GLP-1/PYY 上升、Ghrelin 下降、並增加胰島素阻抗 |\n| **膽胰分流術**<br>Biliopancreatic diversion, BPD (0.7%) | 切除部分胃、截斷十二指腸後，再將遠端空腸與胃出口吻合 | 減少邊緣性潰瘍 (marginal ulcer) 發生，但蛋白質、脂溶性維生素缺乏 | • 限制性：非主要<br>• 吸收不良性：繞過大部分吸收小分子的小腸段 |\n| **胃繞道手術**<br>RYGB (17.8%) | 將胃裁成小囊後，用空腸與其接合來重建，其中會繞過一長段的小腸 | 減重效果快，但長期營養及維生素缺乏風險增加，且可能出現 dumping syndrome | • 限制性：主要<br>• 吸收不良性：影響腸道賀爾蒙分泌與能量消耗 |\n| **胃內水球**<br>Intra-gastric balloon (2.8%) | 經由胃鏡將水球置入胃內，再往水球內注入生理食鹽水，限縮胃容量 | 免開刀，但水球的置入期限為 6 個月，移除後易復胖 | • 限制性手術 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-31_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-31_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-32",
@@ -25399,9 +25401,11 @@
       "D": "肌肉痙攣與腹水、高平均動脈壓、高血漿腎素活性有關"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，血中的雌激素（estrogen）於肝臟代謝後由膽汁排出，肝硬化病人代謝效率下降，使血中雌激素濃度上升，造成皮膚及四肢等周邊組織的微血管擴張，形成蜘蛛狀血管瘤、手掌紅斑，且於男性造成男性女乳症（gynecomastia）、體毛掉落、睪丸體積下降\n\n(B) 此選項可議，側枝循環應為門脈系統與臍「靜」脈之間，其餘部分正確，肝門脈高壓使血液回流受阻，造成脾臟腫大、臍圍靜脈曲張（caput medusae）、食道或胃靜脈曲張等併發症\n\n(C) 正確，由於肝門脈高壓導致的靜脈曲張，使周邊血管阻力降低，根據血壓 (BP) 等於心輸出量 (CO) 與血管阻力 (SVR) 的乘積 (BP = CO × SVR)，血壓跟著下降、心輸出量代償性上升，整個循環系統呈現高動力狀態（hyperdynamic）\n\n(D) 錯誤，肌肉痙攣與腹水、低平均動脈壓、低血漿腎素活性有關，與有效血管內容積減少（effective arterial volume）、體內鉀離子含量增加有關\n\n其他肝硬化的臨床表徵補充如下：\n• 手指變化：杵狀指（clubbing finger）與低白蛋白症（hypoalbuminemia）有關，甲床發白（white nail bed）、掌腱攣縮（Dupuytren's contracture）的成因則未明\n• 胺代謝異常：肝腦病變（hepatic encephalopathy）產生撲翼樣震顫（asterixis）、二甲硫堆積產生肝病性惡臭（fetor hepaticus）",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-32_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-32_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-33",
@@ -25416,9 +25420,11 @@
       "D": "容易有腸道以外的症狀，且 pyoderma gangrenosum 和 ankylosing spondylitis 與腸道發炎之嚴重程度成正相關"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，主要治療以藥物為主，手術的適應症如下：\n\n| 適應症分類 | 臨床狀況 |\n| :--- | :--- |\n| **急性且嚴重疾病** | 克隆氏大腸炎併發毒性巨結腸症（罕見） |\n| **藥物治療無效** | 長期使用類固醇症狀仍持續、類固醇在減量的過程復發、產生藥物引發的副作用（Cushing syndrome 等） |\n| **產生併發症** | 腸阻塞、腸穿孔、瘻管、嚴重出血、癌症風險 |\n\n(B) 錯誤，小腸及大腸都有可能被侵犯，50% 小腸及大腸皆發炎、30% 僅單純小腸發炎、20% 僅大腸發炎，腸道侵犯的 pattern 為跳躍式病灶、全層腸壁發炎\n\n(C) 正確，危險因子包含：女性、社經地位高、抽菸、使用口服避孕藥、雙胞胎同為 Crohn's disease，保護因子為哺乳；比較潰瘍性大腸炎（ulcerative colitis, UC）的危險因子僅社經地位高，保護因子有：抽菸、闌尾切除\n\n(D) 錯誤，僅 1/4 的病人有腸道外症狀，包含：結節性紅斑（erythema nodosum）、壞疽性膿皮（pyoderma gangrenosum）、四肢關節炎（peripheral arthritis）、僵直性脊椎炎（ankylosing spondylitis）、虹膜炎（uveitis）、原發性硬化性膽道炎（primary sclerosing cholangitis）；其中僅 erythema nodosum 及 peripheral arthritis 與腸道發炎有關；ankylosing spondylitis 與 pyoderma gangrenosum 與腸道發炎無關",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-33_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-33_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-34",
@@ -25433,9 +25439,11 @@
       "D": "type III 胃神經內分泌腫瘤預後最差"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "胃的神經內分泌腫瘤（neuroendocrine tumor, NET）佔所有 NET 的 1%，分成 3 種 type：\n\n| 項目 | Type I | Type II | Type III |\n| :--- | :--- | :--- | :--- |\n| **比例** | 75% | 5% | 20% |\n| **性別比** | 女性較多 | 相當 | 男性較多 |\n| **疾病關聯** | ABG* | MEN-1 | 散發性 |\n| **腫瘤特徵** | 單一或多顆，小 (<1~2cm) | 通常多顆，小 (<1~2cm) | 單一，大 (>2cm) |\n| **巨觀型態** | 息肉狀或黏膜內 | 息肉狀 | 息肉狀、潰瘍狀 |\n| **組織型態** | 分化良好 | 分化良好 | 分化良好或分化差 |\n| **血中 Gastrin** | 長期上升 | 上升 | 正常 |\n| **胃酸 pH 值** | 上升 | 下降 | 正常 |\n| **轉移機率** | <5% | 10% | 50~100% |\n| **死亡率** | 0% | <10% | 分化好：25%<br>分化差：75% |\n\n* ABG：atrophic body gastritis\n\n(A) 選項錯在神經內分泌腫瘤源自 enterochromaffin-like cell (ECL cell)；由 Interstitial cell of Cajal 形成的是基質細胞瘤（gastrointestinal stromal tumor, GIST）\n\n註：小腸的 NET 源自於 enterochromaffin cell (EC cell)",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-34_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-34_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-35",
@@ -25450,9 +25458,11 @@
       "D": "hemangioma"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "關鍵字：peripheral enhancement with centripetal progression、20~40 歲之間的年輕女性、長期服用避孕藥，聯想到 liver cell adenoma (LCA)\n\n(B) Focal nodular hyperplasia 好發於 35~50 歲女性，影像特徵為 central scar with peripheral vasculature (spoke-wheel sign)\n\n(C) Hamartoma 好發於幼童，以呼吸窘迫與腹脹為最常見的表徵，影像上可見 centrifugal hyperenhancement 的特徵\n\n(D) Hemangioma 多無症狀，女性較多，動脈相可見 peripheral nodular enhancement",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-35_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-35_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-36",
@@ -25467,9 +25477,11 @@
       "D": "右上腹痛"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "• Charcot triad 包含右上腹痛、發燒、黃疸\n• 急性膽管炎嚴重時會出現 Reynold pentad，除了右上腹痛、發燒、黃疸之外，多了休克及意識改變\n• 而黃疸合併右上腹無痛性腫塊稱 Courvoisier sign，為 pancreatic cancer 的典型表徵\n\n(C) 由上可知，右上腹腫塊應屬於 Courvoisier sign 典型症狀，不是 Charcot triad",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-36_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-36_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-37",
@@ -25484,9 +25496,11 @@
       "D": "enhancing mural nodule larger than 5 mm within cyst"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "胰臟囊腫性腫瘤常見使用三種 guidelines：European guidelines, ACG guidelines, Fukuoka guidelines，這裡根據 Fukuoka guidelines：\n\n| 步驟 | 評估準則與處置 |\n| :--- | :--- |\n| **第一步** | 是否出現 high-risk stigmata，包含：胰頭囊腫壓迫導致的阻塞性黃疸、壁節顯影增強 (enhancing mural nodule) ≥ 5 mm、主胰管 ≥ 10 mm，若出現任一項就需要手術 |\n| **第二步** | 若以上 high-risk stigmata 未出現，但有出現 worrisome features，如：胰臟炎、壁節 (mural nodule) 顯影增強 < 5 mm、囊腫 ≥ 3 cm、囊腫壁厚或顯影增加、囊腫 2 年內增加 ≥ 5 mm、主胰管 5~9 mm、淋巴結腫大、血清 CA19-9 增加，則須做內視鏡超音波 (EUS) ± 抽吸 |\n| **第三步** | 若以上特徵皆無，則根據囊腫大小決定用 EUS 或 CT/MRI 定期追蹤 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-37_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-37_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-38",
@@ -25501,9 +25515,11 @@
       "D": "oral cinacalcet"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題考的是高血鈣危症（hypercalcemic crisis，通常血鈣濃度 > 13~15 mg/dL）的緊急處置：\n\n| 治療 | 起效時間 | 持續時間 | 備註 |\n| :--- | :--- | :--- | :--- |\n| **Normal saline**<br>（每日 4~6 L） | 數小時 | 治療期間 | 大量給予含鈉的點滴，使腎臟排出鈣的量增加 |\n| **Furosemide** | 數小時 | 治療期間 | 僅在體液堆積時使用 |\n| **Bisphosphonate** | 1~2 天 | 各藥物持續時間差異大 | 抑制蝕骨細胞的功能，腎功能極差的病人不能用，須注意顎骨壞死 (ONJ)、低血鈣的風險 |\n| **Calcitonin** | 數小時 | 48 小時 | 僅短暫使用，2 天後產生耐藥性 (tachyphylaxis) |\n| **Glucocorticoids** | 數天 | 數天 | 只在惡性腫瘤、肉芽腫病、維生素 D 中毒時使用 |\n| **Denosumab** | 數天 | 6 個月 | RANK ligand inhibitor |\n| **Hemodialysis** | 數分鐘 | 治療期間 | 以上治療皆無效時考慮 |\n\n(A) 選項錯在不該連續給予 furosemide，而是在體液過多時才小心使用，病人噁心嘔吐，體液較可能處於缺乏狀態\n\n題目是問一開始的處置，(C)(D) 選項為血鈣穩定後才考慮的治療，口服 cinacalcet 目標是維持 PTH 在 300 pg/mL 以下；當 PTH 超過 800 pg/mL 時，會建議行副甲狀腺切除術\n\n**補充內科常考的血鈣濃度換算：**\n校正後血鈣濃度 = 血鈣測量值 + 0.8 × (4 - 血中 [alb](g/dL))\n校正後血鈣正常值範圍：8~10 mg/dL = 4~5 mEq/L = 2~2.5 mmol/L\n另外，血中 PTH 正常值為 15~65 pg/mL，此題可對照一般外科【113-2(五)39】複習",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-38_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-38_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-39",
@@ -25518,9 +25534,11 @@
       "D": "presence of TSH receptor antibody"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "TSH 正常值 0.5~5.0 mIU/L，本題病人 free T4 正常、TSH 升高，有 subclinical hypothyroidism，無臨床症狀則通常不須補充甲狀腺素，但有些例外狀況：\n\n| 須補充甲狀腺素的例外 | 原因、好處 |\n| :--- | :--- |\n| **TSH > 10 mIU/L** | 進展到 overt hypothyroidism 的機率高，因此預防性給予甲狀腺素 |\n| **懷孕的母親** | 避免低甲狀腺素導致的子癲前症、早產、胎盤剝離、新生兒呼吸窘迫及智能低下等不良預後 |\n| **有 CAD 病史／風險因子** | 增加心肌收縮並改善血脂 |\n| **有 thyroid goiter** | 減少 goiter 的體積 |\n| **出現甲狀腺低下的症狀** | 緩解疲累、便秘、憂鬱等症狀 |\n\n(D) 選項的 TSH receptor antibody 常出現在 Grave's disease 的患者，雖然 free T4 正常、TSH 高，但很可能為 hypothyroidism 合併 occult hyperthyroidism 的狀況，不宜補充甲狀腺素否則可能導致甲狀腺風暴（thyroid storm）",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-39_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-39_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-40",
@@ -25535,9 +25553,11 @@
       "D": "術後若再犯應安排 MIBG scan 偵查其他病灶"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題男童血壓高、尿液 VMA 高（正常值 < 10 mg/24hr），且腎上腺發現病灶，優先懷疑嗜鉻細胞瘤\n\n(A) 錯誤，嗜鉻細胞瘤術前應以 alpha blocker 對抗過強的交感活性，Alpha blocker 以非選擇性、非競爭性、長效的 phenoxybenzamine 為主，並大量給水擴張血管內容積，若降壓效果不理想，則再加上 beta blocker 或 calcium channel blocker，但要特別注意若單一使用 beta blocker 反而會使症狀加劇\n\n(B) 手術切除可治癒 90% 以上的嗜鉻細胞瘤，雖然腫瘤位於後腹腔，且附近的血流量豐富，但腎上腺相對好處理，多數可透過腹腔鏡手術切除，然而若腫瘤大於 6 cm，由於腹腔鏡不好做，且腫瘤破裂風險較高，建議以開腹手術切除\n\n(C) Nitroprusside 為直接型血管擴張劑；Phentolamine 為 alpha blocker，兩者皆是速效、短效的降血壓藥物，作用時間在 2 分鐘內、維持時間不到 1 小時，是理想的術中用藥\n\n(D) 嗜鉻細胞瘤的影像評估工具包含：CT/MRI、MIBG、PET，後兩者可測得全身性的影像，針對轉移性病灶或原發位置不明確的病灶有很好的評估效果",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-40_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-40_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-41",
