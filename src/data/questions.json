@@ -26573,16 +26573,19 @@
     "number": 14,
     "text": "Marfan syndrome 常會合併下列何種晶體異常？",
     "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": ""
+      "A": "選項 (A)",
+      "B": "選項 (B)",
+      "C": "選項 (C)",
+      "D": "選項 (D)"
     },
     "answer": "A",
     "explanation": "Marfan syndrome 典型的表現即是水晶體向「顳上方」脫位 (subluxation)，符合 (A) 的表現，另外，如果是高胱胺酸尿症 (homocystinuria)，則多往「鼻下方」脫位\n\n(B) 為液化白內障 (Morgagnian cataract)，為過熟白內障液化、向下沉的表現，故影像上會看到白內障偏下方\n\n(C) 為過熟白內障合併前囊皺褶 (hypermature cataract with wrinkling of the anterior capsule)，代表白內障的內容物外漏，使得前囊塌陷、變皺\n\n(D) 為成熟白內障 (mature cataract)，代表水晶體已經完全不透光",
     "explanation_image": "/explanations/cropped/113-1-醫學(六)-14_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(六)-14_merged.png"
+    ],
+    "images": [
+      "/questions/113-1-醫學(六)-14-1.png"
     ]
   },
   {
@@ -26697,6 +26700,9 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(六)-20_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(六)-20_merged.png"
+    ],
+    "images": [
+      "/questions/113-1-醫學(六)-20-1.png"
     ]
   },
   {
