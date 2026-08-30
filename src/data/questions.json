@@ -26332,9 +26332,11 @@
       "D": "不適用於已麻醉的病人"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 種類 | 插管 (Tracheal Intubation) 所使用的喉頭鏡 | 特點與範例 |\n| :--- | :--- | :--- |\n| **直接喉頭鏡 (direct laryngoscopy)** | 最常用的氣管插管技術 | 需三軸對準（口腔、咽部和喉部） |\n| **間接喉頭鏡 (indirect laryngoscopy)** | 軟式間接喉頭鏡 (Flexible Intubation Scopes) | 最常見：**軟式光纖支氣管鏡 (flexible fiberoptic bronchoscope)** |\n| ^ | 硬式間接喉頭鏡 (Rigid Indirect Laryngoscopes) | - |\n| ^ | 光源光學通條 (Lighted Optical Stylets) | - |\n| ^ | 影像喉頭鏡 (Video Laryngoscopes) | - |\n| ^ | 發光通條 (Lighted Stylets) | - |\n\n其中，軟式光纖支氣管鏡 (flexible fiberoptic bronchoscope) 幾乎在任何插管情境都可以使用，可搭配經鼻插管也可以搭配經口插管，相比直接喉頭鏡有以下優點：可以在插管前更全面的檢查氣道、避免食道和支氣管內插管、省略了三軸（口腔、咽部和喉部）對準的過程，且在清醒患者中耐受性好，導致心搏過速和高血壓的情況較少，造成氣道和牙齒受傷風險也較低，特別在某些情境是首選：困難插管、頭部伸展為禁忌症（如頸椎不穩定）、牙齒損害風險高、顳顎關節問題等",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-1_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-1_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-2",
@@ -26349,9 +26351,11 @@
       "D": "氣管插管若過深而進入右側支氣管，則血氧飽和度（SpO ）會快速下降2"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "脈衝式血氧飽和機 (Pulse oximeter) 可以測量血氧及動脈波 Pulse Oximeter Pleth (Photoplethysmograph)，因此，可藉由波形得知心律是否不整以及灌流情形\n\n正確插管位置管子在氣管內、尖端在氣管隆突 (carina) 上方 3~5 公分處，插太淺容易傷到聲帶，插太深容易放到支氣管內，變單肺通氣 (one lung ventilation)，確認插管位置最佳的檢測方法為偵測吐氣二氧化碳濃度 (exhaled carbon dioxide (CO2))，其中以二氧化碳壓力波型監測 (Waveform Capnography) 最為準確\n\n不適合使用脈衝式血氧飽和機做為確認插管位置的檢測方法，原因如下：在插管前進行預氧化 (Preoxygenation，插管前會先擠 ambu 讓病人維持 SpO2 100% 3~5 分鐘) 建立大量的氧氣儲備，因此即使在食道插管的情況下，也能在數分鐘內防止氧氣飽和度下降，另外，周邊血氧飽和度下降，若是通氣問題所致，通常代表已缺乏有效通氣一段時間了",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-2_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-2_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-3",
@@ -26366,9 +26370,11 @@
       "D": "使用靜脈麻醉比使用氣體麻醉容易增加術後殘留肌肉神經阻斷（residual neuromuscular blockade）的風險，尤其在高齡者容易有無力的現象"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，TOF 是一種評估肌肉放鬆程度的方式，通過連續四次刺激尺神經，測內收拇指肌的最後一次收縮反應強度與第一次收縮反應強度的比例，並以 TOF 比例 (TOF Ratio) 來表示，TOF 接近 0 時，表示肌肉完全放鬆，TOF 0.2~0.5，表示仍有部分肌肉活動，但神經肌肉仍受到一定程度的阻斷，術後當 TOF >0.9，表示肌肉功能幾乎恢復正常，可做為拔管的評估\n\n(B) 正確，術後使用 neostigmine 做為神經肌肉阻斷的解除劑時，應在神經肌肉功能有一定程度的自發性恢復後再給，避免再阻滯 \"recurarization\"，導致神經肌肉阻滯藥物持續效果引起的肌肉無力\n\n(C) 錯誤，sugammadex 可用於逆轉 amino steroid 類的肌肉鬆弛劑 (rocuronium and vecuronium)，不可用在逆轉非 amino steroid 類的肌肉鬆弛劑 (atracurium, cisatracurium and suxamethonium)\n\n(D) 錯誤，正好相反，使用氣體麻醉比使用靜脈麻醉更容易增加術後殘留肌肉神經阻斷的風險，另外，高齡、有肝腎功能異常、有在使用會影響神經肌肉接合處的藥物、術後在恢復室使用止痛藥或抗生素等，都是風險因子",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-3_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-3_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-4",
@@ -26383,9 +26389,11 @@
       "D": "succinylcholine"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Atracurium、Cisatracurium 在生理環境下會自發性代謝（行 Hofmann elimination，四級胺脫去形成三級胺以及烯類），適用於肝腎不佳病人\n\nSuccinylcholine 由肝臟製造的 pseudocholinesterase 代謝；Vecuronium、Rocuronium 等具有類固醇結構的藥物亦由肝代謝",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-4_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-4_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-5",
@@ -26400,9 +26408,11 @@
       "D": "脊椎麻醉最常見的併發症為低血壓"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 藥物分類 | 類別 | 效能 | 藥物名稱 | 作用時效 | 副作用 |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **局部麻醉劑** | 酯類 (Aminoester) | 長效 | Tetracaine | - | 低血壓、發抖（血管舒張、核心體溫下降） |\n| ^ | ^ | 短效 | Procaine | - | ^ |\n| ^ | 醯胺類 (Aminoamide) | 長效 | Bupivacaine | 注射後 5~8 分鐘後發揮作用，約持續 90~150 分鐘 | ^ |\n| ^ | ^ | 中效 | Lidocaine、Mepivacaine | 注射後 3~5 分鐘後發揮作用，約持續 60~90 分鐘 | ^ |\n| **靜脈注射性麻醉劑** | 鴉片類 (Opioid) | 長效 | Morphine | 注射後 45~75 分鐘後發揮作用，約持續 18~24 小時 | 低血壓、噁心、嘔吐、尿滯留、呼吸抑制、搔癢 |\n| ^ | ^ | ^ | Fentanyl | 注射後 5~20 分鐘後發揮作用，約持續 1~4 小時 | ^ |\n\n(A) 錯誤，Lidocaine 為中效麻醉劑，作用時間較長效的 bupivacaine 短\n\n(B) 正確，Morphine 的作用時間長達 18~24 小時\n\n(C) 正確，鴉片類藥物作用在 μ、δ 受體上，導致膀胱的感覺及排尿收縮力降低，脊椎腔內注射使得脊髓的藥物濃度更高，尿滯留的情形更明顯\n\n(D) 正確，不論是局部麻醉劑還是鴉片類藥物，皆有降低血壓的副作用",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-5_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-5_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-6",
@@ -26417,9 +26427,11 @@
       "D": "眼睛若無受壓則完全不會有視力喪失可能"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，趴臥姿勢可以改善肺部的通氣／灌流比，比正躺或側躺姿勢更有利於肺功能\n\n(B) 錯誤，上臂可以外展，但外展角度應小於 90 度，以免壓迫臂叢神經\n\n(C) 錯誤，趴臥姿勢可能壓迫靜脈，影響靜脈回流，增加靜脈血栓風險\n\n(D) 錯誤，術後的視力喪失稱為 postoperative visual loss (POVL)，是非常少見的併發症，即使眼睛沒有直接受到壓迫，仍有可能因為其他原因（如：血液循環不良導致視神經缺血）而導致視力喪失",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-6_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-6_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-7",
@@ -26434,9 +26446,11 @@
       "D": "胎兒娩出後，若使用麻醉氣體維持麻醉，建議維持 0.5MAC 即可"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 錯誤，Succinylcholine (SCH) 是一種快速作用的去極化型肌肉鬆弛劑，常用於手術中快速氣管插管的情況下，其作用機制是模仿乙醯膽鹼 (acetylcholine) 在神經肌肉接合處的作用，先去極化再阻斷神經傳導，導致短暫的肌肉鬆弛，由於其起效快且持續時間短（通常僅需數分鐘），非常適合於需要快速控制氣道的情況，例如全身麻醉下的剖腹生產手術，另外，僅少數的 SCH 會穿透胎盤，對嬰兒呼吸影響不大\n\n(A) 正確，足月生產的孕婦由於腹內壓高，皆應視為空腹不足 (full stomach)，在全身麻醉時應給不含顆粒口服制酸劑 (nonparticulate oral antacid)，並採用快速引導插管 (Rapid Sequence Intubation, RSI) 配合環狀軟骨按壓 (cricoid pressure)，降低因嘔吐導致的吸入性肺炎\n\n(C)(D) 正確，娩出前，會以麻醉氣體為主，避免靜脈藥物直接進入嬰兒體內，而娩出後，就會靜脈給予 opioids、BZD 等，並將麻醉氣體減至 0.5MAC，避免麻醉氣體導致子宮收縮不良",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-7_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-7_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-8",
@@ -26451,9 +26465,11 @@
       "D": "carbamazepine"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 三叉神經痛 (Trigeminal Neuralgia, TN) 藥物治療 | 藥物名稱 |\n| :--- | :--- |\n| **首選藥物 (First-line)** | Carbamazepine、oxcarbazepine |\n| **替代藥物 (Alternative / Second-line)** | Lamotrigine、Baclofen、Pimozide、Pregabalin、Gabapentin、Topiramate、Tocainide、Valproate |\n\n其他三叉神經痛的介紹請參考神經內科【113-1(四)54】",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-8_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-8_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-9",
@@ -26468,9 +26484,11 @@
       "D": "選擇性肺血管收縮"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "ARDS 的病生理機轉包含肺內分流 (shunt) 及死腔 (dead space) 增加，前者透過增加 PEEP；後者透過血管擴張改善，吸入性的一氧化氮 (iNO) 可以通過直接活化鉀離子通道及調控血管收縮素 II 受體 (angiotensin receptor II, ATR2) 的活性，促使肺部血管擴張、降低肺動脈壓力，以改善通氣與灌注差異 (V/Q mismatch) 來提高動脈氧合，且 iNO 的半衰期僅 2~6 秒，並不會引起全身性血管擴張",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-9_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-9_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-10",
@@ -26485,9 +26503,11 @@
       "D": "玻璃體內注射抗血管內皮生長因子製劑（anti-VEGF agent）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "下表整理黃斑部退化以及視網膜剝離之治療：\n\n| 疾病分類 | 亞型 | 治療方式與臨床處置 |\n| :--- | :--- | :--- |\n| **年齡相關黃斑部退化 (AMD)** | 乾性 (Dry-type) | • 目前尚無實證上有確定療效的治療<br>• 預防上以抗氧化營養品（如：維他命 C、維他命 E、鋅、葉黃素）與減少風險因子（如：戒菸、防曬）為主 |\n| ^ | 濕性 (Wet-type) | • **玻璃體注射 anti-VEGF**<br>• 光動力治療 (photodynamic therapy) |\n| **視網膜剝離 (Retinal Detachment)** | 裂孔性 (Rhegmatogenous) | • 氣體視網膜固定術 (pneumatic retinopexy)<br>• 鞏膜扣壓術 (scleral buckling)<br>• 經坦部玻璃體切除術 (pars plana vitrectomy) |\n| ^ | 牽引性 (Tractional) | 經坦部玻璃體切除術 (pars plana vitrectomy) 為主，鞏膜扣壓術 (scleral buckling) 為輔 |\n| ^ | 滲出性 (Exudative) | 治療依成因有所不同，包含：免疫抑制、雷射、anti-VEGF 等，與其他兩種剝離比較起來，大多以非手術治療 |\n\n可知僅 (D) 適用於濕性年齡相關黃斑部退化",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-10_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-10_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-11",
