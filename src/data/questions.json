@@ -23672,9 +23672,11 @@
       "D": "小於1歲使用拍背壓胸法，大於1歲使用的哈姆立克法是腹部壓迫法"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "5 歲以下幼兒是異物吸入的高危險群，若發現小兒出現喘鳴 (stridor or wheezing) 或是突然的梗塞，要優先懷疑他吸入異物。\n(A) 正確。\n(B) 錯誤。不管是要用手指挖 (finger-sweep) 或抽吸，都要看的到異物才可以做。\n(C)(D) 正確。意識清醒則鼓勵咳嗽，直到咳嗽無效、呼吸窘迫、喘鳴加重或意識變化時，則進一步打開呼吸道、給予通氣。若胸部皆無起伏，則要嘗試排出異物：\n• 小於 1 歲者，給予 5 下拍背緊接著 5 下壓胸。\n• 大於 1 歲者，站立或坐姿時給予 5 次哈姆立克法，臥姿時則給予腹部壓迫。\n完成一次後檢查口中有無可視異物，並再次嘗試給氣，仍無胸部起伏時再重複以上動作。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-21_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-21_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-22",
@@ -23689,9 +23691,11 @@
       "D": "微血管回填時間為1.5秒"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題很直觀的在考 ABC 中 Circulation 的評估，兒科困難的地方在於每個年齡層的生命徵象正常值都不同，因為很不好背，也不常考，在此不特別補充每個年齡層的正常值範圍，謹記大原則即可：呼吸速率不應該長時間超過每分鐘 60 次、心率正常約為呼吸速率的 2-3 倍。\n(A) 呼吸速率屬於 Breathing 而非 Circulation 的指標，且每分鐘 20-30 次對 2 歲兒童來說在正常範圍。\n(B) 2 歲兒童的心率正常約落在每分鐘 70-110 下，每分鐘 160 下顯然過多，而心搏過速通常是休克最早的表現，故要小心組織灌流不足的可能性。\n(C) 除心率、血壓外，四肢冰冷、大理石斑 (mottling)、蒼白、發紺等表現也會暗示有組織灌流不足。四肢末梢溫暖、無大理石斑反而是灌流良好的表徵。\n(D) 微血管回填時間大於 2 秒才會認為是組織灌流不足的表現。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-22_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-22_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-23",
@@ -23706,9 +23710,11 @@
       "D": "普瑞德威利氏症候群（Prader-Willi syndrome）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "美國 FDA 核准使用生長激素注射治療的八個疾病為（有 * 者則是在臺灣健保給付規定中也有列出的）：\n• 生長激素缺乏症 (growth hormone deficiency)*\n• 普瑞德威利氏症候群 (Prader-Willi syndrome)*\n• 透納氏症候群 (Turner syndrome)*\n• SHOX 基因異常 (SHOX gene abnormality)*\n• 努南氏症候群 (Noonan Syndrome)*\n• 特發性身材矮小 (idiopathic short stature)\n• 慢性腎臟病 (chronic renal insufficiency)\n• 低出生體重兒且有生長障礙 (small for gestational age without catch-up growth)\n\n(A) 狄喬治氏症候群 (DiGeorge syndrome) 要記得 CATCH22 —— cardiac defects、abnormal facial features、thymic hypoplasia、cleft palate、hypocalcemia 和 chromosome 22q11 deletion。此症群也可能造成如：甲狀腺機能低下、生長激素缺乏等內分泌問題，但它的適應症就會是「生長激素缺乏症」，而不是「狄喬治氏症候群」，故不包含 (A)。\n(B)(C) SHOX 基因 (short-stature homeobox containing gene) 在 X 和 Y 染色體上都有，與骨骼發育有關，有缺陷會造成不同程度之身材矮小。女性兩條 X 染色體上的 SHOX 基因都會作用，所以對透納氏症候群來說，少一條 X 染色體 (45, X) 就等於少一半 SHOX 基因的功能；而對 SHOX 基因異常者來說，也會缺少一部分的功能，所以此兩疾病造成發育問題的機制是類似的，也都適用生長激素注射治療。\n(D) 普瑞德威利氏症候群會導致發育、肥胖及身材矮小的問題，也常出現低 IGF-1，故生長激素治療可以幫助其增加身高，也可以幫助發展和改善體脂。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-23_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-23_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-24",
@@ -23723,9 +23729,11 @@
       "D": "低血糖（hypoglycemia）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "先天性腎上腺增生症 (congenital adrenal hyperplasia) 依據酵素的缺陷不同可分為至少五種不同的疾病，其中超過 90% 的先天性腎上腺增生症是因 21-hydroxylase deficiency 造成。\n\n| 先天性腎上腺增生症 (congenital adrenal hyperplasia)：21-hydroxylase deficiency | |\n| :--- | :--- |\n| **概述** | 21-hydroxylase 在腎上腺合成 aldosterone 和 cortisol 的過程中是必須的，缺乏會導致 aldosterone 和 cortisol 不足，同時會造成堆積的前驅物走向合成 androgen。<br>依據表現不同可細分為：<br>• **Classic - Salt-wasting form (70%)**：aldosterone 和 cortisol 缺乏，androgen 升高。<br>• **Classic - Simple virilizing disease (30%)**：aldosterone 和 cortisol 足夠，androgen 升高。<br>• **Nonclassic form**：aldosterone 和 cortisol 足夠，androgen 輕微升高，也可能無症狀。 |\n| **病生理** | 體染色體隱性。染色體 6p 上的 CYP21 是 21-hydroxylase deficiency 的 active gene，而 CYP21P 則是類似但無功能的 pseudogene。此疾病成因絕大部分是因兩者產生重組，使 CYP21P 影響到 CYP21 的功能，依據基因重組位點不同，蛋白質可能有微弱功能或全無功能，進而產生不同表現型。 |\n| **表現** | • aldosterone 和 cortisol 缺乏：體重減輕、噁心嘔吐、脫水、虛弱、低血鈉、高血鉀、低血糖等，可能進展至休克和死亡。<br>• androgen 過多：女性外生殖器雄性化、骨頭生長過快、青春痘、體毛過多等。 |\n| **診斷** | 新生兒篩檢會驗血中的 17-hydroxyprogesterone，在出生後約 10-14 天，低血鈉、高血鉀、酸血症和低血糖等表現會慢慢出現。此外，ACTH 會因負回饋升高，進而造成腎上腺增生。 |\n| **治療** | • 補充 glucocorticoid：代替 cortisol 的功能並壓制 androgen 合成。<br>• 補充 mineralocorticoid：代替 aldosterone 的功能。<br>• 手術矯正：對於外生殖器雄性化過於嚴重的女性，可考慮手術矯正。 |\n\n由此可知，(C) 應為高血鉀，錯誤。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-24_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-24_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-25",
@@ -23740,9 +23748,11 @@
       "D": "acute（infectious）thyroiditis"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題的線索很明確，「甲狀腺腫大」、「甲狀腺和後眼眶有淋巴球浸潤」、「家族史有自體免疫甲狀腺疾病」：\n(A) Chronic lymphocytic thyroiditis，就是大家熟知的 Hashimoto thyroiditis。可以有甲狀腺腫大 (goiter)，也有家族群聚傾向，也可以有眼病變（但和 Graves disease 相比少見）；甲狀腺組織切片會看到淋巴球浸潤，併有生發中心和纖維化 (lymphocytic infiltration, germinal centers, fibrosis)。\n(B) Graves disease，可以有甲狀腺腫大，有家族群聚傾向，也有眼病變，且眼病變嚴重度常獨立於甲狀腺的嚴重度。甲狀腺及後眼眶組織切片會看到淋巴球及漿細胞浸潤 (infiltration of the thyroid gland and retroorbital tissues with lymphocytes and plasma cells)。\n(C) Toxic multinodular goiter 指的是甲狀腺腫大中可以摸到多個結節，而當這些結節過度活躍，產生甲狀腺亢進時，就會被稱為 “toxic”，常發生於碘攝取不足之區域。\n(D) Acute(infectious)thyroiditis 顧名思義是感染造成，甲狀腺組織切片會看到膿 (abscess formation)，反覆或多菌種感染要懷疑有梨狀窩瘻管 (pyriform sinus fistula)。\n\n從上可知，滿足題意的只有 (A) 和 (B) 兩個疾病，筆者覺得兩者都可接受，但眼病變的確以 Graves disease 占大宗（約九成），故本題問「最有可能」時，選(B)會較適合。另一方面，“infiltration of the thyroid gland and retroorbital tissues with lymphocytes and plasma cells” 這句話就是硬生生從 Nelson 裡 Graves disease 的章節複製貼上的，所以還是只能選 (B)。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-25_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-25_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-26",
@@ -23757,9 +23767,11 @@
       "D": "需安排心臟超音波檢查是否有冠狀動脈擴張"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "看到本題題幹就要反射性想到「1 個嘴巴、2 個眼睛、3 隻手指摸頸部淋巴結、4 肢末端、5 天發燒及皮膚疹」——川崎氏症 (Kawasaki disease)，必考題！\n\n| 川崎氏症 (Kawasaki disease)<br>又稱皮膚黏膜淋巴結症候群 (mucocutaneous lymph node syndrome) | |\n| :--- | :--- |\n| **概述** | 是一種急性血管炎，主要影響中型大小的血管，尤其是冠狀動脈。好發於亞洲兒童，也是已開發國家最大宗的兒童後天性心臟病成因。 |\n| **表現** | 尖峰式高燒 (spiking fever) 至少五天，加上五大特徵中的四個：<br>• 雙側非滲出性結膜充血。<br>• 口、咽黏膜紅腫，合併草莓舌和乾裂的嘴唇。<br>• 手、腳掌紅腫；第 2-3 周後可能從指甲周圍開始脫皮。<br>• 皮膚紅疹 (polymorphous exanthema)。<br>• 非化膿性頸部淋巴結腫大，通常是單側 >1.5 公分。<br>其他表現包含：冠狀動脈異常 (coronary artery abnormalities)、心肌炎、關節炎、卡介苗結痂處發紅、肺浸潤、易怒、腸胃道症狀等。 |\n| **分期** | • **Acute febrile phase**：持續 1-2 周，出現發燒合併急性症狀。<br>• **Subacute phase**：持續約 3 周，開始脫皮、血小板增多、出現冠狀動脈異常，是猝死的高危險期。<br>• **Convalescent phase**：大約 6-8 周後，直到 ESR 恢復正常。 |\n| **診斷** | 沒有特定的檢查，以臨床診斷為主。<br>實驗室指標可見白血球增多、血小板上升、CRP 和 ESR 上升等。<br>要在診斷當下和 1-2 周後各做一次心臟超音波，以監測冠狀動脈，並依結果決定後續的追蹤頻率。 |\n| **治療** | • **急性期**：中高劑量的 Aspirin (80-100 mg/kg/day) 直到退燒，並給單次 IVIG (2 g/kg，可以讓冠狀動脈病變發生率降至 <5%)。<br>• **退燒後**：低劑量 Aspirin (3-5 mg/kg/day) 直到 6-8 周後，但若病人有冠狀動脈異常，則要繼續吃或加上抗凝血劑。 |\n\n(A) 正確。皮膚黏膜淋巴結症候群 (mucocutaneous lymph node syndrome) 就是川崎氏症 (Kawasaki disease)。\n(B) 正確。主要是利用低劑量 Aspirin 的抗血小板效果。\n(C) 錯誤。有使用高劑量免疫球蛋白 (≥ 1 g/kg) 者需要隔 11 個月後才能接種 MMR、水痘、日本腦炎等活性減毒疫苗，但 15 個月大時此男嬰已經超過 11 個月的間隔，故日本腦炎疫苗不需要延後。\n(D) 正確。冠狀動脈瘤是此疾病主要的致死原因，故在診斷當下和 1-2 周後都要安排心臟超音波來檢查。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-26_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-26_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-27",
@@ -23774,9 +23786,11 @@
       "D": "9價人類乳突病毒疫苗"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "疫苗接種時程還沒有背的，現在馬上背起來！\n\n| 年齡 | 現行時程建議（衛福部疾管署 10805 版） | |\n| :--- | :--- | :--- |\n| **24 小時內** | HBV ① | |\n| **1 個月** | HBV ② | |\n| **2 個月** | 五合一 ①、PCV13 ① | |\n| **4 個月** | 五合一 ②、PCV13 ② | |\n| **5 個月** | 卡介苗 | |\n| **6 個月** | HBV ③、五合一 ③；可開始接種流感疫苗 | |\n| **12 個月** | PCV13 ③、HAV ① | 水痘①、MMR ① |\n| **15 個月** | | 活性減毒日本腦炎① |\n| **18 個月** | HAV ② | 五合一 ④ |\n| **21 個月** | | |\n| **27 個月** | 活性減毒日本腦炎② | |\n| **5 歲至國小前** | MMR ②、DTaP-IPV ① | |\n\n註：\n• 五合一 / DTaP-Hib-IPV：白喉破傷風非細胞性百日咳、B 型嗜血桿菌及不活化小兒麻痺疫苗。\n• DTaP-IPV：白喉破傷風非細胞性百日咳及不活化小兒麻痺混合疫苗。\n• PCV13：13 價結合型肺炎鏈球菌疫苗。\n• MMR：麻疹腮腺炎德國麻疹混合疫苗。\n\n(A) 正確。六個月大即可接種流感疫苗，8 歲以下初次要接種兩劑，間隔四周。\n(B) 錯誤。免疫系統對多醣體抗原的反應要 2 歲後才會成熟，故 23 價多醣體肺炎鏈球菌疫苗 (PPV23) 適用 2 歲以上兒童。13 價結合型肺炎鏈球菌疫苗 (PCV13) 透過將多醣體接上一個 carrier protein 來同時刺激 T 細胞，進而幫助 B 細胞對抗原有較好的反應，故適用滿 6 週以上幼兒。\n(C) 有模糊空間。按時程來說日本腦炎活性減毒疫苗會在 15 個月大時接種第一劑，但根據仿單，年齡 9 個月以上即符合注射的適應症，故單論「適合」的話，10 個月大的嬰兒是符合的。但既然 (A) 很明確是正確的，就不要冒險選 (C) 了吧！\n(D) 錯誤。9 價人類乳突病毒疫苗 (GARDASIL 9) 適用於 9 至 45 歲的人。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-27_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-27_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-28",
@@ -23791,9 +23805,11 @@
       "D": "抽血送細菌培養"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤。本題所示之症狀比起過敏，更像是急性感染，故驗 IgE 對現階段的診斷來說幫助最小。\n(B) 正確。對於兒科來說這些是必問的，對於懷疑感染的病人來說更是如此。\n(C) 正確。如【113-1(四)26】，發燒五天、起紅疹、結膜充血等，症狀確實與川崎氏症有一些相似性，雖尚未滿足確診的標準，但考量冠狀動脈病變的危險性，做心臟超音波來檢查冠狀動脈是合理的。\n(D) 正確。懷疑因感染而發燒，送兩套抽血細菌培養來排除菌血症是必要的檢查。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-28_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-28_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-29",
@@ -23808,9 +23824,11 @@
       "D": "Leigh syndrome"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題考了非常冷門的疾病，用刪去法會比較好作答（選不出來也不要氣餒，這題真的不容易）。\n(B) 裘馨氏肌肉失養症 (Duchenne muscular dystrophy) 大約 3 歲左右發病，以近端肌肉無力為主，且不會有出生後餵食困難的狀況，故第一個刪掉它。關於此疾病之進一步解說請見【113-2(六)66】。\n(C) 先天性肌無力症候群 (congenital myasthenic syndromes) 是一群影響神經肌肉接合處 (neuromuscular junction) 之先天疾病的總稱，其症狀多元，可從眼瞼下垂、複視，到四肢無力、呼吸困難等，也可以出現餵食困難等問題。基因突變不同會有不同遺傳模式，多以體染色體顯性或隱性遺傳為主。不過，這個疾病以神經肌肉突觸的問題為主（可以想像成和重症肌無力類似的疾病表現），較無法解釋其家族史中出現智能不足等神經症狀。\n(A) 普瑞德威利氏症候群 (Prader-Willi syndrome) 是由於父源第 15 號染色體缺乏或不表現所造成，嬰兒會出現標誌性的張力低下 (hypotonia)、餵食困難、發展異常等，與本題症狀相符；然而，此症候群大多是零星發生 (sporadic)，鮮少出現如本題所述之家族史，故不選。\n(D) Leigh syndrome，又稱亞急性壞死性腦肌病變 (subacute necrotizing encephalomyelopathy)，在大腦、腦幹多個區域會出現壞死、脫髓鞘、血管新生之病變。嬰兒時期開始即會有餵食困難、發育不良、血中乳酸升高等問題，也會出現神經和肌肉症狀，如：低張力、共濟失調、眼振、癲癇、發展遲緩等。有許多不同種缺陷的基因，故也有很多種遺傳模式：可以是零星發生、體染色體隱性、性聯、母系遺傳（符合本題家族史），在症狀和家族表現上皆可解釋，故為最可能之診斷。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-29_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-29_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-30",
@@ -23825,9 +23843,11 @@
       "D": "不會揮手再見"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題是每年必考的小兒發展題。\n(A) 3 歲左右才會單腳站，若到 6 歲還不會就屬發展遲緩警訊。\n(B) 3 歲左右才會騎三輪車。\n(C) 3 歲左右才會畫圓形，若到 3 歲 6 個月還不會就屬發展遲緩警訊。可以順便記一下：3 歲畫圓，4 歲畫十字 (cross) 和方形，5 歲畫三角形。\n(D) 9 個月時就該會了，故 2 歲還不會揮手再見屬發展遲緩警訊。\n\n其餘發展里程碑的整理表格放在【113-2(四)1】（本章第 35 題），可以參考，背多少，算多少。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-30_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-30_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-31",
