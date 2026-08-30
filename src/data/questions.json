@@ -25192,9 +25192,11 @@
       "D": "IV"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "有背有分\n\n| Crawford classification for thoracoabdominal aortic aneurysm | 侵犯範圍 |\n| :--- | :--- |\n| **Type I** | 左鎖骨下動脈之下起至腎動脈以上 |\n| **Type II** | 左鎖骨下動脈之下起至腎動脈以下 |\n| **Type III** | 第六肋間起至腎動脈以下 |\n| **Type IV** | 第十二肋間起至髂動脈分岔點 |\n| **Type V** | 第六肋間起至腎動脈以上 |\n\n降主動脈瘤分類一起背起來！\n\n| Classification for descending thoracic aneurysm | 侵犯範圍 |\n| :--- | :--- |\n| **Type A** | 左鎖骨下動脈之下起至第六肋間 |\n| **Type B** | 第六肋間起至第十二肋間／橫膈膜之上 |\n| **Type C** | 左鎖骨下動脈之下起至第十二肋間／橫膈膜之上 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-21_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-21_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-22",
@@ -25209,9 +25211,11 @@
       "D": "阻抗容積描記術（impedance plethysmography）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 杜卜勒超音波（duplex ultrasound）是目前最常使用的工具，透過結合 Doppler 和 color flow ultrasound，杜卜勒超音波可以確定靜脈血的流速，並透過壓迫靜脈導致的流速變化來判斷是否有栓塞，它方便、非侵入性也不需顯影劑，缺點是超音波仰賴操作者的技術，且骨盆腔的靜脈不易檢查\n\n(B) 核磁共振（magnetic resonance venography）也是診斷深層靜脈栓塞的選擇之一，尤其適合髂靜脈和下腔靜脈檢查，然而，由於成本和病人耐受度（檢查時間長、可能有幽閉恐懼症等），不是首選的工具\n\n(C) 靜脈攝影（venography）被認為是最準確診斷深層靜脈栓塞和栓塞位置的檢查，但由於具侵入性且有注射顯影劑之風險，目前不是第一線的工具\n\n(D) 阻抗容積描記術（impedance plethysmography）是透過電訊號偵測靜脈流量變化，若是有栓塞，流速會變慢，但此方法難以檢測小腿的栓塞，對過去有深層靜脈栓塞病史者也不適用，故非首選工具\n\n另外，D-dimer 也是會使用的檢查，它的敏感度（sensitivity）可達 95%，適合用來「排除」非高風險族群的深層靜脈栓塞",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-22_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-22_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-23",
@@ -25226,9 +25230,11 @@
       "D": "雖然新型的抗凝血劑（novel oral anticoagulant, NOAC）問世，如 dabigatran、rivaroxaban，仍不建議使用於機械性瓣膜病患"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，由於技術進步，生物性瓣膜耐用度已較過往提升，大於 60 歲之主動脈瓣或大於 70 歲之二尖瓣，若無其他抗凝血劑適應症（如：需要使用 warfarin 的其他狀況），皆傾向用生物性瓣膜，目前主動脈瓣再置換（re-implantation）的發展，使得小於 60 歲之主動脈瓣置換也開始有醫師採用生物性瓣膜\n\n(B) 正確，機械瓣膜置換後必須終身服用抗凝血劑，維持 INR 在 2~3，而二尖瓣置換，由於左心房擴張、心房顫動風險高，INR 會抓更高到 2.5~3.5\n\n(C) 錯誤，Ross 手術確實是將肺動脈瓣取下放到主動脈位置取代主動脈瓣，屬於自體移植（autograft），再用同種異體移植（homograft）的主動脈瓣重建肺動脈瓣，較常使用於兒童，因瓣膜可以隨著年紀長大，且產生栓塞的機率低，不需使用抗凝血劑，雖不需抗凝血劑，但它同時改變兩個瓣膜的構造，仍是風險較高之手術，對於年老病人來說，使用生物性瓣膜即可解決抗凝血劑的問題（只需在術後 3 個月內使用 DOAC，不需終生服用 warfarin），沒有進行 Ross 手術的必要\n\n(D) 2011 年 RE-ALIGN trial 比較 dabigatran 和 warfarin 用於機械性瓣膜病患的效果後發現，使用前者的病人有更多中風和出血的併發症，故目前不建議使用 NOAC 於機械性瓣膜病患，此議題仍有待更多科學研究提供實證證據",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-23_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-23_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-24",
@@ -25243,9 +25249,11 @@
       "D": "可考慮送導管室進行心房中隔氣球擴張術"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(C)(D) 皆正確，插管輸液是急救措施；大動脈轉位手術可以根本的解決問題，雖然新生兒才出生 1 天，仍可以執行，特別是若 PGE1 和氣球擴張無效，則必須直接手術；心房中隔氣球擴張術則是短期緩解發紺的方法\n\n(B) 對於沒有合併心室缺損的大動脈轉位，應給予 PGE1 靜脈注射，而非停止，否則肺循環無法分流給體循環，發紺會非常嚴重；但若有心室缺損，則一般來說不需要 PGE1，詳細請見下表整理：\n\n| 大動脈轉位（transposition of great arteries） | 心室中膈完整（intact ventricular septum） | 心室中膈缺損（ventricular septal defect） |\n| :--- | :--- | :--- |\n| **表現** | 出生後就會發紺，若沒有夠大的心房中膈缺損 (ASD)，發紺會非常嚴重且可能致死 | 心室中膈缺損 (VSD) 通常可以提供足夠的分流，發紺情形不嚴重，多以肺循環過載和心臟衰竭表現 |\n| **合併異常** | 少 | 可能合併主動脈弓發育不良或窄縮，也可能有肺動脈閉鎖 |\n| **診斷** | 心臟超音波 | 心臟超音波 |\n| **治療** | • PGE1 靜脈注射以及心房中隔氣球擴張術 (balloon atrial septostomy) 幫助左右循環血液混合，緩解發紺<br>• 出生後 1~2 週仍須行大血管轉位手術 (arterial switch operation / Jatene procedure)，避免左心長期供應低阻力的肺循環而萎縮 | • VSD 夠大的話左心會供應到高阻力的體循環，不會萎縮，但可能衰竭，故大血管轉位手術時機約在出生後 4~6 週，可觀察臨床症狀決定<br>• 若合併其他異常則可能需要 PGE1 靜脈注射或更複雜的手術 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-24_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-24_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-25",
@@ -25260,9 +25268,11 @@
       "D": "頸部食道淋巴引流，很短距離就可穿出肌肉層至局部淋巴結"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，食道是縱向的，淋巴引流自然也是縱向為主，其縱向引流比橫向多 6 倍，上 2/3 食道會往頭部引流進頸部淋巴結，下 1/3 食道則是往腹腔引流進胃、脾臟淋巴結\n\n(B)(C) 正確，食道的黏膜下淋巴叢（submucosal lymph plexus）非常發達，淋巴管比微血管還多\n\n(D) 正確，一般來說，食道黏膜下淋巴叢沒有分節，所以腫瘤可以自由的在黏膜下層上下跑，造成局部擴散，但淋巴叢會上下走一段長度後才會穿出肌肉層，所以反而不會直接侵犯淋巴結，唯一的例外是頸段食道，這裡的淋巴引流很明確，會直接穿出肌肉層，引流進頸部淋巴結，而鮮少在黏膜下層局部擴散",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-25_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-25_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-26",
@@ -25277,9 +25287,11 @@
       "D": "經過 20 年以上可能會有惡性變化，常見惡性腫瘤為腺癌（adenocarcinoma）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題題幹之食道弛緩症應該是指食道弛緩「不能」症（achalasia），詳見下方整理：\n\n(A)(B)(C) 正確，(B) 甚至是直接把原文獻的英文敘述貼上來\n\n(D) 錯誤，常見鱗狀上皮細胞癌（squamous cell carcinoma）\n\n| 食道弛緩不能症（achalasia） | 臨床特徵與指引 |\n| :--- | :--- |\n| **概述** | 年輕女性多，病生理為下食道括約肌的神經（腸肌神經叢，myenteric plexus）支配受損，導致進食時括約肌無法放鬆、食道壓力增加，最終導致食道擴大、食道肌肉喪失蠕動能力，感染（如：Chagas disease）、外傷、過度減重、情緒壓力皆可能是風險因子 |\n| **表現** | • Classic triad：吞嚥困難（固體及液體）、逆流、體重減輕<br>• 火燒心、夜咳、餐後窒息感、胸骨後疼痛也很常見，食物逆流可能導致嗆咳、吸入性肺炎、肺膿瘍、甚至不可逆的支氣管擴張 |\n| **診斷** | 食道鋇劑攝影會在遠端食道呈現鳥嘴狀 (bird beak)，晚期會看見巨大食道 (megaesophagus)；食道蠕動壓力測量 (manometry) 是黃金診斷標準，當 median integrated relaxation pressure > 15 mmHg 且沒有正常蠕動波，可診斷食道弛緩不能症 |\n| **治療** | • 以放鬆下食道括約肌為主，無法改善食道喪失的蠕動能力，非手術治療包含：舌下 nitrates、CCB、肉毒桿菌素注射、內視鏡氣球擴張等；手術治療包含：腹腔鏡賁門切開手術 (Heller myotomy)、經口內視鏡肌肉切開術 (per-oral endoscopic myotomy, POEM) 等<br>• 若是以上療法皆無效，可能需食道切除 (esophagectomy) |\n| **癌症風險** | 患者在 20 年內會有 8% 的癌化風險，其中以鱗狀上皮細胞癌為主，主要是食物滯留、刺激食道造成，但也有可能為腺癌，即便經過治療，仍有癌化風險，故建議要定期追蹤 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-26_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-26_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-27",
@@ -25294,9 +25306,11 @@
       "D": "發現時大多是以局部侵犯為主，適合手術切除"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 小細胞肺癌（small cell lung cancer） | 臨床特徵與處置 |\n| :--- | :--- |\n| **概述** | 佔肺癌的 20%，多位在中央（centrally located），容易早期轉移到縱膈腔淋巴結、腦、骨髓，可能產生副腫瘤症候群（paraneoplastic syndrome），如：SIADH、Cushing's syndrome、carcinoid syndrome、Lambert-Eaton syndrome 等 |\n| **分期** | 有 TNM staging，但臨床常用侷限期（limited stage，腫瘤侷限在 ipsilateral hemithorax 且在單一放射位點）及擴展期（extensive stage，腫瘤已擴散） |\n| **治療** | • 非常早期（腫瘤 < 3 公分、沒有淋巴結或胸外轉移）：手術切除，術後化療和放療<br>• 侷限期：化療和放療，反應佳者可考慮做預防性顱部照射 (prophylactic cranial irradiation)<br>• 擴展期：化療和免疫治療，同樣可考慮做預防性顱部照射 |\n| **預後** | 大多數病人發現時已經是晚期，30% 的人對治療會有 complete response，但五年存活率仍只有 5% |\n\n(A) 正確，肺癌中，好發中央的是鱗狀上皮細胞癌和小細胞肺癌，好發周邊的是肺腺癌和大細胞肺癌\n\n(B) 正確\n\n(C) 正確，小細胞肺癌非常惡性，五年存活率僅 5%\n\n(D) 錯誤，大多已是後期，腫瘤已轉移出去，此時只能系統性治療",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-27_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-27_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-28",
@@ -25311,9 +25325,11 @@
       "D": "通常生長緩慢"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "過誤瘤（hamartoma）是正常組織長在不正常位置的表現，是肺部最常見之良性腫瘤，多發生於 40~60 歲，且男女比為 2 : 1，其特徵為軟骨過度生長、長在肺葉邊緣、生長緩慢，通常不會鈣化，但倘若出現在 X 光上呈爆米花狀（popcorn appearance），可輔助診斷\n\n(A)(B)(D) 皆正確\n\n(C) 錯誤，40~60 歲之男性較好發\n\n**補充：**\n肺部最常見的「良性腫瘤」是過誤瘤，但最常見的「單一結節」是黴菌或結核菌感染發炎造成",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-28_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-28_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-29",
@@ -25328,9 +25344,11 @@
       "D": "量少的乳糜胸，可用保守療法，像是中鏈三酸甘油脂飲食（medium-chain triglyceride diet）或是完全禁食搭配全靜脈營養"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 淋巴管裡面當然是淋巴球，不是嗜酸性球！\n\n(A)(C)(D) 皆正確，詳見下方整理：\n\n| 乳糜胸（chylothorax） | 臨床特徵與處置 |\n| :--- | :--- |\n| **成因** | 最常見因手術傷害胸管造成，但也可能因感染造成的淋巴腺炎、惡性腫瘤侵犯等造成，由於胸管從橫膈膜向上走，一開始偏右側，在約第四節胸椎高度才往左走，故若需做胸管修補手術時，一般從右胸進入 |\n| **表現** | 胸管流量高時一天可以漏超過 2 公升的乳糜，會造成脂質、蛋白質、淋巴球、體液流失，影響代謝，甚至造成死亡 |\n| **診斷** | 胸水會呈牛奶狀（但若沒有從腸胃道攝取脂質，則會呈現澄清狀），送檢可見：乳糜微粒 (chylomicron)、淋巴球、以及三酸甘油脂大於 110 mg/dL |\n| **治療** | • 初期以放胸管、中鏈三酸甘油脂飲食 (medium-chain triglyceride diet) 或全靜脈營養為主，也可以給予 octreotide/somatostatin 治療<br>• 超過一週仍有大量漏液時，要考慮胸管手術結紮 (ligation) 或栓塞 (embolization)；若是惡性乳糜胸，則以化療或放療為主 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-29_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-29_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-30",
@@ -25345,9 +25363,11 @@
       "D": "Meckel's diverticulum"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "消化道出血（GI bleeding）以吐血、血便、黑便表現，臨床上 90% GI bleeding 可由胃鏡或大腸鏡發現出血點，剩下 10% 找不到出血點的定義為不明原因消化道出血（obscure GI bleeding），大多數的出血來源為小腸\n\n最常見的小腸出血為血管發育不良（angiodysplasia），佔 75%，其次為小腸腫瘤，佔 10%；而 Meckel's diverticulum 為兒童最常見的小腸出血原因，其他可能出血原因有：Crohn's disease、感染性腸炎 (infectious enteritidis)、NSAID 誘導的糜爛或潰瘍 (erosion or ulcer)、血管炎 (vasculitis)、腸缺血 (bowel ischemia)、靜脈曲張、憩室、腸套疊",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-30_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-30_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-31",
