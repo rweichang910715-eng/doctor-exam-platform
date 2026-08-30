@@ -22912,9 +22912,11 @@
       "D": "腦脊髓液進行結核菌聚合酶鏈鎖反應（polymerase chain reaction, PCR）已經取代培養，成為最主要診斷工具"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(B) 正確。典型的結核性腦膜炎 CSF 表現如下：\n  (1) Opening pressure 上升\n  (2) Lymphocytic pleocytosis (10-500 cells/$\\mu$L)\n  (3) Protein 增加 (1-5 g/L)\n  (4) Glucose 減少 (20-40 mg/dL)\n(C) 正確。腰椎穿刺的最後一管 CSF 最適合用來送 Acid-fast stain，但通常只有 10-40% 的病人會呈現陽性。\n(D) 錯誤。培養目前還是診斷結核性腦膜炎的 Gold standard，需要 4-8 週的培養時間，約 50% 病人呈現陽性。PCR (Xpert MTB/RIF assay) 僅能用於輔助，若陰性仍不可排除結核性腦膜炎。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-61_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-61_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-62",
@@ -22929,9 +22931,11 @@
       "D": "carbapenem"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "*Campylobacter* 是 Gram-negative 的微需氧 (Microaerophilic) 桿菌，故針對厭氧菌的 Metronidazole 較不適合。而 *Campylobacter jejuni* 對於 Trimethoprim 以及 $\\beta$-lactams 有抗性，故也不適合，因此選擇 (D)。除了利用抗生素的抗菌範圍解題外，另一個想法是這個病人血壓低很有可能是 Septic shock，選項中只有 Carbapenem 可以最大範圍涵蓋到各種常見的致病菌，比較適合用於敗血性休克。\n\n| *Campylobacter* infection 的治療 | |\n| :--- | :--- |\n| **抗生素適應症** | • *Campylobacter* 感染主要造成腹瀉，故通常以補充水分、電解質為主。<br>• 使用抗生素的適應症：高燒、血便、嚴重腹瀉、症狀持續一週以上、症狀惡化 |\n| **腸胃道感染** | • 首選：Azithromycin<br>• 替代用藥（抗藥性較高）：Ciprofloxacin、Levofloxacin |\n| **系統性感染** | Carbapenem (Imipenem、Meropenem)，若症狀非常嚴重可以加上 Gentamicin。 |\n| **有抗藥性** | Trimethoprim、$\\beta$-lactam antibiotics |\n\n補充：*C. jejuni* 常考的併發症為 reactive arthritis 和 Guillain-Barre syndrome。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-62_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-62_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-63",
@@ -22946,9 +22950,11 @@
       "D": "異性間不安全性行為，依然是全球HIV感染最常見的傳染途徑"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，HIV 主要感染 CD4 T cell。進入細胞的過程為病毒表面的 gp120 protein 與淋巴球表面的 CD4 分子結合，之後 gp120 protein 會產生型態轉換，促進其與淋巴球表面的 Co-receptor (CCR5、CXCR4) 結合，接著 gp41 protein 會促使其和淋巴球表面融合 (Fusion)。\n(B) 正確。與淋巴球融合後，HIV 會把 HIV RNA、Reverse transcriptase、Integrase 以及其他病毒的蛋白質送進淋巴球，並在淋巴球內把 HIV RNA 藉由 Reverse transcriptase 轉換為 DNA。\n(C) 正確。轉換出來的 DNA 會被送入細胞核中，經由 Integrase 協助嵌入淋巴球的 DNA 中，開始利用宿主的轉錄、轉譯產生病毒的 RNA、mRNA 與蛋白質。新產生的病毒 RNA 與蛋白質會移動到接近細胞表面，然後 Budding 出去產生新的 HIV。\n(D) 正確。目前全球最常見的 HIV 傳染方式（尤其在開發中國家）仍是異性間性行為，但有許多西方國家是以男男間性行為為主（台灣其實也是以男男間性行為為主 *）。而每一次不安全性行為的傳染風險則是肛交較高（接受者：1.38%，插入者：0.11%），異性間性行為較低（女性：0.08%，男性：0.04%）。\n\n* 根據台灣衛福部 111 年我國愛滋病疫情現況概述，台灣 HIV 感染之危險因子男男間不安全性行為佔 80%，異性間不安全性行為佔 11%。\n\n參考資料：衛福部 111 年我國愛滋病疫情現況概述",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-63_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-63_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-64",
@@ -22963,9 +22969,11 @@
       "D": "因有綠膿桿菌感染風險，可考慮使用piperacillin-tazobactam或cefepime"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確。Probe-to-bone test 是以金屬探針往傷口裡戳，若能碰到骨頭則可能為骨髓炎。對於足部骨髓炎風險高的族群 (Pretest probability 高)，此測試的 Positive predictive value 約 90%。\n(B) 正確。MRI 偵測骨髓炎的敏感性為 80-100%，特異性為 80-90%。X 光檢查敏感性為 30-90%，特異性為 50-90%。\n(C) 錯誤，Bone biopsy 跟 Wound swab 的培養結果相關性非常差，整體而言兩者相同的比例大概只有 24%。當致病菌種為 *S. aureus* 時兩者相關性最好 (40-50%)，Coagulase-negative staphylococci 相關性最差 (0-20%)。\n(D) 正確。感染綠膿桿菌的風險因子包括之前長過綠膿桿菌、氣候溫暖、傷口經常暴露到水，再加上病人有黃綠色膿狀分泌物，故經驗性抗生素涵蓋綠膿桿菌為合理的做法。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-64_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-64_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-65",
@@ -22980,9 +22988,11 @@
       "D": "當水痘為紅黑色，紅腫區域快速蔓延或合併感染處感覺異常（anesthesia），應把壞死性筋膜炎列入鑑別診斷"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確。手足口病 (Hand-foot-and-mouth disease) 最常見的病原是 Coxsackievirus A16，有時也會由 Enterovirus A71 造成，常見於小孩。口咽、舌頭、頰黏膜、上顎、牙齦常會出現潰瘍，而手腳、臀部、腹股溝會出現水泡或斑丘疹。\n(B) 錯誤，*Vibrio vulnificus* 是接觸海水。*Vibrio vulnificus* 的病程進展可能快到像壞死性筋膜炎，可透過一些危險因子辨別，如有海水接觸史或肝硬化病史的病人生食海鮮，治療抗生素選用 Tetracycline。淡水則要想到 *Aeromonas hydrophilia*，治療選用 fluoroquinolones。\n(C) 正確。Staphylococcal scalded-skin syndrome (SSSS) 是由 *S. aureus* 分泌的 Exofoliatin 引起，較常見於新生兒。Toxic epidermal necrolysis (TEN) 由藥物引起，較常見於成人，死亡率高。外觀上兩者都會有嚴重的水泡與脫皮，透過冷凍切片可以依照上皮裂解的位置區分，SSSS 裂解位置在 Stratum corneum，而 TEN 裂解位置在 Stratum germinativum。\n(D) 正確。壞死性筋膜炎的早期表現可能只有痛或發燒，接著開始出現紅腫、壓痛，並且伴隨紅黑色的硬結 (Induration) 以及藍紫色的水泡，最後皮膚變成藍黑色且脆弱。整體病程會沿著筋膜平面、靜脈與淋巴管快速擴散，病人到最後可能會併發休克以及多重器官衰竭。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-65_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-65_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-66",
@@ -22997,9 +23007,11 @@
       "D": "R：Recommend，給予最佳的治療建議"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "LEARN 看診模式是 Berlin 與 Fowkes 提出，以一系列的步驟，將病人對於自己身體、疾病、治療的信念及期待，納入臨床決策與考量的模式：\n\n| 步驟 | 內容與涵義 |\n| :--- | :--- |\n| **Listen 聆聽** | 以同理心傾聽病人對於該疾病的認知與解釋 |\n| **Explain 解釋** | 以病人聽得懂的語言，說明醫療方對該疾病的看法 |\n| **Acknowledge 容許** | 發覺醫病雙方所詮釋的差異及相似之處並加以討論 |\n| **Recommend 建議** | 提出醫師認為最佳的治療計畫 |\n| **Negotiate 協商** | 醫病協商出雙方可接受的治療 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-66_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-66_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-67",
@@ -23014,9 +23026,11 @@
       "D": "血管性失智症僅須控制好相關危險因子，使用乙醯膽鹼酯酶抑制劑（acetylcholinesterase inhibitors,AChEIs）沒有助益"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，最常見的失智症應為阿茲海默症 (Alzheimer's disease)，佔失智症的 65~70%，而血管型失智症僅佔 15~20%。其他兩種失智症為路易氏體失智症 (LBD，佔 15~20%)、額顳葉失智症 (FTLD，佔 5%)\n(B) 錯誤，失智症的可逆原因有藥物（如：抗膽鹼藥物、鎮靜劑）、視力或聽力受損（感官刺激減少）、代謝相關（甲狀腺疾病、Vit B12 缺乏）、酒精濫用、常壓性水腦症 (NPH，失智伴隨尿失禁、步態不穩)、腦腫瘤或腦傷（如：慢性蛛網膜下血腫 CSDH）、感染（神經性梅毒或 HIV 末期）、情緒低落或憂鬱等。其中憂鬱為最常見造成可逆性失智的原因，因動機降低等因素造成認知功能測試的分數降低，形成假性失智 (pseudodementia)。\n(C) 正確，台灣於民國 106 年 5 月 29 日與國際接軌通過失智症全球行動計畫，陸續於全台各地設立失智共同照護中心，與長照 2.0 結合，提供諮詢、轉介、協助個案確診等服務，截至 111 年度為止，全台 22 個縣市共計 114 個失智共照中心。\n(D) 錯誤，失智症依照不同的嚴重度有不同的用藥建議，主要為 AChEIs（如：donepezil、rivastigmine、galantamine）、NMDA receptor antagonist (memantine)，整理於下表：\n\n| 嚴重度 | donepezil | 其他 AChEIs | NMDA-RA | 其他 |\n| :--- | :---: | :---: | :---: | :---: |\n| **輕中度** | V | V | X | Aducanumab *、Vit E ** |\n| **中重度** | V | X | V | — |\n| **重度** | V | X | V | — |\n\n\\* Aducanumab 為 anti-$\\beta$ amyloid Ab，須透過 PET 或 CSF 確立有 amyloid 沉積的證據才能使用。用藥期間要以 MRI 評估是否有產生副作用 ARIA (amyloid-related imaging abnormalities)，如：ARIA-E (edema) 或 ARIA-H (hemorrhage)\n\\** Vit E 對於失智症僅有些微的好處，且高劑量 Vit E 可能有心血管風險。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-67_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-67_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-68",
@@ -23031,9 +23045,11 @@
       "D": "進行家庭功能評估"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題來診的婦女出現症狀且經由高階的核磁共振檢查都沒發現異常，病史詢問上發現症狀的開始與丈夫過世的時間接近，乍看下很像心理方面的問題，讓人很想選 (C)。但別忘記這是出在家醫的題目。此題關鍵在於婦女的認知及判斷力正常、且擔心子女負擔，需先進行家庭功能評估 (family assessment) 排除家庭功能障礙。\n\n家庭功能障礙評估以 Smilkstein 所提出的 APGAR 評估量表為例：評估內容含 5 個問題，每個問題的回答，頻率為「經常」得 2 分、「有時」者得 1 分、「幾乎沒有」者得 0 分。\n\n| APGAR 面向 | 評估內容 |\n| :--- | :--- |\n| **Adaption 適應度** | 我滿意於遇到困難時，可以求助於家人？ |\n| **Partnership 合作度** | 我滿意於家人和我討論事情及分擔問題的方式？ |\n| **Growth 成長度** | 我滿意於當我希望從事新活動，或是有新的發展方向時，家人能接受並給予支持？ |\n| **Affection 情感度** | 我滿意於當家人對我表達情感的方式，以及對我的情緒（憤怒 / 悲傷 / 愛）的反應？ |\n| **Resolve 融洽度** | 我滿意於家人與我共處的方式？ |\n\n總分 7~10 分代表家庭功能無障礙、4~6 分代表中度家庭功能障礙、0~3 分代表重度家庭功能障礙",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-68_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-68_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-69",
@@ -23048,9 +23064,11 @@
       "D": "「衛生教育」屬次段預防（secondary prevention）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 三段五級 | | | | |\n| :--- | :--- | :--- | :--- | :--- |\n| **第一段（預防階段）** | **第一段（預防階段）** | **第二段（治療階段）** | **第三段（康復階段）** | **第三段（康復階段）** |\n| **健康促進** | **特殊保護** | **早期診斷早期治療** | **限制殘障** | **復健** |\n| • 定期健檢<br>• 適性發展<br>• 衛生教育<br>• 均衡營養<br>• 優生遺傳諮詢 | • 注射疫苗<br>• 慎防過敏原<br>• 改善環境衛生<br>• 攝取特殊營養<br>• 避免職業災害 | • 疾病篩檢<br>• 預防疾病惡化 | • 減緩疾病惡化<br>• 防止併發症 | • 身心復健<br>• 職能復健<br>• 長期照護 |\n\n(A) 錯誤，於得病後，及時治療以預防疾病惡化，為第二段。\n(B) 錯誤，於尚未得病時，針對特定對象額外的介入，為第一段的特殊保護。\n(C) 正確，於得病後，減緩疾病惡化的治療，為第三段的限制殘障。\n(D) 錯誤，於尚未得病時，推廣至普羅大眾的措施，為第一段的健康促進。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-69_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-69_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-70",
@@ -23065,9 +23083,11 @@
       "D": "跨理論模式運用在體重管理已證實具有長期的效果"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題有兩個考點：跨理論模式 (TTM)、減重藥物的適應症。\n\n| 跨理論模式 (transtheoretical model, TTM) | |\n| :--- | :--- |\n| **無意圖期 (= 懵懂期) precontemplation** | 未來 6 個月內沒有打算改變、沒有意識到自己的行為需改變、之前嘗試過但失敗而受挫 |\n| **意圖期 (= 沉思期) contemplation** | 未來 6 個月內有打算改變、已意識到自己需要改變、了解改變的好處 |\n| **準備期 preparation** | 未來 1 個月內將採取行動、已有計畫或試圖行動 |\n| **行動期 action** | 已開始採取行動，但仍未滿 6 個月 |\n| **維持期 maintenance** | 已開始改變超過 6 個月 |\n| **結果 termination** | 已改變且相信自己不再犯下舊行 |\n\n根據台灣衛生福利部於民國 112 年出版的《成人肥胖防治實證指引》，針對肥胖的個案評估與處置如下：\n\n| BMI 切點 | 附加條件 | 處置內容 + 定期評估減重狀況 |\n| :--- | :--- | :--- |\n| **BMI $\\ge$ 24** | 或腰圍 $\\ge$90 公分（男）、$\\ge$80 公分（女） | 飲食控管、運動指導、生活型態調整、控制危險因子。定期量腰圍及 BMI。 |\n| **BMI $\\ge$ 27** | 有肥胖合併症 *，或 $\\ge$2 個心血管風險因子 ** | 考慮使用減重藥物。 |\n| **BMI $\\ge$ 30** | — | 建議使用減重藥物、謹慎考慮外科減重手術。 |\n| **BMI $\\ge$ 32.5** | 肥胖合併症或 $\\ge$2 個心血管風險因子 | 建議使用減重藥物、考慮外科減重手術 (bariatric surgery) |\n| **BMI $\\ge$ 37.5** | — | |\n\n\\* 肥胖合併症：高血壓、第二型糖尿病、血脂異常、心血管疾病（冠心症、腦中風、周邊血管疾病）、睡眠呼吸中止症等。\n\\** 心血管風險因子：高血壓、血脂異常（[HDL] 男性 <40mg/dl 或女性 <50mg/dl、[TG] $\\ge$150mg/dl）、空腹血糖 $\\ge$126mg/dl、有早發性冠心症家族史（男 <55 歲或女 <65 歲）、年紀大（男 $\\ge$45 歲或女 $\\ge$55 歲）\n\n(A) 錯誤，到體重管理門診諮詢代表已試圖行動，進入準備期 (preparation)。認知期的情境應該會是「與先生討論是否要去門診諮詢」，或是「開始覺得自己該減重了」等。\n(B) 錯誤，認知行為治療 (CBT) 主要用於飲食障礙患者，如：嗜食症 (binge eating disorder)、暴食症 (bulimia nervosa) 等。在一般肥胖的民眾，則須透過行為修正 (behavior modification) 以達到充分的減重效果，像是透過改變病人環境、改變行為與增強物之間的連結（古典制約的概念）。\n(C) 正確，根據上表，輕度肥胖的民眾 (BMI $\\ge$ 27)，且有肥胖合併症或兩個以上心血管風險因子者，應積極透過飲食、運動、生活型態調整控制體重，並且考慮使用減重藥物。而中度肥胖的民眾 (BMI $\\ge$ 30) 則是建議使用藥物治療。\n(D) 錯誤，跨理論模型最初是用來修正負面的問題行為或成癮行為的手段，如：戒菸、戒酒等，後續逐漸發展為對於意圖改善生活型態者的介入方式。然而，根據 Mastellos (2014) 的一篇系統性回顧分析納入 5 篇 RCT，發現跨理論模型對於體重下降的影響有限，且無明確證據顯示可維持體重下降，不過仍對於體能活動及飲食攝取的變化有顯著的好處。\n\n另外，較能幫助減重的應為動機式晤談 (motivational interview)，透過提升減重者對於行為改變的自我效能 (self-efficacy) 與個人控制感，以互動式及同理、傾聽的方式，讓減重者了解自己的行為與目標的差異，進而增加改變動機，並提升減重的成效。\n\n其他考點：\n1. 台灣目前核准使用的減重藥物：Orlistat (胰脂酶抑制劑)、Liraglutide (GLP-1 agonist，台灣僅用針劑，國外已核准口服劑型)、緩釋型 Naltrexone/Bupropion (opioid antagonist + norepinephrine-dopamine reuptake inhibitor)。註：Lorcaserin 因有增加癌症發生率的疑慮，已於 2020 年 2 月禁用。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-70_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-70_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-71",
