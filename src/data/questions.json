@@ -22722,9 +22722,11 @@
       "D": "肺癌"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此 CXR 可見右上肺有些浸潤以及 Cavitation 的病灶，再加上慢性咳嗽且有痰的病史，較符合肺結核的特徵。\n(A) 肺結核的 CXR 特徵可以分為 Primary tuberculosis（第一次感染，大多為小孩）以及 Post-primary tuberculosis（可能是 Re-infection，大多為成人）。Primary tuberculosis 常在上、中肺葉邊緣看到 Consolidation，可能伴隨肺門或縱隔腔淋巴結腫大，又稱 Primary complex 或 Ghon complex (Consolidation + Lymphadenopathy)。Post-primary tuberculosis 的 CXR 特徵為一開始在上肺葉的 Apical、Posterior segments 以及下肺葉的 Superior segments 看到多個小的 Consolidation，通常為雙側。隨著病程進展，Consolidation 的部分會擴大且常常空洞化 (Cavitation)\n(B) 肺膿瘍是實心或含有空氣的圓形病灶，通常有較厚的外壁（約 5mm），在中心有時可見 Air-fluid level\n(C) 肺炎依照不同的感染源可能有不同的表現，大多數的細菌性肺炎會呈現 Lobar、Segmental 或 Patchy infiltrates，而 Atypical pathogen 可能為 Interstitial pattern，呈現雙側、瀰漫分佈\n(D) 肺癌會呈現結節狀且可能有一些惡性特徵，如較大、形狀不規則、邊緣不清楚、追蹤發現快速變大、不對稱或沒有鈣化、空洞化 (Cavitated) 等\n\n參考資料：Armstrong diagnostic imaging 7th edition、Radiology essentials 3rd edition",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-51_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-51_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-52",
@@ -22739,9 +22741,11 @@
       "D": "影像診斷學上，在施打顯影劑之後，電腦斷層（CT）及磁振造影（MRI）在診斷嗜鉻細胞瘤之敏感度是類似的"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，嗜鉻細胞瘤 (pheochromocytoma) 的典型症狀有 6P，按照發生率依序為：pain（頭痛、胸痛）、profuse sweating（大量盜汗）、palpitation（心悸）、pressure（陣發性高血壓）、panic（恐慌）、pallor（蒼白）。其他較少見的症狀包含：噁心、體重下降、多喝多尿、姿勢性低血壓、擴張性心肌病變、紅血球增多、血糖血鈣上升等\n(B) 正確，Harrison 21/e Ch. 387 的內文。嗜鉻細胞瘤會製造 catecholamine（包含 dopamine、epinephrine、norepinephrine），透過抽血或尿液檢測 catecholamine 或其代謝物 (metanephrine、VMA 等) 可做為初步診斷的工具；影像學檢查包含 CT、MRI，用來定位腫瘤位置，此外還有 I-131- 或 I-123-MIBG scintigraphy、F-18-DOPA PET/CT、Ga-68-DOTATATE PET/CT 皆為極佳的影像診斷工具，能偵測腎上腺外或轉移性腫瘤\n(C) 錯誤，應為 10% 雙側。Rule of 10s 包含：腎上腺外佔 10%、兒童佔 10%、多發性 / 雙側腎上腺佔 10%、10% 家族性、10% 惡性會轉移、10% 會復發\n(D) 正確，同樣也是由 Harrison 節錄的：兩種檢查的敏感度皆 >95%。而嗜鉻細胞瘤為血流豐富的腫瘤，施打顯影劑明顯有助於診斷，針對腎上腺外的嗜鉻細胞瘤，則是 T2WI MRI Gd+ 較 CT 更能偵測\n\n其他考點：\nPheochromocytoma 相關疾病：MEN type 2A/2B、Von-Hippel Lindau disease (VHL)、neurofibromatosis type 1 (NF1)、Tuberous sclerosis complex (TSC)",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-52_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-52_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-53",
@@ -22756,9 +22760,11 @@
       "D": "淋巴球性腦垂體炎在經過類固醇治療後，因炎性反應緩解，腦下垂體之功能可能可以恢復正常"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "少見的疾病，Harrison 上只有簡短的一段敘述，考生們大概看看就好～\n\n| 淋巴球性腦垂體炎 (lymphocytic hypophysitis) | |\n| :--- | :--- |\n| **致病機轉** | 腦垂體因廣泛性淋巴浸潤，導致腦垂體功能短暫或永久喪失，目前認為與自體免疫細胞針對特定的腦垂體腺體細胞有關，好發於生產後女性 $\\rightarrow$ (A) 正確 |\n| **臨床表徵** | 腫大的腦垂體產生腫塊效應 (mass effect)，壓迫視神經造成視覺缺損、壓迫腦膜上的神經及頭骨造成頭痛 $\\rightarrow$ (C) 正確 |\n| **實驗室數值** | PRL 輕微上升、ESR 通常上升 $\\rightarrow$ (A) 正確 |\n| **影像學表現** | MRI 上與 adenoma 極為相似的突出腫塊 (prominent mass) $\\rightarrow$ (B) 錯誤 |\n| **治療與預後** | • 透過病史詢問與 pituitary adenoma 鑑別，以防不必要的手術切除<br>• 以類固醇治療數個月後通常可以恢復，但腦垂體功能恢復的情形，取決於其被破壞的程度，因此及時辨認出此疾病很重要 $\\rightarrow$ (D) 正確 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-53_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-53_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-54",
@@ -22773,9 +22779,11 @@
       "D": "增加肺栓塞及深部靜脈栓塞之風險"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Cushing's syndrome 為體內 glucocorticoid 過多導致一系列臨床表徵，幾乎全身所有組織或器官皆會受 glucocorticoid 作用影響。其中最明顯受到影響的部分為代謝：糖質新生 (gluconeogenesis)、脂肪分解 (lipolysis)、蛋白質異化代謝 (catabolism) 的功能上升。此外，cortisol 於腎臟會被 11-$\\beta$-HSD2 轉變為無活性的 cortisone，當 cortisol 過多時轉換負荷達上限，則會產生過量的 mineralocorticoid 效應（留水排鉀）。下視丘及腦垂體的負回饋也會受到影響，除了 HPA axis 被抑制之外，也會導致 HPG axis（性腺）、HPT axis（甲狀腺）功能低下。各組織或器官會出現的症狀及變化整理如下表：\n\n| | |\n| :--- | :--- |\n| **脂肪** | 體重增加、中央型肥胖 (central obesity)、月亮臉、水牛肩 |\n| **皮膚** | 血質面容 (facial plethora)、皮膚薄脆 (brittle skin)、容易瘀青、紫色條紋、青春痘、多毛症 (hirsutism) |\n| **骨頭** | 骨質疏鬆、脊椎骨折、兒童生長板癒合 |\n| **肌肉** | 無力、近端肌肉無力（特別是臀部及大腿 $\\rightarrow$ 爬樓梯或起身困難） |\n| **心血管** | 高血壓 (diastolic hypertension)、低血鉀、水腫、動脈粥狀硬化 |\n| **代謝** | 糖尿病、血脂異常 |\n| **生殖** | 性慾降低、女性無月經 |\n| **中樞神經** | 躁動 (irritability)、情緒不穩定 (emotional lability)、憂鬱、認知功能異常、嚴重者出現妄想型精神分裂 (paranoid psychosis) |\n| **血液及免疫** | 白血球數目上升、嗜酸性球減少、容易感染（血球無法穿透血管至組織）、凝血傾向（出現 DVT、PE） |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-54_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-54_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-55",
@@ -22790,9 +22798,11 @@
       "D": "單獨測量促甲狀腺素（thyrotropin, TSH），可以鑑別診斷病患因腦下垂體疾病造成的甲狀腺機能異常"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 自體免疫甲狀腺疾病最常見為 Hashimoto thyroiditis 及 Grave's disease：\n\n| Hashimoto thyroiditis | Grave's disease |\n| :--- | :--- |\n| Anti-TG Ab、Anti-TPO Ab (>90%) | TRAB：包含 TSI、TBII (80%)<br>Anti-TG Ab、Anti-TPO Ab (70-80%) |\n\nTG, thyroglobulin 球蛋白；TPO, thyroid peroxidase 甲狀腺過氧化酶；TRAB, TSH-receptor antibodies；TSI, thyroid stimulating immunoglobulin 甲狀腺刺激免疫球蛋白；TBII, TSH-binding inhibitory immunoglobulin 促甲狀腺激素結合抑制型免疫球蛋白。\n\n對於 Hashimoto thyroiditis，甲狀腺低下配合 Anti-TG Ab、Anti-TPO Ab 陽性即可診斷；而 Grave's disease 僅在無法透過臨床診斷時，才會用 TRAB 或 Anti-TPO Ab 做為診斷工具。\n(B) 甲狀腺抗體如：anti-TG Ab、anti-TPO Ab，已證實與自體免疫甲狀腺疾病有關，而不論是何種自體免疫甲狀腺疾病，甲狀腺機能通常是異常的。\n(C) TG 為甲狀腺素的前驅物，由甲狀腺濾泡細胞 (follicular cell) 分泌至濾泡的膠體 (colloid) 當中。因此甲狀腺毒症的患者，甲狀腺素製造量上升，血清 TG 會升高，但若為外源性的甲狀腺素並非濾泡細胞製造，TG 不會上升。\n(D) 由於 TSH 的數值受到 T3、T4 變化更明顯，因此對於判斷甲狀腺功能更敏感，因此臨床上若要只抽一個數值會優先抽 TSH（若 TSH 數值正常則不會懷疑甲狀腺本身的問題）。然而，這樣做法前提為多數的甲狀腺功能異常為甲狀腺本身造成的 (primary)，相較之下，腦垂體功能製造 TSH 的細胞功能 (secondary) 的比例極低。因此若為腦垂體疾病造成的甲狀腺機能異常，則無法透過單獨測量 TSH 判斷。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-55_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-55_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-56",
@@ -22807,9 +22817,11 @@
       "D": "原屬非胰島素依賴型的第二型糖尿病人，一旦須注射胰島素，就轉變成胰島素依賴型的第一型糖尿病人"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "第一型 (T1DM)、第二型糖尿病 (T2DM) 的分類，傳統上是根據導致高血糖的病因區分。T1DM 為體內產生攻擊胰島 $\\beta$ cell 的自體抗體，導致胰島素產出缺乏（胰島素的量不足）；T2DM 則為一群導致組織對於胰島素的阻抗增加、胰島素的釋放功能受損（胰島素阻抗使胰臟長期分泌過量胰島素）、肝臟製造葡萄糖能力增加（因肝臟、肌肉等胰島素受體豐富的組織無法利用血液中的葡萄糖）的疾病總合。\n\n綜上所述，(A)(B)(C) 皆正確。(D) 選項當 T2DM 患者長期胰島素阻抗，與胰島 $\\beta$ cell「過勞」（註）而無法製造胰島素，會轉變為胰島素依賴型的 T2DM（仍不會稱作 T1DM），而注射胰島素的目的，是要透過更高濃度的胰島素，來促使組織克服胰島素阻抗的狀況，最終血中葡萄糖降低到正常值。\n\n註：胰島過勞比較偏向過去的講法，現有研究指出，在長期 T2DM 的病人，與胰島素共同分泌的物質 amylin（或稱作 amyloid polypeptide）會形成 amyloid fibrillar，沉積在胰島細胞周圍。不過目前仍不知道這樣的發現是結果還是原因，意即有可能是 amyloid fibrillar 沉積導致胰島素分泌不足，或者是胰島素分泌不足使 amyloid fibrillar 的沉積發生。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-56_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-56_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-57",
@@ -22824,9 +22836,11 @@
       "D": "血糖降低時，在胰島素分泌減少後，升糖素（glucagon）分泌跟著上升"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，Whipple's triad 包含：有低血糖症狀（包含：手抖、焦慮、盜汗、無力、意識改變等）、有客觀且精準的低血糖數值、血糖回升後症狀改善\n(B) 錯誤，血糖正常值下限為 70 mg/dL。此外，低血糖有 3 個 level：Level 1 為 plasma glucose <70 mg/dL、Level 2 為 <54 mg/dL、Level 3 為出現影響到意識 / 活動狀態等會危及性命的症狀\n(C) 正確，唯二會糖質新生的器官為肝臟（主要）、腎臟（僅皮質）\n(D) 正確，升糖素的功能為提高血糖，低血糖時升糖素分泌增加。此外，不同血糖數值所影響激素的分泌如下：\n\n| 血糖數值 (mg/dL) | 激素與生理反應變化 |\n| :--- | :--- |\n| **80-85** | Insulin $\\downarrow$ |\n| **65-70** | Glucagon $\\uparrow$、Epinephrine $\\uparrow$、Cortisol $\\uparrow$ |\n| **50-55** | 出現症狀 |\n| **<50** | 意識狀態 $\\downarrow$（低血糖嚴重度增加） |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-57_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-57_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-58",
@@ -22841,9 +22855,11 @@
       "D": "高尿酸血症（hyperuricemia）病患，即使無症狀，一律應積極給與降尿酸藥物治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 高尿酸血症 (hyperuricemia) | |\n| :--- | :--- |\n| **定義** | 空腹血中尿酸值 (serum uric acid, sUA) >7.0 mg/dL，但不同研究之間有差異 |\n| **流行病學** | 台灣男性盛行率 42%、女性 27% |\n| **尿酸代謝** | • 來源：體內 purine 代謝的最終產物（佔 2/3）、食物攝取（佔 1/3）<br>• 排出：由腎臟（佔 2/3）、大腸（佔 1/3） |\n| **致病機轉** | • 尿酸來源增加：細胞加速更新 (rapid cell turnover) 如白血病、溶血性疾病、橫紋肌溶解症等、酵素異常如 PRPP synthetase overactivity、多數相關代謝酵素 deficiency、肥胖、purine 攝取增加（僅影響 sUA ~1 mg/dL）<br>• 尿酸排出減少：腎臟異常（佔 90%）、藥物、酒精 |\n| **共病症** | 慢性腎臟病、高血壓、缺血性心臟病、糖尿病、代謝症候群、乾癬 |\n| **併發症** | • 阻塞性尿酸腎病變 (uric acid nephropathy)：急性尿酸上升，常發生在白血病、淋巴癌 (tumor lysis syndrome)，尿酸沉積在腎小管、集尿管內造成急性腎衰竭，通常可預防且可逆<br>• 痛風性腎髓質病變 (gouty urate nephropathy)：慢性罕見，尿酸的 MSU 結晶出現在間質及腎錐體 (pyramid)，造成後續蛋白尿、腎功能不全<br>• 關節疾病：痛風性關節炎 (gouty arthritis)、痛風石 (tophus) |\n| **治療時機** | • 高尿酸血症 (sUA >7.0 mg/dL) 者，且伴隨併發症<br>• sUA >9.0 mg/dL 者，且伴隨共病症<br>• sUA >10.0 mg/dL 者，不論有無症狀、共病症，皆須降尿酸治療 |\n| **治療目標** | sUA <6.0 mg/dL |\n\n參考資料：《台灣痛風與高尿酸血症 2016 診治指引》、Harrison 21/e Ch. 417",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-58_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-58_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-59",
@@ -22858,9 +22874,11 @@
       "D": "床頭抬高15～20度是可以減少發生醫療照護相關感染肺炎的標準作業"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據台灣肺炎診治指引，各種肺炎的定義如下：\n\n| 肺炎 | 定義 |\n| :--- | :--- |\n| 社區型肺炎 (Community-acquired pneumonia, CAP) | 在社區內發生的肺炎 |\n| 院內型肺炎 (Hospital-acquired pneumonia, HAP) | 住院 48 小時後或出院後 14 天內發生的肺炎 |\n| 呼吸器相關肺炎 (Ventilator-associated pneumonia, VAP) | 使用侵襲性呼吸器 48 小時後產生的院內肺炎 |\n| 健康照護相關肺炎 (Healthcare-associated pneumonia, HCAP) | 在 90 天內曾在急性病院住院 2 天以上、住在安養院或長期照護機構者、30 天內接受針劑抗生素、化學治療、傷口照護以及洗腎的病人 |\n\n其中 HCAP 於國際指引 (IDSA、ATS) 上已經被移除，而 Harrison 上也寫到原本這個分類是用來涵蓋院內型肺炎以及沒有住院但有被多重抗藥性細菌感染風險的病人，但後來發現其實無法有效預測抗藥性菌種，反而還增加廣效型抗生素的使用，故不應再繼續使用此分類（但台灣肺炎照護指引依然保留此分類）。\n\n這題的「醫療照護相關感染肺炎」沒有附上英文也沒有說清楚到底是什麼，但根據選項內容判斷應該是泛指所有跟醫療照護有關的肺炎（包含院內型肺炎與呼吸器相關肺炎），而不是單指在國際指引以及教科書上都不再被繼續使用的「健康照護相關肺炎 (Health care-associated pneumonia, HCAP)」，故以下使用 Nosocomial pneumonia 來代稱題目所稱之「醫療照護相關肺炎」。\n\n(A) 正確。發生 Nosocomial pneumonia 的風險因子如下：\n\n| 機轉 | 風險因子 |\n| :--- | :--- |\n| 病原移生的風險增加 | 之前使用過抗生素治療、受污染的呼吸器設備、胃酸酸性降低（也會增加抗藥性細菌移生風險） |\n| 嗆咳風險增加 | 插管、意識狀態較差、使用鼻胃管 |\n| 肺部防禦機制較差 | COPD、上腹部手術後 |\n\n(B) 正確。在住院前 4 天出現的 Nosocomial pneumonia 通常是由 Community-acquired pathogens 引起，如 *S. pneumoniae*、*Haemophilus* spp.。而比較晚表現的肺炎則通常是由 *S. aureus*、*P. aeruginosa*、*Enterobacter* spp.、*Klebsiella pneumoniae* 或 *Acinetobacter* 引起。\n(C) 正確。Nosocomial pneumonia 的抗生素治療通常為 7-8 天，跟使用 2 週的抗生素比起來治療效果相同且可以減少抗藥性菌株出現的頻率，例外的狀況（即需要使用較久抗生素）包含一開始的治療無效或使用到二線抗生素，以及由培養發現抗藥性較高的菌種（如 CRAB）。\n(D) 錯誤。床頭抬高 30-45 度可能可減少 VAP 發生率，且簡單又無副作用，故建議作為照顧基本措施，亦為 VAP bundles 其中一環。VAP bundles 包含床頭抬高 30-45 度、每日中斷鎮靜藥物、每日評估是否可以拔管、聲門下分泌物抽吸、每日口腔 Chlorhexidine 護理、手部衛生等。台灣肺炎診治指引還有寫到使用腸道不能吸收的口服抗生素做選擇性消化道滅菌、益生菌使用、氣管導管袖口壓力監測，但這三項目目前較無證據支持也未寫於教科書上。\n\n參考資料：台灣肺炎照護指引",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-59_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-59_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-60",
@@ -22875,9 +22893,11 @@
       "D": "tetracycline"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Tetracycline 類藥物 (Tetracycline、Doxycycline、Minocycline) 會導致骨頭發育異常，故不可使用於懷孕婦女以及 8 歲以下兒童。\n抗生素是否可以使用於懷孕婦女可以看 FDA pregnancy category：\n\n| Category | 說明 | 抗生素 |\n| :--- | :--- | :--- |\n| **A** | 安全 | 無 |\n| **B** | 可使用 | Penicillin、Cephalosporin、Azithromycin、Clindamycin、Erythromycin、Ertapenem、Meropenem、Vancomycin、Nitrofurantoin |\n| **C** | 盡量避免，但利大於弊時可考慮使用 | Chloramphenicol、Fluoroquinolones、Clarithromycin、Imipenem、Linezolid |\n| **D** | 不可使用 | Tetracyclines、Aminoglycosides、Tigecycline、Sulfonamides |\n\n參考資料：Harrison's Principles of Internal Medicine 21st edition p1152 Table 144-1",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-60_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-60_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-61",
