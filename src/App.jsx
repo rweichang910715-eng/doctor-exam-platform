@@ -183,12 +183,33 @@ const getLocalStorage = (key, defaultValue) => {
 
 function formatInlineMarkdown(str) {
   if (!str) return ''
-  const parts = str.split(/(\*\*.*?\*\*)/g)
-  return parts.map((part, i) => {
-    if (part.startsWith('**') && part.endsWith('**')) {
-      return <strong key={i}>{part.slice(2, -2)}</strong>
-    }
-    return part
+  const cleaned = str
+    .replace(/\\text\{([^}]+)\}/g, '$1')
+    .replace(/\$?(\\ge|\\geq)\$?/g, '≥')
+    .replace(/\$?(\\le|\\leq)\$?/g, '≤')
+    .replace(/\$?(\\times)\$?/g, '×')
+    .replace(/\$?(\\rightarrow)\$?/g, '→')
+    .replace(/\$?(\\mu)\$?/g, 'μ')
+    .replace(/\$?(\\Delta)\$?/g, 'Δ')
+    .replace(/\$?(\\pm)\$?/g, '±')
+    .replace(/\\\*/g, '*')
+    .replace(/\$([^$\n]+)\$/g, '$1')
+
+  const brParts = cleaned.split(/<br\s*\/?>/gi)
+  return brParts.map((sub, brIdx) => {
+    const parts = sub.split(/(\*\*.*?\*\*)/g)
+    const rendered = parts.map((part, i) => {
+      if (part.startsWith('**') && part.endsWith('**')) {
+        return <strong key={i}>{part.slice(2, -2)}</strong>
+      }
+      return part
+    })
+    return (
+      <span key={brIdx}>
+        {rendered}
+        {brIdx < brParts.length - 1 && <br />}
+      </span>
+    )
   })
 }
 
