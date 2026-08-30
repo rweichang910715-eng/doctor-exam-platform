@@ -24242,9 +24242,11 @@
       "D": "抑制β secretase"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據教科書 (Merritt's Neurology 13th edition)，FDA 通過使用於 Alzheimer disease 的藥物共有 5 種，其中四種是 Cholinesterase inhibitor，一種是 NMDA receptor antagonist。但其實這幾年陸續有出一些單株抗體的新藥，也有通過 FDA，一併整理於下表供參考：\n\n| 藥物 | 機轉 | 說明 |\n| :--- | :--- | :--- |\n| Tacrine | Cholinesterase inhibitor | 最早通過的藥，但因為一天要吃四次且有肝毒性因此目前少用 |\n| Galantamine | Cholinesterase inhibitor | 通過用於輕、中度 AD |\n| Rivastigmine | Cholinesterase inhibitor | 通過用於輕、中、重度 AD |\n| Donepezil | Cholinesterase inhibitor | 通過用於輕、中、重度 AD |\n| Memantine | NMDA receptor antagonist | 通過用於中、重度 AD |\n| Aducanumab (Aduhelm) | Anti-amyloid monoclonal antibody | 2021/06/07 FDA「加速核准」 |\n| Lecanemab-irmb (Leqembi) | Anti-amyloid monoclonal antibody | 2023/01/06 FDA 加速核准<br>2023/07/06 轉換為一般核准 |\n| Donanemab-azbt (Kisunla) | Anti-amyloid monoclonal antibody | 2024/07/02 FDA 核准 |\n\n參考資料：\n- https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-alzheimers-drug\n- https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-alzheimers-disease-treatment\n- https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval\n- https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-adults-alzheimers-disease",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-51_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-51_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-52",
@@ -24259,9 +24261,11 @@
       "D": "臨床上若病人有無痛性漸進性的肌肉無力萎縮，甚至肌束跳動（fasciculation），且沒有明顯的感覺功能"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確。ALS 的病理特徵是上、下運動神經元都退化，因此會同時出現上、下運動神經元退化的 Signs。約 5-10% 的病人是家族性遺傳，大多是體染色體顯性，但也有少部分是體染色體隱性或 X-linked mutation。\n\n| | Upper motor neuron signs | Lower motor neuron signs |\n| :--- | :--- | :--- |\n| 肌肉張力 | 上升 | 下降 |\n| DTR | 增加 | 下降 |\n| Babinski sign | 有 | 無 |\n| Hoffman sign | 有 | 無 |\n| 其他症狀 | • Jaw jerk 增強（其實也算反射的一種）<br>• Spastic dysarthria<br>• Pseudobulbar affect（假性延髓情緒，會不由自主、不適宜的笑或哭） | • 肌肉跳動 (Fasciculation)<br>• 抽筋 (Cramp)<br>• 舌頭萎縮或跳動<br>• 臉部無力<br>• 吞嚥困難、口齒不清<br>• 呼吸無力<br>• 脖子無力而頭下垂 |\n\n參考資料：Merritt's Neurology 13th edition p734 Table 85.3\n\n(B) 正確。ALS 病人約 15% 的認知行為異常會符合 FTD 診斷標準，而 FTD 病人也有 15% 會符合 ALS 診斷標準。其中相關的基因包含 C9ORF72 gene、TDP-43 以及其他許多基因，他們的表現可能會比較偏向 ALS 或 FTD 其中一邊，也可能剛好在中間 (FTD-ALS)。對此有興趣可以參考 Neuron 2013 年 的 Review：Converging mechanisms in ALS and FTD: Disrupted RNA and protein homeostasis (doi: 10.1016/j.neuron.2013.07.033)。\n\n(C) 錯誤。Familial ALS 最常見的基因突變是 C9ORF72 gene，SOD1 第二多（但他確實是第一個被發現的），兩者都是體染色體顯性遺傳。\n\n(D) 正確。感覺功能、膀胱功能在 ALS 通常不受影響，眼睛肌肉也極少被影響。疼痛通常不是早期症狀，但在晚期四肢張力極強、關節攣縮時可能會出現。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-52_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-52_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-53",
@@ -24276,9 +24280,11 @@
       "D": "口乾是一個常見的自律神經失調症狀"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 是攻擊鈣離子通道\n\n| | Lambert-Eaton myasthenic syndrome (LEMS) | Myasthenia gravis (MG) |\n| :--- | :--- | :--- |\n| 流病 | • 幾乎只在成人發病<br>• 約一半的 LEMS 是 Paraneoplastic syndrome，其中有 80% 跟肺的 Small cell carcinoma 有關 | • 大多在 40 歲後發病，男女比相同（40 歲前發病者女性較多）<br>• 15% 病人合併 Thymoma，70% 病人合併胸腺增生 |\n| 致病機轉 | 自體免疫抗體攻擊突觸前 Voltage-gated Ca channel，導致 Acetylcholine 無法正常釋出 | 自體免疫抗體攻擊 Neuromuscular junction 的突觸後 Ach receptor，導致肌肉無法正常收縮 |\n| 症狀 | • 近端肢體無力、Knee jerk 和 Ankle jerk 消失、肌肉痛<br>• 自主神經也會被影響：口乾、失禁、便秘、少汗 (Hypohidrosis)<br>• 不會有複視、口齒不清、吞嚥困難、喘<br>自主神經症狀比 MG 常見 | • 波動性無力（有時候有力有時候沒力），好發近端肢體、脖子肌肉<br>• 複視（眼外肌侵犯）、眼瞼下垂（常不對稱）、口齒不清、吞嚥困難、喘（呼吸肌無力） |\n| Repetitive nerve stimulation | 遞增反應（越動越有力） | 遞減反應（越動越沒力） |\n| 治療 | 治療 Underlying diseases<br>可以用促進 Ach 釋放的藥物改善症狀（如 3,4-diaminopyridine）<br>Plasma exchange、IVIg、Steroid、免疫抑制劑也可能有效 | Acetylcholinesterase inhibitor、Steroid、免疫抑制劑、Plasmapheresis、IVIg、Thymectomy |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-53_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-53_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-54",
@@ -24293,9 +24299,11 @@
       "D": "carbamazepine是治療的選項之一"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(C) 最常見是上小腦動脈 (Superior cerebellar artery)\n\n| 三叉神經痛 (trigeminal neuralgia, TN) |\n| :--- |\n| **流病**：<br>• 好發 60 歲以上老人，女性較多<br>• 如果發生年紀較年輕，要考慮多發性硬化症 (multiple sclerosis)：三叉神經的脫髓鞘病變可能跟 Typical TN 表現一樣，有 5% MS 患者會出現此狀況 |\n| **致病機轉**：<br>• 三叉神經被旁邊的血管壓迫或拉扯到，尤其是 Superior cerebellar artery (SCA)<br>• 其他成因：Idiopathic、Tumors、Cysts、Vascular malformation |\n| **症狀**：<br>• 侷限於三叉神經單或多條分支分佈區域的嚴重疼痛（刺痛或如電擊般疼痛），一次發作持續數秒至數分鐘，通常是單側<br>• 雖然不一定每次發作都是被誘發的，但 Typical TN 診斷要求至少要有三次是被誘發的 (Provoked)<br>• 輕微的同側副交感症狀（臉部潮紅、流淚、結膜充血） |\n| **檢查**：<br>• EMG trigeminal reflex testing：敏感性、特異性高，可作為早期檢查<br>• MRI：確認是否有次發原因導致三叉神經痛（如血管壓迫、腫瘤、多發性硬化症） |\n| **保守治療**：<br>• 藥物治療（對 70-80% Typical TN 的病人有效）：Carbamazepine（首選，使用後最快 2 天見效）、Oxcarbazepine、Gabapentin、Lamotrigine、Baclofen、Phenytoin、Tizanidine、Levetiracetam<br>• 肉毒桿菌素注射 (OnabotulinumtoxinA injection)：在受影響的皮膚或黏膜注射肉毒桿菌素，可以減少疼痛嚴重度以及發作頻率<br>• 副作用是接下來一週臉會不對稱<br>• 保守治療無效則考慮手術治療 |\n| **手術治療**：<br>• Microvascular decompression (MVD)：切開顱骨後把壓到三叉神經的血管移開，近 80% 病人做完手術後疼痛消失，術後 5 年仍有 73% 病人不會疼痛。手術併發症包含感覺喪失 (7%)、聽力損失 (10%)<br>• Gamma knife radiosurgery：對著三叉神經根照射放射線，約 70% 病人在術後一年疼痛消失，但術後 3 年就只剩 52% 病人不會疼痛。手術併發症包含感覺異常或喪失 (6-13%)<br>• 神經阻斷術 (rhizotomy)：經過卵圓孔 (Foramen ovale) 並使用 Glycerol injection、Radiofrequency thermocoagulation 或機械性壓迫破壞三叉神經根或三叉神經節。術後 90% 病人疼痛消失，但三年後只剩 54-64%。副作用多，50% 病人感覺喪失，50% 咀嚼困難 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-54_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-54_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-55",
@@ -24310,9 +24318,11 @@
       "D": "血漿交換或血漿分離術（plasma exchange / plasmapheresis）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "四個選項裡只有 (D) 有治療到 GBS。\n\nGBS 是自體免疫抗體引起的急性發炎性脫髓鞘多發性神經病變 (Acute inflammatory demyelinating polyneuropathy, AIDP)。症狀以從下肢開始快速往近端進展的對稱性肢體無力表現，並且伴隨反射消失 (Areflexia)，主要影響運動功能，但感覺異常也不少見。約有 30% 病人需要使用呼吸器。病程在症狀出現後持續惡化，4 週內惡化停止進入一段穩定的高原期 (Plateau stage)，之後開始慢慢恢復，約 85% 病人可以在數個月至一年完全恢復。\n\nGBS 在診斷後應該儘早開始治療，方式以 Plasmapheresis 及 IVIg 為主，兩者效果差不多，皆可以減少疾病的嚴重度並縮短恢復時間，兩種合併使用沒有比單用一種來得好。由於 IVIg 給藥方便也很安全，因此通常會優先使用。Plasmapheresis 則是可以降低近一半使用呼吸器的需求，並且增加一年後完全恢復的可能性。類固醇在 GBS 沒有治療角色。\n\n在第一個運動症狀出現 2 週後有可能就進入高原期，此時免疫相關的治療就不一定有效益。所以有些 GBS 病人來就診時症狀輕微且穩定，此時可能可以保守治療即可。但要是病人運動症狀嚴重或無法排除疾病仍在進展中，則仍應該給予免疫相關治療。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-55_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-55_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-56",
@@ -24327,9 +24337,11 @@
       "D": "MS病人脊髓發炎長度大都小於三節；而NMOSD病人其脊髓發炎長度等於三節或多於三節以上"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) MS 跟 NMOSD 都是女性多，只是比例不同（NMOSD 女性多更多）\n\n| | Neuromyelitis optica spectrum disorder (NMOSD) | Multiple sclerosis (MS) |\n| :--- | :--- | :--- |\n| **流行病學** | **好發年紀（中位數）**：30-40 歲<br>**性別（女：男）**：9：1（女多）<br>**分佈**：非白人（非洲、亞洲）發生率較高<br>**盛行率**：比 MS 低 | **好發年紀（中位數）**：20-30 歲<br>**性別（女：男）**：2：1（女多）<br>**分佈**：緯度高的區域發生率較高<br>**盛行率**：美國約 1-2% |\n| **臨床表現** | **表現**：<br>• 脊髓炎 (Myelitis)<br>• 視神經炎 (Optic neuritis)<br>• Area postrema syndrome<br>**病程**：通常會復發，但不會 Secondary progression\\*<br>**發作嚴重度**：較嚴重<br>**發作後恢復程度**：通常不會完全恢復<br>**預後**：較差（因為發作後不會完全恢復，反覆發作傷害就持續累積） | **表現**：<br>• 脊髓炎 (Myelitis)<br>• 視神經炎 (Optic neuritis)<br>• 大腦、腦幹侵犯<br>• 脊髓病變 (Myelopathy)<br>**病程**：85% 為 Relapsing-remitting，之後變成 Secondary progression；10-15% 從一開始就持續 Progression<br>**發作嚴重度**：較輕微<br>**發作後恢復程度**：會完全恢復<br>**預後**：較好 |\n| **實驗室檢查** | **CSF oligoclonal band**：30% 病人會出現<br>**血中 AQP4-IgG**：有 | **CSF oligoclonal band**：85% 病人會出現<br>**血中 AQP4-IgG**：沒有 |\n| **影像檢查** | **腦部 MRI**：通常正常或非特異表現；若有病灶則通常分佈在 Area postrema、第三/第四腦室旁、胼胝體、Periependymal brainstem<br>**視神經 MRI**：單或雙側視神經侵犯，常侵犯到較後方的視神經路徑及視交叉<br>**脊椎 MRI**：單一病灶，通常侵犯三節以上（稱為 Longitudinally extensive transverse myelitis, LETM） | **腦部 MRI**：病灶通常在腦室旁 (Dawson fingers)、Juxtacortical、Cortical、Infratentorial，可能呈現 Ring enhancement<br>**視神經 MRI**：通常侵犯單側較中間的視神經<br>**脊椎 MRI**：多個短病灶 |\n| **治療** | **急性治療**：<br>• IV glucocorticoid<br>• Plasma exchange（通常需要）<br>**維持治療**：<br>• FDA-approved: Eculizumab、Inebilizumab、Satralizumab<br>• 其他: Azathioprine、Mycophenolate、Rituximab、Tocilizumab<br>**其他**：40% 病人合併其他系統性自體免疫疾病（如 SLE、Sjogren syndrome、p-ANCA-associated vasculitis、myasthenia gravis、Hashimoto's thyroiditis、mixed connective tissue disease） | **急性治療**：<br>• IV glucocorticoid<br>• Plasma exchange（很少需要）<br>**維持治療**：Interferon β、Glatiramer acetate、Mitoxantrone、Natalizumab、Fingolimod、Teriflunomide、Dimethyl fumarate |\n\n\\* MS、NMOSD 的發作有四種形態：\n(1) Relapsing-remitting：反覆發作，發作後完全恢復正常\n(2) Secondary progression：一開始發作後可以恢復正常，但後來發作後無法恢復正常，且即使沒有發作症狀也會逐漸變嚴重\n(3) Primary progression：從一開始症狀就一直 Progress，中間沒有發作\n(4) Progressive-relapsing：一開始症狀就一直 Progress，且中間有發作",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-56_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-56_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-57",
@@ -24344,9 +24356,11 @@
       "D": "頭痛是常見的臨床表現"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(B) 正確。因為視交叉就在腦下垂體上方，腫瘤壓迫影響視野的順序為：顳側上方 → 顳側下方 → 鼻側下方 → 鼻側上方。雖然視野缺損以雙顳側偏盲最常見，但任何的視野缺損都有可能出現（如單眼看不見或同側偏盲）。\n\n(C) 錯誤，比較常合併高泌乳素血症 (Hyperprolactinemia)。腦下垂體腫瘤導致高泌乳素血症有兩種機轉：\n(1) 腫瘤是 Prolactinoma，本來就會分泌泌乳素。此類血中的 Prolactin 常超過 4000 mU/L。\n(2) Pituitary stalk syndrome：平常下視丘持續分泌 Dopamine 以抑制腦下垂體分泌 Prolactin，若 Dopamine 減少則 Prolactin 分泌增加。蝶鞍壓力上升或腫瘤壓迫到垂體柄 (Pituitary stalk) 會使 Dopamine 無法正常到達腦下垂體，進而導致 Prolactin 分泌增加。此類血中的 Prolactin 通常小於 2000 mU/L。\n\n以下補充腦下垂體腺瘤常見的種類：\n\n| 腫瘤 | 發生率 |\n| :--- | :--- |\n| GH secreting tumor | 20-25% |\n| Prolactinoma | 25-50% |\n| ACTH secreting tumor | 5-10% |\n| TSH secreting tumor | 很少見 |\n| FSH/LH secreting tumor | 很少見 |\n| Inactive | 25-40% |\n\n參考資料：Neurology and Neurosurgery Illustrated 5th edition p338\n\n(D) 正確。因為蝶鞍是個封閉構造，腦下垂體只要長腫瘤就很容易拉扯到鞍膈 (Diaphragma sellae，蓋在蝶鞍上的硬腦膜反折）以及旁邊的硬腦膜構造，然後經由 CN5-1 傳導而引起疼痛。雖然是個常見的症狀，但頭痛的嚴重度跟腫瘤的大小及侵犯範圍幾乎沒有相關性。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-57_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-57_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-58",
@@ -24361,9 +24375,11 @@
       "D": "第三型小腦脊髓共濟失調症（spinocerebellar ataxia type 3）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(C) Wilson disease 是 ATP7B gene loss-of-function mutation，為體染色體隱性遺傳。\n\n以下是一些 Trinucleotide repeat disorders，誠摯希望未來不要有題目真的需要用到：\n\n| 疾病 | 基因位置 | 重複序列 | 遺傳方式 |\n| :--- | :--- | :--- | :--- |\n| Huntington's disease (HD) | 4p16.3 | CAG | AD |\n| Dystrophia myotonica (DM) | 19q13.32 | CTG | AD |\n| Fragile X syndrome (FRAXA) | Xq27.3 | CGG | XR |\n| Fragile X syndrome (FRAXE) | Xq28 | GCC | XR |\n| Spinocerebellar ataxia type 1 (SCA1) | 6p22.3 | CAG | AD |\n| Spinocerebellar ataxia type 2 (SCA2) | 12q24.12 | | |\n| Spinocerebellar ataxia type 3 (SCA3)<br>Machado-Joseph disease (MD) | 14q32.12 | | |\n| Spinocerebellar ataxia type 6 (SCA6, CACNA1A) | 19p13 | | |\n| Spinocerebellar ataxia type 7 (SCA7) | 3p14.1 | | |\n| Spinocerebellar ataxia type 12 (SCA12) | 5q32 | | |\n| Dentatorubral pallidoluysian atrophy (DRPLA) | 12p13.31 | CAG | AD |\n| Friedreich's ataxia (FRDA1) | 9p21.11 | GAA | AR |\n| X-chromosomal spinobulbar muscular atrophy (SBMA) | Xq12 | CAG | XR |\n\n順帶一提，目前 SCA 已經有超過 40 種 type。\n\n參考資料：Harrison's Principles of Internal Medicine 21st edition p3655 Table 466-5",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-58_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-58_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-59",
@@ -24378,9 +24394,11 @@
       "D": "患者可能會出現模仿言語（echolalia）及模仿動作（echopraxia）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) Catatonia 通常是在住院中診斷，主要出現於 Depression 或 Bipolar disorder 患者，但在 Schizophrenia 病人的出現率亦可高達 35%。過往認為 Catatonia 為 Schizophrenia 的一個分型，但在 DSM-5 當中已被獨立成一個疾病。\n\nCatatonia 主要的核心症狀為明顯的 Psychomotor disturbance（如活動減少或過多、奇特的動作）。診斷 Criteria 為以下 12 種症狀出現 3 種以上：Stupor、Catalepsy、Waxy flexibility、Mutism、Negativism、Posturing、Mannerism、Stereotypy、Agitation、Grimacing、Echolalia、Echopraxia。其表現可以是多種症狀組合而成，從對外界完全沒有反應到極度激躁都有可能出現。診斷主要可以分成三類：\n1. Catatonia associated with another mental disorder：符合 Criteria 且跟精神疾病有關（如 Bipolar disorder、Depressive disorder）\n2. Catatonic disorder due to another medical condition：符合 Criteria 且跟非精神疾病有關（如感染症、代謝性疾病、神經疾病、藥物副作用）\n3. Unspecified catatonia：表現像 Catatonia 但沒有完全符合 Criteria",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-59_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-59_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-60",
@@ -24395,9 +24413,11 @@
       "D": "年輕人急性期的鋰鹽治療濃度宜介於0.6～1.2 mEq/L"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "十分無聊的考數字題目，本題重點為瞭解 Bipolar disorder 的遺傳性高。\n\n(A) 正確，憂鬱症 (Unipolar depression) 是有 Bipolar disorder 家族史的人最常見的 Mood disorder。若家族中有 Bipolar disorder 患者，其罹患 Bipolar disorder 的機會增加 3 倍，罹患 Unipolar disorder 的機會增加 2 倍。若為一等親患有 Bipolar disorder，則風險增加 10 倍。\n\n(B) 錯誤，雙胞胎皆得 Bipolar disorder 的機率約 70-80%。\n\n(C) 正確。Bipolar I disorder 大多從鬱期先開始（女性 75%，男性 67%），大多數的病人都會經歷躁期與鬱期，約 10-20% 病人只經歷躁期而沒有鬱期。另外躁期 (Manic episodes) 在男性較常見，而鬱期 (Depressive episodes) 在女性較常見。\n\n(D) 正確，鋰鹽的急性治療濃度介於 0.6-1.2 mEq/L，而其躁症治療的效果起效較慢，因此前期通常會輔以 Atypical antipsychotics、Mood-stabilizing anticonvulsants 或 High-potency benzodiazepines 一同使用。由於鋰鹽使用需要頻繁抽血檢測血中濃度，加上效果難以預估、副作用較多以及其他抗精神病藥物的出現，使得近年來鋰鹽的使用率有所下降。不過對大多數患者而言，其仍有不小的臨床效益。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-60_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-60_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-61",
