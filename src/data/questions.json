@@ -25762,9 +25762,11 @@
       "D": "gluteus maximus muscle"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 骨盆底 (Pelvic floor) 肌肉組成 | 細項 |\n| :--- | :--- |\n| **提肛肌 (Levator ani)** | • puborectalis (PR)<br>• pubococcygeus (PC)<br>• iliococcygeus (IC) |\n\n如果很常搞混，附上口訣：PRP CIC（實際上斷句是 PR PC IC）",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-51_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-51_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-52",
@@ -25779,9 +25781,11 @@
       "D": "主動脈撕裂"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "降結腸癌通常術式為左側大腸切除術 (left hemicolectomy, = left hemi)，切除範圍包含：遠端橫結腸、脾彎曲、降結腸，以及近端乙狀結腸\n\n脾臟周圍和幾個組織藉網膜相連：胃大彎、左腎、胰尾、脾彎曲的大腸，在降結腸手術移動大腸時，若沒有事先將結腸－脾臟間的網膜分離，容易扯到脾臟和脾彎曲大腸，造成大出血\n\nSMA 在腹腔內，供應大多數的小腸及升結腸、橫結腸的前三分之二，與降結腸手術無關，主動脈及下腔靜脈的位置在身體中線偏右，距離也較遠",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-52_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-52_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-53",
@@ -25796,9 +25800,11 @@
       "D": "僅"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 比較項目 | 腹腔鏡闌尾切除手術 (laparoscopic appendectomy) | 開放式闌尾切除手術 (open appendectomy) |\n| :--- | :--- | :--- |\n| **併發症發生率** | 較低 | 較高 |\n| **手術視野** | 較小 | 可彈性調整，適合複雜性闌尾炎 (complicated appendicitis) |\n\n② 即便開放式闌尾切除的視野較大，但仍以右下腹為主，無法檢查整個腹膜腔\n\n④ 闌尾炎延遲發作 (delayed presentation of appendicitis) 會導致較高的併發症及死亡率，可能發展為穿孔、壞疽、化膿以及局部腹膜炎，一般來說，對於有化膿的穿孔性闌尾炎，不建議在急性期開刀，原因是急性期沾黏嚴重，無法清楚辨認解剖構造，有較高機率產生併發症，此時，非手術介入（引流、抗生素治療）是合適的選擇，其中，引流以電腦斷層協助引流 (CT guide drainage) 優先，若無法進行亦可考慮腹腔鏡引流手術",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-53_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-53_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-54",
@@ -25813,9 +25819,11 @@
       "D": ""
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "① 由於急性膽囊炎發作到診斷時，通常已過 1~2 天，此時膽囊附近的發炎情形厲害，與周邊組織的沾黏情形嚴重，Calot triangle 內的構造在無經驗的主刀者會看不清楚，進而誤傷害總膽管或總肝管\n\n② 以 CO₂ 氣腹進行沒錯，但腹部壓力通常會設定在 10~15 mmHg 之間，壓力太高會造成腹部腔室症候群 (abdominal compartment syndrome)\n\n③ 鼻胃管減輕胃部壓力，使胃的體積減小而增加手術視野，但要注意不須常規放置\n\n④ 術中膽道攝影的目的是為了看清楚剩餘的膽道是否有阻塞，膽囊切除取下後，將顯影劑注入膽囊管 (cystic duct)，正常暢通的情況下可見完整的膽道顯影\n\n⑤ 正常人的膽汁通常是無菌的，但膽囊發炎、膽道中的結石會導致細菌孳生，而膽囊切除術為 clean-contaminated surgery，術中膽囊破裂會增加 sepsis 的風險，必須把易導致感染的檢體、膽汁、結石清理乾淨並大量沖洗",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-54_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-54_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-55",
@@ -25830,9 +25838,11 @@
       "D": "較細長的器械（slimline instruments）可以減少手術內部及外部的碰撞"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "單一切口腹腔鏡手術 (SILS) 由於只有一個切口，被認為是較不痛、傷口復原較快且較美觀的手術方式，然而單一切口有些需要克服的挑戰，包含：套管置入擁擠 (crowded trocar placement)、左右手器械距離太近、器械常需要交錯或碰撞、視野及器械的前進退後空間較受限，而這些挑戰是可以透過外科醫師的經驗累積以及改造器械達到部分克服的\n\n| SILS 手術器械的改造建議 | 好處 |\n| :--- | :--- |\n| **細長且尺寸較小的器械** | 減少手術內部及外部的碰撞 |\n| **長短不一的器械** | 減少體外的器械碰撞 |\n| **較長的器械** | 較容易接觸到手術區域 |\n| **分節 (articulating) 或彎曲的器械** | 增加左右手的器械距離 |\n| **直徑小、有角度的內視鏡** | 減少器械碰撞並增加器械的放置空間 |\n| **高畫質的鏡頭** | 提供高品質影像及術中視野 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-55_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-55_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-56",
@@ -25847,9 +25857,11 @@
       "D": "單純性骨囊腫（simple bone cyst）好發於成年人的肱骨遠端"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，Ollier disease 只有 multiple enchondromas，選項中的敘述為 Maffucci disease，屬於自體顯性遺傳疾病，患者罹卵巢癌的風險增加\n\n(B) 正確，chondroblastoma 好發於青少年時期，常見於長骨的 epiphysis（epiphysis 常見的腫瘤為：giant cell tumor、chondroblastoma）\n\n(C) 錯誤，giant cell tumor 的局部復發率高達 20~50%，且有 2~5% 轉變為惡性的可能，須手術徹底切除 + 骨移植，並且考慮輔助放射線治療或冷凍治療\n\n(D) 錯誤，SBC 好發年紀為 5~15 歲，好發處為近端股骨及近端肱骨，X 光上可見典型的 fallen leaf sign",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-56_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-56_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-57",
@@ -25864,9 +25876,11 @@
       "D": "常規使用 vancomycin 或 clindamycin 減少手術傷口感染"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，使用預防性抗生素可以減少手術感染 (surgical site infection, SSI) 的風險，選用適當的抗生素，並且在合理的時間給藥與停藥，則是為了減少抗生素帶來的副作用\n\n(B) 錯誤，根據不同手術，給予預防性抗生素的時間不同，開放性骨折 (open fracture) 須於手術前 3 個小時開始給抗生素；而其他大多數手術，如：關節置換、閉鎖性骨折 (closed fracture)，則須於手術前 30 分鐘，或綁上止血帶 (torniquet) 前 10 分鐘開始給抗生素\n\n(C) 錯誤，也是根據不同手術決定何時停藥，除了開放性傷口須給滿 72 小時之外，其餘手術則是手術傷口關上後就可以停藥，且不宜超過 24 小時\n\n(D) 錯誤，並非常規使用，較常使用的預防性抗生素會選用口服 amoxicillin，若病人無法口服則選用 IV 劑型的 ampicillin（較常）或 ceftriaxone（較少），若病人對 penicillin 過敏則用 cephalexin、azithromycin、clarithromycin，vancomycin 與 clindamycin 多用在 septic arthritis 等有 MRSA 感染疑慮的病人上",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-57_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-57_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-58",
@@ -25881,9 +25895,11 @@
       "D": "閉鎖復位（closed reduction）後，若肘關節不穩定，可考慮手術治療"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，肘關節脫臼雖為成人第二常見的脫臼（第一為肩關節），但因肘關節為 hinge joint，穩定度相對高，發生反覆性脫臼的可能性僅 1~2%\n\n(B) 正確，肘關節較常出現後脫位，比較：髖關節及肘關節常出現後脫位；膝關節及肩關節常出現前脫位\n\n(C) 錯誤，若穩定則鼓勵患者早期活動，不需再額外固定，以免關節僵硬使得肘關節活動度下降（此為肘關節脫臼最常見的併發症）\n\n(D) 正確，復位後肘關節仍不穩定，代表可能傷到 lateral collateral ligament 或 medial collateral ligament 等提供穩定度的構造，須找骨科醫師評估是否開刀做 ligament repair",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-58_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-58_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-59",
@@ -25898,9 +25914,11 @@
       "D": "全肩人工關節置換"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 近端肱骨骨折 (proximal humerus fracture) 保守治療適應症 | 相對禁忌症 |\n| :--- | :--- |\n| • 手術頸 (surgical neck) 骨折但無不穩定<br>• 大／小結節移位小於 1 cm<br>• 內翻 (varus) 移位骨折 < 45 度<br>• 外翻 (valgus) 移位骨折，且導致肱骨頭未朝向外側 (lateral) 或上側 (superior)<br>• 衰弱族群、老人族群等麻醉風險高者 | • 開放性骨折 (open fracture)<br>• 合併血管損傷或肱骨頭脫臼 (dislocation)<br>• 多重創傷 (polytrauma)、病理性骨折<br>• 合併懸吊複合體 (suspensory complex) 的損傷，如：AC ligament、CC ligament<br>• 大／小結節過度移位 (displacement)<br>• 過度內翻 (varus) 或外翻 (valgus) 移位 |\n\n此題大小結節骨折移位皆超過 1 公分，且伴隨嚴重腫痛及瘀青，在無法排除血管受損的情況下不宜保守治療，因此 (C) 錯誤\n\n而不選用 (B)、(D) 選項的關節置換的最主要因素為此題的病人為年輕人，關節置換會大幅影響活動度，且每隔 10~20 年須再次手術置換，因此選用 (A) 開放性復位及內固定 (open reduction and internal fixation, ORIF) 較為合適",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-59_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-59_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-60",
@@ -25915,9 +25933,11 @@
       "D": "根據其脛骨的嵌入點（tibial insertion），分為前內側束（anteromedial bundle）及後外側束（posterolateral bundle）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，ACL 連接股骨 lateral condyle 的後內側以及脛骨 tibial spine 的前外側，走向為後外往前內，提供 85% 約束脛骨過度往前移行的力量\n\n(B) 正確，screw-home mechanism 為提供膝關節穩定的一個很重要的機制：膝關節從彎曲到伸直的過程，因股骨內外側 condyle 的形狀不同，使脛骨產生相對股骨的外轉 (external rotation)；伸直到彎曲的過程膕肌 (popliteus muscle) 收縮，使脛骨產生相對股骨的內轉 (internal rotation)，在彎曲或伸直的過程，ACL、PCL 皆會參與\n\n(C) 錯誤，膝關節伸直時，前內側束 (AMB) 呈鬆弛、後外側束 (PLB) 呈拉緊的狀態；膝關節彎曲時，AMB 拉緊，PLB 的股骨嵌入點往前移動而鬆弛\n\n(D) 正確，AMB 走向較垂直（與膝蓋呈 70 度），嵌入脛骨前內側；PLB 走向較水平（與膝蓋呈 55 度），嵌入脛骨後外側",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-60_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-60_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-61",
