@@ -296,8 +296,10 @@ function BookExplanation({ q }) {
   const croppedImages = q.explanation_images || (q.explanation_image ? [q.explanation_image] : [])
   const hasCroppedImage = croppedImages.length > 0 && !imgError
 
-  // Hide image box for 113-2 Med 3, Med 4, Med 5, Med 6
-  const isExcludedSubject = q.year === '113-2' && ['醫學(三)', '醫學(四)', '醫學(五)', '醫學(六)'].includes(q.subject)
+  // Hide image box for 113-2 Med 3, Med 4, Med 5, Med 6, and 113-1 Med 4
+  const isExcludedSubject = 
+    (q.year === '113-2' && ['醫學(三)', '醫學(四)', '醫學(五)', '醫學(六)'].includes(q.subject)) ||
+    (q.year === '113-1' && ['醫學(四)', '醫學四'].includes(q.subject))
   const showImageContainer = !isExcludedSubject && (pagesToRender.length > 0 || hasCroppedImage)
   
   if (!hasTextExplanation && !showImageContainer) return null
