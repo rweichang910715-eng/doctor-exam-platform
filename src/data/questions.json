@@ -22532,9 +22532,11 @@
       "D": "對於帶有Philadelphia chromosome之acute lymphoblastic leukemia之中樞神經的預防與治療，imatinib是理想選項"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這題太難了…我們只好來複習一下淋巴癌以及血癌的治療。\n\n| 淋巴癌治療統整 | |\n| :--- | :--- |\n| **疾病** | |\n| HL | ABVD (Adriamycin, Bleomycin, Vinblastine, Dacarbazine) |\n| Indolent (Follicular Lymphoma) | • 無症狀者：watch and wait<br>• 有症狀者：rituximab+/- 化療 |\n| Aggressive (DLBCL) | R-CHOP (rituximab, cyclophosphamide, hydroxydaunorubicin, vincristine, prednisolone) |\n| Highly aggressive (Burkitt lymphoma) | NCCN guideline 特別提到 “CHOP is not an adequate therapy”。<br>1. 年輕 & 低風險、年老 (>60 歲)：EPOCH-R (etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, rituximab)<br>2. 年輕 (<60 歲) & 高風險：R-CODOX-M (rituximab, CYP, vincristine, doxorubicin, MTX) 或 R-IVAC (rituximab, ifosfamide, etoposide, cytarabine)，加上 CNS prophylaxis (intrathecal MTX + cytarabine) |\n\n| 血癌治療統整 | |\n| :--- | :--- |\n| **疾病** | **治療選項** |\n| ALL | 治療包含四個階段：pre-phase, induction, consolidation cycles 及 maintenance，另外需加做 CNS 預防 (intrathecal therapy/ 高劑量化療 / 全腦放射治療，CRT)。<br>1. pre-phase therapy：類固醇 5-7 天，目標是讓腫瘤緩慢縮小，避免腫瘤溶解症候群 (tumor lysis syndrome) 發生。<br>2. induction therapy：BFM-like regimen、Hyper-CVAD regimen 目標是達到完全緩解 (complete remission, CR)。以目前醫療技術，平均完全緩解率可達 80 - 90%。<br>3. consolidation cycles：高劑量 (high-dose，HD) MTX/ cytarabine，通常進行 6-8 次療程。<br>4. maintenance treatment：6-mercaptopurine+ MTX + intrathecal therapy，約維持 2-2.5 年。<br>* Ph+ 者：加上 TKI (imatinib, nilotinib, dasatinib; 其中僅 dasatinib 可過 BBB)<br>* Burkitt's leukemia：不須進行 maintenance treatment |\n| CLL | • 無症狀者：watch and wait<br>• 有症狀者：口服 BTK 抑制劑 (acalabrutinib)/ BCL2 抑制劑 +/- rituximab |\n| AML | 治療包含兩個階段：induction, consolidation<br>• 大部分 AML（除了 APL）：<br>  1. induction: 7+3 療法 (7 天 Cytarabine (Ara-c) +3 天 anthracycline (-rubicin))<br>  2. consolidation: 低風險：cytarabine；高風險：異體移植 (allogenic HCT)<br>• APL：ATRA + ATO (As2O3) |\n| CML（預後好） | 截至目前有六種藥物被美國 FDA 核可使用於 CML：<br>• 五種口服 TKI：1st: imatinib (Glivec); 2nd: nilotinib, dasatinib, bosutinib; 3rd: ponatinib<br>• 一種口服 TKI+VEGFR：Ponatinib |\n\n(D) 錯誤，imatinib 無法過 BBB，若要選能過 BBB 的 TKI 應使用 dasatinib",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-41_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-41_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-42",
@@ -22549,9 +22551,11 @@
       "D": "血清中erythropoietin值上升"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 給水復甦後，血管內血液容積增加，因此會有血球稀釋 (hemodilution) 的效果\n(C)(D) 貧血會刺激 EPO 生成，骨髓的造血細胞大量製造不成熟的紅血球 (reticulocyte)",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-42_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-42_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-43",
@@ -22566,9 +22570,11 @@
       "D": "FLT-3"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 血液腫瘤突變基因 | | |\n| :--- | :--- | :--- |\n| **血液腫瘤** | **突變基因** | **Key Treatment Options** |\n| MPN | JAK2, CALR, MPL<br>* JAK2 V617F (PV 95%, ET 50%, PMF 50%) | JAK2 inhibitors, hydroxyurea, aspirin |\n| MDS | SF3B1, TP53, DNMT3A, ASXL1, RUNX1 | Hypomethylating agents, lenalidomide, HSCT |\n| CML | BCR-ABL1 | TKIs (imatinib, dasatinib, etc.) |\n| AML | FLT3, NPM1, IDH1/2, TP53, ASXL1, RUNX1, CEBPA | Induction chemotherapy, targeted therapy, HSCT |\n| ALL | t(9;22); BCR-ABL1, TEL-AML1, MLL rearrangements, IKZF1, NOTCH1 | Combination chemotherapy, TKIs, CAR-T, HSCT |\n| CLL/SLL | IGHV (unmutated), TP53, NOTCH1, SF3B1, ATM | BTK inhibitors, BCL-2 inhibitors, monoclonal antibodies |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-43_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-43_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-44",
@@ -22583,9 +22589,11 @@
       "D": "偵測病人骨骼的病灶，用同位素骨掃描（bone scan）比用X光（bone radiograph）更精確"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 可參考【113-1(三)40】。多發性骨髓瘤為漿細胞增生失調 (plasma cell dyscrasia)，製造大量異常、功能低下的抗體。較易感染有莢膜的細菌（肺炎鏈球菌、流感嗜血桿菌、腦膜炎雙球菌等）、寄生蟲（巴貝氏蟲、梨形鞭毛蟲等）、病毒（VZV、腸病毒等）\n(B)(C) 常見 SLiM-CRAB，可參考【113-2(三)44】（本章第 18 題）\n(D) 蝕骨病灶以 X 光作為第一線首選，以病人主訴哪個部位的骨頭痛，就照那個部位。也可考慮 CT、PET/CT 或 MRI，但不會用 bone scan",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-44_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-44_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-45",
@@ -22600,9 +22608,11 @@
       "D": "connective tissue disease-associated ILDs 病人不可以併用免疫抑制劑及抗纖維化治療"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(C) 錯誤。Idiopathic pulmonary fibrosis 的治療可使用抗纖維化治療 (Pirfenidone、Nintedanib)，二種藥物皆可以減緩 Forced vital capacity 下降速度、減少呼吸相關疾病的住院次數以及增加肺功能輕微或中度受損病人的存活率。其他如預防性抗生素、免疫抑制劑（如口服類固醇、Cyclophosphamide、Azathioprine）、Simtuzumab、Dual endothelin receptor antagonists (Bosentan + Macitentan) 等對於治療都沒有效益\n(B) 正確。Cryptogenic organizing pneumonia 大多在口服類固醇治療 6 個月後可以完全恢復，但可能在停藥後復發，此時需要使用更久的類固醇或加上其他輔助的免疫調節藥物。有少部分病人在治療後依然會變成肺纖維化，表現會類似 Idiopathic pulmonary fibrosis\n(D) 錯誤。Connective tissue disease-associated ILDs 就是跟自體免疫相關的 ILD，如 Systemic sclerosis、RA、SLE、Dermatomyositis、Polymyositis、Sjögren's syndrome。其中 Systemic sclerosis 最常見也最相關，其治療首選為 Mycophenolate。Nintedanib 單用或與 Mycophenolate 併用皆可減緩肺功能下降速度",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-45_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-45_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-46",
@@ -22617,9 +22627,11 @@
       "D": "白天嗜睡情形"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Obstructive sleep apnea syndrome (OSA) 的診斷以及嚴重度評估如下：\n\n| | |\n| :--- | :--- |\n| **診斷 Criteria** | (1) 有夜間呼吸異常（打呼、喘息、呼吸暫停）或即使有足夠睡眠時長但白天依然嗜睡或疲累<br>(2) AHI $\\ge$ 5 events/hr：AHI 計算方式是 Apnea 或 Hypopnea 次數 / 總睡眠時長（小時）。Apnea 定義為睡眠時呼吸氣流完全停止超過 10 秒，Hypopnea 定義為睡眠時呼吸氣流降低 30% 以上超過 10 秒，且伴隨血氧飽和度降低 3% 以上或直接醒來<br>若 AHI $\\ge$ 15 events/hr，則即使沒有症狀依然可以診斷為 OSA |\n| **評估嚴重度** | (1) Apnea-hypopnea index (AHI)：5-14 為 Mild，15-29 為 Moderate，$\\ge$ 30 為 Severe<br>(2) 睡眠時血氧飽和度下降的程度<br>(3) Apnea 或 Hypopnea 的時長<br>(4) 睡眠中斷的程度<br>(5) 白天嗜睡或無法正常做事的程度 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-46_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-46_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-47",
@@ -22634,9 +22646,11 @@
       "D": "綠膿桿菌（Pseudomonas aeruginosa）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題可從兩個方向解題：\n(1) 此病人原本身體健康而得到社區型肺炎，通常不會是 *S. aureus*（好發流感後或原本肺部結構異常）、*K. pneumoniae*（好發酗酒者）、*P. aeruginosa*（好發原本肺部異常、COPD 或院內肺炎），故選項 (B) 最合適\n(2) 此病人表現為 Atypical pneumonia（肺炎但白血球數值不高），故選擇屬於 Atypical pathogen 的 *Mycoplasma pneumoniae*\n\n社區型肺炎常見的致病菌與 Risk factors：\n\n| | |\n| :--- | :--- |\n| **細菌性肺炎最常見** | *Streptococcus pneumoniae* |\n| **Atypical pathogens** | *Mycoplasma pneumoniae*、*Chlamydia pneumoniae*、*Legionella* spp.、呼吸道病毒 |\n| **酗酒** | *Streptococcus pneumoniae*、口腔厭氧菌、*Klebsiella pneumoniae*、*Acinetobacter* spp.、TB |\n| **COPD、抽菸** | *Haemophilus influenzae*、*P. aeruginosa*、*Legionella* spp.、*S. pneumoniae*、*Moraxella catarrhalis*、*Chlamydia pneumoniae* |\n| **肺部結構異常（如支氣管擴張症）** | *P. aeruginosa*、*Burkholderia cepacia*、*S. aureus* |\n| **失智、中風、意識差** | 口腔厭氧菌、Gram-negative 的腸道細菌 |\n| **肺膿瘍** | Community-acquired MRSA、口腔厭氧菌、真菌、TB、Atypical mycobacteria |\n| **東南亞旅遊史** | *Burkholderia pseudomallei*、Avian influenza virus |\n| **兩週內有飯店或郵輪旅遊史** | *Legionella* spp. |\n| **有流感疫情** | Influenza virus、*S. pneumoniae*、*S. aureus* |\n| **鳥類接觸史** | *Histoplasma capsulatum*、*Chlamydia psittaci* |\n| **兔子接觸史** | *Francisella tularensis* |\n| **羊、貓接觸史** | *Coxiella burnetii* |\n\n參考資料：Harrison's Principles of Internal Medicine 21st edition p1011 Table 126-2\n\nTypical pneumonia vs. Atypical pneumonia（此為筆者在醫院上課時留下的表格，非教科書所載，僅供參考）\n\n| | Typical | Atypical |\n| :--- | :--- | :--- |\n| **發作時間** | 突發性 | 亞急性 |\n| **發燒** | 高燒 (>39 度) | 可有可無 |\n| **濃痰** | 常見 | 較少 |\n| **頭痛、肌肉酸痛** | 較少 | 常見 |\n| **肺囉音** | 明顯 | 不一定 |\n| **白血球** | 高 (>15000) | 低 or 正常 or 微高 |\n| **CXR** | 大葉性 | 間質性 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-47_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-47_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-48",
@@ -22651,9 +22665,11 @@
       "D": "當血壓太低，給與靜脈輸液後血壓仍低，應考慮給與升壓劑（vasopressor）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "以下資料來自 Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021（完整版請參考【113-2(五)1】；Harrison 第 21 版的表格是 2016）\n\n(A) 正確。病人如果高機率是敗血症或敗血性休克，應立即給予抗生素（最好在 1 小時內給）。如果病人沒有休克且不確定是不是敗血症，可以先趕快做檢查排除感染症，若檢查後依然覺得有感染可能，則應在 3 小時內給予抗生素\n(B) 錯誤。因敗血性休克或灌流不足引起的乳酸性酸血症，不建議以碳酸氫鈉治療來改善血行動力學或減少升壓劑使用。但若病人敗血性休克且併發嚴重代謝性酸血症 (pH $\\le$ 7.2) 以及急性腎損傷 (AKIN score 2 or 3)，則建議使用碳酸氫鈉治療\n(C) 正確。在敗血症導致灌流不足或敗血性休克的病人，應該在 3 小時內給予至少 30 ml/kg 的 IV balanced crystalloid fluid（所以常用 Lactate ringer）作為輸液復甦 (Resuscitation)，後續建議使用動態測量 (Dynamic measures)、血中乳酸值來引導復甦，Capillary refill time 亦可用以輔助監測灌流狀況\n(D) 正確。當足夠輸液後 MAP 依然無法達到 65 mmHg，應趕快從周邊給予升壓劑（而非等到中央靜脈導管打好才給），首選為 Norepinephrine\n\n參考資料：Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021. Critical Care Medicine 49(11):p e1063-e1143, November 2021. | DOI: 10.1097/CCM.0000000000005337",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-48_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-48_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-49",
@@ -22668,9 +22684,11 @@
       "D": "①③④⑥"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "看似呼吸衰竭的鑑別診斷，實則考疾病在 CXR 上有沒有變化，通常肺部血管以及呼吸道疾病在 CXR 上的變化不太明顯。\n③ 氣胸 (Pneumothorax)：可見 Pleural line，此線以外看不到肺紋\n⑥ 肺水腫 (Pulmonary edema)：可見肺門周邊 (Bat wing infiltrate) 以及肺底的肺泡浸潤。\n\n選項中的肝硬化可能是指 Hepatopulmonary syndrome，為肝硬化的病人沒有明顯的肺部疾病但出現低血氧的狀況，主要的病理機轉是肺內血管擴張引起 Shunt 以及 V-Q mismatch",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-49_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-49_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-50",
@@ -22685,9 +22703,11 @@
       "D": "心電圖檢查"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Asthma 的診斷除了病史以外，接下來最需要的就是在肺功能檢查上看到不同程度的吐氣氣流受阻。Peak expiratory flow rate (PEFR)、Forced expiratory volume in 1 second (FEV1)、FEV1/Forced vital capacity (FVC) 會低於正常值下限，使用類固醇治療數週或使用 $\\beta$-agonist 15 分鐘後，FEV1 增加 $\\ge$ 12% 且數值增加 200 ml。另外，在輕度的氣喘 Lung volume 跟 Diffusing capacity 通常是正常的",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-50_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-50_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-51",
