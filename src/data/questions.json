@@ -23482,9 +23482,11 @@
       "D": "E型"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "垂直感染 (vertical transmission, perinatal transmission) 指在母親懷孕、生產、或哺乳過程中造成之疾病傳染。\n(A)(D) 錯誤。A 型肝炎和 E 型肝炎主要以糞口傳染。\n(B) 正確。B 型肝炎是肝炎病毒中最易垂直感染給嬰兒的。\n(C) 錯誤。C 型肝炎會垂直感染，但沒有非常常見（機率約 5-15%）。\n\n補充：\n• 臺灣目前對 HBsAg(+) 的產婦，不論其 HBeAg 為何，其新生兒皆須於出生 24 小時內接種 1 劑公費 HBIG 及第 1 劑 B 肝疫苗。\n• B 型肝炎在 1 歲以下兒童有 90% 會慢性化，在 1-5 歲者為 30%，在成人則只有 2%。\n• B 型肝炎、C 型肝的感染最常發生在生產時 (intrapartum)，但也可能在懷孕時即透過胎盤感染胎兒。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-11_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-11_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-12",
@@ -23499,9 +23501,11 @@
       "D": "使用藥物cyclosporine（calcineurin inhibitor）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確。腎衰竭阻礙離子排除會造成電解質不平衡，其中急症之一就是高血鉀。\n(B) 錯誤。Furosemide 會抑制 NKCC2 的鈉再吸收，增加皮質集尿管的鈉流量，促進該處再吸收鈉、排出鉀，進而造成低血鉀。這也是它能治療高血鉀的原因。\n(C) 正確。橫紋肌溶解會造成肌肉內的電解質被釋放，同時也會造成腎功能受損，使得離子失衡，常見高血鉀、高血磷、低血鈣（晚期會變高血鈣）。另外，腫瘤溶解症候群 (tumor lysis syndrome) 也常考，會造成高血鉀、高血磷、高尿酸血和低血鈣。\n(D) 正確。Cyclosporine 和 Tacrolimus 都可能影響皮質集尿管排鉀的能力而造成高血鉀。其他常見高血鉀的藥物包含：ACE inhibitor、ARB、保鉀利尿劑、NSAID 等。而關於 Cyclosporine 和 Tacrolimus 本身副作用的比較，請參考移植外科【113-2(五)6】。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-12_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-12_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-13",
@@ -23516,9 +23520,11 @@
       "D": "藥物治療上建議使用thiazide類的利尿劑"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 腎源性尿崩症 (nephrogenic diabetes insipidus) | |\n| :--- | :--- |\n| **概述** | 腎源性尿崩症，後天性較常見，但先天性通常較嚴重。<br>• 先天性：從生理機制來說，Vasopressin 在腎臟的 collecting duct 會結合 AVPR2 受器，促使水通道蛋白 AQP2 被運送到細胞膜表面，達到回收水的效果；AVPR2 的缺陷會形成 X-linked recessive 的先天性腎源性尿崩症，AQP2 的缺陷則會形成 autosomal recessive 的先天性腎源性尿崩症，而前者又占絕大多數。<br>• 後天性：高血鈣、低血鉀、藥物（如：lithium、clozapine、rifampin）、腎臟尿液濃縮機制受損等，都可能造成。 |\n| **治療** | 若為後天性，則治療成因；先天性則較難治。<br>針對尿崩的主要策略包含：<br>• 在限定的溶質濃度下最大化進食的熱量，以減少尿量並確保病童的生長。<br>• 使用 thiazide 類利尿劑。Thiazide 可以使身體處於輕微體液不足的狀態，進而減少腎絲球過濾率，並刺激近曲小管再吸收水分和鈉，來減少尿量。<br>• 高劑量 DDAVP。對 AVPR2 仍殘存微弱功能者有效。 |\n\n(A)(B) 最常見的遺傳模式的確是 X-linked recessive，但此基因變異是 AVPR2 而非 AQP2。\n(C) 正確。限鈉 (Na < 1 mmol/kg/24 hr) 可以幫助減少排除溶質所需的尿量，同時，要盡量提供高熱量，來避免發育不良。\n(D) 正確。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-13_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-13_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-14",
@@ -23533,9 +23539,11 @@
       "D": "應積極的補充碳酸氫鈉（NaHCO ），以維持重碳酸鹽（HCO ）在20～26 mEq/L的範圍3 3"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確。高血鉀會造成高 T 波、QRS 波變寬、ST 節段下降、正弦波 (sinusoidal wave) 等變化，最後導致心臟停止 (cardiac arrest)。\n(B) 正確。血鉀 >7 mEq/L 時即建議使用葡萄糖酸鈣來穩定心肌的膜電位，防止心律不整，但降血鉀仍要靠其他的方法：碳酸氫鈉、胰島素搭配葡萄糖水、離子交換樹脂等，若仍持續高血鉀，透析治療是唯一選擇。\n(C) 正確。評估身體體液容量是急性腎損傷中的重要步驟，身體水份足夠前提下，可以嘗試利尿劑，但效果不佳應即停用並限水，以防止體液過載 (fluid overload)。\n(D) 錯誤。在酸血症很嚴重時 (pH<7.15)，才建議開始給藥，且重碳酸鹽維持在 12 mEq/L 左右即可，過度積極補充可能使低血鈣情形加重而誘發肌肉強直或心律不整。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-14_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-14_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-15",
@@ -23550,9 +23558,11 @@
       "D": "其titer高低與SLE的疾病活性（disease activity）無關"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(D) 正確。ANA 的 titer 越高，自體免疫疾病的可能性越高，但其 titer 和疾病活性無關，所以重複抽 ANA 對監測疾病反應幫助有限。與 SLE 疾病活性相關的生化指標是 anti-dsDNA，特別是在有腎炎的病人身上。\n(B) 錯誤。30% 的健康兒童會驗到 ANA 陽性，其中大部分在未來也不會產生自體免疫疾病，故其特異度不高，反而是敏感度會較高。\n(C) 正確。這個就是敏感度的概念，而 ANA 對 SLE 的敏感度可以達 95-99%，但特異度僅有 50%。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-15_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-15_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-16",
@@ -23567,9 +23577,11 @@
       "D": "影響血液系統會造成白血球及血小板上升"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確。全身性紅斑性狼瘡的核心就是對自體抗體，特別是對核酸的抗體，這些抗體結合抗原後，會形成免疫複合體沉積在組織，誘發補體反應，促進發炎，最後造成組織傷害。Anti-dsDNA 的免疫複合體特別會沉積在腎絲球而導致腎絲球腎炎，然而，也不是每個有 anti-dsDNA 的人都有腎炎，故仍可能存在其他的病生理途徑。\n(B) 正確。\n(C) 正確。性別比在青春期前為 2-5 : 1（女：男），青春期後則上升至 9 : 1。\n(D) 錯誤。血液學，包含白血球（尤其是淋巴球）、紅血球和血小板，若受影響皆是下降而非上升，完整的列表可參考【113-1(三)35】。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-16_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-16_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-17",
@@ -23584,9 +23596,11 @@
       "D": "具家族史及血中極高的IgE為預後不佳之指標"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "關於異位性皮膚炎的完整介紹，請參考皮膚科【113-1(四)34】，在此不重複補充。\n(A) 錯誤。異位性皮膚炎一半以上會在一歲前發病，三成會在一歲到五歲間發病，故絕大多數在五歲前即發病，但不至於大部分在出生當下就發病。\n(B) 正確。這就是所謂的 atopic march，病人會先發展出異位性皮膚炎和食物過敏，兒童時期再發展出氣喘及過敏性鼻炎。\n(C) 正確。嬰兒好發臉部、頭皮、四肢伸側，長大後則好發頸部、手掌、四肢屈側等。\n(D) 正確。預後不佳的指標包含：具家族史、血中極高的 IgE、童年時廣泛分布的皮膚炎病灶、FLG 基因的 null mutation、併發氣喘及過敏性鼻炎、早發的異位性皮膚炎等。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-17_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-17_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-18",
@@ -23601,9 +23615,11 @@
       "D": "TLX1/HOX11；t(10;14)"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題有背有分，但考到比較冷門的幾個，沒有記到就送他吧。\n\n| 兒科 ALL 預後 | 分子或染色體變化 |\n| :--- | :--- |\n| **Favorable** | Trisomy 4, 10, 17<br>Hyperdiploidy<br>ETV6-RUNX1 ; t(12;21)<br>TLX1/HOX11 ; t(10;14) |\n| **None** | TCF3-PBX1 ; t(1;19)<br>IGH-MYC ; t(8;14) |\n| **Unfavorable** | Hypodiploidy<br>KMT2A(MLL)-AF4 ; t(4;11)<br>BCR-ABL ; t(9;22)<br>KMT2A(MLL) rearrangements ; 11q23 |\n\n也補充急性骨髓性白血病的給各位：\n\n| 兒科 AML 預後 | 分子或染色體變化 |\n| :--- | :--- |\n| **Favorable** | RUNX1-RUNX1T1 ; t(8;21)<br>CBFB-MYH11 ; inv(16)<br>PML-RARA ; t(15;17) |\n| **Unfavorable** | del(7q), -7<br>FLT3-ITD ; FLT3 mutation<br>KMT2A(MLL) rearrangements ; 11q23 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-18_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-18_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-19",
@@ -23618,9 +23634,11 @@
       "D": "Li-Fraumeni症候群：肉瘤、腎上腺皮質上皮瘤、乳癌"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "遺傳性癌症易感症候群 (syndromes predisposing to cancer) 常考的有幾個，其代表性的腫瘤特別要記起來，在此整理給大家：\n\n| | 易罹患腫瘤 |\n| :--- | :--- |\n| **神經纖維瘤第 1 型** (neurofibromatosis 1) | • 神經纖維瘤 (neurofibroma)、視神經膠質瘤 (optic glioma)、惡性周邊神經鞘腫瘤 (malignant peripheral nerve sheath tumor, MPNST)、星狀細胞瘤 (astrocytoma)、腦膜瘤 (meningioma)、嗜鉻細胞瘤 (pheochromocytoma)<br>• 其他常考特徵：6 個以上咖啡牛奶斑、Lisch nodules |\n| **神經纖維瘤第 2 型** (neurofibromatosis 2) | 雙側聽神經瘤 (bilateral acoustic neuromas)、腦膜瘤 (meningioma) |\n| **結節性硬化症** (tuberous sclerosis) | • 臉血管纖維瘤 (facial angiofibroma)、腎血管肌肉脂肪瘤 (renal angiomyolipoma)、心肌橫紋肌瘤 (myocardial rhabdomyoma)、腎細胞癌 (renal cell carcinoma)、巨大細胞星狀細胞瘤 (subependymal giant cell astrocytoma)<br>• 其他常考特徵：白楊葉斑 (ash leaf lesion)、鯊魚皮斑 (shagreen patches)、皮質結節 (cortical tuber) |\n| **家族性視網膜母細胞瘤** (familial retinoblastoma) | 視網膜母細胞瘤 (retinoblastoma)、肉瘤 (sarcoma) |\n| **Li-Fraumeni 症候群** | 骨肉瘤 (osteosarcoma)、軟組織肉瘤 (soft tissue sarcoma)、急性白血病 (acute leukemia)、乳癌 (breast cancer)、腎上腺皮質上皮瘤 (adrenal cortical tumor) |\n| **Von Hippel-Landau 症候群** | 腦和視網膜之血管母細胞瘤 (hemangioblastomas of the brain and retina)、嗜鉻細胞瘤 (pheochromocytoma)、腎細胞癌 (renal cell carcinoma) |\n| **Beckwith-Wiedemann 症候群** | Wilms tumor、肝母細胞瘤 (hepatoblastoma)、神經母細胞瘤 (neuroblastoma)、橫紋肌肉瘤 (rhabdomyosarcoma) |\n\n(B) 錯誤。視神經膠質瘤 (optic glioma) 是神經纖維瘤第 1 型的常見腫瘤，而神經纖維瘤第 2 型要記住非常特別的「雙側」「聽」神經瘤！",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-19_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-19_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-20",
@@ -23635,9 +23653,11 @@
       "D": "針對此男童，退燒藥選擇aspirin（acetylsalicylic acid）比diclofenac更適合"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題是典型的蠶豆引發 G6PD 缺乏症病人之急性溶血性貧血，而此溶血情況又被稱為蠶豆症 (favism)：\n(A) 錯誤。蠶豆症是臺灣新生兒篩檢項目之一，但它是性聯遺傳。\n(B) 正確。由於缺乏 G6PD，紅血球無法產生足夠的 GSH 來對抗氧化壓力，當面對氧化壓力時，血紅素會變性、聚集在細胞膜旁，形成 Heinz body，這些帶 Heinz body 的紅血球在經過脾臟時會被巨噬細胞破壞，形成像是被咬過一樣的 bite cell。\n(C) 錯誤。Coombs test positive hemolysis 是由於血液中有針對紅血球的抗體存在造成的溶血，與上述蠶豆症的病生理不符。\n(D) 錯誤。Aspirin 是容易誘發蠶豆症病人溶血的藥物之一，其他常見藥物包含：sulfonamides、rasburicase、probenecid、ciprofloxacin、primaquine 等。\n\n補充：\n依 G6PD 酵素活性不同，可將此疾病分為三種亞型：\n• G6PD A-：非裔美國人多，此型的特性是紅血球越老，酵素活性越弱，所以在溶血發生時，新生的年輕血球具備的酵素活性反而能夠代償，減輕疾病的嚴重度。\n• G6PD B- (G6PD Mediterranean)：廣泛分布於南歐、地中海、中東、亞洲等地域，酵素活性 5-40% 不等。\n• G6PD Canton：華人較多。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-20_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-20_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-21",
