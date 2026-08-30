@@ -24052,9 +24052,11 @@
       "D": "Epstein-Barr virus"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "靶心樣紅疹是多形性紅斑 (Erythema multiforme) 的特徵，此疾病跟一些抗原刺激有關，其中最常見的為 HSV 感染，故此題選 (B)。\n(A) Treponema pallidum 會導致 Syphilis (梅毒)，依照階段可分為 Primary、Secondary、Latent、Tertiary，不同階段的皮膚表現都各有不同，多樣性極高。其中 Secondary syphilis 十分有特色的皮膚表現是手掌、腳掌出現界線明確、紅銅色的圓形斑 (Macules) 或丘疹 (Papules)，有時會伴隨環狀脫屑，又稱為「Copper-penny lesion」。Copper-penny lesion 較不會出現如圖中靶心樣的變化，加上 Secondary syphilis 結束後理論上會進入無症狀的 Latent syphilis，不太會如題幹所說反覆發生類似的狀況，因此 (A) 並非最佳選擇。\n(C) Enterovirus 71 會造成的手部皮膚病灶主要為手足口病 (Hand, foot and mouth disease)。表現為口腔軟腭處有潰瘍（通常不會侵犯牙齦，可跟 Herpetic gingivostomatitis 鑑別），手掌、腳掌、臀部出現小水泡 (Vesicles)。\n(D) EBV 感染而引起感染性單核球增生症 (Infectious mononucleosis) 的病人如果使用 Ampicillin 或 Amoxicillin，有 70-100% 病人產生會癢的 Maculopapular rash，遍佈軀幹與四肢，顏色常呈現紅銅色。除了藥物引起之外，EBV 感染本身也有 5-15% 的可能引起紅疹，但通常在發病的前幾天就出現，且很快就消失。\n\n| 多形性紅斑 (Erythema multiforme syndrome) | |\n| :--- | :--- |\n| **流病** | 50% 發生在 20 歲以下，男性較常見。 |\n| **病因** | 跟抗原刺激有關，如感染 (HSV 最常見、Mycoplasma)、藥物 (Sulfonamides、Phenytoin、Barbiturates 等)。 |\n| **症狀** | 典型病灶為會癢的暗紅色的靶心樣 (Target-like) 或虹膜樣 (Iris-like) 丘疹 (Papule)。好發手腳掌、四肢、臉部、陰莖、外陰部，通常為雙側對稱分佈。 |\n| **分類** | • **Mild (EM minor)**：沒有黏膜侵犯，只有小水泡 (Vesicles) 且沒有全身性症狀。反覆發作的 EM minor 常跟 HSV 感染有關。<br>• **Severe (EM major)**：有黏膜侵犯（口腔、口咽、喉部、結膜、生殖器），伴隨嚴重且廣泛分佈的大水泡 (Bullae)，常會有發燒、無力等全身症狀。常跟藥物有關。 |\n| **診斷** | 典型的靶心樣病灶以及對稱分佈可以直接臨床診斷。 |\n| **預防** | 用口服抗病毒藥 (Valaciclovir、Famciclovir) 預防 HSV 感染可能可以防止反覆發作。 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-41_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-41_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-42",
@@ -24069,9 +24071,11 @@
       "D": "外用含有氫醌（hydroquinone）的藥膏可以改善"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此為肝斑 (Melasma)，跟肝臟沒關係。\n\n| 肝斑 (Melasma) | |\n| :--- | :--- |\n| **流病** | 是常見的色素沈積疾病之一，停經前女性好發（但停經後或男性也可能出現）跟口服避孕藥或雌激素補充有關，懷孕時亦常出現（故又稱 Mask of pregnancy）有色人種比較常見。 |\n| **症狀** | 臉部有淡褐色至深褐色的色素沈積，最常見於臉部中央（額頭、鼻子、下巴、上唇）、顴骨與臉頰、下頷。通常不會分佈到嘴巴周圍、脖子、耳朵。 |\n| **治療** | • 停掉可能導致此狀況的藥物、做好防曬。<br>• 外用 4% Hydroquinone 是標準治療，其他用藥包含 Tretinoin、Azelaic acid、Rucinol、Kojic acid、Kligman formula。<br>• 雷射可能會有幫助，但也可能會導致進一步的 Hyperpigmentation。 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-42_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-42_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-43",
@@ -24086,9 +24090,11 @@
       "D": "為自體免疫水疱疾病之一，治療以免疫抑制劑為主"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Hereditary epidermolysis bullosa 是一種罕見的遺傳性疾病，台灣俗稱泡泡龍。基因異常導致皮膚內的蛋白質異常引起水泡，跟自體免疫無關，也沒有特別的治療方式。跟自體免疫有關的水疱疾病是天疱瘡 (Pemphigus) 與類天疱瘡 (Pemphigoid)。\n\n| 遺傳性水疱性表皮鬆解症 (Hereditary epidermolysis bullosa) | |\n| :--- | :--- |\n| **分類** | 依照皮膚裂解的位置分成三種類型（每個類型之下又根據基因與蛋白質異常分成不同 Subtype），由淺至深為：<br>1. **Epidermolysis bullosa simplex (EBS)**：裂解在表皮基底層 (Stratum basale) 的角質細胞，大多跟 Keratin 5、Keratin 14 異常有關。<br>2. **Junctional epidermolysis bullosa (JEB)**：裂解在 Basal lamina（表皮基底層與真皮之間），大多跟 Laminin 異常有關。<br>3. **Dystrophic epidermolysis bullosa (DEB)**：裂解在 Superficial papillary dermis，大多跟 Collagen VII 異常有關。 → (A) 正確 |\n| **流病** | • 發生率約每一百萬個活產會出現 20 個案例。<br>• 三種類型以 EBS 最常見，其中最常見的 Subtype 為 Localized EBS（又稱 Weber-Cockayne subtype） → (B) 正確 |\n| **症狀** | 主要共同的表現為輕微受傷身上就會因表皮裂解而出現水泡，其他的特徵依照不同的 Subtype 差距甚大，皮膚表現可能只有局部也可能全身分佈；病灶可能只侷限於皮膚，也可能侵犯到其他器官（如口腔黏膜、腸胃道、呼吸道、泌尿生殖道、眼睛、牙齒、骨骼、指甲、頭髮） → (C) 正確 |\n| **檢查** | • 皮膚切片並使用電子顯微鏡、免疫螢光染色觀察裂解位置（兩種方式在不同 Subtype 可以獲得的資訊略有不同）<br>• DNA 分析突變基因、基因諮詢 |\n| **治療** | Supportive care |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-43_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-43_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-44",
@@ -24103,9 +24109,11 @@
       "D": "同半胱胺酸缺乏（homocysteine deficiency）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(D) 同半胱胺酸增加 (Hyperhomocysteinemia) 比較容易造成高凝血狀態，引起大腦靜脈竇栓塞。\n常見導致 (cerebral venous sinus thrombosis) 的原因：\n\n| 類別 | 原因 |\n| :--- | :--- |\n| **藥物** | 口服避孕藥、賀爾蒙補充療法、類固醇、雄性素、Asparaginase chemotherapy、Tamoxifen |\n| **血液疾病** | 紅血球增多症、血小板增多症、陣發性夜間血紅素尿症 (Paroxysmal nocturnal hemoglobinuria) |\n| **高凝血狀態** | Protein C/Protein S/Antithrombin III 缺乏、Factor V Leiden mutation、Prothrombin gene mutation、Antiphospholipid syndrome、Nephrotic syndrome、Hyperhomocysteinemia |\n| **感染** | 腦炎、腦膜炎、乳突炎 (Mastoiditis)、耳炎 (Otitis)、臉部／口腔／頸部感染 |\n| **發炎疾病** | 血管炎、紅斑性狼瘡、發炎性腸道疾病 (IBD)、Behcet disease、Thromboangiitis obliterans (Buerger's disease)、類肉瘤 |\n| **惡性腫瘤** | 侵犯 Venous sinus 的中樞神經腫瘤、血癌、惡性腫瘤引起的高凝血狀態 |\n| **產科相關** | 懷孕及產後 |\n| **外傷** | 頭部外傷、腰椎穿刺、手術 |\n\n*參考資料：Merritt's Neurology 13th Edition p314 table 40.1*\n\n造成大腦靜脈竇栓塞的原因常跟其他容易導致血栓的狀況有關，但找不到原因的狀況也不少見。症狀常以頭痛表現，影像可能只有輕微變化。治療主要以抗凝血劑 (Anticoagulant)、治療 Underlying disease、緩解病人症狀為主。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-44_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-44_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-45",
@@ -24120,9 +24128,11 @@
       "D": "血小板輸注（platelet transfusion）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "4-factor prothrombin complex concentrate (4F-PCC) 含有 Vitamin-K dependent 的凝血因子 (Factor 2、7、9、10)，矯正 INR 的速度比 Fresh frozen plasma (FFP) 快。\n\n| 凝血異常 | 治療選擇 |\n| :--- | :--- |\n| **Warfarin** | • Vitamin K、4F-PCC、FFP<br>• Recombinant activated factor VIIa (rFVIIa)：可以在數分鐘內矯正 INR，但有血栓風險，故只在非常緊急的狀況下使用。 |\n| **Heparin 或 LMWH** | Protamine sulfate |\n| **血小板低下 / 血小板功能不足** | • Platelet transfusion<br>• Desmopressin (DDAVP) |\n| **Dabigatran (Factor IIa inhibitor)** | Idarucizumab |\n| **Factor Xa inhibitor** | • Andexanet alfa：美國 FDA 核准作為 Apixaban、Rivaroxaban 之解毒劑，台灣未上市。<br>• 4F-PCC：用於 Apixaban、Rivaroxaban 二線治療或 Edoxaban 一線治療。 |\n\n*參考資料：The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition*",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-45_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-45_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-46",
@@ -24137,9 +24147,11 @@
       "D": "產生發炎反應"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 細胞內鈣離子濃度會增加。\n缺血時會引起 Ischemic cascade，最終導致神經傷害的物質有：Lactic acidosis、Glutamate、Thromboxane A2、Prostaglandins、Leukotrienes、Free radical 等。機轉如下：\n神經細胞缺氧時會進行無氧呼吸產生乳酸，此酸性環境會傷害神經細胞。此外，缺氧加上葡萄糖減少會導致粒線體無法有效製造 ATP，讓原本用來維持膜電位的 Na/K-ATPase 無法正常運作。接著鉀離子流出、鈉離子流入神經細胞而去極化，引起鈣離子通道開啟。鈣離子流入細胞內後促使神經傳導物質釋出，其中 Glutamate 便是很強的神經毒性物質。另外，鈣離子還會活化 Phospholipase A2，使細胞膜上的磷脂質被轉化為 Arachidonic acid，再經過 Cyclooxygenase、Lipooxygenase 產生 Prostaglandins、Thromboxane A2、Leukotrienes 等發炎物質。而在產生這些發炎物質的過程中，亦會產生帶有 Free radical 的過氧化物而傷害神經細胞。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-46_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-46_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-47",
@@ -24154,9 +24166,11 @@
       "D": "carbamazepine"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此為青少年肌陣攣性癲癇 (Juvenile myoclonic epilepsy, JME)，是一種常見且良性的 Idiopathic generalized epilepsy syndrome，病人的智力與發展通常都正常。\n\n| 青少年肌陣攣性癲癇 (Juvenile myoclonic epilepsy, JME) | |\n| :--- | :--- |\n| **流病** | 佔所有癲癇 10%，好發 10-24 歲。 |\n| **症狀** | • 可能是雙側劇烈痙攣，也可能只是單一肌肉抽動的 Myoclonic jerk，上肢症狀比較明顯（容易導致病人弄掉東西）。90% 病人會出現 Generalized tonic-clonic seizure。<br>• 通常在剛起床時發生，可能被睡眠不足或光刺激誘發。 |\n| **EEG** | Generalized spikes, 4- to 6-Hz spike waves, and multiple spike (polyspike) discharges. |\n| **治療** | • **首選**：Valproate<br>• **其他**：Lamotrigine（有時會誘發 Myoclonus）、Levetiracetam、Topiramate |\n| **其他** | Phenytoin、Carbamazepine、Gabapentin 可能會加劇 Myoclonic seizures |\n\n此題一開始選 (B) 是因為 Valproate 可能導致 Hepatic failure，而病人有肝炎病史，因此選擇 Levetiracetam 可能比較合適。但題幹沒有清楚描述病人目前的肝炎狀態，甚至也沒說是什麼肝炎，因此申覆後選擇 (A)Valproate 也給分。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-47_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-47_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-48",
@@ -24171,9 +24185,11 @@
       "D": "晚間給與褪黑激素促效劑（melatonin agonist）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這四個選項就是從教科書上抄下來的。\n(A) 是早上照光治療。\nDelayed sleep phase syndrome 屬於晝夜節律性睡眠障礙 (Circadian rhythm sleep disorders) 的其中一類，其特徵為晚睡晚起（通常在凌晨 1 點到 6 點才睡，接近中午或下午才起床），沒辦法在正常要上班上學的時間（早上 7 點或 8 點）起床。此類患者的睡眠長度與睡眠的結構都是正常的。治療可以利用選項中提到的那幾個方式，如每天延後睡覺 2-3 小時，慢慢把睡覺與起床的時間往後移，直到回到正常的作息狀態（稱為 Chronotherapy）。也可以在早上時照光（早點起床）、晚上給予 Melatonin 0.2-0.5mg 或 Melatonin agonist（早點睡覺）來幫助患者的晝夜節律回到正常作息。\n與此疾病相對的是 Advanced sleep phase syndrome，特徵為早睡早起，通常晚上 6-8 點睡，凌晨 1-3 點起床，老人較常見。可以利用晚上照光或給予緩釋型的 Melatonin 治療。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-48_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-48_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-49",
@@ -24188,9 +24204,11 @@
       "D": "癲癇病人接受抗癲癇藥物治療，約6～7成可達到癲癇發作緩解（remission）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤。一般人腦傷在一年內發生 Seizure 的風險約 7%，若 internal 戰爭導致的腦傷則提升至 34%（因為戰爭的穿透傷比較多）。60% 的創傷後癲癇發作 (Posttraumatic seizure) 發生在受傷後一年內。創傷後癲癇發作分為 Early（受傷後 1-2 週內發作）或 Late，只有反覆發生的 Late seizure（也就是急性受傷已經好了但依然反覆癲癇發作）才被稱為 Posttraumatic epilepsy。不管是 Early 還是 Late 都會增加以後發生癲癇 (Posttraumatic epilepsy) 的機會。\n另外，嚴重頭部外傷的定義為受傷導致腦挫傷 (Brain contusion)、顱內或腦內出血、失去意識、失憶超過 24 小時、有持續存在的神經學異常（如失語、偏癱、失智）。若符合嚴重頭部外傷者建議使用 1 週的預防性抗癲癇藥物（如 Phenytoin），但不建議使用超過 1 週（對於預防 Late seizure 或 Posttraumatic epilepsy 沒有效益）。\n輕微頭部外傷則是有以上狀況也沒有顱骨骨折，此類病人 Seizure 的風險沒有比一般人高。\n(B)(C) 錯誤。頭部外傷在新生兒、嬰兒與小孩比較不常見，腦血管病變比較常見於中老年人。各年齡層的 Seizure 原因如下：\n\n| 年齡 | 原因 |\n| :--- | :--- |\n| **Neonate (< 1 個月)** | 周產期缺氧或缺血、顱內出血、中樞神經感染、代謝異常（低血糖、低血鈣、低血鎂、Vitamin B6 不足）、藥物、基因異常、發展異常 |\n| **Infants and children (1 個月到 12 歲)** | 熱痙攣（最常見）、基因異常（代謝疾病、退化性疾病、Primary epilepsy syndrome）、中樞神經感染、發展異常、外傷 |\n| **Adolescents (12-18 歲)** | 外傷、基因異常、感染、藥物濫用、腦瘤 |\n| **Young adult (18-35 歲)** | 外傷、酒精戒斷、藥物濫用、腦瘤、自體免疫疾病 |\n| **Older adult (> 35 歲)** | 腦血管疾病（佔 65 歲以上新發生癲癇 50%）、腦瘤、酒精戒斷、代謝異常（尿毒症、肝衰竭、電解質異常、低血糖、高血糖）、Alzheimer's disease 或其他退化性中樞神經疾病、自體免疫疾病 |\n\n*參考資料：Harrison's Principles of Internal Medicine 21st edition p3310 Table 425-4*\n\n(D) 正確。60-70% 接受藥物治療的病人在診斷後的 10 年內至少有 5 年沒有癲癇發作。另外也有研究發現，接受藥物治療且 2 年以上沒有發作的病人，幾乎相同比例的病人在停藥後依然保持無癲癇發作。隨著 2 至 5 年無癲癇發作的時間增加，復發的機率也越來越低。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-49_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-49_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-50",
@@ -24205,9 +24223,11 @@
       "D": "多發性硬化症（multiple sclerosis）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此 DWI 最明顯的變化是前方及後方皮質呈現帶狀亮起，為庫賈氏症的典型變化。\nCreutzfeldt-Jakob disease 的 DWI 表現為受影響的區域大腦皮質訊號呈現帶狀增強 (Cortical ribbon)，此外 Caudate nucleus、Putamen、Thalamus 的訊號也可能增強。再加上題幹提示的症狀，故最可能的診斷為庫賈氏症。\n\n| 庫賈氏症 (Creutzfeldt-Jakob disease) | |\n| :--- | :--- |\n| **流病** | • 一種 Prion protein (PrP) 異常導致的疾病，盛行率每年 1.5/1 百萬，是罕見疾病（但國考很愛考）。<br>• PrP 穩定性極高，消毒須先使用化學法（5% 次氯酸鈉或 1-2N 氫氧化鈉作用 1 小時以上），再用物理法（132°C 以上高壓蒸氣釜消毒 1 小時以上）。其他如加熱、輻射、消毒水等都無效。 |\n| **致病機轉** | PrP 原本是神經系統中正常的蛋白質 (PrPc，C 代表 cellular)，基因變異後蛋白質折疊異常而形成 PrPsc (Sc 代表 scrapies)，或稱 PrPres (res 代表 protease-resistant conformation)，累積而導致神經傷害。 |\n| **分類** | • **Sporadic (85%)**：PrP 基因的 Somatic mutation (sCJD)<br>• **Genetic (10-15%)**：PrP 基因的 Germline mutation，其中一類即為 Familial CJD (fCJD)<br>• **Acquired (1%)**：包含 Iatrogenic（手術污染而傳染，iCJD）、Variant CJD（吃到狂牛症牛肉，vCJD） |\n| **症狀** | • **典型 Triad**：Rapidly progressive dementia、Myoclonus、Ataxia<br>• Ataxia 通常影響步態較多，四肢運動與眼睛表現較少。<br>• Myoclonus 在晚期的表現是 Startle clonus，意指感官刺激會誘發 Myoclonus。<br>• 其他常見症狀如精神症狀（行為改變、幻覺、妄想）、局部神經學症狀（視覺異常、局部無力、感覺異常）。 |\n| **檢查** | • **CSF analysis**：Cell count、Glucose 都正常，Protein 有可能輕微升高。14-3-3 protein、Tau protein 升高 (vCJD 可能正常)。<br>• **EEG**：出現 Periodic sharp wave complexes (vCJD 沒有)。<br>• **T2WI**：sCJD 在 Striatum 會亮；vCJD 在 Thalamus 會亮 (Pulvinar sign)。<br>• **DWI**：Cortical ribbon、Caudate nucleus、Putamen、Thalamus 看到高訊號。<br>• **其他檢查**：腦部切片、基因檢測。 |\n| **治療** | Supportive care |\n| **預後** | • 通常發病後數週至數個月後死亡，基本上無法挽回。<br>• 但有些特定的突變可以發病後經過 20 年才死亡。 |\n\n然後再比較 sCJD、fCJD 和 vCJD：\n\n| | sCJD、fCJD（兩者類似） | vCJD |\n| :--- | :--- | :--- |\n| **病因** | • sCJD：Somatic gene mutation<br>• fCJD：Germline gene mutation | 吃到感染海綿狀腦病的牛肉 |\n| **發病年紀** | 40-80 歲 (fCJD 會稍微年輕一點) | 10-40 歲 |\n| **病程** | 在 6-12 個月內快速惡化、死亡（有可能更短） | 在 1-2 年內惡化、死亡（有可能更久） |\n| **症狀** | 典型神經、失智症狀 | 精神症狀較早表現，約 6 個月後才表現神經症狀。神經症狀常以感覺異常先表現。 |\n| **CSF 裡的 14-3-3 protein** | 常會上升 | 只有 50% 會上升 |\n| **EEG 上的 Periodic sharp wave** | 有 | 沒有 |\n| **MRI T2WI** | Striatum 高訊號 | Thalamus 高訊號 (Pulvinar sign) |\n| **PrP codon 129 基因型** | sCJD 約 80% 為同型合子 | 全都是同型合子 |\n\n*註：在 PrP codon 129 上有一個 Single nucleotide polymorphism，此等位基因可以 Coding 出 Methionine(M) 或 Valine(V)。CJD 比較常出現在同型合子 (MM 或 VV)，異型合子 (MV) 比較少見。*",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-50_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-50_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-51",
