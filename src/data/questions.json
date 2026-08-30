@@ -26142,9 +26142,11 @@
       "D": "直接進行膀胱擴大手術"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "VUR 的治療有 4 大目標：避免感染、避免腎功能惡化、減少治療及追蹤的併發症、辨別並治療膀胱腸道功能障礙 (bladder and bowel dysfunction, BBD)，由於題幹敘述有排尿障礙，應優先改善排尿功能以免尿液逆流使腎功能惡化\n\n其他考點：\n1. 兒童反覆 UTI 才需要做 VCUG 確認是否有 VUR，第一次 UTI 不需要做\n2. VUR 病童給予預防性抗生素的時機：high-grade reflux (grade III~IV)、low-grade VUR 且有 UTI 病史者，若未接受如廁訓練或有其他腎臟異常、病童有 BBD（同時有腹痛、便祕或腹瀉、泌尿道症狀）",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-71_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-71_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-72",
@@ -26159,9 +26161,11 @@
       "D": "肝門靜脈栓塞（portal vein thrombosis）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據 2018 年 American Association for the Surgery of Trauma (AAST) liver injury scale，肝臟鈍挫傷可分為 5 個 grade：\n\n| 分級 (Grade) | 肝臟損傷特徵與定義 |\n| :--- | :--- |\n| **Grade I** | 肝臟撕裂傷深度 <1 cm 且肝臟被膜下血腫表面積 <10% |\n| **Grade II** | 肝臟撕裂傷深度 1~3 cm，或肝臟被膜下血腫表面積 10~50%，或肝臟實質血腫直徑 <10 cm |\n| **Grade III** | 肝臟撕裂傷深度 >3 cm，或肝臟被膜下血腫表面積 >50%，或肝臟實質血腫直徑 >10 cm 或正在實質出血 |\n| **Grade IV** | 肝臟損傷體積達 25~75%，或出血滲進腹膜 |\n| **Grade V** | 肝臟損傷體積 >75%，或肝門靜脈、肝靜脈、下腔靜脈損傷 |\n\n(A)(B)(C) 選項在 grade I~III 即可見，而 (D) portal vein thrombosis 歸類在 grade V 的肝臟鈍挫傷，為罕見的併發症",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-72_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-72_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-73",
@@ -26176,9 +26180,11 @@
       "D": "肝靜脈（hepatic vein）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "定義題，Budd-Chiari syndrome 就是指肝靜脈阻塞 (occlusion of hepatic vein)，附圖的 CT 也有提供線索，看到 aorta 較亮可得知有打顯影劑，箭頭所指的構造在肝臟較邊緣處，且亮度不及動脈，也可判斷為肝靜脈",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-73_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-73_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-74",
@@ -26193,9 +26199,11 @@
       "D": "chondrosarcoma"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "由此 right side shoulder X ray 可以看出，humeral head 靠近 lesser tubercle 處有塊邊緣不清、密度較高的病灶（與 humerus shaft 的 cortex 相比密度高），伴隨外側軟組織有毛霧狀延伸，為 periosteal reaction，聯想到 osteosarcoma (osteogenic sarcoma)，其餘 3 個選項皆較少出現 periosteal reaction\n\n(A) 選項骨轉移除了 prostate cancer 為 osteoblastic lesion 之外，其他大多數為 osteolytic lesion；(B) 選項 lymphoma 常以 lytic 或 sclerotic bone 表現；(D) 選項 chondrosarcoma 的好發年紀為 40~60 歲，典型影像特徵為 ring and arc calcification、popcorn calcification、cortical scalloping 等",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-74_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-74_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-75",
@@ -26210,9 +26218,11 @@
       "D": "肛門直腸手術，比其他手術易造成急性尿滯留"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "尿滯留的成因有：攝護腺肥大、尿道結石、糖尿病、泌尿道感染、藥物、手術，術後尿滯留的原因可為原有的前置因子，加上手術的麻醉藥物未完全代謝，膀胱排尿反射異常且逼尿肌麻痺，導致膀胱無法自發性排空，若膀胱過度膨脹造成膀胱壁肌肉缺血、壞死，則尿滯留的情形更嚴重，因此須及時辨認並給予處置\n\n(A) 男性發生尿滯留的風險可達女性的 5~10 倍，最常見的原因是攝護腺肥大\n\n(B) 靜脈輸液過多，使尿量增加、膀胱脹大的情形更嚴重，間接造成尿滯留更容易發生\n\n(C) 脊椎或硬膜外麻醉，將麻醉藥物打入脊髓腔，局部濃度較全身麻醉多，使控制排尿的 S2~S4 神經麻痺的情形更明顯\n\n(D) 骨盆腔手術如：骨盆底重建手術、子宮手術、肛門直腸手術等，在分離組織的過程或手術電燒的電流，可能會影響 pelvic nerve，導致逼尿肌的收縮能力異常\n\n| 神經名稱 | 神經來源 | 受體類型 | 功能 |\n| :--- | :--- | :--- | :--- |\n| **Pudendal nerve** | S2~S4 | Nicotinic | 收縮尿道外括約肌 |\n| **Hypogastric nerve** | T10~L2 | • α1-adrenergic<br>• β3-adrenergic | • 收縮膀胱頸（尿道內括約肌）<br>• 放鬆逼尿肌 |\n| **Pelvic nerve** | S2~S4 | Cholinergic | 收縮逼尿肌 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-75_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-75_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-76",
@@ -26227,9 +26237,11 @@
       "D": "3 小時後給與 tranexamic acid"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "自 6 米高處墜樓，屬於高能量機轉造成之骨盆傷害，且病人出現心跳快、血壓低，至少為 class II 的出血性休克\n\n(A)(B) 若超音波 (FAST protocol) 有看到腹腔積液，再行剖腹探查較為合適，若沒看到腹腔積液卻仍懷疑腹腔或骨盆腔出血，則應安排緊急血管攝影找出血點\n\n(C) 只能骨盆固定 (pelvic binding)，不可以骨盆加壓 (compressive pelvic maneuvers)，對明顯骨折或血型動力學不穩定的病人，加壓可能使骨折的骨頭移位，加重傷勢、增加出血\n\n(D) 對緊急的大出血效用不大",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-76_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-76_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-77",
@@ -26244,9 +26256,11 @@
       "D": "肢體的傷口發現有血管在噴血，最好的止血方法是用器械夾住噴血血管"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，上肢體表面積比較少，血管也較下肢短，發生血管受傷機率相對低\n\n(B) 錯誤，應有出血徵象且蒐集好相關證據，再會診血管外科\n\n(C) 正確，以下列出幾項強烈暗示血管受損且通常需緊急處理的徵象：\n\n| 穿刺傷四肢血管受損徵象 | 細項內容 |\n| :--- | :--- |\n| **聽診出現雜音** | Bruit / Thrill |\n| **急性／搏動性出血** | Active / Pulsatile hemorrhage |\n| **搏動性／擴大中的血腫** | Pulsatile / Expanding hematoma |\n| **四肢缺血症狀及／或腔室症候群 (compartment syndrome)** | 包含 5P（疼痛 pain, 蒼白 pallor, 麻痺 paresthesia, 無力 paralysis, 無脈搏 pulse deficit） |\n\n(D) 錯誤，應先加壓止血",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-77_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-77_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-78",
@@ -26261,9 +26275,11 @@
       "D": "病人 IC 卡上註記 DNR（do not resuscitate），不應進行氣管內管插管"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "《安寧緩和醫療條例》中，DNR 生效的條件為經兩位相對專科的醫師診斷為末期病人，而末期病人的定義為罹患嚴重、不可治癒的傷病，且有醫學上之證據，近期內病程進行至死亡已不可避免者\n\n題目中這位獨居男性，雖已簽署 DNR，但此次失去意識為突發事件，並非不可治癒的傷病，因此仍須秉持一般醫療常規，該插管時立即插管",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-78_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-78_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-79",
@@ -26278,9 +26294,11 @@
       "D": "在獲悉病人可能造成他人傷害時，為減少傷害應儘量告知病人身旁親友"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "醫師守密為醫學倫理的重要準則之一，台灣《醫師法》第 23 條、《醫療法》第 72 條、《醫師倫理規範》第 11 條皆有相關規範，然而在特定情境下，有保密義務的例外，列舉如下：\n\n| 例外情境 | 法規依據與說明 |\n| :--- | :--- |\n| **病人同意時** | 《個人資料保護法》第 6 條記載到：病歷、醫療、基因、性生活、健康檢查不得蒐集、處理與利用，須經當事人「書面同意」則可例外進行 |\n| **醫療場域之病情告知** | 《醫療法》第 81 條、《醫師法》第 12 條皆規範醫師有對病人，或親屬等關係人告知病情的義務 |\n| **以專家證人或鑑定人身分提供意見時** | 《醫師法》第 22 條，醫師受衛生或司法等機關諮詢或委託鑑定時，不得提供虛偽之陳述或報告 |\n| **依法具有通報義務** | 《傳染病防治法》、《精神衛生法》、《老人福利法》、《兒童及少年福利與權益保障法》、《性侵害犯罪防治法》等法條，基於防疫、保護、犯罪防治等目的，皆有規定醫事人員須於一定時限內通報 |\n\n(D) 選項錯在不應儘量告知，而是如同 (B) 選項的敘述，將關於病人的醫療資訊告知可能受影響之第三者",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-79_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-79_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-80",
@@ -26295,9 +26313,11 @@
       "D": "告知病人醫師有通報之義務，並且詳以解釋按時完整治療的重要"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此病患尿道分泌物抹片驗出淋球菌（淋病雙球菌），因而確診淋病，淋病為第三類法定傳染病，根據《傳染病防治法》第 39 條規定，醫療院所須於發現淋病個案的 1 周內通報，且依《人類免疫缺乏病毒傳染防治及感染者權益保障條例》第 15 條，性病確診個案皆需接受 HIV 檢驗，若醫師未按時通報，將處以新臺幣 9~45 萬元罰鍰\n\n而關於 (C) 選項是否須告知其監護人，目前多引用《民法》第 1084 條第二項，父母為未成年子女之法定代理人，不論未成年人是否有同意能力，醫療決策應得父母之同意，然而實際上存在著很多爭議，例如：家長反對醫院救治罕見疾病的小孩，但小孩卻想活下去，此時醫療團隊就會面臨何種決策才符合「兒少最佳利益」，而根據美國「成熟未成年人原則」(Mature minor doctrine)、英國「吉利克能力」(Gillick competence)，皆允許未成年人在具備足夠成熟且具理解能力的情況下，得以不經監護人同意自行做出醫療決策\n\n總結來說，臨床醫師應判斷未成年病人是否具備有效同意的能力，並非一律以是否成年做為標準，若評估後認為欠缺決定能力，才需尋求法定代理人同意\n\n綜合以上，最適當之處置應為告知病人醫師有通報之義務，並且詳以解釋按時完整治療的重要",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-80_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-80_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-1",
