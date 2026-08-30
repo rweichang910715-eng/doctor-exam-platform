@@ -25572,9 +25572,11 @@
       "D": "病理檢驗為侵犯性乳癌（invasive carcinoma）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 乳房保留手術 (Breast conservative surgery) 禁忌症 | 說明 |\n| :--- | :--- |\n| **絕對禁忌症** | • 同側多發病灶<br>• 瀰漫性顯微鈣化<br>• 多次切除後仍邊緣不乾淨<br>• 發炎性乳癌 (Inflammatory Breast Cancer, IBC)：乳房皮膚紅腫發炎、呈風乾橘子皮樣 (peau d'orange) |\n| **相對禁忌症** | • 腫瘤相對乳房體積大（20%，BCS 後乳房外觀不好）<br>• 無法進行放射治療（曾做過乳房放射治療、乳房過大、病態性肥胖、結締組織疾病等）<br>• 侵犯乳暈 (nipple-areolar region) |\n| **非禁忌症情形** | 腋下淋巴轉移、雙側原發性腫瘤、有植入物、老年人 |\n\n111-2 醫學五考古：Peau d'orange 為 inflammatory carcinoma 特徵，癌細胞產生的血栓堵住皮下淋巴管，造成皮膚水腫；Skin retraction 為癌細胞侵犯 Cooper's ligament，造成皮膚凹陷",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-41_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-41_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-42",
@@ -25589,9 +25591,11 @@
       "D": "50 歲以下 mammography 篩檢效果較差，原因之一可能是因為腫瘤進展較快速"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 工具 | 乳房攝影 (mammography, mammo) | 乳房超音波 (ultrasound) |\n| :--- | :--- | :--- |\n| **優點** | • 早期乳癌微小鈣化點靈敏度較高<br>• 較無 operator-dependent 的問題 | • 緻密型乳房診斷力較佳（亞洲、年輕女性）<br>• 無輻射 |\n\n(A) 正確，乳房攝影的優點如上表呈現，在台灣也做為 45~69 歲女性的乳癌篩檢工具，而歐美女性的乳房脂肪比例較高、緻密度較低，較能偵測腫塊及鈣化點\n\n(B) 正確，篩檢工具的必備特性之一為可重現性 (reproducible)\n\n(C) 錯誤，緻密性乳房由於腺體 (glandular) 及纖維 (fibrous) 組織比例高，容易「遮蔽」微小鈣化點，增加偽陰性\n\n(D) 正確，乳房攝影能偵測早期尚未出現症狀的乳癌，但在進展快速的腫瘤，兩次篩檢中間可能已出現症狀，另外，50 歲以下發生乳癌的盛行率低，且乳房較緻密，以及有輻射暴露、過度診斷等疑症，因此 40~50 歲以下的女性不建議在沒有症狀時篩檢\n\n癌症篩檢之補充請參考本章【113-2(五)43】",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-42_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-42_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-43",
@@ -25606,9 +25610,11 @@
       "D": "若疼痛困擾嚴重可酌量給與止痛藥物"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 年輕女性（緻密乳房）較適合使用超音波追蹤檢查\n(B) 由於題目中病人才 21 歲，不建議例行安排乳房攝影檢查\n(C) 影像上懷疑纖維腺瘤，原則上定期追蹤即可，但若病人擔心，可安排粗針切片 (core needle biopsy)，以病理確定診斷\n(D) 給予止痛藥物作症狀控制，纖維腺瘤通常為自限性\n\n另外，要會看 BI-RADS category：\n\n| Category | 意義 | 處置 | 惡性可能 |\n| :--- | :--- | :--- | :--- |\n| **0** (incomplete assessment) | 評估不完全 | 需其他影像檢查 | N/A |\n| **1** (negative) | 沒有任何有意發現 | 定期追蹤即可：40-49 歲兩年一次；>50 歲每年一次 | 幾乎為 0% |\n| **2** (benign) | 良性病灶 | 定期追蹤即可：每年一次 | 幾乎為 0% |\n| **3** (Probably benign) | 高機率良性病灶 | 4-6 個月再追蹤 | < 2% |\n| **4** (suspicious) - A | 低度懷疑惡性 | 切片或組織檢查良性，6 個月後再追蹤 | 2-10% |\n| **4** (suspicious) - B | 中度懷疑惡性 | 切片結果為 papilloma 則考慮切除手術 | 10-50% |\n| **4** (suspicious) - C | 高度懷疑惡性 | 依切片結果決定治療方向 | 50-95% |\n| **5** (Highly suggestive) | 高度認為惡性 | 立即切片或手術治療 | > 95% |\n| **6** (Known biopsy-proven) | 已證實惡性腫瘤 | 立即切片或手術治療 | N/A |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-43_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-43_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-44",
@@ -25623,9 +25629,11 @@
       "D": "腸道旋轉不良併扭轉（malrotation with volvulus）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此為 Double bubble sign，兩個被空氣撐開的器官分別為胃、近端十二指腸，暗示病人有十二指腸阻塞，(A) Gastric web 主要出現在胃的竇部 (Antrum)，靠近幽門 (Pylorus) 處，會造成 Gastric outlet obstruction，於腹部 X 光只有胃部漲大 (single bubble)\n\nDuodenal atresia 有各種不同的型態，包含薄膜阻塞管腔（最常見，若此膜具有延展性稱為 windsock web）、十二指腸中間有一段變成 Fibrous cord、十二指腸中間直接斷開等，約 50% Duodenal atresia 的病人為早產兒，常同時伴隨的先天異常包含先天性心臟病 (30%)、腸道扭轉不良 (20-30%)、環狀胰 (30%)、腎臟異常 (5-15%)、食道閉鎖 (5-10%)、骨骼異常 (5%)、直腸肛門異常 (5%)，以上所有的異常中，只有複雜的先天性心臟病 (complex congenital heart disease) 會增加死亡率，而環狀胰則是會增加晚期併發症的發生率（如 GERD、peptic ulcer disease、胰臟炎、胃部出口阻塞或反覆十二指腸阻塞）",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-44_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-44_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-45",
@@ -25640,9 +25648,11 @@
       "D": "睪丸動脈（testicular artery）源自內髂動脈（internal iliac artery）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，應為直接型鼠蹊疝氣 (Direct inguinal hernia)，Inferior epigastric vessels（上外界）、Rectus sheath（內界）、Inguinal ligament（下界）共同構成 Hesselbach triangle，直接型鼠蹊疝氣發生於 Hesselbach triangle 之內，而間接型鼠蹊疝氣則發生於 Hesselbach triangle 外側\n\n(B) 錯誤，此敘述為 Ilioinguinal nerve，Iliohypogastric nerve 則是穿透腹內斜肌、腹外斜肌至體表，Inguinal canal 的內容物有：Spermatic cord（男）、Round ligament of the uterus（女）、Ilioinguinal nerve，Spermatic cord 的內容物包含：Cremaster muscle fibers、Testicular artery and vein、Genital branch of the genitofemoral nerve、Vas deferens、Cremasteric vessels、Lymphatics、Processus vaginalis，Iliohypogastric nerve 與 Ilioinguinal nerve 共同支配鼠蹊部、陰莖底部、同側大腿內側上方的感覺，Genital branch of genitofemoral nerve 支配 Cremaster muscle 以及陰囊或陰唇外側皮膚的感覺\n\n(C) 正確，腹壁與陰囊結構對應如下表：\n\n| 腹壁結構（淺至深） | 陰囊結構 |\n| :--- | :--- |\n| **Skin** | Skin |\n| **Camper fascia** | Dartos muscle/fascia |\n| **Scarpa fascia** | Dartos muscle/fascia |\n| **External oblique muscle** | External spermatic fascia |\n| **Internal oblique muscle** | Cremaster muscle |\n| **Transversus abdominis muscle** | 無 |\n| **Transversalis fascia** | Internal spermatic fascia |\n| **Extraperitoneal fat** | 無 |\n| **Parietal peritoneum** | Processus vaginalis |\n\n(D) 錯誤，Testicular artery 直接源自腹主動脈，位於腎動脈分支處下方，另外，Testicular vein 左側回流至左側腎靜脈，右側則是直接回流至下腔靜脈",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-45_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-45_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-46",
@@ -25657,9 +25667,11 @@
       "D": "淋巴管瘤併淋巴外漏（lymphangioma with lymphorrhea）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "由題幹與圖片可知此病灶為與外界有連通的廔管，故先刪除 (C)，而由其位置（前方側邊）可推測為 (B)\n\n兒童頸部病灶（尤其是腫塊）的鑑別診斷如下：\n\n| 疾病 | 位置 | 說明 |\n| :--- | :--- | :--- |\n| **Lymphadenopathy** | 中線或側邊都有可能 | • 兒童頸部腫塊最常見原因<br>• 若會壓痛通常是細菌感染引起，如果為慢性淋巴結腫大則須考慮非典型感染源（如非典型分枝桿菌、貓抓病）<br>• 如果淋巴結堅硬、不可移動、其他部位（腋下、鼠蹊部）也有腫大、有懷疑 Lymphoma 的病史等，則需做切除性切片 (Excisional biopsy) 進一步診斷 |\n| **Thyroglossal duct remnant** | 頸部中線，隨著吞嚥動作移動 | 胎兒發育的過程中，甲狀腺原本在舌根 (Foramen cecum)，隨著成長慢慢下降至正常的甲狀腺位置，若下降路徑有殘餘甲狀腺則可能形成異常腫塊，常以囊腫 (Cyst) 表現，但也可能形成瘻管 (Fistula)，大多無症狀，但若有與咽部連通則可能感染，以手術 (Sistrunk operation) 治療，切除囊腫、舌骨 Central portion、連接至咽部的通道、結紮 Foramen cecum |\n| **Branchial cleft anomaly** | 頸部側邊<br>• 1：耳朵前方、後方或上頸部（靠近下頜）<br>• 2：SCM 下 1/3 的前方<br>• 3：Suprasternal notch 或鎖骨區域 | 頭頸部構造是由胚胎時期的咽裂、咽囊、咽弓發展而成，若退化不完全則會形成異常病灶，其中以第二咽裂異常最常見，可以囊腫、瘻管、竇 (Sinus) 表現，以手術切除治療 |\n| **Lymphatic malformation**<br>(cystic hygroma 或 lymphangioma) | 頸部後方、腋下、鼠蹊部、縱隔腔 | 淋巴管發育異常而形成囊腫，囊腫由內皮細胞構成，內部充滿淋巴液，通常會形成多個囊腫並且浸潤、扭曲周圍構造（不過其本質為良性病灶），第一線治療為 Image-guided sclerotherapy |\n| **Torticollis** | 頸部側邊，頭會看向健側、傾向患側 | SCM 纖維化導致，治療以物理治療、復健為主 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-46_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-46_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-47",
@@ -25674,9 +25686,11 @@
       "D": "可行全身電腦斷層掃描，以檢查受傷情況"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "高級外傷救命術 (ATLS) 評估原則：\n\n| 評估階段 | 項目 | 處置與說明 |\n| :--- | :--- | :--- |\n| **初步評估 ABCDE** | **A (airway)** | 呼吸道及頸椎保護，GCS 小於等於 8 建議早期預防性插管 |\n| | **B (breathing)** | 維持呼吸及通氣 |\n| | **C (circulation)** | 循環及出血控制，若有出血第一步應加壓止血，並建議給與輸液後，再度測量生命徵象，若仍未改善應立即輸血 |\n| | **D (disability)** | 意識狀態及神經學檢查 |\n| | **E (exposure)** | 移除病患體外衣物，完整評估傷口 |\n| **次級評估** | **詢問病史 AMPLE** | • **A (allergy)**：是否有對食物藥物過敏（尤其是抗生素及麻醉劑）<br>• **M (medication)**：目前使用之藥物<br>• **P (past illness)**：過去病史<br>• **L (last meal)**：上次進食時間、食物內容物為何<br>• **E (event)**：受傷機轉、鈍傷／穿刺傷 |\n| | **詳細檢查** | 從頭到腳詳細的檢查 (head-to-toe)：PE 及 CT |\n\n(A) 錯誤，GCS 在 8 分以下，即便有自發性呼吸，仍可能因意識差而舌頭後倒、阻塞呼吸道，因此須立即插管維持呼吸道暢通\n\n(B) 正確，檢查出血情形為初級評估的 circulation，包含以 X 光及超音波檢查胸腔、腹腔、後腹腔、骨盆、長骨等處是否有積液或骨折\n\n(C) 正確，此女童心跳快、血壓低，且合併意識不清，至少是 class III 的出血性休克，應立即輸液保持循環，嬰幼兒外傷輸液量為 20 mL/kg，快速滴注 2~3 次，若生命徵象仍無改善則立即輸血 10 mL/kg\n\n(D) 此選項可議，不論是在成人或嬰幼兒外傷皆不會初級評估時就做電腦斷層，在次級評估才會根據臨床情境做該部位的電腦斷層，考量到嬰幼兒表達能力不好，若真的找不到出血點，做全身電腦斷層或許可提供有價值的資訊，然而根據多篇兒童多重創傷的回顧性研究顯示，例行做全身電腦斷層並不會減少死亡率，且有延誤其他該做的檢查以及增加輻射暴露增加的疑慮\n\n**〈其他考點〉出血性休克的期別也是黃金考題：**\n\n| 項目 | Class I | Class II | Class III | Class IV |\n| :--- | :--- | :--- | :--- | :--- |\n| **失血量（比例）** | < 750 mL (< 15%) | 750~1500 mL (15~30%) | 1500~2000 mL (30~40%) | > 2000 mL (> 40%) |\n| **心跳變化** | → | ↑ | ↑ | ↑↑ |\n| **血壓變化** | → | → | ↓ | ↓↓ |\n| **呼吸速率** | → | → | → 或 ↑ | ↑ |\n| **意識狀態** | → | → | ↓ | ↓ |\n| **尿量** | → | → | ↓ | ↓↓ |\n| **初步處置** | 晶體溶液 | 可能需輸血 | 必須輸血 | 大量輸血 (MTP) |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-47_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-47_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-48",
@@ -25691,9 +25705,11 @@
       "D": "置入胸管後馬上引流出 230 mL 血色引流液，應立即進行開胸手術止血"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(B)(C) 輸血後血壓回升，但呼吸、心跳快，且血氧飽和度低，根據胸部 X 光，應與此病患右側血胸有關，應密切追蹤生命徵象\n\n(D) 當生命徵象仍不穩且合併下方狀況時，為緊急開胸手術的時機：\n\n| 胸部創傷病患：緊急開胸手術 (emergent thoracotomy) 適應症 |\n| :--- |\n| • **大量血胸**：胸管置入當下失血量 > 1500 mL（或嬰幼兒總血量的 30% 以上）或連續 4 小時從胸瓶引流出 > 200 mL/hr（或嬰幼兒 2~3 mL/kg/hr）<br>• **開放性氣胸**<br>• **氣管支氣管破裂**<br>• **心臟大血管受傷**：包含心包膜填塞、心臟疝氣<br>• **食道或橫膈受傷**：包含食道穿孔、橫膈破裂 |\n\n由此可知，10 公斤的女嬰總血量約為 830 mL，230 mL 的引流液佔總血量約 27%，當生命徵象不穩時，代表仍有持續出血的情形，應立即緊急開胸止血，但此病童在初步急救後生命徵象回穩，應持續輸液或輸血，並密切監測生命徵象",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-48_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-48_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-49",
@@ -25708,9 +25724,11 @@
       "D": "靜水壓力復位術（hydrostatic reduction）對於大部分單純性的腸套疊都適用"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "除了 (D) 以外的選項都是在描述 Meckel diverticulum\n\n| 項目 | 腸套疊 (Intussusception) 說明 |\n| :--- | :--- |\n| **流病** | 好發 3 個月到 3 歲的小孩，大多發生在 1 歲前 |\n| **致病機轉** | 近端腸子套進遠端腸子，常見於 Ileocecal junction（即迴腸遠端套進盲腸） |\n| **病因** | • 通常為 Idiopathic，若有 Lead point，最常見的為 Meckel diverticulum，其他如腸道息肉、闌尾發炎、Henoch-Schönlein purpura 引起的黏膜下出血、吞入異物、Ectopic pancreatic/gastric tissue、Intestinal duplication 等也須考慮<br>• 小腸手術後也可能引起腸套疊，佔腸套疊病人 5% |\n| **臨床表現** | • 間歇性嚴重腹絞痛（病人腳會往腹部彎曲），兩次發作之間通常沒有症狀<br>• 其他症狀包含：嘔吐、帶血黏液便 (Currant jelly stool)、可摸到的腹部腫塊 |\n| **檢查** | • **腹部 X 光**：看到腫塊、大腸氣體減少、遠端小腸完全阻塞<br>• **腹部超音波**：第一線檢查方式，可見 Target sign (Transverse view)、Pseudokidney sign (Longitudinal view) |\n| **治療** | • **Hydrostatic reduction**：以顯影劑、生理食鹽水或空氣灌腸，80% 病人可復位成功，但有 11% 復發率（大多發生在復位後 24 小時內），此時可再做一次 Hydrostatic reduction，復發第三次則為手術適應症<br>• **手術**：適應症包含腹膜炎、就診時即腸阻塞、Hydrostatic reduction 失敗、多次復發，手術方式為打開腹部後把腫塊往近端推，並且評估復位後的腸子是否還有功能，若無法復位、無法確定腸子是否還有功能或有找到 Lead point，則需要做 Ileocolectomy with primary anastomosis，手術後的復發率非常低 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-49_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-49_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-50",
@@ -25725,9 +25743,11 @@
       "D": "觀察即可"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 大腸鏡檢查結果分類 | 處置與追蹤方式 |\n| :--- | :--- |\n| **異常黏膜** | 切片檢查 |\n| **突起息肉** | 息肉切除（只作切片不夠） |\n\n**息肉依病理組織分類與追蹤：**\n\n| 息肉病理組織分類 | 細項與特徵 | 追蹤方式 |\n| :--- | :--- | :--- |\n| **增生性息肉**<br>(hyperplastic polyp) | 直腸及乙狀結腸、多發 | 難以確保不混有腺瘤，故仍需密切追蹤 |\n| **腺瘤**<br>(adenoma，最常見) | • 組織型態：管狀瘤 (tubular)、絨毛腺瘤 (villous)、管狀絨毛腺瘤 (tubulovillous)<br>• 基部型態：莖性 (pedunculated)、粗短莖性 (thick stalk)、廣基性 (sessile) | • 莖性管狀 (pedunculated tubular) 息肉一般作內視鏡息肉切除後密切追蹤即可<br>• 廣基性絨毛腺瘤 (sessile villous) 建議病人進一步接受腸段切除 |\n| **腺瘤性息肉症** | • Adenomatosis: familial polyposis (FAP), Gardner's syndrome（合併 osteoma、epidermoid cyst）<br>• Turcot's syndrome（合併 CNS tumor：FAP variant 為 medulloblastoma；Lynch variant 為 glioblastoma） | 密切追蹤或預防性腸切除 |\n| **缺陷瘤**<br>(hamartoma) | • Peutz-Jeghers syndrome（合併嘴唇色素沉澱）<br>• Juvenile polyps or polyposis<br>• Neurofibromas and ganglioneuromas | 產生癌化機率高，須定期檢查追蹤 |\n| **發炎性息肉**<br>(inflammatory polyp) | • Crohn's disease or ulcerative colitis<br>• Lymphoid polyp<br>• Lipoid or barium granuloma | 治療原發腸道發炎疾病 |\n| **其他** | 非黏膜性腫瘤（leiomyoma, hemangioma, lipoma 等） | 視臨床症狀評估 |\n\n**補充：CRS 良性小刀歷年常見考點（建議搭配網路上示意圖）**\n\n| 疾病 | 臨床機轉與特徵 | 處置與分類 |\n| :--- | :--- | :--- |\n| **肛門膿瘍**<br>(abscess) | 肛門有 8~10 個開口於齒狀線的腺體，出口阻塞導致發炎／膿瘍，擴散向下至肛緣成 perianal (80%)、向外過外括約肌成 ischiorectal (15%，再擴散至雙側成馬蹄膿瘍)、intersphincteric、supralevator；40% 進展形成瘻管 | 治療：切開引流，但可能傷及括約肌導致大便失禁 |\n| **肛圍瘻管**<br>(perianal fistula) | Goodsall's rule 以 transverse anal line 為界：<br>1. 後側中線處有 posterior anal space (potential space) → 後側 fistula 延伸至此、匯入直腸<br>2. 前側中線處沒有 potential space，3 cm 內的 abscess 會直接注入直腸；3 cm 以上的 abscess 仍會沿著 ischial spine 走向 posterior anal space（呈馬蹄狀） | 依位置分四種，依照發生率排列：intersphincteric > transsphincteric > suprasphincteric > extrasphincteric |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(五)-50_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(五)-50_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(五)-51",
