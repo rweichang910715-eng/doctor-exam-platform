@@ -23292,9 +23292,11 @@
       "D": "2個月大時，體重4900公克"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 歲數 | 預期體重變化 | 概述 |\n| :--- | :--- | :--- |\n| **第一周** | 減輕約 10% | 新生兒會流失一些體液，加上剛開始的營養攝取較差。 |\n| **第二周** | 回復到或超過出生時的體重 | 嬰兒吸吮母乳的能力變好，母親也較適應哺乳。 |\n| **第一個月** | 每天成長約 30 公克 | 為成長最快速的時期。 |\n| **第三個月** | 每天成長約 20 公克 | 成長速度減緩。 |\n| **第四個月** | 為出生時的 2 倍重 | |\n| **一歲** | 為出生時的 3 倍重 | |\n\n(A) 錯誤。減少 400 公克已經超過出生體重的 10%，屬異常值。\n(B) 正確。屬合理範圍內的體重減輕。\n(C)(D) 正確。符合每天成長約 30 公克的範圍。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-1_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-1_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-2",
@@ -23309,9 +23311,11 @@
       "D": "建議媽媽停餵母奶"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題考新生兒黃疸，但給的線索無法做詳細的鑑別診斷，在這裡補充此時期很愛考的母乳相關黃疸給大家。\n\n| | Breast milk jaundice | Breastfeeding jaundice |\n| :--- | :--- | :--- |\n| **膽紅素** | 較晚上升：7 天大時開始上升，2-3 周時達到最高峰。 | 較早上升：出生後 7 天內發生在母乳哺餵者。 |\n| **成因** | 被認為是 β-glucuronidase 分解直接型膽紅素，產生間接型膽紅素被腸肝循環吸收所造成。 | 母乳攝食不足造成脫水，使血中膽紅素濃度上升；同時腸胃蠕動會減緩，導致腸肝循環吸收膽紅素也增加。 |\n| **治療** | 繼續餵母乳者其膽紅素會在幾周內漸漸下降，若停餵母乳則會在幾天內快速緩解。 | 提高母乳哺餵的頻率，若嬰兒明顯脫水或體重下降過多，要考慮給予配方奶或將母乳擠出另行餵食。 |\n\n(A) 錯誤。腹部超音波檢查用於排除膽汁淤積 (cholestasis) 相關疾病，尤其是先天的結構異常或是膽道閉鎖 (biliary atresia)。題目提到「大便顏色正常」，也沒有提到會懷疑膽道問題的症狀，加上通常在新生兒 2 周大仍持續黃疸、驗出是直接型膽紅素為主時，才會將膽道疾病的可能性放到較前面，故現階段安排腹部超音波檢查不是最適合的。\n(B) 錯誤。新生兒黃疸最需要注意的就是需不需要照光或換血，對於足月、沒有風險因子的新生兒來說，在第五天後，血清總膽紅素至少約 20 mg/dL 才會啟動照光，25 mg/dL 則考慮換血，才 12 mg/dL 還遠不及啟動照光治療的閾值。\n(C) 正確。本題 7 天大就已經有黃疸，較像是 breastfeeding jaundice，但嬰兒活力佳，且體重只掉了 50 公克，在 10% 範圍內屬正常的減輕，故無需特別處置，追蹤觀察即可。\n(D) 錯誤。Breast milk jaundice 若停餵母奶可以讓膽紅素降低，但 breastfeeding jaundice 停餵母乳只會讓狀況惡化。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-2_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-2_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-3",
@@ -23326,9 +23330,11 @@
       "D": "早產兒呼吸暫停多屬於mixed apnea"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 早產兒呼吸暫停 (apnea of prematurity) | |\n| :--- | :--- |\n| **概述** | 肇因於呼吸控制不成熟，好發於妊娠 <34 週之新生兒，大多沒有前置因子。 |\n| **定義** | 呼吸暫停 ≥ 20 秒 或 任意時長但伴隨發紺和心搏過緩 |\n| **治療** | • 觸覺刺激和氧氣適用於大多數人。<br>• 對於有混合性或阻塞性呼吸暫停者，需考慮 Nasal continuous positive airway pressure (nCPAP) 或 heated humidified high-flow nasal cannula (HHHFNC) 來幫助打開呼吸道。<br>• 復發或難治的呼吸暫停可使用 methylxanthines 類藥物（如：咖啡因）來刺激呼吸中樞，亦可減少支氣管肺發育不全 (bronchopulmonary dysplasia) 的風險。 |\n| **預後** | 大部分對未來發育無影響，且會自行緩解，但對於早產兒（尤其妊娠 <28 週者），需要更長的觀察期來確定沒有再發。<br>早產兒呼吸暫停不會增加嬰兒猝死症 (sudden infant death syndrome) 的風險。 |\n\n(A) 錯誤。應改成 20 秒。\n(B)(C) 正確。呼吸暫停越久，心搏過緩發生率越高；心搏過緩也和缺氧的嚴重度有關。\n(D) 早產兒的肌肉張力弱，容易造成下咽塌陷，造成呼吸道阻塞，形成混合性呼吸暫停 (mixed apnea)，故需考慮使用正壓呼吸來幫助打開呼吸道。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-3_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-3_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-4",
@@ -23343,9 +23349,11 @@
       "D": "給與正壓換氣"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題考新生兒復甦 (neonatal resuscitation)，最重要的觀念是當新生兒出現低心率，絕大部分是因為呼吸問題而非心血管問題造成。在此補充簡要流程圖，務必將每個閾值和處置記熟。\n\n出生：\n→ 肌肉張力差、呼吸弱、無哭聲等。\n→ 保溫、暢通呼吸道、清除分泌物、給予刺激。\n→ 呼吸停止、窘迫或心跳低於每分鐘 100 下。\n→ 給予正壓換氣 (positive pressure ventilation)、監測 SpO2、考慮 ECG 監測。\n→ 心跳仍低於每分鐘 100 下。\n→ 考慮喉罩呼吸道 (laryngeal mask) 或插管。\n→ 心跳低於每分鐘 60 下。\n→ 插管、開始胸外按壓、給 100% 氧氣、ECG 監測、考慮放置臍靜脈導管。\n→ 心跳仍低於每分鐘 60 下。\n→ 靜脈給 epinephrine。\n\n由此，經初始步驟處理後仍發現呼吸窘迫、心跳每分鐘 50 下時，最優先的處置是 (D) 給與正壓換氣。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-4_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-4_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-5",
@@ -23360,9 +23368,11 @@
       "D": "腹部X光典型特徵有腸壁積氣（pneumatosis intestinalis），通常在出生後1週內發生"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "壞死性腸炎是基本題，務必把握。\n\n| 壞死性腸炎 (necrotizing enterocolitis) | |\n| :--- | :--- |\n| **概述** | 壞死性腸炎是新生兒時期最常見危及生命的腸胃道急症，其死亡率可達 20-50%。越早產或越輕的出生體重和壞死性腸炎的發生率與嚴重度相關。 |\n| **病理** | 從黏膜缺血進展到壞死，接著出現腸壁黏膜下層積氣 (pneumatosis intestinalis)，最後壞死到穿孔，併發腹膜炎和敗血症。 |\n| **成因** | 主要與未成熟的腸道環境接觸到外來物有關，目前最明確的三大危險因子為早產 (prematurity)、腸道細菌移生 (bacterial colonization of the gut) 及配方奶餵食 (formula feeding)，其中又以早產為最重要的危險因子。 |\n| **表現** | 通常在出生後第 2-3 週發生。一開始可能呈現活力差、體溫不穩定等症狀，也可以腹脹、餵食耐受不良、血便、嘔吐等腸胃道症狀表現，嚴重者也可能以休克、敗血症、呼吸窘迫為初始表現。 |\n| **診斷** | 以腹部 X 光為主：看到有腸壁積氣 (pneumatosis intestinalis)、肝門靜脈積氣 (hepatic portal vein gas) 或腹腔積氣 (pneumoperitoneum)。 |\n| **治療** | 支持性療法矯正呼吸、體液、電解質、凝血功能等失衡，並加上經驗性抗生素。若懷疑腸穿孔、治療一直不見好轉等狀況，要考慮會診外科做剖腹探查或腹腔引流。 |\n| **預防** | 採人類母乳餵食是目前認為最為有效的預防方法。 |\n\n(A)(B)(C) 皆正確，為原文直照翻選項。\n(D) 錯誤。此疾病絕大多數在「開始腸道餵食後」才會開始，故大約在出生後第 2-3 週發病。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-5_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-5_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-6",
@@ -23377,9 +23387,11 @@
       "D": "對於發紺性心臟病的病童，要特別注意脫水與缺鐵性貧血的問題"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(B) 正確。\n(C) 錯誤。2007 年 AHA 建議需在「牙科治療」前進行細菌性心內膜炎的預防的先天性心臟病族群僅有：\n• 未修復的發紺性先天性心臟病。\n• 已修復且使用人工植入物的先天性心臟病，在術後六個月內。\n• 已修復且使用人工植入物的先天性心臟病，但人工植入物的位置或旁邊仍有殘餘的缺陷。\n• 心臟移植且併發瓣膜疾病者。\n(D) 正確。發紺性心臟病的病人可能出現紅血球增多 (polycythemia)，若脫水時容易造成血液變稠，增加中風機會，而小球性的血球過多也會增加中風機會，故避免缺鐵性貧血也有助於減少中風風險。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-6_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-6_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-7",
@@ -23394,9 +23406,11 @@
       "D": "上心臟型全肺靜脈回流異常合併阻塞（supracardiac type total anomalous pulmonary venous returnwith obstruction）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "PGE1 可以讓動脈導管 (ductus arteriosus) 維持開放，在某些先天性心臟病是至關重要的處置，也是小兒心臟科裡少數好把握的題目，務必拿下來。\n\n| 生理 | 疾病 |\n| :--- | :--- |\n| **肺部血流減少**<br>→ 需要動脈導管來讓血流進入肺循環 | • 法洛氏四合症 (tetralogy of Fallot)<br>• 三尖瓣閉鎖 (tricuspid atresia)<br>• 肺動脈瓣閉鎖且無中膈缺損 (pulmonary atresia with intact septum)<br>• 嚴重的埃勃斯坦畸形 (Ebstein's anomaly)<br>• 嚴重的肺動脈狹窄 (pulmonary stenosis) |\n| **全身血流減少**<br>→ 需要動脈導管來讓血流進入體循環 | • 嚴重的主動脈窄縮 (coarctation of aorta)<br>• 嚴重的主動脈瓣狹窄 (aortic stenosis)<br>• 主動脈弓中斷 (interrupted aortic arch)<br>• 左心發育不全症候群 (hypoplastic left heart syndrome) |\n| **血液混合不良**<br>→ 需要動脈導管來讓肺循環和體循環交通 | • 大動脈轉位 (D-transposition of the great arteries) |\n\n由上可知 (A)(B)(C) 使用 PGE1 對病情皆有幫助。\n(D) 上心臟型全肺靜脈回流異常合併阻塞 (supracardiac type total anomalous pulmonary venous return with obstruction)：全肺靜脈回流異常的問題在於肺靜脈血流又回到右心，在右心混和的充氧－缺氧血必須依賴心房中膈缺損或卵圓孔，才能進入體循環，因為根本問題是血液錯誤地發生混合，並不是缺乏血流通道，故此時即便有動脈導管也幫助有限。另外，此題還合併了阻塞，意即肺靜脈回流時發生阻塞，將導致肺充血、肺高壓，此時動脈導管也沒有幫助，必須緊急手術矯正。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-7_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-7_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-8",
@@ -23411,9 +23425,11 @@
       "D": "主動脈弓中斷（interrupted aortic arch）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題在考差異型發紺 (differential cyanosis) 和發紺型先天性心臟病。發紺型先天性心臟病也是少數好把握的題目，一定要拿下來，而差異型發紺大多是不同的異常組合在一起的結果，相對來說複雜非常多，建議當參考就好。\n\n| 類型 | 疾病舉例 |\n| :--- | :--- |\n| **發紺型先天性心臟病** | • 法洛氏四合症 (tetralogy of Fallot)<br>• 三尖瓣閉鎖 (tricuspid atresia)<br>• 肺動脈瓣閉鎖 (pulmonary atresia)<br>• 埃勃斯坦畸形 (Ebstein's anomaly)<br>• 嚴重的肺動脈狹窄 (pulmonary stenosis)<br>• 左心發育不全症候群 (hypoplastic left heart syndrome)<br>• 大動脈轉位 (D-transposition of the great arteries)<br>• 全肺靜脈回流異常 (total anomalous pulmonary venous return)<br>• 動脈幹 (truncus arteriosus) |\n| **差異型發紺 (differential cyanosis)**：上肢血氧 > 下肢血氧 | • 開放性動脈導管 (patent ductus arteriosus, PDA) 合併肺高壓<br>• 嚴重的導管前主動脈狹窄 (preductal coarctation of aorta)<br>• 主動脈弓中斷 (interrupted aortic arch) |\n| **逆差異型發紺 (reverse differential cyanosis)**：上肢血氧 < 下肢血氧 | • 法洛氏四合症 (tetralogy of Fallot) 合併 PDA 和肺血管阻力升高<br>• 法洛氏四合症 (tetralogy of Fallot) 合併 PDA 和主動脈管前狹窄或主動脈弓中斷<br>• 上心臟型全肺靜脈回流異常合併 PDA 和卵圓孔未閉合 (patent foramen ovale, PFO) |\n\n本題只有 (C) 不是發紺型先天性心臟病或差異型發紺的成因，輕度及中度肺動脈瓣狹窄不會造成發紺，但嚴重的話則有可能造成。\n\n補充：\n對照一下上一題，問自己「哪些發紺型先天性心臟病不仰賴動脈導管」？\n答案是全肺靜脈回流異常合併阻塞 (total anomalous pulmonary venous return) 和 動脈幹 (truncus arteriosus)，務必牢記！",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-8_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-8_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-9",
@@ -23428,9 +23444,11 @@
       "D": "手術治療唯一方法要先做腸造瘻口（ostomy），等嬰兒營養狀態改善後再做一次確切（definite）的手術"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 先天性巨大結腸症 (congenital aganglionic megacolon, Hirschsprung Disease) | |\n| :--- | :--- |\n| **概述** | 是新生兒最常見的下消化道阻塞疾病，發生率約每 5000 名新生兒 1 名。 |\n| **病生理** | 在腸壁黏膜下層和肌間層缺少神經節細胞，會從肛門開始一直延伸到近端（範圍因人而異，也可能一路追溯回小腸），而缺少神經節細胞的腸段無法放鬆，進而導致腸阻塞。 |\n| **表現** | 絕大多數足月兒在出生後 48 小時內會排出胎便，若無，要小心先天性巨大結腸症。其他表徵包含：含膽汁的嘔吐、餵食耐受不佳、腹脹等。<br>此外，腸道擴張過久會缺血、黏膜受損，導致細菌增生，產生結腸炎，此時可能進一步演變成敗血症。 |\n| **診斷** | • 腸壁切片：診斷之黃金標準，若出現「無神經節細胞」、「乙醯膽鹼酯酶 (AchE) 表現增強」等發現，可診斷先天性巨大結腸症。<br>• 肛門直腸壓力計 (anorectal manometry)：擴張直腸時，會缺少一般人擁有的內括約肌放鬆反應。<br>• 無事前準備的顯影劑灌腸攝影 (unprepared contrast enema)：會出現脹大的腸段突然轉換為狹窄的腸段的顯影，則狹窄段懷疑是無神經節的部分。強調「無事前準備」是為了避免把狹窄的腸段撐大，而造成誤判。 |\n| **治療** | 手術切除沒有神經節細胞的腸段後重建腸道。<br>除非是併發腸炎，才會考慮先做減壓性腸造廔口 (decompressing ostomy)，否則現大多直接進行手術。 |\n\n(A) 錯誤。應為在「狹窄的」結腸黏膜下層和肌間層缺少神經節細胞。\n(B) 錯誤。胎便超過 48 小時未解的篩檢準則只適用於「足月兒」。\n(C) 正確。\n(D) 錯誤。先做腸造廔口，再做一次確切手術已經是過去的方法，現在皆傾向直接做確切手術。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-9_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-9_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-10",
@@ -23445,9 +23463,11 @@
       "D": "應常規給與預防性廣效型抗生素"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題為典型的急性胰臟炎，用成人急性胰臟炎的思路去解題也會通。\n\n| 急性胰臟炎 (acute pancreatitis) | |\n| :--- | :--- |\n| **診斷** | 下列三者中出現至少兩者：<br>• 腹痛<br>• 血清澱粉酶 (amylase) 或脂解酶 (lipase) 濃度為正常值上限之 3 倍以上<br>• 影像學有胰臟炎的證據 |\n| **成因** | 與成人較不同的地方在於，兒科的急性胰臟炎成因以腹部鈍傷、膽結石、系統性疾病（如：溶血性尿毒症候群）、藥物為主，青少年病人才比較會考慮酒精造成之胰臟炎。 |\n| **處置** | 補水和止痛為核心治療，除非是創傷或進展到壞死，否則鮮少需要手術治療。症狀輕微的病人通常 4-5 天就會恢復。詳細可參考胃腸肝膽科【113-2(三)20】。 |\n\n(A) 正確。\n(B) 正確。急性胰臟炎的發炎會導致體液從血管流失，故補水是最核心的處置。\n(C) 正確。嘔吐時應禁食或用鼻胃管幫助減壓，一旦嘔吐停止，即可開始進食。\n(D) 錯誤。使用預防性廣效型抗生素對預後沒有幫助，一般來說在胰臟壞死且感染時 (infected necrosis) 才會使用抗生素。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-10_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-10_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-11",
