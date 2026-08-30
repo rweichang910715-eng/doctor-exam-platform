@@ -21962,9 +21962,11 @@
       "D": "在蹲著時肥厚型阻塞性心肌症（hypertrophic obstructive cardiomyopathy）的心雜音會變小聲"
     },
     "answer": "B",
-    "explanation": "<p>可以記 HOCM、MVP 在不同 MANEUVER 的變化即可；其他大部分心雜音變化相同</p>\n<table class=\"exp-table\">\n<tr><th>Maneuvers</th><th>變大聲的心雜音</th><th>變小聲的心雜音</th></tr>\n<tr><td class=\"k\">增加後負荷(afterload)：握拳(Handgrip)</td><td rowspan=\"2\">AR、MR、TR、VSD</td><td rowspan=\"4\">HOCM、MVP</td></tr>\n<tr><td class=\"k\">增加前負荷(preload)：快速蹲下(Squatting)、吸氣</td><td rowspan=\"1\">AS、MS、AR、MR、TR、VSD</td></tr>\n<tr><td class=\"k\">減少後負荷(afterload)：給 Amyl nitrate</td><td rowspan=\"2\">HOCM、MVP</td></tr>\n<tr><td class=\"k\">減少前負荷(preload)：吐氣、閉氣用力(Valsalva)、突然站起(Standing abruptly)</td><td>AS、MS、AR、MR、TR、VSD</td></tr>\n</table>\n<p><strong>補充：</strong></p>\n<p>描述一個心雜音通常針對幾個面向形容：位置、強度、音調、音量、時間點。</p>\n<p>主要聽診位置：</p>\n<table class=\"exp-table\">\n<tr><td>右上方胸骨旁 (RUSB)，右胸骨旁第二肋間：AS</td><td>左上方胸骨旁 (LUSB)，左胸骨旁第二肋間：PS, ASD, PDA</td></tr>\n<tr><td>左下方胸骨旁 (LLSB)，左胸骨緣第四肋間：AR, PR, TR, TS, VSD, HOCM</td><td>心尖 (apex)，左鎖骨中線第五肋間：MR, MS, Austin Flint murmur</td></tr>\n</table>\n<p>心雜音強度 (Levine Scale)：</p>\n<table class=\"exp-table\">\n<tr><td class=\"k\">Grade I (faint murmur)</td><td>很難聽診聽到</td></tr>\n<tr><td class=\"k\">Grade II (soft murmur)</td><td>在一般的環境下，聽診器聽診時可以聽到</td></tr>\n<tr><td class=\"k\">Grade III</td><td>在很吵雜的環境下，仍然能夠清楚聽到心雜音</td></tr>\n<tr><td class=\"k\">Grade IV</td><td>除了聽診聽到大而清楚的心雜音之外，用手觸摸可以感受到震動感 (palpable thrill)</td></tr>\n<tr><td class=\"k\">Grade V</td><td>聽診器輕輕觸碰胸壁，就能聽到心雜音</td></tr>\n<tr><td class=\"k\">Grade VI</td><td>聽診器還沒接觸到胸壁，就能聽到心雜音</td></tr>\n</table>\n<p>音調、音量、時間點（S1—systole—S2—diastole—S1，下表以文字描述取代原書手繪音型圖）：</p>\n<table class=\"exp-table\">\n<tr><th>類別</th><th>音型</th><th>說明／對應疾病</th></tr>\n<tr><td class=\"k\">收縮期雜音（都是高頻 high pitch）</td><td colspan=\"2\"></td></tr>\n<tr><td>強烈聲 harsh</td><td>◇ 菱形（漸強再漸弱）</td><td>mid-systolic (crescendo-decrescendo，音量漸強再漸弱)：AS, PS, ASD, HOCM</td></tr>\n<tr><td>咪咪聲 swishing</td><td>▭ 長方形（均強）</td><td>late-systolic (Plateau，均強)：MVP</td></tr>\n<tr><td>風吹聲 blowing</td><td>▭ 長方形（均強）</td><td>holo-systolic (Plateau，音量均強)：MR, TR (Carvallo sign：吸氣變大聲), VSD</td></tr>\n<tr><td class=\"k\">舒張期雜音</td><td colspan=\"2\"></td></tr>\n<tr><td>隆隆聲 rumbling（唯一低頻）</td><td>▭ 長方形（均強，位於 mid-diastolic）</td><td>mid-diastolic：MS, TS（較嚴重的，S2 後約 0.05 秒有 opening snap）；Austin Flint prolapse（嚴重的 AR）</td></tr>\n<tr><td>風吹聲 blowing</td><td>◁ 三角形（漸弱，位於 early-diastolic）</td><td>early-diastolic (decrescendo，音量漸弱)：AR, PR (Graham-steell murmur)</td></tr>\n<tr><td class=\"k\">舒張＋收縮期雜音</td><td colspan=\"2\"></td></tr>\n<tr><td>機械聲 machinery</td><td>◇◇ 跨收縮舒張期的連續菱形（漸強漸弱）</td><td>continuous murmur（音量漸強漸弱；像火車過山洞聲音）：PDA</td></tr>\n<tr><td>組合技</td><td>◇（收縮期菱形）＋◁（舒張期漸弱三角形）</td><td>to-and-fro murmur (systolic+diastolic)：AS+AR, PS+PR</td></tr>\n</table>\n<p>另外，歷年常考的 AR sign 整理如下，並提供筆者自己畫的 AR 小人給學弟妹參考（原書為手繪人形示意圖：頭部標示 L/B/D/M、頸胸部標示 C C 與 A（心臟符號）、腹部標示 R、G（三角形內）、雙臂末端標示 Q、Q，雙腿標示 D/T/H；右側附上「AR 小人縮寫對照」文字列表如下）：</p>\n<table class=\"exp-table\">\n<tr><th colspan=\"2\">主動脈瓣逆流 (AR) 12 個常見的 sign</th></tr>\n<tr><td class=\"k\" rowspan=\"9\">脈搏相關</td><td>Landolfi's sign（瞳孔大小隨心搏縮放）</td></tr>\n<tr><td>Becker's sign（眼底鏡可見視網膜小動脈搏動）</td></tr>\n<tr><td>de Musset's sign（每拍心跳會伴隨點頭，像鳥在走路）</td></tr>\n<tr><td>Muller's sign (uvula 搏動)</td></tr>\n<tr><td>Corrigan's pulse (carotid a. 脈搏驟起驟降、急促有力)</td></tr>\n<tr><td>Rosenbach's sign（肝臟搏動）</td></tr>\n<tr><td>Gerhardt's sign (= Sailer's sign，摸到 spleen 搏動)</td></tr>\n<tr><td>Quincke's pulse（按甲床時忽白忽紅）</td></tr>\n<tr><td>Hill's sign (popliteal SBP 比 brachial SBP 高 60 mmHg)</td></tr>\n<tr><td class=\"k\" rowspan=\"3\">聽診相關</td><td>Austin-Flint murmur（心臟舒張中後期低頻 rumbling 雜音）</td></tr>\n<tr><td>Duroziez's sign (femoral a. to-and-fro murmur)</td></tr>\n<tr><td>Traube's sign (femoral a. pistol-shot boom)</td></tr>\n</table>\n<p>AR 小人縮寫對照：1.L: Landolfi's sign　2.B: Becker's sign　3.D: de Musset's sign　4.M: Müller's sign　5.C: Corrigan's pulse　6.A: Austin-Flint murmur　7.R: Rosenbach's sign　8.G: Gerhardt's sign = Sailer's sign　9.Q: Quincke's pulse　10.D: Duroziez's sign　11.T: Traube's sound　12.H: Hill's sign</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "可以記 HOCM、MVP 在不同 MANEUVER 的變化即可；其他大部分心雜音變化相同\n\n| Maneuvers | 變大聲的心雜音 | 變小聲的心雜音 |\n| :--- | :--- | :--- |\n| 增加後負荷 (afterload)：握拳 (Handgrip) | AR、MR、TR、VSD | HOCM、MVP |\n| 增加前負荷 (preload)：快速蹲下 (Squatting)、吸氣 | AS、MS、AR、MR、TR、VSD | HOCM、MVP |\n| 減少後負荷 (afterload)：給 Amyl nitrate | HOCM、MVP | AR、MR、TR、VSD |\n| 減少前負荷 (preload)：吐氣、閉氣用力 (Valsalva)、突然站起 (Standing abruptly) | HOCM、MVP | AS、MS、AR、MR、TR、VSD |\n\n補充：\n描述一個心雜音通常針對幾個面向形容：位置、強度、音調、音量、時間點。\n主要聽診位置：\n* 右上方胸骨旁 (RUSB)，右胸骨旁第二肋間：AS\n* 左上方胸骨旁 (LUSB)，左胸骨旁第二肋間：PS, ASD, PDA\n* 左下方胸骨旁 (LLSB)，左胸骨緣第四肋間：AR, PR, TR, TS, VSD, HOCM\n* 心尖 (apex)，左鎖骨中線第五肋間：MR, MS, Austin Flint murmur\n\n心雜音強度 (Levine Scale)：\n* Grade I (faint murmur)：很難聽診聽到\n* Grade II (soft murmur)：在一般的環境下，聽診器聽診時可以聽到\n* Grade III：在很吵雜的環境下，仍然能夠清楚聽到心雜音\n* Grade IV：除了聽診聽到大而清楚的心雜音之外，用手觸摸可以感受到震動感 (palpable thrill)\n* Grade V：聽診器輕輕觸碰胸壁，就能聽到心雜音\n* Grade VI：聽診器還沒接觸到胸壁，就能聽到心雜音\n\n音調、音量、時間點：\n* 收縮期雜音 (都是高頻 high pitch)\n  * mid-systolic (crescendo-decrescendo，音量漸強再漸弱)：AS, PS, ASD, HOCM\n  * late-systolic (Plateau，均強)：MVP\n  * holo-systolic (Plateau，音量均強)：MR, TR (Carvallo sign：吸氣變大聲), VSD\n* 舒張期雜音\n  * mid-diastolic：MS, TS (較嚴重的，S2 後約 0.05 秒有 opening snap)；Austin Flint prolapse (嚴重的 AR)\n  * early-diastolic (decrescendo，音量漸弱)：AR, PR (Graham-steell murmur)\n* 舒張 + 收縮期雜音\n  * continuous murmur (音量漸強漸弱；像火車過山洞聲音)：PDA\n  * to-and-fro murmur (systolic+diastolic)：AS+AR, PS+PR\n\n另外，歷年常考的 AR sign 整理如下，並提供筆者自己畫的 AR 小人給學弟妹參考：\n\n| 脈搏相關 | sign | 說明 |\n| :--- | :--- | :--- |\n| 脈搏相關 | Landolfi's sign | 瞳孔大小隨心搏縮放 |\n| 脈搏相關 | Becker's sign | 眼底鏡可見視網膜小動脈搏動 |\n| 脈搏相關 | de Musset's sign | 每拍心跳會伴隨點頭，像鳥在走路 |\n| 脈搏相關 | Muller's sign | uvula 搏動 |\n| 脈搏相關 | Corrigan's pulse | carotid a. 脈搏驟起驟降、急促有力 |\n| 脈搏相關 | Rosenbach's sign | 肝臟搏動 |\n| 脈搏相關 | Gerhardt's sign (= Sailer's sign) | 摸到 spleen 搏動 |\n| 脈搏相關 | Quincke's pulse | 按甲床時忽白忽紅 |\n| 脈搏相關 | Hill's sign | popliteal SBP 比 brachial SBP 高 60 mmHg |\n| 聽診相關 | Austin-Flint murmur | 心臟舒張中後期低頻 rumbling 雜音 |\n| 聽診相關 | Duroziez's sign | femoral a. to-and-fro murmur |\n| 聽診相關 | Traube's sign | femoral a. pistol-shot boom |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-11_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-11_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-12",
@@ -21979,9 +21981,11 @@
       "D": "運動時血壓增加30 mmHg是猝死的危險因子"
     },
     "answer": "A",
-    "explanation": "<p>(A) 正確，約 5%。</p>\n<p>(B) 錯誤，會逐漸增厚，成人心室肥厚情形較明顯。</p>\n<p>(C) 錯誤，藥物處理原則是抑制心肌過度生長及負向強心劑；過度脫水會加重左心出口阻塞。</p>\n<p>(D) 錯誤，這樣大家都有ㄟ；應改為血壓在運動中未增加或從峰值「下降」超過 20 mmHg。</p>\n<table class=\"exp-table\">\n<tr><th></th><th>主動脈瓣狹窄 (Aortic stenosis)</th><th>肥厚型心肌症 (hypertrophic cardiomyopathy)</th></tr>\n<tr><td class=\"k\">病因</td><td>退化、先天（雙瓣主動脈瓣）、風濕熱</td><td>肌小節 (sarcomere) 基因突變（體染色顯性遺傳）</td></tr>\n<tr><td class=\"k\">心雜音變化</td><td>回心血流上升（運動／蹲下／抬腳），雜音加劇</td><td>回心血流下降（休息／站立／valsalva），雜音加劇</td></tr>\n<tr><td class=\"k\">心雜音特色</td><td>胸骨右緣高頻尖銳雜音、S2 paradoxical split、Gallavardin effect: 心尖全收縮期雜音</td><td>Brockenbrough-Braunwald sign: 出現心室早期收縮時，左心室收縮壓↑，但主動脈壓↓；胸骨左緣尖銳雜音</td></tr>\n<tr><td class=\"k\">心臟超音波</td><td>瓣膜鈣化、AV 面積小</td><td>左心室壁變厚 (LV wall&gt;15mm)、SAM（僧帽瓣前移導致 LVOTO）</td></tr>\n<tr><td class=\"k\">風險因子</td><td>男性、高齡 (&gt;65 歲)、高血脂、高血壓、抽菸、先天主動脈瓣異常（雙瓣畸形 (BAV)）</td><td>家族史有意外性猝死、無法解釋的暈厥症狀、左室壁 ≥ 30 毫米、左心室動脈瘤、LVEF &lt; 50%、有非持續性心室心律失常 (NSVT*)、血壓在運動中未增加或從峰值下降 ≥ 20 毫米汞柱</td></tr>\n<tr><td class=\"k\">治療</td><td>瓣膜置換手術</td><td>症狀治療、預防猝死和中風：<br>- Mavacamten (cardiac myosin inhibitor)<br>- 負向強心劑 (Negative inotrope)：強心劑的相反<br>- ICD<br>- 換心<br>*過度脫水／DHP-CCB（擴張血管）會加重左心出口阻塞<br>*約有 5% 會進展成擴張型心肌</td></tr>\n</table>\n<p>*NSVT(Non-sustained ventricular tachycardia)：連續三次以上心跳速率超過每分鐘 100 下，且持續時間不超過 30 秒。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，約 5%。\n(B) 錯誤，會逐漸增厚，成人心室肥厚情形較明顯。\n(C) 錯誤，藥物處理原則是抑制心肌過度生長及負向強心劑；過度脫水會加重左心出口阻塞。\n(D) 錯誤，這樣大家都有ㄟ；應改為血壓在運動中未增加或從峰值「下降」超過 20 mmHg。\n\n| 比較項目 | 主動脈瓣狹窄 (Aortic stenosis) | 肥厚型心肌症 (hypertrophic cardiomyopathy) |\n| :--- | :--- | :--- |\n| 病因 | 退化、先天 (雙瓣主動脈瓣)、風濕熱 | 肌小節 (sarcomere) 基因突變 (體染色顯性遺傳) |\n| 心雜音變化 | 回心血流上升 (運動 / 蹲下 / 抬腳)，雜音加劇 | 回心血流下降 (休息 / 站立 / valsalva)，雜音加劇 |\n| 心雜音特色 | 胸骨右緣高頻尖銳雜音、S2 paradoxical split、Gallavardin effect: 心尖全收縮期雜音 | Brockenbrough-Braunwald sign: 出現心室早期收縮時，左心室收縮壓↑，但主動脈壓↓；胸骨左緣尖銳雜音 |\n| 心臟超音波 | 瓣膜鈣化、AV 面積小 | 左心室壁變厚 (LV wall>15mm)、SAM (僧帽瓣前移導致 LVOTO) |\n| 風險因子 | 男性、高齡 (>65 歲)、高血脂、高血壓、抽菸、先天主動脈瓣異常 (雙瓣畸形 (BAV)) | 家族史有意外性猝死、無法解釋的暈厥症狀、左室壁 ≥ 30 毫米、左心室動脈瘤、LVEF < 50%、有非持續性心室心律失常 (NSVT*)、血壓在運動中未增加或從峰值下降 ≥ 20 毫米汞柱 |\n| 治療 | 瓣膜置換手術 | 症狀治療、預防猝死和中風：<br>- Mavacamten (cardiac myosin inhibitor)<br>- 負向強心劑 (Negative inotrope)：強心劑的相反<br>- ICD<br>- 換心<br>* 過度脫水 / DHP-CCB (擴張血管) 會加重左心出口阻塞<br>* 約有 5% 會進展成擴張型心肌 |\n\n*NSVT(Non-sustained ventricular tachycardia): 連續三次以上心跳速率超過每分鐘 100 下，且持續時間不超過 30 秒。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-12_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-12_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-13",
@@ -21996,9 +22000,11 @@
       "D": "兩側上臂的收縮血壓差距，正常應在10 mmHg以內"
     },
     "answer": "C",
-    "explanation": "<p>(A) 周邊動脈疾病 (PAD) 第一線非侵入性診斷方法是測量踝肱血壓比值 ABI (Ankle-Brachial Index)。正常值在 1.1-1.4 間，小於 0.91 被認為有周邊動脈血管疾病，也可見於重度主動脈閉鎖不全病人。</p>\n<p>(B) 正常越遠端的血管收縮壓越高、舒張壓越低（小腿 SBP 比上臂高 20mmHg)。</p>\n<p>(C) 測量血壓時，理想血壓袖帶大小長度為臂周的 80%、寬度為臂周 40%。袖壓帶太小會高估血壓；太大會低估血壓。</p>\n<p>(D) 而正常雙側手臂收縮壓差值在 10mmHg 以內；大於 10mmHg 可能代表動脈粥狀硬化／鎖骨下動脈發炎／主動脈狹窄／主動脈剝離等。</p>\n<p>補充：由近端到遠端的脈壓逐漸增加。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 周邊動脈疾病 (PAD) 第一線非侵入性診斷方法是測量踝肱血壓比值 ABI (Ankle-Brachial Index)。正常值在 1.1-1.4 間，小於 0.91 被認為有周邊動脈血管疾病，也可見於重度主動脈閉鎖不全病人。\n(B) 正常越遠端的血管收縮壓越高、舒張壓越低 (小腿 SBP 比上臂高 20mmHg)。\n(C) 測量血壓時，理想血壓袖帶大小長度為臂周的 80%、寬度為臂周 40%。袖壓帶太小會高估血壓；太大會低估血壓。\n(D) 而正常雙側手臂收縮壓差值在 10mmHg 以內；大於 10mmHg 可能代表動脈粥狀硬化 / 鎖骨下動脈發炎 / 主動脈狹窄 / 主動脈剝離等。\n補充：由近端到遠端的脈壓逐漸增加。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-13_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-13_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-14",
@@ -22013,9 +22019,11 @@
       "D": "對於心室性心律不整的病患，其初始治療以穩定病患的血流動力學為處理目標"
     },
     "answer": "C",
-    "explanation": "<p>(A)、(B)、(D) 正確。</p>\n<p>(C) ICD indication：可降低猝死發生率，但無法降低心衰竭和整體死亡風險。</p>\n<p>• 初級預防：LVEF &lt; 30-35%（心肌梗塞後超過 40 天，再灌注後超過 90 天）、ARVC（右心室心肌病變）、Brugada syndrome、LQTS、嚴重的心肌病變。</p>\n<p>• 二級預防：心室性心律不整 VT/VF 或心因性昏厥（初始治療以穩定血行動力為主）。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)、(B)、(D) 正確。\n(C) ICD indication：可降低猝死發生率，但無法降低心衰竭和整體死亡風險。\n* 初級預防：LVEF < 30-35% (心肌梗塞後超過 40 天，再灌注後超過 90 天)、ARVC (右心室心肌病變)、Brugada syndrome、LQTS、嚴重的心肌病變。\n* 二級預防：心室性心律不整 VT/VF 或心因性昏厥 (初始治療以穩定血行動力學為主)。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-14_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-14_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-15",
@@ -22030,9 +22038,11 @@
       "D": "藥物性肝炎"
     },
     "answer": "C",
-    "explanation": "<p>急遽上升 (&gt;1000)：缺血、藥物、發炎（感染／自體免疫）、肌肉大量壞死（橫紋肌溶解／heat stroke)。</p>\n<p>• 缺血：低血壓、休克／嚴重 HF（通常 &gt;50x)、Budd-Chiari (hepatic vein 阻塞)。<br>註：ALT/LDH &lt;1.5 較偏向缺血（因 LDH 也會高）；ALT/LDH &gt;1.5 偏向藥物／感染（純粹爆肝）。</p>\n<p>• 藥物：acetaminophen、INH、Amiodarone、Nitrofurantoin…。</p>\n<p>• 感染：急性 A~E 肝、EBV、CMV。</p>\n<p>不太高的上升 (&lt;15x)：</p>\n<p>• NAFLD (MAFLD)。</p>\n<p>• 酒精。</p>\n<p>• 感染：A~C 肝、tick-borne、EBV、CMV、COVID-19。</p>\n<p>• 其他肝硬化：血鐵沉積、Wilson disease、α1 antitrypsin 缺乏。</p>\n<p>• 甲狀腺高／低皆會。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "急遽上升 (>1000)：缺血、藥物、發炎 (感染 / 自體免疫)、肌肉大量壞死 (橫紋肌溶解 / heat stroke)。\n* 缺血：低血壓、休克 / 嚴重 HF (通常 >50x)、Budd-Chiari (hepatic vein 阻塞)。\n  註：ALT/LDH <1.5 較偏向缺血 (因 LDH 也會高)；ALT/LDH >1.5 偏向藥物 / 感染 (純粹爆肝)。\n* 藥物：acetaminophen、INH、Amiodarone、Nitrofurantoin...。\n* 感染：急性 A~E 肝、EBV、CMV。\n\n不太高的上升 (<15x)：\n* NAFLD (MAFLD)。\n* 酒精。\n* 感染：A~C 肝、tick-borne、EBV、CMV、COVID-19。\n* 其他肝硬化：血鐵沉積、Wilson disease、α1 antitrypsin 缺乏。\n* 甲狀腺高 / 低皆會。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-15_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-15_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-16",
@@ -22047,9 +22057,11 @@
       "D": "當使用5-ASA類藥物（如sulfasalazine）、類固醇藥物或是免疫抑制劑（如azathioprine、6-MP、cyclosporine、tacrolimus），治療無效時，下一步選擇為手術治療"
     },
     "answer": "D",
-    "explanation": "<p>IBD 比較</p>\n<table class=\"exp-table\">\n<tr><th></th><th>潰瘍性大腸炎 (Ulcerative colitis, UC)</th><th>克隆氏症 (Crohn's disease, CD)</th></tr>\n<tr><td class=\"k\">流病</td><td>種族：猶太人 &gt; 白人 &gt; 黑人 &gt; 亞洲人<br>年齡：雙峰分布 (20-40 歲、70-90 歲)</td><td>種族：猶太人 &gt; 白人 &gt; 黑人 &gt; 亞洲人<br>年齡：雙峰分布 (20-40 歲、70-90 歲)</td></tr>\n<tr><td class=\"k\">風險因子</td><td>—</td><td>女性、抽菸、口服避孕藥</td></tr>\n<tr><td class=\"k\"></td><td colspan=\"2\">（共同）高社經地位、&lt;1 歲時用抗生素、使用 NSAIDs</td></tr>\n<tr><td class=\"k\">保護因子</td><td>抽菸、切除闌尾</td><td>哺乳</td></tr>\n<tr><td class=\"k\">影響腸段</td><td>僅大腸到直腸腸道內膜 proctitis &gt; L-sided</td><td>全腸道腸道全層，但常有 rectal sparing，ileocolonic 最多</td></tr>\n<tr><td class=\"k\">內視鏡下病灶型態</td><td>瀰漫、不規則潰瘍 pseudo-polyps</td><td>局部一塊一塊 cobblestone appearance</td></tr>\n<tr><td class=\"k\">病理特徵</td><td>Chronic inflammation with crypt abscesses</td><td>noncaseating granuloma</td></tr>\n<tr><td class=\"k\">症狀</td><td>血便、黏液便</td><td>腹痛、腫塊<br>鵝卵石、線性潰瘍<br>嘴巴有口瘡性潰瘍</td></tr>\n<tr><td class=\"k\">生化</td><td colspan=\"2\">⊕ fecal calprotectin</td></tr>\n<tr><td class=\"k\" rowspan=\"2\">併發症</td><td>自體免疫共病：AIH、PSC (1-4% 的 UC 有)、關節炎、uveitis、episcleritis</td><td>IBD-associated arthritis、PBC</td></tr>\n<tr><td>其他腸道外問題：erythema nodosum、pyoderma gangrenosum</td><td>吸收不良（膽結石、腎結石）、骨質減少、肛門潰瘍／瘻管</td></tr>\n<tr><td class=\"k\">癌化機率</td><td>癌化機率較高</td><td>腸道狹窄、瘻管</td></tr>\n<tr><td class=\"k\">手術</td><td>可治癒</td><td>無法改善預後、只處理併發症（狹窄／瘻管）</td></tr>\n</table>\n<p>本題題幹所述為克隆氏症。(A)(B)(C) 正確。</p>\n<p>(D) 下一步應嘗試生物製劑（如：anti-TNF-alpha），手術無法根治克隆氏症，腸吻合處也容易復發，故通常會留給最嚴重之疾病或處理併發症時使用。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "IBD 比較\n\n| 比較項目 | 潰瘍性大腸炎 (Ulcerative colitis, UC) | 克隆氏症 (Crohn's disease, CD) |\n| :--- | :--- | :--- |\n| 流病 | 種族：猶太人 > 白人 > 黑人 > 亞洲人<br>年齡：雙峰分布 (20-40 歲、70-90 歲) | 種族：猶太人 > 白人 > 黑人 > 亞洲人<br>年齡：雙峰分布 (20-40 歲、70-90 歲) |\n| 風險因子 | — | 女性、抽菸、口服避孕藥 |\n| 共同風險因子 | (共同) 高社經地位、<1 歲時用抗生素、使用 NSAIDs | (共同) 高社經地位、<1 歲時用抗生素、使用 NSAIDs |\n| 保護因子 | 抽菸、切除闌尾 | 哺乳 |\n| 影響腸段 | 僅大腸到直腸腸道內膜<br>proctitis > L-sided | 全腸道腸道全層<br>但常有 rectal sparing<br>ileocolonic 最多 |\n| 內視鏡下病灶型態 | 瀰漫、不規則潰瘍<br>pseudo-polyps | 局部一塊一塊 cobblestone appearance |\n| 病理特徵 | Chronic inflammation with crypt abscesses | noncaseating granuloma |\n| 症狀 | 血便、黏液便 | 腹痛、種塊、鵝卵石、線性潰瘍、嘴巴有口瘡性潰瘍 |\n| 生化 | ⊕ fecal calprotectin | ⊕ fecal calprotectin |\n| 併發症 自體免疫共病 | AIH、PSC (1~4% 的 UC 有)、關節炎、uveitis、episcleritis | IBD-associated arthritis、PBC |\n| 併發症 其他腸道外問題 | erythema nodosum、pyoderma gangrenosum | 吸收不良 (膽結石、腎結石)、骨質減少、肛門潰瘍 / 廔管 |\n| 癌化機率 | 癌化機率較高 | 腸道狹窄、廔管 |\n| 手術 | 可治癒 | 無法改善預後、只處理併發症 (狹窄 / 廔管) |\n\n本題題幹所述為克隆氏症。(A)(B)(C) 正確。\n(D) 下一步應嘗試生物製劑 (如：anti-TNF-alpha)，手術無法根治克隆氏症，腸吻合處也容易復發，故通常會留給最嚴重之疾病或處理併發症時使用。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-16_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-16_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-17",
@@ -22064,9 +22076,11 @@
       "D": "病人由於胃食道逆流使用氫離子幫浦抑制劑（proton pump inhibitor）停藥後可能產生反彈性胃酸過度分泌"
     },
     "answer": "B",
-    "explanation": "<p>胃潰瘍的治療如下：</p>\n<p>• 制酸劑（弱酸）酸鹼中和：Mg(OH)<sub>2</sub>, Al(OH)<sub>3</sub>, CaCO<sub>3</sub>, NaHCO<sub>3</sub></p>\n<p>• 抑制胃酸分泌：<br>\n(1) PPI：以共價鍵不可逆結合在 H<sup>+</sup>/K<sup>+</sup>-ATPase 上；停藥後可能產生反彈性胃酸過度分泌。（按強度排列）：rabeprazole (pariet) &gt; esomeprazole (Nexium) &gt; omeprazole (omezol) &gt; lansoprazole (takepron) &gt; pantoprazole (pantoloc)。<br>\n(2) H<sub>2</sub> blocker (-tidine)：作用在胃的壁細胞上 →(B) 錯誤。Famotidine, Cimetidine, Ranitidine, Nizatidine。<br>\n(3) M1/3 blocker: Pirenzepine（抗 M1), Propantheline（抗 M1+M3)。<br>\n(4) gastrin R inhibitor: Proglumide。<br>\n(5) PGE1 analog: Misoprostol。</p>\n<p>• 增加黏膜保護：Misoprostol, bismuth, sucralfate（不可和 PPI 併用）。</p>\n<p>• 抗生素：amoxicillin, clarithromycin。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "胃潰瘍的治療如下：\n* 制酸劑 (弱鹼) 酸鹼中和：Mg(OH)2, Al(OH)3, CaCO3, NaHCO3\n* 抑制胃酸分泌：\n  (1) PPI：以共價鍵不可逆結合在 H+/K+-ATPase 上；停藥後可能產生反彈性胃酸過度分泌。\n  (按強度排列)：rabeprazole (pariet) > esomeprazole (Nexium) > omeprazole (omezol) > lansoprazole (takepron) > pantoprazole (pantoloc)。\n  (2) H2 blocker (-tidine)：作用在胃的壁細胞上 -> (B) 錯誤。\n  Famotidine, Cimetidine, Ranitidine, Nizatidine。\n  (3) M1/3 blocker: Pirenzepine (抗 M1), Propantheline (抗 M1+M3)。\n  (4) gastrin R inhibitor: Proglumide。\n  (5) PGE1 analog: Misoprostol。\n* 增加黏膜保護：Misoprostol, bismuth, sucralfate (不可和 PPI 併用)。\n* 抗生素：amoxicillin, clarithromycin。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-17_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-17_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-18",
@@ -22081,9 +22095,11 @@
       "D": "病人接受內視鏡檢查，若發現有正在出血之潰瘍或潰瘍處可見血管，則內視鏡止血術可降低病人之再出血、住院天數及死亡率"
     },
     "answer": "C",
-    "explanation": "<p>(A)、(B) 正確；(D) 檢查時機：上消化道出血於 24 小時內 EGD；下消化道出血於 96 小時 (4 天) 內 colonoscopy。</p>\n<p>(C) 急性出血的患者由於血管內容積下降，啟動 RAAS 使腎臟回收的水增加，血液因而被稀釋產生貧血。在出血的當下馬上抽血，紅血球幾乎不會有改變。另外，血色素除了檢查是否為正常值外，也要記得和平時的基本值比較才有意義。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)、(B) 正確；(D) 檢查時機：上消化道出血於 24 小時內 EGD；下消化道出血於 96 小時 (4 天) 內 colonoscopy。\n(C) 急性出血的患者由於血管內容積下降，啟動 RAAS 使腎臟回收的水增加，血液因而被稀釋產生貧血。在出血的當下馬上抽血，血紅素幾乎不會有改變。另外，血色紊除了檢查是否在正常值外，也要記得和平時的基本值比較才有意義。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-18_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-18_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-19",
@@ -22098,9 +22114,11 @@
       "D": "分泌型腹瀉（secretory diarrhea）在禁食24小時後腹瀉會減輕"
     },
     "answer": "A",
-    "explanation": "<p>(A) 十二指腸吸收鈣、磷、鎂、二價鐵等離子，以及脂溶性維生素、維生素 B9 等。</p>\n<p>(B) 膽酸主要於迴腸吸收。</p>\n<p>(C) 維生素 A、D、E、K 為脂溶性維生素。</p>\n<p>(D) 分泌型腹瀉是唯一 NPO 不會改善的腹瀉。以下整理慢性腹瀉 (&gt;4 週) 的比較：</p>\n<table class=\"exp-table\">\n<tr><th></th><th>滲透型</th><th>分泌型</th><th>吸收不良型</th><th>消化不良型</th></tr>\n<tr><td class=\"k\">糞便性質</td><td>水便</td><td>水便</td><td>油便</td><td>油便</td></tr>\n<tr><td class=\"k\">機轉</td><td>高滲透壓食糜使腸液大量分泌</td><td>鉀排出增加、鈉吸收減少</td><td>多種機轉</td><td>消化酵素異常</td></tr>\n<tr><td class=\"k\">滲透壓高低</td><td>高</td><td>正常</td><td>高</td><td>高</td></tr>\n<tr><td class=\"k\">NPO 後改善</td><td>有</td><td>無</td><td>有</td><td>有</td></tr>\n<tr><td class=\"k\">病因</td><td>瀉藥（鎂／磷／硫）、乳糖不耐症、難消化醣（糞便 pH&lt;6)</td><td>感染為主，其他與內分泌／腫瘤／蠕動變快有關</td><td>Celiac disease、Whipple's disease、細菌增生 (SIBO)</td><td>膽／胰功能不佳</td></tr>\n</table>\n<p>消化道各段吸收的物質，可參考【113-1(五)7】。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 十二指腸吸收鈣、磷、鎂、二價鐵等離子，以及脂溶性維生素、維生素 B9 等。\n(B) 膽酸主要於迴腸吸收。\n(C) 維生素 A、D、E、K 為脂溶性維生素。\n(D) 分泌型腹瀉是唯一 NPO 不會改善的腹瀉。以下整理慢性腹瀉 (>4 週) 的比較：\n\n| 比較項目 | 滲透型 | 分泌型 | 吸收不良型 | 消化不良型 |\n| :--- | :--- | :--- | :--- | :--- |\n| 糞便性質 | 水便 | 水便 | 油便 | 油便 |\n| 機轉 | 高滲透壓食糜使腸液大量分泌 | 鉀排出增加、鈉吸收減少 | 多種機轉 | 消化酵素異常 |\n| 滲透壓高低 | 高 | 正常 | 高 | 高 |\n| NPO 後改善 | 有 | 無 | 有 | 有 |\n| 病因 | 瀉藥 (鎂 / 硫 / 磷)<br>乳糖不耐症<br>難消化醣 (糞便 pH<6) | 感染為主，其他與內分泌 / 腫瘤 / 蠕動變快有關 | Celiac disease<br>Whipple's disease<br>細菌增生 (SIBO) | 膽 / 胰功能不佳 |\n\n消化道各段吸收的物質，可參考【113-1(五)7】。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-19_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-19_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-20",
@@ -22115,9 +22133,11 @@
       "D": "乙狀結腸扭轉引發之大腸阻塞可以內視鏡置放引流管減壓（decompression）"
     },
     "answer": "C",
-    "explanation": "<p>• 小腸阻塞（術後沾黏 &gt; 腫瘤 &gt; 腸套疊 &gt; 扭轉 &gt; 疝氣）：較大腸阻塞更常見 (80%)，其中 1/3 會有嚴重缺血。</p>\n<p>• 大腸阻塞（癌症 &gt; 憩室 &gt; 扭轉）。</p>\n<p>• 扭轉好發於乙狀結腸，可以如 (D) 先減壓，但要注意若是盲腸扭轉則必須要手術。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "* 小腸阻塞 (術後沾黏 > 腫瘤 > 腸套疊 / 扭轉 > 疝氣)：較大腸阻塞更常見 (80%)，其中 1/3 會有嚴重缺血。\n* 大腸阻塞 (癌症 > 憩室 > 扭轉)。\n* 扭轉好發於乙狀結腸，可以如 (D) 先減壓，但要注意若是盲腸扭轉則必須要手術。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-20_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-20_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-21",
@@ -22132,9 +22152,11 @@
       "D": "慢性C型肝炎病人併有肝硬化，有一顆4公分的肝腫瘤，在電腦斷層動脈相中無影像增強（no arterialenhancement），在靜脈相中為呈現影像強度降低（hypodense）"
     },
     "answer": "B",
-    "explanation": "<p>肝細胞癌診斷的兩大途徑為：</p>\n<p>• 高風險（肝硬化或慢性 B 肝）病人：適用影像學 LI-RADS Criteria。</p>\n<p>• 3-phase contrast CT 或 MRI：有 1 顆腫瘤 &gt;2cm，或 2 顆腫瘤 &gt;1cm，且有 arterial enhancement + early venous washout 即可診斷。其餘病人若有懷疑 HCC，要做切片。</p>\n<p>(B) 正確。</p>\n<p>(A)(C)(D) 都不符合高風險病人，不適用 LI-RADS Criteria。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "肝細胞癌診斷的兩大途徑為：\n* 高風險 (肝硬化或慢性 B 肝) 病人：適用影像學 LI-RADS Criteria。\n* 3-phase contrast CT 或 MRI：有 1 顆腫瘤 >2cm，或 2 顆腫瘤 >1cm，且有 arterial enhancement + early venous washout 即可診斷。其餘病人若有懷疑 HCC，要做切片。\n(B) 正確。\n(A)(C)(D) 都不符合高風險病人，不適用 LI-RADS Criteria。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-21_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-21_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-22",
@@ -22149,9 +22171,11 @@
       "D": "接受免疫抑制劑治療的患者"
     },
     "answer": "B",
-    "explanation": "<p>B 肝傳播途徑為：血液、性接觸、垂直傳染。</p>\n<p>高暴露危險的族群、建議篩檢的族群包含：</p>\n<p>• 醫療工作者。</p>\n<p>• 靜脈藥物使用者。</p>\n<p>• 多重性伴侶者。</p>\n<p>• 男男性行為者 (men who have sex with men, MSM)。</p>\n<p>• 和慢性 B 肝患者有性行為者或有家戶接觸者。</p>\n<p>• 居住或將前往流行區。</p>\n<p>• 孕婦，建議在第一孕期即篩檢。</p>\n<p>• 新生兒。</p>\n<p>• HIV 患者。</p>\n<p>• 慢性肝病患者（如：HCV 患者）或肝指數升高者。</p>\n<p>• 即將或正在接受免疫抑制劑治療者。</p>\n<p>(A)(C)(D) 皆正確。(B) 錯誤。高風險族群是男男性行為者 (men who have sex with men, MSM)，而非女女性行為者 (women who have sex with women, WSW)。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "B 肝傳播途徑為：血液、性接觸、垂直傳染。\n高暴露危險的族群、建議篩檢的族群包含：\n* 醫療工作者。\n* 靜脈藥物使用者。\n* 多重性伴侶者。\n* 男男性行為者 (men who have sex with men, MSM)。\n* 和慢性 B 肝患者有性行為者或有家戶接觸者。\n* 居住或將前往流行區。\n* 孕婦，建議在第一孕期即篩檢。\n* 新生兒。\n* HIV 患者。\n* 慢性肝病患者 (如：HCV 患者) 或肝指數升高者。\n* 即將或正在接受免疫抑制劑治療者。\n\n(A)(C)(D) 皆正確。\n(B) 錯誤。高風險族群是男男性行為者 (men who have sex with men, MSM)，而非女女性行為者 (women who have sex with women, WSW)。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-22_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-22_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-23",
@@ -22166,9 +22190,11 @@
       "D": "每天intravenous normal saline 2 L，每天補充鈉離子4 g"
     },
     "answer": "B",
-    "explanation": "<p>• 大量腹水引流 (LVP, &gt;5L)，每引流 1 公升補 6~8g 白蛋白。有腹膜感染時 (SBP) 避免 LVP，會增加 AKI 風險。</p>\n<p>• 限鈉＋利尿劑：每天攝取 1~2g 的鈉配合 spironolactone + furosemide 以 5:2 比例給藥；若低血鈉則要進一步限水。</p>\n<p>• 肝硬化病人避免使用 ACEi/ARB/NSAIDs，因為會干擾利尿作用。</p>\n<p>• 5~10% 病人會持續腹水：用上最強的利尿劑體重仍不變，利尿劑引起併發症 (Na&lt;125, K↑,併發腦病變)，考慮換肝或做 TIPS 等待肝。TIPS 可以顯著改善腹水、增加 CrCl，但會增加腦病變機率 → 對整體存活率沒有幫助。</p>\n<p>故本題只有 (B) 符合上述處置。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "* 大量腹水引流 (LVP, >5L)，每引流 1 公升補 6~8g 白蛋白。有腹膜感染時 (SBP) 避免 LVP，會增加 AKI 風險。\n* 限鈉 + 利尿劑：每天攝取 1~2g 的鈉配合 spironolactone + furosemide 以 5 : 2 比例給藥；若低血鈉則要進一步限水。\n* 肝硬化病人避免使用 ACEi/ARB/NSAIDs，因為會干擾利尿劑作用。\n* 5~10% 病人會持續腹水：用上最強的利尿劑體重仍不變、利尿劑引起併發症 (Na<125, K ↑，併發腦病變)，考慮換肝或做 TIPS 等待肝。TIPS 可以顯著改善腹水、增加 CrCl，但會增加腦病變機率 -> 對整體存活率沒有幫助。\n故本題只有 (B) 符合上述處置。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-23_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-23_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-24",
@@ -22183,9 +22209,11 @@
       "D": "雙腔隧道式導管（double lumen tunneled catheter）"
     },
     "answer": "A",
-    "explanation": "<p>預先建立的話選擇能用最久的動靜脈瘻管，過渡期才考慮導管。</p>\n<table class=\"exp-table\">\n<tr><th></th><th>血液透析 (HD)</th><th>連續性靜脈對靜脈血液過濾術 (CVVH)</th><th>腹膜透析 (PD)</th></tr>\n<tr><td class=\"k\">機轉</td><td>擴散 (diffusion)</td><td>對流 (convection)</td><td>擴散 (diffusion)</td></tr>\n<tr><td class=\"k\">途徑</td><td>• 自體動靜脈瘻管 (AV fistula)：開通後可以使用最久，但熟成時間最長。（需要 2-6 個月才能開始使用）<br>• 人工動靜脈瘻管 (AV graft)：熟成時間介於 AVF 和導管之間；最容易形成血栓。<br>• 導管 (catheter)：創建後可立即使用、用於橋接自體／人工動靜脈瘻管過渡期；最易產生感染、洗腎效率最差。</td><td>中央靜脈導管</td><td>腹膜透析管</td></tr>\n</table>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "預先建立的話選擇能用最久的動靜脈廔管，過渡期才考慮導管。\n\n| 項目 | 血液透析 (HD) | 連續性靜脈對靜脈血液過濾術 (CVVH) | 腹膜透析 (PD) |\n| :--- | :--- | :--- | :--- |\n| 機轉 | 擴散 (diffusion) | 對流 (convection) | 擴散 (diffusion) |\n| 途徑 | • 自體動靜脈廔管 (AV fistula)：開通後可以使用最久，但熟成時間最長。(需養 2-6 個月才能開始使用)<br>• 人工動靜脈廔管 (AV graft)：熟成時間介於 AVF 和導管之間；最容易形成血栓。<br>• 導管 (catheter)：創建後可立即使用、用於橋接自體 / 人工動靜脈廔管過渡期；最易產生感染、洗腎效率最差。 | 中央靜脈導管 | 腹膜透析管 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-24_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-24_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-25",
@@ -22200,9 +22228,11 @@
       "D": "類固醇治療可加速腎功能恢復，並改善長期腎臟存活"
     },
     "answer": "D",
-    "explanation": "<p>(D) 錯誤。可能造成 AIN 的原因很多，其中最常見的是因藥物引起的 Allergic interstitial nephritis，此類患者使用類固醇可以加速腎臟恢復，但對於長期的腎臟存活沒有影響。</p>\n<table class=\"exp-table\">\n<tr><th colspan=\"2\">急性間質性腎炎 (acute interstitial nephritis)</th></tr>\n<tr><td class=\"k\">病因</td><td>• 藥物過敏 (Allergic interstitial nephritis)：抗生素、NSAIDs、利尿劑、抗癲癇藥物、PPI、H2 blockers、Captopril、Allopurinol 等<br>• 感染：細菌 (Streptococcus、Staphylococcus、Legionella、Salmonella)、病毒 (EBV、CMV、Hantavirus、Polyomavirus、HIV)<br>• 自體免疫：Tubulointerstitial nephritis with uveitis (TINU)、Sjogren's syndrome、SLE、IgG4-related systemic disease、Tubulointerstitial disease related to checkpoint inhibitor<br>• 急性阻塞性疾病：Light chain cast nephropathy、Acute phosphate nephropathy、Acute urate nephropathy</td></tr>\n<tr><td class=\"k\">症狀</td><td>大多以無症狀的 Serum creatinine 升高 (AKI，有時候會沒有尿）或異常的尿液檢查表現。<br>• 過敏 Triad：紅疹、發燒、嗜伊紅性白血球增加（只在少於 33% 的 AIN 病人出現；抗生素引起的比較常見，NSAIDs 比較少見），通常在用藥後 7-10 天後出現。<br>• 腎衰竭 (Renal failure)：需數天至數週後才出現，進展方式符合 Primary immune response（身體初次接觸抗原產生的免疫反應）</td></tr>\n<tr><td class=\"k\">檢查</td><td>詳細的問診通常可以得到診斷。<br>• Serum creatinine 增加：通常是第一個出現異常的檢查項目。<br>• 尿液檢查：鏡檢可見 RBC、WBC、WBC casts（如果看到 RBC WBC casts 要懷疑腎絲球相關的疾病而非 AIN)、尿裡的嗜伊紅性白血球（不太準）、輕微至中等尿蛋白（蛋白尿 &lt;3g/24hr，通常 &lt;1 g/24hr，如果沒有合併其他腎絲球疾病的話幾乎不可能到 Nephrotic range)。<br>• Fractional excretion of sodium(FENa)&gt;1</td></tr>\n<tr><td class=\"k\">處置</td><td>先把可能致病的藥物停掉後觀察有沒有改善。若一週內沒改善或疾病快速進展，如果症狀為典型 Allergic AIN 考慮給類固醇，若不典型則考慮腎臟切片：<br>• 腎臟切片為典型 AIN、自體免疫相關 AIN：考慮給類固醇甚至是免疫抑制劑。<br>• 腎臟切片為纖維化：保守治療。</td></tr>\n<tr><td class=\"k\">類固醇、免疫抑制劑的適應症</td><td>絕對適應症：Sjogren's syndrome、類肉瘤、SLE interstitial nephritis、成人 TINU、IgG4-related disease、Idiopathic interstitial nephritis。<br>相對適應症：藥物引起的 AIN 伴隨快速進展的腎衰竭／切片看到廣泛浸潤／需要透析／恢復慢、小孩 TINU。</td></tr>\n</table>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(D) 錯誤。可能造成 AIN 的原因很多，其中最常見的是因藥物引起的 Allergic interstitial nephritis，此類患者使用類固醇可能可以加速腎臟恢復，但對於長期的腎臟存活沒有影響。\n\n| 項目 | 急性間質性腎炎 (acute interstitial nephritis) |\n| :--- | :--- |\n| 病因 | • 藥物過敏 (Allergic interstitial nephritis)：抗生素、NSAIDs、利尿劑、抗癲癇藥物、PPI、H2 blockers、Captopril、Allopurinol 等。<br>• 感染：細菌 (Streptococcus、Staphylococcus、Legionella、Salmonella)、病毒 (EBV、CMV、Hantavirus、Polyomavirus、HIV)。<br>• 自體免疫：Tubolointerstitial nephritis with uveitis (TINU)、Sjogren's syndrome、SLE、IgG4-related systemic disease、Tubolointerstitial disease related to checkpoint inhibitor。<br>• 急性阻塞性疾病：Light chain cast nephropathy、Acute phosphate nephropathy、Acute urate nephropathy。 |\n| 症狀 | 大多以無症狀的 Serum creatinine 升高 (AKI，有時候會沒有尿) 或異常的尿液檢查表現。<br>• 過敏 Triad：紅疹、發燒、嗜伊紅性白血球增加 (只在少於 33% 的 AIN 病人出現；抗生素引起的比較常見，NSAIDs 比較少見)，通常在用藥後 7-10 天後出現。<br>• 腎衰竭 (Renal failure)：需數天至數週後才出現，進展方式符合 Primary immune response (身體初次接觸抗原產生的免疫反應) |\n| 檢查 | 詳細的問診通常可以得到診斷。<br>• Serum creatinine 增加：通常是第一個出現異常的檢查項目。<br>• 尿液檢查：鏡檢可見 RBC、WBC、WBC casts (如果看到 RBC casts 要懷疑腎絲球相關的疾病而非 AIN)、尿裡的嗜伊紅性白血球 (不太準)、輕微至中等血尿與蛋白尿 (蛋白尿 < 3g/24hr，通常 <1 g/24hr，如果沒有合併其他腎絲球疾病的話幾乎不可能到 Nephrotic range)<br>• Fractional excretion of sodium (FeNa)>1 |\n| 處置 | 先把可能致病的藥物停掉然後觀察有沒有改善。<br>若一週內沒改善或疾病快速進展，如果症狀為典型 Allergic AIN 考慮給類固醇，若不典型則考慮腎臟切片：<br>• 腎臟切片為典型 AIN、自體免疫相關 AIN：考慮給類固醇甚至是免疫抑制劑。<br>• 腎臟切片為纖維化：保守治療。 |\n| 類固醇、免疫抑制劑的適應症 | 絕對適應症：Sjogren's syndrome、類肉瘤、SLE interstitial nephritis、成人 TINU、IgG4-related disease、Idiopathic interstitial nephritis。<br>相對適應症：藥物引起的 AIN 伴隨快速進展的腎衰竭 / 切片看到廣泛浸潤 / 需要透析 / 恢復慢、小孩 TINU。 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-25_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-25_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-26",
@@ -22217,9 +22247,11 @@
       "D": "積極控制血壓可減緩腎功能惡化的速度"
     },
     "answer": "C",
-    "explanation": "<p>這題是從教科書上翻譯下來的題目。</p>\n<p>(C) 此選項錯在腎臟是不對稱變小（考這個實在不講武德）。</p>\n<p>Reflux nephropathy 是孩童時期的 Vesicoureteral reflux (VUR) 或其他泌尿道異常而逆流導致的結果，通常是到成人時期做尿液檢查或懷孕時做檢查發現 CKD 時才發現。致病機轉是尿液逆流導致腎臟高壓再加上反覆泌尿道感染，導致間質結疤 (Interstitial scarring)、腎小管萎縮 (Tubular atrophy)，有功能的腎元數量減少使得剩下的腎元代償而肥厚，最終會導致 Secondary FSGS。病人孩童時期常會有尿床或反覆泌尿道感染的病史，且可能伴隨不同程度的高血壓、輕微至中度的蛋白尿，尿液沉渣通常沒什麼異常。當雙側腎臟都受影響時，數年內會進展至 ESRD。腎臟超音波呈現不對稱變小、輪廓不規則、Cortex 變薄以及部分代償性肥厚。治療透過使用 ACEi 或 ARB 嚴格控制血壓，可以有效防止腎功能進一步惡化。輸尿管重建手術在有高度逆流的小孩可以做（青少年或成人不建議做），但對於已經發生的 Scarring 沒有治療效果。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這題是從教科書上翻譯下來的題目。\n(C) 此選項錯在腎臟是不對稱變小 (考這個實在不講武德)。\nReflux nephropathy 是孩童時期的 Vesicoureteral reflux (VUR) 或其他泌尿道異常而逆流導致的結果，通常是到成人時期做尿液檢查或懷孕時做檢查驗出 CKD 時才發現。致病機轉是尿液逆流導致腎臟高壓再加上反覆泌尿道感染，導致間質結疤 (Interstitial scarring)、腎小管萎縮 (Tubular atrophy)，有功能的腎元數量減少使得剩下的腎元代謝而肥厚，最終會導致 Secondary FSGS。病人孩童時期常會有尿床或反覆泌尿道感染的病史，且可能伴隨不同程度的高血壓、輕微至中度的蛋白尿，尿液沉渣通常沒什麼異常。當雙側腎臟都受影響時，數年內會進展至 ESRD。腎臟超音波呈現不對稱變小、輪廓不規則、Cortex 變薄以及部分代償性肥厚。治療透過使用 ACEi 或 ARB 嚴格控制血壓，可以有效防止腎功能進一步惡化。輸尿管重建手術在有高度逆流的小孩可以做 (青少年或成人不建議做)，但對於已經發生的 Scarring 沒有治療效果。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-26_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-26_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-27",
@@ -22234,9 +22266,11 @@
       "D": "presence of acquired nephrogenic diabetes insipidus"
     },
     "answer": "B",
-    "explanation": "<p>此題來自 Harrison 裡 Urinary tract obstruction 章節（甚至都不翻譯了）。</p>\n<p>(A) 當病人有急性腎衰竭或損傷且沒有尿時，應該要懷疑雙側尿路完全阻塞。（其實任何病人有 AKI 且不知道原因時，都應該要先把尿路阻塞這個原因排除）。</p>\n<p>(B) Postural hypotension 代表體液可能不足，比較有可能的診斷是 Prerenal AKI，故鑑別診斷比較不會先想到屬於 Postrenal AKI 的雙側尿路阻塞。</p>\n<p>(C) 而當尿液排泄功能下降時，血中的 BUN 就會上升，導致氮血症 (Azotemia)。Ammonium (NH4+) 的排出對於酸排泄很重要，加上在雙側尿路部分阻塞時，集尿管 (Collecting duct) 的 Intercalated cell 上的 H+-ATPase 會被影響，導致無法正常排出氫離子，而引起代謝性酸血症。另外，Principal cells 上的 ENaC 功能也會下降，導致 Na+ 回收減少，進而減少 K+ 分泌，因此引起高血鉀。</p>\n<p>(D) 集尿管上的 Aquaporin-2 水通道調控在雙側尿路部分阻塞時會失常，引起 Acquired nephrogenic DI（給予 Vasopressin 不會改善）。</p>\n<p>以下為雙側尿路阻塞的病生理學與臨床症狀：</p>\n<table class=\"exp-table\">\n<tr><th></th><th>血液動力學影響</th><th>腎小管影響</th><th>臨床表現</th></tr>\n<tr><td class=\"k\">急性</td><td>腎臟血流↓<br>GFR↓<br>髓質血流↑<br>血管擴張物質↑ (Vasodilator prostaglandins、NO)</td><td>輸尿管、腎小管壓力↑<br>Na+、Urea、水回收↑</td><td>疼痛（腎臟變大拉扯到旁邊的包膜）<br>氮血症 (Azotemia)、少尿或無尿</td></tr>\n<tr><td class=\"k\">慢性</td><td>腎臟血流↓↓<br>GFR↓↓<br>血管收縮物質↑ (Vasoconstrictor prostaglandins、Renin-angiotensin 製造↑)</td><td>髓質滲透壓↓<br>尿液濃縮能力↓<br>腎臟結構被破壞、萎縮<br>運輸 Na+、K+、H+ 的功能↓</td><td>氮血症<br>高血壓<br>腎因性尿崩症 Natriuresis<br>高血鉀高血氯性酸血症</td></tr>\n</table>\n<p>參考資料：Harrison's Principles of Internal Medicine 21st edition p2374 Table 319-2</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題來自 Harrison 裡 Urinary tract obstruction 章節 (甚至都不翻譯了)。\n(A) 當病人有急性腎衰竭或損傷且沒有尿時，應該要懷疑雙側尿路完全阻塞。(其實任何病人有 AKI 且不知道原因時，都應該要先把尿路阻塞這個原因排除)。\n(B) Postural hypotension 代表體液可能不足，比較有可能的診斷是 Prerenal AKI，故鑑別診斷比較不會先想到屬於 Postrenal AKI 的雙側尿路阻塞。\n(C) 而當尿液排泄功能下降時，血中的 BUN 就會上升，導致氮血症 (Azotemia)。Ammonium (NH4+) 的排出對於酸排泄很重要，加上在雙側尿路部分阻塞時，集尿管 (Collecting duct) 的 Intercalated cell 上的 H+-ATPase 會被影響，導致無法正常排出氫離子，而引起代謝性酸血症。另外，Principal cells 上的 ENaC 功能也會下降，導致 Na+ 回收減少，進而減少 K+ 分泌，因此引起高血鉀。\n(D) 集尿管上的 Aquaporin-2 水通道調控在雙側尿路部分阻塞時會失常，引起 Acquired nephrogenic DI (給予 Vasopressin 不會改善)。\n\n以下為雙側尿路阻塞的病生理學與臨床症狀：\n\n| 阻塞類型 | 血液動力學影響 | 腎小管影響 | 臨床表現 |\n| :--- | :--- | :--- | :--- |\n| 急性 | 腎臟血流 ↑<br>GFR ↓<br>髓質血流 ↓<br>血管擴張物質 ↑ (Vasodilator prostaglandins、NO) | 輸尿管、腎小管壓力 ↑<br>Na+、Urea、水回收 ↑ | 疼痛 (腎臟變大拉扯到旁邊的包膜)<br>氮血症 (Azotemia)、少尿或無尿 |\n| 慢性 | 腎臟血流 ↓<br>GFR ↓↓<br>血管收縮物質 ↑ (Vasoconstrictor prostaglandins)<br>Renin-angiotensin 製造 ↑ | 髓質滲透壓 ↓<br>尿液濃縮能力 ↓<br>腎臟結構被破壞、萎縮<br>運輸 Na+、K+、H+ 的功能 ↓ | 氮血症<br>高血壓<br>腎因性尿崩症 Natriuresis<br>高血鉀高血氯性酸血症 |\n\n參考資料：Harrison's Principles of Internal Medicine 21st edition p2374 Table 319-2",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-27_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-27_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-28",
@@ -22251,9 +22285,11 @@
       "D": "global endocapillary proliferation, crescent formation"
     },
     "answer": "B",
-    "explanation": "<p>主要在考 Lupus nephritis 的六個 Class，(A) 是 Class IV，(B) Focal segmental glomerulosclerosis (FSGS) 不是 Lupus nephritis 的特色，也跟 SLE 比較無關。(C) 是 Class V，(D) Crescent formation 是 Rapidly progressive glomerulonephritis (RPGN) 的特徵，導致 RPGN 的原因很多，其中一個就是 SLE，通常切片看到這個表現的病人其腎功能會快速下降。</p>\n<table class=\"exp-table\">\n<tr><th>Class</th><th>名稱</th><th>病理表現</th></tr>\n<tr><td>I</td><td>Minimal mesangial</td><td>光學顯微鏡下正常，螢光染色可見 Mesangial immune deposits</td></tr>\n<tr><td>II</td><td>Mesangial proliferative</td><td>Mesangial hypercellularity with mesangial immune deposits</td></tr>\n<tr><td>III</td><td>Focal（侵犯 &lt;50% 腎絲球）</td><td>Focal subendothelial immune deposits</td></tr>\n<tr><td>IV</td><td>Diffuse（侵犯 ≥50% 腎絲球）</td><td>Diffuse subendothelial immune deposits</td></tr>\n<tr><td>V</td><td>Membranous</td><td>Subepithelial immune deposits</td></tr>\n<tr><td>VI</td><td>Sclerotic</td><td>90% 以上的腎絲球完全硬化 (Globally sclerosed)</td></tr>\n</table>\n<p>其中 Class I、II 腎臟功能正常、發炎不嚴重，通常不需要特別的治療。Class III、IV、V 表示正在發炎中，病人腎臟功能、尿液檢查（血尿、蛋白尿）會受到不等程度的影響，此時需要免疫相關的藥物介入治療。Class VI 腎臟幾乎已經沒有功能，患者只能透過透析或腎臟移植來治療。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "主要在考 Lupus nephritis 的六個 Class，(A) 是 Class IV，(B) Focal segmental glomerulosclerosis (FSGS) 不是 Lupus nephritis 的特色，也跟 SLE 比較無關。(C) 是 Class V，(D) Crescent formation 是 Rapidly progressive glomerulonephritis (RPGN) 的特徵，導致 RPGN 的原因很多，其中一個就是 SLE，通常切片看到這個表現的病人其腎功能會快速下降。\n\n| Class | 名稱 | 病理表現 |\n| :--- | :--- | :--- |\n| I | Minimal mesangial | 光學顯微鏡下正常，螢光染色可見 Mesangial immune deposits |\n| II | Mesangial proliferative | Mesangial hypercellularity with mesangial immune deposits |\n| III | Focal (侵犯 <50% 腎絲球) | Focal subendothelial immune deposits |\n| IV | Diffuse (侵犯 ≥ 50% 腎絲球) | Diffuse subendothelial immune deposits |\n| V | Membranous | Subepithelial immune deposits |\n| VI | Sclerotic | 90% 以上的腎絲球完全硬化 (Globally sclerosed) |\n\n其中 Class I、II 腎臟功能正常、發炎不嚴重，通常不需要特別的治療。Class III、IV、V 表示正在發炎中，病人腎臟功能、尿液檢查 (血尿、蛋白尿) 會受到不等程度的影響，此時需要免疫相關的藥物介入治療。Class VI 腎臟幾乎已經沒有功能，患者只能透過透析或腎臟移植來治療。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-28_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-28_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-29",
@@ -22268,9 +22304,11 @@
       "D": "尿沉澱物可見顆粒性圓柱體（granular cast）"
     },
     "answer": "D",
-    "explanation": "<p>Prerenal、Intrinsic AKI 最常聽到的就是用 (A)FeNa 以及 (C)BUN/Creatinine ratio 鑑別，至於 (B) 可以推論身體缺水（腎臟灌流不足）而需要濃縮尿液留下水分，故較可能是 Prerenal AKI。刪除 (A)(B)(C) 後答案選 (D)。</p>\n<p>Acute kidney injury(AKI) 可以分為 Prerenal（佔 60-70%)、Intrinsic(25-40%)、Postrenal(5-10%)。Intrinsic 之下又可分為 Tubular cell injury(80-90%)、Acute interstitial nephritis(5-10%)、Acute glomerulonephritis(&lt;5%)。</p>\n<p>Prerenal AKI 常見的實驗室檢查特徵包含 BUN/Creatinine ratio &gt;20、FeNa &lt;1%、Urine sediment 看到 Hyaline casts、尿液比重 &gt;1.018、尿液滲透壓 &gt;500 mOsm/kg。至於 Intrinsic AKI 之下包含許多不同的病因，各自的實驗室檢查特徵都不太一樣，可參考 Harrison 21st edition Table 310-2。</p>\n<p>AKI 不同尿液沈澱物 (Urine sediment) 的鑑別診斷如下：</p>\n<table class=\"exp-table\">\n<tr><th>Urine sediment</th><th>鑑別診斷</th></tr>\n<tr><td>正常或少量 RBC/WBC 或 Hyaline casts</td><td>Prerenal AKI、Postrenal AKI、HUS or TTP、Scleroderma crisis、動脈栓塞、腎前的血管炎</td></tr>\n<tr><td>RBC、RBC casts</td><td>腎絲球腎炎、血管炎、惡性高血壓、Thrombotic microangiopathy</td></tr>\n<tr><td>WBC、WBC casts</td><td>間質性腎炎、腎絲球腎炎、腎盂腎炎、Allograft rejection、腎臟被惡性細胞浸潤</td></tr>\n<tr><td>Renal tubular epithelial (RTE) cells、RTE casts、Pigmented casts</td><td>急性腎小管壞死 (ATN)、Tubulointerstitial nephritis、Acute cellular allograft rejection、肌紅蛋白尿、血紅素尿症</td></tr>\n<tr><td>Granular casts</td><td>急性腎小管壞死、腎絲球腎炎、血管炎、Tubuloin-terstitial nephritis</td></tr>\n<tr><td>Eosinophiluria</td><td>Allergic interstitial nephritis、Atheroembolic disease、腎盂腎炎、膀胱炎、腎絲球腎炎</td></tr>\n<tr><td>Crystalluria</td><td>Acute uric acid nephropathy、草酸鈣、藥物或毒素</td></tr>\n</table>\n<p>參考資料：Harrison's Principles of Internal Medicine 21st edition p2304 Figure 310-6</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Prerenal、Intrinsic AKI 最常聽到的就是用 (A) FeNa 以及 (C) BUN/Creatinine ratio 鑑別，至於 (B) 可以推論身體缺水 (腎臟灌流不足) 而需要濃縮尿液留下水分，故較可能是 Prerenal AKI。刪除 (A)、(B)、(C) 後答案選 (D)。\nAcute kidney injury (AKI) 可以分為 Prerenal (佔 60-70%)、Intrinsic (25-40%)、Postrenal (5-10%)。Intrinsic 之下又可分為 Tubular cell injury (80-90%)、Acute interstitial nephritis (5-10%)、Acute glomerulonephritis (<5%)。\nPrerenal AKI 常見的實驗室檢查特徵包含 BUN/Creatinine ratio > 20、FeNa <1%、Urine sediment 看到 Hyaline casts、尿液比重 >1.018、尿液滲透壓 >500 mOsm/kg。至於 Intrinsic AKI 之下包含許多不同的病因，各自的實驗室檢查特徵都不太一樣，可參考 Harrison 21st edition Table 310-2。\n\nAKI 不同尿液沈澱物 (Urine sediment) 的鑑別診斷如下：\n\n| Urine sediment | 鑑別診斷 |\n| :--- | :--- |\n| 正常或少量 RBC/WBC 或 Hyaline casts | Prerenal AKI、Postrenal AKI、HUS or TTP、Scleroderma crisis、動脈栓塞、腎前的血管炎 |\n| RBC、RBC casts | 腎絲球腎炎、血管炎、惡性高血壓、Thrombotic microangiography |\n| WBC、WBC casts | 間質性腎炎、腎絲球腎炎、腎盂腎炎、Allograft rejection、腎臟被惡性細胞浸潤 |\n| Renal tubular epithelial (RTE) cells、RTE casts、Pigmented casts | 急性腎小管壞死 (ATN)、Tubulointerstitial nephritis、Acute cellular allograft rejection、肌紅蛋白尿、血紅素尿症 |\n| Granular casts | 急性腎小管壞死、腎絲球腎炎、血管炎、Tubulointestitial nephritis |\n| Eosinophiluria | Allergic interstitial nephritis、Atheroembolic disease、腎盂腎炎、膀胱炎、腎絲球腎炎 |\n| Crystalluria | Acute uric acid nephropathy、草酸鈣、藥物或毒素 |\n\n參考資料：Harrison's Principles of Internal Medicine 21st edition p2304 Figure 310-6",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-29_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-29_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-30",
@@ -22285,9 +22323,11 @@
       "D": "病患處於慢性發炎狀態（chronic inflammation）"
     },
     "answer": "A",
-    "explanation": "<p>慢性腎臟病導致貧血的可能原因如下：</p>\n<p>(1) 相對缺乏紅血球生成素 (Erythropoietin)。</p>\n<p>(2) 紅血球存活時間減少。</p>\n<p>(3) 患者有出血傾向（尿毒症會妨礙血小板功能）。</p>\n<p>(4) 鐵質缺乏（因吸收不良以及腸胃道出血）。</p>\n<p>(5) 副甲狀腺機能亢進（導致骨髓纖維化）。</p>\n<p>(6) 慢性發炎（會使 Hepcidin 上升而使鐵質利用不良）。</p>\n<p>(7) 葉酸或維他命 B12 缺乏。</p>\n<p>(8) 血色素疾病 (Hemoglobinopathy)。</p>\n<p>(9) 其他共病：甲狀腺亢進／低下、懷孕、HIV 相關疾病、自體免疫疾病、免疫抑制藥物。</p>\n<p>參考資料：Harrison's Principles of Internal Medicine 21st edition p2316 Table 311-5</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "慢性腎臟病導致貧血的可能原因如下：\n(1) 相對缺乏紅血球生成素 (Erythropoietin)。\n(2) 紅血球存活時間減少。\n(3) 患者有出血傾向 (尿毒症會妨礙血小板功能)。\n(4) 鐵質缺乏 (因吸收不良以及腸胃道出血)。\n(5) 副甲狀腺機能亢進 (導致骨髓纖維化)。\n(6) 慢性發炎 (會使 Hepcidin 上升而使鐵質利用不良)。\n(7) 葉酸或維他命 B12 缺乏。\n(8) 血色素疾病 (Hemoglobinopathy)。\n(9) 其他共病：甲狀腺亢進 / 低下、懷孕、HIV 相關疾病、自體免疫疾病、免疫抑制藥物。\n\n參考資料：Harrison's Principles of Internal Medicine 21st edition p2316 Table 311-5",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-30_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-30_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-31",
