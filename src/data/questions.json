@@ -23862,9 +23862,11 @@
       "D": "自閉症類群障礙症（autism spectrum disorder）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(D) 自閉症類群障礙症 (autism spectrum disorder) 的兩大特徵就是「持續在各面向的社交溝通或互動上出現缺陷」和「侷限性、重複性的行為、興趣或活動」，正好對應題幹所述「眼神迴避的現象」和「每天喜歡持續性玩小車車和看旋轉的東西」。值得注意的是，口語表達的發展遲緩在 DSM-5 中已經不列為自閉症類群障礙症的特徵。其他補充請參考精神科【113-2(四)71】。\n(A) 雷特氏症候群 (Rett syndrome) 為 X 染色體上 MECP2 基因突變導致的神經退化性疾病，絕大多數發生於女性，在一歲左右會開始出現快速退化、喪失語言能力、典型的「搓手」動作等表現，接著進入穩定期，會恢復一些語言、眼神接觸能力，最後在青少年期會漸漸失去運動功能，主要以無法走路表現。整體而言，性別、症狀和病程都與本題幹不符。\n(B) 注意力不足／過動症 (attention-deficit/hyperactivity disorder) 也可能出現眼神迴避的現象，但主要是因為注意力不集中，而非社交問題，他們的社交相互性 (social reciprocity) 大多正常，也不會有重複性行為的出現。\n(C) 學習障礙 (learning disability) 出現在自閉症類群障礙症患者身上的機率較高，而學習障礙者也可能出現溝通問題或重複性的動作，但單純學習障礙者，其表現會和其認知發展和適應行為相稱，相對來說，自閉症類群障礙症可以在有認知發展時仍呈現遲滯的社交能力。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-31_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-31_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-32",
@@ -23879,9 +23881,11 @@
       "D": "即刻開始在家隔離一週觀察症狀"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "VZV 病毒在起疹前 24-48 小時開始，一直到全部病灶結痂為止，都具有高傳染力。由於本題之醫師沒有得過水痘也沒有接種過水痘疫苗，屬於感染高風險者，加上其接觸病童時，其已具有高傳染力，必須接受感染管控：\n(A) 錯誤。成人有水痘症狀時的確該服用抗病毒藥物，但在已知接觸當下就去接種水痘疫苗，才是最適當的處置。\n(B) 錯誤。預防性抗病毒藥物適用於無法接種疫苗或已經接觸超過五天者，其餘族群首選仍是接種水痘疫苗。\n(C) 正確。五天內補接種水痘疫苗有約 7 成的保護力，故建議盡速接種。\n(D) 錯誤。此醫師的確應該隔離，但水痘的傳染會在接觸後第 8-21 天時發生，故要防止醫師傳染給其他人的話，並不是即刻隔離一週，而是在接觸該日往後數的第八天開始隔離。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-32_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-32_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-33",
@@ -23896,9 +23900,11 @@
       "D": "搖椅腳（rocker-bottom feet）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(C) 愛德華氏症 (Edwards syndrome, Trisomy 18) 常見的是凸出枕骨 (prominent occiput)。\n其他常見之表徵供大家參考：小頭 (microcephaly)、小下巴 (micrognathia)、唇顎裂 (cleft lip or palate)、先天性心臟病、短胸骨 (short sternum)、斜指 (clinodactyly)、搖椅腳 (rocker-bottom feet)、疝氣 (inguinal or abdominal hernia)、早產 (premature birth)、發展遲緩與生長受限 (developmental delays and growth restrictions) 等。\n另外補充巴陶氏症候群 (Patau syndrome, Trisomy 13) 的常見表徵，供參考：頭皮缺陷 (scalp defects)、小眼睛畸形 (microphthalmia)、小頭 (microcephaly)、斜額頭 (sloping forehead)、唇顎裂 (cleft lip or palate)、微血管瘤 (capillary hemangioma)、失聰 (deafness)、先天性心臟病、缺肋 (missing ribs)、斜指 (clinodactyly)、多指 (polydactyly)、腎臟異常、發展遲緩與生長受限 (developmental delays and growth restrictions) 等。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-33_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-33_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-34",
@@ -23913,9 +23919,11 @@
       "D": "若患者有濕疹樣病灶合併血小板低下及免疫功能異常，則需考慮Wiskott-Aldrich syndrome之可能"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(C) 約只有 20-50% 中等到嚴重程度異位性皮膚炎的小孩有絲聚蛋白基因突變，故非「絕大多數」。Filaggrin 是聚合 Keratin filament 的蛋白質，為構成角質層 (Stratum corneum，皮膚最外面那層) 很重要的成分，若其基因突變 (FLG mutation) 會導致皮膚屏障功能受損。最相關的兩個疾病是異位性皮膚炎和 Ichthyosis vulgaris (尋常性魚鱗癬)。有 FLG mutation 的異位性皮膚炎通常較早發病且較常延續到成人時期，症狀也較嚴重。除此之外，此類病人也更容易出現氣喘 (症狀也會較嚴重)、刺激性接觸性皮膚炎 (Irritant contact dermatitis)、HSV 感染、食物過敏等疾病。\n\n| 異位性皮膚炎 (atopic dermatitis) | |\n| :--- | :--- |\n| **流行病學** | • 60% 發生在 1 歲前，大多數都在 5 歲前發病，成人才發病較少見。<br>• 男性略多於女性 |\n| **基因與遺傳** | • 遺傳方式目前還不清楚，但 60% 異位性皮膚炎的病人其小孩也有異位性皮膚炎。若父母皆有異位性皮膚炎，小孩異位性皮膚炎的盛行率為 80%。<br>• 目前已知最相關的基因因為 FLG gene mutation。 |\n| **致病機轉** | • 皮膚屏障受損（如 Flaggrin 製造減少、Ceramide 濃度減少）→ 皮膚水分流失、環境抗原跑進皮膚 → 抗原進入皮膚引起先天與後天免疫反應：<br>(1) 先天免疫：Keratinocyte 分泌 TSLP、IL-1、IL-25、IL-33 誘發 Type 2 innate lymphoid cells (ILC2)<br>(2) 後天免疫：急性期主要為 Th2 responses，產生 IL-4、IL-5、IL-13、IL-31、IgE。慢性期則以 Th1、Th17、Th22 responses 為主。 |\n| **皮膚病灶** | • 急性病灶：皮膚乾燥且會癢，常伴隨脫屑，並因搔抓產生邊界不明確的紅色斑塊、糜爛 (Erosion) 以及結痂 (Crust)。<br>• 慢性病灶：皮膚苔蘚化 (Lichenification)、裂紋 (Fissure)。<br>• Secondary infection：常見 S. aureus、HSV (Eczema herpeticum) 感染。 |\n| **好發位置** | • 嬰兒：頭皮、臉部、四肢伸側（記法：嬰兒伸手抓臉）。尿布位置不會分布。<br>• 青少年：四肢屈側、頸部。<br>• 成人：四肢屈側、頸部、手掌。 |\n| **治療** | • 保濕、外用類固醇（會皮膚萎縮）、外用 Calcineurin inhibitor（不會皮膚萎縮）、照光治療、免疫抑制劑 (Cyclosporin、MTX、MMF、AZA 等) |\n| **相關疾病** | • **Wiskott-Aldrich syndrome**：X-linked 隱性遺傳，臨床的 Triad 為血小板低下 (→ 出血)、免疫功能低下 (→ 反覆化膿性感染)、異位性皮膚炎。僅 25% 病人三項同時出現，而三項裡最常見的症狀為出血 (84%)。<br>• **過敏性體質 (Atopy)**：異位性皮膚炎 (Atopic dermatitis)、過敏性鼻炎 (Allergic rhinitis，教科書上都寫 Hay fever)、氣喘 (Asthma)<br>• **口訣：白糠毛角魚鱗癬**<br>(1) 白色糠疹 (Pityriasis alba)、毛囊角化 (keratosis pilaris)<br>(2) 尋常性魚鱗癬 (Ichthyosis vulgaris)：兩者都跟 FLG gene mutation 有關，約 10-15% 異位性皮膚炎的病人有中重度的尋常性魚鱗癬。<br>• **口訣：白劃掌線結錐障**<br>(1) 白色劃紋症 (white dermatographism)、掌紋增加<br>(2) 結膜炎 (conjunctivitis)、圓錐角膜 (keratoconus)、白內障 (cataracts) |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-34_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-34_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-35",
@@ -23930,9 +23938,11 @@
       "D": "sorafenib（signal transduction inhibitors）會引發手足皮膚反應（hand-foot skin reaction）及落髮（alopecia）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 翻了幾本教科書上面都沒有提到 AGEP 跟關節炎的關係。推測是因為 AGEP 最需要鑑別的疾病為 Pustular psoriasis (膿皰性乾癬)，若病人出現關節炎的話可能會比較容易聯想到 Psoriatic arthritis 而非 AGEP，故此選項錯誤。\nAcute generalized exanthematous pustulosis (AGEP) 是急性廣泛出現很多小的無菌膿皰 (Pustules)，常會伴隨發燒與白血球增多 (Leukocytosis)。此疾病 90% 為藥物引起，通常在用藥 1-3 週後（若病人之前碰過同樣藥物而致敏，則可能縮短至 2-3 天）從臉部、對磨部位開始出現病灶，之後數小時內廣泛分佈至全身。相關的藥物包含：抗生素（如 Aminopenicillin、Cephalosporin、Clindamycin、Sulfonamides、Metronidazole、Carbapenem、Quinolones、Macrolides）、Calcium channel blockers (如 Diltiazem)、Carbamazepine、Cetirizine、Hydroxychloroquine、NSAID、PPI、Terbinafine 等。\n(B) 錯誤。Tetracycline 的副作用之一是 Skin photosensitivity，故會比較常發生在陽光曝曬區域。\n(C) 錯誤。Drug-induced lupus erythematosus 的症狀通常在用藥一個月後才出現，並在停藥後數天到數週後消失（但 Subacute cutaneous lupus erythematosus 有時候會持續比較久）。Drug-induced lupus erythematosus 表現從 Systemic LE 到 Cutaneous LE 都有可能，其中最常見的是 Subacute cutaneous LE (SCLE)。Drug-induced LE 不同於一般的 SLE，其通常 Anti-histone antibody 陽性但 Anti-dsDNA antibody 呈現陰性（例外：TNF-α inhibitor，造成的 drug-induced LE）。\n(D) 正確。Sorafenib、Sunitinib 兩者皮膚副作用類似，都可能會引起 Hand-foot skin reaction 和 Alopecia。其他的皮膚副作用包含紅疹、脫皮、黏膜發炎、皮膚乾燥、脂漏性皮膚炎、指甲下線狀出血等。\nHand-foot skin reaction：在指腹、腳趾、腳跟等受壓區域會有壓痛並伴隨過度角化的紅斑。除了 Sorafenib、Sunitinib 之外，Taxanes 類藥物 (Docetaxel、Paclitaxel) 也可能會發生 Hand-foot skin reaction。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-35_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-35_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-36",
@@ -23947,9 +23957,11 @@
       "D": "手指甲呈現指甲增厚與表面有點狀凹陷"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(C) 乾癬性關節炎屬於血清陰性脊椎關節病變 (Seronegative spondyloarthropathy)，血清陰性意即 Rheumatic factor 陰性，故此選項非乾癬性關節炎的特徵。\n• 乾癬性關節炎 (Psoriatic arthritis) 可以用 The CASPAR Criteria (Classification Criteria for Psoriatic arthritis) 來協助判斷 (Specificity 99% ; Sensitivity 91%)。\n• The CASPAR Criteria：\n病人在關節、脊椎或著骨點 (Entheseal) 有發炎性關節疾病 (Inflammatory articular disease)，且在以下評分中得到 ≥ 3 分：\n\n| 項目 | 分數 |\n| :--- | :--- |\n| **乾癬**：<br>目前有乾癬 或<br>以前有乾癬病史 或<br>有乾癬家族史 | <br>2<br>1<br>1 |\n| 典型的乾癬指甲變化 (Onycholysis、Pitting、Hyperkeratosis) | 1 |\n| Rheumatic factor 陰性 | 1 |\n| **Dactylitis**（手指整個腫起來像香腸，故又稱 Sausage digit）：<br>目前有 Dactylitis 或<br>以前有 Dactylitis 病史 | <br>1<br>1 |\n| 影像看到手掌或腳掌有關節旁新骨質生成 (Juxtaarticular new bone formation) 且排除骨刺 | 1 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-36_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-36_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-37",
@@ -23964,9 +23976,11 @@
       "D": "糖尿病及愛滋病是罹患甲癬的危險因子"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(C) 錯誤。目前甲癬口服抗黴菌治療首選是 Terbinafine。\n\n| 甲癬 (onychomycosis) | |\n| :--- | :--- |\n| **流病** | • 最常見的指甲疾病，= Tinea unguium。<br>• 老人較常見 (70 歲以上盛行率 50%)，沒有治療通常不會自己好。40% 有腳趾甲癬的病人同時有其他皮膚感染，最常見的為足癬 (Tinea pedis，30%)。 |\n| **風險因子** | • 指甲外傷、免疫差（如 HIV infection、DM、使用免疫抑制劑）、周邊血液循環不良。<br>• 其他如穿太緊的鞋子、跟別人共用置物櫃等也可能增加發生率。 |\n| **病因** | 2/3 的甲癬是皮癬菌 (Dermatophyte) 引起，最常見為 Trichophyton rubrum。剩下為非皮癬菌的黴菌感染，通常來自土壤，如 Acremonium、Fusarium、Aspergillus spp.，此類型會比較難治療。 |\n| **分類** | • **Distal and lateral subungual onychomycosis (DLSO)**：最常見的類型。從指甲遠端和側面的皮膚 (Hyponychium) 開始感染。<br>• **Superficial white onychomycosis (SWO)**：指甲表面變白並往下感染。<br>• **Proximal subungual onychomycosis (PSO)**：從指甲根部開始感染。 |\n| **檢查** | 蒐集病灶處的碎屑或剪下指甲，加上 KOH 後在顯微鏡下觀察，可見多條細長、有分隔 (Septate) 及分支 (Branching) 的菌絲。 |\n| **治療** | • **口服**：Terbinafine (一線)、Itraconazole、Fluconazole<br>• **局部**：Ciclopirox、Amorolfine |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-37_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-37_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-38",
@@ -23981,9 +23995,11 @@
       "D": "permethrin藥膏可與口服ivermectin一起用於挪威型疥瘡（Norwegian scabies）之治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤。外用 Lindane (γ-Benzene hexachloride, γ-BHC) 的副作用多，包含中樞神經毒性、癲癇、再生不良性貧血 (Aplastic anemia) 等，故不建議作為第一線用藥。此藥也不可用在有廣泛性皮膚炎的病人、懷孕或哺乳的婦女、兩歲以下的兒童、有神經疾病或癲癇病史的病人。不過由於藥價便宜，在不少國家依然作為疥瘡的替代用藥之一。\n(B) 錯誤。在治療其他疾病（如 Onchocerciasis 蟠尾絲蟲病）的經驗上，口服 Ivermectin 是個很安全得藥物，但由於其會作用在使用 Glutamate 或 GABA 的神經突觸上，且小孩的血腦屏障尚未發展完全，故不建議用在體重小於 15 公斤的小孩、懷孕或哺乳的婦女。另外，雖然 Ivermectin 治療疥瘡很有效也很安全，但其實美國 FDA 並沒有通過這樣使用，為 Off-label use。\n(C) 錯誤。目前疥瘡的首選藥物是外用 Permethrin 5% 塗抹於全身所有的皮膚。外用 Crotamiton 10% 為 Alternative regimen，故並非最有效的外用藥物。\n(D) 正確。挪威疥 Norwegian scabies（又稱結痂型疥瘡 Crusted scabies）需使用口服 Ivermectin 加上外用藥物一起治療。\n\n| 疥瘡 (scabies) | |\n| :--- | :--- |\n| **流行病學** | 由人疥蟎 (Sarcoptes scabiei var. hominis) 感染，人類為唯一宿主，透過直接接觸病人皮膚或周邊的污染物傳染，在資源相對匱乏的熱帶國家是很重要的公衛問題。 |\n| **病程與病理機轉** | 症狀來自身體對於疥蟲及其產物（卵、糞便）產生 Delayed type hypersensitivity。第一次感染約 4-6 週後出現症狀，若曾經感染過則可能在 1 天內出現症狀。 |\n| **一般症狀** | • 通常以癢來表現，紅疹可能沒有也可能很嚴重，皮膚可見 Intraepidermal burrows 以及約 0.5-2cm 的紅色或棕色光滑結節 (Nodules)。<br>• Intraepidermal burrows：疥蟲鑽入角質層 (Stratum corneum) 並挖出隧道在裡面活動，在皮膚的表現為約 0.5-1cm 的皮膚色條狀突起。 |\n| **病灶分佈** | • 常分佈在毛髮少、角質層薄且軟的位置，包含：手指縫、手腕屈側、手掌、手肘、腋下、乳頭及乳暈、腰部（包含肚臍）、臀部、陰莖與陰囊（男性）、外陰部（女性）、腳掌、腳踝。<br>• 頭皮與臉部通常較少侵犯，但在免疫不全病人以及老人依然有可能出現病灶。 |\n| **挪威型疥瘡 (Norwegian scabies)** | • 又稱 Crusted scabies、Hyperkeratotic scabies、Scabies with hyperinfestation，大多發生在免疫不全或有神經學疾患 (Neurogenic disorders) 的病人。一般疥瘡病人身上通常只有約 12 隻活的疥蟲，但挪威型疥瘡病人身上最多可以有 200 萬隻疥蟲。病灶呈現明顯的過度角化 (Hyperkeratosis) 以及結痂 (Crusted)，但不一定會很癢。<br>• 分佈可以是局部或全身都有（包含頭頸部）。 |\n| **診斷** | • 臨床診斷：透過 Burrow 以及典型的分佈位置可以高度懷疑疥瘡。<br>• 確診：刮取病灶位置皮膚並以顯微鏡鏡檢，看到疥蟲、蟲卵、糞便其中一樣可以確診。 |\n| **治療 - 首選** | Permethrin 5% 塗抹於全身靜置 8 小時後洗去，一週後再塗第二次。懷孕、哺乳婦女、小孩都可以使用 (CDC 通過使用於 2 個月以上的嬰兒)。 |\n| **治療 - 二線** | Lindane (γ-Benzene hexachloride) 1%。不可用在有廣泛性皮膚炎的病人、懷孕或哺乳的婦女、兩歲以下的兒童、有神經疾病或癲癇病史的病人 |\n| **治療 - 替代** | • 外用：Crotamiton 10%、Sulfur 2%-10% in petrolatum、Benzyl benzoate 10% and 25%、Malathion 0.5%、Sulfram 25%、Ivermectin 0.8%<br>• 口服：Ivermectin 200 μg/kg，孩童、懷孕或哺乳婦女不可用 |\n| **治療 - 挪威型疥瘡** | 口服 Ivermectin 加上外用藥 (Permethrin 首選) 一起治療 |\n| **感染控制** | 患者用過的物品需和別人分開，並用 60 度以上熱水清洗至少 10 分鐘並高溫乾燥。若無法清洗，則須以塑膠袋密封放置於乾燥環境中 1-2 週直到疥蟲死亡。 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-38_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-38_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-39",
@@ -23998,9 +24014,11 @@
       "D": "Nikolsky sign"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "以下整理一些皮膚科的 Signs。\n\n| Signs | 解釋 | 疾病舉例 |\n| :--- | :--- | :--- |\n| **Darier sign** | • 搓揉或敲擊病灶後會產生蕁麻疹樣的變化（紅腫、會癢）<br>• 變化範圍僅限於病灶本身 | Mastocytosis syndrome<br>少數 Cutaneous lymphoma 或 Histiocytosis |\n| **Dermatographism** | • 用力劃過沒有病灶的皮膚會產生蕁麻疹樣的變化<br>• 變化範圍即是用力劃過的位置 | Physical (Inducible) urticaria |\n| **Hutchinson sign**（旁邊兩個都叫這個名字） | 黑色素細胞延伸到指甲周邊的皮膚 | Melanoma (黑色素瘤) |\n| **Hutchinson sign** | 鼻尖出現水泡 | Zoster ophthalmicus (帶狀疱疹侵犯 CN5-1，可能影響角膜) |\n| **Auspitz sign** | 把乾癬上的脫屑刮掉後會產生點狀出血 | Psoriasis (乾癬) |\n| **Nikolsky sign** | 摩擦水泡旁邊正常的皮膚會使上皮裂解，產生新的水泡 | Pemphigus (天皰瘡) ↔ 注意 Pemphigoid (類天皰瘡) 病灶比較深，所以不會有 Nikolsky sign<br>Toxic epidermal necrolysis (毒性表皮溶解症)<br>Staphylococcal scalded skin syndrome (SSSS) |\n| **Koebner phenomenon** | 受傷的位置會出現新的病灶 | Vitiligo (白斑)<br>Lichen planus (扁平苔蘚)<br>Psoriasis (乾癬) |\n| **Fitzpatrick (dimple) sign** | 側向擠壓病灶（像擠痘痘那樣），病灶會凹下去 | Dermatofibroma (皮膚纖維瘤) |\n| **Apple-jelly sign** | 用玻片壓病灶可見其變成如蘋果醬般的黃色 | Sarcoidosis (類肉瘤) |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-39_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-39_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-40",
@@ -24015,9 +24033,11 @@
       "D": "鬱血性皮膚炎（stasis dermatitis）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "看到紫色病灶、免疫抑制相關會比較容易想到 Kaposi sarcoma（這題如果這樣想的話會很簡單，但如果認真思考其他的選項可能就會變難，因為那些都是教科書上說要跟 Kaposi sarcoma 鑑別的疾病）。\n(A) Angiosarcoma 是圓形、紅色或藍色的結節 (Nodule)，若出現在臉部則可能會長得像瘀斑 (Ecchymosis-like)。切片特徵為 a collection of jagged vessels, nuclear atypia, and pleomorphism。在分化比較差的腫瘤可以驗血管相關的 Marker，如 CD31、CD34、Factor 8、Ulex。\n(B) Dermatofibrosarcoma protuberans (DFSP) 是從真皮長出來的腫瘤。臨床表現為非特異性的丘斑 (Plaque)，長得類似蟹足腫 (Keloid)，顏色常呈現紫色至棕色。切片特徵為 Spindle cell proliferation arranged as whorls (herringbone pattern)。\n(C) Kaposi sarcoma 分成四種類型 (Classic、African-endemic、Iatrogenic immunosuppression-associated、HIV/AIDS-associated)，每種類型都跟 HHV-8 有關。臨床表現一開始像瘀斑的斑疹或丘疹 (Ecchymotic-like macule/papule)，之後範圍慢慢擴大形成丘斑 (Plaque)、結節 (Nodule)、腫瘤 (Tumor)，顏色常呈現紫色、紅色或棕色。切片特徵依照階段分為 Patch stage、Plaque stage、Nodular stage，彼此之間特徵稍有不同。其中 Nodular stage 的特徵即為 Spindled endothelial cell 浸潤真皮層並且排成束狀，散佈著不規則的裂隙狀血管腔 (Slit-like vascular space)，其中有許多紅血球。\n(D) Stasis dermatitis 是 Chronic venous insufficiency 相關疾病的其中一種，導因於下肢的深層靜脈瓣膜功能不足使血液鬱積。臨床表現為濕疹樣的皮膚炎，伴隨發炎性的丘疹 (Papules)、脫屑、糜爛與結痂 (Crusted erosions)。也常出現色素沈積、出血點以及搔抓產生的抓痕。切片特徵為擴張的微血管、扭曲的靜脈以及巨噬細胞吞噬 Hemosiderin (滲出血統的紅血球破裂形成)。",
+    "explanation_image": "/explanations/cropped/113-1-醫學(四)-40_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(四)-40_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(四)-41",
