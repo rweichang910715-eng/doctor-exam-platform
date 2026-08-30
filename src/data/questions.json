@@ -26522,9 +26522,11 @@
       "D": "氣體視網膜固定術（pneumatic retinopexy）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "同【113-1(六)10】之整理，(B) 為濕性年齡相關黃斑部退化的治療，而 (A)(C)(D) 皆適用於裂孔性視網膜剝離\n\n實務上，現今大多採用經坦部玻璃體切除術 (pars plana vitrectomy) 來治療裂孔性視網膜剝離，治療上的目標包含：把後玻璃體清除、將玻璃體造成的視網膜牽引消除、修復既有的視網膜破洞、放入填塞物 (tamponade agents) 來提供壓力防止再次剝離，填塞物主要可分為幾種：\n\n• **擴張性氣體 (expanding gases)**：最常用，常用 Sulfur hexafluoride (SF6)、Perfluoroethane (C2F6) 等，術後病人需要擺位以達最佳效果，會隨時間吸收，但在被吸收前不可進入低氣壓環境（如：搭飛機），否則氣體會因壓力變化而改變體積，可能導致眼壓急性升高\n• **矽油 (silicone oils)**：若沒有拿出來將會永久留存於眼內，常用於病人需要填塞較長時間、需要搭飛機等情形\n• **重液 (heavy liquids)**",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-11_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-11_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-12",
@@ -26539,9 +26541,11 @@
       "D": "腎臟"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "人體的免疫特權區主要有：眼睛、中樞神經系統、睪丸、胎盤等，角膜因為缺乏血管、淋巴管、且抗原呈現細胞少，故難以誘發免疫反應，移植成功率高，不過，若有發炎、血管新生、移植物過大、捐贈／受贈者性別不符等情況，還是有可能會造成排斥",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-12_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-12_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-13",
@@ -26556,9 +26560,11 @@
       "D": "近視成因的光學因素，眼軸長度比角膜屈折率重要"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 網膜鏡檢 (retinoscopy) 用於檢查屈光不正，可以透過眼底光線反射的方向性得知病人是正視、近視、遠視、有無散光，但無法看到視網膜；眼底鏡檢 (ophthalmoscopy) 才是檢查視網膜用的\n\n(B) 假性近視是指因無法放鬆水晶體造成之近視，睫狀肌麻痺即去除了水晶體調節的影響，故檢查結果為近視，非假性近視\n\n(C) 小朋友的近視是否需要戴眼鏡端看年齡而定，兩歲左右在近視 500 度以上才會需要矯正，但四歲時近視超過 300 度就會建議矯正，故不須戴眼鏡不代表沒有近視，此外，近年研究發現散瞳劑（如：Atropine）除了可以麻痺睫狀肌，也可以延緩近視病程和眼軸變化\n\n(D) 近視主要是因為眼軸變長造成光線聚焦在視網膜之前，其中，近視超過 600 度（即 -6.0D，對應眼軸長度 26 mm）被稱為病理性近視，有更高的風險造成視網膜或脈絡膜病變；另外，近視雷射是透過改變角膜來調整屈光，無法改變眼軸變長這個根本的原因",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-13_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-13_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-14",
@@ -26573,9 +26579,11 @@
       "D": ""
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Marfan syndrome 典型的表現即是水晶體向「顳上方」脫位 (subluxation)，符合 (A) 的表現，另外，如果是高胱胺酸尿症 (homocystinuria)，則多往「鼻下方」脫位\n\n(B) 為液化白內障 (Morgagnian cataract)，為過熟白內障液化、向下沉的表現，故影像上會看到白內障偏下方\n\n(C) 為過熟白內障合併前囊皺褶 (hypermature cataract with wrinkling of the anterior capsule)，代表白內障的內容物外漏，使得前囊塌陷、變皺\n\n(D) 為成熟白內障 (mature cataract)，代表水晶體已經完全不透光",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-14_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-14_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-15",
@@ -26590,9 +26598,11 @@
       "D": "Horner syndrome"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "要同時侵犯上述腦神經及交感神經，代表病灶位置應該在眼窩至顱內、腦幹這段區域\n\n(D) 會造成交感神經症狀，但不會侵犯多條腦神經\n\n其餘選項介紹如下：\n\n| 症候群名稱 | 病理機轉與臨床受損特徵 |\n| :--- | :--- |\n| **(A) Superior orbital fissure syndrome** | 大宗成因為外傷，造成眶上裂 (superior orbital fissure) 被壓迫，最常受損的是共同腱環 (common tendinous ring) 和眶上裂圍成的區域，意即 CN VI、III（內含交感／副交感神經纖維）最易受損，CN IV 最不易受損，CN II 則不會被影響 |\n| **(B) Orbital apex syndrome** | 成因眾多，包含發炎、感染、腫瘤、外傷等，造成傷害的位置比 superior orbital fissure syndrome 更內側、更接近視神經孔 (optic canal)，故會侵犯 CN II 造成視力喪失，亦會侵犯 CN III、IV、VI 造成眼外肌麻痺 |\n| **(C) Miller Fisher's syndrome** | 筆者沒有找到 Fisher's syndrome，但題目應該是指 Miller Fisher's syndrome，它是 Guillain-Barré syndrome 的一種變體，主要是 anti-GQ1b 抗體攻擊控制眼外肌的腦神經和神經肌肉接合 (neuromuscular junction) 的突觸前神經元等造成典型 triad：眼肌麻痺 (ophthalmoplegia)、共濟失調 (ataxia)、肌腱反射消失 (areflexia)，交感神經異常並不是典型症狀，但在嚴重的病人身上也有可能發生 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-15_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-15_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-16",
@@ -26607,9 +26617,11 @@
       "D": "若會輪流偏斜，表示沒弱視，則不需作任何矯治"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "斜視不好懂，建議有餘力再研讀\n\n調視性內斜視 (accommodative esotropia) 分為屈光性和非屈光性兩種，此處根據題目英譯應是指前者，屈光性調視性內斜視 (refractive accommodative esotropia，又稱為 normal AC/A ratio accommodative esotropia)，好發於 6 個月到 7 歲的兒童，患者因為遠視造成看近物模糊，必須仰賴睫狀肌調節水晶體來聚焦影像，而調節的同時會帶來眼睛會聚 (convergence)，一般來說，人有融像聚散力 (fusional vergence)，能夠克服會聚產生的內斜視 (esotropia)，使眼睛不偏斜，但若調節多、會聚多，會超出生理的代償能力，此時會聚便會造成內斜視，也就是調視性內斜視\n\n(A)(C) 斜視需根據成因治療，調視性內斜視是因為遠視造成，優先考慮的治療是矯正遠視，最後才會考慮手術\n\n(B) 肉毒桿菌素一般用於處理眼外肌造成之斜視，不會使用在調視性內斜視，肉毒桿菌素眼肌注射的適應症包含：嬰幼兒型內斜視 (infantile esotropia)、不適合手術的甲狀腺眼病變、外直肌麻痺 (lateral rectus palsy)、術前模擬手術後的斜視狀況、術後治療剩餘小角度之斜視等\n\n(D) 輪流偏斜不代表不會弱視，且可能雙眼弱視，仍需要眼鏡矯正",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-16_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-16_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-17",
@@ -26624,9 +26636,11 @@
       "D": "isoniazid"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(B) Amiodarone 和 hydroxychloroquine 會造成漩渦狀角膜病變 (vortex keratopathy)，形成中心點在瞳孔偏下方的位置，漩渦狀向外幅散的金黃色角膜上皮沉積，視力大部分不會因為沉積物受損，且停藥可逆\n\n(C) Chlorpromazine 則是會有黃棕色角膜內皮沉積，有時也會沉積在水晶體前囊\n\n(D) Isoniazid 會傷害視神經，但很少見，只有在合併 ethambutol 一起用時較容易產生視神經病變\n\n| 常考的系統性藥物對眼睛的影響 | 臨床眼科表現與病變 |\n| :--- | :--- |\n| **Steroid** | • 後囊膜下白內障 (posterior subcapsular cataract)<br>• 次發性青光眼<br>• 中心性漿液性脈絡膜視網膜病變 (central serous chorioretinopathy) |\n| **Chloroquine / Hydroxychloroquine** | • 漩渦狀角膜病變 (vortex keratopathy)<br>• 視網膜病變：藥物濃度在含有 melanin 的細胞會特別高，導致視網膜色素上皮受損，典型表現為黃斑部在眼底鏡呈現 **bull's eye lesion**、在 OCT 呈現 **flying saucer sign**，對於使用藥物超過五年的病人，建議每年例行檢查眼底 |\n| **Ethambutol** | 視神經病變：視力變差、紅綠色盲、視野缺損是最常出現的症狀 |\n| **Chlorpromazine** | • 黃棕色角膜內皮沉積<br>• 水晶體前囊沉積<br>• 視網膜病變：只有非常高劑量時會造成 |\n| **Amiodarone** | • 漩渦狀角膜病變 (vortex keratopathy)<br>• 水晶體前囊沉積<br>• 視神經病變 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-17_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-17_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-18",
@@ -26641,9 +26655,11 @@
       "D": "腺樣囊狀癌（adenoid cystic carcinoma）會造成病人極度疼痛"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，淚腺腫瘤在眼球的上外側，且可能向後側延伸 (posterior extension)，會使眼球往前、鼻側、下方擠壓 (inferonasal dystopia)\n\n(B) 筆者認為這個選項也不太正確，淚腺腫瘤中，雖然多形性腺瘤 (pleomorphic adenoma) 是良性腫瘤，仍須避免做部分活組織切片 (incision biopsy)，否則容易造成腫瘤從包膜擴散，增加復發和惡性轉變率，故直接切除 (excision) 較佳，「腫瘤形狀接近圓形，周邊完整」無法排除多形性腺瘤的可能性，做切片可能造成上述問題\n\n(C) 錯誤，根據國考指定原文書的數據，淚腺腫瘤 50% 是上皮腫瘤，良惡性各半；剩下 50% 為發炎性和淋巴增生性病灶\n\n(D) 正確，腺樣囊狀癌 (adenoid cystic carcinoma) 是淚腺最常見的惡性上皮腫瘤，常見於中年人，生長緩慢，但會侵犯神經和骨頭，造成嚴重疼痛，此外，對於腺樣囊狀癌的治療目前無定論，整體預後非常差",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-18_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-18_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-19",
@@ -26658,9 +26674,11 @@
       "D": "雙側重度傳導性聽力損失之成人"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "助聽器為放大聲音，仍須要靠內耳毛細胞轉換成電訊號，人工電子耳則是直接將聲音轉換成電訊號刺激聽神經，取代耳蝸，台灣健保目前補助 18 歲以下，雙側聽損（優耳聽力閾值 >90 dB）族群雙側的人工電子耳，成人則只補助手術，故目前大宗個案為雙側重度感音性聽力損失之嬰幼兒",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-19_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-19_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-20",
@@ -26675,9 +26693,11 @@
       "D": "acute otitis externa"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "正常耳道在耳鏡下可清楚見到鼓膜，圖片中左右各長出一顆突出物，為外生骨疣 (exostosis)\n\n| 外耳常見的骨性增生 | 臨床特徵與處置 |\n| :--- | :--- |\n| **(B) Exostosis 骨疣** | • 大多在耳道較深處、雙側、多顆<br>• 目前被認為是因冷水刺激骨膜造成，故好發在接觸水域的人身上，又稱為 swimmer's nodule 或 surfer's ear<br>• 無症狀不需治療 |\n| **Osteoma 骨瘤** | • 大多在耳道入口處、單側、單顆、有柄 (pedunculated)<br>• 因為長的靠近入口，大多會有症狀，需手術切除 |\n\n(A) otomycosis 詳見【113-2(六)19】",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-20_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-20_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-21",
