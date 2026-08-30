@@ -22342,9 +22342,11 @@
       "D": "關節X光可能會看到chondrocalcinosis，但此現象在痛風關節炎（gouty arthritis）也常被發現"
     },
     "answer": "C",
-    "explanation": "<table class=\"exp-table\">\n<tr><th colspan=\"2\">Calcium pyrophosphate deposition (CPPD) disease</th></tr>\n<tr><td class=\"k\">流病</td><td>• 主要影響老年人，在 85 歲以上的老人盛行率接近 50% → (A) 錯誤。<br>• 若發生於 50 歲以下，需要考慮是否有代謝相關病因或家族遺傳。</td></tr>\n<tr><td class=\"k\">致病機轉</td><td>• 焦磷酸鹽 (Pyrophosphate) 沈積在軟骨基質，跟鈣質結合後形成結晶，吸引嗜中性球、巨噬細胞吞噬結晶並導致發炎。<br>• 軟骨基質中的焦磷酸鹽大多來自細胞外的 ATP breakdown，因此某些調控 ATP 往胞外運輸的基因（如 ANKH gene) 突變導致胞外 ATP 增加時，可能會增加焦磷酸鹽結晶沈積的風險。</td></tr>\n<tr><td class=\"k\">病因</td><td>• 老化、Osteoarthritis、關節或半月板受傷。<br>• 家族遺傳、基因。<br>• 內分泌或代謝異常：Primary hyperparathyroidism → (B) 錯誤。Hemochromatosis、低血磷、低血鎂、痛風、X-linked hypophosphatemic rickets、Familial hypocalciuric hypercalcemia。</td></tr>\n<tr><td class=\"k\">症狀</td><td>• 大多無症狀。<br>• 急性關節炎：又被稱為 Pseudogout，臨床症狀很像急性痛風發作，但最常侵犯的關節為膝蓋、其次為手腕，其他還有肩膀、腳踝、手肘、手部等，很少侵犯大腳趾的關節 (Podagra)。急性發作的病程持續時間也通常比典型的痛風發作長（可能達數週至數月），且可能被外傷、其他嚴重疾病、手術（尤其 Parathyroidectomy）誘發。<br>• 慢性關節炎：最常見的形式為 Polyarticular arthritis，漸進式的關節炎很類似 OA，故又被稱為 Pseudoosteoarthritis。會侵犯 OA 較不常見的關節，如 Metacarpophalangeal joint、手腕、手肘、肩膀、腳踝等。</td></tr>\n<tr><td class=\"k\">檢查</td><td>• X 光或超音波：纖維軟骨（半月板）或透明軟骨（關節）可見點狀或線狀的 Radiodense 沈積物 (Chondrocalcinosis)，有看到此特徵但沒有辦法抽關節液確診者，亦可視為有 CPPD → (D) 痛風少見 chondrocalcinosis，反而會有 overhanging edges 和 punched-out erosion。<br>• 關節液鏡檢（確診）：可見菱形 (Rhomboid) 或類棒狀 (Rod-like) 結晶，有微弱正光 → (C) 正確。</td></tr>\n<tr><td class=\"k\">治療</td><td>基本上很類似急性痛風發作的處置：冰敷並休息、抽關節液、注射類固醇、口服 Colchicine、NSAIDs、系統性類固醇。<br>嚴重多關節發作者可用 IL-1β antagonist anakinra 治療，頻繁復發者使用預防性 Colchicine 可能有幫助。</td></tr>\n</table>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| Calcium pyrophosphate deposition (CPPD) disease | |\n| :--- | :--- |\n| **流病** | • 主要影響老年人，在 85 歲以上的老人盛行率接近 50% $\\rightarrow$ (A) 錯誤<br>• 若發生於 50 歲以下，需要考慮是否有代謝相關病因或家族遺傳 |\n| **致病機轉** | • 焦磷酸鹽 (Pyrophosphate) 沈積在軟骨基質，跟鈣質結合後形成結晶，吸引嗜中性球、巨噬細胞吞噬結晶並導致發炎<br>• 軟骨基質中的焦磷酸鹽大多來自細胞外的 ATP breakdown，因此某些調控 ATP 往胞外運輸的基因（如 ANKH gene）突變導致胞外 ATP 增加時，可能會增加焦磷酸鹽結晶沈積的風險 |\n| **病因** | • 老化、Osteoarthritis、關節或半月板受傷<br>• 家族遺傳、基因<br>• 內分泌或代謝異常：Primary hyperparathyroidism $\\rightarrow$ (B) 錯誤。Hemochromatosis、低血磷、低血鎂、痛風、X-linked hypophosphatemic rickets、Familial hypocalciuric hypercalcemia |\n| **症狀** | • 大多無症狀<br>• 急性關節炎：又被稱為 Pseudogout，臨床症狀很像急性痛風發作，但最常侵犯的關節為膝蓋、其次為手腕，其他還有肩膀、腳踝、手肘、手部等，很少侵犯大腳趾的關節 (Podagra)。急性發作的病程持續時間也通常比典型的痛風發作長（可能達數週至數月），且可能被外傷、其他嚴重疾病、手術（尤其 Parathyroidectomy）誘發<br>• 慢性關節炎：最常見的形式為 Polyarticular arthritis，漸進式的關節炎很類似 OA，故又被稱為 Pseudoosteoarthritis。會侵犯 OA 較不常見的關節，如 Metacarpophalangeal joint、手腕、手肘、肩膀、腳踝等 |\n| **檢查** | • X 光或超音波：纖維軟骨（半月板）或透明軟骨（關節）可見點狀或線狀的 Radiodense 沈積物 (Chondrocalcinosis)，有看到此特徵但沒有辦法抽關節液確診者，亦可視為有 CPPD $\\rightarrow$ (D) 痛風少見 chondrocalcinosis，反而會有 overhanging edges 和 punched-out erosion<br>• 關節液鏡檢（確診）：可見菱形 (Rhomboid) 或類棒狀 (Rod-like) 結晶，有微弱正偏光 $\\rightarrow$ (C) 正確 |\n| **治療** | 基本上很類似急性痛風發作的處置：冰敷並休息、抽關節液、注射類固醇、口服 Colchicine、NSAIDs、系統性類固醇。嚴重多關節發作者可用 IL-1$\\beta$ antagonist anakinra 治療，頻繁復發者使用預防性 Colchicine 可能有幫助 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-31_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-31_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-32",
@@ -22359,9 +22361,11 @@
       "D": "scleroderma renal crisis 較常出現在 limited cutaneous systemic sclerosis 病人"
     },
     "answer": "B",
-    "explanation": "<p>Diffuse cutaneous systemic sclerosis (dcSSc) 與 Limited cutaneous systemic sclerosis (lcSSc) 主要依照皮膚硬化的分佈以及進展速度區分，而兩者在其他臨床表現上也有所不同。部分 lcSSc 患者會表現一群典型症狀 (Calcinosis cutis、Raynaud's phenomenon、Esophageal dysmotility、Sclerodactyly、Telangiectasia)，又稱 CREST syndrome。</p>\n<table class=\"exp-table\">\n<tr><th></th><th>lcSSc</th><th>dcSSc</th></tr>\n<tr><td class=\"k\">皮膚侵犯</td><td>侷限於手指、手肘遠端，但臉部也可能出現，進展緩慢</td><td>分佈廣泛（手指、四肢、臉部、軀幹），進展快速</td></tr>\n<tr><td class=\"k\">Raynaud's phenomenon</td><td>在皮膚侵犯出現前就存在，可能跟嚴重的末端缺血有關</td><td>跟皮膚侵犯同時出現，嚴重缺血較少見</td></tr>\n<tr><td class=\"k\">骨關節</td><td>輕微關節疼痛</td><td>嚴重關節疼痛、腕隧道症候群、Joint contractures with tendon friction rubs</td></tr>\n<tr><td class=\"k\">Interstitial lung disease</td><td>緩慢進展、較輕微</td><td>常見、早期表現、進展快、較嚴重</td></tr>\n<tr><td class=\"k\">肺動脈高壓</td><td>常見、晚期表現、可以單獨出現</td><td>常跟 Interstitial lung disease 一起出現</td></tr>\n<tr><td class=\"k\">Scleroderma renal crisis</td><td>很少見</td><td>15% 病人會出現，通常早期表現（發病後 4 年內）</td></tr>\n<tr><td class=\"k\">Calcinosis cutis</td><td>常見、嚴重</td><td>少見、輕微</td></tr>\n<tr><td class=\"k\">自體抗體</td><td>Anti-centromere</td><td>Anti-topoisomerase I(Scl-70)<br>Anti-RNA polymerase III</td></tr>\n</table>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Diffuse cutaneous systemic sclerosis (dcSSc) 與 Limited cutaneous systemic sclerosis (lcSSc) 主要依照皮膚硬化的分佈以及進展速度區分，而兩者在其他臨床表現上也有所不同。部分 lcSSc 患者會表現一群典型症狀（Calcinosis cutis、Raynaud's phenomenon、Esophageal dysmotility、Sclerodactyly、Telangiectasia），又稱 CREST syndrome。\n\n| | lcSSc | dcSSc |\n| :--- | :--- | :--- |\n| **皮膚侵犯** | 侷限於手指、手肘遠端，但臉部也可能出現<br>進展緩慢 | 分佈廣泛（手指、四肢、臉部、軀幹）<br>進展快速 |\n| **Raynaud's phenomenon** | 在皮膚侵犯出現前就存在，可能跟嚴重的末端缺血有關 | 跟皮膚侵犯同時出現，嚴重缺血較少見 |\n| **骨關節** | 輕微關節疼痛 | 嚴重關節疼痛、腕隧道症候群、Joint contractures with tendon friction rubs |\n| **Interstitial lung disease** | 緩慢進展、較輕微 | 常見、早期表現、進展快、較嚴重 |\n| **肺動脈高壓** | 常見、晚期表現、可以單獨出現 | 常跟 Interstitial lung disease 一起出現 |\n| **Scleroderma renal crisis** | 很少見 | 15% 病人會出現，通常早期表現（發病後 4 年內） |\n| **Calcinosis cutis** | 常見、嚴重 | 少見、輕微 |\n| **自體抗體** | Anti-centromere | Anti-topoisomerase I (Scl-70)<br>Anti-RNA polymerase III |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-32_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-32_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-33",
@@ -22376,9 +22380,11 @@
       "D": "約5%病人會合併polymyalgia rheumatica"
     },
     "answer": "C",
-    "explanation": "<p>Giant cell arteritis (GCA)，又稱 Temporal arteritis</p>\n<table class=\"exp-table\">\n<tr><th colspan=\"2\">Giant cell arteritis (GCA)，又稱 Temporal arteritis</th></tr>\n<tr><td class=\"k\">定義</td><td>侵犯頸動脈一或多條分支（尤其 Temporal artery)的血管炎，屬於 Large vessel vasculitis。</td></tr>\n<tr><td class=\"k\">流病</td><td>幾乎只發生在 50 歲以上的病人，女性多於男性。→(A)(B) 錯誤。</td></tr>\n<tr><td class=\"k\">相關疾病</td><td>Polymyalgia rheumatica (PMR)，表現為頸部、肩膀、下背、臀部、大腿僵硬疼痛。40-50% GCA 患者會合併此疾病，而 10-20% PMR 患者會合併 GCA。→(D) 錯誤。</td></tr>\n<tr><td class=\"k\">症狀</td><td>常見發燒、貧血、ESR/CRP 升高、頭痛，而疲累、無力、食慾下降、體重減輕、關節痛、Claudication of the jaw 等症狀亦可能發生。身體檢查可能發現被侵犯的血管有 Bruits 或脈搏消失。最嚴重的併發症為腦部缺血，其中最需要注意的為 Ischemic optic neuropathy，可能致盲。</td></tr>\n<tr><td class=\"k\">檢查</td><td>• 實驗室檢查：ESR、CRP 升高、貧血、肝功能異常（尤其 ALK-P 上升）、IgG 及 Complement 也可能上升。<br>• Temporal artery biopsy：可用以確診，但並非所有病人檢查都會陽性（因為發炎是一段一段的，切片不一定能切到）。在給予類固醇治療後兩週內，切片依然會呈現陽性，故不應為了等待切片檢查而延後給予治療。<br>• 超音波（看 Temporal artery)、CT、MRI：可幫助診斷。</td></tr>\n<tr><td class=\"k\">治療</td><td>• 治療最重要的目標是避免失明。<br>• 類固醇：Prednisolone 40-60 mg/d for 1 month，之後慢慢減量。若有影響視力，則給予 Methylprednisolone 1000 mg daily for 3 days 以保護剩餘的視力。在類固醇逐步減量的過程中，約有 60-85% 病人復發。<br>• Aspirin：可減少腦部缺血相關的併發症，應合併類固醇使用。<br>• Tocilizumab (Anti-IL-6 receptor)：每週或隔週皮下注射一次，並且合併類固醇使用。→(C) 正確。<br>• Abatacept (CTLA4-Ig)：比單用類固醇的治療效果好。<br>• 尚無定論或沒用的藥：Methotrexate、Infliximab (Anti-TNFα)。</td></tr>\n</table>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Giant cell arteritis (GCA)，又稱 Temporal arteritis\n\n| Giant cell arteritis (GCA)，又稱 Temporal arteritis | |\n| :--- | :--- |\n| **定義** | 侵犯頸動脈一或多條分支（尤其 Temporal artery）的血管炎，屬於 Large vessel vasculitis |\n| **流病** | 幾乎只發生在 50 歲以上的病人，女性多於男性 $\\rightarrow$ (A)(B) 錯誤 |\n| **相關疾病** | Polymyalgia rheumatica (PMR)，表現為頸部、肩膀、下背、臀部、大腿僵硬疼痛。40-50% GCA 患者會合併此疾病，而 10-20% PMR 患者會合併 GCA $\\rightarrow$ (D) 錯誤 |\n| **症狀** | 常見發燒、貧血、ESR/CRP 升高、頭痛，而疲累、無力、食慾下降、體重減輕、關節痛、Claudication of the jaw 等症狀亦可能發生。身體檢查可能發現被侵犯的血管有 Bruits 或脈搏消失。最嚴重的併發症為腦部缺血，其中最需要注意的為 Ischemic optic neuropathy，可能致盲 |\n| **檢查** | • 實驗室檢查：ESR、CRP 升高、貧血、肝功能異常（尤其 ALK-P 上升）、IgG 及 Complement 也可能上升<br>• Temporal artery biopsy：可以用以確診，但並非所有病人檢查都會陽性（因為發炎是一段一段的，切片不一定能切到）。在給予類固醇治療後兩週內，切片依然會呈現陽性，故不應為了等待切片檢查而延後給予治療<br>• 超音波（看 Temporal artery）、CT、MRI：可幫助診斷 |\n| **治療** | • 治療最重要的目標是避免失明<br>• 類固醇：Prednisolone 40-60 mg/d for 1 month，之後慢慢減量。若有影響視力，則給予 Methylprednisolone 1000 mg daily for 3 days 以保護剩餘的視力。在類固醇逐步減量的過程中，約有 60-85% 病人復發<br>• Aspirin：可減少腦部缺血相關的併發症，應合併類固醇使用<br>• Tocilizumab (Anti-IL-6 receptor)：每週或隔週皮下注射一次，並且合併類固醇使用 $\\rightarrow$ (C) 正確<br>• Abatacept (CTLA4-Ig)：比單用類固醇的治療效果好<br>• 尚無定論或沒用的藥：Methotrexate、Infliximab (Anti-TNF$\\alpha$) |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-33_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-33_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-34",
@@ -22393,9 +22399,11 @@
       "D": "topical clobetasol as-needed"
     },
     "answer": "A",
-    "explanation": "<p>此為 Chronic urticaria（病程持續超過 6 週），治療以 Antihistamine 為首選，其中優先選擇較無鎮靜副作用的第二代的 H1-antihistamine，如 Loratadine、Desloratadine、Fexofenadine、Cetirizine、Levocetirizine。且由於本患者職業為計程車司機，更加不宜選擇鎮靜作用強的第一代抗組織胺（如 Chlorpheniramine、Diphenhydramine）。局部塗抹類固醇對治療 Urticaria 沒有效益。有關其他更詳細的 Urticaria 說明請見【113-2(四)34】詳解。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此為 Chronic urticaria（病程持續超過 6 週），治療以 Antihistamine 為首選，其中優先選擇較無鎮靜副作用的第二代的 H1-antihistamine，如 Loratadine、Desloratadine、Fexofenadine、Cetirizine、Levocetirizine。且由於本患者職業為計程車司機，更加不宜選擇鎮靜作用強的第一代抗組織胺（如 Chlorpheniramine、Diphenhydramine）。局部塗抹類固醇對治療 Urticaria 沒有效益。\n\n有關其他更詳細的 Urticaria 說明請見【113-2(四)34】詳解",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-34_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-34_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-35",
@@ -22410,9 +22418,11 @@
       "D": "安排腎臟切片檢查"
     },
     "answer": "C",
-    "explanation": "<p>年輕女性出現各種系統的症狀，可以先對一下 Systemic lupus erythematosus (SLE) 的 Classification criteria 看看是否有符合。</p>\n<table class=\"exp-table\">\n<tr><th colspan=\"2\">Classification criteria for SLE (2019 EULAR/ACR criteria)</th></tr>\n<tr><td colspan=\"2\">先決條件為 ANA titer ≥ 1:80</td></tr>\n<tr><th colspan=\"2\">臨床症狀</th></tr>\n<tr><td class=\"k\">全身性症狀</td><td>發燒</td></tr>\n<tr><td class=\"k\">神經、精神症狀</td><td>譫妄、精神病、癲癇</td></tr>\n<tr><td class=\"k\">黏膜皮膚症狀</td><td>• 非疤痕性落髮、口腔潰瘍<br>• Subacute cutaneous or discoid lupus、Acute cutaneous lupus（如 Malar rash)</td></tr>\n<tr><td class=\"k\">肌肉、骨骼症狀</td><td>關節疼痛</td></tr>\n<tr><td class=\"k\">漿膜異常症狀</td><td>肋膜或心包膜積液、急性心包膜炎</td></tr>\n<tr><td class=\"k\">血液症狀</td><td>白血球低下、血小板低下、貧血（自體免疫性溶血）</td></tr>\n<tr><td class=\"k\">腎臟症狀</td><td>蛋白尿 (&gt;0.5 g/24hr)、腎臟切片看到 Lupus nephritis (II-V)</td></tr>\n<tr><th colspan=\"2\">自體抗體</th></tr>\n<tr><td class=\"k\">Antiphospholipid antibodies</td><td>Anticardiolipin antibodies<br>Anti-β2GPI antibodies<br>Lupus anticoagulant</td></tr>\n<tr><td class=\"k\">Complement proteins</td><td>Low C3 and/or low C4</td></tr>\n<tr><td class=\"k\">SLE-specific antibodies</td><td>Anti-dsDNA antibody<br>Anti-Smith antibody</td></tr>\n</table>\n<p>此表省略了不同症狀的分數，但此題患者其實單以 ANA 加上臨床症狀即可被分類為 SLE，故此時要確診最需要的檢查應該是 ANA。至於 Antiphospholipid antibodies、腎臟切片則更能夠增加診斷的信心，對於後續的病程預測與治療也有幫助。</p>\n<p>至於肺部電腦斷層檢查，雖然病人有肋膜積液，但極有可能是 SLE 引起的，故做 CT 最沒有幫助。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "年輕女性出現各種系統的症狀，可以先對一下 Systemic lupus erythematosus (SLE) 的 Classification criteria 看看是否有符合。\n\n| Classification criteria for SLE (2019 EULAR/ACR criteria) | |\n| :--- | :--- |\n| **先決條件** | ANA titer $\\ge$ 1:80 |\n| **臨床症狀** | |\n| 全身性症狀 | 發燒 |\n| 神經、精神症狀 | 譫妄、精神病、癲癇 |\n| 黏膜皮膚症狀 | • 非疤痕性落髮、口腔潰瘍<br>• Subacute cutaneous or discoid lupus、Acute cutaneous lupus（如 Malar rash） |\n| 肌肉、骨骼症狀 | 關節疼痛 |\n| 漿膜異常症狀 | 肋膜或心包膜積液、急性心包膜炎 |\n| 血液症狀 | 白血球低下、血小板低下、貧血（自體免疫性溶血） |\n| 腎臟症狀 | 蛋白尿 (>0.5 g/24hr)、腎臟切片看到 Lupus nephritis (II-V) |\n| **自體抗體** | |\n| Antiphospholipid antibodies | Anticardiolipin antibodies<br>Anti-$\\beta$ 2GPI antibodies<br>Lupus anticoagulant |\n| Complement proteins | Low C3 and/or low C4 |\n| SLE-specific antibodies | Anti-dsDNA antibody<br>Anti-Smith antibody |\n\n此表省略了不同症狀的分數，但此題患者其實單以 ANA 加上臨床症狀即可被分類為 SLE，故此時要確診最需要的檢查應該是 ANA。至於 Antiphospholipid antibodies、腎臟切片則更能夠增加診斷的信心，對於後續的病程預測與治療也有幫助。\n\n至於肺部電腦斷層檢查，雖然病人有肋膜積液，但極有可能是 SLE 引起的，故做 CT 最沒有幫助",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-35_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-35_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-36",
@@ -22427,9 +22437,11 @@
       "D": "黑色素癌"
     },
     "answer": "C",
-    "explanation": "<p>腦部轉移病灶來源：Lung cancer (41%) &gt; Breast cancer (19%) &gt; Melanoma (10%) &gt; GI tract cancer (7%)。因此，前列腺癌是最少見的腦部轉移病灶原發部位。前列腺癌最常轉移的地方是淋巴結及骨頭，而前列腺癌在中樞神經較常以硬腦膜轉移表現，且主要造成脊髓壓迫之症狀。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腦部轉移病灶來源：Lung cancer (41%) > Breast cancer (19%) > Melanoma (10%) > GI tract cancer (7%)。因此，前列腺癌是最少見的腦部轉移病灶原發部位。前列腺癌最常轉移的地方是淋巴結及骨頭，而前列腺癌在中樞神經較常以硬腦膜轉移表現，且主要造成脊髓壓迫之症狀",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-36_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-36_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-37",
@@ -22444,9 +22456,11 @@
       "D": "histologic grade與預後相關"
     },
     "answer": "A",
-    "explanation": "<p>(A) Optimal resection 指的是最大殘餘腫瘤直徑小於 1 公分，預後較不開刀或殘餘大於 1 公分者好。</p>\n<p>(B) 正確，BRCA1 或 BRCA2 突變會增加卵巢上皮細胞癌的風險。</p>\n<p>(C) 正確，paclitaxel 和 carboplatin 是卵巢上皮細胞癌常用的輔助性化學治療藥物組合。</p>\n<p>(D) 正確，histologic grade 與預後相關，分化較差的腫瘤預後較差。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) Optimal resection 指的是最大殘餘腫瘤直徑小於 1 公分，預後較不開刀或殘餘大於 1 公分者好\n(B) 卵巢上皮細胞癌的家族遺傳基因有 *BRCA1*、*BRCA2*、Lynch syndrome (*MLH1*、*MSH2*、*MSH6*) 等\n(C) 常聽到的 T+P 就是 taxane + platinum，常用 paclitaxel + carboplatin\n(D) Grade 越高，癌細胞組織的侵犯程度與能力就越強，導致預後變差",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-37_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-37_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-38",
@@ -22461,9 +22475,11 @@
       "D": "Everolimus—EGFR 抑制劑"
     },
     "answer": "D",
-    "explanation": "<table class=\"exp-table\">\n<tr><th colspan=\"2\">乳癌治療藥物</th></tr>\n<tr><td class=\"k\" rowspan=\"3\">賀爾蒙藥</td><td>抗雌二醇 (anti-estrogen)：Tamoxifen</td></tr>\n<tr><td>芳香酶抑制劑 (aromatase inhibitor)：Anastrozole、Letrozole、Exemestane</td></tr>\n<tr><td>LHRH agonist：Goserelin (Zoladex®)、Leuprolide (Leuplin®)</td></tr>\n<tr><td class=\"k\" rowspan=\"7\">標靶藥物</td><td>anti HER2 mAb：Pertuzumab (Perjeta) iv、Trastuzumab (Herceptin) iv/sc</td></tr>\n<tr><td>antibody-drug conjugate (ADC)：Trastuzumab-emtansine (T-DM1)、Trastuzumab deruxtecan (T-DXd)</td></tr>\n<tr><td>EGFR&amp; HER2 inhibitor：Lapatinib (Tykerb)</td></tr>\n<tr><td>CDK4/6 inhibitor：Ribociclib (Kisqali)、Palbociclib (Ibrance)、Abemaciclib (Verzenio)</td></tr>\n<tr><td>mTOR inhibitor：Everolimus (Afinitor)</td></tr>\n<tr><td>PI3Kα inhibitor：Alpelisib</td></tr>\n<tr><td>PARP inhibitor：Olaparib</td></tr>\n<tr><td class=\"k\">anti-trop-2 ADC</td><td>Sacituzumab govitecan</td></tr>\n</table>\n<p>(D) 由上表可知，Everolimus (Afinitor) 為抑制 mTOR 的標靶藥物。</p>\n<p>(B) Denosumab 是抗 RANK Ligand 抗體，在乳癌的角色主要在於處理治療引起的副作用。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 乳癌治療藥物 | |\n| :--- | :--- |\n| **賀爾蒙藥** | |\n| 抗雌二醇 (anti-estrogen) | Tamoxifen |\n| 芳香酶抑制劑 (aromatase inhibitor) | Anastrozole<br>Letrozole<br>Exemestane |\n| LHRH agonist | Goserelin (Zoladex®)<br>Leuprolide (Leuplin®) |\n| **標靶藥物** | |\n| anti HER2 mAb | Pertuzumab (Perjeta) iv<br>Trastuzumab (Herceptin) iv/sc |\n| antibody-drug conjugate (ADC) | Trastuzumab-emtansine (T-DM1)<br>Trastuzumab deruxtecan (T-DXd) |\n| EGFR& HER2 inhibitor | Lapatinib (Tykerb) |\n| CDK4/6 inhibitor | Ribociclib (Kisqali)<br>Palbociclib (Ibrance)<br>Abemaciclib (Verzenio) |\n| mTOR inhibitor | Everolimus (Afinitor) |\n| PI3K$\\alpha$ inhibitor | Alpelisib |\n| PARP inhibitor | Olaparib |\n| anti-trop-2 ADC | Sacituzumab govitecan |\n\n(D) 由上表可知，Everolimus (Afinitor) 為抑制 mTOR 的標靶藥物\n(B) Denosumab 是抗 RANK Ligand 抗體，在乳癌的角色主要在於處理治療引起的副作用",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-38_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-38_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-39",
@@ -22478,9 +22494,11 @@
       "D": "某些化學治療藥物可能引起過敏反應（hypersensitivity reaction），如：taxane類藥物的過敏反應大多於第一或第二療程發生；而platinum類藥物的過敏反應則常於長期暴露後發生"
     },
     "answer": "A",
-    "explanation": "<p>(A) 錯誤。Tumor lysis syndrome 的預防以積極給水和 Allopurinol 為主，鹼化尿液反而可能增加腎小管結晶之風險，詳細介紹可參考【113-2(三)29】。</p>\n<p>(B) 正確。輸注單株抗體常引起 infusion reaction，症狀輕從發燒、紅疹、喘、心搏過速，到嚴重的 anaphylaxis 都有可能，通常在第一療程時發生。因為 Rituximab 與 B cell 的反應後會造成細胞激素釋放，故屬於相對常見 infusion reaction 的單株抗體，可以採用 antihistamine prophylaxis 或 prolonged infusion 等方法來預防。</p>\n<p>(C) 正確。CAR-T cell 活化後啟動全身之免疫系統、產生細胞激素，可能產生發燒、低血壓、多重器官衰竭之急症，稱為 cytokine release syndrome。此外，當這些細胞激素進入中樞神經、造成發炎後，也會造成腦水腫、意識改變、癲癇等神經急症，稱為 immune effector cell-associated neurotoxicity syndrome。</p>\n<p>(D) 正確。Taxane 類藥物主要是載體 (vehicle) 引起之過敏反應，絕大多數在第一或第二療程發生；platinum 類藥物引起過敏反應與其他藥物不同，大多在多次療程後才開始發生，第一或第二療程非常少見。以上兩者是最常見過敏反應的化療藥，其他如：asparaginase、cytarabine 等也常有輸注反應出現。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤。Tumor lysis syndrome 的預防以積極給水和 Allopurinol 為主，鹼化尿液反而可能增加腎小管結晶之風險，詳細介紹可參考【113-2(三)29】\n(B) 正確。輸注單株抗體常引起 infusion reaction，症狀輕從發燒、紅疹、喘、心搏過速，到嚴重的 anaphylaxis 都有可能，通常在第一療程時發生。因為 Rituximab 與 B cell 的反應後會造成細胞激素釋放，故屬於相對常見 infusion reaction 的單株抗體，可以採用 antihistamine prophylaxis 或 prolonged infusion 等方法來預防\n(C) 正確。CAR-T cell 活化後啟動全身之免疫系統、產生細胞激素，可能產生發燒、低血壓、多重器官衰竭之急症，稱為 cytokine release syndrome。此外，當這些細胞激素進入中樞神經、造成發炎後，也會造成腦水腫、意識改變、癲癇等神經急症，稱為 immune effector cell-associated neurotoxicity syndrome\n(D) 正確。Taxane 類藥物主要是載體 (vehicle) 引起之過敏反應，絕大多數在第一或第二療程發生；platinum 類藥物引起過敏反應與其他藥物不同，大多在多次療程後才開始發生，第一或第二療程非常少見。以上兩者是最常見過敏反應的化療藥，其他如：asparaginase、cytarabine 等也常有輸注反應出現",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-39_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-39_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-40",
@@ -22495,9 +22513,11 @@
       "D": "進行多發性白質腦病變（progressive multifocal leukoencephalopathy）"
     },
     "answer": "D",
-    "explanation": "<table class=\"exp-table\">\n<tr><th>常見免疫問題</th><th>常見感染病原體</th></tr>\n<tr><td class=\"k\">體液免疫異常 (CVID, 無脾症, multiple myeloma)</td><td>• 有莢膜的細菌：肺炎鏈球菌、流感嗜血桿菌、腦膜炎雙球菌<br>• 寄生蟲：巴貝氏蟲、梨形鞭毛蟲<br>• 病毒：VZV、腸病毒</td></tr>\n<tr><td class=\"k\">顆粒球／嗜中性球低下 (DM, ESRD, 打化療)</td><td>• 細菌：G(+)：金黃色葡萄球菌、草綠色鏈球菌；G(-)：大腸桿菌、克雷伯氏菌、綠膿桿菌<br>• 真菌：念珠菌、麴菌<br>• 病毒：VZV、HSV1,2、CMV</td></tr>\n<tr><td class=\"k\">細胞免疫異常 (HIV/AIDS, 長期使用類固醇, 移植後病人, DM, ESRD, 自體免疫疾病)</td><td>• 細菌：沙門氏菌、腸彎曲桿菌、TB<br>• 真菌：念珠菌、隱球菌、組織漿蟲菌<br>• 病毒：CMV、EBV、JC 病毒、BK 病毒</td></tr>\n<tr><td class=\"k\">器官衰竭</td><td>• 肝（肝硬化）：海洋弧菌、有莢膜的細菌</td></tr>\n<tr><td class=\"k\">使用生物製劑 (TNF-a, B cell 抗體)</td><td>• 細菌：TB, NTM<br>• 真菌：肺囊蟲<br>• 病毒：JC 病毒（引起進行多發性白質腦病，progressive multifocal leukoencephalopathy）<br>• 寄生蟲：糞小桿線蟲再次活化</td></tr>\n</table>\n<p>(B)(C) Rituximab 在這些疾病中反而是治療的角色。</p>",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 常見免疫問題 | 常見感染病原體 |\n| :--- | :--- |\n| **體液免疫異常** (CVID, 無脾症, multiple myeloma) | • 有莢膜的細菌：肺炎鏈球菌、流感嗜血桿菌、腦膜炎雙球菌<br>• 寄生蟲：巴貝氏蟲、梨形鞭毛蟲<br>• 病毒：VZV、腸病毒 |\n| **細胞免疫異常** (HIV/AIDS, 長期使用類固醇, 移植後病人, DM, ESRD, 自體免疫疾病) | • 細菌：沙門氏菌、腸彎曲桿菌、TB<br>• 真菌：念珠菌、隱球菌、組織漿蟲菌<br>• 病毒：CMV、EBV、JC 病毒、BK 病毒 |\n| **器官衰竭** | • 肝（肝硬化）：海洋弧菌、有莢膜的細菌 |\n| **使用生物製劑** (TNF-a, B cell 抗體) | • 細菌：TB, NTM<br>• 真菌：肺囊蟲<br>• 病毒：JC 病毒（引起進行多發性白質腦病, progressive multifocal leukoencephalopathy）<br>• 寄生蟲：糞小桿線蟲再次活化 |\n\n(B)(C) Rituximab 在這些疾病中反而是治療的角色",
+    "explanation_image": "/explanations/cropped/113-1-醫學(三)-40_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(三)-40_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(三)-41",
