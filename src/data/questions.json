@@ -26718,9 +26718,11 @@
       "D": "會厭區域的味覺由舌下神經（hypoglossal nerve, CN XII）支配"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "一階國考題，會厭區域的味覺是由迷走神經 (vagus nerve, CN X) 支配",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-21_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-21_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-22",
@@ -26735,9 +26737,11 @@
       "D": "長久接觸過敏原後，必然產生各種併發症或後遺症（sequelae）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 第一次接觸過敏原會產生致敏化 (sensitization)\n\n(B) 再次接觸會引發早期發炎反應 (early inflammation)，由 IgE 和肥大細胞所主導，造成流鼻水、打噴嚏、癢感、鼻塞\n\n(C) 反覆接觸則會出現晚期發炎反應 (late inflammation)，由嗜酸性球、嗜中性球、淋巴球、細胞激素等主導，以鼻塞為主要表現\n\n(D) 並非「必然」，有一部分人會產生併發症或不可逆的組織變化，但也有一部分人病程會緩解",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-22_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-22_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-23",
@@ -26752,9 +26756,14 @@
       "D": "group IV：眼眶膿瘍（orbital abscess）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Chandler 分類如下（建議考生自行搜尋圖片）：\n\n| Group | Presentation | Management |\n| :--- | :--- | :--- |\n| **I** | 發炎腫脹、隔膜前眼眶蜂窩組織炎 (preseptal orbital cellulitis) | 內科治療為主 |\n| **II** | 眼眶蜂窩組織炎 (orbital cellulitis) | 內科治療，若視力惡化或療效差則手術引流鼻竇 |\n| **III** | 眼眶骨膜下膿瘍 (subperiosteal abscess) | 抗生素合併手術介入 |\n| **IV** | 眼眶膿瘍 (orbital abscess) | 抗生素合併手術介入 |\n| **V** | 腦部海綿竇栓塞 (cavernous sinus thrombosis) | 抗生素合併手術介入 |\n\n本題箭頭處可見眼眶內已有積液，比 Group II 更嚴重，但又可見積液被一層膜侷限，呈現紡錘狀，表示積液將骨膜下空間撐開，符合骨膜下膿瘍的表現，故為 Group III，若是 Group IV 將會看到廣泛性的眼眶內積膿，不會有骨膜包覆",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-23_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-23_merged.png"
+    ],
+    "images": [
+      "/questions/113-1-醫學(六)-23-1.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-24",
@@ -26769,9 +26778,11 @@
       "D": "氣切造口 maturation 步驟並不一定要做"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，近年來心肺異常小兒的存活率提升，長期使用呼吸器的需求也增加，是小兒氣管切開術最大宗的適應症\n\n(B)(D) stay suture，或稱 rescue suture，用不可吸收線在氣管切口雙側做固定，可以幫助上提氣管、手術定位以及導管的置入，對所有 case 皆應執行；maturation 則是用可吸收線固定氣管和皮膚，幫助氣切口成熟，可以考慮執行，但不一定要做\n\n(C) 必須考量病人本身情況，且術後期間氣切管滑脫風險高、呼吸狀態變動大，加護病房較能提供足夠的照護密度",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-24_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-24_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-25",
@@ -26786,9 +26797,11 @@
       "D": "標靶類藥物治療所引起的耳毒性副作用"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "鼻咽癌早期（局部侵犯）以放療為主，中期（侵犯到骨頭、鼻竇，或有淋巴結轉移）以放療合併化療為主，晚期（多處轉移或復發）以鉑金類化療合併免疫治療為主，標靶藥物並非鼻咽癌病人常規上建議的治療，此外，標靶藥物中 anti-EGFR 的主要副作用是青春痘，anti-VEGF 的主要副作用是血管內皮傷害，也都與耳毒性相差甚遠，綜上，(D) 為錯誤答案\n\n| 可能造成耳毒性的藥物分類 | 代表性藥物 |\n| :--- | :--- |\n| **暫時性** | NSAIDs、奎寧 (quinine)、Loop diuretics、Macrolide、Vancomycin |\n| **永久性** | 鉑金類化療 (cisplatin、carboplatin)、長春花鹼 (vinca alkaloid)、重金屬、鐵螯合劑 (deferoxamine)、Aminoglycosides、polymyxins |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-25_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-25_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-26",
@@ -26803,9 +26816,11 @@
       "D": "第六、七區淋巴結"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 頭頸癌原發部位 | 淋巴轉移熱區 |\n| :--- | :--- |\n| **口腔癌（舌、頰、唇等）** | IA、IB、II、III |\n| **口咽癌** | II、III、IV、Retropharyngeal |\n| **鼻咽癌** | II、III、IV |\n| **下咽癌** | II、III、IV、piriform sinus 以下的容易轉移至 VI |\n| **喉癌** | II、III、IV |\n\n最佳答案為 (B)，(A) 比較像是口腔癌的轉移模式",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-26_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-26_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-27",
@@ -26820,9 +26835,11 @@
       "D": "Notch1"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，Cetuximab 是 anti-EGFR 的單株抗體，其他針對 EGFR 的藥物還有 Panitumumab、Erlotinib、Gefitinib 等，可以一起背起來\n\n(B) Ras 是一個很大的蛋白質家族，屬於 protooncogene，其突變與癌細胞增殖有關，許多標靶藥物是針對其路徑或下游產物所研發，比如 Sorafenib 抑制 RAF、Benimetinib 抑制 MEK 等\n\n(C) anti-VEGFR 的代表性藥物為 Bevacizumab，常用於非小細胞肺癌、大腸癌、腎細胞癌等\n\n(D) Notch1 與細胞的凋亡、增殖、免疫反應等有關，屬於 tumor suppressor gene，其變異和鱗狀上皮細胞癌、乳癌、白血病、腦癌等癌症相關，目前有標靶藥物如 Brontictuzumab 正在研發",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-27_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-27_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-28",
@@ -26837,9 +26854,11 @@
       "D": "如孕婦懷孕 16 週時羊膜穿刺術的染色體報告正常，則正常產檢即可"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "• 頸部透明帶 (nuchal translucency, NT) 於妊娠第 11~14 週以超音波測量，NT=2~3 mm 為正常，可搭配其他抽血指標，如：β-hCG、PAPP-A 評估，三個項目合併評估胎兒異常的 sensitivity 可達 90%\n• NT>3 mm 不代表絕對異常，對於檢測胎兒異常的 positive predictive value 僅 15%，僅能說明可能有非整倍體染色體疾病 (aneuploidy) 或其他結構性異常，若其他抽血指標也異常，則可進一步做羊膜穿刺 (amniocentesis) 或絨毛膜取樣術 (chorionic villus sampling, CVS)，而不會在發現 NT>3 mm 時就立即終止妊娠 → (A) 錯誤\n• 羊膜穿刺術染色體報告正常，指的是核型分析 (karyotype) 正常，沒有 trisomy、monosomy 等，可偵測 98~99% 的異常狀況，但對於基因層級的突變（如：Fragile X syndrome、thalassemia 等），則無法透過核型分析偵測，需要做細胞基因檢測分析才能知道是否有異常，除了羊膜穿刺之外，也建議做更詳細的解剖構造檢查（如高層次超音波）以排除相關異常 → (D) 錯誤\n• Aneuploidy 以 trisomy 21 (Down syndrome) 最常見，其次為 trisomy 13, 18，而結構性異常包含：神經管缺陷、心血管發展異常、唇顎裂、肛門閉鎖、四肢缺陷等，其中先天性心臟病的發生機率於各篇文獻所記載的不一，大約落在 1~5% → (B) 正確、(C) 錯誤\n\n其他考點：\n• 唐氏症篩檢分第一孕期篩檢（初唐）及第二孕期篩檢（二唐）：\n  - 第一孕期篩檢以 NT>3 mm、β-hCG 高於正常值、PAPP-A 低於正常值，作為唐氏症的風險分級依據（若為 trisomy 13, 18 則後兩者皆低）\n  - 第二孕期篩檢採用母血四指標，檢測 AFP、β-hCG、uE3 (Estradiol)、Inhibin-A：\n\n| 疾病分類 | AFP | β-hCG | uE3 | Inhibin-A |\n| :--- | :--- | :--- | :--- | :--- |\n| **Trisomy 18** | 低 | 低 | 低 | 低 |\n| **Trisomy 21 (唐氏症)** | 低 | **高** | 低 | **高** |\n| **神經管 / 腹壁缺損** | **高** | 高 | 高 | 高 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-28_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-28_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-29",
@@ -26854,9 +26873,14 @@
       "D": "雙胞胎妊娠（twin pregnancy）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "關鍵訊息：懷孕早期陰道出血、妊娠劇吐 (hyperemesis gravidum)、β-hCG 非常高 (>100k mIU/mL)、子宮大小增大、子宮內似暴風雪狀、看不到胎兒，這些皆為 gestational trophoblastic disease (GTD) 的特徵\n\n(A) 選項應會有子宮頸已打開的描述\n\n(B) 選項子宮腔內應沒有病灶，且會有腹水、子宮外妊娠囊等描述\n\n(D) 選項雙胞胎在懷孕 6 週可見羊膜囊或胎兒發育",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-29_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-29_merged.png"
+    ],
+    "images": [
+      "/questions/113-1-醫學(六)-29-1.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-30",
@@ -26871,9 +26895,11 @@
       "D": "胎盤（placenta）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Williams 的原文：排卵後到妊娠 6 週前主要由卵巢的 corpus luteum 分泌，妊娠 8 週以後則是主要由胎盤分泌，腎上腺雖然也會產出 progesterone，但多做為合成 aldosterone、cortisol 等賀爾蒙的中間產物",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-30_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-30_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-31",
