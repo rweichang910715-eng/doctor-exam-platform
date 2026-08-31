@@ -27677,9 +27677,11 @@
       "D": "非類固醇類消炎止痛藥（NSAIDs）一般對於慢性發炎的效果不如急性期來的好"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "以下比較幾種物理治療處理軟組織疼痛的模式：\n\n| 治療模式 | 原理與機轉 | 適應症與禁忌 |\n| :--- | :--- | :--- |\n| **冷敷 (cold pack)** | 急性期常用於防止出血和減緩發炎 | 慢性期會因降低血液循環而延遲癒合 |\n| **熱敷 (hot pack)** | 最常用，可促進血液循環，幫助肌肉放鬆 | **禁用於急性發炎、出血、感染或惡性腫瘤** |\n| **徒手療法 (manual therapy)** | 最重要的治療，包含鬆動術、按摩、運動治療等 | 可促進循環、放鬆肌肉，也可增加關節活動度、減少疼痛 |\n| **電療 (electrotherapy)** | 刺激粗神經纖維，利用門閥控制理論 (gate control theory) 止痛；刺激肌肉使其收縮，則可幫助血液循環和癒合 | 各種急慢性肌肉疼痛 |\n| **機械牽引 (mechanical traction)** | 牽拉肌肉與關節，減輕神經根壓迫 | 主要用於頸椎、腰椎或脊椎旁肌肉 |\n\n(A) 冷敷不建議用於慢性發炎，會阻礙癒合\n(B)(C) 正確\n(D) 正確，慢性期的血液循環比急性期差，故藥物吸收能力不好，若同時使用物理治療增加血液循環，或改用局部類固醇注射，則消炎效果會變好",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-71_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-71_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-72",
@@ -27694,9 +27696,11 @@
       "D": "20 歲女性突發胸悶灼熱感"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 此病人的症狀較像是吞嚥老化 (presbyphagia)，主要是因口腔和咽部隨年齡之退化造成之吞嚥機能下降，若沒有明顯惡化，可先嘗試復健、調整飲食質地等治療\n\n(B) 吞嚥固體時會卡住可能是環咽肌無法放鬆、咽喉肌無力等問題，加上症狀漸進式惡化，需藉由吞嚥影像檢查（如：吞嚥電視螢光攝影 VFSS）進一步判斷食物的殘留位置、肌肉的運動方向等，幫助鑑別診斷，故最需要安排吞嚥影像檢查\n\n(C) 新生兒溢奶是因賁門不成熟造成逆流，若無合併其他異常，可先調整飲食、避免餐後劇烈活動\n\n(D) 突發性胸悶灼熱感較像是胃食道逆流等疾病的典型表現，而非吞嚥問題，較無吞嚥影像檢查的角色",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-72_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-72_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-73",
@@ -27711,9 +27715,11 @@
       "D": "男性較女性多"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "肌纖維發育不全 (fibromuscular dysplasia, FMD) 是一種影響中小動脈的疾病，大多發生在女性，會影響腎、頸、椎動脈，但也可能影響冠狀、內臟或四肢動脈，其病生理主要是血管壁的增生，這些增生可能造成血管狹窄、剝離、阻塞、動脈瘤等，會進一步產生高血壓、中風、頭痛、動脈瘤破裂等表現\n\n(A) 錯誤，腎動脈最常見，頸動脈次之\n\n(B) 錯誤，大多發生在頸動脈較直的區間（才因此看得出串珠狀）\n\n(C) 正確，依影像的發現可以分為：\n\n| 類型 | 影像表現 | 組織病理特徵 |\n| :--- | :--- | :--- |\n| **Multifocal (較常見)** | **串珠狀 (string of beads)** | 常見於中層增生 (medial fibroplasia)：肌纖維脊 (fibromuscular ridges) 和正常血管壁厚薄交錯 |\n| **Focal (較少見)** | **管狀狹窄 (tubular stenosis)** | 常見於內層增生 (intimal fibroplasia) |\n\n(D) 錯誤，女性多於男性，在年輕女性看到高血壓要想到可能是肌纖維發育不全造成的次發性高血壓",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-73_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-73_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-74",
@@ -27728,9 +27734,14 @@
       "D": "dermoid cyst"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "由題幹敘述及影像得知於結腸肝彎處 (hepatic flexure) 及卵巢皆有病灶，較有可能的狀況是結腸腫瘤轉移至卵巢\n\n(B) 選項的 Krukenberg tumor 為轉移性的卵巢腫瘤，由胃、大腸、闌尾、乳房等處的原發性腫瘤轉移至卵巢，病理下的特徵為富含黏液 (mucin-rich)、可見戒狀細胞 (signet-ring cell)\n\n其他三個選項不會在結腸及卵巢都出現病灶：\n• (A) 選項 cystadenoma 通常病灶內不太有隔間 (septum)、界線清楚\n• (C) 選項 endometrioma 也是內部為均質、略為低回音的腫塊\n• (D) 選項 dermoid cyst 為 mature teratoma，可發現高回音的鈣化病灶",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-74_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-74_merged.png"
+    ],
+    "images": [
+      "/questions/113-1-醫學(六)-74-1.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-75",
@@ -27745,9 +27756,11 @@
       "D": "最常造成第八對腦神經病變"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "惡性外耳炎 (malignant external otitis) 是一種高侵犯性的外耳感染，會造成顱底骨髓炎 (skull base osteomyelitis)、腦膜炎 (meningitis) 等，死亡大多是因中樞神經的感染或是腦神經侵犯導致嗆咳\n\n(A) 大多數病人以口服抗生素即可控制，手術清除壞死骨頭反而會加速感染的擴散\n\n(B) 最常見的致病菌是綠膿桿菌 (Pseudomonas aeruginosa)\n\n(C) CRP 敏感性高但特異性低；對骨髓炎來說，ESR 是一個較好的抽血追蹤指標\n\n(D) 顱底侵犯影響到的腦神經主要是第 VII 對腦神經 (顏面神經 CN VII)，若是更嚴重侵犯到 jugular foramen、hypoglossal canal 等構造，也會影響 CN IX、X、XI、XII",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-75_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-75_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-76",
@@ -27762,9 +27775,11 @@
       "D": "鼻腔內之鈕扣電池常不易經由目視發現，如懷疑可考慮照 X 光輔助診斷"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(B)(D) 皆正確\n\n(C) 錯誤，濕潤的鼻黏膜會使鈕扣電池的封裝破損、漏液，造成黏膜損傷甚至鼻中膈穿孔，必須盡快取出，鼻滴劑只會讓鈕扣電池更濕潤、更容易漏液造成化學性灼傷，不應使用",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-76_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-76_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-77",
@@ -27779,9 +27794,11 @@
       "D": "甲醇中毒病人，除造成急性視力減損或喪失外，會引發嚴重眼睛疼痛"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 眼窩骨折 (orbital blow-out fracture) 最常發生在下壁和內壁，且容易造成下直肌被卡住而無法往上看，或造成眶下神經 (infraorbital nerve) 受損使得下眼皮、臉頰和上唇麻痺\n\n(B) 相對來說正確，紫外線角膜炎 (ultraviolet keratitis) 主要為支持性治療，包含紅黴素眼藥膏、人工淚液、口服止痛藥等，等約 1~3 天後上皮癒合即可，局部睫狀肌麻痺劑 (cycloplegics) 可以緩解疼痛或畏光，但對於上皮癒合幫助有限，是否需常規使用仍有討論空間\n\n(C) 隱形眼鏡角膜炎有 60% 是綠膿桿菌所造成，經驗性抗生素會選用 Fluoroquinolone 類，或考慮 Cephalosporin 合併 Aminoglycoside 類，不會選用紅黴素\n\n(D) 甲醇中毒會對視神經造成直接的毒性而導致失明，但並不會造成眼睛疼痛",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-77_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-77_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-78",
@@ -27796,9 +27813,11 @@
       "D": "考量為初期子宮頸癌，建議做子宮頸圓錐狀切除及密集追蹤"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "解題概念同【113-1(六)50】\n\n子宮頸癌 stage IA1，腫瘤侵犯深度 < 3mm，欲保留生育能力可進行子宮頸錐狀切除 (conization)，後續定期以抹片、內診、超音波等方式追蹤是否復發，並鼓勵病人積極備孕\n\n(A) 選項的問題在於生產過程大量出血，反而容易造成癌細胞擴散\n\n(C) 選項則是存在倫理議題及需權衡治療所帶來的利弊，且台灣目前尚未開放代理孕母",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-78_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-78_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-79",
@@ -27813,9 +27832,11 @@
       "D": "末期患者"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "易受傷害族群 (vulnerable population) 的定義分為兩種：\n1. 第一種為受試者無足夠能力或清楚意識，理解研究內容並行使知情同意\n2. 第二種為受試者為弱勢族群（政治、經濟，或社會上），與研究者之間的權利不對等\n\n易受傷害族群包括：胎兒、胚胎、兒童、青少年、第一期臨床試驗的健康成年人、婦女、孕婦、決定能力減損者、從屬族群（如：犯人、軍人、大專學生、受雇者等）、末期患者、災民、發展中國家人民、原住民與新移民\n\n老人因具備自主決定能力且非從屬關係，一般醫學研究中不直接歸類為法定易受傷害族群，故選 (C)\n\n參考：臺灣學術倫理教育資源中心",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-79_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-79_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-80",
@@ -27830,9 +27851,11 @@
       "D": "暫時不進行通報，將病人收住院以避免進一步傷害"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據《家庭暴力防治法》第 50 條所述，醫事人員於執行職務時，知有疑似家庭暴力情事，應於 24 小時內通報當地主管機關\n\n綜合以上，最適當之處置應為告知病人醫師有通報之義務，並且詳以解釋按時完整治療的重要\n\n於醫學倫理方面，則可以引用行善原則的概念，所做的處置雖然表面影響病人所擔心的家庭關係，但為了病人安全、保護其不再受到家庭暴力的傷害，應立即通報相關單位",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-80_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-80_merged.png"
+    ]
   },
   {
     "id": "113-2-醫學(三)-1",
