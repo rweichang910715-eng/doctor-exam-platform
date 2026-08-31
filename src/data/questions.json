@@ -27487,9 +27487,11 @@
       "D": "失讀症（alexia）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "中風症狀大多可以用神解觀念推導，剩下把一些專有名詞記起來就好：\n\n| 血管支配 | 可能之臨床症狀 |\n| :--- | :--- |\n| **前大腦動脈 (ACA)** | • 張力異常 (paratonia)、尿失禁 (urinary incontinence)<br>• 經皮質運動失語症 (transcortical motor aphasia)<br>• 行為改變、缺乏意志 (abulia)<br>• 對側下肢偏癱、對側麻木 |\n| **中大腦動脈 (MCA)** | • 半邊忽略 (hemineglect)、全失型失語症 (global aphasia)<br>• 吞嚥困難 (dysphagia)、神經性膀胱<br>• 對側同向半偏盲 (contralateral homonymous hemianopia)<br>• 對側偏癱但下肢保留、對側麻木 |\n| **後大腦動脈 (PCA)** | • 視覺失認 (agnosia)、面部失認 (prosopagnosia)、辨色不良 (dyschromatopsia)、失讀症但無失寫症 (alexia without agraphia)<br>• 部分或完全對側同向半偏盲 (contralateral homonymous hemianopia)<br>• 半側感覺缺失 |\n\n此題 (A)(B)(C) 皆是前大腦動脈中風的表現，而 (D) 失讀症 (alexia) 為後大腦動脈 (PCA) 中風的表現",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-61_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-61_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-62",
@@ -27504,9 +27506,11 @@
       "D": "可使用口服抗發炎藥物治療"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，橈側屈腕肌是肘內側上髁炎（屈肌群），橈側伸腕短肌才是肘外側上髁炎（伸肌群）\n\n(B) 正確，重複性的動作和不良的動作力學是此類肌腱炎的大宗成因，應試圖修正\n\n(C)(D) 正確，詳見下方整理：\n\n| 項目 | 肘外側上髁炎（網球肘） | 肘內側上髁炎（高爾夫球肘） |\n| :--- | :--- | :--- |\n| **牽涉肌肉** | 橈側伸腕短肌 (ECRB)、總伸指肌 (EDC) | 旋前圓肌、橈側屈腕肌、掌長肌、尺側屈腕肌、屈指淺肌 |\n| **病生理** | 肌腱微小撕裂而造成生物力學的改變，一開始可能有發炎，但目前認為主要是退化性的病程 |\n| **診斷** | 軟組織超音波檢查會發現在病灶處有低回音成像合併聲影現象 (acoustic shadow) |\n| **治療** | 找出動作上的成因並修正、超音波、口服抗發炎藥物、軟組織修復增生治療注射 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-62_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-62_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-63",
@@ -27521,9 +27525,11 @@
       "D": "C：compression"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "軟組織損傷目前以 PEACE & LOVE 原則為主：\n\n| 期別 | 原則與縮寫 | 詳細說明與處置要點 |\n| :--- | :--- | :--- |\n| **急性期：PEACE** | **Protect 保護** | 前 1~3 天應限制活動以防止傷害加重 |\n| | **Elevate 抬高** | 將肢體抬高到比心臟高，促使組織液流出 |\n| | **Avoid anti-inflammatory modalities 避免使用抗發炎藥物** | 發炎有助於組織修復，抗發炎藥物（如：NSAIDs）可能對組織修復產生負面影響，應改用 Acetaminophen |\n| | **Compression 加壓** | 包紮壓迫可以減少出血和水腫 |\n| | **Educate 衛教** | 衛教患者積極復健的重要性，避免長期依賴被動儀器（如：電療、徒手治療） |\n| **亞急性期：LOVE** | **Load 負荷** | 不加重疼痛的適當負荷可以幫助組織修復、提升肌肉和肌腱的強度 |\n| | **Optimism 樂觀** | 患者的樂觀期望與更好的預後有關，反之抑鬱和恐懼可能成為康復的阻礙 |\n| | **Vascularization 血液循環** | 有氧運動可以幫助提升受傷處的血流、改善身體機能 |\n| | **Exercise 運動** | 不增加疼痛的前提下，運動有助恢復活動力、力量和本體感覺 |\n\n(C) 錯誤，A 是 Avoid anti-inflammatory modalities，而非 avoid movement",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-63_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-63_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-64",
@@ -27538,9 +27544,11 @@
       "D": "傷口延遲癒合（delay in wound healing）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "義肢配置之不良因子包含：傷口延遲癒合 (delay in wound healing)、關節攣縮 (presence of joint contractures)、失智或合併認知問題 (dementia or cognitive disorders)、有共病症 (medical comorbidities) 和高位截肢 (higher levels of limb amputation，主要是 transfemoral)，故 (A)(C)(D) 正確\n\n另外，除非年紀大於 80~85 歲，否則年齡不是決定義肢成功與否的主要因子，故 (B)「年齡小於 60 歲」既不是不良因子也不是有利因子",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-64_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-64_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-65",
@@ -27555,9 +27563,11 @@
       "D": "測試的場所長度要 30 公尺，軟性地板的走廊為佳，以免對於膝關節造成傷害"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "6 分鐘行走測試 (6MWT) 為 Balke 於 1963 年提出，常用於在心肺疾病患者的運動耐力評估，目前依據的是 2002 年美國胸腔醫學會公布之測試指引：\n1. 在 30 公尺長、硬地板走廊執行\n2. 測試開始前，對受測者的指引為「目標是在六分鐘之內走得越遠越好，但不能奔跑，行走時不能說話」\n3. 測試時若受測者有不適可隨時停下\n4. 每分鐘需對受測者報時一次，並用統一的句子鼓勵受試者\n\n(A) 正確\n\n(B) 測驗本身可以反映肌肉骨骼系統與心血管疾病之間交互作用\n\n(C) 測驗過程有明確規範，如上述\n\n(D) 應該採用硬性地板才能減少對膝關節之傷害",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-65_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-65_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-66",
@@ -27572,9 +27582,11 @@
       "D": "莫洛氏反射（Moro reflex）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "降落傘反射 (parachute reflex) 會終身存在，自然持續最久，選 (A)\n\n以下補充其他常考反射的出現與消失時間：\n\n| 反射名稱 | 出現時間 | 消失時間 |\n| :--- | :--- | :--- |\n| **手掌抓握反射 (palmar grasp reflex)** | 孕齡 28 週 | 出生後 2~3 個月 |\n| **尋乳反射 (rooting reflex)** | 孕齡 32 週 | 出生後 1 個月左右 |\n| **莫洛氏反射 (Moro reflex)** | 孕齡 28~32 週 | 出生後 5~6 個月 |\n| **不對稱張力頸部反射 (asymmetric tonic neck reflex, ATNR)** | 孕齡 35 週 | 出生後 6~7 個月 |\n| **降落傘反射 (parachute reflex)** | 出生後 7~8 個月 | **終身存在** |\n\n前四者都是孕齡時發展出來，因此出生時就可觀察到，整體持續時間長短大約為：降落傘反射 > 張力頸部反射 > 莫洛氏反射 > 手掌抓握反射 > 尋乳反射",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-66_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-66_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-67",
@@ -27589,9 +27601,11 @@
       "D": "腦性麻痺常出現肌肉骨骼系統（musculoskeletal system）的提早老化"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腦性麻痺 (cerebral palsy) 是指兒童腦部在「成熟前」受到「非進行性」傷害 (static encephalopathy)，導致永久的「動作障礙」的一種「症候群」，亦可能伴隨有其他腦區的損害（如：智能、聽覺、情緒、語言、視覺等障礙），其危險因子與併發症請參考小兒科【113-2(四)29】\n\n主要可分為以下分型：\n\n| 分類面向 | 分型 | 特徵與臨床表現 |\n| :--- | :--- | :--- |\n| **神經肌肉受損分類** | **痙攣型 (spastic type)** | 最常見，皮質或神經傳導路徑受損造成，可以雙邊麻痺、半邊麻痺或四肢麻痺表現，呈肌肉高張力、肌腱反射增強，上肢以屈曲為主，下肢以伸張為主，此型容易併發癲癇 |\n| | **運動困難型 (dyskinetic type) = 徐動型 (athetosis)** | 次常見，主要成因為核黃疸造成基底核受損，常以四肢麻痺表現，會出現不自主的動作，肌肉張力忽高忽低 |\n| | **運動失調型 (ataxia)** | 小腦受損造成，常以四肢麻痺表現，會出現肢體不平衡、低張力、不協調等 |\n| | **低張力型 (hypotonia)** | 全身低張力，可能是痙攣型或徐動型的過度表現，需排除其他肌肉神經病變 |\n| **受損肢體分類** | **雙邊麻痺型 (diplegia)** | **早產兒最常出現**，全身肌肉皆受損，但下肢比上肢較嚴重，鮮少合併其他異常，故大多能自理和行走 |\n| | **半邊麻痺型 (hemiplegia)** | 僅一側肢體受損，預後好，大多可自理和自行行走 |\n| | **四肢麻痺型 (quadriplegia)** | 全身肌肉皆受損，下肢和上肢一樣嚴重，常不對稱表現，若是痙攣型大約只有 1/3 能自理和自行行走，但若是徐動型或運動失調型則大多數可以步行 |\n\n(A)(B) 正確，詳見上表\n\n(C) 錯誤，早產最常導致的腦性麻痺型態應為雙邊麻痺型 (diplegia)\n\n(D) 正確，由於患者動作需要其他肌肉代償、耗能高，肌肉骨骼系統的提早老化很常見，約 25 歲後即會開始退步",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-67_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-67_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-68",
@@ -27606,9 +27620,11 @@
       "D": "30%"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "世界衛生組織 (WHO) 的定義中：\n• 65 歲以上人口占全人口百分比超過 7% 為「高齡化社會」\n• 超過 14% 為「高齡社會」\n• 超過 20% 為「超高齡社會」\n\n台灣已於 2018 年進入高齡社會，預期 2026 年將進入超高齡社會",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-68_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-68_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-69",
@@ -27623,9 +27639,11 @@
       "D": "在長期方面，才需要考量精神、疾病以及體能因素的影響"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(C) 老年人較不需考慮職業因素，反而應該重視獨立生活、社交與娛樂，職業因素是年輕人的復健計劃需要考慮的\n\n(B) 正確，不論那一階段都要維持功能、增加生活品質及減少依賴與被照顧\n\n(D) 這些因素是短期就需要考量的，老年復健的短期目標是要讓老年人能夠進入復健的狀況，為此必須盡可能排除精神、疾病以及體能因素的障礙，使其整體狀況改善後，才能慢慢開始規劃長期復健目標（也就是獨立生活、社交與娛樂）",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-69_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-69_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-70",
@@ -27640,9 +27658,11 @@
       "D": "外旋（external rotation）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "乳癌手術切除前胸和腋下的組織會造成肩關節活動度的失能，最易受限的是外展 (abduction)，且外展受限時容易影響到後續的放射治療規劃，因此需要早期開始復健，若是不知道正確答案，考試當下想像一下肩關節活動的各個方向，應該也會發現外展是四個角度中最容易牽扯到腋下組織的，就選 (A) 啦！\n\n其他乳癌相關的失能：\n\n| 失能類型 | 機轉與臨床表現 | 處置要點 |\n| :--- | :--- | :--- |\n| **腋網症候群 (Axillary web syndrome)** | 腋下向肘窩的方向出現索狀物 (cord-like structure)，主要是淋巴管和血管的增生和阻塞造成，會導致肩外展疼痛、受限，於術後三週最常見 | 在牽拉運動、軟組織鬆動術下，約三個月內會緩解，但可能復發 |\n| **淋巴水腫 (Lymphedema)** | 淋巴管被破壞致淋巴回流被干擾，富含蛋白質的淋巴液會因此堆積在皮下，誘發免疫反應，造成表皮增生、膠原沉積、單核球浸潤等，皮膚會失去屏障功能而易感染，關節也會因皮下組織變厚而活動度受限 | 治療依嚴重度而有不同，包含加壓治療、淋巴引流、退腫運動、淋巴管重建等 |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-70_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-70_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-71",
