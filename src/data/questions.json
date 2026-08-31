@@ -27107,9 +27107,11 @@
       "D": "輸卵管之子宮外孕（tubal pregnancy）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "關鍵訊息：月經來有經痛、CA-125 些微上升 (>35 U/mL)、卵巢均質低迴音囊腫，皆為子宮內膜異位症 (endometriosis) 當中的子宮內膜異位囊腫 (endometrioma) 典型特徵，選 (B)\n\n(A) TOA 為骨盆腔發炎疾病 (pelvic inflammatory disease, PID) 的併發症，以發燒、下腹疼痛、陰道膿樣分泌物表現\n\n(C) 卵巢畸胎瘤大多無症狀，或者通常以非特異性的下腹悶脹感、意外摸到的腹部腫塊表現，若出現卵巢扭轉 (ovarian torsion) 則會有急性腹部劇痛、噁心、嘔吐的症狀出現\n\n(D) 子宮外孕常見症狀為腹痛、月經沒來、陰道流血，可能伴隨懷孕早期的身體不適感，如：乳房脹痛、頻尿、噁心等，若子宮外孕囊破裂則出現休克",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-41_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-41_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-42",
@@ -27124,9 +27126,11 @@
       "D": "試管嬰兒胚胎植入的事前評估（assessment prior to embryo transfer）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "子宮鏡分為診斷性 (diagnostic) 及治療性 (operative)，適應症如下：\n\n| 類別 | 子宮鏡 (hysteroscopy) 適應症 |\n| :--- | :--- |\n| **診斷性** | 陰道異常出血（停經前及停經後皆可）、不孕症患者（子宮輸卵管攝影或經陰道超音波異常時、無法解釋的不孕、胚胎植入前例行評估、部分子宮手術的初次術後追蹤）、習慣性流產 |\n| **治療性** | 異物（如子宮內避孕器）、中膈子宮、子宮內膜息肉、子宮肌瘤、分離子宮內沾黏 (intrauterine adhesions, IUAs) |\n\n輸卵管水腫應以子宮輸卵管攝影 (hysterosalpingography, HSG) 注入顯影劑評估，子宮鏡的視野範圍僅限子宮內腔，看不到輸卵管",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-42_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-42_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-43",
@@ -27141,9 +27145,11 @@
       "D": "HPV 31, 45"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "尖形濕疣與子宮頸癌皆以人類乳突病毒 (human papillomavirus, HPV) 為致病原，尖形濕疣為 HPV type 6, 11，子宮頸癌的高風險型共有 18 種，其中以 HPV 16, 18, 31, 33, 45, 52, 58 為最常見，也是目前 HPV 九價疫苗 (Gardasil 9) 所涵蓋到的分型\n\n其他考點：\n1. 子宮頸癌絕大多數為 HPV 引起，HPV 疫苗分為二價 (Cervarix, 16/18)、四價 (Gardasil 4, 6/11/16/18)、九價（如上所述）",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-43_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-43_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-44",
@@ -27158,9 +27164,11 @@
       "D": "amoxicillin"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "純背誦題…，細菌性陰道炎常見的致病菌為 Gardnerella vaginalis、Prevotella、Bacteroides 等厭氧菌，使用 metronidazole\n\n最常見的三種陰道感染比較表：\n\n| 評估項目 | 細菌性陰道炎 (Bacterial vaginosis, BV) | 念珠菌陰道炎 (Vulvovaginal candidiasis) | 滴蟲陰道炎 (Trichomonas) |\n| :--- | :--- | :--- | :--- |\n| **病原體** | Gardnerella vaginalis, Prevotella, Bacteroides | Candida albicans (85%), Candida glabrata (14%) | Trichomonas vaginalis |\n| **發生率** | 45%，最常見 | 35%，育齡女性 | 20%，可能與 BV 共存 |\n| **風險因子** | 感染、性行為、陰道灌洗、抽菸 | 懷孕（雌激素）、糖尿病、免疫抑制、抗生素 | 性伴侶感染 (70%) |\n| **症狀** | 多無症狀，無搔癢 / 紅腫 | 會陰部搔癢 / 灼熱刺激感，可能伴隨解尿 / 性交疼痛 | 輕微陰道刺激 |\n| **內診** | 輕微陰道刺激 | 陰道和陰唇紅腫、裂傷 | 少數有 strawberry cervix |\n| **分泌物** | 魚腥腐臭味、灰色 | 黃白色乳酪斑塊狀 | 大量、惡臭和黃綠膿狀 |\n| **pH 值** | > 4.5 | 正常 (3.5~4.5) | 5~6 |\n| **食鹽水抹片** | Clue cell > 20%（被細菌包覆的表皮細胞） | yeast or pseudo-hyphae | active trichomonads |\n| **加入 KOH** | Whiff test (+)、魚腥味 | yeast 更明顯 | X |\n| **治療** | • 首選用 Metronidazole、Clindamycin 口服 / 塗抹<br>• 二線口服 Tinidazole，PO 可考慮吃益生菌（乳酸桿菌 GR-1、RC-14） | 可選擇 Clotrimazole 或 Nystatin 經陰道使用，或 Fluconazole 單次口服，下者復發則以 Fluconazole 持續治療 6 個月 | Metronidazole 高劑量單次口服或低劑量治療長達 1 週（治療期間需禁慾，且性伴侶亦需接受治療） |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-44_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-44_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-45",
@@ -27175,9 +27183,11 @@
       "D": "mucinous cystadenocarcinoma"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "卵巢上皮惡性腫瘤 (epithelial ovarian tumor) 的細胞來源為偶爾一見的考題：\n\n| 病理型態 | 細胞來源 | 其他特徵 | 比例 |\n| :--- | :--- | :--- | :--- |\n| **Serous** | 輸卵管內 (endosalpingeal) | 20% 為雙側 | 80% |\n| **Endometrioid** | 子宮內膜 (endometrial) | 與 endometrioma 有關，15~30% 合併子宮內膜癌 | 10% |\n| **Clear cell** | 穆氏細胞 (Mullerian cell) | 與 endometrioma 有關 | 5% |\n| **Mucinous** | 子宮頸內膜 (endocervical) | 可能出現 pseudomyxoma peritonei，CA-199 高 | 5% |\n| **Brenner** | 移行上皮細胞 (transitional) | 可能與泌尿上皮癌同時出現 | < 1% |\n| **Squamous cell** | 畸胎瘤細胞 (teratoma) | 自成熟畸胎瘤惡性轉化最常見之型態 | < 1% |\n| **Undifferentiated** | 未分化細胞 (anaplastic) | 惡性度極高 | < 1% |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-45_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-45_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-46",
@@ -27192,9 +27202,11 @@
       "D": "梅毒（syphilis）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據美國 CDC 於 2018 年的統計資料，婦女生殖道傳染病中，HPV 的盛行率最高，有 4250 萬人感染，其次依序為 HSV (1860 萬)、trichomonas (260 萬)、chlamydia (240 萬)、HIV (98 萬)、gonorrhea (20.9 萬)、syphilis (15.6 萬)",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-46_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-46_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-47",
@@ -27209,9 +27221,11 @@
       "D": "右側骨盆有子宮內膜異位者，復發率較高"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "純粹由教科書翻譯下來的數據題…，子宮內膜異位瘤 (endometrioma) 為子宮內膜異位的組織 (endometriosis tissue) 於卵巢生長，形成內含積血的囊狀腫塊，因外觀呈咖啡色，故得名巧克力囊腫 (chocolate cyst)，目前僅能透過腹腔鏡手術抽吸切除做為治癒性治療，可改善疼痛、性交疼痛、不孕等症狀，輔以口服避孕藥、黃體素等藥物控制，以減少復發率\n\n每年復發的機率約 2~20%，術後 2 年累積復發率 4~25%；5 年復發率 > 40%，位於骨盆左側的復發率較高，原因不明",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-47_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-47_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-48",
@@ -27226,9 +27240,11 @@
       "D": "大部分人類乳突病毒感染是暫時性感染，會在 1 年左右消失"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，pap smear 的結果為 CIN1，可於 3~6 個月再次抹片追蹤，有 60% 會回復正常、30% 會維持 CIN1 的結果、10% 進展為 CIN2 以上\n\n(B) 正確，子宮頸癌或癌前病變的治療選用錐狀切片 (conization) 的狀況為：CIN2~3、CIN1 持續超過 2 年、CIN1 且為 high grade、stage IA 且 LVSI(-) 欲保留生育者\n\n(C) 正確，子宮頸癌可說是幾乎由 HPV 感染造成的，最常見的 type 為 16、18 型，其中 16 型更多\n\n(D) 正確，大部分 HPV 感染可以自行痊癒，極少數會演變成 CIN，風險因子包含：抽菸、使用避孕藥、有性傳染病史、營養狀況不佳",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-48_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-48_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-49",
@@ -27243,9 +27259,11 @@
       "D": "endodermal sinus tumor：AFP (+), hCG (-)"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "常見的考題！記下來：\n\n| 腫瘤型態 | 特色 | 腫瘤指標 | 組織切片特徵 |\n| :--- | :--- | :--- | :--- |\n| **Dysgerminoma** | 最常見，10% 為雙側 | LDH ↑↑ | Fried egg cell |\n| **Choriocarcinoma** | 高度惡性，血行轉移至肺肝腦，可能合併甲亢 | HCG ↑↑ | 滋養層細胞增生 |\n| **Yolk sac tumor** | = endodermal sinus tumor，第三常見 | AFP ↑↑ | Schiller-Duval body |\n| **Embryonal carcinoma** | 罕見高度惡性 | Estrogen ↑, HCG ↑ | 未分化多形細胞 |\n| **Immature teratoma** | 含未成熟神經外胚層組織 | AFP (-), hCG (-) | 未成熟神經上皮 |\n\n(B) 選項錯在 immature teratoma 的 AFP 與 hCG 應皆為 (-)",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-49_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-49_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-50",
@@ -27260,9 +27278,11 @@
       "D": "可以，但須無淋巴腺或淋巴血管轉移，可行子宮頸圓錐切片，保留子宮"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "保留生育能力的術式分為圓錐切片 (conization) 及子宮頸根除性切除 (radical trachelectomy)，圓錐切片於 stage IA 且 LVSI(-) 的病人施行；子宮頸根除性切除可於 stage IB1、stage IB2 甚至部分 IIA1（腫瘤大小 <4cm）的病人施行\n\n題目中病人子宮頸癌侵襲深度 5mm 達 stage IB，腫瘤大小 1 cm，分期為 stage IB1，若想保留生育能力，則可以進行子宮頸根除性切除 (radical trachelectomy)",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-50_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-50_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-51",
