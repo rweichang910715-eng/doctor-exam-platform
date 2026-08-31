@@ -27297,9 +27297,11 @@
       "D": "經產婦"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "子宮內膜癌的風險因子整理如下：\n\n| 風險面向 | 詳細危險因子與機轉 |\n| :--- | :--- |\n| **個人因子** | 年紀大、肥胖、未生育、初經早 → 受 estrogen 的暴露劑量高 |\n| **過去病史** | 糖尿病、多囊性卵巢、子宮內膜增生、遺傳性非息肉大腸直腸癌 (HNPCC / Lynch syndrome) |\n| **雌激素相關** | 卵巢腫瘤、使用口服避孕藥（保護因子）、單獨使用雌激素 (unopposed estrogen)、使用 SERM（如：tamoxifen） |\n| **家族病史** | 與 BRCA、TP53 等相關基因，如：子宮內膜癌、乳癌、大腸癌、卵巢癌 |\n\n(D) 選項為保護因子，未生育 (nulliparity) 才是子宮內膜癌的危險因子",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-51_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-51_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-52",
@@ -27314,9 +27316,11 @@
       "D": "L1、L2"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "E6 透過與 p53 結合使之降解，抑制細胞 apoptosis；E7 則是與 pRb 結合，促進細胞週期由 G1 進入 S，兩者皆促使癌細胞的生成與進展\n\n而 (D) 選項 L1、L2 為負責製造病毒外殼 (capsid protein) 的基因",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-52_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-52_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-53",
@@ -27331,9 +27335,11 @@
       "D": "對所有的卵巢癌病人而言，化學治療都可以提高存活率"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，serous adenocarcinoma 佔上皮性卵巢癌 80%，其次依序為 endometrioid、clear cell、mucinous\n\n(B) 錯誤，上皮性卵巢癌分為兩種 type，當中 type II 以 high grade serous carcinoma 為大宗，生長快速、與 TP53、BRCA 突變有關；其他組織學型態多屬於 type I，生長緩慢、與 PTEN、KRAS、BRAF、PIK3CA 等突變有關，與子宮內膜癌的 type 1 受 estrogen 刺激生長不同，卵巢癌與 estrogen 刺激的關聯性較少\n\n(C) 錯誤，承上選項，Mucinous 屬於 type I 上皮性卵巢癌，與 BRCA 突變較無關聯\n\n(D) 錯誤，考試看到「所有」等字眼都要三思，早期卵巢癌的標準治療為 staging，而有些卵巢癌是可以不用術後化療，例如：stage Ia 或 Ib 且 grade 1 (± 2) 的 epithelial ovarian tumor、stage Ia 的 dysgerminoma、stage I 且 grade 1 的 immature teratoma、stage Ic 前的 sex-cord stromal tumor，也因此手術的 pathology 及 staging 決定了後續的治療選擇",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-53_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-53_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-54",
@@ -27348,9 +27354,11 @@
       "D": "胚胎著床前遺傳檢驗（pre-implantation genetic testing, PGT）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據美國 CDC 於 2021 年發布的 ART National Summary Report，輔助生殖科技 (ART) 必須涉及卵子或胚胎 (eggs or embryos)，對於 IUI 這類只對精子有所處理的技術並不滿足 ART 的定義\n\n以下列舉 ART 的常見種類：\n\n| 輔助生殖科技 (ART) 類別 | 說明與術式 |\n| :--- | :--- |\n| **體外受精 (IVF)** | 包含：冷凍胚胎植入 (cryopreserved embryo transfer, CET)、胚胎著床前遺傳檢驗 (pre-implantation genetic testing, PGT) |\n| **配子輸卵管內植入** | Gamete intrafallopian transfer (GIFT) |\n| **受精卵輸卵管內植入** | Zygote intrafallopian transfer (ZIFT) |\n| **胚胎輸卵管內植入** | Tubal embryo transfer (TET) |\n| **凍卵、胚胎冷凍** | Egg and embryo cryopreservation |\n| **捐卵** | Egg and embryo donation |\n| **代理孕母** | Gestational surrogacy |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-54_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-54_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-55",
@@ -27365,9 +27373,11 @@
       "D": "陰道口發現有紅色易出血凸出腫塊，有可能是尿道口脫垂或是陰道內橫紋肌惡性肉瘤"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "青春期前陰道出血 (pre-pubertal vaginal bleeding) 的原因包含：\n\n| 解剖部位 / 類別 | 常見病因 |\n| :--- | :--- |\n| **卵巢** | Granulosa cell tumor、germ cell tumor |\n| **子宮** | 性早熟 (precocious puberty) |\n| **陰道** | 陰道炎 (vaginitis)、陰道異物 (foreign body)、創傷、腫瘤 |\n| **外陰** | 外陰發炎 (vulvitis)、創傷、尿道脫垂 (urethral prolapse)、菜花 (condyloma)、硬化萎縮性苔蘚 (lichen sclerosus)、傳染性軟疣 (molluscum contagiosum) |\n| **其他** | 外來雌激素、先天異常如：纖維性骨失養症 (McCune-Albright syndrome, GNAS1 mutation) |\n\n(A) 正確，病人不一定知道確切出血位置，臨床上須先釐清才好安排後續檢查\n\n(B) 錯誤，無法排除，女性第二性徵的順序為：乳房發育 → 恥毛 → 長高 → 初經，通常乳房或恥毛需發展到 Tanner stage 3 或 4 才會出現初經，但在性早熟的病人則會在 Tanner stage 更早期就出現初經（如孤立性初經 isolated premature menarche）\n\n(C) 正確，陰道異物或創傷是陰道出血的鑑別診斷，臨床醫師須保持高度警覺\n\n(D) 正確，青春期最常見的陰道腫瘤為橫紋肌肉瘤 (rhabdomyosarcoma)，尿道口脫垂雖較常見於老年女性，但在年輕女性也是需要排除的鑑別診斷\n\n補充：男性第二性徵的順序為：睪丸變大 → 恥毛 → 陰莖增長 → 長高",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-55_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-55_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-56",
@@ -27382,9 +27392,11 @@
       "D": "當高泌乳激素伴隨腦下垂體腺瘤時，不建議產後授乳"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，甲狀腺低下才會導致高泌乳激素\n\n泌乳激素上升的成因有：\n\n| 類別 | 常見成因與機轉 |\n| :--- | :--- |\n| **生理性因素** | 懷孕、哺乳時刺激乳頭、壓力、用餐 |\n| **病理性因素** | Prolactinoma、多巴胺製造減少（craniopharyngioma 或 metastatic tumor 壓迫、腦傷、手術）、sarcoidosis 浸潤 |\n| **藥物引起** | • 抗精神病藥（第一代如：haloperidol、chlorpromazine 等及第二代的 risperidone 影響較大）<br>• 抗憂鬱劑<br>• 止吐劑 (metoclopramide = domperidone > prochlorperazine)<br>• 鴉片類止痛藥 (μ receptor) |\n| **其他成因** | 基因突變 (PRLR 喪失功能)、雌激素上升、甲狀腺低下 (TRH 刺激) |\n\n(B) 正確，泌乳激素由腦垂體前葉製造、分泌，受到下視丘的 TRH 促進、dopamine 抑制\n\n(C) 錯誤，懷孕過程中泌乳激素上升，在生產時達到高峰，然而產後 6 週通常會下降到正常範圍，不必例行持續監測\n\n(D) 錯誤，產後哺乳會促進 prolactin 分泌，但並不會刺激 prolactinoma 生長，除非發現 prolactinoma 的大小持續變大，否則可以繼續哺乳，但要特別注意要停用 dopamine agonist\n\n其他考點：\n1. Prolactinoma 可先使用藥物控制，如：dopamine agonist (bromocriptine、cabergoline)；若藥物控制效果不佳或出現嚴重症狀，則可考慮手術或立體放射線定位治療 (SRS)，而其他腦垂體腫瘤一律優先考慮開刀治療，可參考新陳代謝科【113-2(三)57】",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-56_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-56_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-57",
@@ -27399,9 +27411,11 @@
       "D": "隨著年齡增長，年紀愈大，應力性尿失禁（stress urinary incontinence）發生率也愈高"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，SUI 的盛行率於各研究之間不盡相同，白種人的盛行率最高，約落在 26~36%，其餘人種的盛行率皆相似，西班牙裔約 15~26%；黑人約 5~25%；亞洲人約 19%\n\n(B) 正確，UUI 的風險因子包含：肺部疾病、肥胖、糖尿病、失智、子宮或骨盆腔手術史、住在護理之家，高產次為 SUI 的風險因子\n\n(C) 正確，根據多篇 population-based 的研究，SUI 盛行率最高的年齡層皆為 45~49 歲\n\n(D) 錯誤，與上個選項衝突，此為 UUI 的敘述\n\n以下補充 SUI 及 UUI 的 risk factor 比較：\n\n| Risk factor | 應力性尿失禁 (Stress UI) | 急迫性尿失禁 (Urgency UI) | 混和型 (Mixed UI) |\n| :--- | :--- | :--- | :--- |\n| **年紀大 (< 50 歲)** | 增加 | 些微增加 | 些微增加 |\n| **年紀大 (≥ 50 歲)** | 無影響 | 增加 | 增加 |\n| **種族** | 白人比其他種族增加 | 白人比其他種族增加 | 白人比其他種族增加 |\n| **產次** | 增加 | 無影響 | 些微增加 |\n| **肥胖** | 增加 | 增加 | 增加 |\n| **糖尿病** | 增加 | 增加 | 些微增加 |\n| **COPD / 抽菸者** | 增加 | 些微增加 | 增加 |\n| **做過 SUI 的手術** | 減少 | 些微增加 | 減少 |\n\n各種尿失禁之治療請參考泌尿科【113-2(五)67】",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-57_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-57_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-58",
@@ -27416,9 +27430,11 @@
       "D": "環咽肌於吞嚥反射發生時應關閉"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "吞嚥生理是每年必考題，務必記熟基本觀念：\n\n| 吞嚥期別 | 耗時與神經支配 | 主要生理機轉與動作 |\n| :--- | :--- | :--- |\n| **口腔準備期 (Oral preparatory phase)** | 自主控制 | 將食物咀嚼成食團，時長可自主控制，也不是絕對必要的程序 |\n| **口腔期 (Oral phase)** | 約 1 秒<br>大腦皮質控制 | 舌頭運動配合上顎擠壓將食團往後送 |\n| **咽部期 (Pharyngeal phase)** | 約 1 秒<br>腦幹吞嚥中樞控制 | 當食團抵達前咽門或後咽壁，會誘發吞嚥反射：<br>1. 軟顎及懸壅垂後縮上舉，封閉鼻咽<br>2. 會厭下壓、聲門和上聲門閉合，封閉氣道<br>3. 咽喉壁收縮將食團下擠，配合**環咽肌放鬆**，讓食團正確進入食道 |\n| **食道期 (Esophageal phase)** | 8~20 秒<br>自律神經蠕動 | 食道蠕動使食團進入胃部 |\n\n(A)(B)(C) 皆正確\n\n(D) 環咽肌應放鬆，若是關閉則食物無法進入食道，將滯留口咽或導致嗆咳",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-58_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-58_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-59",
@@ -27433,9 +27449,11 @@
       "D": "受傷對側運動功能受損較嚴重"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 受傷對側溫、痛覺會有所喪失\n(B)(D) 受傷同側的本體感覺、運動功能受損\n(C) 正確，75% 以上病人可以恢復獨立行走\n\n脊髓損傷在神經科也會考（詳細的補充也可參考【113-2(四)53】，復健科的重點在於預後），CP 值很高，詳見下表整理：\n\n| 評估面向 | 前髓症候群 (Anterior cord) | 中髓症候群 (Central cord) | 後髓症候群 (Posterior cord) | 布朗斯夸症候群 (Brown-Séquard) |\n| :--- | :--- | :--- | :--- | :--- |\n| **流行病學** | 次常見 | 最常見，多頸部 | 最少見 | 常見於外傷 |\n| **病因** | 脊椎過度前屈導致椎體或椎間盤壓迫前脊動脈 | 好發於老年人頸椎過度伸展，如：跌倒、交通意外 | 脊椎過度後仰導致壓迫後脊動脈，也可能因維生素 B12 缺乏 | 常見於刀傷、槍傷 |\n| **侵犯部位** | 脊髓前 2/3 | 中央灰質、內側白質 | 脊髓後 1/3 | 脊髓半側 |\n| **臨床表現** | 溫痛覺、運動功能受損，輕觸覺、本體感覺保留 | 上肢比下肢無力，感覺異常則不一定，可能神經性膀胱 | 輕觸覺、本體感覺受損，溫痛覺、運動功能保留 | 同側本體感覺、運動功能受損；對側溫痛覺喪失 |\n| **預後** | 差，肌力和運動功能協調不佳 | 良好，下肢先恢復，手部肌肉最晚恢復 | 行走功能預後較差 | **良好，大多可生活自理與獨立行走** |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-59_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-59_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-60",
@@ -27450,9 +27468,11 @@
       "D": "第五級"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "壓瘡是因為壓力和剪力造成血液循環不良、血管內皮損傷，長期產生不可逆的組織傷害，2016 年美國國家壓瘡諮詢委員會 (NPUAP) 將壓瘡更名為壓力性損傷 (pressure injury)，並且分級如下：\n\n| 級別 | 損傷深度與臨床特徵 |\n| :--- | :--- |\n| **第一級** | 表皮完整但有無法反白之紅斑 (non-blanchable erythema) |\n| **第二級** | 部分皮層缺損，暴露真皮層 (partial-thickness skin loss with exposed dermis) |\n| **第三級** | 全皮層缺損，裸露出皮下脂肪 (full-thickness skin loss, adipose visible)，可見肉芽形成與捲邊 (epibole) |\n| **第四級** | 全皮層缺損合併組織缺損，裸露出肌腱、筋膜、肌肉、骨頭等 |\n| **其他** | 無法分級 (unstageable)、深層組織損傷 (DTI)、醫療器材相關損傷 (device-related) |\n\n全皮層缺損，在潰爛處可以看見脂肪組織且有肉芽形成，代表至少第三級，但肌腱及軟骨沒有暴露，表示沒有合併組織缺損，故答案為 (B) 第三級",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-60_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-60_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-61",
