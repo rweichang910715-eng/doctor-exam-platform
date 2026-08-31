@@ -26914,9 +26914,11 @@
       "D": "胎兒無已知的凝血功能病變"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "產鉗生產為手術陰道分娩 (operative vaginal delivery) 的其中一個選項，適應症為當第二產程過長，或者母親在生產過程無力收縮子宮時使用，但有很多先決條件 (prerequisites) 要滿足或排除才能使用：\n• 生產相關：胎頭要 engage 到骨盆、無胎頭骨盆不對稱 (cephalopelvic disproportion, CPD)、胎位須為 vertex、要先確認胎頭位置 (position)、已破水、子宮頸全開\n• 新生兒：沒有凝血相關疾病、沒有礦物質流失 (demineralization) 的病變（如：rickets、osteoporosis 等）、已知新生兒的體重\n• 其他：有經驗的操作者、適當麻醉、母體膀胱排空\n\n其他考點：\n產鉗分為高、中、低位，高位產鉗已不再使用；中位產鉗為胎頭於 station 0 至 +2（坐骨脊連線到以下 2 公分），於胎兒窘迫等緊急狀況時才使用",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-31_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-31_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-32",
@@ -26931,9 +26933,11 @@
       "D": "當第二產程出現 arrest disorders 超過兩小時，應評估是否有胎頭骨盆不對稱。若無，可給與 oxytocin 繼續催生"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，第一產程分為潛伏期 (latent phase) 及活動期 (active phase)，潛伏期的定義為規律宮縮至子宮頸開口 3~4 公分，初產婦超過 20 小時、經產婦超過 14 小時，則定義為潛伏期過長 (prolonged latent phase)\n\n(B) 錯誤，以支持性照顧為主，部分孕婦為假性收縮 (false labor)、會自動消失，而如果宮縮時間過長可考慮給予 oxytocin 或人工破水 (amniotomy)\n\n(C) 正確，第一產程的子宮頸擴張遲滯也是支持性照顧為主，同時評估是否有胎頭骨盆不對稱 (cephalopelvic disproportion, CPD)，若有則施行剖腹產，若無則持續觀察\n\n(D) 正確，第二產程時胎頭已開始下降，若出現子宮頸擴張停頓，或胎頭下降停頓，則優先透過內診排除 CPD，有 CPD 則剖腹產；無 CPD 則給予 oxytocin 繼續催生\n\n不正常產程為國考熱門題，於臨床上決定給催產素或剖腹產的時機也很重要，建議考生可以搭配【113-2(六)33】複習",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-32_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-32_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-33",
@@ -26948,9 +26952,11 @@
       "D": "不到四分之一的產婦在超音波下，可見胎盤後方血塊"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "胎盤早期剝離 (placental abruption) 應為陰道大量出血伴隨突發性的腹痛（會出現無痛性陰道出血的為前置胎盤），其他伴隨症狀包含子宮壓痛、背痛、子宮頻繁收縮而僵硬，超音波下胎盤後方 (post-placental) 血塊為典型特徵，但敏感性極低，只有約 20% 的患者出現，胎兒監視器下常為 category III 的 non-reassuring pattern，導致胎兒窘迫、甚至死亡，為須早期辨認並介入的急症\n\n其他考點：\n1. 陰道的出血量與胎盤剝離的嚴重度沒有相關\n2. 胎盤剝離的其他超音波特徵有：胎盤增厚 (thickened placenta)、羊膜下積液 (subchorionic collections of fluid)、羊水中可見等回音的碎屑 (echogenic debris in the amniotic fluid)\n3. 胎盤剝離的積血若滲入子宮肌層，會出現子宮壁青一塊、紫一塊的表現，稱為子宮胎盤中風 (uteroplacental apoplexy)，又名庫爾萊爾式子宮 (Couvelaire uterus)",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-33_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-33_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-34",
@@ -26965,9 +26971,11 @@
       "D": "膀胱功能異常（bladder dysfunction）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "產後最常見的併發症為子宮收縮無力，進而導致產後大出血 (postpartum hemorrhage, PPH)，而 PPH 當中的 4T，有 70% 為 tone、20% 為 trauma、10% 為 tissue、<1% 為 thrombin\n\n另外造成子宮收縮不良的風險因子有：\n\n| 風險分類 | 常見原因與機轉 |\n| :--- | :--- |\n| **子宮過度膨脹** | 胎兒過大、多胞胎、羊水過多、血塊滯留 |\n| **產程異常** | 快速分娩、產程遲滯、催生、絨毛膜羊膜炎 |\n| **麻醉 / 止痛** | 導致週邊血管舒張、平滑肌收縮不良、痛覺回饋消失 |\n| **其他因素** | 初產婦、高產次、子宮手術史 |\n\n本題的情境為待產到出生僅 2 小時，快速分娩導致子宮收縮無力的風險上升",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-34_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-34_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-35",
@@ -26982,9 +26990,14 @@
       "D": "給與安胎藥物"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此為腹部超音波的探頭，圖中標記的部位為 cervix，雖然看不到量測出的長度為何，但有明顯的漏斗狀子宮頸內口 (cervical funneling)，為子宮頸閉鎖不全 (cervical insufficiency) 的表現\n\n(A) 正確，子宮頸環紮術可預防流產、並延緩胎兒的出生時間，最佳的施行時間為妊娠第 12~14 週，且不建議在妊娠 23~24 週後施行，另外與陰道黃體素的投與相比，子宮頸環紮術在前胎自發性流產、單胞胎、子宮頸長度 <25mm 的孕婦特別有效，因此本題妊娠 22 週的孕婦且前胎流產，適合進行子宮頸環紮術\n\n(B) 錯誤，低劑量 aspirin 僅用於子癲前症高風險孕婦，預防子癲前症的發生\n\n(C) 錯誤，如 (A) 選項所述\n\n(D) 未符合安胎的適應症，無給與之必須",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-35_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-35_merged.png"
+    ],
+    "images": [
+      "/questions/113-1-醫學(六)-35-1.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-36",
@@ -26999,9 +27012,11 @@
       "D": "子宮裂開（uterine dehiscence）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "TOLAC 為近年婦產科的新興觀念，取代過往一旦剖腹產的孕婦下一胎仍要剖腹產的既定認知，但對母體及小孩都有一定的併發症風險，根據 1999-2002 年美國 Maternal-Fetal Medicine Units (MFMU) 對於 TOLAC 與選擇性重複剖腹生產 (elective repeat cesarean delivery, ERCD) 的研究，可發現 TOLAC 對母體產生的併發症有輸血機率上升 (OR=1.71, 95% CI=1.41-2.08)、子宮感染 (OR=1.62, 95% CI=1.40-1.87)、子宮裂開 (OR=1.38, 95% CI=1.04-1.85)，其餘如子宮切除機率、血栓或栓塞事件發生率、死亡率在 TOLAC 與 ERCD 兩組無差異\n\n另外對胎兒的影響中，選擇 TOLAC 在 37~38 週的產前死產 (antepartum stillbirth) 的發生率較高、出生時出現缺氧缺血性腦病變 (Hypoxic-ischemic encephalopathy) 的風險上升，但在 39 週後的產前死產、新生兒死亡風險皆無差異",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-36_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-36_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-37",
@@ -27016,9 +27031,11 @@
       "D": "每天自我監控血糖值的孕婦產下巨嬰的比率明顯較低"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 選項錯在不該完全只用長效劑型，臨床上給予胰島素有兩種策略：\n• 第一種為混合使用中效 (intermediate) 及短效 (short-acting) 的胰島素，將一天的所需劑量平均分配到早晚各施打 1 次，早上混合 2/3 的中效及 1/3 的短效；晚上混合 1/2 的中效及 1/2 的短效\n• 第二種較符合生理特性，一天的所需劑量一半為睡前打 1 次的長效劑型 (basal)，剩下一半平均分配到 3 餐飯前的中短效劑型 (bolus)，以模擬人一日三餐的胰島素分泌\n\n(A) 選項由於孕婦的胰島素阻抗較高，起始劑量較一般人所需的 0.5 U/kg/day 來得高\n\n(C) 選項源於 1995 年發表在 NEJM 的 trial (DeVeciana, 1995)，比較控制餐前血糖在 60~105 mg/dL 與控制餐後血糖在 140 mg/dL 以下的孕婦，發現餐後血糖達標的孕婦在 HbA1c、新生兒出生體重皆較低\n\n(D) 選項很合理，妊娠糖尿病的母親所生下的巨嬰比例高，詳細機轉可參考【113-2(四)5】",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-37_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-37_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-38",
@@ -27033,9 +27050,11 @@
       "D": "血管張力素轉化酶抑制劑（angiotensin-converting enzyme inhibitors）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "考到稀爛的題目…孕婦不能使用的藥物為 ACEi、ARB，所導致的影響包含：\n• RAAS 被抑制，導致血管內容積減少、血壓低而使器官發育受限\n• 腎絲球的出球小動脈擴張、腎臟灌流減少，使得腎臟發育異常、無尿\n• 尿液製造不足導致羊水量少，使肺發育不全、肢體攣縮",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-38_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-38_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-39",
@@ -27050,9 +27069,11 @@
       "D": "丙胺酸轉胺酶（alanine aminotransferase, ALT）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "妊娠肝內膽汁淤積症 (intrahepatic cholestasis of pregnancy, ICP)：\n\n| 評估面向 | 核心臨床要點 |\n| :--- | :--- |\n| **致病機轉** | 原因不明，基因影響顯著，目前認為與 ABCB4、ABCB11 等基因有關 |\n| **風險因子** | 使用 vaginal progesterone 預防 preterm labor 的發生率為 4 倍；慢性 C 肝感染的孕婦發生率為 20 倍 |\n| **盛行率** | 各地區及人種差異大，介於 0.25~5% 之間 |\n| **臨床表現** | 多於懷孕晚期出現全身癢，通常無全身症狀，僅 10% 病人出現黃疸 |\n| **診斷** | 全身癢，加上膽酸高 (bile acid 正常值小於 10 μmol/L) 或 AST/ALT 些微上升 (40~200 U/L)，並透過超音波排除膽道結石或阻塞 |\n| **治療** | • 口服抗組織胺、潤膚乳液緩解症狀<br>• 過去使用 Cholestyramine，但同時減少脂溶性維生素如 Vit K 的吸收，可能導致新生兒凝血功能障礙 (fetal coagulopathy)<br>• 現今最常用的治療為 Ursodiol，可緩解搔癢並降低 ALT/AST 及膽鹽濃度 |\n| **預後** | • 由於高膽酸會導致器官毒性，建議於妊娠 37 週前引產出生<br>• Bile acid > 40 的孕婦有更高的周產期死亡率 (perinatal death)<br>• Bile acid > 100 的孕婦死胎（因心臟毒性）的風險更高<br>• 其他併發症：自發性早產 (19%)、胎便染色 (48%)、子癲前症、GDM |",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-39_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-39_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-40",
@@ -27067,9 +27088,11 @@
       "D": "第二期子宮頸癌"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腹腔鏡微創手術在婦產科取代了部分傳統開腹手術的角色，適應症如下：\n\n| 手術類別 | 腹腔鏡適應症與術式 |\n| :--- | :--- |\n| **卵巢或輸卵管** | 囊腫切除 (cystectomy)、卵巢扭轉 (ovarian torsion)、卵巢輸卵管切除 (salpingo-oophorectomy)、輸卵管異位妊娠手術 (salpingectomy/salpingotomy for tubal pregnancy) |\n| **子宮** | 漿膜層下肌瘤切除 (subserosal myomectomy)、子宮切除 (hysterectomy) |\n| **不孕手術** | 沾黏分離 (adhesiolysis)、輸卵管造口術 (salpingostomy)、子宮內膜異位症燒灼 (ablation for endometriosis) |\n| **骨盆底手術** | 骨盆腔感染、婦女泌尿道手術（治療應力性尿失禁等） |\n| **惡性腫瘤** | 早期子宮內膜癌分期手術 (stage Ia)、早期子宮頸癌根除性切除子宮 (stage IB 以前可用腹腔鏡) |\n\n(D) 選項錯在 stage II 子宮頸癌已不適合以腹腔鏡切除，stage IIb 以上須進行 CCRT，stage IIa 尚可考慮傳統開腹手術切除子宮及淋巴結",
+    "explanation_image": "/explanations/cropped/113-1-醫學(六)-40_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/113-1-醫學(六)-40_merged.png"
+    ]
   },
   {
     "id": "113-1-醫學(六)-41",
