@@ -21928,6 +21928,9 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(三)-9_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(三)-9_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(三)/page_3_img_1.png"
     ]
   },
   {
@@ -21947,6 +21950,9 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(三)-10_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(三)-10_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(三)/page_4_img_1.png"
     ]
   },
   {
@@ -22726,6 +22732,9 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(三)-51_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(三)-51_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(三)/page_12_img_1.jpeg"
     ]
   },
   {
@@ -23220,6 +23229,9 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(三)-77_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(三)-77_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(三)/page_18_img_1.jpeg"
     ]
   },
   {
@@ -24056,6 +24068,9 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(四)-41_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(四)-41_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(四)/page_8_img_1.jpeg"
     ]
   },
   {
@@ -24075,6 +24090,10 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(四)-42_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(四)-42_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(四)/page_9_img_1.jpeg",
+      "/images/113-1/醫學(四)/page_9_img_2.jpeg"
     ]
   },
   {
@@ -24227,6 +24246,9 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(四)-50_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(四)-50_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(四)/page_11_img_1.png"
     ]
   },
   {
@@ -24683,6 +24705,9 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(四)-74_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(四)-74_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(四)/page_16_img_1.png"
     ]
   },
   {
@@ -25633,6 +25658,9 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(五)-44_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(五)-44_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(五)/page_9_img_1.png"
     ]
   },
   {
@@ -25671,6 +25699,9 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(五)-46_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(五)-46_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(五)/page_10_img_1.jpeg"
     ]
   },
   {
@@ -25709,6 +25740,9 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(五)-48_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(五)-48_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(五)/page_11_img_1.png"
     ]
   },
   {
@@ -26203,6 +26237,10 @@
     "explanation_image": "/explanations/cropped/113-1-醫學(五)-74_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-1-醫學(五)-74_merged.png"
+    ],
+    "images": [
+      "/images/113-1/醫學(五)/page_16_img_1.jpeg",
+      "/images/113-1/醫學(五)/page_17_img_1.jpeg"
     ]
   },
   {
@@ -28121,6 +28159,10 @@
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-14_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-14_merged.png"
+    ],
+    "images": [
+      "/images/113-2/醫學(三)/page_4_img_1.png",
+      "/images/113-2/醫學(三)/page_4_img_2.png"
     ]
   },
   {
@@ -28352,6 +28394,9 @@
     "explanation_image": "/explanations/cropped/113-2-醫學(三)-26_merged.png",
     "explanation_images": [
       "/explanations/cropped/113-2-醫學(三)-26_merged.png"
+    ],
+    "images": [
+      "/images/113-2/醫學(三)/page_7_img_1.jpeg"
     ]
   },
   {
@@ -29896,7 +29941,10 @@
     "answer": "A",
     "explanation": "(A) 尋常性乾癬：界線明確、脫屑的紅色丘疹 (Plaque)，加上病史敘述的頭皮、手肘、膝蓋、背部（軀幹）都是乾癬好發的位置，因此此題較可能為尋常性乾癬。\n(B) 尋常性魚鱗癬：四肢伸側有細密、偏白的片狀脫屑（下肢的片狀脫屑可能較大、顏色較深）；肢體屈側、腹股溝處通常因為比較濕潤而沒有病灶分布。手掌、腳掌因為皮膚輕微 Hyperkeratosis 導致掌紋變得較明顯 (Hyperlinearity)。另外，尋常性魚鱗癬是因為 Filaggrin gene(FLG) 突變失去功能導致的疾病，常在嬰兒或孩童時期發病，跟題幹所述的年紀不太符合。\n(C) 蕁麻疹：界線明確、會癢、中央粉色偏白，周邊紅斑環繞的腫塊，通常 24 小時內會消失，不太會脫屑。\n(D) 玫瑰糠疹：發病前 1-2 週會有橘紅色的先驅病灶 (Herald patch)，邊緣稍微凸起且有一圈環狀脫屑 (Trailing collarette of scale)。接著在軀幹、肢體近端會爆發式長出很多跟先驅病灶類似的橢圓形疹子，其長軸沿著 Langer cleavage lines 生長，因此在背部會形成像聖誕樹樣子的分布。此病好發 10-35 歲的年輕女性，通常是急性出現，持續 6-8 週後消退。圖片中疹子是整塊凸起（而非只有邊緣稍微凸起），脫屑比較沒有環狀的樣子，且病人年紀較大、病程持續十幾年，因此不像玫瑰糠疹。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(四)/page_7_img_1.png"
+    ]
   },
   {
     "id": "113-2-醫學(四)-36",
@@ -29947,7 +29995,10 @@
     "answer": "B",
     "explanation": "(A) 膿疱疹 (impetigo)：主要由 S. aureus 或 Group A. streptococcus (GAS) 感染引起。病灶特徵為散在的 Honey-colored crusted erosions（糜爛病灶上有金黃色的痂皮覆蓋），在主要病灶旁邊可能會零星分布一些病灶 (Satellite lesions)。\n(B) 此病人原有的異位性皮膚炎病灶惡化，加上圖中可見廣泛分布的 Punched-out erosions 以及一些小水泡，符合 Eczema herpeticum 的特徵。\n\n| 疱疹性濕疹 (eczema herpeticum) | |\n| :--- | :--- |\n| **定義** | 原本就不正常的 Epidermis 被 HSV 感染 |\n| **可能病因** | • Atopic dermatitis（最常見）<br>• Darier disease<br>• Thermal burns<br>• Hailey-Hailey disease<br>• Immunobullous disease<br>• Ichthyosis vulgaris<br>• Cutaneous T-cell lymphoma |\n| **流行病學** | • 小孩較常見<br>• HSV-1 > HSV-2 |\n| **病灶特徵** | • 病灶開始於原本就不正常的皮膚位置，之後可能蔓延到周邊正常的皮膚。較常出現在臉部、頸部、軀幹。<br>• 廣泛分布的小水泡，會進展成打洞狀的糜爛病灶 (Punched-out erosions)。可能會連續出現新的水泡，而糜爛可能會匯聚而變成一大塊病灶。<br>• 可能伴隨全身性症狀，如發燒、無力、躁動、淋巴結腫大。<br>• 一般的 HSV 感染水泡比較聚集，Eczema herpeticum 的水泡比較散散且範圍較廣。 |\n| **檢查** | • Tzanck smear(+)：刮水泡底部，用 Giemsa stain 染色，可見巨大、多核的 Keratinocyte。在 VZV 感染時也會有此表現，故不能用以確診。<br>• 確診：Viral culture 或 Antigen detection direct fluorescent antibody (DFA) |\n| **治療** | • 局部抗病毒藥物（效果較差）：Acyclovir 5% ointment<br>• 口服抗病毒藥物：Acyclovir、Valacyclovir、Famciclovir |\n\n(C) 水痘：一開始會出現不明顯的丘疹 (Papules)，接著很快變成小水泡 (Vesicles)。水泡底下以及周邊會有一圈紅斑，被稱為玫瑰花瓣上的露珠 (Dew drops on a rose petal)。8-12 小時後，小水泡會變成膿疱 (Pustules) 以及痂皮覆蓋的糜爛病灶 (Crusted erosions)。病灶會連續出現，因此在病人身上可同時見到上述各階段的病灶。一般從臉部、頭皮開始，之後向下蔓延到軀幹、四肢。手掌、腳掌通常沒有病灶分布。此病人的水泡周邊沒有明顯紅斑，圖中也沒有見到丘疹或膿疱，再加上題幹提示病人本身有異位性皮膚炎，因此以此題來說水痘並非最佳答案。\n(D) SSSS：通常先從頭部和皮膚皺摺區出現紅斑 (Erythema)，接著在 48 小時內擴散到全身。皮膚由於淺層表皮內形成鬆弛且無菌的大水泡 (Bullae) 而皺起，Nikolsky sign 呈現陽性。接著從屈側先開始脫皮，留下底下潮濕的皮膚以及薄薄的痂皮。脫皮持續約 3-5 天，之後開始重新上皮化。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(四)/page_8_img_1.png"
+    ]
   },
   {
     "id": "113-2-醫學(四)-39",
@@ -29964,7 +30015,10 @@
     "answer": "B",
     "explanation": "此題關鍵為「Darier sign」，形容摩擦或敲擊病灶時會引起蕁麻疹樣的變化，是 Mastocytosis syndromes 的特殊表現。\n\n| Mastocytosis syndrome | |\n| :--- | :--- |\n| **定義** | Mast cell 不正常聚集在皮膚或其他器官 |\n| **分類** | • 依照侵犯程度可分成 Cutaneous mastocytosis (CM)、Systemic mastocytosis、Mast cell sarcoma<br>• Cutaneous mastocytosis 又可分為 Localized、Generalized，其中 Mastocytoma（又稱 Nodular cutaneous mastocytosis, NCM）屬於 Localized cutaneous mastocytosis。 |\n| **流病** | Cutaneous mastocytosis 大多發生在出生到 2 歲之間，但 Mastocytosis 可以發生在任何年紀（成人以 40-50 歲較多） |\n| **病理** | 跟 c-kit mutation 有關 |\n| **症狀** | **皮膚表現**：斑 (Macule)、丘疹 (Papule) 或結節 (Nodule) 樣病灶。<br>• 平常是黃棕色，敲擊病灶引起 Mast cell degranulation 後會出現紅斑、變癢並腫起 (Darier sign)<br>**全身症狀**：跟 Mast cell 內的物質有關<br>• Histamine ➔ 蕁麻疹、胃腸道症狀<br>• Prostaglandin D2 ➔ 熱潮紅、心血管症狀、支氣管收縮、腸胃道症狀<br>• Heparin ➔ 組織內出血、骨質疏鬆<br>• Neutral protease/acid hydroxylase ➔ Patchy hepatic fibrosis、骨頭病灶 |\n| **檢查** | **皮膚病灶確診**：皮膚切片看到 Dermis 有許多 Mast cell 聚集<br>• Systemic mastocytosis survey<br>• CBC：可能會貧血、白血球增多、Esosinophil 增加<br>• 其他血液檢查：Tryptase 增加、凝血異常<br>• Urine：24-hr urine histamine excretion 增加<br>• Bone scan：看是否有骨頭侵犯 (Lytic bone lesion、Osteoporosis、Osteosclerosis)<br>• Endoscopy：看是否有小腸侵犯<br>• Bone marrow smear/biopsy：確認 Morphology 和 Mast cell markers |\n| **治療** | • 症狀治療為主。<br>• 避免會引起 Mast cell degranulation 和 Histamine 釋放的藥物。<br>• Anti-histamine：H1 為主，效果不好可加上 H2。<br>• 口服 Cromolyn sodium：可穩定 Mast cell。<br>• PUVA 或 Narrowband UVB：可減少皮膚 Mast cell 裡的 Histamine 含量<br>強效類固醇藥膏加上密封療法 (Occlusion) 或病灶內注射類固醇。<br>• 嚴重的病人可能會需要用到標靶藥物（如 Imatinib），且需準備 Epinephrine 發作時使用。 |\n| **預後** | • 小孩的 Cutaneous mastocytosis 大多會自己消退，很少有系統性侵犯。<br>• 但急性、廣泛性的 Degranulation 可能會導致 Shock 而有生命危險。<br>• 成人若有廣泛的皮膚病灶，則系統性侵犯的風險較高。 |",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(四)/page_8_img_2.jpeg"
+    ]
   },
   {
     "id": "113-2-醫學(四)-40",
@@ -29998,7 +30052,10 @@
     "answer": "D",
     "explanation": "圖中表現為 Gottron papules，為 Dermatomyositis 的典型表現。SLE 的手部皮膚表現為 Inverse Gottron's sign，會看到整個手背以及關節間的地方都是紅斑，而 MCP、DIP、PIP joint 是正常的。此病人 MCP joint 有明顯侵犯，PIP joint 也有些微侵犯，故比較像 Gottron papules。\n\n| Dermatomyositis(DM) 常見的皮膚表現 | |\n| :--- | :--- |\n| **表現** | **說明** |\n| **Heliotropes sign** | 眼皮粉紫色的紅斑，可能伴隨眼周水腫 |\n| **Shawl sign** | 後頸、上背、肩膀的紅斑（分布像披肩） |\n| **V-neck sign** | 前頸部、前胸的紫色紅斑 |\n| **Gottron papules** | MCP、DIP、PIP joint 的粉紫色丘疹 (Papules ➔ 突起的病灶) |\n| **Gottron sign** | DIP joint、PIP joint、Olecranon process、膝蓋、內踝的對稱紫色紅斑 (Macular violaceous erythema ➔ 平的病灶) |\n| **Holster sign** | 臀部、大腿側邊的紫色紅斑 |\n| **Mechanic's hand** | 手指側邊有過度角化 (Hyperkeratosis) 及裂紋 (Fissure) |\n\n除了以上有名字的表現，紅斑也可能侵犯到頭皮（可能導致 Nonscarring alopecia）、整個臉部、手臂。指甲周邊可能也會有紅斑並出現微血管擴張 (Telangiectasia)。長期的皮膚病灶可能會變成 Poikiloderma (皮膚異色症，指皮膚變色而呈現紅、白、棕色斑駁樣)。\n\n| Idiopathic inflammatory myopathies 的 Lab | |\n| :--- | :--- |\n| **Serum CK** | 最敏感也最特異，90% 病人會升高。 |\n| **Serum aldolase** | 敏感度比 CK 低，但有時候 CK 正常時 Aldolase 會升高（尤其在 Juvenile dermatomyositis）。 |\n| **AST、ALT、LDH** | 可能會升高，但特異性低因此比較沒有臨床價值。 |\n| **ANA** | 整體 60-80% 病人陽性。 |\n| **Anti-Jo-1 Ab** | • 最常見的 Myositis-specific autoantibody，整體僅 20% 病人陽性。<br>• Polymyositis 病人有 30-40% 陽性。 |\n| **Anti-Mi-2 Ab** | • 整體 5-10% 病人陽性。<br>• Dermatomyositis 病人有 15-20% 陽性。 |",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(四)/page_9_img_1.jpeg"
+    ]
   },
   {
     "id": "113-2-醫學(四)-42",
@@ -30066,7 +30123,10 @@
     "answer": "D",
     "explanation": "Fluid-attenuated inversion recovery (FLAIR) 是 T2WI 但減少正常的 CSF 訊號，因此可以更容易看到含水的異常構造或水腫（尤其是跟腦室離得很近的病灶）。\nDiffusion-weighted imaging (DWI) 是如果偵測到水分子移動受限就會亮起來，常用在偵測腦梗塞、膿瘍以及一些腫瘤。\n(A) 腦轉移通常是界限明顯的病灶且通常會被 Contrast 顯影，病灶旁可能會有 Perifocal edema。此病人在 T1 with contrast 下看不到明顯病灶，FLAIR 與 DWI 雖然有看到一些高訊號，但沒有看到界限明顯的病灶，故比較不像腦轉移。\n(B) 肺結核感染到腦部可以是 Tuberculous meningitis 或 Tuberculoma (較少見)。Tuberculous meningitis 通常會看到水腦 (Hydrocephalus)、基底池 (Basal cistern) 或室管膜 (Ependyma) 有不正常顯影，而 Tuberculoma 則是以一或多個 Ring enhancement 病灶表現。\n(C) PRES 的 MRI 表現為 T2WI 或 FLAIR 看到白質高訊號 (White matter hyperintensity)，通常在 Posterior occipital lobe (但也可以很廣泛) 且不侷限於任何單一血管流域。PRES 在 ADC 上通常不會亮起來，且這個切面連腦室都還沒切到，離 Occipital lobe 應該還有一段距離，因此病灶的分佈也不是 PRES 典型的 Posterior occipital lobe。\n\n補充：\nPRES 是因為腦內的血流過多，超出了大腦血管調節的能力以及直接傷害 Blood-brain barrier 而引起 Vasogenic edema。常見的原因如高血壓性腦病變 (Hypertensive encephalopathy)、子癲症 (Eclampsia)、外傷、癲癇、偏頭痛、Postcarotid endarterectomy syndrome、Calcineurin inhibitor 的毒性等。\n\n(D) 急性的腦梗塞會因為 Vasogenic edema 而在 T2WI 或 FLAIR 呈現高訊號，DWI 也因為水分子移動受限而呈現高訊號。通常 FLAIR 的異常會比 DWI 晚出現（因為水分子移動受限在缺血時就會出現，而 Vasogenic edema 需要一點時間累積），因此如果看到 DWI 亮起但 FLAIR 沒有變化，則表示病人的中風相對急性。急性期的腦梗塞 (<7 天) 通常在 T1 with contrast 不會顯影，但等到亞急性期（約 1 週至 1 個月）時則可能會顯影。此病人可見 FLAIR 與 DWI 都有相對應的高訊號，而 T1 with contrast 沒有顯影，故最可能為多發性腦梗塞。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(四)/page_10_img_1.png"
+    ]
   },
   {
     "id": "113-2-醫學(四)-46",
@@ -30627,7 +30687,10 @@
     "answer": "D",
     "explanation": "(A) Tinea manuum (手癬)：在手掌有界線明確、會癢的脫屑斑塊，通常伴隨過度角化 (Hyperkeratosis) 和裂紋 (Fissure)，可能會延伸到手背並出現皮癬菌引起的毛囊炎。\n(B) Psoriasis (乾癬)：界線明確的紅色丘斑 (Plaque)，表面有白色脫屑。通常為對稱分布，好發於手肘、膝蓋、頭皮、下背、會陰部。\n(C) Sunburn reaction (曬傷)：在陽光曝曬區有界線明確且均勻、可能會癢的紅斑 (Erythema)，不會有疹子 (Rash)。嚴重可能會出現水腫、小水泡 (Vesicle) 或大水泡 (Bullae)。常見的陽光曝曬區有前額、頸部、手背、小腿。此病人病灶本身分布就不均勻（範圍內有些地方較嚴重有些地方較輕微，且中指側邊也有一些散在病灶），加上若為曬傷不應該只有手背的一個區塊有病灶，故不選此答案。\n(D) Contact dermatitis (接觸性皮膚炎)：接觸區域有界線明確的紅斑 (Erythema)，隨著嚴重度增加可能產生水腫 (Edema)、水泡 (Blister)、糜爛 (Erosion) 甚至壞死。病灶可能會癢或痛。題幹提示病人上山採集花草後出現病灶，而病灶正好在手部（接觸區域），且紅斑界線清楚、有水泡以及會癢也都是接觸性皮膚炎的特徵，故選擇此答案。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(四)/page_16_img_1.png"
+    ]
   },
   {
     "id": "113-2-醫學(四)-79",
@@ -31426,7 +31489,10 @@
     "answer": "B",
     "explanation": "左邊的腹部 X 光顯示許多腸氣，可能有消化道阻塞，右邊的下消化道攝影可見乙狀結腸狹窄，降結腸脹大，懷疑為 Hirschsprung's disease。\n(A) Hirschsprung's disease 病人在尚未治療前可能會出現 Hirschsprung's disease-associated enterocolitis，為死亡的主要原因。處置原則包含補水、減壓 (Nasogastric Salem Sump、留置肛管、直腸灌洗)、使用廣效性抗生素。留置肛管與直腸灌洗建議在完成下消化道攝影 (Barium enema) 之後再做，以確保在影像上能明確看出近端與遠端腸道的管徑差異。\n(B) 電腦斷層檢查於 Hirschsprung's disease 較無角色。（筆者是覺得這個選項有點為了考而考，CT 確實不會用來診斷 Hirschsprung's disease，但以題目給的臨床情境來說，到底要不要做 CT 可能就見仁見智）。\n(C) 直腸切片 (Rectal biopsy) 為 Hirschsprung's disease 診斷之 Gold standard，取 Dentate line 以上 1cm、2cm、3cm 的腸道組織並染色，病理特徵為 Myenteric plexuses 無 Ganglion cells、Acetylcholinesterase staining 增加以及看到 Hypertrophied nerve bundles、calretinin stain 陰性。\n(D) 24-hour delayed film 若看到顯影劑殘留，則 Hirschsprung's disease 的可能性增加，在沒有明顯 Transition zone 的狀況下（如整個腸道都沒有 Ganglion) 可輔助診斷。\nHirschsprung's disease 寒考考在小兒科，請參考【113-1(四)9】。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(五)/page_9_img_1.jpeg"
+    ]
   },
   {
     "id": "113-2-醫學(五)-46",
@@ -31477,7 +31543,10 @@
     "answer": "A",
     "explanation": "漏鬥胸實在是很冷門的考點，還一次考兩題。\nHaller index 是在胸壁前後徑最短的那片電腦斷層切面上，胸腔橫徑除以前後徑，即 A/C；一般來說 Haller index 大於 3 才會考慮動手術。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(五)/page_10_img_1.jpeg"
+    ]
   },
   {
     "id": "113-2-醫學(五)-49",
@@ -31902,7 +31971,12 @@
     "answer": "C",
     "explanation": "月經過後下腹疼痛，還附上超音波圖，讓人很容易聯想到婦產科的疾病，但要小心這是題目跟臨床上常見的陷阱！\n第二張的超音波影像可發現中心低回音、富含液體的區域（腸腔內的發炎滲液），被內圈高回音的區域包覆（發炎腫脹的黏膜層及黏膜下層），最外層還有一圈低回音的構造（肌肉層），這三層稱為 target sign，為 appendicitis 的典型影像特徵。\n容易誤選的選項為卵巢膿瘍，超音波下的卵巢膿瘍也是囊狀構造，但通常壁厚且內含隔腔 (septum)，為多腔室的囊腫 (multilocular cyst)，與題目給的圖片不符。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(五)/page_15_img_1.jpeg",
+      "/images/113-2/醫學(五)/page_15_img_2.jpeg",
+      "/images/113-2/醫學(五)/page_15_img_3.jpeg"
+    ]
   },
   {
     "id": "113-2-醫學(五)-74",
@@ -31919,7 +31993,10 @@
     "answer": "D",
     "explanation": "關鍵訊息：中年女性、雙手多處關節、X 光上關節變形且軟組織腫脹\n\n| 比較項目 | 退化性關節炎 (osteoarthritis) | 類風濕性關節炎 (rheumatoid arthritis) |\n| :--- | :--- | :--- |\n| **好發年齡** | 50~60 歲以上 | 30~50 歲，女性較多 |\n| **關節炎位置** | 非對稱，DIP 或 PIP 為主、1st CMC | 對稱，PIP 及 MCP 為主、腕關節 |\n| **關節病灶** | • DIP：Heberden's node<br>• PIP：Bouchard's node | • DIP 過度伸展 + PIP 彎曲：Boutonniere deformity<br>• DIP 彎曲 + PIP 過度伸展：Swan-neck deformity |\n| **影像特徵** | 關節面磨損、關節腔空間狹窄、軟骨下囊腫 | 掌骨往撓側偏移；MCP joint 往尺側偏移 (ulnar deviation) |\n| **臨床表現** | 活動後疼痛更明顯 | 晨僵超過 30 分鐘，有軟組織侵犯等關節外病灶 |\n\n至於 (A) 選項 gouty arthritis 好發位置為腳掌的 1st TMT joint，其次才是膝蓋、手肘、手掌關節等，且在 X-ray 上會發現痛風石 (tophus)、軟骨下囊腫、關節面 overhanging edge 等特徵。(C) 選項 septic arthritis 好發位置在膝蓋、髖關節，其次為肩關節、腳踝，且會出現全身性症狀。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(五)/page_16_img_1.jpeg"
+    ]
   },
   {
     "id": "113-2-醫學(五)-75",
@@ -32344,7 +32421,10 @@
     "answer": "B",
     "explanation": "本題外耳道有白色的菌絲狀物體附著，位置上符合外耳，表現上符合黴菌感染，選 (B) 準沒錯。(A)(C)(D) 是中耳疾病，要看耳膜的表現，(A) 會使耳膜呈現腫脹、充血、外凸；(C) 會看到耳膜破洞，也可能流膿；(D) 則會看到積液的液面，均不符合本題圖片。\n黴菌性外耳炎 (otomycosis) 是常見的外耳道疾病，大部分無症狀，有症狀則以癢為主。常見的黴菌有幾種：\n\n| 菌種 | 說明 |\n| :--- | :--- |\n| **Aspergillus** | 常長在慢性中耳炎的膿或壞死組織上，不是真正的感染，只要清創即可改善。但若免疫不全，則可能演變成侵犯性的感染，類似惡性外耳炎，需要積極清創和藥物治療。 |\n| **Candida** | 常是因為抗生素耳滴劑抑制細菌導致 Candida 過度生長，清創即可治癒，也可嘗試抗真菌藥膏。 |\n| **Dermatophytes** | 皮癬菌感染造成的自體敏感反應 (\"id\" reaction) 可能出現在外耳道，會導致癢和脫皮，但檢驗不出微生物，局部治療也無效，此時要檢查身體其他部位是否有皮癬菌感染（如：香港腳），治好原發處，外耳病灶就會改善。 |",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(六)/page_4_img_1.jpeg"
+    ]
   },
   {
     "id": "113-2-醫學(六)-20",
@@ -32446,7 +32526,10 @@
     "answer": "B",
     "explanation": "聲帶的考題，只要把握好單雙側、好發位置、成因等鑑別的線索，即便不是很會看圖也能夠依循這些原則答題：\n\n| 病灶類型 | 特徵 |\n| :--- | :--- |\n| **結節 (nodule)** | 雙側對稱的繭狀物，好發於發聲衝擊力最大的聲帶中央位置。 |\n| **息肉 (polyp)** | 單側凸起的上皮，亦好發於發聲衝擊力最大的聲帶中央位置。 |\n| **囊腫 (cyst)** | 單側皮下液體堆積，亦好發於發聲衝擊力最大的聲帶中央位置。 |\n| **水腫 (Reinke's edema)** | 整個聲帶皆出現息肉性退化，多為雙側，好發於抽菸、女性。 |\n| **肉芽腫 (granuloma)** | 因發炎不癒誘發之組織反應，好發於聲帶後側，詳見下方說明： |\n\n本題從聲帶後側的典型位置，加上全身麻醉有插管病史，可判斷出是聲帶肉芽腫 (contact granuloma) 的可能性最高。\n聲帶肉芽腫 (contact granuloma) 通常是聲帶因發炎難癒合而產生的反應，尤其出現在機械性的發炎問題，如：咽喉反流 (laryngopharyngeal reflux)、聲帶創傷、插管等。一般來說，肉芽腫會出現在聲門的後側，它本身是良性的，若是病史和影像符合，不一定需要切片，只要改善肉芽腫的成因即會改善，除非呼吸道受阻、懷疑惡性、發聲在藥物治療下仍不良時，才會考慮手術。\n\n(A) 錯誤。異常的部位在聲帶後部，約為杓狀軟骨 (arytenoid cartilage) 的位置，這也是肉芽腫最典型的位置。\n(B) (C) 考量病史，病人的聲帶肉芽腫應為插管造成之傷害，這不是口服抗生素的適應症，而應優先考慮減少二度傷害、避免胃食道逆流、接受語言治療等方案。\n(D) 錯誤。手術是最終手段，但手術本身即會產生發炎，故復發率高。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(六)/page_6_img_1.jpeg"
+    ]
   },
   {
     "id": "113-2-醫學(六)-26",
@@ -32633,7 +32716,10 @@
     "answer": "C",
     "explanation": "| 胎兒杜卜勒 (doppler) 超音波常見篩檢項目 | |\n| :--- | :--- |\n| **臍動脈 (umbilical artery)** | 收縮壓 - 舒張壓 systolic-diastolic (S/D) 比值大於 95 百分位數，或舒張時血流消失、甚至逆流，則為異常。 |\n| **胎兒中大腦動脈 (middle cerebral artery, MCA)** | 檢測胎兒貧血 (anemia)、監測過敏免疫妊娠 (alloimmunized pregnancie) 的主要方法。<br>* 貧血時，由於心臟輸出量增加和血液黏度降低，峰值收縮期速度會增強。已取代羊膜穿刺作為檢測胎兒貧血的首選測試。 |\n| **臍靜脈導管 (ductus venosus)** | 有兩個波峰，第一個波峰代表心室收縮，第二個波峰是心室舒張充血。隨後在心房收縮期間會出現一個低谷，稱為 a 波。 |\n\n在有生長受限的早產胎兒，臍動脈的杜卜勒異常首先出現，隨後是中腦動脈杜卜勒的異常，最後是靜脈導管的異常。當胎兒生長受限嚴重時，心臟功能障礙可能導致 a 波的血流減少、缺失，最終反向流動。不過這題看到外面頭的形狀、中間是 Willis' circle 的形狀，可得知是腦部血流，選 (C)。看來出題老師很佛心，讚讚。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(六)/page_8_img_1.jpeg"
+    ]
   },
   {
     "id": "113-2-醫學(六)-37",
@@ -33245,7 +33331,10 @@
     "answer": "D",
     "explanation": "本題右圖可見只有右側鼻咽的 fossa of Rosenmüller（為鼻咽癌最好發處）可見，左側已經看不到（★處），加上左側有肌肉顯影，暗示局部侵犯周圍構造，最可能為 (D) 鼻咽癌併局部侵犯。左圖則可以發現左眼眶內側有一腫瘤突出，壓迫左眼眶內構造和視神經，病人之左上眼瞼下垂與複視很可能也是局部侵犯的結果。\n(A) 頸動脈海綿竇瘻管 (carotid-cavernous sinus fistula) 應在顯影下看見海綿竇和脹大的上眼靜脈，本題影像上無。\n(B) 視神經鞘腦膜瘤 (optic nerve sheath meningioma) 應從視神經髓鞘長出，而不是從外部壓迫視神經，不符合本題影像。\n(C) 鼻竇癌好發於上顎竇和篩竇，本題影像之上顎竇乾淨無腫瘤，而左篩竇雖有異常，但綜合上述在鼻咽的發現，鼻咽癌造成之局部侵犯是較合理的解釋。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(六)/page_14_img_1.png"
+    ]
   },
   {
     "id": "113-2-醫學(六)-73",
@@ -33262,7 +33351,10 @@
     "answer": "C",
     "explanation": "X 光下所指的為邊緣相對清楚、具斑點狀高訊號的病灶，影像學上稱為 popcorn calcification，位於骨盆腔正中間，為子宮肌瘤的典型特徵。陰道超音波亦可見高強度回音合併後方訊號減弱 (acoustic shadow)。\n(A)(D) 不太會在 X 光下看到病灶，(B) 在 X 光上可發現大小約 2~3cm 的 T 字型異物。",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/113-2/醫學(六)/page_15_img_1.png"
+    ]
   },
   {
     "id": "113-2-醫學(六)-74",
