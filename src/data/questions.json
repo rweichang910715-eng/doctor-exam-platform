@@ -10892,9 +10892,11 @@
       "D": "Wilson's disease"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "銅藍蛋白 (ceruloplasmin) 是血液中主要的運銅蛋白，過低暗示肝硬化與銅代謝有關，可以很直覺的從檢查項目選出唯一的銅代謝疾病 (D)Wilson's disease\n\n| Wilson's disease | 說明 |\n| :--- | :--- |\n| **臨床表現** | 肝功能異常 / 肝硬化、鞏膜 Kayser-Fleischer 氏環、神經學症狀 (e.g. 癲癇) |\n| **遺傳型態** | 自體隱性遺傳，是 ATP7B 基因突變且形式多樣、沒有一致的突變位點 |\n| **診斷** | 血中 ceruloplasmin 下降 (< 20 mg/dL)、尿中銅濃度上升、肝臟切片、基因檢測 ATP7B 基因 |\n| **治療** | 長期銅螯合劑 (D-penicillamine) 治療，嚴重可考慮換肝 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-1_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-1_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-2",
@@ -10909,9 +10911,11 @@
       "D": "新發生的嚴重性頭痛，一般而言僅給與止痛劑治療即可"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(C) 原發性頭痛 (primary headache) 大多找不到原因；次發性頭痛 (secondary headache) 最常見的原因依序為全身性感染 (63%)、頭部外傷 (4%)、血管疾病 (1%)、蜘蛛網膜下出血 (<1%)、腦瘤 (0.1%) 等\n\n(B) 正確，可以複習偏頭痛 (migraine) 的診斷口訣「54321」：\n1. 至少有 5 次頭痛發作符合下列第 2-4 點\n2. 每次發作時間持續 4-72 小時（4 小時 - 3 天）\n3. 頭痛符合下列至少 2 項特徵：\n   (1) 搏動性 (pulsatile)\n   (2) 單側發作 (unilateral)\n   (3) 中度到重度疼痛\n   (4) 日常生活或特定活動會加劇頭痛\n4. 頭痛發作時符合下列至少 1 項特徵：\n   (1) 噁心\n   (2) 噁心及嘔吐\n   (3) 畏光 (photophobia) 及怕吵 (phonophobia)\n\n(D) 看到「新發生」、「嚴重」大概猜得到這不是能單純靠止痛解決的問題，需要穩定生命徵象同時找原因，附上次發性頭痛的危急徵象口訣 SNOOP4：\n\n| 特徵 | 需排除的次發性原因 |\n| :--- | :--- |\n| **S** | Systemic symptoms (fever, myalgia, weight loss) or Secondary risk factors (cancer history) → CNS infection / brain metastasis |\n| **N** | Neurological deficits → stroke / brain tumor / CNS infection |\n| **O** | Old age (> 50 years) → mass effect / glaucoma / temporal arteritis |\n| **O** | Onset (sudden or abrupt, e.g. thunderclap headache) → SAH |\n| **P** | Progressive headache or substantial pattern change → any 2nd cause |\n| **P** | Precipitated by exertion / Valsalva maneuver / Papilloedema → increased intracranial pressure |\n| **P** | Postural aggravation → orthostatic hypotension |\n| **P** | Pregnancy → preeclampsia |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-2_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-2_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-3",
@@ -10926,9 +10930,11 @@
       "D": "心包膜填塞（pericardial tamponade）引起休克"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "判別休克為四大型態的何者，簡化的流程如下：\n先判別心輸出量 (cardiac output, CO) 或高或低\n1. high or normal → 分佈性休克 (distributive shock，包含 septic, anaphylaxis, neurogenic)\n2. low → 進一步看中心靜脈壓 (CVP)\n   a. low → 低血容積性休克 (hypovolemic shock)\n   b. high → 可為心因性休克 (cardiogenic shock) 或阻塞性休克 (obstructive shock，主要代表是心包膜填塞、張力性氣胸、肺栓塞)\n\nCO 和 CVP 的估計有很多方法，如 CO 最講究可依照 Fick's formula 抽 ABG、Hgb、並從中心靜脈導管測 SvcO2 以公式計算之，又或自 ICU 常見的非侵入式的血流動力學監測儀估計，然而，醫師往往會先由病人的 symptoms & signs 初步鑑別，回到本題，病人「皮膚乾癟」暗示病人心輸出量不高，「頸靜脈低陷」代表 CVP 應是低的，低血容積性最為可能\n\n本題的其他線索：眼眶深陷、高血鈉也是體內容積不足的徵象，可能暗示病人有脫水問題；BUN、creatinine 在說明腎功能已受灌流不足影響；竇性頻脈可排除病人有急性心肌梗塞、肺野清晰排除氣胸可能",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-3_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-3_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-4",
@@ -10943,9 +10949,11 @@
       "D": "0.30"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "死背題，而且完全照 Harrison 表格的文字敘述，底下附上不同血液濃度對應到的症狀：\n\n| 血液酒精濃度 (g/dL) | 症狀或狀態 |\n| :--- | :--- |\n| **0.02** | 抑制能力下降、注意力降低 |\n| **0.08** | 認知功能與運動能力降低 |\n| **0.20** | 明顯口齒不清 (slurred speech)、運動不協調、易怒、判斷力差 |\n| **0.30** | 輕度昏迷及生命徵象不穩 |\n| **0.40** | 死亡 |\n\n其他考點：\n• 血液酒精濃度跟酒測吹出的酒精濃度比例約 2000 (血) : 1 (吹)\n• 酒精出現戒斷症狀依序為：tremor/anxiety → seizure → hallucinations → delirium tremens，標準治療要用 BZD，而不是抗精神病藥物，詳細請參考【112-1(四)76】",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-4_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-4_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-5",
@@ -10960,9 +10968,11 @@
       "D": "一般來說，即使沒有明顯的腎臟疾病，老年人之藥物腎廓清率仍然可能下降達35～50%"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "心臟衰竭時，到周邊器官的灌流會降低，對於負責代謝的器官而言，因為藥物被帶來處理的速度下降，清除率下降；然而對於負責利用藥物的器官，則會因為血中濃度高，導致藥物作用上升\n\n(A) 錯誤，血中累積濃度上升，在心臟或腦部的效用會增加\n(B) 錯誤，腸胃道血流下降，因此利用藥物的吸收效率會下降\n(C) 錯誤，肝腎血流下降，廓清率會下降\n(D) 正確，即使沒有明顯腎臟疾病，老年人的腎臟結構、灌流、能運作的腎元數目等也是比較差的，所以腎廓清率仍可能下降",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-5_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-5_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-6",
@@ -10977,9 +10987,11 @@
       "D": "淋巴水腫的肢體經常不會伴隨疼痛"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "淋巴水腫 (lymphedema) 為慢性、無痛、非凹陷型的水腫，好發於四肢（下肢為主）；根據病因可分為原發性（遺傳性）與次發性（反覆淋巴管炎、腫瘤、局部淋巴結摘除或放射線治療、絲蟲病）淋巴水腫兩類，淋巴液堆積 (lymphatic fluid stasis) 不只造成淋巴水腫，也會造成慢性發炎和以 Th2 response 為主的免疫反應，並產生 TGF-β1 促進纖維化，最終導致淋巴系統不可逆的功能障礙，增加患側感染、皮膚傷口以及淋巴管瘤、卡波西氏肉瘤等風險\n\n淋巴水腫的治療分為促進淋巴回流與患側皮膚護理兩類：前者可由抬高患肢、穿著加壓襪 / 袖套、按摩、復健、減重等方式改善；後者可透過塗抹潤膚劑保濕患側皮膚來預防感染；針對反覆或嚴重的淋巴水腫則可考慮機器輔助加壓、低階雷射光或手術治療，因此本題答案為 (C)\n\n下表整理常混淆的淋巴水腫與慢性靜脈功能不全：\n\n| 鑑別項目 | 淋巴水腫 (lymphedema) | 慢性靜脈功能不全 (chronic venous insufficiency) |\n| :--- | :--- | :--- |\n| **疼痛** | 不會 | 會（長時間站立或走路） |\n| **水腫** | 多為**非凹陷型 (non-pitting)**，但初期可以凹陷型 (pitting) 表現 | 多為**凹陷型 (pitting)** |\n| **皮膚症狀** | 不常見 | 表淺靜脈曲張、鬱血性皮膚炎、色素沉積 |\n| **好發年紀** | 各年齡層均有 | 老年人 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-6_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-6_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-7",
@@ -10994,9 +11006,11 @@
       "D": "血中濃度在右心衰竭的病人不會上升"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "BNP 是由心室細胞所合成的賀爾蒙，當心肌受到拉力伸展 (distension) 時釋放，其以前驅態 pre-proBNP 再到 proBNP 的形式被釋放到循環中，在血中分解為 76 個胺基酸的 NT-proBNP 和 32 個胺基酸的 BNP，前者較穩定、半衰期 120 分鐘，後者則較不穩定，半衰期約 20 分鐘，故 NT-proBNP 的臨床用途較大\n\n診斷方面，BNP、NT-proBNP 可作為左心室填充時壓力升高的證據，以輔助舒張性心衰竭 (HFmrEF、HFpEF) 之診斷，並可作為排除心臟衰竭的指標；治療與預後方面，NT-proBNP 的數值能作為風險評估、導引治療方向，較高的 NT-proBNP 在急性和慢性心衰竭都指向較高的死亡率，須注意 BNP、NT-proBNP 的敏感性高但特異性低，在其他心臟問題、年長者、貧血、腎衰竭、敗血症都會升高\n\n其他考點：\n• 各年齡層 NT-proBNP 於心臟衰竭的參考 cut-off：< 50 歲 450 ng/L、50-75 歲 900 ng/L、> 75 歲 1800 ng/L\n• ANP（A：atrial，來源於心房）、BNP（B：以前作 brain，但實際上主要來源於心室，故現作 B-type）、CNP（C：C-type，來源於血管內皮）皆是排鈉胜肽，ANP、BNP 皆有心臟特異性，但 ANP 半衰期只有 2 分鐘，比 BNP 更不穩定，因此應用性低",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-7_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-7_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-8",
@@ -11011,9 +11025,11 @@
       "D": "二尖瓣（僧帽瓣）閉鎖不全的心雜音，通常位於心尖部位，為全收縮期雜音，且會傳至左腋下"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "中度或嚴重主動脈閉鎖不全會在 mid-diastolic 或是 pre-systolic 產生心雜音，一般的 aortic regurgitation murmur 發生在舒張期早期，是逆流的血流通過 aortic valve 的聲音，但是當過度嚴重的逆流，通過 aortic valve 時已經不會有聲音（太鬆弛），反倒是撞擊到更上游的 mitral valve 而發出的聲音，稱之為 Austin Flint murmur，因此會在舒張期稍微後面一些才聽到，位置上最好聽到的點在於 apex",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-8_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-8_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-9",
@@ -11028,9 +11044,11 @@
       "D": "第4期（Phase 4）有舒張期去極化（diastolic depolarization）是竇結細胞的特徵"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 心室細胞在靜止時膜電位較極化\n(B) 第 0 期心室細胞上衝速度較快，幾乎是垂直向上\n(C) 竇結細胞無第 1、2 期\n(D) 正確，第 4 期舒張期自動去極化 (diastolic depolarization) 是竇結等自發性心肌細胞的專屬特徵\n\n| 比較項目 | 收縮性心肌 (心室細胞) | 自發性心肌 (竇結細胞) |\n| :--- | :--- | :--- |\n| **去極化速度** | 快 (fast response) | 慢 (slow response) |\n| **靜止膜電位** | -90 mV | -60 mV |\n| **去極化最高膜電位** | +20 mV | +5 mV |\n| **平原期** | 有 (K+ 流出、Ca2+ 流入) | 無 |\n| **參與去極化通道** | Na+ 通道（快開快關因此去極化快） | L-type Ca2+ 通道 |\n| **Ca2+ 通道** | 只有 L-type (phase 2) | L-type (phase 0)、T-type (phase 4) |\n| **期別** | phase 0 → 1 → 2 → 3 → 4 | phase 0 → 3 → 4（沒有 phase 1, 2） |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-9_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-9_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-10",
@@ -11045,9 +11063,11 @@
       "D": "常見於有性腺發育不全（gonadal dysgenesis）的患者（例如Turner's syndrome）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "主動脈縮窄 (coarctation of the aorta) 為先天性心臟病之一，最常見的位置在左鎖骨下動脈遠端，且根據與動脈導管開口 (PDA，閉合後即為近動脈韌帶) 的相對位置分成導管前型與導管後型；通常會合併二葉式主動脈瓣 (bicuspid aortic valve) 等先天異常，典型症狀為上肢血壓 > 下肢血壓（通常差異 > 15 mmHg），其中上半部血壓上升產生頭痛、頭暈、流鼻血，並增加主動脈瘤、剝離與腦中風等風險；下半部血壓降低產生下肢脈搏減弱、發紺等症狀，嚴重則使左心室 afterload 增加，造成新生兒心衰竭\n\n本題蠻刁鑽的是，雖然主動脈縮窄的女性患者多和透納氏症 (Turner's syndrome) 有關，但盛行率卻是男性 > 女性（約為 1~2 倍）！病人大多為偶發性，若合併性腺發育不全 (e.g. 無月經)、身材矮小、蹼狀頸或淋巴水腫的女性則要懷疑為透納氏症\n\n簡單整理 Circulation 於 2008 年發表的流病研究：大致記有主動脈異常的心臟病、ToF 是男性好發；其他則是女性好發\n\n| 先天性心臟病 | 盛行率性別比 (男 : 女) | 先天性心臟病 | 盛行率性別比 (男 : 女) |\n| :--- | :--- | :--- | :--- |\n| **ASD** | 0.61 : 1 | **Ebstein's anomaly** | 0.79 : 1 |\n| **VSD** | 0.82 : 1 | **AS** | 1.86 : 1 |\n| **AVSD** | 0.69 : 1 | **PS** | 0.72 : 1 |\n| **ToF** | 1.27 : 1 | **PA** | 0.67 : 1 |\n| **TGA** | 1.94 : 1 | **PDA** | 0.19 : 1 |\n| **CoA (主動脈縮窄)** | **1.5 : 1 (男 > 女)** | **MVP** | 1 : 1 |\n| **BAV** | 1.94 : 1 | **Other defects** | 0.82 : 1 |\n\n參考資料：\n1. P O' Brien & AC Marshall. (2015). Coarctation of the aorta. Circulation, 131(9), e363-e365\n2. CL Verheugt, et al.. (2008). Gender and outcome in adult congenital heart disease. Circulation, 118(1), 26-32",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-10_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-10_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-11",
