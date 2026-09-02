@@ -11082,9 +11082,11 @@
       "D": "因起立後不到3分鐘即測量血壓，無法判斷是否有orthostatic hypotension"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題直接考姿勢性低血壓 (orthostatic hypotension) 的定義，即 (A) 選項站立相較平躺的 SBP 下降 > 20 mmHg 或 (or) DBP 下降 > 10 mmHg，便符合\n\n(C) 無關心跳\n(D) 關於測量時間點，Harrison 提到應於維持站姿 3 分鐘內測量，超過 3 分鐘才低血壓者應視為姿勢性低血壓的另一種變型 (variant)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-11_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-11_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-12",
@@ -11099,9 +11101,11 @@
       "D": "長期口服glycoprotein IIb/IIIa antagonist被證實可以有效地降低心肌梗塞發作及死亡率"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "抗血小板藥物可分成 aspirin、P2Y12 抑制劑（ADP 抑制劑）、glycoprotein IIb/IIIa 抑制劑：\n1. **Aspirin**：抑制 cyclooxygenase，由於和 COX-1 親和力高於 COX-2，因此低劑量時主要是讓 arachidonic acid 無法變成 thromboxane 為主，而高劑量時可以增強一些消炎反應，也就是減少變成 prostaglandin\n2. **P2Y12 抑制劑**：會使血小板不活化，常見的有四種，Clopidogrel、Prasugrel、Ticagrelor、Cangrelor（唯一 IV form），前兩者是 irreversible，後兩者則是 reversible\n3. **Glycoprotein IIb/IIIa 抑制劑**：會防止血小板聚集，但是有研究做出口服的劑型在長期來看並無法降低 ischemic events，反而會增加 pro-thrombotic 和 pro-inflammatory events\n\n有關口服 P2Y12 抑制劑的比較如下表所示：\n\n| 種類 | Clopidogrel | Prasugrel | Ticagrelor |\n| :--- | :--- | :--- | :--- |\n| **半衰期** | 10 天 | 10 天 | 半天 |\n| **onset** | 慢 | 快 | 快 |\n| **心臟死亡事件** | 標準 | 和 clopidogrel 比無統計差異 | **比 clopidogrel 低** |\n| **心肌梗塞** | 標準 | 比 clopidogrel 低 | 比 clopidogrel 低 |\n| **中風** | 標準 | 和 clopidogrel 比無統計差異 | 和 clopidogrel 比無統計差異 |\n| **上面三事件合在一起看** | 標準 | 比 clopidogrel 低 | 比 clopidogrel 低 |\n\n因此，(B) 錯在只有心肌梗塞這個項目有比 Clopidogrel 好，但是心臟死亡事件與中風都沒有看出統計差異",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-12_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-12_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-13",
@@ -11116,9 +11120,11 @@
       "D": "開放性動脈導管（patent ductus arteriosus）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "重要考古題務必把握！脈搏壓 (pulse pressure, PP) 的定義是 SBP - DBP，正常數值會在 40 mmHg 左右，一般將 PP > 100 mmHg 認為是寬脈搏壓，PP < 25% SBP 認為是窄脈搏壓，在正常老化的狀態，會看到動脈順應性下降造成 SBP 上升、DBP 下降，但在大多數疾病的情況，寬脈搏壓會以 SBP 上升、DBP 不變的形式表現，SBP 上升主要源於心輸出量上升，所以答題的重點會在找出心輸出量 (CO) 或心搏量 (SV) 會上升的狀態\n\n(A) 主動脈瓣狹窄 → CO 下降 → narrow PP\n(B) 甲狀腺毒症 → CO 上升 → widened PP\n(C) 感染發燒 → CO 上升 → widened PP\n(D) 開放性動脈導管 → 體循環血量下降（由 PDA 跑到肺循環）→ DBP 下降比 SBP 明顯 → widened PP\n\n補充：異常脈搏壓原因整理於下表：\n\n| 寬脈搏壓 (widened PP) | 窄脈搏壓 (narrow PP) |\n| :--- | :--- |\n| **(1) decreased vascular compliance**<br>• arteriosclerosis<br>**(2) increased cardiac output**<br>• aortic regurgitation<br>• thyrotoxicosis<br>• fever<br>• severe iron deficiency anemia (血液黏著度下降)<br>**(3) diastolic runoff**<br>• patent ductus arteriosus (PDA) | **(1) reduced cardiac output**<br>• heart failure<br>• blood loss<br>• aortic stenosis (主動脈瓣狹窄)<br>• cardiac tamponade (心包膜填塞) |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-13_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-13_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-14",
@@ -11133,9 +11139,11 @@
       "D": "因為資訊與機器的進步，要檢查心臟冠狀動脈的解剖學與生理變化，心臟血管電腦斷層已經取代心導管檢查，成為最標準的方法"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "只要用刪去法，或是一絲絲在心臟內科實習過的印象基本上就能選了，不緊張！\n\n(A)(B) 正確，有興趣的人可以讀 Harrison 在診斷性心導管檢查 (Ch. 242) 第一段的小故事\n(C) 正確，Harrison 在上述章節有提到冠狀動脈血管攝影最常見的併發症為血管植入處出血 (vascular access-site bleeding，約 1.5~2.0%)，另外的併發症還有心律不整、急性腎損傷、心肌梗塞、中風和死亡等\n(D) 錯誤，心導管檢查目前仍然是檢查冠狀動脈結構與生理變化的黃金標準，特別是對於曾做過 PCI 的病人，因為金屬支架會干擾判讀，心臟血管電腦斷層的應用價值反而降低",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-14_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-14_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-15",
@@ -11150,9 +11158,11 @@
       "D": "肝臟局部結節增生（focal nodular hyperplasia）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題考試的話，可直接由 AFP、CEA、CA19-9 線索判別：\n• **AFP**：被視為肝細胞癌有意義的指標（特別是當 AFP > 400 ng/mL）\n• **CEA**：則是各類腺癌的指標，肝細胞癌不屬於腺癌，照理不應如此爆高，因此合理懷疑為身體他處腺癌轉移至肝臟導致，又超音波「肝內有多顆大小不一的低回音結節」更確認了這個想法\n• **CA19-9**：是膽管、胰臟良惡性病灶的指標，病人的數值雖超過參考值，但並非有意義的升高，因此也不會是膽管細胞癌\n\n題幹的其他線索幫助不大，症狀 non-specific、給的生化數值僅說明病人的肝功能尚未失代償\n(D) 肝臟局部結節增生的介紹，請見【112-2(三)23】詳解",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-15_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-15_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-16",
@@ -11167,9 +11177,11 @@
       "D": "不論UC或CD，亞洲人的發生率高於美國人"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "發炎性大腸炎 (IBD) 的比較是一大考點，務必要記起來！\n\n| 比較項目 | 潰瘍性大腸炎 (Ulcerative colitis, UC) | 克隆氏病 (Crohn's disease, CD) |\n| :--- | :--- | :--- |\n| **種族** | 猶太人 > 白人 > 黑人 > 亞洲人 | 猶太人 > 白人 > 黑人 > 亞洲人 |\n| **發生年齡** | 雙峰分佈 (20-40 歲、70-90 歲) | 雙峰分佈 (20-40 歲、70-90 歲) |\n| **抽菸** | **減少發生率 (保護因子)** | **增加發生率 (危險因子)** |\n| **影響位置** | 只有大腸到直腸（幾乎都會侵犯 rectum） | **全消化道**（常有 rectal sparing） |\n| **影響深度** | 內層 (mucosa、submucosa) | **全層 (transmural)** |\n| **內視鏡特徵** | **連續 (continuous)**、黏膜有一顆顆 pseudopolyps | **跳躍式 / 局部一塊一塊 (segmental)**、鵝卵石狀 (cobblestone appearance) |\n| **血便、黏液** | **常見** | 少見 |\n| **狹窄、廔管** | 少見 | **常見** |\n| **發生癌症機率** | **較高** | 較低 |\n| **服用口服避孕藥** | 風險無增加 | 風險增加 |\n| **闌尾切除** | 減少發生率 | 無關 |\n| **雙胞胎發生率** | 相關性低 | 相關性高 |\n| **其他** | 出生一年內使用抗生素會提升 childhood IBD 的發生率 | 出生一年內使用抗生素會提升 childhood IBD 的發生率 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-16_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-16_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-17",
@@ -11184,9 +11196,11 @@
       "D": "總膽管血塊"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Mirizzi's syndrome 是指膽結石卡在膽囊頸部或膽囊管 (cystic duct)，由外側壓迫總膽管或總肝管，造成阻塞，因此此題選 (C)\n\n其臨床症狀無法和膽管炎或膽囊炎區分，都是以 Charcot's triad 表現（發燒、黃疸、右上腹痛），需從腹部超音波或電腦斷層確定診斷",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-17_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-17_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-18",
@@ -11201,9 +11215,11 @@
       "D": "肝細胞癌破裂"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腹水判讀幾乎是 GI 考題的常客，不拿可惜啊！若用速解法，看到黃疸、反彈痛（腹膜炎重點 sign）、palmar erythema、flapping tremor 這幾個詞，直覺推測病人有肝硬化，其腹水有關的併發症即自發性細菌性腹膜炎 (Spontaneous Bacterial Peritonitis, SBP)，不確定的話至少可以先排除十二指腸問題和腸套疊，再配合腹水結果中 WBC 為 neutrophil predominant，和腫瘤常表現的 variable cell type 不符，因此答案為 (A)\n\n腹水的鑑別診斷流程：看 SAAG (serum-ascites albumin gradient) → 看外觀、CBC/DC、culture、glucose、amylase、細胞學 (cytology) 等；portal hypertension 相關則看 AFTP (ascites fluid total protein)\n\n| 分類指標 | SAAG ≥ 1.1 (Portal HTN 相關) | SAAG < 1.1 (Non-portal HTN 相關) |\n| :--- | :--- | :--- |\n| **AFTP > 2.5 g/dL** | • CHF (右心衰竭)<br>• Sinusoidal obstruction syndrome<br>• Early Budd-Chiari syndrome | • **Secondary Peritonitis** (culture(+), PMN > 250)<br>• **Peritoneal carcinomatosis** (cytology(+)) |\n| **AFTP < 2.5 g/dL** | • **Cirrhosis** (PMN < 250)<br>• **SBP** (culture(+) 或 PMN > 250)<br>• Massive liver metastases (cytology(+))<br>• Late Budd-Chiari syndrome | • **Pancreatitis** (amylase > 100)<br>• Nephrotic syndrome<br>• Tuberculosis<br>• Biliary leak<br>• Protein-losing enteropathy |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-18_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-18_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-19",
@@ -11218,9 +11234,11 @@
       "D": "acetaminophen"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "ALK-P 非常高，ALK-P 除了存在於膽小管 (bile canaliculi)，在骨骼、胎盤也有（因此骨骼病變、兒童、孕婦之 ALK-P 值也會稍高），但爆高的數值搭配也異常的總膽紅素，推測題幹之肝傷害為膽管淤積或阻塞\n\n(A) **Methotrexate**：主要副作用為肝毒性（AST、ALT 升高）、腎毒性，因其毒性強，滴注時多會同時給予 leucovorin（葉酸，Vit B9）和鹼化尿液\n(B) **Isoniazid**：抗結核病藥物之一，其最常考的副作用是會造成周邊神經炎，因此會搭配口服 pyridoxine (Vit B6)，其他副作用也包括可能引發 SLE、肝毒性\n(C) **Methyltestosterone**：合成的睪固酮，除了有男性化特徵和固醇類的副作用外，也會有肝毒性，雖然也有肝細胞傷害，但更常以**膽汁淤積 / 黃疸**為表現，不清楚此藥物，也可嘗試由刪去法作答\n(D) **Acetaminophen**：最有名之肝毒性藥物（AST、ALT 升高，上限 4 g/day）\n\n| 抗結核病藥物之肝毒性 | 表現 |\n| :--- | :--- |\n| **Isoniazid (INH)** | AST/ALT 升高 |\n| **Rifampin (RMP)** | AST/ALT 升高、**黃疸**：可以是膽汁淤積性黃疸 (Direct Bil., ALK-P 高) 或溶血性貧血造成之黃疸 (Indirect Bil. 高)<br>* 補充會造成 isolated unconjugated hyperbilirubinemia 的兩種藥：Rifampin、Probenecid |\n| **Pyrazinamide (PZA)** | AST/ALT 升高 |\n\n**停藥與恢復指引**：\n1. 當 AST/ALT「超過正常值上限 3 倍且有肝炎症狀」或「超過正常值上限的 5 倍」，須停止所有有肝毒性之抗結核病藥物\n2. 停藥期間，可選用無肝毒性之藥物：Ethambutol、Streptomycin、Fluoroquinolone\n3. 肝功能恢復正常，每次加回一種藥，加藥順序 RMP → INH → PZA（口訣：RIP）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-19_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-19_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-20",
@@ -11235,9 +11253,11 @@
       "D": "小腸最常見的肉瘤（sarcoma）為平滑肌肉瘤（leiomyosarcoma）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "大部分小腸腫瘤是良性的，常見的包含 leiomyoma、adenoma、hamartomas、neurofibroma 等，如果是惡性腫瘤，最常見的組織型態為 carcinoid tumor，接著是 adenocarcinoma、lymphoma、sarcoma，其中淋巴瘤最常見在迴腸的 ileocecal valve 附近，但如果題目問腸胃道最常見淋巴瘤的位置，則是在胃；sarcoma 最常見的是 leiomyosarcoma，而 angiosarcoma、liposarcoma 較少\n\nPeutz-Jeghers syndrome (PJS) 是體染色體顯性遺傳的息肉增多症 (STK11 gene mutation)，這些息肉又稱為缺陷瘤 (hamartomatous polyp)，是良性息肉，但確實可能癌變，只是機率很低！另外有一個常見的臨床特徵是在嘴唇會看到黑色斑點，斑點本身也是良性的，PJS 會增加罹患各類癌症的機率，機率最高的癌別是腸胃道癌症，乳癌次之，可進一步查閱【112-2(五)52】詳解，了解有關疾病",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-20_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-20_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-21",
