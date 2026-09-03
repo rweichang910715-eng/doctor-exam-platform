@@ -14150,8 +14150,8 @@
       "D": "claudication為stage IV"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "下肢動脈阻塞疾病常用分類有 Fontaine's classification 和 Rutherford's categories：\n\n| Fontaine's stage | 臨床表現 | Rutherford's category | 臨床表現 |\n| :--- | :--- | :--- | :--- |\n| **I** | 無症狀 | **0** | 無症狀 |\n| **IIa** | 間接性跛行（可走 >200 公尺） | **1** | 輕微間接性跛行 |\n| **IIb** | 間接性跛行（可走 <200 公尺） | **2** | 中度間接性跛行 |\n| | | **3** | 重度間接性跛行 |\n| **III** | 休息時疼痛 (ischemic rest pain) | **4** | 休息時疼痛 |\n| **IV** | 缺血性潰瘍 (ulceration) 或壞死 (gangrene) | **5** | 輕度缺血性潰瘍 |\n| | | **6** | 嚴重缺血性潰瘍或壞死 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-21_merged.png",
     "explanation_images": null
   },
   {
@@ -14167,8 +14167,8 @@
       "D": "fibrillin"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "這題很像在考一階國考... 筆者發現 112 年的題目很愛把一階的東西也拿到二階一起考，Marfan syndrome 是 FBN1 基因突變導致 fibrillin-1 蛋白質異常\n(A) elastin 如果出問題，也會導致心血管的一些問題，如家族性的 supravalvular aortic stenosis、Williams-Beuren syndrome 等\n(B) 金屬蛋白酶 (metalloproteinase) 是人體內用來分解細胞外基質 (ECM) 的重要酵素們，種類非常多，舉一個比較常見的例子，ADAMTS-13 就屬於一種金屬蛋白酶，當他活性下降時，會無法將 vWF 分解，而使大塊的 vWF 沉積於血管內皮，並進一步凝集血液中的血小板，導致血栓性血小板低下紫斑症 (thrombotic thrombocytopenic purpura, TTP)\n(C) 一階國考應該有記不同種類的 collagen 會出現在哪些組織，此處額外放上不同種類的 collagen 異常會導致什麼疾病\n\n| collagen | 分佈 | 相關疾病 |\n| :--- | :--- | :--- |\n| **type I（最常見）** | 骨頭、肌腱、韌帶、疤痕、血管 | osteogenesis imperfecta |\n| **type II** | 軟骨、玻璃體、腸子 | Stickler syndrome |\n| **type III** | 皮膚、血管 | Ehlers-Danlos syndrome (vascular) |\n| **type IV** | 基底膜 | Alport syndrome<br>Goodpasture syndrome |\n| **type V** | 胎盤、真皮與表皮交界（形成 anchoring fibrils） | Ehlers-Danlos syndrome (classic) |\n| **type VII** | 真皮與表皮交界 | epidermolysis bullosa |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-22_merged.png",
     "explanation_images": null
   },
   {
@@ -14184,8 +14184,8 @@
       "D": "心導管（cardiac catheterization）之檢查已經是非必要之檢查"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "全肺靜脈異常〔TAPVC，或作 TAPVR (R for return)〕是先天性發紺型心臟病，是肺靜脈全接到上下腔靜脈或右心房，造成右心肥大，要合併 ASD，充氧血才有辦法回到左心，阻塞型 TAPVR 會造成嚴重肺高壓、肺水腫導致無法進行氧氣交換，需在出生後需要盡速進行手術修復；其他型 TAPVR 通常診斷時間較晚，皆建議進行手術矯正發紺\n(A) 錯誤，垂直靜脈可能是肺靜脈連到體循環的路徑，手術治療時應該截斷\n(C) 無縫修復法 (sutureless repair) 不直接縫合血管壁，而是縫合心包膜，可以避免術後由於血管壁縫合的出血\n(D) 心導管檢查目前不是 gold standard，使用超音波、CTA 或 MRA 就足以診斷",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-23_merged.png",
     "explanation_images": null
   },
   {
@@ -14201,8 +14201,8 @@
       "D": "muscular type"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "看似很難的一題，但其實只要知道哪個位置的 VSD 離主動脈瓣最近就行了\n\n| 心室中膈缺損 (ventricular septal defect, VSD) | 盛行率 | 特色 |\n| :--- | :--- | :--- |\n| **type I 動脈下型 (subarterial type)** | 5~7%（東方人 ~30%） | • 常合併主動脈瓣脫垂、AR 等<br>• 最不容易自行癒合 |\n| **type II 膜週邊型 (perimembranous type)** | 70% | |\n| **type III 房室腔型 (AV canal type)** | 5% | 常見於唐氏症或其他基因異常 |\n| **type IV 肌肉型 (muscular type)** | 20% | 最容易自行癒合 |\n\n治療上，小尺寸的 VSD (≤ 3 mm) 在 1~2 歲前自行癒合的機率很高，可先觀察或是藥物治療；大尺寸 (≥ 5 mm)、缺損位置不佳、無法自行癒合或有嚴重症狀的 VSD 則建議心導管或手術治療",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-24_merged.png",
     "explanation_images": null
   },
   {
@@ -14218,8 +14218,8 @@
       "D": "胃食道逆流與食道弛緩症（achalasia）一樣，發生時間長久後，會有巨大食道（megaesophagus）產生"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) GERD 處置首要是改善生活習慣，如減少暴食、宵夜、減重、睡覺頭墊高、避免誘發因子等；可適當給予藥物，PPI 或 H2 blocker；保守治療皆無效才考慮手術介入\n(B)(C) GERD 除典型的 heartburn（胸口灼熱、胸痛）、胃酸逆流、吞嚥困難的症狀外，也會有食道外的症狀，如咳嗽、氣喘、喉炎、牙齒腐蝕\n(D) 食道遲緩不能 (achalasia) 因分泌一氧化氮的神經病變，下食道括約肌 (lower esophageal sphincter, LES) 無法擴張，食物因而不能下送而堆積，造成其近端食道擴張 / 撐大的現象，稱為巨大食道，長期 GERD 並不會有此現象，GERD 的併發症為胃食道交界處潰瘍、狹窄、癌前病變的巴瑞特氏食道 (Barrett's esophagus) 和食道腺癌 (esophageal adenocarcinoma)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-25_merged.png",
     "explanation_images": null
   },
   {
@@ -14235,8 +14235,8 @@
       "D": "即使被鋇劑食道攝影診斷為食道蠕動問題，只要病人有吞嚥困難問題，仍應安排胃食道鏡檢查"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，食道癌的診斷一定還是要靠病理切片（可以直接靠影像診斷的癌症大概只有肝癌），staging 則是會配合電腦斷層、內視鏡超音波 (EUS)，如果疑似轉移還會加做正子攝影\n(B) 錯誤，Bird's beak sign 是食道下段遲緩不能 (achalasia) 的表現，因為食道收縮所以只有小小的縫可以讓鋇劑鑽過去，形成類似鳥嘴的形狀\n(C) 正確，EMR 在侷限於 mucosa 的早期食道癌可以知道侵犯深度，但大多情況下要知道深度還是會透過 EUS，如果深度侵犯到了 submucosa 或是更深，通常會建議做食道切除 + 淋巴結切除（只侵犯 mucosa、submucosa 的病人仍有 20-25% 有淋巴結侵犯）\n(D) 正確，鋇劑食道攝影主要是看食道蠕動與狹窄狀況，比較沒有辦法直接看到 mucosa 有沒有什麼病變，而且食道癌的臨床表現之一就是吞嚥困難，因此還是會建議做上消化道內視鏡檢查\n\n其他考點：\n• 食道腺癌較常發生在下 1/3 段食道，主因和 Barrett esophagus 和 GERD 有關\n• 食道鱗狀上皮癌好發生於上 2/3 食道，其中以中 1/3 食道為主（國人統計食道鱗狀上皮癌發生位置依序為：中段 > 下段 > 上段）\n• 兩類型食道癌的比較表格，整理於【112-2(三)19】\n• 食道鋇劑檢查，疾病與對應的 signs，請見【112-1(三)74】",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-26_merged.png",
     "explanation_images": null
   },
   {
@@ -14252,8 +14252,8 @@
       "D": "與肺鱗狀上皮細胞癌（squamous cell carcinoma）相比，較不易轉移至腦部"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "| NSCLC 肺腺癌 | NSCLC 鱗狀細胞癌 | SCLC 小細胞癌 |\n| :--- | :--- | :--- |\n| **比率（台灣）** | 62% | 16% | 8% |\n| **腫瘤分布** | 周邊型（來自支氣管上皮 mucus-producing cell） | 中央型（多局部壞死與開洞化） | 中央型 |\n| **吸菸關聯性** | 較不相關，>50% 是非吸菸者，尤其亞洲女性 | 相關 | 最相關 |\n| **遠端轉移（尤其腦轉移）** | 其次 | 少見 | 最常見 |\n| **預後** | 最佳 | 其次 | 最差 |\n| **腫瘤伴生症候群 (paraneoplastic syndrome)** | Hypertrophic pulmonary osteoarthropathy | 1. 高血鈣（分泌 PTHrP）<br>2. Horner syndrome（若腫瘤長在肺尖，即 Pancoast tumor） | 1. SIADH<br>2. Cushing's syndrome<br>3. Lambert-Eaton syndrome |\n| **治療** | • 早期：手術 ± 放化療<br>• 晚期 (stage IIIB 以上)：分子病理檢查，看能否標靶治療 (TKI)；若無只能化療（皆能 ± 免疫治療） | • 侷限期 (limited，在同側肺腔)：手術 + 放化療<br>• 擴散期 (extensive)：化療 ± 免疫治療 |\n\n【112-2(五)26】則是考肺鱗狀上皮癌！\n\n其他考點：\n• 最罕見的肺癌種類為：大細胞肺癌 (large cell carcinoma)，屬於 NSCLC，特徵為顯微鏡底下有大、未分化的癌細胞，好分布於肺周邊，易早期轉移\n• 預後最好的肺腺癌細胞型態為：lepidic pattern（仍為 adenocarcinoma in situ）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-27_merged.png",
     "explanation_images": null
   },
   {
@@ -14269,8 +14269,8 @@
       "D": "治療方式以手術切除為主"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題重點為肺部類癌 (lung carcinoid, NEC) 的比較，但考得實在有點細，若沒時間讀細節就參考以下整理，知道非典型類癌比較惡性就好\n\n| NEC 病理分級* | 典型類癌 (typical carcinoid)<br>Grade I | 非典型類癌 (atypical carcinoid)<br>Grade II |\n| :--- | :--- | :--- |\n| **流行病學** | 年齡較小；男女均有（女性較多） | 年齡較大；男性為主；抽菸 |\n| **腫瘤大小 (cm)** | 小 (<3cm) | 大 (>3 cm) |\n| **轉移、類癌症候群** | 少見 | 常見 |\n| **預後（5 年存活率）** | 較好 (80-90%) | 較差 (50-60%) |\n| **治療** | 類癌的一線治療都是手術切除；高惡性度或有轉移的類癌才是以化療、somatostatin analogue 或栓塞治療為主 |\n\n*Grade III= Large Cell NEC; Grade IV= SCLC",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-28_merged.png",
     "explanation_images": null
   },
   {
@@ -14286,8 +14286,8 @@
       "D": "為了有效控制出血，pneumonectomy為最常用的術式"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "絕大部分的肺臟外傷置放胸管即可，不需要手術介入，需要開胸手術 (thoracotomy) 的適應症包含胸管引流出 >1500 ml 血液、持續 2-4 小時以上引流 >150-200 ml 血液、血流動力不穩定等（詳細適應症可參考【112-2(五)29】，上述出血量是經驗法則得出，Sabiston 認為區分出血為 active 或 accumulated 更重要）\n\n肺實質出血的止血方式依嚴重度分為 suture、pulmonary tractotomy（以器械將肺實質損傷處打開探查，讓出血、氣漏處得以被 clamped 或縫合，不用切除肺組織是其優點）、肺切除，其中肺切除的術式以 lobectomy、segmentectomy 為主，單側全肺切除 (pneumonectomy) 本身有高死亡率 (>50%)，在極端、止血方式均失敗的情況下才考慮施行，此外血腫、空氣栓塞皆是肺部手術可能的併發症",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-29_merged.png",
     "explanation_images": null
   },
   {
@@ -14303,8 +14303,8 @@
       "D": "縱隔惡性生殖細胞瘤的發生率沒有性別差異"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "| | 前縱隔腔 | 中縱隔腔 | 後縱隔腔 |\n| :--- | :--- | :--- | :--- |\n| **解剖構造** | 胸腺、內胸動脈 | 心臟、氣管、升主動脈、主動脈弓、SVC、IVC、膈神經 | 胸主動脈、食道、奇靜脈、半奇靜脈、胸管、交感神經鏈 |\n| **常見腫瘤** | Teratoma<br>Thyroid mass<br>Thymoma<br>Lymphoma<br>（口訣：3T1L） | LN enlargement<br>Bronchogenic cyst<br>Pleuropericardial cyst | Neurogenic tumor<br>Meningocele |\n\n(A) 正確，在一些文獻有提到，有些位於縱隔腔的良性 teratoma 鄰近重要器官，因此只做局部切除，而這些病例也幾乎沒看到復發的情形\n(B) 正確，如上表所列，而 neurogenic tumor 無論是在成人或小孩都是縱隔腔腫瘤最常見的（占成人 21%、占小孩 40%）\n(C) 正確，精原細胞瘤 (seminoma) 對放射線與化療藥物非常敏感，初期 seminoma 使用放射治療可以治癒，而化學治療一般使用 cisplatin-based 的化療藥物，縱隔腔 seminoma 通常發現時已經比較晚期，但儘管如此使用化療仍有超過 75% 病人可以達到 complete response，相對的，nonseminomatous 的生殖細胞瘤對於放射線治療就比較不敏感，通常對於化療比較有效\n(D) 錯誤，其實很少疾病會完全沒有性別差異啦，考試真的不會時看到這種語氣就給他選下去，縱隔腔 GCT 大約有 80% 是良性，而良性的 GCT 男女發生率是差不多的，但若是惡性 GCT 則男性發生率幾乎是女性 10 倍",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-30_merged.png",
     "explanation_images": null
   },
   {
