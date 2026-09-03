@@ -12032,9 +12032,11 @@
       "D": "①②③④"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "診斷感染性心內膜炎 (Infective Endocarditis, IE) 務必熟記 **Modified Duke Criteria**，Major criteria 主要是**微生物培養與心臟影像學證據**，Minor criteria 則是**臨床表徵、發燒與危險因子**：\n\n| Major Criteria (主要準則) | Minor Criteria (次要準則) |\n| :--- | :--- |\n| 1. **陽性血液培養 (Positive blood culture)**：<br>• 典型微生物（2 套血液培養陽性）：*S. aureus*、Viridans streptococci、*S. gallolyticus*、**HACEK group**、社區型腸球菌（無原發病灶）<br>• 持續性血液培養陽性（間隔 12 小時以上之 2 套陽性，或 3 套全部陽性 / ≥4 套中過半陽性）<br>• *Coxiella burnetii*（單次血培養陽性或 IgG 抗體力價 > 1:800）<br>2. **心臟受累證據 (Evidence of endocardial involvement)**：<br>• 心臟超音波發現贅生物 (Oscillating intracardiac mass)、膿瘍 (Abscess) 或人工瓣膜裂開 (Partial dehiscence)<br>• 新發生的瓣膜逆流雜音 (New valvular regurgitation) | 1. **前置因子 (Predisposition)**：心臟瓣膜病變、人工瓣膜或靜脈注射毒品史 (IV drug use)<br>2. **發燒 (Fever)**：體溫 > 38°C<br>3. **血管病變 (Vascular phenomena)**：主要動脈栓塞、敗血性肺栓塞、黴菌性動脈瘤、顱內出血、結膜出血、**Janeway lesions**（無痛性紅斑）<br>4. **免疫病變 (Immunologic phenomena)**：絲球體腎炎、**Osler's nodes**（疼痛性結節）、**Roth's spots**（視網膜白心出血點）、類風濕因子 (RF (+))<br>5. **微生物證據**：不符合主要準則之陽性血液培養或活動性感染血清學證據 |\n\n**確診 (Definite IE) 判定組合**：\n• 2 Major criteria\n• 1 Major + 3 Minor criteria\n• 5 Minor criteria\n\n本題中 ①（典型菌血症培養含 HACEK）與 ②（心臟超音波見 oscillating mass）為 **Major criteria**；③（發燒 > 38°C）與 ④（Janeway lesion / Osler's node）為 **Minor criteria**，故選 **A（僅①②）**",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-61_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-61_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-62",
@@ -12049,9 +12051,11 @@
       "D": "流感快篩陰性，即可排除流感"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確：流行性感冒病毒 (Influenza virus) 為具有外套膜 (envelope) 的單股負鏈 RNA 分節病毒（8 個 RNA 片段），且帶有 RNA-dependent RNA polymerase\n(B) 正確：流感主要透過人群間的飛沫傳播與接觸分泌物傳染；禽流感則主要因接觸受感染之家禽或其排泄物所致\n(C) 正確：成人流感可傳染期通常為症狀出現前 1 天至症狀出現後 3-7 天；而兒童與免疫不全/缺損病人之排毒時間更長，傳播期通常 > 7 天，甚至可持續數週至數月\n(D) 錯誤：**流感快速抗原篩檢 (Rapid antigen detection test, RIDT) 的敏感度僅約 50-60%（偽陰性率高達 40-50%）**，因此快篩陰性**不能**排除流感診斷！臨床若高度懷疑流感併發重症，仍應儘早給予抗病毒藥物 (如 Oseltamivir) 治療或安排分子檢驗 (RT-PCR)\n\n**常見流感診斷工具比較**：\n\n| 檢驗項目 | 敏感度 (Sensitivity) | 特異度 (Specificity) | 檢測時間 | 臨床角色 |\n| :--- | :---: | :---: | :---: | :--- |\n| **病毒培養 (Viral culture)** | 高 | 高 | 1-3 天 | 傳統黃金標準，耗時長無法即時指導治療 |\n| **免疫螢光檢驗 (DFA / IFA)** | 中 | 高 | 1-4 小時 | 需螢光顯微鏡操作 |\n| **快速抗原檢驗 (流感快篩 RIDT)** | **中 (50-60%)** | 高 (90-95%) | < 15 分鐘 | 操作快速簡便，但偽陰性高，**陰性不能排除** |\n| **即時核酸分子檢驗 (RT-PCR / NAAT)** | **極高 (90-98%)** | **極高 (≥98%)** | 15-30 分鐘 | 準確度極高，為目前確診主流首選 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-62_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-62_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-63",
@@ -12066,9 +12070,11 @@
       "D": "M. microti"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "分枝桿菌屬 (*Mycobacterium*) 臨床上主要分為三大類：\n\n1. **結核分枝桿菌複合群 (Mycobacterium tuberculosis complex, MTBC)**：\n   • 最常見代表菌株：***Mycobacterium tuberculosis*（結核桿菌）**、***Mycobacterium bovis*（牛分枝桿菌，BCG 疫苗來源）**\n   • 其他成員包括：***M. africanum*（非洲分枝桿菌）**、***M. microti*（田鼠分枝桿菌）**、*M. caprae*、*M. canettii*、*M. orygis* 等\n2. **非結核分枝桿菌 (Nontuberculous mycobacteria, NTM)**：\n   • **慢速生長菌群 (Slow growers)**：*M. avium-intracellulare complex* (MAC)、*M. kansasii*、*M. marinum*（海洋分枝桿菌，水族箱肉芽腫）、*M. xenopi*、*M. gordonae*、*M. scrofulaceum* 等\n   • **快速生長菌群 (Rapid growers)**：***Mycobacterium chelonae*（龜分枝桿菌，選 C 不屬於結核複合群）**、*M. fortuitum*、*M. abscessus*（膿瘍分枝桿菌）等\n3. **痲瘋桿菌群 (Leprosy bacilli)**：\n   • *Mycobacterium leprae*、*Mycobacterium lepromatosis*（引起痲瘋病 / 漢生病）\n\n因此 ***M. chelonae* 屬於非結核分枝桿菌 (NTM)**，不屬於結核分枝桿菌複合群 (MTBC)，選 C",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-63_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-63_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-64",
@@ -12083,9 +12089,11 @@
       "D": "Vibrio vulnificus"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "病史關鍵字：**中年男性、長期肝硬化病史、夏天海邊接觸海水/被魚刺刺傷、進展極為迅速的下肢蜂窩性組織炎伴隨紫紅色出血性水泡 (hemorrhagic bullae) 及敗血性休克**，為最典型的**海洋弧菌 (*Vibrio vulnificus*) 感染**（選 D）\n\n臨床重點：\n• 海洋弧菌為革蘭氏陰性桿菌，嗜鹽生長於溫暖海水中\n• 具慢性肝病（肝硬化、肝炎）、血鐵沉積症 (Hemochromatosis)、酒精成癮或免疫低下者為極高危險群，易迅速由局部傷口感染擴展為猛爆性壞死性筋膜炎與原發性敗血症\n• 其他感染途徑鑑別：\n  - 接觸**海水**或生食海鮮（如生蠔）：*Vibrio vulnificus*\n  - 接觸**淡水**傷口感染：*Aeromonas hydrophila*（產氣單胞菌）\n  - 接觸**海水/水族箱**慢性肉芽腫：*Mycobacterium marinum*\n  - 接觸**髒水 / 傷口土壤污染**：需涵蓋厭氧菌與產氣梭狀桿菌 (*Clostridium perfringens*)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-64_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-64_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-65",
@@ -12100,9 +12108,11 @@
       "D": "cefazolin＋amikacin"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "承上題，海洋弧菌 (*Vibrio vulnificus*) 引起之嚴重軟組織壞死與敗血症，治療原則為**緊急外科清創手術加上合併靜脈廣效抗生素治療**\n\n首選抗生素治療處方為：\n• **第三代頭孢菌素 (如 Ceftazidime 或 Cefotaxime) ＋ 具抗海洋弧菌活性之四環黴素類 (如 Doxycycline 或 Tetracycline)**（選 C）\n• 替代處方：Fluoroquinolone (如 Ciprofloxacin、Levofloxacin) 單用或合併第三代頭孢菌素\n\n**常見深層軟組織感染 / 壞死性筋膜炎抗生素選擇對照**：\n\n| 感染致病菌與暴露情境 | 首選經驗性抗生素組合 | 治療機轉重點 |\n| :--- | :--- | :--- |\n| **海洋弧菌 (*Vibrio vulnificus*, 接觸海水/生蠔)** | **3rd Cephalosporin (Ceftazidime) ＋ Tetracycline/Doxycycline** | 具協同殺菌效果，快速控制菌血症 |\n| **產氣單胞菌 (*Aeromonas hydrophila*, 接觸淡水)** | **3rd Cephalosporin ＋ Fluoroquinolone / Doxycycline** | 涵蓋革蘭氏陰性桿菌 |\n| **A 群鏈球菌 (*Group A Streptococcus*, 毒性休克/壞死性筋膜炎)** | **Penicillin G ＋ Clindamycin** | Penicillin 殺菌 ＋ Clindamycin 抑制核糖體蛋白質合成與毒素產生 (Eagle effect) |\n| **混合型壞死性筋膜炎 (Type I Necrotizing fasciitis, 厭氧+好氧混合)** | **Ampicillin/Sulbactam (或 Piperacillin/Tazobactam) ＋ Vancomycin** | 廣效涵蓋 MRSA、革蘭氏陰性菌與厭氧菌 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-65_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-65_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-66",
@@ -12117,9 +12127,11 @@
       "D": "退化性膝關節炎"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "高齡長者跌倒危險因子可分為**內生性因子 (Intrinsic factors)** 與**外在環境因子 (Extrinsic factors)**：\n\n| 內生性危險因子 (Intrinsic factors) | 外在/環境危險因子 (Extrinsic factors) |\n| :--- | :--- |\n| • **年齡 ≥ 80 歲之極高齡男性**（**年紀大於 65 歲本身並非具明確顯著相關之內生性危險因子**，選 A）<br>• **過去曾有跌倒病史 (Previous falls)**（最強危險因子之一）<br>• **步態異常與平衡功能失調**<br>• **肌力減弱 (Muscle weakness)、肌少症**<br>• **關節疼痛或退化性關節炎**<br>• **認知功能障礙、失智症、譫妄**<br>• **帕金森氏症 (Parkinson's disease)、中風後遺症**<br>• **視力減退 (Visual impairment)**<br>• **多重共病與尿失禁**<br>• **多重用藥 (Polypharmacy ≥ 4-5 種藥物) 或使用高風險藥物（如鎮靜安眠藥 BZD、抗精神病藥、降血壓藥、抗憂鬱劑）** | • **居家環境缺乏樓梯扶手或浴室抓桿**<br>• **樓梯設計不良或階梯過高**<br>• **室內照明昏暗不良**<br>• **地面散落障礙物、電線或地毯捲起**<br>• **地面濕滑、積水或不平整**<br>• **不合腳的鞋子或未穿防滑鞋**<br>• **不當或不熟悉使用助行器/拐杖** |\n\n因此「年紀大於 65 歲」並非具 Moderate/Strong evidence 之內生性跌倒危險因子（臨床指引中主要為 ≥ 80 歲或合併衰弱之高齡者），而帕金森氏症、退化性關節炎與認知障礙皆為明確之內生性危險因子，故選 A",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-66_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-66_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-67",
@@ -12134,9 +12146,11 @@
       "D": "憂鬱症治療除藥物治療外尚包括非藥物治療，例如：認知行為治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤：憂鬱症復發率高，約 50% 患者在單次憂鬱發作緩解後仍可能再次復發，且復發次數愈多，未來再次復發之機率愈高（2 次發作後復發率約 70%，3 次以上高達 90%）\n(B) 錯誤：**我國 65 歲以上老年族群之自殺死亡率長期高居各年齡層之首**！且老年自殺身亡者中合併憂鬱症之比例高達 44-87%，因此高齡長者應高度重視並常規進行憂鬱篩檢（如使用老年憂鬱量表 GDS-15）\n(C) 錯誤：初次發作之憂鬱症在症狀完全緩解後，臨床指引建議持續維持期抗憂鬱藥物治療 **6-9 個月**，以預防早期復發；之後若病況穩定可與醫師討論評估逐漸減量與停藥，並非所有人都必須終身服藥\n(D) 正確：憂鬱症的完整治療模式包含**藥物治療（如 SSRI、SNRI 等）**與**非藥物心理治療（如認知行為治療 CBT、人際心理治療 IPT）**，合併治療之長期療效與防復發效果最佳（選 D 正確）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-67_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-67_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-68",
@@ -12151,9 +12165,11 @@
       "D": "醫師依醫學證據及病人個別選擇，來進行醫療決策"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題測驗現代臨床醫療倫理與**醫病共享決策 (Shared Decision Making, SDM)** 之核心精神：\n\n• **實證醫學證據 (Evidence-Based Medicine, EBM)**：醫師運用當前最佳的臨床科學證據、專業知識與臨床經驗，向病人清楚說明各種診療選項的效益、潛在風險、預後與副作用\n• **病人個別選擇與價值觀 (Patient Values and Preferences)**：在充分資訊告知的前提下，尊重病人的自主權 (Autonomy)，由病人根據其個人價值觀、生活型態、宗教信仰與偏好，與醫療團隊共同討論並做出最適合病人的醫療決定\n\n因此，最理想的醫療決策模式是**「醫師依醫學證據及病人個別選擇，來進行醫療決策」（選 D）**；保險給付需求與醫師個人主觀經驗皆不能凌駕於實證醫學與病人自主權之上",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-68_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-68_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-69",
@@ -12168,9 +12184,11 @@
       "D": "Disease (+) Disease (-)Test (+) 100 550Test (-) 300 50"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題計算各篩檢選項之**假陽性率 (False Positive Rate, FPR)** 與**特異度 (Specificity)**：\n\n各名詞定義：\n• **假陽性率 (False Positive Rate, FPR)**：在**沒有得病的人 (Disease (-))** 中，被篩檢判定為陽性 (Test (+)) 的比例\n  FPR = FP / (FP + TN) = 1 - Specificity\n• **特異度 (Specificity)**：在沒有得病的人中，被正確篩檢判定為陰性 (Test (-)) 的比例\n  Specificity = TN / (FP + TN)\n\n各選項計算：\n• **(A)**：FPR = 50 / (50 + 550) = 50 / 600 ≈ 8.3%（特異度 ≈ 91.7%）\n• **(B)**：FPR = 50 / (50 + 850) = 50 / 900 ≈ **5.6%**（特異度 ≈ **94.4%**，**假陽性率最低**，選 B）\n• **(C)**：FPR = 50 / (50 + 400) = 50 / 450 ≈ 11.1%（特異度 ≈ 88.9%）\n• **(D)**：FPR = 550 / (550 + 50) = 550 / 600 ≈ 91.7%（特異度極低）\n\n**流行病學重要觀念**：\n在**盛行率低 (Low prevalence)** 的疾病進行族群社區篩檢時，假陽性人數會大幅放大；因此篩檢工具必須具備**極高的特異度 (High specificity)**，亦即**極低的假陽性率 (Low false positive rate)**，以避免造成大量非患病民眾之不必要恐慌與過度醫療檢查",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-69_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-69_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-70",
@@ -12185,9 +12203,11 @@
       "D": "正要開始建立關係"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "在醫病非語言溝通 (Nonverbal communication) 中：\n\n• **鏡像姿勢 (Mirroring posture / 鏡像反應)**：指在互動過程中，醫病雙方在無意識或潛意識中互相模仿或呈現相呼應的身體姿態、動作節奏、語調或表情\n• **臨床意涵**：鏡像反應是**雙方互動良好、具備同步默契且已建立良好醫病關係與信任感 (Rapport has been established)** 的重要非語言指標（選 B 正確）\n• **臨床應用**：\n  - 醫師善用同理心的傾聽與適度的肢體呼應（如身體微向前傾、點頭、保持開放性姿態），有助於傳遞接納、尊重與理解\n  - 能減輕病人的防備焦慮與心理距離，使病人更願意開放且真實地陳述病情與內心感受",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-70_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-70_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-71",
