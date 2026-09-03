@@ -13810,8 +13810,8 @@
       "D": "不可以馬上輸血，應等到血型清楚以後再輸同血型的血品"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "「緊急用血」：當病人遇緊急情況，如數分鐘內可能危及生命、重大災難、無法等待常規檢驗或採得病人血液檢體時，血庫依照醫囑 5 分鐘內發出未做交叉配合試驗的「O 型紅血球濃厚液」給患者輸注\n\n實習過的同學可知大部分情況皆適用 packed RBC，包含急性出血，因外傷、開刀或內出血、慢性貧血等，紅血球相較全血的好處，因去除大部分血漿，提升相同 Hgb、Hct 所需輸血血量較少，抗體、蛋白質也相對少，可降低體液擴張、過敏與其他輸血相關副作用，其餘是高中觀念，血球表面有抗原、血漿中存在抗體，O 型是萬用紅血球，AB 型是萬用血漿",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-1_merged.png",
     "explanation_images": null
   },
   {
@@ -13827,8 +13827,8 @@
       "D": "患者即使有少量的氣胸（氣胸量＜10%），若需要轉院時，仍應放置胸管"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，以位置來說，低位肋骨骨折可能代表腹部器官有受傷\n(B) 錯誤，小孩就是因為骨骼發育還未鈣化完全，想比起來較柔韌，因此比較不會造成肋骨骨折（嚴重胸部創傷中，成人的肋骨骨折發生率約為 70%，小孩則只有 40%）\n(C) 正確，有文獻指出小孩的縱隔腔更容易移動，使得在已經有氣胸的前提下，小孩比起成人更容易發生氣胸導致的縱隔腔偏移，也就是更容易變成張力性氣胸\n(D) 正確，雖然沒有特別找到佐證資料，但氣胸最重要的就是 monitor 病人的情況，而且在轉院過程中無法隨時根據病人狀況立即照 X 光評估氣胸，因此還是會建議放置胸管比較好監測\n\n補充一下：張力性氣胸的緊急治療為粗針減壓（在鎖骨中線第二肋間或腋前線第五肋間）；另外緊急開胸手術的適應症可參考【112-2(五)29】的解析",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-2_merged.png",
     "explanation_images": null
   },
   {
@@ -13844,8 +13844,8 @@
       "D": "各吻合處滲漏之機率沒有太大的差異"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "胰頭十二指腸切除手術 (Whipple procedure) 後重要的併發症是接口滲漏與與胰臟瘻管，在不同的研究設計中，接口滲漏的比率最高可達到 30%（多數在 20% 上下）；其他部位的滲漏比率，胃部空腸吻合滲漏約在 1-2%，而膽管空腸吻合略高，約在 3-5%",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-3_merged.png",
     "explanation_images": null
   },
   {
@@ -13861,8 +13861,8 @@
       "D": "對於BCLC stage C的晚期患者來說，可以考慮使用標靶藥物如sorafenib"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "肝癌不論在內、外科皆是每年必考題，可參閱【112-2(三)22】，掌握好 BCLC 各分期對應的治療基本上就穩了，整理如下：\n\n| BCLC Staging | 腫瘤性質 | 肝功能 | ECOG Performance status |\n| :--- | :--- | :--- | :--- |\n| **0 Very early** | 單顆且 ≤ 2cm | Child A | 0 |\n| **A Early** | 單顆 ≥ 2 cm 或 ≤ 3 顆且皆 ≤ 3 cm | Child A、B | 0 |\n| **B Intermediate** | > 3 顆 或 任一顆 > 3 cm | Child A、B | 0 |\n| **C Advanced** | 有門靜脈或肝外侵犯 | Child A、B | 1、2 |\n| **D Terminal** | | Child C | 3、4 |\n\nPerformance status 的說明可參考【112-1(五)40】詳解\n\n| BCLC Staging | 初始治療 |\n| :--- | :--- |\n| **0** | ▪ 手術切除 (Resection)<br>▪ 射頻燒灼術 (RFA)、經皮酒精注射 (PEI)<br>▪ 肝臟移植 (Liver transplantation) |\n| **A** | ▪ 手術切除 (Resection)<br>▪ 射頻燒灼術 (RFA)、經皮酒精注射 (PEI)<br>▪ 肝臟移植 (Liver transplantation) |\n| **B** | ▪ 肝臟移植 (Liver transplantation)<br>▫ 經動脈栓塞治療 (TACE、TAE、Y-90 治療)<br>▫ 標靶治療 |\n| **C** | ▫ 標靶治療 |\n| **D** | ▫ 支持性治療 |\n\n▪ : Curative treatment　▫ : Palliative treatment",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-4_merged.png",
     "explanation_images": null
   },
   {
@@ -13878,8 +13878,8 @@
       "D": "易於操作"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(B) 傷口在合適溼度下利於生長與癒合，因此敷料或乾或溼需視傷口狀態而定，原則「溼者乾之，乾者溼之」，例如昂貴的人工皮，由膠原蛋白、矽膠片組成，其特點是會吸水、也釋放水，猶如機能衣吸溼排汗，非常適合欲復原的乾傷口\n\n理想敷料的特性：\n• 透氣\n• 保持濕潤環境同時吸收多餘體液\n• 不對微生物通透\n• 保護傷口避免進一步機械性傷害或汙染\n• 不會過敏\n• 利於移除而無二次傷害\n• 透明以便於監測傷口\n• 能減少更換次數\n• 價格實惠",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-5_merged.png",
     "explanation_images": null
   },
   {
@@ -13895,8 +13895,8 @@
       "D": "大腸癌接受治療後，超過五年無復發的末期腎衰竭病人"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "器官移植的禁忌症也是愛考重點之一，基本上各個器官移植的絕對禁忌症大同小異\n\n基本上所有移植的絕對禁忌症包含以下：\n• 尚未控制的感染（但結核、B/C 肝、愛滋病在良好控制下並非絕對禁忌！）\n• 尚未治癒的惡性腫瘤（黑色素瘤、肺癌、乳癌、腸胃道癌至少要無復發超過 5 年；其他癌症至少要無復發超過 2 年）\n• 藥、酒癮患者（肝移植者酒癮戒除要至少半年）\n• 無法長期配合使用藥物治療（包含精神疾病、腦血管疾病等生活無法自理者）；另外腎臟移植較特有的禁忌症為：活性自體免疫疾病，且需服用 prednisolone >10 mg/day 或其他免疫抑制劑者\n\n(A) 開放性肺結核屬於尚未控制的感染，須先控制下來才考慮移植\n(B) 愛滋病以前在沒有抗病毒藥物時，是器官移植的絕對禁忌症，但如今接受治療可以讓病情得到控制，已經不是絕對禁忌症",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-6_merged.png",
     "explanation_images": null
   },
   {
@@ -13912,8 +13912,8 @@
       "D": "容易發生小紅血球貧血（microcytic anemia）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "盲環症候群是腸胃道手術後，會有額外的迴路讓食物無法正常通過消化道，廢物及食物在此累積導致細菌過度滋生，臨床症狀會出現腹痛、腹瀉、胃口喪失與體重下降\n(A) 腹瀉或脂肪瀉 (steatorrhea) 會源於細菌滋生導致的腸胃道吸收異常，可改使用中鏈三酸甘油脂之食品，合併抗生素治療減緩症狀\n(B)(D) 腸胃道的細菌滋生會大量消耗腸道可吸收的 Vit B12，身體的 Vit B12 缺乏會導致大球性貧血 (megaloblastic anemia)，而非鐵缺乏導致的小球性貧血 (microcytic anemia)；營養支持方面可使用肌肉注射的 Vit B12 作補充，避免高乳糖食物以改善腹瀉症狀",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-7_merged.png",
     "explanation_images": null
   },
   {
@@ -13929,8 +13929,8 @@
       "D": "切除手術會造成神經損傷，故以化學治療及放射線治療為主"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "WHO 依據星狀細胞瘤 (astrocytoma) 的病理與惡性度分成 I~IV 四級：\n\n| WHO grade | 星狀細胞瘤 | 惡性度 | medial survival |\n| :--- | :--- | :--- | :--- |\n| **I** | pilocytic astrocytoma | 低（良性為主） | ≥ 8~10 年 |\n| **II** | astrocytoma | 低 | 5~8 年 |\n| **III** | anaplastic astrocytoma | 高 | 2~3 年 |\n| **IV** | glioblastoma multiforme (GBM) | 高 | ≤ 1~2 年 |\n\n由於能夠改善腫瘤的 mass effect 並提供病理診斷，因此無論是哪種星狀細胞瘤，手術切除都是治療首選；另外高惡性度的腫瘤可在術後加上放射線治療 (EBRT) 和化學治療（如 temozolomide）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-8_merged.png",
     "explanation_images": null
   },
   {
@@ -13946,8 +13946,8 @@
       "D": "病人的高血壓、冠狀動脈心臟病病史與這次的出血有相關性"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "從電腦斷層判斷，小腦有一片 hyperdense 區域，為小腦出血，懷疑出血性中風\n(A) 單側大腦半球的病灶才會由半側肢體無力的表現，小腦出血除可能有顱內壓升高的症狀外（頭痛、嘔吐），會有小腦功能失調的表現，如暈眩 (Vertigo)、共濟失調 (Ataxia)、眼震 (Nystagmus)、意向性顫抖 (Intentional tremor)、構音困難 (Slurred speech/dysarthria)、肌張力低下 (Hypotonia)，可以字首 ‘VANISH’ 記憶\n(B) 急性出血性中風的血壓，應控制在 SBP/DBP < 140/90，較缺血性中風的標準嚴格且積極，避免再出血，為維持腦部灌流 (CPP)，在合理的血壓下，應首要降低顱內壓 (ICP)，特別是當病人已出現顱內壓升高的症狀（嘔吐、昏迷、Cushing triad）\n(C) 頭部外傷是鑑別診斷之一，但電腦斷層顯示顱骨結構完整、左右對稱，外傷可能性較低\n(D) 出血性中風危險因子包括高血壓、高血脂、糖尿病、肥胖、抽菸、飲食習慣、其他心血管疾病等",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-9_merged.png",
     "explanation_images": null
   },
   {
@@ -13963,8 +13963,8 @@
       "D": "此為常見自發性出血區域之一"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，這個病人出現顱內壓升高的原因之一可能是因為血塊阻塞 CSF 的回流，先複習一下正常 CSF 回流：側腦室脈絡叢製造 → 透過 Monro 孔到第三腦室 → 大腦導水管 → 第四腦室 → 透過 Magendie 孔、Luschka 孔到蜘蛛網膜下腔 → 靜脈系統吸收，小腦出血的血塊位置非常靠近第四腦室區域，甚至從這個病人的側面圖看，已經沿著大腦導水管上去了，當血液凝固，就可能堵塞 CSF 的去路，而阻塞性水腦症的標準治療就是腦室引流，讓 CSF 有另一個出口\n(B) 錯誤，如 (A)(C) 選項的解釋，這時候光做保守治療已經不夠，而且 2022 ASA guideline 有提到創傷 / 腦出血導致的腦壓升高給予類固醇沒有幫助，因此不建議使用；但如果是腦腫瘤導致的 vasogenic edema 就可以使用類固醇緩解\n(C) 正確，小腦出血過量還有一個可怕的併發症，就是壓迫到小腦前下方的腦幹導致猝死，概念跟小腦疝氣類似\n(D) 正確，出血性中風的五大好發區域依序為：基底核（占約 50%，其中又以 putamen 最多）、丘腦、皮質下、小腦、橋腦\n\n請搭配【112-2(五)9】，了解考出血性中風的處置",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-10_merged.png",
     "explanation_images": null
   },
   {
