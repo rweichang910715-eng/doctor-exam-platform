@@ -12222,9 +12222,11 @@
       "D": "在臺灣，在家庭暴力發生的當下，受害者可以儘快撥打「110」報警，由警察介入制止暴力，蒐集犯罪證據，並協助護送被害人就醫"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "美國預防醫學工作小組 (USPSTF) 在預防醫學各項議題上提供實證建議並給予等級：\n• **A 等級**：強烈建議（效益極大）\n• **B 等級**：建議提供（效益中等或可能很大）\n• **C 等級**：依個別狀況建議\n• **D 等級**：不建議使用（無效益或傷害大於效益）\n• **I 等級**：證據不足以評估利弊 (Insufficient evidence)\n\n題目選項解析：\n• (A) 正確：USPSTF 針對**育齡婦女之親密關係暴力 (Intimate Partner Violence, IPV)** 篩檢給予 **B 等級**建議（具適當篩檢工具且及早轉介介入可有效降低身心傷害）\n• (B) 錯誤：針對**老年人或脆弱成人 (vulnerable adults) 的虐待與疏忽 (elder abuse & neglect)**，目前臨床尚無足夠實證之標準篩檢工具，USPSTF 目前給予 **I 等級**（證據不足），故 (B) 錯誤（選 B）\n• (C)(D) 正確：臺灣家庭暴力防治體系中，**113 保護專線**提供諮詢與通報協助；緊急危難當下應撥打 **110 報警**由警方介入制止暴力並協助就醫",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-71_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-71_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-72",
@@ -12239,9 +12241,11 @@
       "D": "甲狀腺機能亢進"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "**腕隧道症候群 (Carpal Tunnel Syndrome, CTS)** 為正中神經 (Median nerve) 於腕部腕隧道受壓迫所致，其危險因子包含：\n\n| 危險因子種類 | 具體因子與機轉 |\n| :--- | :--- |\n| **內在系統性疾病** | • **糖尿病 (Diabetes mellitus)**（引起周邊神經病變與組織水腫，大幅增加 CTS 風險約 70%，選 C 正確）<br>• **甲狀腺功能低下 (Hypothyroidism)**（黏液水腫沉積導致腕隧道狹窄，非甲亢）<br>• **類風濕性關節炎 (RA) / 退化性關節炎**（滑膜增厚發炎壓迫）<br>• **肥胖 (Obesity)、懷孕 (Pregnancy)**（體液滯留水腫）<br>• **女性 (Female)**（解剖構造上腕隧道截面積較男性小）<br>• **芳香酶抑制劑 (Aromatase inhibitors)** 使用（使肌腱韌帶增厚） |\n| **職業與力學因素** | • **手腕過度屈曲/伸展與高頻率重複性動作**<br>• **手部抓握用力過度與局部震動工具暴露**<br>• （反覆性手舉過肩常見為肩夾擠症候群；手肘施力常見為內/外上髁炎） |\n\n**CTS 常用理學檢查**：\n• **Phalen's test**：雙手手背互貼、手腕極度屈曲 90 度維持 60 秒，若正中神經支配區域出現麻刺感即為陽性\n• **Tinel's sign**：輕敲腕部正中神經處誘發麻電感\n• **Durkan's test (Carpal compression test)**：直接以拇指壓迫腕隧道 30-60 秒誘發麻木感（敏感度與特異度最高）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-72_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-72_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-73",
@@ -12256,9 +12260,9 @@
       "D": "高鈣血症"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "臨床情境分析：\n• **55 歲女性、卵巢癌化學治療後病史**\n• 主訴近來**噁心、嘔吐、食慾不振**\n• 理學檢查發現**腹部明顯鼓脹 (abdominal distension)、大量腹水伴隨巨大 10 × 30 cm 腹盆腔腫塊**\n\n**診斷要點**：\n晚期卵巢癌極易發生廣泛性腹膜種植轉移 (peritoneal carcinomatosis) 與大量腹水，巨大腫塊合併腹膜轉移常直接外在壓迫腸道或侵犯腸壁神經叢，導致**惡性腸阻塞 (Malignant Bowel Obstruction, MBO)**（選 A 最可能）\n\n臨床鑑別與處置原則：\n• 惡性腸阻塞是晚期婦科與消化道癌症最常見的急症併發症之一，典型表現為陣發性腹痛、嘔吐、腹脹及排氣排便停止\n• (B) 腦壓增加多伴隨噴射狀嘔吐、頭痛與局灶神經學缺損，本題無相關病徵\n• (D) 癌症雖可能引起高鈣血症，但腹部巨大腫塊與嚴重腹脹直接指向機械性/功能性腸阻塞",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "112-1-醫學(三)-74",
@@ -12273,9 +12277,11 @@
       "D": "吞嚥會引發食道蠕動波，推動食糜往下排空"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "食道於胸腔解剖上有三個正常的生理性狹窄與周邊大血管氣管的解剖壓迹 (indentations)：\n\n1. **頸部食道入口處 (Pharyngoesophageal junction, C6 水平)**：由環咽肌 (Cricopharyngeus) 形成，為食道最狹窄處\n2. **主動脈弓與左主支氣管壓迫處 (Aortic arch & Left main bronchus, T4-T5 水平)**：\n   • **主動脈弓 (Aortic arch) 位於食道左側，因此會在食道「左側」形成壓迹（選 A 敘述為右側，錯誤）**\n   • **左主支氣管 (Left main bronchus)** 橫跨食道前方，在食道**前外側/左側**形成壓迹（B 正確）\n3. **橫膈食道裂孔處 (Diaphragmatic hiatus / GE junction, T10-T11 水平)**：食道穿過橫膈進入腹腔與胃賁門相接處（C 正確）\n\n**常見食道疾病鋇劑攝影 (Barium esophagogram) 典型徵象**：\n\n| 食道疾病 | 典型鋇劑攝影影像特徵 (Classic signs) |\n| :--- | :--- |\n| **食道弛緩不能 (Achalasia)** | 遠端食道末端平滑鳥嘴狀狹窄 (**Bird-beak sign**)、近端食道明顯擴張 |\n| **瀰漫性食道痙攣 (Diffuse esophageal spasm, DES)** | 多發性非推進型環狀收縮，呈開瓶器樣 (**Corkscrew esophagus**) |\n| **硬皮症 (Systemic Sclerosis / Scleroderma)** | 食道下 2/3 平滑肌萎縮無力、管腔擴張鬆弛伴隨胃食道逆流 |\n| **食道癌 (Esophageal cancer)** | 不規則管腔狹窄、黏膜破壞中斷伴隨潰瘍或充盈缺損 (Apple-core / filling defect) |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-74_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-74_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-75",
@@ -12290,9 +12296,11 @@
       "D": "胸部電腦斷層檢查無法診斷支氣管擴張"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(B) 正確：慢性阻塞性肺病 (COPD) 與肺氣腫 (Emphysema) 由於肺泡彈性回縮力下降與小氣道阻塞，導致嚴重空氣滯陷 (Air trapping) 與總肺容量 (TLC) / 殘氣量 (RV) 增加；胸部 X 光呈現**肺部過度膨脹 (Hyperinflation)、橫膈變平低下 (Flattened hemidiaphragms)、胸骨後氣腔增大**，以及肺周邊血管紋路稀疏 (Oligemia / vascular attenuation)\n(C) 正確：COPD 或慢性支氣管炎常合併次發性支氣管擴張 (Bronchiectasis)，在胸部 X 光可見厚壁管狀影（軌道徵 **Tram-track sign**）或環狀陰影 (Ring shadows)\n(D) 錯誤：**高解析度胸部電腦斷層 (HRCT) 是診斷支氣管擴張症的黃金標準 (Gold standard)！**HRCT 可清晰辨識支氣管內徑擴大（印戒徵 **Signet ring sign**，支氣管內徑大於伴行動脈內徑）、支氣管壁增厚、缺乏周邊正常錐度 (Lack of tapering) 以及囊狀支氣管擴張如成串葡萄徵 (Bunch of grapes sign)，故 (D) 敘述錯誤（選 D）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-75_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-75_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-76",
@@ -12307,9 +12315,11 @@
       "D": "老人比較不會有精神藥物的副作用"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "高齡長者出現急性躁動 (Agitation) 時，處理原則應審慎評估：\n\n• **原則一：優先找出並治療潛在病因 (Treat underlying cause)**（如譫妄 Delirium、感染敗血症、低血氧、電解質紊亂、便秘、尿滯留、疼痛或藥物戒斷/毒性）\n• **原則二：非藥物治療為第一線**（提供安靜舒適環境、熟悉家屬陪伴、適度照明、定向感提示、音樂與物理治療）\n• **原則三：藥物治療原則 Start low, go slow**（老年人因肝腎代謝與中樞神經敏感性改變，**極容易產生嚴重精神藥物副作用**如過度鎮靜、呼吸抑制、直立性低血壓、錐體外症候群 EPS 與跌倒骨折風險，故選 D 錯誤）\n\n因此 (D)「老人比較不會有精神藥物的副作用」為完全錯誤之觀念（選 D）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-76_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-76_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-77",
@@ -12324,9 +12334,11 @@
       "D": "低血鉀症病人的尿液鈣磷比（calcium/phosphate ratio），若小於1.6，可以作為甲狀腺亢進週期性癱瘓（thyrotoxic periodic paralysis）的診斷佐證"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確：低血鉀 (Hypokalemia) 導致心肌細胞復極化時間延長，心電圖典型呈現 **T 波扁平/倒立、ST 段下移、明顯 U 波出現**，並導致測量上的 **QTc / QU 延長**\n(B) 正確：嚴重低血鉀在 QTc 延長之基礎上，極易引發後去極化 (EAD) 觸發 R-on-T 現象，誘發心房顫動、室性心搏過速與致命性多型性心室心律不整（**Torsades de pointes, TdP**）\n(C) 正確：低血鉀時評估鉀離子流失途徑，腎臟流失 (Renal loss) 典型 TTKG > 3-4；原發性醛固酮增多症 (Hyperaldosteronism) 促使皮質集尿管大量排鉀，TTKG 通常 > 5-7（若小於 5 則代表非腎臟流失）\n(D) 錯誤：甲狀腺毒性週期性麻痺 (Thyrotoxic Periodic Paralysis, TPP) 為細胞內外鉀離子急性轉移所致，尿中並無過量鈣質排出；三軍總醫院 Lin SH 等學者研究指出，**TPP 病人尿液鈣磷比 (Spot urine Ca/P ratio) > 1.7 mg/mg（或 > 1.4 mmol/mmol）**可高度敏感且特異地與其他低血鉀週期性麻痺（如家族性 FPP，尿鈣磷比 < 1.7）進行鑑別，故 (D) 敘述小於 1.6 為錯誤（選 D）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-77_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-77_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-78",
@@ -12341,9 +12353,11 @@
       "D": "地震復原期災區常規醫療需求不易，環境衛生及傳染病為最大隱憂"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "天然災害之傷亡流行病學特徵：\n\n• **颱風 / 颶風 (Typhoon / Hurricane)**：\n  - **復原期 (Recovery period) 造成的民眾傷亡與健康危害往往比急性侵襲期更嚴重且為數更多（選 A 錯誤）**！復原期因土石流、洪水消退後的清理作業外傷、倒塌建築修復觸電、受污染水源導致水媒傳染病（如桿菌性痢疾、鉤端螺旋體病）、積水孳生病媒蚊引發登革熱，以及慢性病用藥中斷等，致死與致病率顯著上升\n  - 急性期外傷性死亡則多肇因於強風吹落物重擊、淹水溺水及交通事故（B 正確）\n• **地震 (Earthquake)**：\n  - 傷亡高峰極度集中於**急性期（震後數分鐘至 3 小時內）**，多數死亡導因於建築物倒塌壓砸傷 (Crush injury) 與窒息（C 正確）\n  - 復原期災區醫療系統中斷，環境衛生與傳染病防治為首要挑戰（D 正確）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-78_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-78_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-79",
@@ -12358,9 +12372,11 @@
       "D": "病人雖然是末期癌症但病況難以預料，還是用模糊的說法帶過較好"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題測驗《病人自主權利法》與醫療倫理中**病人自主原則 (Autonomy) 與病情告知**之法律與倫理界線：\n\n• **病人本位自主權**：病人是自己身體的主人，享有知情、選擇與決定的絕對權利；《病人自主權利法》第 4 條明定：「病人對於病情、醫療選項及各款處置之效益、風險及預後，有知情、選擇及決定之權利」\n• **家屬反對之處理**：依《醫療法》與《病人自主權利法》規定，病人之知情權優先於親屬之期待；除非病人本人明示不欲知情或已指定特定代理人受告知，否則醫師在同理並評估病人心理準備後，仍應以適當溫和方式向病人本人據實告知病情，親屬不得妨礙（選 C 最適當）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-79_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-79_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-80",
@@ -12375,9 +12391,11 @@
       "D": "里斯本宣言（the Declaration of Lisbon, 1981年）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "醫學研究倫理準則 vs 病人權利宣言之演進與範疇：\n\n| 倫理宣言 / 報告名稱 | 發布年份與背景 | 主要規範範疇與核心焦點 |\n| :--- | :--- | :--- |\n| **紐倫堡守則 (Nuremberg Code)** | 1947 年（二戰納粹人體試驗審判後） | **人體試驗研究倫理**之基石，首次確立受試者**完全自願之知情同意 (Informed consent)** |\n| **赫爾辛基宣言 (Declaration of Helsinki)** | 1964 年（世界醫學會 WMA） | 全球醫學研究人員遵循之**人體醫學研究倫理指引**，規範 IRB 倫理審查與受試者安全利益高於科學效益 |\n| **貝爾蒙報告書 (Belmont Report)** | 1979 年（美國國家委員會） | 提出生物醫學與行為研究的三大核心倫理原則：**尊重人格 (Respect for persons)、善行 (Beneficence)、正義 (Justice)** |\n| **里斯本宣言 (Declaration of Lisbon)** | 1981 年（世界醫學會 WMA） | **專門規範「病人權利 (Patient Rights)」之宣言（選 D）**，涵蓋病人自主決定權、獲得優質醫療權、獲知病情權、醫療隱私權與尊嚴死亡等，**非研究倫理準則** |\n\n**其他重要醫學宣言補充**：\n• **《日內瓦宣言》**：現代版醫師誓詞（授袍時宣讀）\n• **《雪梨宣言》**：腦死判定與器官移植倫理\n• **《馬德里宣言》**：精神科醫師執業專業自主與精神病患人權保障",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-80_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-80_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-1",
