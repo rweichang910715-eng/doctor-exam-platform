@@ -11462,9 +11462,11 @@
       "D": "autonomic nerve imbalance"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "美國風濕病學會 (ACR) 於 2001 年列舉 19 項 SLE 可產生的神經及精神症狀，選項中四個皆是，考何者最為常見？筆者是撇開 SLE 的框架去猜，想 (A) 盛行率本就高且也是許多疾病的常見共病：\n• (A) **認知障礙 (cognitive dysfunction)**：常見，盛行於 38%-80% 的 SLE 病人\n• (B) **transverse myelopathy 或 transverse myelitis（橫貫性脊髓炎）**：與 optic neuritis（視神經）、neuromyelitis optica（NMO，視神經脊髓炎）皆屬於 'myelopathy' 的範圍，罕見\n• (C) **腦血管疾病**：在 SLE 非常常見，盛行率估計 19%，不論是缺血性中風、出血性中風（以 ICH 為代表）、腦靜脈竇栓塞的風險都較一般人高，栓塞問題與部分 SLE 患者被驗出有抗磷脂質抗體相關，出血性中風則與患者高血壓、因抗磷脂質症候群而服用抗凝血劑有關\n• (D) **自主神經失調**：常見，但受限於定義問題，尚無可信確知的盛行率估計\n\n其他：癲癇發作亦是 SLE 常見的症狀，盛行率達 20%，由於認知障礙等慢性症狀不易納入觀察，常有說法認為癲癇發作才是 SLE 最常見的神經症狀；精神病 / 思覺失調 (psychosis) 是很典型的 SLE 精神症狀，但其實不常見 (5%)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-31_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-31_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-32",
@@ -11479,9 +11481,11 @@
       "D": "vasculitis associated with collagen vascular diseases"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "血管炎可以先以大、中、小血管去做分類，而小血管炎又可以分成與 ANCA 有關或是無關的：\n\n| 影響血管大小 | 血管炎種類 | 細項分類 |\n| :--- | :--- | :--- |\n| **大血管** | • Temporal arteritis (巨細胞動脈炎)<br>• Takayasu arteritis (高安氏動脈炎) | - |\n| **中血管** | • Kawasaki disease (川崎氏病)<br>• Polyarteritis nodosa (結節性多動脈炎, PAN) | - |\n| **小血管** | **ANCA-associated** | • **c-ANCA (PR3-ANCA)**: Wegener's granulomatosis (GPA)<br>• **p-ANCA (MPO-ANCA)**: Churg-Strauss (EGPA)、Microscopic polyangiitis (MPA) |\n| **小血管** | **非 ANCA 相關 (Immune complex 沉澱)** | • Henoch-Schönlein Purpura (HSP / IgA 血管炎)<br>• Behçet's disease<br>• Serum sickness |\n| **小血管** | **其他** | • Paraneoplastic vasculitis<br>• Vasculitis associated with collagen vascular disease (SLE, RA 等) |\n\n(A) **Serum sickness**：發生在將非人類的 protein 輸到人類體內而產生 type 3 hypersensitivity，例如施打疫苗、或是給予血清等，是一種 immune complex 沉澱造成的自體免疫疾病，症狀上會出現疹子、發燒、多關節炎等\n(B) **Kawasaki disease**：目前病理機轉不明確，但被認為是一個因為感染誘發的中型血管炎，主要發生在 5 歲左右的孩童，症狀上可以用 12345 來記憶：1 個嘴巴草莓舌、2 隻眼睛非化膿性結膜炎、3 指摸頸部淋巴腫 (>1.5 cm)、4 肢末端發紅、5 體 (全身) 紅疹以及超過 5 天的發燒\n(C) **Granulomatosis with polyangiitis (GPA)**：又可被稱作 Wegener's granulomatosis，目前被認為是 ANCA 造成的自體免疫疾病，其中以 **c-ANCA** 居多，但少數可以測得 p-ANCA，症狀上最主要影響呼吸道、肺、腎臟，但是全身都有可能受到侵犯，常見的有鼻竇炎、鼻中膈穿孔、肺結節、血尿等\n(D) 這個名詞看起來很陌生，但其實就包含了 SLE、RA 等常見自體免疫疾病，它們和 ANCA 較沒有關係",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-32_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-32_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-33",
@@ -11496,9 +11500,11 @@
       "D": "interleukin-6（IL-6）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "複習免疫學：**IL-5 是嗜酸性球的趨化/活化因子**，主要參與第二型免疫反應（過敏、氣喘、寄生蟲感染），與敗血症的急性全身發炎反應關係較不密切；其餘三者 (IL-1, TNF-α, IL-6) 則為核心促發炎因子\n\n**常用細胞激素 (Cytokines) 功能整理**：\n\n| 功能分類 | 細胞激素 |\n| :--- | :--- |\n| **促發炎因子 (pro-inflammatory)** | **TNF-α、IL-1、IL-6、IL-8** |\n| **發燒 (pyrogen)** | **IL-1、TNF-α、IL-6** |\n| **趨化因子 (chemotaxis)** | • **IL-5** (eosinophil 嗜酸性球)<br>• **IL-8** (neutrophil 嗜中性球) |\n| **抑制因子 (inhibitory / 抗發炎)** | **TGF-β (Th3)、IL-10 (Treg/Th3)、IL-19 (monocyte)、IL-20 (keratinocyte)** |\n| **抗體 Class switching** | • **IgE**: IL-4, IL-13<br>• **IgA**: IL-5, TGF-β |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-33_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-33_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-34",
@@ -11513,9 +11519,11 @@
       "D": "neonatal-onset multisystem inflammatory disease"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這題真的難！自體發炎疾病 (autoinflammatory diseases) 多為遺傳性且臨床上相當少見，遇到這種題目不太好準備，不過仔細回想學過的自體免疫疾病搭配刪去法，把知道會產生 c-ANCA 的肉芽腫併多發性血管炎 (granulomatosis with polyangiitis, GPA，以前叫 Wegener's granulomatosis) 抓出來就對了！\n\n下面簡單整理兩種疾病的差異，懶得花時間記病名的話，把沒見過而且名字裡有 inflammatory 的先猜自體發炎疾病幾乎都行得通：\n\n| 比較項目 | 自體免疫疾病 (autoimmune diseases) | 自體發炎疾病 (autoinflammatory diseases) |\n| :--- | :--- | :--- |\n| **免疫失調** | **後天性免疫 (adaptive immunity)** | **先天性免疫 (innate immunity)** |\n| **主要病生理** | T 細胞、B 細胞活化，產生**自體抗體**攻擊自身組織 | 基因異常使顆粒球、樹突細胞和纖維母細胞過度表現造成發炎（如 inflammasome/IL-1 通路異常） |\n| **單基因遺傳疾病** | • ALPS (Autoimmune lymphoproliferative syndrome)<br>• IPEX (Immunodysregulation polyendocrinopathy enteropathy X-linked) | • **FMF** (Familial Mediterranean fever)<br>• **FCAS** (Familial cold autoinflammatory syndrome)<br>• **TRAPS** (TNF receptor-associated periodic syndrome)<br>• **NOMID** (Neonatal-onset multisystem inflammatory disease)<br>• **HIDS** (Hyper-IgD syndrome)<br>• **Blau syndrome** |\n| **多基因遺傳疾病** | • RA<br>• SLE<br>• Sjögren's syndrome<br>• **ANCA-associated vasculitis (GPA)**<br>• Scleroderma<br>• Dermatomyositis / IIM<br>• MG、Hashimoto thyroiditis | • Inflammatory Bowel Disease (UC & CD)<br>• Crystal-associated arthropathy (Gout, CPPD)<br>• Sarcoidosis<br>• Adult-onset Still's Disease (AOSD)<br>• Non-antibody-associated vasculitis (大血管) |\n| **混和型** | • Seronegative spondyloarthropathy (AS, ReA, PsA)<br>• Behçet's syndrome | - |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-34_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-34_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-35",
@@ -11530,9 +11538,11 @@
       "D": "dermatomyositis有可能與癌症相關"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "發炎性肌肉病變 (Idiopathic Inflammatory Myopathies, IIM) 共有 4 種：dermatomyositis（皮肌炎 / DM）、polymyositis（多發性肌炎 / PM）、immune-mediated necrotizing myopathy（免疫引起肌肉壞死之肌肉病變 / IMNM）、inclusion body myositis（包涵體肌炎 / IBM）；以下表格改自 2015 年一篇 NEJM review：\n\n| 比較項目 | 皮肌炎 (DM) | 多發性肌炎 (PM) | 壞死性肌病變 (IMNM) | 包涵體肌炎 (IBM) |\n| :--- | :--- | :--- | :--- | :--- |\n| **家族遺傳** | 無 | 無 | 有關 | 有關 |\n| **性別** | 女 > 男 | 女 > 男 | 女 > 男 | **男 > 女** |\n| **發病年齡** | 兒童與成人 | 成人 (40-50 歲) | 成人、老人 | **老人 (> 50 歲)** |\n| **onset** | subacute | subacute | acute/subacute | **slow (慢性進展)** |\n| **無力的表現** | **對稱、近端 > 遠端**；伴隨典型皮疹 | **對稱、近端 > 遠端** | 不對稱、近端 > 遠端 | **不對稱、以股四頭肌、手指屈肌無力為多（近、遠端皆有）** |\n| **CK 升高幅度** | 高 (10-50 倍) | 高 (10-50 倍) | **極高 (> 50 倍)** | 微高 (< 10 倍) |\n| **自體免疫抗體** | anti-MDA5, anti-Mi2, anti-TIF1, anti-NXP2 | antisynthetase antibodies (**anti-Jo-1** 為代表) | **anti-SRP 和 anti-HMGCR** (專一性 for IMNM) | anti-cN1A |\n| **肌肉切片** | **Perivascular / perimysial / perifascicular (CD4+ 浸潤 + perifascicular atrophy)** | **Endomysial (CD8+ 浸潤)** | **Necrotic fibers + 補體沉積在微血管** | **Endomysial (CD8+ 浸潤 + autophagic vacuoles)** |\n| **常合併病症** | 心肌炎、間質性肺炎、結締組織疾病、血管炎、**癌症 (惡性腫瘤)** | Antisynthetase syndrome（肌炎 + 關節炎 + 雷諾氏現象 + mechanic's hand + 間質性肺炎） | **癌症**、結締組織疾病、**statin 藥物** | 結締組織疾病 |\n\n\\* 自體免疫抗體方面：間質性肺炎與 anti-MDA5、antisynthetase antibodies (anti-Jo-1 為代表) 有關；**癌症與 anti-TIF1-γ、anti-NXP2 有關**，故 (D) 正確",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-35_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-35_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-36",
@@ -11547,9 +11557,11 @@
       "D": "子宮頸癌侵犯到膀胱區域"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "即便不知道 5 年預後有多差，但是透過不同選項的癌症期別還是能解題，如果知道侵犯到膀胱是所有選項裡面最晚期的就過關囉！子宮頸癌算是愛考期別的癌症之一，建議熟記下表：\n\n| FIGO 期別 | 侵犯範圍定義 |\n| :--- | :--- |\n| **Stage I** | **侷限於子宮頸**（選項 A）<br>• IA: 顯微鏡下侵犯（IA1: 深度 < 3 mm；IA2: 深度 3-5 mm）<br>• IB: 侵犯深度 ≥ 5 mm（IB1: 大小 < 2 cm；IB2: 大小 2-4 cm；IB3: 大小 ≥ 4 cm） |\n| **Stage II** | **侵犯超出子宮頸，但未達骨盆壁或陰道下 1/3**<br>• IIA: 侵犯**陰道上 2/3**（IIA1: 大小 < 4 cm；IIA2: 大小 ≥ 4 cm）<br>• IIB: 侵犯**子宮旁組織 (parametrium)** |\n| **Stage III** | **侵犯骨盆壁、陰道下 1/3 或引起腎水腫 / 淋巴結轉移**<br>• IIIA: 侵犯**陰道下 1/3**（選項 B）<br>• IIIB: 侵犯**骨盆壁 (pelvic wall) 或導致腎水腫 / 無功能腎**（選項 C）<br>• IIIC: 骨盆腔淋巴結 (IIIC1) 或主動脈旁淋巴結 (IIIC2) 轉移 |\n| **Stage IV** | **侵犯骨盆外或膀胱/直腸黏膜**<br>• **IVA**: 侵犯**膀胱黏膜（選項 D）或直腸黏膜**<br>• **IVB**: **遠端器官轉移 (distant metastasis)** |\n\n簡單記：A 是垂直方向，B 是水平方向，C 是淋巴結；IA 看深度、IB/IIA 看大小\n\n**補充子宮頸癌各 stage 的 5 年 survival rate**：\n\n| FIGO Stage | 5-year survival rate |\n| :--- | :--- |\n| **Stage I** | 85.6% |\n| **Stage II** | 56.1% |\n| **Stage III** | 39.3% |\n| **Stage IVA** | 24.0% |\n| **Stage IVB** | 14.7% |\n\n因此侵犯到膀胱 (Stage IVA) 之 5 年預後最差",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-36_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-36_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-37",
@@ -11564,9 +11576,11 @@
       "D": "enterococcus bacteremia"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "靠直覺選答案，(D) 菌血症是感染，和癌症發生沒有直接關係（註：如果是 *Streptococcus gallolyticus* / *S. bovis* 菌血症則高度與大腸癌相關，但 enterococcus 腸球菌菌血症不是）\n\n(A) 高油低纖飲食會增加大腸癌風險，食物包含動物性油脂、高飽和植物油、紅肉及加工肉類\n(B) 長期的腸道發炎會增加癌化的機會，過去研究 IBD 的病人在疾病發生的 30 年後，大腸癌發生率約為 7%，有大腸侵犯的 IBD 患者風險更高\n(C) 高風險導致大腸癌的遺傳性疾病包括 Familial Adenomatous Polyposis (FAP) 和 Lynch's syndrome，後者因為 DNA 配錯修復系統 (MMR) 的基因突變，非常容易發生大腸癌及子宮內膜癌，且其大腸癌發生年紀早、多侵犯右側，且非以息肉 (polyp) 形式存在",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-37_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-37_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-38",
@@ -11581,9 +11595,11 @@
       "D": "acute hepatitis"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "從題目的關鍵字：服藥史、血尿、貧血 (Hgb: 10.8 g/dL)、Unconjugated hyperbilirubinemia、LDH 升高、Coombs test(-) 可以初步判斷為溶血性貧血，且能排除 Autoimmune hemolytic anemia (AIHA)；雖然有血尿，然而題目未提到水腫、少尿、蛋白尿等症狀，加上尿液檢查的血球數很低且未提到 RBC casts，因此排除 acute glomerulonephritis；肝臟酵素只有 AST 高於正常範圍也不符合 acute hepatitis 的表現；最後血液抹片可見 spherocytes、還有 **bite cells（像被咬一口的 RBC）**、**Heinz bodies（變性血紅素在 RBC 邊緣堆積成的深色小點）**等特徵，結合病人有服藥後發生溶血這項明確的病史，最可能的診斷應為 G6PD deficiency\n\nG6PD deficiency 俗稱蠶豆症，為一種性聯隱性遺傳的先天性疾病（好發男性），起因為 glucose-6-phosphate dehydrogenase 缺陷使之無法生成還原性物質 NADPH，使紅血球被活性氧類破壞，當有感染或接觸特定物質時容易增加體內的活性氧類，導致溶血性貧血、血尿、黃疸等症狀，臨床上根據病人的 G6PD 缺乏程度與酵素活性分成五型（台灣大多為第二型），治療方面只要避免接觸特定藥物或製品就能有效預防發病，若有嚴重溶血、腎衰竭則考慮輸血或洗腎\n\n**具有 G6PD deficiency 溶血風險的常見藥物與製品整理**：\n\n| 類別 | 常見藥物 / 物質 |\n| :--- | :--- |\n| **磺胺類藥物（含降血糖藥）** | Dapsone、Sulfamethoxazole、Sulfasalazine、Acetazolamide、Glibenclamide、Glyburide、Glimepiride |\n| **抗生素、抗瘧疾藥物** | Nitrofurantoin、Nalidixic acid、Ciprofloxacin、Chloramphenicol、**Primaquine**、Hydroxychloroquine |\n| **止痛退燒藥物** | Phenazopyridine、高劑量 Aspirin |\n| **降尿酸藥物、化療藥物** | **Rasburicase**、Probenecid、Doxorubicin |\n| **其他藥物、食品** | **蠶豆 (Fava beans)**、薄荷製品（綠油精、口香糖、漱口水等）、**樟腦丸 (Naphthalene)**、部分中草藥 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-38_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-38_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-39",
@@ -11598,9 +11614,11 @@
       "D": "骨癌併多處轉移"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題有很多線索：\n1. **骨髓抹片**：發現許多細胞核呈車輪狀 (clock-face / cartwheel) 的**漿細胞 (plasma cells)**，正常骨髓中的漿細胞 2-3%，此處卻到處都是，形狀怪異而且較大，甚至可見多個細胞核的漿細胞，顯示生長速度快，為 plasma cell dyscrasias\n2. **X 光**：在頭部和手臂有許多 **lytic lesions**，尤其如此在頭部多顆、邊界明顯、亮而透明的病灶為多發性骨髓瘤典型的 **punched-out lesion**\n3. **血球計數**：顯示嚴重的 normocytic anemia、血小板稍低\n\n綜合上述發現，(C) 多發性骨髓瘤最為符合，(A)(C)(D) 皆不能解釋骨髓抹片和嚴重貧血的原因\n\n**補充：多發性骨髓瘤 CRAB 準則與癌症骨轉移型態**：\n• **C (hyperCalcemia)**：高血鈣\n• **R (Renal insufficiency)**：腎功能損傷\n• **A (Anemia)**：貧血\n• **B (Bone lesion)**：骨骼溶骨性病變\n\n| 原發癌症種類 | 骨轉移之主要型態 |\n| :--- | :--- |\n| **攝護腺癌 (Prostate CA)** | 大部分為 **sclerotic (osteoblastic, 成骨性)** |\n| **乳癌 (Breast CA)** | 大部分為 **lytic (溶骨性) 或 mixed** |\n| **肺癌 (Lung CA)** | 大部分為 **lytic (溶骨性)** |\n| **多發性骨髓瘤 (MM)、腎細胞癌 (RCC)、甲狀腺癌** | 幾乎都是 **lytic (溶骨性)** |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-39_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-39_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-40",
@@ -11615,9 +11633,11 @@
       "D": "日常生活需要他人相當多的協助及醫療照顧"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Karnofsky performance status (KPS) 跟 ECOG 都是臨床常用來判斷病人是否適合接受治療的體能評估標準，彼此走向剛好相反：**Karnofsky 越高越好，ECOG 越低越好**\n\n| KPS 分數 | ECOG 級別 | 狀態描述 |\n| :--- | :--- | :--- |\n| **100** | **0** | 健康無疾病 |\n| **90** | **1 (可活動)** | 有疾病症狀，但是活動正常 |\n| **80** | **1 (可活動)** | 有疾病症狀，活動稍微受限 |\n| **70** | **2 (照顧自己)** | **能照顧自己，但無法從事正常活動與工作**（題目所問，選 C） |\n| **60** | **2 (照顧自己)** | 開始需要照顧，尚能稍微照顧自己 |\n| **50** | **3 (需人照顧)** | 需要頻繁照護或醫療需求 |\n| **40** | **3 (需人照顧)** | 傷殘，需要特別照顧 |\n| **30** | **4 (臥床)** | 嚴重傷殘，但無死亡風險 |\n| **20** | **4 (臥床)** | 病情嚴重，但無死亡風險 |\n| **10** | **4 (臥床)** | 病危 |\n| **0** | **5** | 死亡 |\n\n因此可以大致推估選項的 Karnofsky 分數：(A) 90 分以上、(B) 20-30 分、(C) 70 分、(D) 40-50 分",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-40_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-40_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-41",
