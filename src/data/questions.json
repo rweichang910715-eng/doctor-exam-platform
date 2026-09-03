@@ -14320,8 +14320,8 @@
       "D": "40歲男性，B型肝炎患者，CTP score=5，單顆腫瘤2.0 cm位於segment II，無肝外轉移及大血管侵犯"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題非常重要，同學可以從 Barcelona Clinic Liver Cancer (BCLC) 肝癌臨床分期與治療、或是各 criteria 去檢視各選項肝臟移植的合理與否\n1. BCLC 分期有列於【112-1(五)4】詳解，其中肝臟移植適應症為 Stage A (early)、Child score A-B、Performance status 0，腫瘤≤ 3 顆、每顆皆≤ 3cm\n2. Criteria（臨床最廣泛應用的是 Milan criteria，但因稍過嚴苛，後續又有其他 criteria）\n所有 criteria 皆包含「無大血管或肝外侵犯」條件：\n• Milan criteria (1996)：單顆≤ 5 cm 或 2-3 顆每顆≤ 3 cm\n• UCSF criteria (2001)：單顆≤ 6.5 cm 或 2-3 顆每顆≤ 4.5 cm，所有腫瘤直徑總和≤ 8 cm\n• Up-to-7 criteria (new Milan criteria) (2011)：腫瘤數量 + 最大腫瘤直徑≤ 7 cm\n(D) 本選項以 criteria 而言看似都符合，但別忽略了單顆腫瘤的治療手段很多，以 BCLC 分期治療而言，單顆腫瘤≤ 2 公分，屬於 stage 0，建議採取消融術或切除",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-31_merged.png",
     "explanation_images": null
   },
   {
@@ -14337,8 +14337,8 @@
       "D": "多發性的大腸直腸癌肝臟轉移，既使接受手術治療預後也不好，只能以化學藥物治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，轉移性肝臟腫瘤以來自大腸直腸癌 (30-50%) 最多，常見程度由高到低為：大腸直腸癌 > 胰臟癌 / 乳癌 / 胃癌 / 腸胃道腫瘤 > 黑色素瘤 > 肺癌 > 攝護腺癌\n(B) 肝臟有兩套供血的系統，使其成為大腸直腸癌最容易轉移的部位，筆者引用 Nature 近年的回顧：約 30~50% 的大腸直腸癌病人會出現肝轉移，且約 50% 的大腸直腸癌病人新診斷時即合併肝轉移，選項有符合 50% 這個基數算是合理\n(C)(D) 大腸直腸癌肝轉移是少數以切除轉移腫瘤 (metastasectomy) 作為標準治療的轉移性癌症，由於治療技術進步，加上腫瘤較少造成嚴重肝硬化，因此手術預後較佳（五年存活率 20~50%），現行的治療主要為切除手術 + 術後化療；多發性肝轉移則可考慮栓塞治療 + 術後化療\n\n參考資料：DI Tsilimigras. (2021). Liver metastases. Nature reviews Disease primers, 7(1), 27.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-32_merged.png",
     "explanation_images": null
   },
   {
@@ -14354,8 +14354,8 @@
       "D": "糖尿病患者合併腎衰竭尿毒症先接受胰臟移植（pancreas before kidney transplant, PBK）之後再等待腎臟移植"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "胰臟移植是治療第一型糖尿病的根本方法，目前常見胰臟移植的方法有三種，見下表：\n\n| 移植方法 | 胰腎同時移植 (SPK) | 胰臟在腎臟移植後移植 (PAK) | 胰臟單獨移植 (PTA) |\n| :--- | :--- | :--- | :--- |\n| **比例（美／日）** | 70/83 % | 22/13 % | 8/4 % |\n| **優點** | 1. 單次手術，同時解決兩個器官問題<br>2. 胰腎可用類似的免疫抑制劑<br>3. 可及早監測移植胰臟是否有排斥* | 術後可繼續使用腎臟移植後服用的免疫抑制劑 | 病患本身無腎衰竭共病，手術風險較低 |\n| **缺點** | 1. 手術複雜又病患本身共病多，併發症風險增加<br>2. 較難同時取得兩種器官 | 1. 須接受兩次手術<br>2. 不易監測胰臟移植之排斥；長期預後不及 SPK | 不易監測胰臟移植之排斥；長期預後不及 SPK |\n| **預後（器官功能時間）** | 胰：10-15 年<br>腎：15-20 年 | 胰：5-7 年 | 胰：5-7 年 |\n\n* 器官排斥是胰臟移植最大的問題，而 SPK 的優點在於病人可靠監測血液肌酸酐懷疑「胰臟」是否產生急性排斥，並進一步由經皮腎臟切片確認；PAK、PTA 僅能靠血糖、amylase、C-peptide 值去懷疑是否有胰臟排斥，但這些數值升高通常都已是嚴重排斥了，這也是 SPK 被認為預後較佳的主要原因，雖然答案為 (A)，但現實狀況常常是 (D)：欲 SPK 的病人等不到腎臟，只能先接受胰臟移植，預後自然不如 SPK\n\n參考資料：\n1. RW Gruessner & AC Gruessner. (2013). The current state of pancreas transplantation. Nature Reviews Endocrinology, 9(9), 555-562.\n2. T Ito, et al. (2020). Impact of pancreas transplantation on thepatient survival—an analysis of the Japanese Pancreas Transplants Registry. Journal of Clinical Medicine, 9(7), 2134.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-33_merged.png",
     "explanation_images": null
   },
   {
@@ -14371,8 +14371,8 @@
       "D": "90%的insulinoma是sporadic，而10% 的insulinoma與multiple endocrine neoplasia type I（MEN I）syndrome相關"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Passaro's triangle 又稱為 Gastrinoma triangle，由 cystic duct 與 common bile 匯集處（上界）、duodenum 第 2、3 部分（下界）、胰臟的 neck、body（內界）所形成的解剖位置，大約 80-90% 的 gastrinoma 會在此處發現，而 insulinoma 則幾乎都在胰臟裡或是直接附著在胰臟上，只有 2% 的 insulinoma 會在其他地方如十二指腸壁上發現\n\n其他選項均正確，同學們可以搭配【112-1(五)39】、【112-2(五)30】、【112-2(五)34】的詳解一起複習！",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-34_merged.png",
     "explanation_images": null
   },
   {
@@ -14388,8 +14388,8 @@
       "D": "大部分外科醫師在考慮瘻管手術前先採保守治療2～3個月，因大部分可自發性閉合的瘻管在5個星期內會閉合，且先保守治療之後手術的成功率較高，併發症較少"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "小腸瘻管可分為連至體表的 external fistula（如腸皮瘻管）與連結小腸／其他臟器之間的 internal fistula（如小腸膀胱瘻管、小腸陰道瘻管等），評估與處置原則相仿，出題重點以腸皮瘻管為主，【112-2(五)32】也考，請參閱該詳解的整理，本題僅就錯誤選項做說明\n(A) 前句正確，約 80% 腸皮瘻管是腹部手術後的併發症；後句敘述有瑕疵，通常在術後 2 個星期「以內」發生\n(B) 除了「瘻管管道過長」，其餘皆正確，長度 <2 cm 的瘻管反而不利於自行癒合，因為過短瘻管的滲出液較容易流出，使瘻管難以沾黏癒合\n(C) octreotide 可以降低腸胃道黏膜分泌物、增加腸道水分吸收來增加閉合機率，但對於滲出量過高的小腸瘻管效果較差",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-35_merged.png",
     "explanation_images": null
   },
   {
@@ -14405,8 +14405,8 @@
       "D": "膽管癌儘管手術進步也變得積極，但預後仍不佳"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "其他選項不確定也沒關係，但務必記得膽道癌症目前治療的預後都不好\n\n| | 膽囊癌 (gallbladder carcinoma) | 膽管癌 (cholangiocarcinoma) |\n| :--- | :--- | :--- |\n| **年齡** | 70~75 歲 | ~60 歲 |\n| **性別** | 女性為主 | 男性為主 |\n| **風險因子** | 膽囊結石 (90%)、Porcelain GB、膽囊息肉、沙門氏菌感染 | 原發性硬化性膽管炎、肝吸蟲、肝硬化、膽管結石 |\n| **腫瘤類型** | Fundus (60%) > Body (30%) > Neck (10%) | 近端膽管癌 *(50-60%) > 遠端膽管癌 (20-30%) > 肝內膽管癌 (10-20%) |\n| **可切除治療** | • T1（未穿透肌肉）：單純膽囊切除<br>• T2~T4：en-bloc 切除 + 局部淋巴廓清 → 術後放化療 | • 肝內膽管癌：肝葉切除（R1/N1 以上須做術後放化療）<br>• 近端膽管癌：膽管肝葉切除（R1/N1 以上須做術後放化療）<br>• 遠端膽管癌：Whipple（R1/N1 以上須做術後放化療） |\n| **不可切除治療** | 化療 (Gemcitabine+Cisplatin / FOLFOX)、放射 / 栓塞治療、標靶治療 | 化療 (Gemcitabine+Cisplatin / FOLFOX)、放射 / 栓塞治療、標靶治療 |\n| **五年存活率** | 20~50%（T1 可達到 80~100%） | 肝內膽管癌：5~40%<br>近端膽管癌：10~30%<br>遠端膽管癌：30~50% |\n\n* 近端膽管癌 = 肝門膽管癌 (Klatskin tumor)\n** 統計資料引用自 Schwartz, NCCN guidelines",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-36_merged.png",
     "explanation_images": null
   },
   {
@@ -14422,8 +14422,8 @@
       "D": "急性闌尾炎（acute appendicitis）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題考部分胃切除的併發症，相較 Billroth I，這些併發症更容易在 Billroth II 吻合術時發生\n1. 傾倒症候群 (dumping syndrome)：因胃部容積下降，食糜快速進入腸道所致，分為 early（飯後 15-60 分鐘）和 late（飯後 1-3 小時），【112-2(五)75】便考出來，請參閱其詳解\n2. 輸入環症候群 (afferent loop syndrome)：輸入環空腸因故阻塞，膽汁、胰液滯留於其中，壓力增加導致腹痛、噁心等症狀，嚴重可因消化液衝到殘胃發生膽汁性嘔吐（嘔吐後因壓力緩解，症狀會立即改善），或逆流造成膽囊炎、胰臟炎等，實驗室檢查 amylase, lipase, bilirubin 可能升高，多發生在術後幾周內，也可數月至數年後表現\n3. 輸出環症候群 (efferent loop syndrome)：較前者少見，因輸出環空腸狹窄、扭轉造成，表現為間歇性腸阻塞，會有腹痛、膽汁嘔吐等表現，多發生在術後數月至數年後\n4. 邊緣性潰瘍 (marginal ulcer)：多發生在術後一年內、胃腸吻合處，因該處存在手術耗材、血流供應不佳，殘胃切除不完全使胃酸分泌過多所致，也與抽菸、NSAID 有關，症狀為腹痛、噁心、腸胃道出血，急性擔心腸胃道破裂，長期有殘胃癌 (cancer of gastric remnant) 風險\n(D) Billroth II 手術史是多年前了，闌尾炎可能是獨立事件，但如此題幹就無必要敘述 Billroth II，另外也沒有疼痛位置的線索讓人懷疑闌尾炎",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-37_merged.png",
     "explanation_images": null
   },
   {
@@ -14439,8 +14439,8 @@
       "D": "mucous cell"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "看起來像一階國考的題目，底下整理胃部各細胞的功能，其中 parietal cell 需要主動運輸才能藉由 H⁺/K⁺ ATPase 分泌胃酸，因此可以推測此細胞中的粒線體含量最高\n\n| 胃部細胞種類 | 功能 |\n| :--- | :--- |\n| **goblet cell (mucous cell)** | 分泌黏液：保護胃壁不受侵蝕，而 PGE2 可刺激其分泌 |\n| **parietal cell** | 1. 分泌胃酸<br>2. 分泌 intrinsic factor：和 Vit B12 吸收有關 |\n| **chief cell** | 分泌 pepsinogen：再由胃酸而活化成 pepsin，消化蛋白質 |\n| **enterochromaffin-like cell (ECL cell)** | 分泌 histamine：刺激 parietal cell 分泌胃酸 |\n| **enterochromaffin cell (argentaffin cell)** | 分泌 serotonin (5-HT)：協助胃部的 motility |\n| **G cell** | 分泌 gastrin：刺激 ECL cell 釋放 histamine、刺激 chief cell 分泌 pepsinogen、刺激 parietal cell 分泌胃酸 |\n| **D cell** | 分泌 somatostatin：抑制 parietal cell 分泌胃酸 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-38_merged.png",
     "explanation_images": null
   },
   {
@@ -14456,8 +14456,8 @@
       "D": "無法切除的轉移進展性insulinoma，可考慮everolimus治療"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Insulinoma 一般為小於 2cm 的單一良性腫瘤，可以在胰臟任何部位出現，大部分是後天偶然性的突變 (sporadic)，但 5% 與 MEN1 相關，由於 MEN1 是源於腫瘤抑制基因的突變或缺失，因此其腫瘤惡性機會高\n(A) C-peptide 是用來鑑別胰島素是來自體外還體內，insulinoma 的胰島素與胰臟產生的過程相同 (Proinsulin → Insulin + C-peptide)，仍然會產生 C-peptide，因此無法鑑別\n(D) everolimus 是 mTOR inhibitor，對於神經內分泌瘤可以達到抑制生長的效果，而這個機轉同樣作用在 insulinoma 胰島素受體下游，能達到降低胰島素分泌、穩定血糖的效果\n\nInsulinoma 在【112-2(五)34】亦有出題，可搭配複習",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-39_merged.png",
     "explanation_images": null
   },
   {
@@ -14473,8 +14473,8 @@
       "D": "stage IV"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "「年齡」是甲狀腺癌分期最容易忽略的陷阱，由於預後非常良好，因此 <55 歲的甲狀腺癌即使有轉移也只會列入 stage II，以下簡單整理 AJCC 第八版的分期：\n\n| 年齡 | T | N | M | Stage |\n| :--- | :--- | :--- | :--- | :--- |\n| **<55 歲** | Any T | Any N | M0 | **I** |\n| | | | M1 | **II** |\n| **≥55 歲** | T1（腫瘤 ≤ 2 cm） | N0/Nx | M0 | **I** |\n| | | N1 | M0 | **II** |\n| | T2（腫瘤 > 2 & ≤ 4 cm） | N0/Nx | M0 | **I** |\n| | | N1 | M0 | **II** |\n| | T3a/T3b（腫瘤 > 4 cm 或侵犯舌骨下肌群） | Any N | M0 | **II** |\n| | T4a（腫瘤侵犯頸部軟組織、器官） | | M0 | **III** |\n| | T4b（腫瘤侵犯頸動脈、頸椎或縱膈腔）/ Any T | | M0/M1 | **IV** |\n| **分化不良型甲狀腺癌 (Anaplastic)** | | | | **IV** |\n\n有關甲狀腺癌的簡介與其類型的比較，請看【112-2(三)57】詳解",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-40_merged.png",
     "explanation_images": null
   },
   {
