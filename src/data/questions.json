@@ -13980,8 +13980,8 @@
       "D": "可先以保守治療為主，如果症狀沒有改善，甚至神經症狀加劇，或有小便困難情形，則需住院手術治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 應為間歇性下背痛，且與姿勢相關，可發展成神經性跛行\n(B) 腰椎向前彎曲 (flexion)，能暫時增加椎管和椎間神經孔的空間，使症狀得到緩解（這也是為什麼神經性跛行的病人總習慣上半身前傾地走路，即 shopping cart sign）病患站立和腰椎挺直時 (extension) 反而加重\n(C) 第五腰椎 pars interarticularis 斷裂，會影響在其後側的 inferior articulating process（與下層 S1 相接），而與 L4 連接的 superior articulating process 仍藉由 pedicle 與脊椎本體相連，因此本選項應是造成 L5-S1 滑脫併椎管狹窄\n(D) 腰椎退化性疾病的手術適應症包含：嚴重狹窄、頑固性疼痛 (intractable pain)、保守治療失敗、馬尾症候群、漸進性肌肉無力，多數患者只需保守治療，而敘述中「有小便困難」暗示馬尾症候群\n\n類似觀念在【112-1(五)62】、【112-2(五)11】皆有出題，可相互對照",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-11_merged.png",
     "explanation_images": null
   },
   {
@@ -13997,8 +13997,8 @@
       "D": "如合併韌帶斷裂，可造成第一、二頸椎不穩定脫位"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "頸椎骨折中常搞混的有 Jefferson fracture 和 Hangman's fracture，整理如下：\n\n| | Jefferson fracture | Hangman's fracture |\n| :--- | :--- | :--- |\n| **骨折位置** | C1 的 anterior/posterior arch | C2 雙側的 pars interarticularis |\n| **病因** | 後仰外力 (hyperextension) 或側面外力 (lateral compression) | 後仰外力 (hyperextension) |\n| **脫位** | 橫韌帶斷裂，使 C1-C2 不穩定脫位 | 合併反彈性前屈會撕裂後縱韌帶，使 C2-C3 不穩定脫位 |\n| **症狀** | • 頸部疼痛、運動受限<br>• 單純 C1/C2 骨折很少造成神經功能損傷（因該處神經管較寬） |\n| **檢查** | CT、X 光是診斷骨折的影像首選；懷疑脊髓或軟組織壓迫才考慮 MRI |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-12_merged.png",
     "explanation_images": null
   },
   {
@@ -14014,8 +14014,8 @@
       "D": "腦實質出血35 mL，造成電腦斷層中線偏移大於1 cm，合併神智改變"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "顱骨骨折 (skull fracture) 造成的腦實質傷害與神經併發症才是手術介入與否的關鍵：\n\n| 顱骨骨折 | 定義 | 處置與緊急手術適應症 |\n| :--- | :--- | :--- |\n| **線性骨折 (linear)** | 線狀的骨裂，裂穿整個顱骨厚度 | • 線性骨折的病人需密切觀察，若有腦實質出血 (ICH) 或神經學症狀的惡化，必須緊急手術<br>• 單純的線性骨折無臨床介入之必要，僅需長期追蹤 |\n| **凹陷骨折 (depressed)** | 小範圍且集中的外力造成一段顱骨分離成骨板，並向顱內凹陷 | • 凹陷骨折的骨板可能傷及腦實質，容易有感染、癲癇等併發症，緊急手術適應症包括凹陷 > 1cm、硬腦膜撕裂 (dural tear)、氣腦 (pneumocephalus)、傷口明顯汙染、出現血腫或 mass effect 等<br>• 開放性凹陷骨折、凹陷大於 5 mm 時醫師多半會擇期 (elective) 手術以減少感染風險，而更輕微的凹陷骨折則觀察即可 |\n| **顱底骨折 (basilar)** | 牽涉顱底構造的骨折 | • 顱底骨折若有腦實質出血 (ICH)、硬腦膜上出血 (EDH) 或 mass effect 須緊急手術<br>• 骨折造成的腦脊髓液鼻漏 (rhinorrhea) 或耳漏 (otorrhea) 多半一週內會自癒，若超過一週未停止，腦膜炎機率大增，會進行手術修補<br>• 顏面神經麻痺常是骨折後 2-3 天內因神經壓迫或挫傷產生，一般先類固醇治療為主，控制不佳再採取擇期手術 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-13_merged.png",
     "explanation_images": null
   },
   {
@@ -14031,8 +14031,8 @@
       "D": "①②③④"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "算是蠻冷門的考題，這種題目看看就好，反正題目四個敘述都對，把握其他好拿分的吧！\n\n| CMN 分類 | 腫瘤大小 |\n| :--- | :--- |\n| **小型** | < 1.5 cm |\n| **中型** | 1.5 - < 20 cm |\n| **大型** | 20 - < 50 cm |\n| **巨大** | ≥ 50 cm |\n\n① CMN 大小分類在不同文獻的定義有點不同，但是最多人用的大致為上面表格所呈現，且愈大的 CMN 愈少見\n② 愈大型 CMN 有愈多的不成熟黑色素細胞，因此發展成 melanoma 的機率越高\n③ 除了 melanoma 以外，大型 CMN 也比較會形成橫紋肌肉瘤 (rhabdomyosarcoma)、神經皮膚黑病變 (nurocutaneous melanocytosis)，後者可能侵犯 CNS，MRI 是最佳診斷工具\n④ 大型 CMN 有約 2-5% 機率會在一生發展成 melanoma，其中一半的病人在 5 歲前發病，小型 CMN 含有比較成熟、分化完全的黑色素細胞，通常需要紫外線照射等其他外在因素才會發生突變，進而發展成 melanoma，時間點通常都在青春期以後了\n\n參考資料：HP Soyer, et al. (Eds.). (2007). Color atlas of melanocytic lesions of the skin. Berlin, Heidelberg: Springer Berlin Heidelberg.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-14_merged.png",
     "explanation_images": null
   },
   {
@@ -14048,8 +14048,8 @@
       "D": "為了預防皮瓣移植過程中發生vasospasm，可將血管的外膜（tunica adventitia）剝除以降低交感神經影響"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "熱缺血時間係指，自體內取器官時阻斷其動靜脈血管，至冷灌洗液使其中心降溫的時間；冷缺血時間則是低溫到移植器官接通血管、開放血流，兩者相加為總缺血時間，器官可接受的時長如下表：\n\n| 組織 | 熱缺血時間 | 冷缺血時間 |\n| :--- | :--- | :--- |\n| **皮膚及皮下組織** | 4-6hrs | up to 12hrs |\n| **肌肉** | < 2 hrs | 8 hrs |\n| **骨頭** | < 3 hrs | 24 hrs |\n| **小腸** | < 1.5 hrs | -- |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-15_merged.png",
     "explanation_images": null
   },
   {
@@ -14065,8 +14065,8 @@
       "D": "opponens pollicis"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "解剖有背就有分的佛心題，懶人記憶法：掌內肌群中名字有 pollicis 的除 adductor pollicis 外都是正中神經，其他通通丟給尺神經就對啦！\n\n| 掌內肌群 | | |\n| :--- | :--- | :--- |\n| Abductor digiti minimi<br>Flexor digiti minimi brevis<br>Opponens digiti minimi<br>Palmaris brevis | 3rd & 4th lumbricals<br>Palmar interosseus<br>Dorsal interosseus<br>Adductor pollicis<br>Flexor pollicis brevis (部分) | 1st & 2nd lumbricals<br>Flexor pollicis brevis (部分)<br>Opponens pollicis<br>Abductor pollicis brevis |\n| **尺神經 (C8-T1)** | | **正中神經 (C5-T1)** |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-16_merged.png",
     "explanation_images": null
   },
   {
@@ -14082,8 +14082,8 @@
       "D": "黏液表皮樣癌（mucoepidermoid carcinoma）為最常見之唾液腺惡性腫瘤，high grade多為epidermoid type；low grade多為mucinous type"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "關於唾液腺腫瘤，依文獻佔頭頸癌 2-6%，可能從大唾液腺 (major salivary gland) 或近 1000 個微小唾液腺 (minor salivary gland) 而來，唾液腺腫瘤是耳鼻喉科的考試重點，112 年在【112-1(六)25】、【112-1(六)26】、【112-2(六)27】都有出現，以下整理盛行率、惡性機率與常見良惡性腫瘤\n\n| 唾液腺腫瘤 | |\n| :--- | :--- |\n| **盛行率** | 腮腺最常見 (65-75%) > 舌下腺 / 微小唾液腺 (20%) > 頷下腺 (<10%) |\n| **惡性機率** | 舌下腺 / 微小唾液腺 (75%)、頷下腺 (50%)、腮腺 (25%) |\n\nQ：今發現一惡性唾液腺腫瘤，請問最可能來自哪裡？\nA：腮腺 > 舌下腺 / 微小唾液腺 > 頷下腺\n\n| | | |\n| :--- | :--- | :--- |\n| **常見良性腫瘤（依盛行率排序）** | 多形性腺瘤 (pleomorphic adenoma) | 又稱混合瘤 (benign mixed tumor)，之所以多形是因其腫瘤由 epithelial (ductal) 和 myoepithelial 兩種細胞組成，標準治療為手術切除，否則容易復發或多年後癌化成為 epithelial-myoepithelial carcinoma，若一病人主訴患有腮腺腫塊多年都沒事，最近突然變大，便要懷疑 |\n| | 華欣氏腫瘤 (Warthin's tumor) | 又稱 papillary cystadenoma lymphomatosum，病因未明但與吸菸高度相關，常見多中心病灶 (multicentricity)，因此同時發現多顆 / 雙側腮腺腫瘤要優先懷疑 Warthin's tumor，標準治療為手術切除，但復發率比多形性腺瘤低 |\n| **常見惡性腫瘤（依盛行率排序）** | 黏液表皮樣癌 (mucoepidermoid carcinoma) | 好發於 20-50 歲女性，由 mucus-secreting cells (muco-) 和 squamous cells (-epidermoid) 兩種細胞組成，依分化好壞和組成占比分為 low/high grade，多數為低惡性，分化好、黏液細胞占比高；高惡性則分化差、上皮細胞佔比高，標準治療為手術切除，高惡性時合併放射線治療 |\n| | 腺樣囊狀癌 (adenoid cystic carcinoma, ADCC) | 若頷下、微小舌下腺有惡性腫瘤時優先懷疑，除唾液腺外也能出現在乳房、淚腺，由 ductal 和 myoepithelial 兩種細胞組成排列成 cribriform, tubular, solid 三種類型，其大部分是 low grade 且長很緩慢，但麻煩的是其會沿著神經不連續生長 (perineural discontinuous growth)，手術清除難度高且幾乎得合併放射線治療，預後差 |\n| | 腺泡細胞癌 (acinic cell carcinoma, ACC) | 幾乎都在腮腺，低惡性，手術切除為主 |\n\n從上文可看出，唾液腺腫瘤的組織學常同時有兩種 (biphasic) 或以上的細胞組成，但本題考得更細，(C) ADCC 的生長型態可分為 tubular, cribriform, solid，其中 solid pattern 預後最差\n另外筆者認為 (A) < 2% 有疑義",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-17_merged.png",
     "explanation_images": null
   },
   {
@@ -14099,8 +14099,8 @@
       "D": "acute mastitis"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "照片可以看到本該是乳頭 / 乳暈的地方似乎被一團不規則、濕疹樣的病灶取代，這個外觀最可能是乳頭的 Paget's disease，病灶可進一步演變成硬皮 (crusting) 和潰瘍 (ulceration)，Paget's disease 好發於 50 歲以上女性，佔所有乳癌約 1%，被認為和乳管原位癌有關，癌細胞再藉由乳管傳播到乳頭和周圍皮膚，因此需要做進一步評估",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-18_merged.png",
     "explanation_images": null
   },
   {
@@ -14116,8 +14116,8 @@
       "D": "當心臟停跳，血液循環完全依靠體外循環時，呼吸器即可完全暫停"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "體外循環 (cardiopulmonary bypass) 是指讓血液循環由體循環靜脈端進入機器，再跳過心臟注入體循環動脈端，製造單獨的體循環迴路，不經心臟及肺循環，而氧氣則由機器直接與血液交換\n(A) 正確，動脈端可放置在主動脈、無名動脈、腋動脈或往下至股動脈，依血管狀態及計畫開刀位置決定\n(B) 錯誤，此選項非常困難，以一個體重 70 公斤的患者而言，維持在 37°C 的體溫須提供 2.2–2.4 L/m²/min，每下降 1°C、心輸出量也可以降低，故一定小於 2.4 L/min/m²\n(C) 接觸體外循環機會導致發炎、異常凝血、栓塞等問題，全身性發炎反應與灌流下降可能進一步造成周邊器官功能不足\n(D) 氧氣由機器直接提供至體循環，因此肺部不需要呼吸器支持",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-19_merged.png",
     "explanation_images": null
   },
   {
@@ -14133,8 +14133,8 @@
       "D": "慢性肺栓塞合併肺高壓"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "直觀來想，下腔靜脈過濾器 (IVC filter) 是濾網而非血管支架，因此完全阻塞的靜脈放置過濾器也等於沒用，以下整理 Rutherford Textbook 提供的適應症 / 禁忌症：\n\n| | |\n| :--- | :--- |\n| **IVC filter 適應症** | • 下肢靜脈栓塞，且無法使用抗凝血劑<br>• 反覆發作的肺栓塞，且抗凝血劑效果不佳或無法使用抗凝血劑 |\n| **IVC filter 禁忌症** | • 慢性完全阻塞的 IVC<br>• IVC 結構異常或其他無法放置過濾器的因素 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-20_merged.png",
     "explanation_images": null
   },
   {
