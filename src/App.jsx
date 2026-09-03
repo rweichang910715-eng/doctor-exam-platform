@@ -243,15 +243,21 @@ function FormattedExplanation({ text }) {
                   </tr>
                 </thead>
                 <tbody>
-                  {rows.map((row, rIdx) => (
-                    <tr key={rIdx} style={{ borderBottom: '1px solid var(--border-color)', background: rIdx % 2 === 1 ? 'var(--bg-secondary)' : 'transparent' }}>
-                      {row.map((cell, cIdx) => (
-                        <td key={cIdx} style={{ padding: '0.5rem 0.75rem' }}>
-                          {formatInlineMarkdown(cell)}
-                        </td>
-                      ))}
-                    </tr>
-                  ))}
+                  {rows.map((row, rIdx) => {
+                    const colSpanForLast = row.length < headers.length ? headers.length - row.length + 1 : 1
+                    return (
+                      <tr key={rIdx} style={{ borderBottom: '1px solid var(--border-color)', background: rIdx % 2 === 1 ? 'var(--bg-secondary)' : 'transparent' }}>
+                        {row.map((cell, cIdx) => {
+                          const colSpan = cIdx === row.length - 1 ? colSpanForLast : 1
+                          return (
+                            <td key={cIdx} colSpan={colSpan} style={{ padding: '0.5rem 0.75rem' }}>
+                              {formatInlineMarkdown(cell)}
+                            </td>
+                          )
+                        })}
+                      </tr>
+                    )
+                  })}
                 </tbody>
               </table>
             </div>
