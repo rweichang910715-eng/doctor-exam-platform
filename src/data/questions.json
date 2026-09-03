@@ -11652,9 +11652,11 @@
       "D": "胸部放射治療，接著化學治療"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題考點為上腔靜脈症候群 (SVCO) 及小細胞肺癌 (SCLC) 的治療：\n1. 患者已經發生**肝轉移（廣泛期 Extensive Stage）**，治療方式應以**全身性的化學治療為主**（合併免疫治療）；如果涉及單側胸腔肺門、縱膈腔或淋巴結（侷限期 Limited Stage），則追加放射治療做局部控制\n2. 上腔靜脈症候群在沒有症狀時，只需對於原先的癌症治療；若發生嚴重急性症狀時（例如喘、胸痛、胸前靜脈鼓起、頸部或臉部水腫），治療包括類固醇（抑制發炎消腫）、局部放療，甚至是血管內導管支架放置，以維持身體灌流",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-41_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-41_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-42",
@@ -11669,9 +11671,11 @@
       "D": "tamoxifen"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這題像是考一階藥理，身為 selective estrogen receptor modulator (SERM) 的 **tamoxifen** 是來湊數的就可以直接選 (D) 啦！目前臨床常用的芳香酶抑制劑 (aromatase inhibitors, AI) 大致可分成類固醇與非類固醇兩類：\n• **類固醇類 (Steroidal AI)**：exemestane\n• **非類固醇類 (Non-steroidal AI)**：anastrozole、letrozole（口訣：愛記的 `-trozole` 字尾）\n\n另外乳癌的荷爾蒙藥物治療中：\n• **停經前病患**：一線用藥首選為 **tamoxifen**（或加上卵巢功能抑制 GnRH agonist）\n• **停經後病患**：首選則是 **aromatase inhibitors (AI)**\n兩種藥物的機轉與副作用務必要分清楚喔！",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-42_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-42_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-43",
@@ -11686,9 +11690,11 @@
       "D": "與鼻咽癌（nasopharyngeal cancer）發生有關的病毒是Epstein-Barr virus（EBV）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(C) **HPV 狀態已被證明為口咽癌的獨立良好預後因子**；2010 年一份 NEJM 隨機對照試驗發現，第 3、4 期的口咽癌患者中，**HPV 陽性者相較 HPV 陰性者有明顯較佳的 3 年存活率 (82.4% vs. 57.1%)**，且對放射線與化學治療反應更佳，故 (C) 錯誤\n\n我國口咽癌患者中，HPV 陽性比例約 28%，其中逾八成都是 **HPV 16**，其次為 HPV 58；而西方國家口咽癌 HPV 陽性比率更高，在美國比例達 65%\n\n口咽癌之外，HPV 也在口腔癌、下咽癌佔一小部分的比例；在下半身除了子宮頸癌，HPV 跟肛門癌、陰道癌、外陰癌、菜花 (HPV 6, 11) 也都有關係，因此男性也可施打子宮頸癌疫苗（HPV 疫苗），以預防上述癌症及病變",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-43_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-43_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-44",
@@ -11703,9 +11709,11 @@
       "D": "collagen-vascular disease患者"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "以下整理乳房保留手術 (Breast-conserving surgery, BCS) 的禁忌症：\n\n| 禁忌症分類 | 臨床狀況 |\n| :--- | :--- |\n| **絕對禁忌症** | • **同側多發性病灶 (Multicentric disease)**<br>• **廣泛瀰漫性微小鈣化 (Diffuse suspicious microcalcifications)**<br>• **切除後邊緣仍為陽性 (Persistently positive margin)**<br>• **發炎性乳癌 (Inflammatory breast cancer)**<br>• **懷孕期間需接受放射線治療者** |\n| **相對禁忌症** | • **無法進行放射線治療**：曾做過乳房放射線治療、結締組織疾病患者（如硬皮症 Scleroderma、SLE）、病態性肥胖、乳房過大<br>• **腫瘤相對於乳房太大**（術後外觀嚴重變形）<br>• **中央腫瘤（侵犯 nipple-areola complex）** |\n\n特別提醒容易搞錯的**非禁忌症**情形：**腋下淋巴轉移**（選 A，腋下淋巴轉移可做腋下淋巴結清掃，非乳房保留之禁忌）、雙側皆有腫瘤、有植入物、老年人",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-44_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-44_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-45",
@@ -11720,9 +11728,11 @@
       "D": "WBC = 7000/μL"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "感染性的 pleural effusion 可以再進一步分為 noncomplicated 和 complicated parapneumonic effusion，後者需積極引流，最嚴重的狀況就是所謂的膿胸 (empyema)；區分方式是滿足 **pH < 7.2**（或 < 7.0）、**glucose < 40 mg/dL** 或 **Gram stain / bacterial culture(+)** 任一者，以此題而言即是 (B) glucose = 38 mg/dL 選項最應積極引流\n\n**Parapneumonic effusion 分類與處置指引整理**：\n\n| 類型 | pH | Glucose (mg/dL) | Gram stain / Culture | LDH (U/L) | 建議治療 |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **Noncomplicated** | > 7.2 | > 40 | (-) | 一般升高 | 抗生素治療 |\n| **Borderline complicated** | 7.0 - 7.2 | > 40 | (-) | > 1000 | 抗生素治療，建議再次抽吸追蹤分析且考慮引流 |\n| **Complicated** | < 7.2 (或 < 7.0) | **< 40** | **(+)** | > 1000 | **置放胸管引流 / 手術清創 + 抗生素治療** |\n| **Empyema (肉眼可見膿狀)** | < 7.0 | < 40 | (+) | > 1000 | **積極管路引流 / 手術清創引流 + 抗生素** |\n\n\\* pH、glucose、culture 任一者符合較嚴重的狀況，則應視為嚴重者；LDH 角色較次要，僅在 LDH > 1000 情況下認為需考慮引流",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-45_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-45_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-46",
@@ -11737,9 +11747,11 @@
       "D": "肺癌"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "胸部 X 光可見雙側上肺野和近肺門處有間質性不透光病灶 (parenchymal opacities / infiltrates)，搭配慢性咳嗽 2 個月的病史，最有可能的診斷是**肺結核 (Pulmonary Tuberculosis)**\n\n**常見肺部疾病胸部 X 光特徵對照表**：\n\n| 疾病種類 | 典型胸部 X 光特徵與分佈 |\n| :--- | :--- |\n| **細菌性肺炎 (Bacterial pneumonia)** | • Lobar consolidation、Air bronchogram<br>• 好發單側、中下肺葉 |\n| **間質性肺炎 (Interstitial pneumonia)** | • Axial / septal parenchymal infiltrates、Peribronchial thickening<br>• 雙側均有、網狀或毛玻璃樣浸潤 |\n| **肺癌 (Lung cancer)** | • 原發性肺癌：Irregular solid nodular opacity，好發單側<br>• 轉移性肺癌：Diffuse micronodular opacities (Cannonball)，好發雙側、下肺葉 |\n| **肺結核 (TB)** | • **Primary TB**：中 / 下肺葉不透光病灶、Perihilar lymphadenopathy (Ghon focus)<br>• **Secondary TB (再活化)**：**肺尖 / 上肺葉後段浸潤、Cavitation (開洞)**<br>• **Miliary TB (粟粒性)**：雙側瀰漫性細小結節 (Disseminated infiltrates) |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-46_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-46_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-47",
@@ -11754,9 +11766,11 @@
       "D": "每一階段的治療至少要2個月以上才能考慮降階"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "2023 年 GINA guidelines 階梯式治療指引，摘要 TRACK 1 如下：\n\n| TRACK 1 | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **適用時機** | 每週症狀 < 4-5 次 | 每週症狀 < 4-5 次 | 大多數日子都有症狀，或每週因氣喘醒來一次以上 | 每天都有症狀，或每週因氣喘醒來一次以上，且肺功能差 | 嚴重頑固型氣喘 |\n| **Controller** | 低劑量 PRN (ICS-formoterol) | 低劑量 PRN (ICS-formoterol) | 低劑量維持性 ICS-formoterol | 中劑量維持性 ICS-formoterol | 加上 LAMA，考慮高劑量維持性 ICS-LABA ± 生物製劑 |\n| **Reliever** | 低劑量 PRN (ICS-formoterol) | 低劑量 PRN (ICS-formoterol) | 低劑量 PRN (ICS-formoterol) | 低劑量 PRN (ICS-formoterol) | 低劑量 PRN (ICS-formoterol) |\n\n補充說明：\n1. ICS-formoterol 稱為 anti-inflammatory reliever (AIR)\n2. TRACK 1 是被首選建議的方案，好處是與 TRACK 2 的 SABA 比較，AIR 當作 reliever 能減少嚴重氣喘急性發作 (severe exacerbations) 的次數；用藥簡單只有一種，尤其 step 3~5 同時作為 reliever 與 controller 使用，稱為 MART (maintenance-and-reliever therapy)\n3. (B) 尖峰呼氣流速值 (PEF) 可用於病人病情的自行監測：與個人最佳值相較分為三個區間，> 80% (綠燈) 代表控制良好，60-80% (黃燈)、< 60% (紅燈) 應就醫\n4. (D) GINA 2021 年之後的 guidelines 已從「當氣喘已獲得控制並能維持 3 個月，可考慮降階」改為「...維持 2-3 個月，可考慮降階」，故此選項也對；經考選部公告本題無錯誤選項，一律給分",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-47_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-47_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-48",
@@ -11771,9 +11785,11 @@
       "D": "肺臟移植為治療選項之一"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確：在 GOLD 治療指引中，輕微者（Group A）可以僅使用單一長效或短效支氣管擴張劑來進行症狀控制，比如 Ipratropium、Tiotropium、Salbutamol 等\n(B) 正確：頻繁急性發作的病人建議使用 LABA + LAMA，並視情形加上吸入性類固醇 (ICS，通常血液嗜酸性球 count ≥ 300 cells/μL 時強烈建議加上)\n(C) 錯誤：**胸腔復健 (Pulmonary rehabilitation) 對 COPD 患者成效顯著**，可以幫助訓練呼吸肌、改善運動耐受度、增加生活品質並顯著降低再住院率與死亡率，臨床上一次療程大約會執行 6-8 週\n(D) 正確：常見肺臟移植的適應症包含：嚴重 COPD（佔成人肺移植最大宗）、Cystic fibrosis、Interstitial lung disease (特發性肺纖維化 IPF)、肺動脈高壓等",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-48_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-48_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-49",
@@ -11788,9 +11804,11 @@
       "D": "ARDS出現缺氧的原因，主要導因於肺泡氣體擴散障礙（alveolar diffusion impairment）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) ARDS 屬於非心因性肺水腫，因此肺動脈楔壓 (PCWP / PAWP) 應該是正常的或較低的（**< 18 mmHg**）\n(B) ARDS 肺部浸潤常見於肺部周圍 (pulmonary periphery) 或斑塊狀分布\n(C) 正確：**ARDS 的核心病理生理機轉為肺微血管內皮與肺泡上皮受損，導致血管通透性 (permeability) 增加**，富含蛋白質的水腫液滲漏至肺泡內\n(D) ARDS 出現嚴重低血氧的原因，主要是因為肺泡內被發炎滲出液浸潤塌陷，造成嚴重的**肺內分流 (intrapulmonary shunt)**，流經未通氣肺泡的血液無法被充分攜帶氧氣，給予高濃度氧氣也難以完全矯正（純擴散障礙給予氧氣容易矯正，但 shunt 難矯正）\n\n**心因性肺水腫 vs 非心因性肺水腫 (ARDS) 全對照表**：\n\n| 比較項目 | 心因性肺水腫 (Cardiogenic) | 非心因性肺水腫 (ARDS / Non-cardiogenic) |\n| :--- | :--- | :--- |\n| **主要成因** | 體液過多或左心衰竭導致**微血管靜水壓升高 (Hydrostatic pressure ↑)** | **肺微血管內皮通透性增加 (Permeability ↑)** |\n| **PCWP (Wedge pressure)** | **> 18 mmHg** | **≤ 18 mmHg**（正常） |\n| **心臟大小** | 擴大或正常 | 通常正常 |\n| **肺血管寬度** | 擴張、肺門血管紋理增加 | 通常正常 |\n| **肺水腫 / 浸潤分佈** | **中央型 (Bat-wing / Butterfly pattern)**、對稱均勻 | **周圍型或斑塊狀 (Patchy / Peripheral)**、雙側瀰漫 |\n| **其他特徵** | 常伴隨肋膜積水 (Pleural effusion)、Kerley B lines、Peribronchial cuffing | 常見 **Air bronchogram**，肋膜積水少見 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-49_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-49_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-50",
@@ -11805,9 +11823,11 @@
       "D": "容易合併肺結核（pulmonary tuberculosis）、肺癌或自體免疫疾病如類風濕性關節炎（rheumatoid arthritis）等"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 選項錯誤：大多職業性肺疾病 (occupational lung diseases) 只要移除暴露源便會停止惡化，**但矽肺症 (Silicosis) 卻是例外！即使離開污染源並完全停止暴露，肺內的游離二氧化矽結晶仍會持續被巨噬細胞吞噬並誘發慢性纖維化反應，疾病仍會持續進行與惡化**，故 (B) 錯誤\n\n矽肺症暴露源主要為石頭或沙子中的 free silica (SiO2)，因此多與建築業、玻璃業、礦工、噴砂等砂石暴露的職業相關；暴露到發病時間從數月到 7~10 年以上均有；影像上急性矽肺症多侵犯下肺野，亞急性或慢性矽肺症則常見**上肺野小結節陰影**和**肺門淋巴結蛋殼狀鈣化 (eggshell calcification)**，嚴重時進展至整個肺部進行性大量纖維化 (Progressive Massive Fibrosis, PMF)；此外矽肺症會顯著增加肺結核 (TB, 增加約 30 倍) 與肺癌風險，也會誘發 ANA 等自體抗體生成，造成 RA（Caplan syndrome）、Scleroderma（Erasmus syndrome）等自體免疫疾病\n\n**常考粉塵疾病與病灶位置對照表**：\n\n| 職業粉塵疾病 | 主要好發病灶位置與特徵 |\n| :--- | :--- |\n| **矽肺症 (Silicosis)** | • 急性：下肺野<br>• **亞急性 / 慢性：上肺野**（蛋殼狀淋巴結鈣化） |\n| **煤礦工人塵肺症 (Coal worker pneumoconiosis)** | **上肺葉**開始，逐漸往全肺擴散（黑色煤斑） |\n| **石綿肺症 (Asbestosis)** | **下肺野**為主（肋膜斑塊 Pleural plaques、間皮瘤 Mesothelioma） |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-50_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-50_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-51",
