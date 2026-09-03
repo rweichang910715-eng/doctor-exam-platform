@@ -12790,8 +12790,8 @@
       "D": "每3分鐘給與一次強心劑（epinephrine）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "這題考的是 PALS 與兒童休克處置流程，簡化如下\n\n| 開始時間 | 處置 |\n| :--- | :--- |\n| **0 min** | 確認症狀與生命徵象類似休克後，最重要的第一步就是穩定 ABC (Airway, Breathing, Circulation)，IV/O2/Monitor 搬出來就對了，同時須評估嚴重度考慮插管、呼吸器等進階呼吸道處置 |\n| **5 min** | I. 快速給予等張晶體輸液，初始速率建議為 20 ml/kg，並逐步增加至 60-80 ml/kg 直到灌流改善，懷疑心因性休克者要避免過量輸液<br>II. 治療休克原因：敗血性休克儘早給予廣效抗生素；失血造成的低血容休克給予輸血；校正低血糖、電解質異常等 |\n| **15 min** | 若對輸液反應不佳 (fluid refractory shock) 須開始給予升壓劑，Cold shock 一線首選為 epinephrine 0.05-0.3 μg/kg/min；Warm shock 為 norepinephrine 0.05 μg/kg/min，同時考慮建立中央靜脈管路 |\n| **60 min** | 若對一線升壓劑反應不佳 (catecholamine-resistant shock) 則可合併 norepinephrine + epinephrine 或其他後線升壓劑如 vasopressin, dopamine, dobutamine, enoximone, levosimendan 等；懷疑腎上腺低下者給予類固醇，情況嚴重者考慮體外生命維持系統 (ECMO) |\n\n根據題意，病人的休克已經出現掉血壓、意識混亂和呼吸淺快等徵象，因此在穩定 ABC 階段時儘早進行快速誘導插管是最適當的處置，(A) 生理食鹽水輸注雖然重要，但並沒有插管來得緊急且優先，另外題目的 450mL 雖然接近 PALS 的初始速率 (20 ml/kg × 22 kg = 440 mL)，但輸注時間建議在 5-10 分鐘內，不會到一小時這麼長；(C) 只有在低血容休克時輸血才有幫助；(D) epinephrine 則是在輸液無效時才考慮加上",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-21_merged.png",
     "explanation_images": null
   },
   {
@@ -12807,8 +12807,8 @@
       "D": "75～90次"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "單純記憶題，可以順便記憶心跳的範圍（如下表），一般足月產約在 30-60 下 /min，約在 12 歲達到成人正常值的範圍，早產兒呼吸速率更快，往往需要呼吸器介入控制速率\n\n| 年紀 | 心跳 (bpm) | 呼吸速率 (/min) |\n| :--- | :--- | :--- |\n| **早產兒** | 120-170 | 40-70 |\n| **3 個月** | 100-150 | 35-55 |\n| **6 個月** | 90-120 | 30-45 |\n| **12 個月** | 80-120 | 25-40 |\n| **1-3 歲** | 70-110 | 20-30 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-22_merged.png",
     "explanation_images": null
   },
   {
@@ -12824,8 +12824,8 @@
       "D": "哮吼（croup）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "送分題！看到關鍵字：咳嗽如狗吠 (barking cough)，就要立馬想到哮吼這個診斷\n(A)(B) 氣喘跟細支氣管炎通常會是高頻的 wheezing，有時候也可以是較低頻的 rhonchi\n(C) 異物吸入會導致上呼吸道阻塞，進而有 stridor，本題敘述還有包含聲音沙啞、咳嗽如狗吠等症狀，比較不像是單純的異物吸入\n(D) 哮吼最常見的病原為 Parainfluenza virus，其典型症狀 triad 包含：聲音沙啞、barking cough、吸氣時 stridor（上呼吸道阻塞的 sign）等，最接近本題敘述的診斷\n\n| 各種常見呼吸音 | 可能疾病 |\n| :--- | :--- |\n| **Wheezing** | 氣喘、COPD、支氣管炎 |\n| **Rhonchi** | 氣道有痰、氣喘、COPD、支氣管炎 |\n| **Crackles (Rales)** | **Coarse**: 肺炎、肺積水<br>**Fine**: 間質性肺病 |\n| **Stridor** | 上呼吸道阻塞（如：異物梗塞、哮喘、會厭炎） |\n\n其他考點：\n• 哮吼在 X 光上可以看到 steeple sign，原因為聲門下方的氣道狹窄\n• 另一兒科呼吸道急症為急性會厭炎 (acute epiglottitis)，與哮吼比較如下：\n\n| | 哮吼 | 急性會厭炎 |\n| :--- | :--- | :--- |\n| **病原** | Parainfluenza virus | Haemophilus influenzae type b<br>註：現由於疫苗廣泛施打，小兒會厭炎的發生率降低許多，然而成人的發生率沒有改變太多（成人會厭炎病原以肺炎鏈球菌為主） |\n| **好發年齡** | 1-3 歲 | 3-6 歲 |\n| **典型症狀** | hoarseness<br>barking cough<br>inspiratory stridor | sore throat, odynophagia（喉嚨痛 / 吞嚥痛）<br>drooling（流口水）<br>tripod position（上身前傾、兩手撐地 / 椅子） |\n| **X 光特徵** | （正位照）steeple sign | （側位照）thumb sign |\n| **處置** | 類固醇 (dexamethasone 0.6 mg/kg)、nebulized epinephrine、呼吸支持 | 避免激怒病人、呼吸支持<br>抗生素（因對 Ampicillin 抗藥性漸增，建議用第三代頭孢子類如 Ceftriaxone）<br>類固醇與腎上腺素無效 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-23_merged.png",
     "explanation_images": null
   },
   {
@@ -12841,8 +12841,8 @@
       "D": "高血鈣（hypercalcemia）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "中樞型尿崩症為腦垂腺後葉分泌 ADH 不足所致，加上腦垂腺後葉之腺體是直接由下視丘神經內分泌細胞支配，所以此題要選「最不可能」傷及下視丘與腦垂腺後葉的選項\n(A) Langerhans cell histiocytosis 最常見的表現為骨骼侵犯、皮膚病變、腦下垂體病變（尿崩症為主），病理上不屬於惡性，但可以侵犯多個組織，包括全身各處器官、淋巴組織，表現多樣化，此血液科疾病主要發生於 3-10 歲兒童，男女比 2：1，老年人亦可罹患但非常罕見\n(C) Wolfram syndrome 是一罕見體染色體隱性遺傳的神經退化疾病，也稱 DIDMOAD，用於描述其臨床特徵，包含中樞型尿崩症 (central diabetes insipidus, DI)、糖尿病 (DM)、視神經萎縮 (optic nerve atrophy, OA)、聽力障礙 (deafness, D)\n(D) 高血鈣會影響腎功能，使 ADH 作用於 AQP-2 回收水分能力下降，造成腎源性尿崩症 (nephrogenic diabetes insipidus)，另一導致腎源性尿崩症的常見原因為鋰鹽 (lithium)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-24_merged.png",
     "explanation_images": null
   },
   {
@@ -12858,8 +12858,8 @@
       "D": "iodide organification defect"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "看似很難的一題，但選項看到 iodide transport defect 和 iodide organification defect 都跟甲狀腺素合成異常有關，再看到 lingual thyroid 是甲狀腺長錯位置，和前兩者類型不同選下去就對啦（甚至不知道 Pendred syndrome 也沒關係）！\n\n先天性甲狀腺功能低下症分原發性與次發性兩大類，前者可根據病生理大致分成四類：\n\n| 原發性先天性甲狀腺低下 | | |\n| :--- | :--- | :--- |\n| **甲狀腺發育不全 (dysgenesis)** | • agenesis<br>• hypoplasia<br>• ectopia（lingual thyroid 就是屬於這一類） | |\n| **甲狀腺合成異常 (dyshormonogenesis)** | • defective iodide uptake into follicular cell<br>• defective iodide transport from follicular cell into colloid（別稱 Pendred syndrome，為 SLC26A4 突變導致）<br>• iodide organification defect<br>• thyroglobulin synthesis defect<br>• deiodination defect<br>• thyroid hormone transport defect | |\n| **TSH 感受性不佳** | • TSH receptor-blocking antibodies<br>• mutation in TSH receptor (TSHR)<br>• defects in Gsα (GNAS)—pseudohypoparathyroidism | |\n| **藥物、原料異常** | • 碘缺乏或過多<br>• 來自母體的藥物，如 amiodarone, methimazole<br>• radioactive iodine (I-131) | |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-25_merged.png",
     "explanation_images": null
   },
   {
@@ -12875,8 +12875,8 @@
       "D": "coronavirus disease 2019（COVID-19）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "由題目敘述「臉部及軀幹」、「搔癢」、「水泡」，可以判斷此男童是得到水痘 (varicella)，是由帶狀泡疹病毒 (VZV) 所引起的傳染性疾病，會產生多形性皮疹，水泡 (vesicles) 最具辨識度，在皮疹出現前兩天到水泡結痂前皆具感染性\n(B) 猩紅熱 (scarlet fever) 是由 Group A Streptococcus 感染導致，常見砂紙般紅疹，會由頸部向下蔓延\n(C) 手足口症由腸病毒 71 型及克沙奇病毒 A 群 (Group A coxsackievirus) 引起，型態為手掌腳掌的小水泡，無痛不癢也不會結痂結疤，亦可出現在臀部或膝蓋\n(D) COVID-19 主要以呼吸道症狀為主，皮膚症狀會以會癢的紅疹及小水泡出現，常分布於膝蓋、手肘，或是以蕁麻疹的方式出現，較特別的是偽凍瘡 (Pseudo-chilblains) 的形式，會使手指或腳趾紅腫、發熱、疼痛",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-26_merged.png",
     "explanation_images": null
   },
   {
@@ -12892,8 +12892,8 @@
       "D": "骨關節炎－金黃色葡萄球菌（Staphylococcus aureus）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A)(B)(D) 皆正確\n(C) 錯誤，兒童常見泌尿道感染源為 E.coli，其次為 Klebsiella、Proteus，若是病毒感染，最常見為 adenovirus，沙門氏菌主要造成急性腸胃炎為主\n\n以下附上其他兒童常見感染疾病與常見病原列表：\n\n| 疾病 | 常見病原 |\n| :--- | :--- |\n| **鼻竇炎、中耳炎、肺炎（三處互相連通）** | S. pneumonia、H. influenza、M. catarrhalis |\n| **哮吼** | Parainfluenza virus、RSV |\n| **會厭炎** | Hib、Group A Streptococcus |\n| **傳染性紅斑 (Fifth disease)** | Parvovirus B19 |\n| **玫瑰疹 (Sixth disease)** | HHV-6B、HHV-7 |\n| **貓抓熱** | Bartonella henselae |\n| **感染性單核球增多症** | EBV |\n| **流行性角結膜炎** | Adenovirus（8, 9, 37 型） |\n| **咽結膜熱** | Adenovirus（3, 7 型） |\n| **手足口病** | Enterovirus（71 型）、Coxsackievirus A |\n| **細支氣管炎** | RSV |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-27_merged.png",
     "explanation_images": null
   },
   {
@@ -12909,8 +12909,8 @@
       "D": "Widal試驗"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "高燒超過 5 天不退，就要把川崎氏症 (Kawasaki disease) 納入考慮，其他兒童 prolonged fever（定義為 > 7 天）的鑑別診斷尚包括 EBV、adenovirus、兒童特發性關節炎 (JIA)、噬血球性淋巴組織球增生症 (HLH)、血液科疾病 (leukemia/lymphoma) 等\n\n本題「卡介苗結痂處出現發紅的變化」是關鍵，為川崎氏症的重要表現（惟世界他國並未如台灣、日本全面接種卡介苗，故卡介苗疤痕紅腫未被納入 AHA 的診斷準則），本土大規模的回溯性研究顯示，台灣川崎氏症的兒童 49% 有表現卡介苗疤痕紅腫，此表現也被納入日本最新川崎氏症的準則中，懷疑有川崎氏症，必要安排心臟超音波檢查是否有冠動脈發炎\n\n川崎氏症的診斷標準，請看【112-2(四)7】詳解\n\n(D) Widal test 請見【112-2(三)77】詳解\n\n參考資料：MC Yang, et al. (2023). Kawasaki disease in children with Bacillus Calmette-Guérin scar reactivity: Focus on coronary outcomes. Journal of the Formosan Medical Association",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-28_merged.png",
     "explanation_images": null
   },
   {
@@ -12926,8 +12926,8 @@
       "D": "一般妥瑞氏症或抽動症的臨床嚴重度會在18～20歲以後大幅改善"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(B) 怎麼看都不適當，基本上憑選項語意就能作答的佛心題\n\n妥瑞氏症 (Tourette disorder) 為一種反覆表現快速、無規律性運動和聲音抽動的神經疾病，屬於抽動症 (Tic disorders) 之一，DSM-5 中的妥瑞氏症診斷條件必須符合以下 4 點：\n• 發病年齡 <18 歲\n• 發病期間觀察到 ≥ 2 次運動抽動與 ≥ 1 次聲音抽動\n• 抽動症狀持續 ≥ 1 年\n• 排除藥物、物質和其他疾病\n\n妥瑞氏症病人平均於 4~6 歲開始發病，motor tics 通常會比 vocal tics 更早出現，並於 10~12 歲症狀最嚴重，並常伴隨 ADHD (50%)、OCD (40%) 等精神疾病；不過多數病人 (~65%) 的抽動嚴重度在 18~20 歲以後便會大幅改善，持續至成年後的抽動較少見，第一線治療為行為治療 (e.g. 認知行為治療、暴露 - 反應預防、習慣改變訓練)，只有中度以上抽動相關障礙的病人才需要藥物控制或深層腦刺激術，藥物包含高強度多巴胺受體阻斷劑（即抗精神病藥），合併 ADHD 時可考慮 alpha2-agonist (clonidine)，合併強迫症時可選擇 SSRIs，美國神經學學會 (AAN) 建議應衛教照顧者與生活接觸者妥瑞氏症的症狀與自然史，將觀察等待 (watchful waiting) 作為對妥瑞氏症病人適當的互動方式\n\n相似題目，請看【112-2(四)30】",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-29_merged.png",
     "explanation_images": null
   },
   {
@@ -12943,8 +12943,8 @@
       "D": "常見在第五節腰椎（L5）至第一節薦椎（S1）的位置"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "隱形脊柱裂是指椎體中線在發育時的癒合缺陷，病灶表面皮膚完整，可能併有皮膚凹陷、脂肪瘤、血管瘤或毛髮等特徵，但無任何神經組織外露，最常發生在腰椎及薦椎，(B) 雖然多數患者無症狀，但有兩成無皮膚異常的孩童會發展成脊椎拉扯症候群 (tethered cord syndrome)，因此 MRI 可用來確定沒有牽引到脊髓及後續手術的必要性",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-30_merged.png",
     "explanation_images": null
   },
   {
