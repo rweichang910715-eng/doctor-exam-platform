@@ -13130,8 +13130,8 @@
       "D": "發炎後色素沉澱（post-inflammatory hyperpigmentation）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "沒記圖片與對應疾病的話也沒關係，只要看到頸部、腋下和皺褶處有皮膚增生和色素沉積，反射性選黑色棘皮症 (acanthosis nigricans) 就對了！其他三種疾病雖然也會表現色素沉積，但黑癬主要長在手 / 腳掌；硬皮症則是由手指皮膚往近端長，且合併變硬、失去皺褶、鈣質沉著 (calcinosis cutis) 等症狀；發炎後色素沉澱則於細菌感染、接觸性皮膚炎、傷口疤痕或雷射治療等皮膚刺激後的病灶處產生",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-41_merged.png",
     "explanation_images": null
   },
   {
@@ -13147,8 +13147,8 @@
       "D": "感染"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "黑色棘皮症最常出現在肥胖或與胰島素抗性相關的疾病（例如第二型糖尿病、多囊性卵巢症候群），其次是內分泌異常如 Cushing disease 和 Addison's disease，與 ACTH 過度表現，刺激黑色素細胞有關，惡性細胞導致的黑色棘皮症非常少見",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-42_merged.png",
     "explanation_images": null
   },
   {
@@ -13164,8 +13164,8 @@
       "D": "常合併毛孔角化症（keratosis pilaris）或異位性皮膚炎（atopic dermatitis）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，尋常性魚鱗癬占魚鱗癬疾病 95%，約 250 人中就有一人罹患此病，是體染色體顯性遺傳疾病，病因為 filaggrin 基因突變而導致表皮的角質層 (stratum corneum) 變得脆弱\n(B)(D) 正確，尋常性魚鱗癬的臨床表現包含：皮膚乾燥、多掌紋、毛孔角化症、眼睫毛長，同時也易導致異位性皮膚炎，通常嬰兒時期就發病，但是到五歲左右症狀表現會比較典型，因此大部分是到幼童才會診斷出來\n(C) 錯誤，皮膚症狀最先影響到的是四肢的伸側部分，而下腹、腳掌等也有文獻記載會有皮膚病灶，反倒是皮膚皺褶處如關節內側不會出現，另外，病灶在冬天會更加嚴重（乾燥）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-43_merged.png",
     "explanation_images": null
   },
   {
@@ -13181,8 +13181,8 @@
       "D": "insula ribbon sign；代表先發生缺血性中風，而後發生出血"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "病人出現不對稱神經學症狀時應懷疑中風，而 non-contrast CT 目的在判斷出血性或缺血性中風，本題從影像即可判斷為 ICH，故排除 (B)(C)(D)\n\n(A) spot sign 是 ICH 於 CT 血管攝影 (CTA) 的徵象，為腦血腫內有局部的顯影劑堆積 / 顯影，spot sign 與血腫繼續長大的風險有關，為 ICH 不良預後的獨立預測因子，可能的影像鑑別診斷有 dot sign（見下方，因圖①不是缺血性中風而排除）、生理性鈣化點（此題的確可能是基底核鈣化點，但病人有神經學症狀，還是朝病理徵象去想）\n\n選項 (B)(C)(D) 皆屬腦梗塞的 early CT signs，以下表格整理：\n\n| early CT 徵象 | 成因 |\n| :--- | :--- |\n| **hyperdense MCA sign** | MCA 密度增加（因血栓使血液難以流動所致） |\n| **dot sign = Sylvian fissure sign** | 位於 sylvian fissure 之小亮點<br>（成因與 hyperdense MCA sign 相同，只是梗塞位置為 MCA 的 M2 分支） |\n| **lentiform nucleus obscuration\\*** | 水腫使 lentiform nu.（灰質、CT 本該亮）的密度下降，與鄰近內囊、外囊的區辨變不明顯 |\n| **insular ribbon sign\\*\\*** | 正常 insula 可見彎曲的紋路，水腫時該徵象消失 |\n| **indistinct differentiation between gray and white matter** | 組織密度稍微下降、灰白質界線不清 |\n\n\\*(B) lentiform nucleus sign 在中風影像上應指 lentiform nucleus obscuration（遮蔽）：避免跟 lentiform fork sign 搞混，後者是指 MRI T2 基底核密度變高，臨床很可能是代謝性酸中毒\n\\*\\*(D) insular ribbon sign 更精確應稱為 loss of insular ribbon sign",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-44_merged.png",
     "explanation_images": null
   },
   {
@@ -13198,8 +13198,8 @@
       "D": "典型腦部影像會出現枕葉水腫，但該現象也有可能出現在其它腦區"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "可逆性後腦病變症候群 (posterior reversible encephalopathy syndrome, PRES) 多發生在有高血壓急症、子癇 / 子癇前症、服用免疫抑制劑與抗癌藥物的病人，機轉目前推測為高血壓使大腦灌流增強，超出自主調節極限而產生腦水腫，PRES 常見的四大症狀為頭痛、癲癇、意識改變與視覺異常；MRI 的典型特徵為後大腦（多枕、頂葉）血管源性水腫，但也可能出現在其他腦區，不一定位於後大腦動脈的支配範圍，PRES 給予支持性治療後（降血壓、控制癲癇、停用風險藥物），症狀和影像大都可以在一至數週內恢復正常，只有少數會併發腦梗塞、出血及留有未恢復的神經功能缺損",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-45_merged.png",
     "explanation_images": null
   },
   {
@@ -13215,8 +13215,8 @@
       "D": "如果懷疑是因為主動脈剝離（aortic dissection）所導致的急性腦中風症狀，絕對禁止使用"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "急性缺血性腦中風使用 tPA 治療的流程如下：\n1. 確定病史：在發病 3 小時內使用效果最佳，可有條件放寬至 4.5 小時內使用\n2. 進行電腦斷層評估：排除出血性腦中風或主動脈剝離、太嚴重或太輕微的病患不使用（NIHSS 在 4-25 分才考慮）\n3. 患者中風前 48 小時內有服用「非維生素 K 拮抗劑口服抗凝血劑」(DOAC) 不建議施打，可直接考慮動脈內取栓，因為使用 PT、aPTT 評估 DOAC 作用的偽陰性過高，並非很好的指標；如果是在 48 小時內使用 Warfarin 或 Heparin，則可視抗凝血程度決定（Warfarin：INR>1.7 不可使用；Heparin：非極高的 aPTT 可考慮，但須密切監測 aPTT）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-46_merged.png",
     "explanation_images": null
   },
   {
@@ -13232,8 +13232,8 @@
       "D": "carbamazepine"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "看到關鍵字「短暫性恍惚」、「全面性 3Hz 慢波」等要想到失神型癲癇 (absence seizure)，失神型癲癇常見於 4-12 歲兒童，EEG 會有典型的全面性 3Hz 慢波，臨床上會出現短暫約數十秒的發呆且無反應，一天可以達數十次甚至百次，還可能會有臉色蒼白的現象，另外有研究顯示 hyperventilation 會誘發失神型癲癇的發作，失神型癲癇的預後普遍不錯，有一半以上病人在青少年時期就不再發生癲癇，然而失神型癲癇的病人對於專注力、閱讀、語言能力等比一般人來得差\n\n失神型癲癇的第一線治療是 ethosuximide、valproic acid，文獻指出 ethosuximide 比 valproic acid 更好，但 ethosuximide 在台灣沒有上市，那就選 (A)，要特別注意對於失神型癲癇若使用 phenytoin、carbamazepine、vigabatrin 等抗癲癇藥物，可能會更加嚴重，所以應避免！\n\n底下列出不同癲癇建議的第一線藥物：\n\n| 癲癇類型 | 第一線藥物 |\n| :--- | :--- |\n| **Generalized tonic-clonic** | Valproic acid、Lamotrigine、Topiramate |\n| **Atonic seizure** | |\n| **Partial seizure** | Valproic acid、Carbamazepine、Phenytoin |\n| **Absence seizure** | Valproic acid、Ethosuximide |\n\n參考資料：MM Goldenberg. (2010). Overview of drugs used for epilepsy and seizures: etiology, diagnosis, and treatment. Pharmacy and Therapeutics, 35(7), 392",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-47_merged.png",
     "explanation_images": null
   },
   {
@@ -13249,8 +13249,8 @@
       "D": "下顎前突（antero-flexed mandible）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "由題幹敘述容易想到病人有睡眠呼吸中止症，若只能從症狀判斷是中樞性或阻塞性：「阻塞性睡眠呼吸中止症 (obstructive sleep apnea, OSA)」會「鼾聲大作」並且與「早晨醒來頭痛」更相關（機轉不明，推測與身體缺氧、腦血管擴張有關）\n\n目前已證實的 OSA 風險因子如下：\n• 肥胖、心血管疾病、中風\n• 菸、酒\n• 男性、年齡 > 50 歲\n• 呼吸道異常（扁桃腺 / 懸壅垂過大、舌根後倒）\n• 顱顏部異常，如下顎後縮 (retrognathia) 或先天下記較小\n• 肢端肥大症",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-48_merged.png",
     "explanation_images": null
   },
   {
@@ -13266,8 +13266,8 @@
       "D": "此病人之診斷應為偏頭痛合併藥物過度使用頭痛"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題關鍵字為噁心想吐、畏光怕吵、活動時加劇，以上症狀要想偏頭痛 (migraine)（雖然典型發作位置為單側，但雙側也會有！）；加上有長達兩年約 10 ～ 15 次 / 月的止痛藥物史，所以合併有藥物造成的次發性頭痛，以下整理常見原發性頭痛、次發性頭痛：（本題可搭配【112-1(三)2】一起看，該詳解有列出偏頭痛的診斷標準）\n\n| 原發性頭痛 | | |\n| :--- | :--- | :--- |\n| **偏頭痛 (migraine)** | **緊縮型頭痛 (tension headache)** | **叢發型頭痛 (cluster headache)** |\n| **位置** | 單側 > 雙側 | 雙側 | 單側：多在眼周或太陽穴 |\n| **疼痛型態** | throbbing | pressing or tightening | deep pain |\n| **發生時間** | rapid (≤ 1~2h) | gradual | abrupt (≤ minutes) |\n| **持續時間** | 4~72 h | 30 min~7d | 15 min~3 h |\n| **症狀** | 噁心想吐、畏光怕吵；約 30% 有預兆 (aura)（視覺為主） | 偶爾有畏光怕吵，但不會噁心想吐（可想成：都不要有偏頭痛特色的原發性頭痛） | 副交感神經症狀（流淚、流鼻水、縮瞳、前額及臉出汗等） |\n| **盛行率** | ~10%：男女比 1 : 2.5 | 40%（最常見） | <1%：年輕男性好發 |\n\n| 次發性頭痛 | |\n| :--- | :--- |\n| **病因** | infectious<br>vascular<br>mass effect (tumor, hematoma)<br>sleep disturbance<br>preeclampsia<br>postconcussive syndrome<br>neuralgia<br>substance use/withdrawal (analgesics, nitrates, ergotamine, caffeine,...) |\n| **症狀** | 口訣：SNOOP4，可參考【112-1(三)2】解析 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-49_merged.png",
     "explanation_images": null
   },
   {
@@ -13283,8 +13283,8 @@
       "D": "主觀認知退化（subjective cognitive decline）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "失智症與輕度認知障礙是光譜性的大腦皮質疾病，在 DSM-5 中分別稱作 major 與 minor neurocognitive disorder，確診失智症需有以下至少一項認知功能顯著降低（複雜注意力、執行功能、學習和記憶、語言、知覺動作、社交認知），且缺損程度必須足以影響到日常生活；輕度認知障礙與失智症最大的差別，是「認知缺損不干擾日常活動的獨立進行」，但可能更費力，因此 (B) 最符合\n\n認知評估量表，常用的有 MMSE 和題幹的 MoCA，設定 cut-off 牽涉一項工具的敏感度與特異度，在此列出最常被使用的 cut-off 僅供參考：MMSE ≤ 24 分為不正常（進一步分輕度 21-24、中度 10-20、重度≤ 9）；MoCA ≤ 25 分為不正常（進一步分輕度 18-25、中度 10-17、重度≤ 10）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-50_merged.png",
     "explanation_images": null
   },
   {
