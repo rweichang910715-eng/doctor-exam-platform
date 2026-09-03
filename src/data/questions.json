@@ -11272,9 +11272,11 @@
       "D": "膽鹽（bile salt）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "複習胃酸分泌生理學：histamine 會刺激 parietal cell 分泌 HCl，prostaglandin (PGE2、PGI2) 則會抑制 HCl、促進胃黏膜產生，因此 (A) prostaglandin 是保護因子；此外可以記得 NSAIDs 抑制的 COX1、COX2 即是 prostaglandin 上游酵素，故使用 NSAIDs 對於胃是有傷害的\n\n攻擊因子可以分成內生性及外生性，前者包含 HCl、pepsin、pepsinogen、bile salts（膽汁逆流易刺激胃細胞導致癌化），後者常見則是藥物、酒精及 H. pylori 感染",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-21_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-21_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-22",
@@ -11289,9 +11291,11 @@
       "D": "患者可能同時有C型肝炎，是併發較嚴重酒精性脂肪肝疾病的臨床危險因子，須積極評估HCV RNA及給與治療"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，病人有明確喝酒史，合併肝臟酵素上升與影像發現脂肪肝，因此臨床懷疑酒精性脂肪肝疾病 (alcoholic fatty liver disease) 是合理的\n(B) 錯誤，與肥胖及胰島素抗性密切相關的為非酒精性脂肪肝疾病 (Nonalcoholic Fatty Liver Disease, NAFLD)，另外高血脂、C 型肝炎、Wilson's disease 與藥物如類固醇、雌激素、Amiodarone 等也可能與 NAFLD 相關\n(C) 戒酒的重要性就不贅述了（加上戒酒對酒精性脂肪肝的傷害是可逆的），不過選項後半段有涉略部分酒精性肝炎的嚴重度評估，其中一些重要的工具需要特別留意：\n\n| 評估工具 | 參考指標 | 嚴重定義 |\n| :--- | :--- | :--- |\n| **Maddrey discriminant function (MDF, 最常用)** | PT、Total bilirubin | **MDF ≥ 32 或有肝腦病變** |\n| **Glasgow alcoholic hepatitis score (GAHS)** | 年紀 (≥50 歲)、WBC、BUN、PT、Total bilirubin | **GAHS ≥ 9** |\n| **MELD score** | INR、Total bilirubin、Creatinine | **MELD > 20** |\n\n符合上述工具定義的「嚴重酒精性肝炎」，使用高劑量類固醇 prednisolone 治療經證實才是有幫助的，不過題目並沒有給予 PT、T. Bil 等檢查數值，且除了肝功能異常外並無提到其他肝炎或肝硬化症狀，出題老師可能以此暗示病人的疾病尚未進展到嚴重階段，當下戒酒和補充營養才是治療首選\n\n(D) 正確，C 型肝炎無論是酒精性或非酒精性肝病都是危險因子，目前健保給付的用藥標準為 HCV RNA(+) 的病人，一旦病毒檢測陽性均建議儘早藥物治療\n\n※ 註：雖然 Harrison 有提及肥胖也是酒精性肝病進展的風險因子之一，但不包括胰島素抗性，加上喝酒本身就是酒精性肝病最重要的原因，綜合來看選 (B) 還是比較適合",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-22_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-22_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-23",
@@ -11306,9 +11310,11 @@
       "D": "下消化道攝影與大腸鏡同為大腸癌篩檢的好方法"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "現行的大腸癌篩檢為 50~74 歲民眾，每兩年一次的「免疫」糞便潛血 (FIT) 檢查，FIT 相較病房常用的「化學」糞便潛血檢查，specificity 較高（偽陽性低），FIT 陽性者應進一步轉介大腸鏡進行確診，所以 (C) 正確、(A) 不正確；(B) 肛門指診只能篩檢直腸下半的病灶，對結腸沒有幫助；(D) 下消化道攝影（即肛門灌入鋇劑後顯影），雖可了解大腸有無阻塞、腫瘤、憩室等，但不太可能藉由下消化道攝影「早期發現」癌症，故不是好的「篩檢」方法\n\n**特殊族群的大腸癌篩檢補充**：\n1. 若是之前大腸鏡檢查發現有腺瘤 (adenoma)，且已接受息肉切除術之患者，應改為直接接受大腸鏡的追蹤檢查，不需再接受 FIT 篩檢\n2. 若有一等親於 60 歲前罹患大腸癌，應於 40 歲或於該一等親罹癌年齡提前 10 年（視何者為先）開始進行每五年一次大腸癌篩檢；若一等親罹患大腸癌的年齡大於 60 歲，則建議該民眾於 40 歲開始篩檢，篩檢間隔與一般民眾相同\n3. 遺傳性非息肉性大腸直腸癌 (HNPCC, Lynch syndrome)：疑似或基因診斷為 HNPCC 者，應於 20 至 25 歲之間開始，接受至少兩年一次大腸鏡檢查\n4. 家族性大腸息肉症 (Familial Adenomatous Polyposis, FAP)：疑似或基因診斷為 FAP 者，應從 10 至 12 歲起，每年接受大腸鏡檢查",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-23_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-23_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-24",
@@ -11323,9 +11329,11 @@
       "D": "不宜在24小時內將血鈉矯正至135 mmol/L"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，血漿滲透壓計算為 2 [Na+] + BUN / 2.8 + Glucose / 18，因此在其他數值落於正常範圍時，低血鈉的病人應會有較低的血漿滲透壓，由此可知，此病人是 hypotonic hyponatremia\n(B) 錯誤，在低血鈉的情境下，尿液滲透壓 (Uosm) 能讓我們知道體內抗利尿激素 (ADH) 的分泌情形，兩者呈正相關，Uosm 以 100（或 150）mOsm/kg H2O 為界：\n1. **< 100**：代表 ADH 的分泌受抑制，鑑別診斷包括 primary polydipsia 與 'tea & toast' diet，治療方式皆為**限水**\n2. **> 100 且 ADH 不正常分泌**：即 SIADH，需經過排除其他原因後診斷，治療方式第一步為**限水**\n3. **> 100 且 ADH 正常分泌**：ADH 反應性上升背後的原因，可能是低血容 (hypovolemic)、高血容但血管有效容積低下 (hypervolemic with EAV ↓)（各有很多鑑別診斷），其中後者的治療方式第一步也是**限水**\n\n從考試角度來看，不論 Uosm 為多少，限水都可以是治療選項；實際上，當然要鑑別出低血鈉的原因，再決定是否限水或給 saline\n\n(C) 正確，一般而言，在治療低血鈉時不會使用到 3% saline，但是當病人已經出現明顯症狀時可以使用，以本題來看，病人已經有意識障礙，因此可以考慮使用，加快鈉上升的速度\n(D) 正確，臨床上補血鈉的重要觀念，在有嚴重症狀時，補鈉的速度在 6 小時內不應超過 6 mmol/L（可以記：6 小時給 6），而且一天內也盡可能不要上升超過 6-8 mmol/L，這個選項在一天內補 20 mmol/L 很可能會出事！補太快可能導致**橋腦中央髓鞘溶解症 (central pontine myelinolysis)**",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-24_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-24_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-25",
@@ -11340,9 +11348,11 @@
       "D": "以N-acetylcysteine預防，臨床上常使用但並未證實有一致的療效，目前並不例行推薦"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 顯影劑引起之急性腎損傷 (CIN) 的發生率約 7~11%，其中發生 CIN 後需要洗腎的比率，一份大型回溯性研究統計顯示為 0.3%\n(B) 生理食鹽水在給顯影劑前就要給予，常規作法為處置前 12 小時到結束後 12 小時，輸注生理食鹽水 1 mL/kg/hr，這也是當前臨床最具實證，用以預防 CIN 的常規建議\n(C)(D) 雖有不少研究認為使用碳酸氫鹽鹼化尿液、使用 NAC 預防，比生理食鹽水輸液更佳，但不同研究間異質性過高，臨床上仍無定論，不建議常規使用\n\n**CIN 預防指引整理**：\n1. **2012 年 AHA guideline**：不建議病人在心導管前使用 NAC 預防 CIN (class III recommendation)\n2. **2012 KDIGO guideline**：認為 NAC 的預防效益不顯著，但考量其價格便宜、副作用低，建議 CIN 高風險族群可合併 NAC 與生理食鹽水預防 CIN (class 2D recommendation)；2020 年台灣急性腎損傷處置共識採納 2012 KDIGO 指引\n3. **CIN 高風險族群的其他預防方式**：停用腎毒性風險的藥品（e.g. metformin、ACEi/ARB）、給予高劑量 statin (2014 ESC guideline, class IIa recommendation)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-25_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-25_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-26",
@@ -11357,9 +11367,11 @@
       "D": "給與氯化鈣靜脈注射"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據症狀與實驗室檢查可知病人有高血鈣（正常範圍 2.2~2.6 mmol/L，病人 3.45 mmol/L）合併 AKI；另外病人有頸部淋巴結腫大，懷疑高血鈣與惡性腫瘤相關（如肺鱗狀細胞癌、淋巴瘤等）\n\n**高血鈣的初步處置步驟**：\n1. **急性期輸液**：可先在 24 小時內給予 4~6L 生理食鹽水輸液，或合併利尿劑（loop diuretics 為主，避免 thiazides，小麻則建議有體液過多才使用）\n2. **藥物治療**：高度懷疑惡性腫瘤可以給予雙磷酸鹽類 (bisphosphonates)、降鈣素 (calcitonin) 或 denosumab\n3. **鑑別病因**：檢驗血中 iPTH、磷等濃度進一步找出原因\n\n本題考的是處置方式，其中 (C) 比較接近急性酒精戒斷的處置（記得給予葡萄糖水前要先給 IV thiamine）；(D) 則是用來改善低血鈣症狀或高血鉀時穩定細胞膜電位用；至於 (B) 洗腎，建議在輸液、利尿劑、降鈣藥物等治療皆無效或符合緊急洗腎的適應症時才做，因此 (A) 最為合適，加上病人 AKI 型態初步判斷屬於腎前性，疑似體液不足，補水不會錯",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-26_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-26_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-27",
@@ -11374,9 +11386,11 @@
       "D": "中草藥腎病變"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "在洗腎王國台灣，這是不可不知的送分題！依據台灣的大型流行病學研究統計，造成 ESRD 的原發疾病：\n• **第一名**：糖尿病（約 40-50%）\n• **第二名**：慢性腎絲球腎炎 (GN, 25%)\n• **第三名**：高血壓 (8%)\n• **第四名**：慢性腎小管間質性腎炎 (TIN)\n\n小麻上寫 CKD 的成因排序則為糖尿病、高血壓 / 腎動脈狹窄、GN、TIN",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-27_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-27_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-28",
@@ -11391,9 +11405,11 @@
       "D": "immunoglobulin"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這個病人符合 thrombotic microangiopathy (TMA) 的診斷：包含 microangiopathic hemolytic anemia (MAHA) + thrombocytopenia (Plt < 15 萬) + 器官衰竭\n\n首先要知道 MAHA 的定義：\n\n| 指標 | 表現 |\n| :--- | :--- |\n| **Anemia** | Hb < 10 g/dL |\n| **Hemolysis** | Indirect bilirubin 上升、LDH 上升、haptoglobin 下降 |\n| **抹片** | 可以看到 **schistocytes (fragmented RBC)** |\n\n題目已敘述有 MAHA 加上病人 Plt 低（8 萬 < 15 萬）、AKI（Creatinine 上升到 6.2 mg/dL），因此可以確診為 TMA\n\nTMA 的鑑別診斷大致分成 2 種，鑑別方式是看 ADAMTS13 蛋白酶，它主要是能將 von Willebrand factor (vWF) 切割成適合大小使得能結合 Plt 一起堵住傷口：\n1. **TTP (Thrombotic Thrombocytopenic Purpura)**：當 ADAMTS13 不足（活性 < 10%）時診斷為 TTP，治療上要儘速進行血漿置換 (plasma exchange) 使攻擊 ADAMTS13 的抗體被洗掉並搭配類固醇以及 rituximab 作為輔助治療\n2. **HUS (Hemolytic Uremic Syndrome)**：反之，如題目中的病人，ADAMTS13 是足夠的（> 15%），那就偏向是溶血性尿毒症：\n   • **典型 HUS**：是 E. coli (O157:H7) 或是 Shigella 感染造成的結果（常有前驅腹瀉）\n   • **非典型 HUS (aHUS)**：這個病人沒有腹瀉，臨床上較排除典型 HUS，那就要考慮非典型 HUS，病因包含基因突變、移植、懷孕、惡性腫瘤等，主要是**補體路徑受到異常活化**導致，只要是 aHUS 都可使用 **anti-C5 單株抗體 (Eculizumab)** 進行治療，故選 (C)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-28_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-28_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-29",
@@ -11408,9 +11424,11 @@
       "D": "病患處於慢性發炎狀態（chronic inflammation）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腎性貧血 (renal anemia) 常在 eGFR < 30 mL/min 時出現，一般來說會是正色正球性貧血 (normocytic, normochromic)，可以把它跟慢性發炎性貧血 (anemia of chronic inflammation) 看成同類\n\n機制上，腎臟因為代謝壓力，其實是處於慢性發炎的階段，會影響到主要負責製造紅血球生成素 (erythropoietin) 的腎臟間質細胞，導致分泌量下降，因此紅血球生成素的減少是主要因素，然而部分文章也提出，CKD 導致毒素累積，也會讓骨髓細胞對紅血球生成素的反應變差，即使血中 EPO 在正常的濃度範圍，對於這些病患的造血功能也是相對缺乏的；此外，在較嚴重的慢性腎臟病患者，出血也會使他們有鐵質流失，加重腎性貧血的問題，與 EPO 缺乏相伴相成\n\n(B) 選項：這類病人只是鐵質利用率低，不代表體內鐵質存量過多，實際上是正常或過少，因為 EPO 過低也會同時影響到鐵質吸收，儲鐵量取決於慢性腎臟病的程度，較嚴重的患者合併長期出血問題，儲鐵量就會顯著地低下\n\n**KDIGO 2012 慢性腎臟病貧血指引重點**：\n1. 在成人慢性腎臟病貧血患者，不論是否有在使用紅血球生成製劑 (ESA)，如想提升血紅素、調整 ESA 劑量，或是 TSAT ≤ 30% 且 ferritin ≤ 500 ng/mL 的情況，建議給予鐵劑補充\n2. 不建議使用紅血球生成製劑將 Hb 提升超過 11.5 g/dL，特別是合併糖尿病的族群，因為同時會增加心血管併發症（e.g. 血栓、中風）；但在特定族群，例如高度出血風險，Hb 維持在 11.5-13 g/dL 是可考慮的目標，需個別評估風險與好處",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-29_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-29_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-30",
@@ -11425,9 +11443,11 @@
       "D": "腎絲球過濾率6 mL/min/1.73 m2之慢性腎臟病患者，不論有無尿毒症狀"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "只要會緊急洗腎的 AEIOU 適應症，本題基本上就穩了！再複習一次 AEIOU：\n\n| 代號 | 適應症 | 具體臨床標準 |\n| :--- | :--- | :--- |\n| **A: Acidosis (酸血症)** | 代謝性酸中毒 | 血中 pH ≤ 7.15、HCO3⁻ ≤ 16 或 HCO3⁻ 無法校正的酸血症 |\n| **E: Electrolyte (電解質異常)** | 高血鉀 | (1) K⁺ ≥ 6.0 mEq/L ± 心電圖變化<br>(2) 快速上升的 K⁺ |\n| **I: Intoxication (中毒)** | 藥物/毒物中毒 | Lithium、methanol、ethylene glycol、barbiturates、metformin 等藥物中毒 |\n| **O: Overload (水分過多)** | 體液容積過負荷 | 利尿劑無效的心腎衰竭、急性肺水腫 |\n| **U: Uremia (尿毒症)** | 尿毒併發症 | 有腦病變 (encephalopathy)、心包膜炎 (pericarditis)、出血等尿毒症狀 |\n\n題目選項只有 (D) 不符合緊急洗腎適應症，要有尿毒症狀才算；此外 Harrison 也提到沒有絕對的血清肌酸酐、尿素氮或 eGFR 數值可作為洗腎的 cutoff value，可參閱【112-2(三)24】",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-30_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-30_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-31",
