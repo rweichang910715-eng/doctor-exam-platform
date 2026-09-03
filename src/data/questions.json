@@ -12410,9 +12410,11 @@
       "D": "3～6歲的兒童可以使用含氟量1000 ppm的牙膏刷牙"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據衛生福利部國民健康署《兒童健康手冊》之「兒童口腔保健」指引：\n\n• **(A) 正確**：喝完母奶或配方奶後，家長應用乾淨紗布巾沾溫開水幫寶寶清潔口腔、牙齦、舌頭及長出的牙齒\n• **(B) 錯誤**：在長出第一顆牙後（約 6 個月大）至一歲期間應帶寶寶看牙醫建立「口腔健康之家 (Dental Home)」；**政府補助 6 歲以下兒童每「半年」進行一次牙齒塗氟（至少每 6 個月檢查一次）**，非每一年（選 B 錯誤）\n• **(C) 正確**：幼兒約 12 個月（一歲）左右應開始戒斷奶瓶餵奶改用杯子，避免含奶瓶入睡引發早發性幼兒齲齒 (Early childhood caries, ECC)\n• **(D) 正確**：3～6 歲兒童刷牙應使用含氟量 **1000 ppm** 之含氟牙膏（每次用量約一顆豌豆大小 pea-sized）以達防齲效果",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-1_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-1_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-2",
@@ -12427,9 +12429,11 @@
       "D": "還不會揮手再見"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "嬰幼兒動作與神經發展里程碑（必背口訣：「**二抬四翻六坐七滾八爬九站周會走**」）：\n\n| 年齡階段 | 粗動作 (Gross motor) | 細動作與手眼協調 | 語言與社會性認知 |\n| :--- | :--- | :--- | :--- |\n| **6 個月** | • 翻身 (Roll over)<br>• 雙手支撐短暫坐 | • 伸手抓物、雙手互換物品 | • 發出單音 (baba, mama) |\n| **7～8 個月** | • **自己坐穩數分鐘 (Sit without support)**<br>• 匍匐前進、腹部貼地爬行 | • 拇指與其餘四指對抓 (Raking grasp) | • 認生 (Stranger anxiety) |\n| **9 個月** | • **扶著家具站立 (Cruising / Pull to stand)**<br>• 腹部離地爬行 (Creeping)<br>• **由躺著翻身坐起來** | • **以拇指和食指抓捏小物 (Pincer grasp)** | • 拍手、對名字有反應、聽懂「不可以」 |\n| **10～12 個月** | • 獨自站立數秒<br>• 牽一手可走幾步<br>• 一歲左右獨立行走 | • 拍手 (Clapping)<br>• **揮手說再見 (Wave bye-bye)**<br>• 將積木放入杯中 | • 有意識叫「爸爸、媽媽」<br>• 聽懂簡單指令 |\n\n題目設定為 **9 個月大幼兒**：\n• (A) **坐穩是 7 個月就應具備的能力**，若 9 個月大「還不會自己坐穩數分鐘」為明確之**動作發展遲緩警訊**（選 A）\n• (B) 扶著站為 9-10 個月發展能力\n• (C) 躺著坐起來涉及較複雜之協調動作，9 個月未完全熟練尚屬可觀察範圍\n• (D) 揮手再見為 10-12 個月發展指標",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-2_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-2_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-3",
@@ -12444,9 +12448,11 @@
       "D": "prematurity"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "嬰兒囟門 (Fontanel) 之大小與閉合時程生理：\n• **前囟門 (Anterior fontanel)**：出生時約 2 × 2 cm，通常於 **12～18 個月大**閉合（最早 9 個月，最晚不超過 24 個月）\n• **後囟門 (Posterior fontanel)**：出生時極小或僅容指尖，通常於 **出生後 6～8 週（2 個月內）**閉合\n\n**前囟門過大 (Large anterior fontanel) 或延遲閉合 (Delayed closure) 之原因**：\n\n| 機轉分類 | 常見疾病與病因 |\n| :--- | :--- |\n| **骨骼骨化不良 / 骨發育異常** | • **軟骨發育不全 (Achondroplasia)**（軟骨內骨化障礙造成大頭、前額突出、前囟門大）<br>• **骨質發育不全 (Osteogenesis imperfecta)**<br>• **鎖骨顱骨發育不良 (Cleidocranial dysostosis)** |\n| **內分泌與代謝障礙** | • **先天性甲狀腺功能低下 (Congenital hypothyroidism)**（骨骼發育遲緩之經典病徵）<br>• **佝僂病 (Rickets)**（維生素 D 缺乏導致骨質礦化不足） |\n| **染色體異常與先天因素** | • **唐氏症 (Down syndrome / Trisomy 21)**<br>• **早產兒 (Prematurity)**（顱骨尚未發育成熟） |\n| **顱內壓增高 (Increased ICP)** | • 水腦症 (Hydrocephalus)、顱內腫瘤、腦膜炎 |\n\n選項分析：\n• **(C) 缺氧事件 (Hypoxic event)**：嚴重周產期窒息缺氧會引起腦組織損傷萎縮，導致**小頭症 (Microcephaly)** 與前囟門提早閉合或狹小，**不會引起前囟門過大**（選 C）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-3_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-3_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-4",
@@ -12461,9 +12467,11 @@
       "D": "Hirschsprung disease"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "臨床病史與表徵分析：\n• **32 週早產兒、出生體重 1650 g（極低/低出生體重兒 VLBW/LBW）**\n• 出生第 4 天出現**腹部鼓脹 (abdominal distension)、腸音減弱、肚臍周圍皮膚發紺/瘀青（腹膜炎與腸缺血壞死徵兆）**\n\n鑑別診斷分析：\n\n| 疾病名稱 | 流行病學與臨床關聯 | 典型特徵與符合度 |\n| :--- | :--- | :--- |\n| **壞死性小腸結腸炎 (NEC)** | **早產兒與低出生體重最常見之消化道急症** | 餵奶後腹脹、胃殘餘量增加、便血、腸壁積氣 (Pneumatosis intestinalis)、肚臍周圍皮膚發紺（完全符合） |\n| **腸穿孔 (Intestinal perforation)** | NEC 惡化、自發性腸穿孔 (SIP) | 腹膜炎引起腹壁變色發紺與氣腹 (Pneumoperitoneum)（完全可能） |\n| **腸扭轉 (Intestinal volvulus)** | 胚胎旋轉不良 (Malrotation) | 突發性膽汁性嘔吐伴隨腸缺血壞死與腹膜炎（可能發生） |\n| **先天性巨結腸症 (Hirschsprung disease)** | **> 90% 見於足月兒 (Term infants)** | **早產兒極罕見！**主要表現為**出生後 > 48 小時未排胎便 (Delayed meconium passage)** 與慢性便秘（最不可能，選 D） |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-4_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-4_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-5",
@@ -12478,9 +12486,11 @@
       "D": "核黃疸（kernicterus）是因未鍵結型（unconjugated）膽紅素沉積於基底核（basal ganglia）及腦幹神經核（brainstem nuclei）造成的"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "新生兒黃疸 (Neonatal jaundice) 診斷與危險因子分析：\n\n• **(A) 正確**：新生兒黃疸依循由頭向腳進行之規律 (**Cephalocaudal progression**)；臨床經驗評估（Kramer's rule）：臉部約 5 mg/dL、胸部約 10 mg/dL、腹部約 15 mg/dL、四肢手腳心 > 20 mg/dL\n• **(B) 錯誤**：嚴重高膽紅素血症危險因子包含出生 < 24 小時內黃疸、母子血型不合 (ABO/Rh incompatibility)、溶血性疾病 (G6PD 缺乏症)、頭皮血腫 (Cephalohematoma)、**早產兒（出生週數 35-36 週）**；**「出生週數 ≥ 41 週」因肝臟酵素成熟度佳，反而是黃疸的「保護因子（降低風險）」**，故 (B) 敘述為錯誤（選 B）\n• **(C) 正確**：哺餵母乳之嬰兒因腸道蠕動或母乳成分使腸道內結合型膽紅素被水解，**增加腸肝循環 (Enterohepatic circulation)**，使黃疸持續時間較長\n• **(D) 正確**：核黃疸 (Kernicterus) 是未結合型膽紅素 (Unconjugated / Indirect bilirubin) 穿過未成熟之血腦障壁 (BBB)，沉積於**基底核 (Basal ganglia) 與腦幹神經核**造成不可逆之神經毒性傷害\n\n**哺乳性黃疸 vs 母乳性黃疸比較**：\n\n| 鑑別項目 | 哺乳性黃疸 (Breastfeeding jaundice) | 母乳性黃疸 (Breast milk jaundice) |\n| :--- | :--- | :--- |\n| **又稱** | 哺乳不足性黃疸 / 脫水性黃疸 | 延遲性母乳黃疸 |\n| **好發時間** | **出生後 2～4 天（第 1 週內）** | **出生後 4～7 天開始，第 2～3 週達高峰**（可持續 3-12 週） |\n| **核心病因** | **母乳攝取量不足**導致脫水、排便減少、膽紅素腸肝循環增加 | 母乳中含有 **β-glucuronidase** 等成分，將腸道結合膽紅素解離為非結合膽紅素再度吸收 |\n| **臨床處置** | **增加哺乳頻率與攝取量**（必要時補配方奶或水分） | 寶寶活動力佳體重增長正常，多數觀察即可（極高時可暫停母乳 2-3 天） |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-5_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-5_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-6",
@@ -12495,9 +12505,11 @@
       "D": "先天性心臟病仍是先天性畸形兒童中，最常見的死亡原因"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "先天性心臟病 (Congenital Heart Disease, CHD) 之流行病學特徵：\n\n• **盛行率與好發族群**：\n  - 活產新生兒中 CHD 盛行率約為 **0.8～1%（約每千名活產新生兒 8 名）**\n  - **早產兒與死產胎兒 (Stillbirth) 中先天性心臟病的比例顯著高於一般足月健康新生兒**（A 正確）\n  - 先天性心臟病仍高居先天畸形兒童死亡原因的首位（D 正確）\n• **嚴重度與診斷時程**：\n  - **大部分 CHD 為無症狀或輕微之非發紺型缺陷（最常見為小型心室中隔缺損 VSD、心房中隔缺損 ASD）**，在新生兒期常無任何臨床症狀，多在日後體檢聽診發現心雜音時才被診斷\n  - **嚴重危急型先天性心臟病 (Critical CHD) 僅佔約 25%（1/4）**；因此「絕大多數在出生 1 個月內被診斷」之敘述完全錯誤（選 B 錯誤）\n• **預後改善**：\n  - 受惠於兒科心臟醫學與小兒心臟外科手術進步，超過 85-90% 的先天性心臟病病童可順利存活長大成人，使成人先天性心臟病 (ACHD) 患者比例逐年顯著增加（C 正確）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-6_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-6_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-7",
@@ -12512,9 +12524,11 @@
       "D": "法洛氏四重症（tetralogy of Fallot）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "心電圖判讀與小兒心軸異常分析：\n\n• **心電圖波形判讀步驟**：\n  1. **心律與心跳**：Sinus tachycardia（心律規則，每個 QRS 前均有正常 P 波，PR interval 正常無傳導阻滯，心率約 120 bpm）\n  2. **心軸判定 (QRS Axis)**：\n     - **Lead I 為負向波（以 S 波為主）**\n     - **Lead II / III / aVF 為強烈正向波（以 R 波為主）**\n     - **判定結果：心軸右偏 (Right Axis Deviation, RAD，約 +120° 至 +150°)**\n  3. **右心肥厚 (Right Ventricular Hypertrophy, RVH) 與右房擴大 (RAH)**：V1 呈現高 R 波、aVR 正向\n\n**選項心臟病之血流動力學與心軸對照**：\n• (A) **ASD (心房中隔缺損)**：右心室容量負荷過重 (Volume overload) → 右心室肥大 → **心軸右偏 (RAD)**\n• (B) **PS (肺動脈瓣狹窄)**：右心室壓力負荷過重 (Pressure overload) → 右心室肥厚 → **心軸右偏 (RAD)**\n• (D) **TOF (法洛氏四重症)**：肺動脈漏斗部狹窄導致嚴重右心室肥厚 → **心軸右偏 (RAD)**\n• (C) **Coarctation of Aorta (主動脈弓窄縮)**：窄縮位於主動脈，導致**左心室後負荷 (Afterload) 大幅增加**，引起**左心室肥大 (LVH) 與心軸左偏 (Left Axis Deviation, LAD)**，最不可能出現心軸右偏與右心肥大（選 C 最不可能）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-7_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-7_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-8",
@@ -12529,9 +12543,11 @@
       "D": "給與支氣管擴張劑（β2 agonist）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "法洛氏四重症 (Tetralogy of Fallot, TOF) 包含：(1) VSD、(2) 肺動脈漏斗部狹窄 (RVOT obstruction)、(3) 主動脈跨位、(4) 右心室肥厚\n\n**缺氧發作 (Tet spell / Hypercyanotic spell) 機轉與急救處置**：\n• **病理生理機轉**：常誘發於早晨剛醒、哭鬧、用力或脫水時，因漏斗部肌肉痙攣 (Infundibular spasm) 或全身血管阻力 (SVR) 下降，導致**右至左分流 (Right-to-left shunt) 劇增**，大量缺氧血進入體循環引發急性嚴重發紺、呼吸喘促與昏厥\n• **標準急救處置原則**：\n\n| 處置步驟 | 治療方式與藥物 | 作用機轉與目的 |\n| :--- | :--- | :--- |\n| **第一步：姿勢處置** | **膝胸臥位 (Knee-chest position / 蹲踞 Squatting)** | **彎曲下肢動脈以增加全身周邊血管阻力 (SVR ↑)**，逆轉右至左分流，迫使血液流向肺動脈（B 正確） |\n| **第二步：氧氣與鎮靜** | • **高濃度氧氣 (100% O2)**<br>• **Morphine (0.1-0.2 mg/kg SC/IV)** | • 氧氣改善組織缺氧並促使肺血管擴張<br>• **Morphine 鎮靜大腦呼吸中樞、平撫哭鬧不安**並放鬆漏斗部痙攣（A、C 正確） |\n| **第三步：輸液擴容** | **靜脈輸液 (IV fluid bolus)** | 增加右心室前回流血量 (Preload ↑) 與心輸出量 |\n| **第四步：升壓藥物** | **Phenylephrine (純 α1-agonist)** | **強力收縮體循環小動脈以大幅提高 SVR**，強迫血液通過狹窄之右心室流出道進入肺循環 |\n| **第五步：β-blocker** | **Propranolol (IV)** | 降低心跳、解除右心室漏斗部肌肉痙攣 |\n| **第六步：酸中毒校正** | **Sodium bicarbonate (NaHCO3)** | 改善代謝性酸中毒，打破酸中毒誘發之肺血管收縮惡性循環 |\n\n• **(D) 錯誤**：**β2-agonist (如 Albuterol/Salbutamol) 會引發體循環周邊血管擴張 (SVR ↓) 及心搏過速**，將使右至左分流進一步惡化，為禁忌用藥（選 D 錯誤）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-8_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-8_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-9",
@@ -12546,9 +12562,11 @@
       "D": "病毒去氧核糖核酸（HBV DNA）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "10 歲兒童血清 **anti-HBs 陽性（表面抗體陽性）**之血清學免疫狀態鑑別：\n\n• **(A) anti-HBc IgM**：代表**急性 B 型肝炎感染**或慢性 B 肝急性發作（Window period 唯一可測之標記），無法鑑別過去自然感染痊癒 vs 疫苗接種\n• **(B) anti-HBc IgG（核心抗體 IgG）**：\n  - **核心抗原 (HBcAg) 僅存在於完整 B 肝病毒顆粒內**，只有真正遭受過 HBV 病毒自然感染者，免疫系統才會產生 anti-HBc 抗體\n  - **重組 B 肝疫苗 (Recombinant HBV vaccine) 僅含有純化之表面抗原 (HBsAg)**，接種疫苗者體內**只會產生 anti-HBs，絕對不會產生 anti-HBc**\n  - 因此檢測 **anti-HBc IgG 陽性代表曾受自然感染痊癒，陰性則代表單純接種疫苗產生免疫力**（選 B 最能區別）\n• **(C) HBsAg / (D) HBV DNA**：代表體內現存病毒血症與活動性帶原感染狀態\n\n**B 型肝炎血清學指標全對照表**：\n\n| 感染 / 免疫狀態 | HBsAg (表面抗原) | anti-HBs (表面抗體) | HBeAg (e抗原) | anti-HBe (e抗體) | anti-HBc IgM | anti-HBc IgG |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n| **急性 B 肝感染期** | **(+)** | (-) | **(+)** | (-) | **(+)** | (-) / (+) |\n| **空窗期 (Window period)** | (-) | (-) | (-) | (+)/(-) | **(+)** | (+) |\n| **過去感染已康復 (自然免疫)** | (-) | **(+)** | (-) | (+) | (-) | **(+)** |\n| **疫苗接種成功 (疫苗免疫)** | (-) | **(+)** | (-) | (-) | (-) | **(-)** |\n| **慢性 B 肝帶原者** | **(+)** | (-) | (+)/(-) | (-)/(+) | (-) | **(+)** |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-9_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-9_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-10",
@@ -12563,9 +12581,11 @@
       "D": "腦部電腦斷層檢查（computed tomographic scan of the brain）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "臨床病史與表徵分析：\n• **4 週大男嬰（好發年齡 2～8 週，男嬰多於女嬰 4:1）**\n• **餵奶後噴射狀嘔吐 (Projectile non-bilious vomiting)**\n• 嘔吐物為**凝乳塊、完全無膽汁 (Non-bilious)**（代表阻塞位置在十二指腸壺腹 Vater papilla 之前）\n• 身體檢查：前囟門凹陷、心搏過快（脫水與低血氯性低血鉀代謝性鹼中毒）；**右上腹摸到如橄欖狀質硬腫塊 (Palpable olive-shaped mass)**\n\n**診斷首選與影像特徵**：\n• **診斷首選工具：腹部超音波 (Abdominal ultrasonography)（選 B 首選）**\n  - 非侵入性、無輻射線且診斷敏感度與特異度皆高達 95～100%\n  - **超音波診斷標準 (Rule of 3-4-14-17)**：\n    1. **幽門肌肉層厚度 (Pyloric muscle thickness) ≥ 3 mm（或 ≥ 4 mm）**\n    2. **幽門前後總直徑 (Pyloric diameter) ≥ 13～14 mm**\n    3. **幽門管長度 (Pyloric channel length) ≥ 15～17 mm**\n• (A) 電腦斷層具輻射且非第一線工具；(C)(D) 腦部檢查無此適應症；腹部 X 光非必須，但可見胃部擴大積氣伴隨單一氣泡徵 (Single bubble sign)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-10_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-10_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-11",
