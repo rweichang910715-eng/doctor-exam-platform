@@ -12960,8 +12960,8 @@
       "D": "常合併心臟腫瘤"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "看到咖啡牛奶斑、軟瘤，可以推測這名男童有神經纖維瘤 (neurofibromatosis)，底下附上神經纖維瘤的重點整理：\n\n| 神經纖維瘤 (Neurofibromatosis) | | |\n| :--- | :--- | :--- |\n| **分型** | **NF-1 (von Recklinghausen disease)** | **NF-2** |\n| **比例** | 較多 (90%) | 較少 (10%) |\n| **診斷條件** | 1. 咖啡牛奶斑：≥ 6 個（青春期後 >15 mm / 前 >5 mm）<br>2. 腋下、鼠蹊雀斑<br>3. Lisch nodules（虹膜上的 hamartoma）：≥ 2 個（Lisch nodules 為 NF-1 特有的徵象）<br>4. 神經纖維瘤：≥ 2 個（或 ≥ 1 個的叢狀纖維瘤）<br>5. 骨頭病變：蝶骨、脛骨等長骨病變，也常脊椎側彎<br>6. 視神經膠質瘤 (optic glioma)：大部分視力正常<br>7. 一等親患有 NF-1<br><br>以上至少出現 2 項即可確診 | 兩側聽神經瘤<br><br>或<br><br>一等親或兄弟姐妹有 NF-2 且<br>(1) 有單側聽神經瘤<br>(2) 室管膜瘤、腦膜瘤、神經鞘瘤、青少年後囊下性白內障 |\n| **其他特性** | 各式內分泌異常：兒童最常見性早熟，但腦垂腺機能、生長激素皆可能過度或不足；成人會增加罹患嗜鉻細胞瘤的風險<br>智能障礙：可能和腦部發育異常有關 | 視網膜的 hamartoma |\n| **遺傳率** | 50% 體顯性（另外 50% 自發性） | 100% 體顯性 |\n| **染色體異常** | 17q11.2 | 22q1.11 |\n\n(A) 正確，有許多文獻記載 NF-1 病人的智能障礙比率較高（約佔 NF-1 病人 1/3 至 1/2），但是大部分程度屬於輕微至中等，嚴重智能障礙反而很少見\n(B) 錯誤，筆者認為這裡視網膜色素沈著不全指的是視網膜色素變性 (retinitis pigmentosa)，這個疾病是遺傳性的視網膜病變，導致視網膜上的感光細胞異常，每個人的視覺影響不同，有些人終身保留視力，但有些人幾年就面臨失明，早期多以夜盲症來表現，而後視野會逐漸縮小（從周圍開始往內縮），NF-1 病人有少數案例合併此疾病，有文獻提及 NF-1 會影響視網膜神經功能，但這並非 NF-1 病人常見的表現\n(C) 錯誤，雖然根據文獻，確實在 NF-1 的病人當中，青光眼的比例會比平常人高，但並不常見，只有約 1-2% 的神經纖維瘤病人伴有青光眼\n(D) 錯誤，neurofibroma 確實有可能長在心臟，但是算是很罕見的表現，但除了心臟腫瘤外，有其他心血管的發育異常也跟 NF1 基因的 deletion 有關，因此會建議有 NF-1 的病人進行心血管結構的檢查，另一神經皮膚症候群「結節性硬化症」(tuberous sclerosis complex, TSC)，約半數患者會有心臟橫紋肌瘤 (cardiac rhabdomyoma)\n\n參考資料：\n1. M Kinori, N Hodgson & JL Zeid. (2018). Ophthalmic manifestations in neurofibromatosis type 1. Survey of ophthalmology, 63(4), 518-533\n2. M Venturin, et al. (2004). Mental retardation and cardiovascular malformations in NF1 microdeleted patients point to candidate genes in 17q11. 2. Journal of medical genetics, 41(1): 35-41",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-31_merged.png",
     "explanation_images": null
   },
   {
@@ -12977,8 +12977,8 @@
       "D": "鐮刀型貧血症（sickle cell anemia）的兒童罹患沙門氏桿菌腸胃炎，需要使用抗生素治療"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "若無特別指稱，指的是非傷寒沙門氏菌 (nontyphoidal salmonella)，要感染 10⁵ 以上菌數才足以致病（比較：Shigella 感染 10-100 菌數就能致病），其潛伏期 6-72 小時，通常是 12-36 小時後有症狀，會噁心、嘔吐、腹瀉、腹絞痛和發燒等，症狀通常 72 小時內自行好轉，沙門氏桿菌腸胃炎一般不須抗生素治療，水分和電解質補充即可，但以下情況需使用抗生素：\n1. 新生兒（< 3 個月）、年長者\n2. 疑似菌血症（5%，暫時且良性的）或腸道外感染\n3. 免疫功能低下者（血液腫瘤病人、HIV 患者、接受器官移植者等）\n4. 有人造植入物者（人工血管、心瓣膜、人工關節等）\n5. 鐮刀型貧血患者（特別：若一鐮刀型貧血患者有 osteomyelitis，必須優先想到 salmonella 感染）\n\n抗生素要選擇能進入胞內作用的藥物，一般使用第三代頭孢子類 (e.g. Ceftriaxone)、Fluoroquinolone 類或 Baktar（又 FQ 少使用於兒童）\n\n關於比較傷寒和非傷寒沙門氏菌的表格，整併列於【112-2(三)77】，建議一起複習",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-32_merged.png",
     "explanation_images": null
   },
   {
@@ -12994,8 +12994,8 @@
       "D": "Leber hereditary optic neuropathy（LHON）男性發病機率低於女性"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "考很細的一題，除非對粒線體疾病很熟要不然真的很難作答\n【112-2(四)33】又考！\n\n(A) 粒線體為進行有氧呼吸的重要胞器，也因此被氧化壓力 (oxidative stress) 破壞的風險較其他胞器高；加上粒線體缺乏組蛋白 (histone) 保護 DNA 結構，且修復的機制較少，上述原因均造成 mtDNA 比細胞核 DNA 更容易突變，其機率約為後者的 10~17 倍\n(B) 耗能愈大的組織 / 器官受到粒線體疾病的影響愈大，例如神經和肌肉組織，典型的神經症狀包含癲癇、肌痙攣、半側感覺運動異常、半側偏盲、認知功能下降等；肌肉症狀包含眼肌麻痺、顏面肌無力、萎縮、橫紋肌溶解等\n(C) MELAS (Mitochondrial Encephalomyopathy with Lactic Acidosis and Stroke-like episodes)，為粒線體 tRNA 點突變造成腦病變、肌肉病變、乳酸中毒、類中風症狀的一種症候群，臨床上超過 80% 的 MELAS 與 m.3243A>G 突變相關；10% 則與 m.3271T>C 突變相關\n(D) 錯誤，Leber hereditary optic neuropathy (LHON) 為粒線體 mRNA 點突變造成視神經病變的一種疾病，也是最常見的遺傳性粒線體疾病（母系遺傳），發生率為男性 > 女性 (9:1)，且多數病人在青春期便會出現視力模糊、失明等症狀\n\n參考資料：HA Tuppen, et al. (2010). Mitochondrial DNA mutations and human disease. Biochimica et Biophysica Acta (BBA)-Bioenergetics, 1797(2), 113-128",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-33_merged.png",
     "explanation_images": null
   },
   {
@@ -13011,8 +13011,8 @@
       "D": "human immunodeficiency virus（HIV）感染者若有脂漏性皮膚炎，其脂漏性皮膚炎會比較嚴重"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "基本題，乾癬常合併乾癬性關節炎發生，脂漏性皮膚不會有關節侵犯\n(A) 乾癬與脂漏性皮膚炎主要以臨床表現診斷及區分，過去針對兩者皮膚切片的研究認為兩者在皮膚結構上有所差異，但免疫染色對於鑑別沒有幫助，也就是說在部分病灶結構相似的個案，皮膚切片是無法鑑別兩者的\n(C)(D) 在乾癬患者身上，發生 HIV 感染時可能會以乾癬再發或皮膚病灶惡化做為臨床表現，可能和 HIV 造成免疫系統的細胞激素異常表現有關（包含 IFN-γ 與 TNF-α）；而在 HIV 患者發生的脂漏性皮膚炎會較為嚴重，目前認為可能和免疫缺乏時，皮膚表面有較高比例的 Malassezia furfur 移生有關",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-34_merged.png",
     "explanation_images": null
   },
   {
@@ -13028,8 +13028,8 @@
       "D": "抽血驗過敏原是診斷刺激性接觸性皮膚炎的主要方法"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "| 分類 | 刺激性接觸性皮膚炎 | 過敏性接觸性皮膚炎 |\n| :--- | :--- | :--- |\n| **機轉** | 接觸化學物質引起（並非過敏） | 接觸到抗原引起 |\n| **sensitization** | 無（並非過敏） | 有：先前已接觸過過敏原（才能產生對抗特定抗原的 T cell） |\n| **範圍** | 侷限於接觸位置、界線清楚 | 不侷限於接觸位置 |\n| **發作速度** | 一般情況（接觸到刺激性強的物質）是急性，通常很快便發作（數分鐘至數小時內）；但也可能為慢性，請見 (A) 詳解 | 是 type IV (cell-mediated), delayed type, hypersensitivity，在接觸後通常要 12 小時以上才會反應（48-72 小時最明顯） |\n| **檢驗方法** | 無，只能從病史去推測 | Patch Test：將過敏原貼在後背上 1-2 天，於第 4-7 天察看有無過敏反應 |\n| **治療** | 避免接觸引起皮膚炎的物質，可以用局部類固醇緩解症狀<br>過敏性結構性皮膚炎另外可用抗組織胺緩解過敏症狀 |\n\n(A) 筆者認為這個選項有爭議，刺激性接觸性皮膚炎有一種類型是 chronic (cumulative)，定義為 6 週以上才出現症狀者與反覆接觸刺激性較弱的物質，皮膚不及修復而持續受損有關，比如碰水碰久了開始出現皮膚炎，在一開始碰水可能不會有任何症狀，選項敘述不完全正確\n(B)(C) 皆正確，請參考上表\n(D) 錯誤，刺激性接觸性皮膚炎沒有特殊檢驗方法可以找到引起的物質，更何況，即使是過敏性，也不常以抽血來檢驗過敏原，大部分是透過 patch test",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-35_merged.png",
     "explanation_images": null
   },
   {
@@ -13045,8 +13045,8 @@
       "D": "可考慮藥物治療，如使用imiquimod cream"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(B) 傳染性軟疣是由痘病毒科的傳染性軟疣病毒 (molluscum contagiosum virus, MCV) 感染所致，以下簡要的與病毒疣 (viral warts) 比較：\n\n| | 病毒疣 | 傳染性軟疣 |\n| :--- | :--- | :--- |\n| **病毒** | 人類乳突病毒 HPV<br>尋常疣以 type 2, 4 最多（乳突病毒科，DNA） | 傳染性軟疣病毒 MCV（痘病毒科，DNA） |\n| **外觀** | 表面粗糙、向外突出之尖凸或顆粒狀 | 表面光滑的水珠樣，中央凹陷成肚臍狀 |\n| **好發位置** | 外露部位（手掌、腳掌、臉上）<br>生殖器 | 穿衣部位（軀幹、腋下、大腿、肘窩）<br>生殖器 |\n| **傳染方式** | 直接接觸（含性接觸）、間接接觸（如汗衣、毛巾） |\n| **診斷** | 外觀視診、必要時皮膚取樣診斷 |\n| **治療** | 治療機轉不外乎 (a) 直接破壞病毒疣 (b) 刺激免疫反應以對抗被感染之細胞<br>1. 觀察：疣可能自行消退，但怕傳染給他人，多半建議治療<br>2. 冷凍療法：最常用<br>3. 外用藥膏：免疫調節劑 imiquimod 或酸性藥膏如水楊酸、A 酸<br>（治療詳述可見【112-2(四)37】詳解） |\n\n註：常見病毒疣包括尋常疣 (verruca vulgaris/common warts)、扁平疣 (verruca planae/flat wart)、足部疣 (verruca plantaris/plantar wart)、尖形濕疣（俗稱菜花，condyloma acuminata）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-36_merged.png",
     "explanation_images": null
   },
   {
@@ -13062,8 +13062,8 @@
       "D": "同樣的致病原也可能侵犯毛囊造成毛囊發炎"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "KOH 檢查可見 spaghetti and meatballs sign，加上病灶分布在背上，是汗斑 (pityriasis versicolor，又稱花斑癬、變色糠疹) 的典型表現\n(A) 汗斑為馬拉色氏雷菌 (Malassezia furfur) 感染造成，為雙型性真菌；spaghetti and meatballs sign 就是由菌絲和出芽狀的酵母菌樣孢子組成\n(B) 足癬 (tinea pedis，又稱香港腳) 為皮膚絲狀菌中的 Trichophyton rubrum 感染造成，與汗斑的致病原不同\n(C) 汗斑的第一線治療為外用抗真菌藥膏，含有 ketoconazole, econazole 或 terbinafin 成分的藥膏均具有療效，無效者才改用口服 fluconazole, itraconazole 治療\n(D) 正確，馬拉色氏雷菌是皮膚常在菌，喜歡生長在皮脂腺豐富的區域如頭皮、前胸、後背等；因此感染除了皮膚外也可能侵犯皮脂腺與毛囊，造成脂漏性皮膚炎、毛囊炎\n\n| 感染深度 | 微菌 | 疾病 |\n| :--- | :--- | :--- |\n| **表層皮膚** | 馬拉色氏雷菌 (Malassezia furfur) | 汗斑、脂漏性皮膚炎 |\n| **皮膚** | 皮膚絲狀菌 (dermatophytes) | 頭癬、體癬、足癬（香港腳）、灰指甲 |\n| **皮下組織** | 申克氏孢子菌 (Sporothrix schenckii) | 皮下結節、潰瘍→玫瑰園丁病 |\n| | 疣狀瓶黴菌 (Phialophora verrucosa) | 疣狀病灶→著色黴菌病 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-37_merged.png",
     "explanation_images": null
   },
   {
@@ -13079,8 +13079,8 @@
       "D": "角化棘皮瘤（keratoacanthoma）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "病理切片顯示皮下有增多的角質化構造，可使用排除法選出答案：\n(A) 尋常疣應會看到表皮層增厚、多出許多空泡細胞 (koilocyte)\n(B) 基底細胞癌：會看到不典型的基底細胞、出現 nuclear palisading（腫瘤外圈細胞的細胞核垂直於腫瘤表面），巨觀看起來像潰瘍\n(D) 角化棘皮瘤（常考！）：為良性皮膚腫瘤，但病理上與 SCC 相似，巨觀上呈現圓頂結節狀、中央填塞角質，像是火山口的型態",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-38_merged.png",
     "explanation_images": null
   },
   {
@@ -13096,8 +13096,8 @@
       "D": "血清ANA檢查常呈陽性"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "systemic sclerosis（就是 systemic scleroderma）在皮膚科、風濕免疫科都是重要考點\n\n| 全身性硬化症 (systemic sclerosis) | | |\n| :--- | :--- | :--- |\n| **病理機轉** | 免疫失調導致血管病變（管壁發炎、狹窄）與纖維化 (Th2 產生 TGF-β) | |\n| **分型** | **limited（又稱 CREST syndrome）** | **diffuse** |\n| **影響範圍** | 常只有遠端肢體（手肘、膝蓋以下） | 常包含軀幹 |\n| **預後** | 較好（進展較慢） | 較差（進展較快） |\n| **特性** | **C**alcinosis cutis：皮下鈣化<br>**R**aynaud's phenomenon：雷諾氏現象<br>**E**sophageal dysmotility：食道運動障礙<br>**S**clerodactyly：指硬化<br>**T**elangiectasis：微血管擴張 | 間質性肺病：最常見死因<br>renal crisis：因腎動脈血管阻塞 |\n| **抗體** | 常有 anti-centromere (+) | 常有 anti-topoisomerase (+) (anti-Scl-70) |\n\n(A) 正確，Raynaud's phenomenon 是全身性硬化症最早也最常出現的症狀，但並非硬化症特有！自體免疫疾病導致的是 secondary Raynaud's phenomenon（微血管會變形），SLE、皮肌炎等也都可能產生，Primary Raynaud's phenomenon 則是因為天冷、情緒等造成血管收縮而導致（微血管不會變形），關於原發性與次發性雷諾氏現象，可參考【112-2(三)11】的比較表格\n(B) 錯誤，Heliotrope sign 是皮肌炎 (dermatomyositis) 的典型皮疹\n(C) 正確，食道運動障礙除了吞嚥困難外，主要影響下段食道，因此更常發生胃食道逆流\n(D) 正確，Harrison 裡面提到幾乎全部的全身性硬化症患者（即使疾病早期也是）都能測到血清 ANA 呈現陽性\n\n其他考點：\n• 全身性硬化症的治療，請見【112-2(四)40】\n• 食道是全身性硬化症最常侵犯的內臟器官\n• Raynaud phenomenon 治療以保暖為主，可以輔以鈣離子阻斷劑 (CCB)，但是不可使用 β-blocker，可能讓血管收縮更嚴重，導致指頭壞死！\n• Scleroderma renal crisis 要以 ACEI 積極降壓，不可用 NSAID、類固醇！",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-39_merged.png",
     "explanation_images": null
   },
   {
@@ -13113,8 +13113,8 @@
       "D": "bullous pemphigoid"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "自體免疫水泡病為病患產生自體抗體，攻擊表皮或與真皮交界的 cell junction 蛋白，產生發炎反應後，導致皮膚特定部位裂解、形成水泡\n\n皮膚表皮層 5 層（由淺入深）：stratum corneum（角質層）、stratum lucidum（透明層）、stratum granulosum（顆粒層）、stratum spinosum（棘狀層）、stratum basale（基底層）\n\n| 疾病 | 裂解、形成水泡處（由淺入深） |\n| :--- | :--- |\n| **pemphigus foliaceus（落葉型天皰瘡）** | 角質層下 (subcorneal) |\n| **pemphigus vulgaris（尋常型天皰瘡）** | 基底層上 (suprabasal) |\n| **pemphigus vegetans（增殖型皰瘡，罕見）** | 基底層上 (suprabasal) |\n| **bullous pemphigoid（類天疱瘡）** | 表皮層之下 (subepidermal)，與真皮交界處 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-40_merged.png",
     "explanation_images": null
   },
   {
