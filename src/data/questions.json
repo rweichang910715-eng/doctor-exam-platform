@@ -13300,8 +13300,8 @@
       "D": "進行性上眼神經核麻痺症（progressive supranuclear palsy）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Multiple system atrophy (MSA) 是一種 atypical parkinsonian（或稱 Parkinson's plus syndrome，巴金森氏疊加綜合症），影響到的部分包含小腦、基底核、腦幹，因此除了動作協調出問題之外，也會有自律神經異常的表現，因此會有如題幹敘述的姿勢性低血壓、性功能障礙等自律神經反射失常現象，而「動作遲緩」以及「步態不穩」分別與「基底核導致的 parkinsonism」和「小腦異常」有關，在這張 MRI 的橋腦，可以看到一個像是十字架的 hyperintensity，是 MSA 經典的 cross bun sign（補充：MSA 可分為兩個 subtype，以巴金森氏症狀表現的 MSA-P (P for parkinsonism) 和以小腦症狀表現的 MSA-C (C for cerebellum)；cross bun sign 一般是 MSA-C 的典型徵象，但本題沒有要進一步作此區分）\n\n(A) 額顳葉失智症的臨床表現會有情緒易怒、個性改變、社交障礙（在不對的場合做事 / 做不該做的事）等情形，在影像上會看到額葉明顯萎縮，有時候也會有顳葉的萎縮\n(B) 阿茲海默症是最常見的失智症，影像上會有海馬迴、頂葉、顳葉的萎縮\n(D) Progressive supranuclear palsy (PSP) 也是一種 atypical parkinsonian，臨床表現有 axial dystonia/rigidity（身體會僵直）、retrocollis（站立時頸後仰）、眼球運動受限（先垂直受限再水平受限）、動作遲緩、語言及情感障礙，其 MRI 最經典的表現是中腦萎縮，導致在 sagittal view 可以看到 hummingbird sign（像是一隻鳥的側面）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-51_merged.png",
     "explanation_images": null
   },
   {
@@ -13317,8 +13317,8 @@
       "D": "食用罹患狂牛症的牛肉之後出現的變異型庫賈氏病（variant CJD）較易出現在年輕人"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "庫賈氏病的致病原是普利昂蛋白 (prion)，是一具有感染性的變異「蛋白質」，當確診者汙染手術器具或檢體時，因普利昂蛋白對熱、輻射照射、消毒劑均有抵抗能力，其消毒方法需特殊處理，以下參考衛福部疾管署資訊：\n• 物理法：>132°C、持續使用 >1 小時的高壓蒸氣釜\n• 化學法：5.0% 次氯酸鈉 (NaOCl) 或 1N ～ 2N 氫氧化鈉 (NaOH)，作用 >1 小時\n• 最佳做法為先化學法、再物理法\n\n考題尤其喜歡比較典型與變異型 CJD：\n\n| | 典型 / classic CJD | 變異型 / variant CJD |\n| :--- | :--- | :--- |\n| **原由** | 可為散發型（主要）、遺傳型、醫源型 | 因食入海綿狀腦病的牛隻（1996 年英國爆發） |\n| **死亡年齡（中位數）** | 68 歲 | 28 歲 |\n| **患病時長（中位數）** | 4-5 月 | 13-14 月 |\n| **潛伏期** | 數年至數十年 |\n| **臨床表現** | 失智、early 神經學表現 | 以精神行為異常為主、感覺異常、delayed 神經學表現 |\n| **EEG 上的週期性棘波 (periodic sharp waves)** | 有 | 無 |\n| **CSF 中的 14-3-3 蛋白** | 上升 | 無 |\n| **MRI 有 'pulvinar sign'（FLAIR 上後丘腦變白）** | 很少 | 多 |\n| **普利昂蛋白 codon 129 的基因型** | 散發型 70% 為 M-M | 幾乎皆為 M-M |\n\nM-M: methionine-methionine（甲硫胺酸同型合子）\n\n【112-2(四)51】也考了普利昂疾病和 CJD 的基本觀念\n\n參考資料：ED Belay, RC Holman & LB Schonberger (2005). Creutzfeldt-Jakob disease surveillance and diagnosis. Clinical Infectious Diseases, 41(6), 834-836",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-52_merged.png",
     "explanation_images": null
   },
   {
@@ -13334,8 +13334,8 @@
       "D": "呼吸困難"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "只要了解 GBS、MG 兩種病分別是哪裡出問題就不難作答：GBS 是周邊神經病變；MG 則是神經 - 肌肉接合處病變，所以後者不會有自主神經異常，附表比較兩種疾病的表現，皆為黃金考點務必要把握啊！\n\n| | Guillain-Barré syndrome (GBS) | Myasthenia gravis (MG) |\n| :--- | :--- | :--- |\n| **病生理** | 急性免疫反應使周邊神經去髓鞘化 | 自體抗體攻擊 AChR |\n| **病因** | 常見病毒感染後、打疫苗後、手術後 | 自體免疫、胸腺瘤 |\n| **典型症狀** | 雙側近端肌肉無力＋肌腱反射下降 / 喪失 | 眼外肌無力（眼皮下垂、複視） |\n| **合併症狀** | 自主神經功能異常、遠端感覺異常、呼吸衰竭 | 波動性無力、疲倦、吞嚥或構音困難、呼吸衰竭（沒有感覺與自主神經功能的症狀） |\n| **無力進展方向** | 遠端 → 近端：由下而上 | 近端 → 遠端 |\n| **診斷工具** | NCS/EMG、CSF 分析 | repetitive stimulation test、EMG、血清 anti-AChR Ab、胸腔影像學 |\n| **治療** | IVIg、血漿置換 | pyridostigmine（大力丸）、類固醇、免疫抑制劑、血漿置換、手術切除胸腺瘤 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-53_merged.png",
     "explanation_images": null
   },
   {
@@ -13351,8 +13351,8 @@
       "D": "可使用磁振造影（MRI）來確立診斷"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "脊髓空洞症是在脊椎產生充滿液體的「空洞」，常發生在 C2-T9，多發生在年輕男性、從青春期出現症狀，一半以上與 Chiari type 1 malformations 相關，因為這類患者的小腦扁桃體 (tonsils) 移位到枕骨大孔以下、影響 CSF 流動，而促使積液產生，這種軟組織的異常需使用 MRI 來確立診斷\n(C)「空洞」（脊髓內積液）會壓迫脊髓，臨床上多以中心脊髓症候群表現，症狀包括雙側感覺喪失（上肢呈現 cape distribution）與反射消失，大多數影響範圍在頸部、肩膀、及上肢\n(B) 選項敘述的是 Brown-Séquard syndrome\n\n| | |\n| :--- | :--- |\n| **中心脊髓症候群 central cord syndrome** | 感覺及運動功能異常，多為雙側<br>影響範圍：上肢 > 下肢 |\n| **Brown-Séquard syndrome** | 同側異常：運動、震動、本體感覺<br>對側異常：溫覺、痛覺 |\n\n比較：Chiari type 2 malformations 則與 myelomeningocele 相關（脊柱裂的一種表現）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-54_merged.png",
     "explanation_images": null
   },
   {
@@ -13368,8 +13368,8 @@
       "D": "肌萎縮性側索硬化（amyotrophic lateral sclerosis）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "總結題幹敘述的症狀，主要包含全身肌肉萎縮、無力等下運動神經元症狀，還有四肢 DTR 增強的上運動神經元症狀，舌頭顫動、吞嚥困難、口齒不清等是屬於 bulbar sign，是第 7 對腦神經至第 12 對腦神經的下運動神經元症狀，同時有上、下運動神經元症狀的表現，最可能是 ALS（俗稱漸凍人）\n(A) 即便經過多次腦中風，每一次中風應該會是一個 acute onset，而不會是漸進性慢慢無力，而且通常比較會表現某一側較嚴重的情形（不對稱神經學症狀）\n(B) 頸部椎間盤突出導致頸神經的壓迫最常會有的症狀是脖子與肩膀痠痛，伴隨雙上肢無力與麻木等情形，因此同時會有運動與感覺的異常，和 ALS 只影響運動神經元（無感覺相關的症狀）不同\n(C) Parkinson's disease 會有 muscle rigidity 的表現，以及有錐體外路徑如 resting tremor 的症狀，而 Parkinson's 也會有一些嗅覺不靈敏、肌肉痠痛等感覺異常情形",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-55_merged.png",
     "explanation_images": null
   },
   {
@@ -13385,8 +13385,8 @@
       "D": "確定腦脊髓液細菌培養報告前"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "延誤使用抗生素與不佳的細菌性腦膜炎預後有很強的關聯，因此只要臨床懷疑急性細菌性腦膜炎（發燒、頭痛、頸部活動受限、意識狀態改變），便應在抽血完成後儘快給予經驗性抗生素，而非等到確定檢查結果後才開始治療，另外病人若有中樞神經病史、癲癇、不對稱神經學症狀等，通常需在做腰椎穿刺前安排頭部電腦斷層，但這並不影響抗生素給予的時機",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-56_merged.png",
     "explanation_images": null
   },
   {
@@ -13402,8 +13402,8 @@
       "D": "紅斑性狼瘡（systemic lupus erythematosus）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "考很細的一題，筆者建議不用硬背共病症有哪些，只要知道大部分的 NMOSD 與 AQP4 抗體有關，因此也算自體免疫疾病的一種，病人通常會合併其他自體免疫疾病，AQP4 抗體陽性的 NMOSD 最常見的共病症為紅斑性狼瘡、Sjogren 症候群和重症肌無力；另外還有 p-ANCA 血管炎、Hashimoto thyroiditis 和 MCTD 等\n\n其他考點：\n• 重症肌無力患者中只有 10-15% 合併胸腺瘤，且並非所有胸腺瘤 (thymoma) 都會造成重症肌無力",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-57_merged.png",
     "explanation_images": null
   },
   {
@@ -13419,8 +13419,8 @@
       "D": "可以用penicillin來治療"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "【112-1(三)1】用病人症狀與檢驗檢查去考威爾森氏病，可相互對照其詳解\n(A) 是體染色體隱性遺傳，突變基因是 ATP7B 無誤，但可以注意到其突變形式多樣、沒有一致的基因突變位點\n(B) 與銅離子代謝相關\n(D) 最常使用的 D-penicillamine 是銅離子螯合劑，可避免過多的銅離子由尿液排出、不會在體內累積，類似機轉的藥物還有 trientrine HCl，除此之外，也可以合併使用鋅鹽 (zinc) 來降低腸道對銅的吸收率",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-58_merged.png",
     "explanation_images": null
   },
   {
@@ -13436,8 +13436,8 @@
       "D": "負性症狀比正性症狀明顯"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "精神科近年來超愛考這種題目，務必把握下列表格！\n\n| 思覺失調症預後比較 | | |\n| :--- | :--- | :--- |\n| **因子** | **預後較好** | **預後較差** |\n| **性別** | 女 | 男 |\n| **發病年齡** | 晚 | 早 |\n| **發作** | 急性 | 慢性 |\n| **誘發因素** | 有 | 無 |\n| **家族史** | 情感性疾患 | 思覺失調症 |\n| **症狀** | 正性症狀 → mesolimbic pathway（妄想、幻覺、誇大、多疑） | 負性症狀 → mesocortical pathway（自閉、退縮、少話、無表情） |\n| **社會支持** | 已婚 | 單身 |\n\n其他考點：\n• 思覺失調症自殺的危險因子：單身年輕男性、病程早期、剛出院（有足夠活力自殺）、有病識感",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-59_merged.png",
     "explanation_images": null
   },
   {
@@ -13453,8 +13453,8 @@
       "D": "治療阻抗型之思覺失調症且對其他藥物反應不佳的患者可考慮clozapine治療，也可降低自殺風險，但有許多副作用，如體重增加、血糖血脂異常等代謝副作用"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A)(B) 思覺失調症的成因涵蓋多重因素，遺傳佔了很大一部分：（一般人罹病率約 1%）\n• 若兄弟姊妹有一人罹患思覺失調症，其手足也罹病的機率約 8%\n• 若異卵雙胞胎有思覺失調症，另一人也罹病的機率約 12%\n• 若父母一方有一人罹患思覺失調症，其子女也罹病的機率約 12%\n• 若父母雙方都罹患思覺失調症，其子女也罹病的機率約 40%\n• 若同卵雙胞胎有思覺失調症，另一人也罹病的機率約 47%（非 100%，故成因也包括外在環境如心理、社會因素）\n(C) 性別方面是男性發病較早，且預後較差（思覺失調症的預後因子，是考試重點，整理於【112-1(四)59】）\n(D) clozapine 是顆老藥，如題幹所述用在阻抗型思覺失調症患者，藥效強大但副作用也多\n• 抗精神病藥物都會：心肌炎、降低癲癇閾值、抗膽鹼作用（口乾、便秘、尿滯留），但也會鎮靜嗜睡\n• -pine 類：促進食慾、體重上升，因此有較高風險的代謝症候群",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-60_merged.png",
     "explanation_images": null
   },
   {
