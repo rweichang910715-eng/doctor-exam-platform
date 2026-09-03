@@ -12600,9 +12600,11 @@
       "D": "新生兒肝炎（neonatal hepatitis）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "嬰兒膽汁滯留症 (Infantile cholestasis) 分類：\n\n| 膽汁滯留分類 | 解剖與病理機轉 | 代表性疾病 |\n| :--- | :--- | :--- |\n| **肝外膽汁滯留 (Extrahepatic cholestasis)** | **肝外主要膽管系統（包含總膽管 CBD、肝管、膽囊管）發生解剖性阻塞** | • **膽道閉鎖 (Biliary atresia)**（選 A 正確）<br>• **總膽管囊腫 (Choledochal cyst)**<br>• **米里齊症候群 (Mirizzi syndrome)**（膽囊管結石外在壓迫總肝管）<br>• 膽道狹窄、腫瘤壓迫 |\n| **肝內膽汁滯留 (Intrahepatic cholestasis)** | **肝細胞實質功能障礙或肝內微細膽管發育不良/阻塞** | • **新生兒肝炎 (Neonatal hepatitis)**（如 TORCH 感染、特發性）<br>• **阿拉吉歐症候群 (Alagille syndrome)**（*JAG1/NOTCH2* 突變，肝內膽管稀少、心臟肺動脈狹窄、蝴蝶椎）<br>• **拜勒病 (Byler disease / PFIC1)**（*ATP8B1* 突變進行性家族性肝內膽汁滯留）<br>• 囊狀纖維化 (Cystic fibrosis)、全靜脈營養 (TPN) 相關 cholestasis |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-11_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-11_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-12",
@@ -12617,9 +12619,11 @@
       "D": "血液中尿酸（uric acid）與尿素氮（BUN）數值通常偏高"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "抗利尿激素不適當分泌症候群 (SIADH) 診斷要點與實驗室特徵：\n\n• **病理機轉**：ADH (Vasopressin) 非生理性持續過量分泌，作用於腎臟集尿管主細胞之 **V2 受體**，促使 **AQP-2 水通道蛋白**大量表現並回收游離水，導致**等體積性低血鈉 (Euvolemic hyponatremia)**\n• **診斷準則（排他性診斷）**：\n  - **(A) 正確**：必須先排除甲狀腺功能低下、腎上腺皮質功能低下 (Addison disease)、腎臟疾病、肝硬化、心衰竭、脫水及利尿劑使用\n  - **(B) 正確**：血液呈低滲透壓 (Serum Osm < 275 mOsm/kg)，但**尿液滲透壓未被適當稀釋（Urine Osm > 100 mOsm/kg）**且尿鈉通常 > 20-40 mEq/L\n  - **(C) 正確**：治療首選為**嚴格限制水分攝取 (Fluid restriction)**，飲食不需限制鈉鹽（必要時可補充鹽片或使用 V2 受體拮抗劑 Tolvaptan/Conivaptan）\n• **(D) 錯誤**：在體液輕度擴張與血容量增加下，腎臟血流灌注增加使近曲小管對尿酸及尿素氮重吸收減少，加上血液稀釋效應，**SIADH 病人的血中尿酸 (Uric acid) 與血尿素氮 (BUN) 數值通常「顯著偏低」**，故 (D) 敘述偏高為錯誤（選 D）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-12_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-12_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-13",
@@ -12634,9 +12638,11 @@
       "D": "治療高血鈉的併發症包括癲癇（seizure）甚至腦水腫（brain edema）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "5 歲童嚴重嘔吐腹瀉 4 天合併高血鈉 (175 mEq/L) 與脫水休克之處置原則：\n\n• **第一階段：休克急救復甦（Priority 1）**：\n  - **(B) 正確**：患童血壓 72/50 mmHg、心跳 150 bpm、皮膚彈性差且微血管回充變慢，處於低血容休克狀態；**首要步驟應於 20 分鐘內快速靜脈輸注生理食鹽水 (Normal saline) 20 mL/kg**，必要時可重複給予直至循環穩定\n• **第二階段：矯正高血鈉與補充水分（Priority 2）**：\n  - **(A) 錯誤（選 A）**：患童脫水病程已達 4 天，腦細胞已合成特異性有機滲透物質 (Idiogenic osmoles) 以適應高滲透壓環境；**慢性高血鈉之校正速度嚴禁過快，血鈉下降速率應控制在 ≤ 0.5 mEq/L/hr（即 ≤ 10-12 mEq/L/24h）**，Nelson 指引建議血鈉 > 170 mEq/L 時**矯正時間需拉長至 48～72 小時**，若於 24 小時內快速降至正常將誘發**致命性急性腦水腫 (Cerebral edema) 與癲癇**\n  - **(C) 正確**：休克改善後，使用低張輸液（如 5% Dextrose + 1/2 NS 或 1/4 NS）依計畫慢速滴注矯正",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-13_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-13_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-14",
@@ -12651,9 +12657,11 @@
       "D": "IgA腎病變（IgA nephropathy）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "兒童腎臟移植後「原發疾病復發率」之病理機轉比較：\n\n• **(A) 先天性腎病症候群 (Congenital Nephrotic Syndrome, CNS)（選 A 最低）**：\n  - 以**芬蘭型先天性腎病症候群 (Finnish type, CNF)** 最常見，病因為 **NPHS1 基因突變導致腎絲球裂孔膜蛋白 Nephrin 先天結構缺損**\n  - 由於致病根源在於「原自體腎臟本身的基因結構異常」，血中並無攻擊性自體抗體或循環性通透因子；**接受腎臟移植（換上具備正常 Nephrin 基因表現的健康供體腎臟）後，原發疾病幾乎完全不會復發（復發率趨近於 0%）**\n• **(B)(C)(D) 免疫與循環因子相關腎絲球疾病**：\n  - **局部腎絲球硬化症 (FSGS)**：體內存在致病性循環通透因子 (Circulating permeability factors 如 suPAR)，移植後**復發率高達 30～50%**\n  - **第二型膜增生性腎小球腎炎 (MPGN type II / Dense deposit disease)**：補體替代路徑異常活化 (C3 nephritic factor)，移植後**復發率高達 80～100%**\n  - **IgA 腎病變 (IgA Nephropathy)**：異常半乳糖缺乏 IgA1 免疫複合體沉積，移植後組織學**復發率約 30～50%**",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-14_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-14_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-15",
@@ -12668,9 +12676,11 @@
       "D": "pathergy test陽性是指用細針刺皮膚後24～48小時後產生pustular reaction"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "**白塞氏症 (Behçet disease / 絲路之病)** 臨床表徵與診斷準則（ICBD Criteria）：\n\n• **疾病核心特徵**：與 **HLA-B51** 高度相關之全身性血管炎，侵犯任何大小的動靜脈\n• **臨床主要表現**：\n  - **口腔潰瘍 (Oral aphthous ulcers)**：97～99% 病患具備，通常為多發性、疼痛且**反覆發作，多在 3～10 天內自行癒合且不留疤痕**（A 正確）\n  - **生殖器潰瘍 (Genital ulcers)**：約 80% 病患具備，外陰部或陰囊潰瘍較深且**容易留下萎縮性疤痕 (Cicatricial scar)**（B 正確）\n  - **針刺反應 (Pathergy test)**：使用無菌細針斜刺前臂皮膚，**24～48 小時後局部產生直徑 ≥ 2 mm 之無菌性紅斑結節或膿疱 (Pustule)** 即為陽性反應（D 正確）\n• **(C) 錯誤（選 C）**：眼部侵犯（約 70%）是致盲的重要原因，其典型表現為**反覆雙側全葡萄膜炎 (Panuveitis) 或前葡萄膜炎伴隨前房積膿 (Hypopyon anterior uveitis)**，並非單純以後葡萄膜炎最常見",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-15_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-15_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-16",
@@ -12685,9 +12695,11 @@
       "D": "定期輸注intravenous immunoglobulin（IVIG）是有效的治療方法"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "**布魯頓氏無丙種球蛋白血症 (Bruton Agammaglobulinemia / X-linked Agammaglobulinemia, XLA)**：\n\n• **(A) 正確**：為 **B 淋巴球發育停滯**之先天性體液免疫缺乏症 (Humoral immunodeficiency)\n• **(B) 錯誤（選 B）**：致病基因位於 **X 染色體長臂 (Xq22) 上的布魯頓酪胺酸激酶基因 (*BTK*)**，屬於 **X 染色體性聯隱性遺傳 (X-linked recessive)**；因此**絕大多數患者均為男童**，女性帶原者通常無症狀，男女發病比例絕對非 1:1\n• **(C) 正確**：嬰兒出生後 6 個月內有來自母體的母體抗體 (Transplacental maternal IgG) 保護；**出生後 6～9 個月隨母體 IgG 耗盡開始反覆發病**\n• **(D) 正確**：患者缺乏成熟 B 細胞與漿細胞，血清各類免疫球蛋白 (IgG, IgA, IgM) 幾近於零；臨床極易反覆罹患莢膜細菌（肺炎鏈球菌、流感嗜血桿菌）感染，**終身定期每月靜脈輸注免疫球蛋白 (IVIG)** 為標準維持治療",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-16_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-16_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-17",
@@ -12702,9 +12714,11 @@
       "D": "肺總容量（total lung capacity, TLC）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "氣喘 (Asthma) 急性發作時之肺功能變化與阻塞型肺病特徵：\n\n• **病理生理機轉**：氣喘為可逆性小氣道發炎與支氣管痙攣收縮，本質上屬於**阻塞型肺病 (Obstructive lung disease)**\n• **肺功能指標升降對照**：\n\n| 肺功能指標 (Pulmonary Function) | 阻塞型肺病 (Asthma / COPD) | 限制型肺病 (Fibrosis / Scoliosis) |\n| :--- | :---: | :---: |\n| **尖峰吐氣流速 (PEF)** | **下降 (↓)** | 正常或下降 (—/↓) |\n| **第一秒用力呼氣量 (FEV1)** | **顯著下降 (↓↓)** | 下降 (↓) |\n| **第一秒用力呼氣率 (FEV1/FVC)** | **下降 (< 70-75%) (↓)** | **正常或偏高 (≥ 70-75%) (—/↑)** |\n| **肺總容量 (TLC)** | **正常或增加 (Air trapping) (—/↑)** | **顯著下降 (< 80%) (↓↓)** |\n| **殘氣量 (Residual Volume, RV)** | **增加 (↑)** | 下降 (↓) |\n\n• **(D) 最不可能降低**：氣喘急性發作時因空氣滯陷 (Air trapping)，**肺總容量 (TLC) 通常維持正常或代償性代償擴大增加**，絕對不會降低（選 D）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-17_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-17_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-18",
@@ -12719,9 +12733,11 @@
       "D": "法布瑞氏症（Fabry disease）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "遺傳疾病遺傳模式鑑別診斷：\n\n• **(B) 遺傳性球形紅血球症 (Hereditary Spherocytosis, HS)（選 B，非性聯遺傳）**：\n  - 約 75% 為**體染色體顯性遺傳 (Autosomal Dominant, AD)**，少數為體染色體隱性 (AR)\n  - 由於紅血球骨架蛋白（Ankyrin, Spectrin, Band 3）基因缺陷，導致紅血球呈球形並在脾臟遭破壞溶血\n• **性聯隱性遺傳疾病 (X-linked Recessive, XLR) 經典範例**：\n  - **(A) A 型血友病 (Hemophilia A)**：X 染色體第八凝血因子 (*F8*) 缺陷\n  - **(C) 蠶豆症 (G6PD deficiency)**：X 染色體葡萄糖-6-磷酸去氫酶缺陷\n  - **(D) 法布瑞氏症 (Fabry disease)**：X 染色體溶酶體酵素 *GLA* (α-galactosidase A) 缺乏，女性帶原者亦可能因 X 染色體去活化 (Lyonization) 出現輕微至心肌病變表現",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-18_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-18_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-19",
@@ -12736,9 +12752,11 @@
       "D": "開始鐵劑補充約莫2至3天後，抽血可見網狀紅血球增多（reticulocytosis）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "小兒缺鐵性貧血 (Iron Deficiency Anemia, IDA) 病程分期與檢驗診斷：\n\n• **(A) 正確**：新生兒出生後**延遲斷臍 1～3 分鐘 (Delayed cord clamping)** 可增加胎盤輸注血量約 80-100 mL，顯著提高嬰兒期體內鐵儲存量並降低 IDA 發生率\n• **(B) 正確**：青春期女性因月經週期性失血與第二性徵快速發育生長對鐵需求激增，為 IDA 好發族群\n• **(C) 錯誤（選 C）**：缺鐵性貧血三階段病程中：\n  1. **鐵耗損期 (Iron depletion)**：儲存鐵下降 → **血清鐵蛋白 (Ferritin) 降低**\n  2. **缺鐵性紅血球生成期 (Iron-deficient erythropoiesis)**：血清鐵 (Iron) 下降、總鐵結合力 (TIBC) 上升、**運鐵蛋白飽和度 (Transferrin saturation, Tsat = Iron/TIBC)「顯著降低 (< 15-16%)」**\n  3. **缺鐵性貧血期 (IDA)**：血紅素 (Hb) 及 MCV 下降；因此未經治療之 IDA 為**低 ferritin 伴隨「低」運鐵蛋白飽和度**，(C) 敘述「高」飽和度為錯誤\n• **(D) 正確**：口服鐵劑治療有效後，骨髓於 **2～3 天內最先出現網狀紅血球增生 (Reticulocytosis)**，5～7 天達高峰，隨後血紅素穩步回升\n\n**小球性低色素性貧血 (Microcytic Anemia) 鑑別大表**：\n\n| 疾病分類 | 血清鐵 (Iron) | 總鐵結合力 (TIBC) | 鐵蛋白 (Ferritin) | 運鐵蛋白飽和度 (Tsat) |\n| :--- | :---: | :---: | :---: | :---: |\n| **缺鐵性貧血 (IDA)** | **↓** | **↑** | **↓** | **↓↓ (< 15%)** |\n| **海洋性貧血 (Thalassemia)** | 正常 / ↑ | 正常 / ↓ | **正常 / ↑** | **正常 / ↑** |\n| **慢性疾病貧血 (ACD)** | **↓** | **↓** | **正常 / ↑** | 正常 / 輕微↓ |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-19_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-19_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-20",
@@ -12753,9 +12771,11 @@
       "D": "L-asparaginase：胰臟炎（pancreatitis）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "常用抗癌化學治療藥物之經典特異性器官毒性配對：\n\n| 化療藥物名稱 | 主要機轉分類 | 經典特異性器官毒性 (Classic toxicities) | 特異性預防 / 處置藥物 |\n| :--- | :--- | :--- | :--- |\n| **Vincristine (VCR)** | 微管抑制劑 (Vinca alkaloid) | • **周邊神經毒性 (Peripheral neuropathy)**（手腳麻木、下垂足、腸阻塞/便秘）<br>• 具極強組織刺激性，**絕對禁止鞘內注射 (Intrathecal) 否則致死** | 減量或停藥 |\n| **Cyclophosphamide / Ifosfamide** | 烷化劑 (Alkylating agents) | • **出血性膀胱炎 (Hemorrhagic cystitis)**（代謝產物 Acrolein 刺激膀胱黏膜所致，選 B） | **Mesna** + 大量輸液水化 |\n| **Doxorubicin (Adriamycin)** | 拓撲異構酶抑制劑 / 蒽環類 | • **心臟毒性 (Cardiotoxicity)**（擴張型心肌病變、心衰竭，具累積劑量上限） | **Dexrazoxane** (鐵螯合劑保護心肌) |\n| **Bleomycin** | 抗腫瘤抗生素 | • **肺纖維化 (Pulmonary fibrosis)**（累積劑量相關） | 定期追蹤 DLCO 肺功能 |\n| **L-Asparaginase** | 酵素類（消耗白血病細胞門冬醯胺） | • **急性胰臟炎 (Pancreatitis)**<br>• 凝血因子合成障礙（血栓與出血） | 停藥與支持療法 |\n| **Cisplatin** | 鉑類抗癌藥 | • **腎毒性 (Nephrotoxicity)**、**耳毒性 (Ototoxicity)**、周邊神經病變 | **Amifostine** + 大量水化 |\n\n• **(B) 錯誤組合**：**引起出血性膀胱炎的是 Cyclophosphamide / Ifosfamide**，Vincristine 主要引起周邊神經毒性與麻痺性腸阻塞，故 (B) 配對不相關（選 B）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(四)-20_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(四)-20_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-21",
