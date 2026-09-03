@@ -11842,9 +11842,11 @@
       "D": "thyroid transcription factor-1（TTF-1）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "小細胞肺癌 (SCLC) 在病理學上屬於肺部神經內分泌腫瘤 (neuroendocrine tumors)，因此可在免疫螢光染色染上神經內分泌腫瘤相關的蛋白：**CD56、NCAM、chromogranin、synaptophysin** 等，故 (A)(B)(C) 均可用於區分\n\n**TTF-1 (thyroid transcription factor-1)** 在 60-90% 的肺腺癌（屬於非小細胞肺癌 NSCLC）、近 90% 的小細胞肺癌都會表現陽性，因此對於區分 SCLC 或 NSCLC 沒有幫助（選 D）；TTF-1 的臨床主要用途如下：\n(a) 在確認為 NSCLC 後，可搭配 p40，鑑別肺腺癌（TTF-1 +, p40 -）與鱗狀上皮肺癌（TTF-1 -, p40 +）\n(b) 了解肺部腫瘤是原發的肺腺癌（TTF-1 +）或其他處癌症肺轉移（TTF-1 -）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-51_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-51_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-52",
@@ -11859,9 +11861,11 @@
       "D": "β-adrenergic blocker after α-adrenergic blocker"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "看到年輕人患有高血壓，要先想到可能不是 primary hypertension，再看到典型 triad：**心跳過快 (tachycardia)、冒汗 (diaphoresis)、週期性頭痛 (headache)**，就要想到可能是嗜鉻細胞瘤 (pheochromocytoma)；而診斷方式是透過 24 小時尿液或是血漿中的 free fractionated metanephrines 與 catecholamines\n\n影像如 CT、MRI、68-Ga DOTATATE PET 等則是幫助 localize tumor 的位置；治療上要透過手術切除，而切除前要先初步控制血壓：\n• 第一線通常是用 **α-blocker**（如 Phenoxybenzamine、Doxazosin）使血管擴張 (vasodilation)，進而讓血壓下降\n• 若控制心搏過速效果不夠，可以**再後續併用 β-blocker**，使心率降低，也可以降低血壓\n• **但是絕對禁止單獨或優先使用 β-blocker（選 B 不適宜）！**由於血管平滑肌的 β2 receptor 被阻斷時會失去擴張作用，促使未受阻斷的 α1 receptor 媒介強烈周邊血管收縮，可能會引發致命性的高血壓危象 (hypertensive crisis)！因此在尚未完全使用 α-blocker 阻斷血管收縮前絕不可使用 β-blocker\n• 至於 CCB 則是第二線可以使用的降血壓藥，可以當作使用第一線藥物後的輔助",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-52_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-52_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-53",
@@ -11876,9 +11880,11 @@
       "D": "好喝汽水可樂"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "用常識都能選出來 (D) 好喝汽水可樂！營養不良 (malnutrition) 高危險群可能會有以下特徵：\n• 體重過輕、近期體重非自主性劇烈減輕（如 6 個月內 > 10%）\n• 年紀大（衰弱高齡長者）\n• 容易反覆發生感染 / 嚴重感染（如敗血症 sepsis 高燒不退，處於高代謝高分解狀態）且不易恢復\n• 長期酗酒 (alcohol abuse，影響營養吸收與微量元素缺乏)\n• 消化道重大疾病或長期腹瀉吸收不良\n\n常喝可樂代表平時糖分攝取量高、熱量過剩，比較可能是**代謝症候群、肥胖與第 2 型糖尿病**的特徵，而非營養不良",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-53_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-53_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-54",
@@ -11893,9 +11899,11 @@
       "D": "FSH、LH、testosterone"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "病人鼻咽癌有做過放療，加上選項幾乎都是測內分泌功能，大致可以懷疑症狀與腦垂體放射線照射後萎縮/功能低下 (hypopituitarism) 有關；病人可確定的症狀有倦怠、體重減輕、乳暈褪色、腋毛 / 恥毛減少和低血鈉，符合典型**腎上腺功能低下 (Adrenal insufficiency)** 的表現，故測定 **ACTH 與 cortisol（選 B）**對診斷與即時荷爾蒙補充治療最有幫助\n\n附上常用口訣 **WWHHOO**：\n• **W** — Weight loss\n• **W** — Weakness (or fatigue)\n• **H** — Hyponatremia、Hypoglycemia\n• **H** — Hyperpigmentation（在 primary adrenal insufficiency 較常見）、Hyperkalemia\n• **O** — Orthostatic hypotension\n• **O** — Others (e.g. nausea/vomiting, diarrhea, reproductive change)\n\n筆者一開始也很容易被「乳暈褪色、腋毛恥毛減少」誤導成性腺功能低下 (hypogonadism) 而選錯答案，然而病人的其他全身性症狀很難單純用性腺功能低下解釋，且腎上腺皮質功能低下也會造成 adrenal androgen 製造減少，因此 (B) 的檢查最有幫助且最危急需補充",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-54_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-54_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-55",
@@ -11910,9 +11918,11 @@
       "D": "低密度脂蛋白膽固醇（LDL-C）的血中濃度，一般不是常用的診斷條件之一"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "除了診斷標準的五大指標（腹部肥胖/腰圍、空腹血糖、血壓、三酸甘油脂 TG、高密度膽固醇 HDL-C）外，代謝症候群與肥胖、胰島素抗性緊密相關，也被視為一種慢性發炎，近年常考相關酵素與細胞激素的變化：\n\n| 指標種類 | 代謝症候群中的變化 |\n| :--- | :--- |\n| **濃度上升 (↑)** | • **Leptin (瘦素)**（脂肪增加分泌多，但產生 Leptin resistance）<br>• **Resistin (抗胰島素素)**<br>• **CRP / hsCRP (C-反應蛋白)**<br>• **促發炎因子：TNF-α、IL-6**<br>• **PAI-1 (第 1 型纖溶酶原激活物抑制劑)**<br>• **Free fatty acids (FFA, 游離脂肪酸)**<br>• **血中尿酸 (Uric acid)** |\n| **濃度下降 (↓)** | • **Adiponectin (脂聯素)**（具抗發炎與增加胰島素敏感性，在肥胖與代謝症候群時**分泌反而減少**，選 A 錯誤）<br>• **IL-10 (抗發炎細胞激素)** |\n\n(A) 脂聯素 (adiponectin)、瘦素 (leptin) 皆是脂肪細胞分泌的蛋白質；脂聯素能促進肌肉細胞消耗脂肪酸、抑制肝臟合成葡萄糖，有利於增加胰島素的敏感性；瘦素的釋放能降低食慾，亦能調節脂肪和醣類代謝，但肥胖者體內瘦素濃度高且易產生耐受性\n(D) 正確：低密度脂蛋白膽固醇 (LDL-C) 數值雖然是心血管重要危險因子，但**並非**代謝症候群五大診斷條件之一（五大條件為：腰圍、血壓、空腹血糖、TG、HDL-C）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-55_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-55_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-56",
@@ -11927,9 +11937,11 @@
       "D": "Whipple's triad的判定，需要有可靠的血糖檢測"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確：一般來說血漿葡萄糖濃度低於 70 mg/dL 就是低血糖的警戒定義，而低於 50-55 mg/dL 可能會產生意識不清、中樞神經障礙或認知功能異常\n(B) 錯誤：**造成臨床低血糖最常見的原因是糖尿病患者降血糖藥物（外源性胰島素或 Sulfonylureas）使用過量、飲食不足或劇烈運動**；胰島素瘤 (Insulinoma) 屬於罕見的神經內分泌腫瘤，絕非最常見原因，故 (B) 錯誤\n(C) 正確：雙胍類藥物（Metformin 即是）作用為增加周邊胰島素敏感性並抑制肝臟糖質新生，不刺激胰島素分泌，因此單獨使用極不易造成低血糖；常見造成低血糖的口服藥物為 Sulfonylurea 或 Glinide 類藥物\n(D) 正確：Whipple's triad 包含：(1) 出現低血糖相關症狀 (2) 在可靠的血糖檢測下測量出低血糖 (3) 給予糖分使血糖上升後症狀緩解\n\n**各類糖尿病藥物機轉、低血糖風險與副作用整理**：\n\n| 藥物種類 | 代表藥物 | 主要機轉 | 低血糖風險 | 體重影響 | 其他臨床特點與禁忌 |\n| :--- | :--- | :--- | :---: | :---: | :--- |\n| **Biguanide** | Metformin | 增加胰島素敏感性、抑制肝臟糖質新生 | 無 | 不變/微降 | • 副作用：乳酸中毒 (Lactic acidosis)、維生素 B12 缺乏、腸胃腹瀉<br>• 禁忌：嚴重腎功能不全 (eGFR < 30)、心肝衰竭 |\n| **TZD** | Pioglitazone | 刺激 PPAR-γ，增加胰島素敏感性 | 無 | ↑ | • 副作用：水腫、體重增加、骨質疏鬆骨折<br>• 禁忌：NYHA III/IV 心臟衰竭、膀胱癌病史 |\n| **Sulfonylurea** | Glipizide、Glimepiride | 阻斷 K_ATP 通道，刺激胰島素分泌 | **高 (有)** | ↑ | • 副作用：低血糖、體重增加、膽汁滯留<br>• 禁忌：嚴重肝腎功能不全 |\n| **Meglitinide** | Repaglinide | 快速刺激胰島素分泌（餐前給藥） | **有** | ↑ | 作用快、時間短，適用於餐後高血糖 |\n| **GLP-1 RA** | Liraglutide、Semaglutide | 活化 GLP-1 受體，增強葡萄糖依賴性胰島素分泌、延緩胃排空 | 無 | **↓↓** | • 副作用：噁心、嘔吐、胰臟炎罕見風險<br>• 心腎保護效益卓越 |\n| **DPP-4i** | Linagliptin、Sitagliptin | 抑制 DPP-4 酵素，減少 GLP-1 降解 | 無 | 不變 | 每日一次口服，耐受性良好 |\n| **SGLT2i** | Empagliflozin、Dapagliflozin | 抑制近曲小管 SGLT2，增加尿糖排出 | 無 | **↓** | • 副作用：泌尿生殖道感染、正常血糖型 DKA<br>• 降低心衰竭再住院率與延緩 CKD 惡化 |\n| **α-glucosidase i** | Acarbose | 抑制小腸雙醣分解酵素 | 無 | 不變 | 腸胃脹氣、排氣增加 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-56_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-56_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-57",
@@ -11944,9 +11956,11 @@
       "D": "亞急性甲狀腺炎"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "題目敘述心悸、怕熱、手抖、體重減輕、雙眼突出 (exophthalmos) 是典型甲狀腺功能亢進的症狀，可以很快地排除掉 (B) 甲狀腺功能過低\n\n常見甲狀腺功能亢進的原因包含：\n• **葛雷夫茲氏症 (Graves' disease)**：源於 TSH receptor 自體抗體 (TRAb / TSI) 持續刺激甲狀腺濾泡細胞增生與功能亢進，表現為**無痛性瀰漫性甲狀腺腫 (diffuse goiter)**、眼凸症 (Graves' ophthalmopathy) 及脛前黏液水腫 (pretibial myxedema)，為年輕女性甲亢最常見病因（選 C 正確）\n• **亞急性甲狀腺炎 (Subacute thyroiditis, De Quervain's)**：因病毒感染發炎破壞甲狀腺濾泡，初期呈現甲狀腺毒症，但特徵為**甲狀腺明顯劇烈疼痛、壓痛伴隨發燒**與 ESR/CRP 顯著升高，與本題無痛瀰漫腫大不符\n• **甲狀腺癌**：甲狀腺癌與甲狀腺功能過高並無直接關聯，大部分甲狀腺癌患者甲狀腺功能均為正常，具有高度功能表現的甲狀腺癌極為少見",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-57_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-57_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-58",
@@ -11961,9 +11975,11 @@
       "D": "口服多巴胺促效劑（dopamine agonist）治療"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "由於臨床症狀和血中 GH / IGF-1 濃度在切除腫瘤後皆能快速改善，因此腦下垂體生長激素瘤造成肢端肥大症 (Acromegaly) 的**第一線首選治療為經蝶竇內視鏡手術切除 (Transsphenoidal surgical resection, TSS)**（選 A）\n\n後續處置原則：\n• 手術療效不佳、無法完全切除或不適合手術的病人，才使用**體抑素類似物 (Somatostatin analogues, 如 Octreotide、Lanreotide)** 治療\n• 上述療效仍不佳者可考慮增加劑量、合併 **GH-receptor 拮抗劑 (Pegvisomant)** 或多巴胺促效劑 (Cabergoline)\n• 藥物控制不佳者可考慮立體定位放射線治療 (Stereotactic radiosurgery, Gamma Knife)\n\n很實用的國考核心觀念：**腦下垂體功能性腫瘤的首選治療，除了泌乳激素瘤 (Prolactinoma) 首選為多巴胺促效劑 (Cabergoline / Bromocriptine) 藥物治療外，其餘腺瘤（GH 瘤、ACTH 庫欣氏病、TSH 瘤）首選皆為手術切除！**",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-58_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-58_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-59",
@@ -11978,9 +11994,11 @@
       "D": "出現acute HIV syndrome後若未給與抗病毒藥物治療，症狀也會自然消失"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "在初次感染 HIV 後 (primary infection)，病程可分為三個時期：\n1. **急性感染期 (Acute HIV syndrome)**：為初次感染 HIV 後 3-6 週時出現的急性類單核球增多症樣症狀，**約 50-70%（甚至更高達 80%）的 HIV 感染者會經歷急性症狀**，並非小於 10%（選 A 錯誤）；症狀包括發燒、全身無力、肌肉關節痛、頭痛、咽喉炎、淋巴結腫大、皮膚斑丘疹、腦膜炎等；此時 HIV 病毒快速複製並於體內散播，血中病毒量極高（強烈病毒血症 Viremia），是傳染性極強的時期；症狀通常於數週內自行逐漸緩解，CD4+ T 細胞數略微下降後回升\n2. **臨床潛伏期 (Clinical latency / 慢性無症狀期)**：急性期後至病人發病前的期間，快則數月至半年，慢則 10 年以上，取決於免疫狀態與是否接受 ART 抗病毒治療；此時期病人多無明顯症狀，但 HIV 於體內淋巴組織持續複製，CD4+ T 數逐漸緩慢下降\n3. **發病期 (Symptomatic AIDS)**：當病人的 CD4+ T 細胞數 < 200 cells/μL，或出現任一項 AIDS 定義之伺機性感染（如 PCP 肺囊蟲肺炎、食道念珠菌感染、隱球菌腦膜炎）或惡性腫瘤（如卡波西氏肉瘤 Kaposi sarcoma、侵犯性子宮頸癌、淋巴瘤）時，即可診斷為 AIDS",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-59_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-59_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-60",
@@ -11995,9 +12013,11 @@
       "D": "①②③④⑤"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "世界衛生組織 (WHO) 醫療人員**洗手五時機 (My 5 Moments for Hand Hygiene)**：\n1. **接觸病人前**（Before touching a patient）\n2. **執行清潔 / 無菌操作技術前**（Before clean / aseptic procedure）\n3. **暴露病人體液風險後**（After body fluid exposure risk）\n4. **接觸病人後**（After touching a patient）\n5. **接觸病人周遭環境後**（After touching patient surroundings）\n\n題目選項解析：\n• ① 碰觸病人床欄屬於「接觸病人環境後」，離開病室**必須洗手**（敘述錯誤）\n• ② 協助病人移至輪椅屬於「接觸病人後」，離開前**必須洗手**（敘述錯誤）\n• ③ 倒尿壺接觸體液風險，即使有戴手套脫掉手套後**仍必須洗手**，且不同病人間必須洗手（敘述錯誤）\n• ④ 準備藥物或協助清潔前屬於「執行清潔無菌操作前 / 接觸病人前」，**必須洗手**（敘述錯誤）\n• ⑤ 準備替病人導尿前，拉起圍簾後、在尚未接觸病人體液前，以酒精**乾洗手**執行無菌技術是正確的操作時機\n\n因此錯誤的敘述為 **①②③④**（選 A）\n\n**乾洗手 vs 濕洗手時機整理**：\n• **必須使用肥皂與清水「濕洗手」之情況**：\n  1. 雙手有肉眼可見的明顯髒污或被血液、體液污染時\n  2. 照顧或接觸**產孢子細菌（如困難梭狀芽孢桿菌 Clostridioides difficile）**或**無外套膜病毒（如諾羅病毒 Norovirus、腸病毒 Enterovirus）**之患者後（酒精無法有效破壞芽孢與無外套膜病毒蛋白外殼）\n• **其餘醫療常規時機**：優先使用**酒精性乾洗手液**（殺菌迅速、效果佳且保護皮膚屏障）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(三)-60_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(三)-60_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-61",
