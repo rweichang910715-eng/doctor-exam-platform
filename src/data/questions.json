@@ -14490,8 +14490,8 @@
       "D": "術後百分之九十血壓恢復正常，不需再服用任何高血壓藥物"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "病人有高血壓且有右腎上腺腫塊，因此鑑別診斷首要懷疑腎上腺的疾病，包括嗜鉻細胞瘤和原發性高醛固酮症 (primary hyperaldosteronism, PA)，其中 PA 又包含以下：\n\n| primary hyperaldosteronism | 佔比 | 初步鑑別 | 治療 |\n| :--- | :--- | :--- | :--- |\n| **腎上腺增生 (adrenal hyperplasia)** | 70% | 多雙側 | 內科療法 spironolactone |\n| **腎上腺腺瘤 (adrenal adenoma，又稱 Conn's syndrome)** | 25% | 多單側 | 腎上腺切除 |\n| **腎上腺 (功能性) 惡性腫瘤** | 5% | | 腎上腺切除 |\n\n客觀線索 urine VMA 正常（成人正常值 < 7 mg/24 hrs）、低血鉀都傾向診斷為 PA 而非嗜鉻細胞瘤，病人而後做了 PA 的確認試驗 'oral salt loading test'（也稱 salt suppression test），當給予高鈉飲食，生理回饋機制仍不能抑制腎上腺素分泌（在尿鈉 >200 mEq/d 時，尿 aldosterone > 12 μg/day），則確診 PA（本題給的是血清 aldosterone，參考值版本多，但很少 > 30 ng/dl），加上影像顯示為單側單顆，腺瘤可能機會大，治療以腹腔鏡腎上腺切除為主，從前側（經腹腔）或後腹腔都可，術後的高血壓，統合分析 (Zhou et al., 2017, BMC Endocr Disord.) 顯示約 50% 單側 PA 患者血壓會恢復正常（UpToDate 章節中，數篇文獻數字介入 30-65%），(D) 錯誤",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-41_merged.png",
     "explanation_images": null
   },
   {
@@ -14507,8 +14507,8 @@
       "D": "圖(b)在超音波若看不到，即可不必安排mammography-guided biopsy"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "圖 (a) 可以看到箭頭所指的是一個明顯像爆米花狀的實心鈣化，分類是屬於良性病灶，也就是 BI-RADS 2，圖 (b) 看到的則是多個點狀且其中圈起來的某些會沿著線狀排列，屬於 linear calcifications，而且每個點的形狀與大小不盡相同，為 heterogeneous，惡性可能較高，較像是 BI-RADS 4\n\n基本上 BI-RADS 2 可以大致包含：桿狀（比線性更粗一點）、圓環狀、較大的圓形或爆米花形固體、軌道狀等，而 BI-RADS 4 包含像沙子般灑在畫面上的 amorphous、線性排列且有分支、較細的線狀且大小不一\n\n底下附上乳房攝影的 BI-RADS 分類，基本上只要是 BI-RADS 1、2 都可以不用進行切片，BI-RADS 3 則要追蹤一陣子再決定，而 BI-RADS 4、5 基本上都要切片，因此 (D) 是錯誤的\n\n| BI-RADS 分期 | 意義 | 下一步 |\n| :--- | :--- | :--- |\n| **0** | 無法判斷 | 做其他乳房檢查 |\n| **1** | 沒有病灶 | 定期篩檢 |\n| **2** | 良性病灶 | |\n| **3** | 可能良性 | 需要追蹤 |\n| **4a** | 低度可能惡性 | 需要做切片 |\n| **4b** | 中度可能惡性 | |\n| **4c** | 高度可能惡性 | |\n| **5** | 極可能惡性 | |\n| **6** | 病理已確認惡性 | 進行治療 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-42_merged.png",
     "explanation_images": null
   },
   {
@@ -14524,8 +14524,8 @@
       "D": "invasive carcinoma做乳房全切除，發現1顆metastatic sentinel lymph node，應做axillary lymph nodedissection（ALND）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A)(B) 選項：ductal carcinoma in situ (DCIS) 被視為乳癌的最早期，手術切除時不需要做淋巴結廓清，但由於仍有一小部分的術前診斷可能是錯誤的，故術中應做 sentinel lymph node biopsy 來確定沒有淋巴轉移\n(C)(D) 選項：侵襲性乳癌 (Invasive breast cancer) 只要完全符合 (1) 腫瘤小於 5 公分 (T1-T2)、(2) 小於三顆轉移的 sentinel lymph nodes，加上 (3) 完成乳房保留手術合併術後放療的情況下，是不需要進行腋下淋巴結廓清術，但只要沒有意願做術後放療，即使只有一顆轉移的 sentinel lymph nodes 也需要進行廓清術",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-43_merged.png",
     "explanation_images": null
   },
   {
@@ -14541,8 +14541,8 @@
       "D": "若小美接受紫杉醇後第10天測得嗜中性白血球（absolute neutrophil count, ANC）降至900/mm3，即使無症狀仍建議施打白血球生長素（granulocyte colony stimulating factor, G-CSF）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 小紅莓類藥物才具心毒性（e.g. doxorubicin；補充：HER2(+) 乳癌用的標靶藥物 trastuzumab [Herceptin] 也是會有心臟毒性的藥物）；紫杉醇類則是具神經毒性\n(B) 正確，化療造成的白血球低下 (chemotherapy-induced neutropenia, CIN) 在 10-14 天最低這個概念同學想必都不陌生，怕忘記的話，知道正常骨髓製造白血球的時間大約就是 10-14 天\n(C) 周邊神經病變是紫杉醇最常見的副作用之一，症狀包含手腳麻木、無力、抽筋等；另外紫杉醇也可造成皮膚（皮疹、掉髮）、腸胃道（噁心嘔吐、腹瀉、黏膜破損）、內分泌（水腫、高血脂）等副作用\n(D) 白血球生長素 (G-CSF) 在化療病人有 (1) WBC<1000/mm³ 或 ANC<500/mm³；(2) 嗜中性白血球過低而併發嚴重感染；(3) 化療為 high-risk regimen 才建議施打來預防 febrile neutropenia，小美的 ANC ≥ 500 且無症狀，因此不建議常規使用",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-44_merged.png",
     "explanation_images": null
   },
   {
@@ -14558,8 +14558,8 @@
       "D": "睪丸手術固定即可降低患側睪丸癌風險"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 隱睪症的診斷主要靠睪丸觸診（再由腹腔鏡檢查確認），但可能有偽陽性狀況，如天冷或小孩緊張，提睪肌收縮而睪丸被拉近鼠蹊部、小孩皮下脂肪太厚等，摸不到睪丸也可能是其他疾病，如無睪丸畸形 (anorchia)\n(B) 由於未下降的睪丸於腹腔中溫度過高，最早 6 個月大時就可能傷害製造精子的環境，2 歲時影響精子生成 (spermatogenesis)；因此，睪丸固定術 (orchiopexy) 的手術時機建議 6-12 月大時施行\n(C) 取決手術時間點，若已有不可逆的傷害，則生育力不會恢復\n(D) 罹患睪丸癌的風險被認為在出生前就已決定，而發生隱睪症則透露睪丸是易出錯的，未來更可能有癌症，卻不代表隱睪症會直接促成睪丸癌，上述論調是基於流行病學觀察：隱睪症患側有 2-8 倍較正常人罹患睪丸癌的風險，其正常側睪丸也有近 2 倍的睪丸癌風險，2007 年一篇 NEJM 研究發現，13 歲前施行睪丸固定術的人較正常人有 2.2 倍罹患睪丸癌的風險，13 後施行則有 5.4 倍風險，他們得出「青春期前接受睪丸固定術可降定睪丸癌風險」的結論，本選項敘述上有瑕疵，但筆者認為是想考「接受手術並不能降低隱睪症患者較易罹患睪丸癌」的事實\n\n參考資料：A Pettersson, et al. (2007). Age at surgery for undescended testis and risk of testicular cancer. NEJM, 356(18), 1835-1841.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-45_merged.png",
     "explanation_images": null
   },
   {
@@ -14575,8 +14575,8 @@
       "D": "復發"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "送分題！不要被騙了，幾乎所有手術最常見的短期併發症都是疼痛與出血，這題沒有出血的選項，那就選疼痛！感染也不少見，但是跟疼痛、出血相比也是少了大家\n\n猜是這樣猜啦，下表是 NEJM 一篇約 2000 人 RCT 做出來的結果，可以發現最常見的確實是出血（血腫）與疼痛，而 (D) 選項的「復發」在短期內很少見，值得一提的是這篇的 primary outcome 在看 2 年後疝氣的復發率，結果是腹腔鏡手術的 10.1% 大大超過傳統手術的 4.9%，代表腹腔鏡修補鼠蹊疝氣的復發率比傳統手術高\n\n| 術後短期併發症 | 傳統手術 | 腹腔鏡手術 |\n| :--- | :--- | :--- |\n| **血腫** | 13.6% | 16.4% |\n| **疼痛** | 3.6% | 4.2% |\n| **傷口感染** | 1.4% | 1.0% |\n| **睪丸炎** | 1.1% | 1.4% |\n| **泌尿道感染** | 0.4% | 1.0% |\n| **尿液滯留** | 2.2% | 2.8% |\n\n參考資料：L Neumayer, et al. (2004). Open mesh versus laparoscopic mesh repair of inguinal hernia. NEJM, 350(18): 1819-1827.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-46_merged.png",
     "explanation_images": null
   },
   {
@@ -14592,8 +14592,8 @@
       "D": "標準治療方法為手術切除"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "圖中尾骶部突出且破裂的腫瘤應為尾骶骨畸胎瘤 (sacrococcygeal teratoma)，是胎兒與新生兒腫瘤中最常見的腫瘤（女 > 男），同時也是成年以前 germ cell tumor 中最常見的畸胎瘤種類，多是良性，但兩個月大後出現者惡性機率高\n1. 症狀：胎兒時期有羊水過多、胎兒水腫，最嚴重可因盜血症候群導致胎兒高輸出性心衰竭死亡；腫瘤過大會擠壓周遭的肛門或會陰，致膀胱出口阻塞、腎積水、直腸狹窄或閉鎖\n2. 診斷：產前可由定期超音波發現，並可進一步做進階超音波或 fetal MRI；出生後根據臨床發現即可診斷，可考慮做影像學檢查確認無腹腔內病灶\n3. 預後：胎兒在懷孕週數 30 週之前或出生後 2 個月後發現者預後最差；根據型態分類，第一型和第二型惡性機率低、預後佳，第三型和第四型則相反\n4. 治療：完整的手術切除，若兩個月大後才出現者建議先做切片，惡性的情況先進行化學治療後再切除",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-47_merged.png",
     "explanation_images": null
   },
   {
@@ -14609,8 +14609,8 @@
       "D": "上腸繫膜動脈徵候群（superior mesenteric artery syndrome）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題光看圖片不一定能想到對應疾病，建議用刪去法作答：膽汁性嘔吐可以先排除肥厚性幽門狹窄；上腸繫膜動脈症候群好發於年輕女性（10~30 歲），且症狀偏慢性因此也排除；十二指腸閉鎖通常在出生後 1~2 天內出現嘔吐，且影像特徵為 double bubble sign，與題目描述不符\n\n中腸旋轉不全合併扭轉 (malrotation and midgut volvulus) 源自胚胎 10~12 週的發育異常，症狀多在出生後數週內發生，一開始為膽汁性嘔吐與餵食不佳，嚴重者可導致腸缺血、休克甚至死亡；腹部 X 光可見擴張的近端腸道 (dilated proximal bowel) 與無空氣的遠端腸道 (paucity of distal bowel gas)，或是在扭轉處出現 corkscrew sign 等",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-48_merged.png",
     "explanation_images": null
   },
   {
@@ -14626,8 +14626,8 @@
       "D": "血管攝影（angiography）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "X 光與超音波是最常見的初步診斷工具，X 光往往只能透露有腸阻塞，多半需借助上消化道攝影或鋇劑灌腸（後者敏感度較低），在上消化道攝影下能辨別阻塞位置，並從 corkscrew sign（開瓶器）認定為 midgut volvulus；超音波有時能看到 whirlpool sign（漩渦狀）或 SMA/SMV 位置錯置；若用腹部 CT 能更清楚看見上述 signs，但因放射線問題需審慎使用\n\n中腸扭轉並非血管阻塞問題，因此 (D) 血管攝影對診斷沒有幫助",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-49_merged.png",
     "explanation_images": null
   },
   {
@@ -14643,8 +14643,8 @@
       "D": "克隆氏症（Crohn's disease）引起之腸皮瘻管（enterocutaneous fistula）可以接受手術治療"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "要記得一個關鍵：IBD 的治療都以藥物優先，其中克隆氏症 (Crohn's disease, CD) 可能影響消化道任何一段，因此其手術適應症更嚴格且後線，(C) 明顯錯誤，潰瘍性結腸炎 (ulcerative colitis, UC) 在慢性化或可能癌變時則可考慮手術切除直腸，底下補充 IBD 的治療方式與手術適應症：\n\n| IBD 藥物治療 | |\n| :--- | :--- |\n| **Salicylates** | 輕 - 中度 IBD 的第一線藥物，抑制腸黏膜的 cyclooxygenase 來抗發炎 |\n| **類固醇** | 急性發作的一線治療，但副作用多，無法脫離使用是 IBD 手術時機 |\n| **免疫抑制劑** | 前兩藥物無效時常使用 azathioprine 與 6-MP 治療，但通常要 6-12 週才有效果，因此類固醇仍需繼續使用；cyclosporine 主要抑制 T 淋巴球功能，也對部分病人有效 |\n| **生物製劑** | TNF-α inhibitor（如 infliximab, adalimumab）對中重度 IBD 療效不錯 |\n| **抗生素** | 用於 CD 病人可預防腹內感染 |\n\n| IBD 手術適應症 | |\n| :--- | :--- |\n| **Crohn's disease** | **Ulcerative colitis** |\n| 部分腸切除（肉眼可見部分切除即可，留 margin 預後沒有比較好）<br>• Crohn's colitis ± megacolon<br>• 藥物治療失敗（副作用或無效）<br>• 併發症，如阻塞、出血、穿孔、腸皮瘻管、癌化風險等 | Total colectomy with end ileostomy（緊急）<br>• 急性大量出血<br>• Fulminant colitis<br>• Toxic megacolon<br><br>Total proctocolectomy with ileostomy（選擇性）<br>• 藥物治療失敗<br>• 癌化風險 |\n\n每年都會考 CD 和 UC 的比較，列於【112-1(三)16】詳解",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-50_merged.png",
     "explanation_images": null
   },
   {
