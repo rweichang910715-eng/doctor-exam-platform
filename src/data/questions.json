@@ -15000,8 +15000,8 @@
       "D": "高血壓但可以藥物控制"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "90% 的受腎者在移植腎臟時不須要移除自身腎臟，因為其仍可以製造紅血球生成素和幫助 vit D 合成，除了以下的適應症：\n1. 嚴重蛋白尿\n2. 頑固性高血壓（口服多種血壓藥也難以控制）\n3. 持續性血尿\n4. 有導致持續或反覆感染之因子（如尿逆流、結石）\n5. 會引起壓迫\n6. 惡性腫瘤\n\n簡言之，會有無法控制的症狀就要移除，(D) 可藥物控制的高血壓不一定要移除腎臟，而 (B) 有症狀的多囊腎可能會有持續性蛋白尿，甚至因為多囊腎壓迫其他器官，需考慮移除",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-71_merged.png",
     "explanation_images": null
   },
   {
@@ -15017,8 +15017,8 @@
       "D": "假性囊腫形成（pseudocyst formation）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "有關急性胰臟炎的併發症，第一印象大概離不開假性囊腫、組織壞死或膿瘍，所以先排除 (D)，剩下三項有點難選，但回想一下解剖會發現肝動脈不是供應胰臟的血管，即使併發症有假性動脈瘤也不應該出現在肝動脈，用這樣想的話直接選 (C) 也合理，假性動脈瘤為假性囊腫隨時間逐漸侵蝕相鄰動脈形成，最常發生在胃十二指腸動脈 (gastroduodenal artery)、其次為脾動脈 (splenic artery)\n\n補充 Schwartz 提到的胰臟炎併發症：\n| 併發症 | 急性胰臟炎<br>早期 (<4 wk) → 晚期 (>4 wk) | 慢性胰臟炎 |\n| :--- | :--- | :--- |\n| **間質水腫性 (interstitial/edematous，單純積液)** | acute peripancreatic fluid collection → 假性囊腫 | • 假性囊腫<br>• 胰臟膿瘍（後腹腔）<br>• 胰管／膽管阻塞<br>• 腹水、腸胃道阻塞<br>• 靜脈血栓<br>• 假性動脈瘤<br>• 胰臟癌 |\n| **組織壞死性 (necrotizing)** | acute necrotic collection → walled-off necrosis (WON) | |\n| **其他（晚期）** | • 胰臟膿瘍（後腹腔）<br>• 胰管／膽管阻塞<br>• 腹水、腸胃道阻塞<br>• 靜脈血栓 | |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-72_merged.png",
     "explanation_images": null
   },
   {
@@ -15034,8 +15034,8 @@
       "D": "avascular necrosis of femoral head"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "X 光顯示病人左側股骨頭不在髖臼裡，為髖關節脫臼，電腦斷層則清楚顯示股骨頭相較髖臼胰向後移位，因此選 (B)\n\n另外 (C) 異位性骨化是好發在脊髓損傷、創傷性腦傷、中風後患者，在創傷數週至數月後出現正常骨骼外，成熟的骨小樑堆積；此病症也可出現在 trauma（如燒傷）或接受髖關節置換的人身上，髖關節是最好發的位置，X 光上表現為出現新生骨質，但通常在有症狀 1-2 個月後，骨質逐漸成熟才明顯顯影\n\n其他考點：\n• 常見關節脫臼的方位：肩、膝關節 → 前脫位；肘、髖關節 → 後脫位",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-73_merged.png",
     "explanation_images": null
   },
   {
@@ -15051,8 +15051,8 @@
       "D": "prostate gland hypertrophy"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "影像中亮亮圓圓的就是 VCUG 脹尿後的膀胱，脹尿後遇到車禍傷到膀胱時特別容易發生膀胱破裂，可以看到影像的膀胱上緣邊界模糊，另外可以看到 contrast 跑到 cul-de-sac 等腹腔內低點的位置，代表尿液從膀胱滲出，另外，膀胱頂部 (dome) 發生破裂也是最常見的膀胱破裂位置\n\n(A) 理論上，一個正常人應該是無法透過 VCUG 看出 ureter rupture，因為 contrast 不會跑到 ureter 內，但膀胱輸尿管逆流 (VUR) 的病人就有可能會看到顯影劑到 ureter 某個高度就沒了，並且一樣會在腹腔內有顯影劑出現\n(C) 如果有 pseudodiverticulum，應該會看到有一個小球連接著 bladder，此影像看出膀胱（除了頂部）算是蠻完整的球狀\n(D) 攝護腺肥大用 VCUG 一般無法判斷，要透過肛門指診以及臨床的泌尿道症狀來判斷",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-74_merged.png",
     "explanation_images": null
   },
   {
@@ -15068,8 +15068,8 @@
       "D": "狗咬傷：amoxicillin-clavulanate"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "被動物咬傷主要需考慮動物口腔內細菌，其次是人體皮膚常見細菌，快速的記法是陸上動物用 amoxicillin-clavulanate [Curam, Augmentin]、海裡動物用 fluoroquinolone 類\n\n| 分類 | 菌種 | 預防性抗生素 |\n| :--- | :--- | :--- |\n| **人體表皮菌** | Gram(+)：Staphylococcus、Streptococcus | amoxicillin-clavulanic acid |\n| **哺乳類口腔菌（以貓狗為主）** | Gram(-)：Pasteurella spp., Capnocytophaga spp., Bartonella henselae（貓抓病） | amoxicillin-clavulanic acid<br>*Bartonella henselae 傳染力低，有症狀或懷疑再加上 azithromycin, doxycycline |\n| **水生物菌叢** | Gram(-)：Vibrio spp.,（海水）Aeromonas（淡水） | fluoroquinolone<br>*單用於預防有效，但嚴重感染需再加上 3rd cephalosporin 治療 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-75_merged.png",
     "explanation_images": null
   },
   {
@@ -15085,8 +15085,8 @@
       "D": "若需緊急輸FFP，可選用O型血漿"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "112 年國考真的滿愛考外傷輸血的，包含【112-1(五)1】和【112-2(五)1】，只要知道出血分級，還有緊急輸血的血漿：血小板：紅血球比例 = 1:1:1~1:1:2，最後 O 型是萬用紅血球，AB 型是萬用血漿就可以作答了！\n\n附上低血容性休克分級，本題病人從血壓下降合併心跳 >120 來看，屬於第三級出血\n| 評估項目 | 第一級 | 第二級 | 第三級 | 第四級 |\n| :--- | :--- | :--- | :--- | :--- |\n| **失血量** | <750 ml (15%) | 750~1500 ml (15~30%) | 1500~2000 ml (30~40%) | >2000 ml (>40%) |\n| **心搏速率** | <100 | >100 | >120 | >140 |\n| **血壓** | 正常 | 正常 | 下降 | 下降 |\n| **脈搏壓** | 正常 | 下降 | 下降 | 下降 |\n| **呼吸速率** | 14~20 | 20~30 | 30~40 | >40 (或 35) |\n| **意識狀態** | 輕微不安 | 中度焦躁 | 錯亂 | 嗜睡、昏迷 |\n| **尿量 (ml/hr)** | 正常或 >30 | 20~30 | 5~15 | 極少 |\n| **恆定狀態、輸液** | 可代償，對晶體輸液反應良好 | | 無法代償，需晶體輸液 + 輸血 | |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-76_merged.png",
     "explanation_images": null
   },
   {
@@ -15102,8 +15102,8 @@
       "D": "低血鈣"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "註：使用 ileus 一詞，通常指稱無動性腸阻塞 (adynamic/paralytic ileus)，與機械性腸阻塞 (mechanical obstruction) 區別\n\n無動性腸阻塞在老年人住院時很常見，常見原因包括腹部手術後、腹部疾病（如腹膜炎、胰臟炎）、藥物使用（如嗎啡類、抗膽鹼類、濫用止瀉劑）、代謝與電解質失衡（如低血鉀、尿毒症、糖尿病），也可發生於高血鈣、低血鈉病患，但與低血鉀相比非常少見",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-77_merged.png",
     "explanation_images": null
   },
   {
@@ -15119,8 +15119,8 @@
       "D": "①③④"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "這題不知道細則應該也能答對，以下附上〈「醫師與廠商間關係」守則〉中較重要的部分，有興趣者可以上網搜尋衛生福利部「醫師與廠商間關係」守則\n\n醫師參加廠商主辦或贊助之醫學會會議，應遵守：\n• 學術討論時間應達總時間三分之二以上\n• 接受贊助以本人之註冊費、旅費及膳食費為限、擔任演講人得收適當之演講費\n• 會議中發表之資料應符合科學實證，不受贊助廠商影響，並應平衡論述\n• 應拒絕廠商對會議內容、發表方式、講員之選定\n• 應公開贊助廠商名稱及主辦單位、演講者、主持人與贊助廠商間之關係\n\n醫師接受廠商餽贈，應遵守：\n• 符合當地慣例且非昂貴之禮物\n• 不可收受金錢或等同現金之禮券或有價證券\n• 不得因餽贈而約定或暗示使用特定醫藥產品或轉介病人至特定處所",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-78_merged.png",
     "explanation_images": null
   },
   {
@@ -15136,8 +15136,8 @@
       "D": "內在因素的妥協（compromise）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "知情同意三要素中強調，必須要有告知（以病人可理解的方式呈現）、決定能力（病人有了解訊息及合理預見後果的能力）以及自願（不受任何不當影響而選擇健康照護方式的權利），而影響其自願的因素包含內在因素的妥協以及外在因素的影響（外力約束、心理脅迫、不正當之操控）\n\n本題的臨床醫師刻意強調手術後的疼痛及併發症，引導病人在未全面了解利弊的情況下做出選擇，屬於外在因素影響自願的例子，且是以操弄片面化資訊的方式，屬於 (B) 不正當之操控",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-79_merged.png",
     "explanation_images": null
   },
   {
@@ -15153,8 +15153,8 @@
       "D": "醫師可自由決定優先順序"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "醫療資源分配的中心思想是效益主義 —「讓最多人得到最大的資源使用效益」，簡單來說就是盡可能救活更多人；然而醫療決策者在分配資源時也必須考量實質平等，不因種族、性別、年紀等因素影響公平，實務上主要透過以下兩項觀念來分配醫療資源：\n\n| 項目 | 內容 |\n| :--- | :--- |\n| **客觀分配原則** | 在特殊或極端情境下，決策者必須依據客觀事實（疾病狀態、預後和是否能長久獲益等）合理分配醫療資源<br>例如：檢傷分類中先排除已死亡或餘命短的病人、選擇器官移植受贈者 |\n| **客觀評估工具** | 1. SOFA score：評估器官功能，經常用於急重症場域<br>2. 最大生命年 (maximizing life-years)：拯救最多數且達最多年的生命<br>3. 生命週期原則 (life-cycle principle)：以一個人存活後有機會體驗完整人生為原則，因此年輕人可較優先得到資源<br>4. 工具性價值 (instrumental value)<br>5. 廣泛社會價值 (broad social value) |\n\n回到本題，無論是抽籤或是先排先贏都不符合實質平等，且醫師應依循客觀的原則與工具分配資源，因此答案為 (C)，現行臨床的評估工具以 SOFA score 和最大生命年最為常見\n\n參考資料：謝宛婷、林秀娟 & 林宏榮 (2020), COVID-19 大流行：匱乏醫療資源的分配倫理，臨終人道關懷和健康照護機構的法律責任，臺灣醫界, 63(7), 51-57",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-80_merged.png",
     "explanation_images": null
   },
   {
