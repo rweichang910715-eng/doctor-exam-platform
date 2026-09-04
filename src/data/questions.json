@@ -14660,8 +14660,8 @@
       "D": "手術中殘留血塊，形成膿瘍"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "做過結腸切除手術加上白色引流液，可以單從顏色懷疑是淋巴滲漏 (chyle leakage)\n(A) 腸吻合處滲漏應是混濁引流液，可能有糞渣或混雜氣體\n(B) 尿液滲漏應是黃色，或測到引流液 BUN 及 creatinine 異常升高\n(D) 血塊形成膿瘍，引流液應是膿狀並混雜血塊",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-51_merged.png",
     "explanation_images": null
   },
   {
@@ -14677,8 +14677,8 @@
       "D": "sciatic nerve"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "複習一下肛管的神經支配：\n\n| | |\n| :--- | :--- |\n| **感覺 (sensory)** | 上 1/2 黏膜 → hypogastric plexus<br>下 1/2 黏膜 → inferior rectal nerve（pudendal nerve 分支，S2-S4） |\n| **運動 (motor)** | 內括約肌 → hypogastric plexus<br>外括約肌 → inferior rectal nerve（pudendal nerve 分支，S2-S4）+ perineal branch of S4 |\n\n解剖小題醒：pudendal nerve 是從 lesser sciatic foramen 進入骨盆後，才穿過 pudendal canal",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-52_merged.png",
     "explanation_images": null
   },
   {
@@ -14694,8 +14694,8 @@
       "D": "①②③④⑤"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "孕婦懷孕期間接受手術的原因，最常見是急性闌尾炎和膽囊炎，其他原因包括卵巢囊腫／扭轉、腎上腺腫塊、脾臟切除、疝氣等，過去視懷孕為腹腔鏡手術的禁忌症，擔心 (1) trocar 會傷及子宮 (2) 腹腔鏡打氣，將壓迫血管造成胎兒血流供應不佳，但外科醫師的經驗累積，加上實證證據支持，若有適應症（包含診斷與治療），「腹腔鏡手術可安全地在任何孕期的孕婦施行」，一般人使用腹腔鏡的優點在孕婦仍然保有，如術後恢復較快、較少術後疼痛與腸沾黏／阻塞、減少傷口併發症（如感染、疝氣），其他留意事項：第二、三孕期孕婦在擺位上盡量向左側躺；術中腹內壓與正常人 10-15 mmHg 相仿；因氣腹關係，術中通常無法進行非侵入性胎心音監測，一般只要在術前與術後監測即可",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-53_merged.png",
     "explanation_images": null
   },
   {
@@ -14711,8 +14711,8 @@
       "D": "腹腔鏡脾切除手術可以在患者處於仰臥或側臥的情況下進行"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 筆者認為這個選項不完全正確，自從腹腔鏡脾切除手術發明以來，已經成為選擇性脾切除的首選，除非是有 trauma 或禁忌症才會首選 open surgery，但此處手術安全性的定義不夠明確：有些文獻做出來發現在沒有 conversion 的情況下，腹腔鏡脾切除的出血量、住院時間、併發症（如：傷口感染）的比率較低，如果這算是手術安全性的一部分，這個選項以「無差別」來形容有點武斷\n(B) 正確，從腹腔鏡 convert 到 open 最常見原因就是出血，而出血在 open surgery 比較好控制，選項中所列其他項目也是變成 open surgery 的可能原因，一般來說，手術前會評估病人是否為困難脾切除，研究做出來發現與年齡、性別、脾臟重量、病理分類這四者有關（會去計算 difficulty score），若分數太高就不會選擇腹腔鏡切除\n(C) 錯誤，脾腫大可能會造成門脈高壓，此時若透過腹腔鏡手術會有較高機率產生出血併發症而需要 conversion\n(D) 正確，常見的擺位以 right lateral decubitus、right hemilateral decubitus（45 度傾斜）、anterior (supine)，其中右側臥好處是 hilar 的解剖 landmark 比較清楚明瞭、仰躺的好處則是若同時需要進行其他手術（如：膽囊切除）或是有預期會 convert 到開腹手術則比較方便\n\n其他考點：Hand assisted laparoscopic splenectomy (HALS) 是切一個 7-8 公分的切口，讓一手可以穿到腹腔內引導器械，在脾臟較大的病人（最大直徑超過 22 cm）會採用此做法，文獻提到即便 HALS 有做一個較大切口，術後疼痛卻跟一般腹腔鏡沒有差異\n\n參考資料：EP Misiakos, et al. (2017). Laparoscopic splenectomy: Current concepts. World journal of gastrointestinal endoscopy, 9(9): 428.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-54_merged.png",
     "explanation_images": null
   },
   {
@@ -14728,8 +14728,8 @@
       "D": "在腹腔鏡手術下的皮質素（cortisol）濃度比傳統手術較高"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "腹腔鏡手術由於傷口小、組織傷害小，因此術中免疫抑制反應較低，術後也恢復較快，過去研究認為腹腔鏡手術下的皮質素比傳統手術有略低的趨勢，只是兩者並未達到顯著的統計差異，而其最嚴重也罕見的手術併發症即是氣體栓塞\n\n(B) 錯誤，氣腹比起撐開器，可使手術中視野呈現及可運作空間更佳，目前常用 CO2 將腹壓維持在 10-15 mmHg",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-55_merged.png",
     "explanation_images": null
   },
   {
@@ -14745,8 +14745,8 @@
       "D": "multiple exostosis可能是自體顯性遺傳疾病"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "以良性骨腫瘤作為考點實在很不友善，筆者認為重心還是要放在惡性腫瘤和各骨腫瘤好發的位置，遇到太刁鑽的細節就隨緣吧\n(A) 最常見的良性骨腫瘤為骨軟骨瘤 (osteochondroma，就是有軟骨帽像蘑菇的那個)，另外補充最常見的惡性骨腫瘤小孩為 osteosarcoma、Ewing's sarcoma；大人為 chondrosarcoma\n(B) 單純的多發性內生軟骨瘤 (multiple enchondromatosis) 稱為 Ollier's disease；Maffucci syndrome 則是多發性內生軟骨瘤合併多發性良性血管瘤 (hemangioma) 的自體顯性遺傳疾病，且多伴隨膠質細胞瘤、卵巢癌風險\n(C) chondromyxoid fibroma 常見於脛骨近端幹骺 (metaphysis)\n(D) 正確，多發性骨軟骨瘤 (multiple osteochondromatosis，又稱 multiple exostosis) 為自體顯性遺傳疾病，和單發性骨軟骨瘤皆好發於長骨幹骺，但轉成惡性的機會較高",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-56_merged.png",
     "explanation_images": null
   },
   {
@@ -14762,8 +14762,8 @@
       "D": "Anderson and D'Alonzo分類中，第三型骨折血循較佳，癒合率較高，處理以保守治療為主"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "第二頸椎 (C2) 的椎齒突（齒狀突，odontoid fracture or dens）為其前端向上突起、C1 引以為軸水平轉動的結構，其骨折常用 Anderson and D'Alonzo classification，簡述如下（建議搜尋示意圖，配合理解）：\n\n| 分型 | 骨折部位 | 特徵與治療 |\n| :--- | :--- | :--- |\n| **Type I** | 齒狀突的上段 (tip) 骨折 | 罕見、相對穩固 |\n| **Type II** | 齒狀突的基底／交界處 (base) 骨折 | 最常見（佔 2/3）、不穩固，因接觸面少，有最高 non-union 風險，年紀大與位移量大是風險因子<br>通常須介入做固定手術 |\n| **Type III** | 比 Type II 更下方骨折，並側向裂入 C2 body，可能涉及關節面 | 次常見、相對穩固<br>有最好的癒合率，一般以保守治療（頸圈固定）即可 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-57_merged.png",
     "explanation_images": null
   },
   {
@@ -14779,8 +14779,8 @@
       "D": "即使周邊脈搏還存在，仍無法排除其可能性"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "又是一個可以靠語意答題的良心題目\n\n「前臂」腔室症候群在小孩最常見是因為 supracondylar fracture，而成人則最常見是因為 distal radius fracture，臨床症狀不能忘記 5P：Pallor, Pain, Paresthesia, Paralysis, Pulseless，其中 Paresthesia 是感覺異常，是神經缺血時會有的症狀，診斷上則依賴臨床症狀、理學檢查以及腔室內壓力，最敏感的臨床檢查是不成比例的疼痛，這通常是最先有的症狀，尤其是在被動式伸展的時候，相對的，失去周邊脈搏通常是最後出現的症狀，也因此不能因為還測得到周邊脈搏就排除這個狀況，治療則是要盡快手術減壓與 fasciotomy，否則可能導致不可逆的神經與肌肉壞死\n\n(A) 選項的 Volkmann ischemic contracture 是前臂缺血時讓肌肉攣縮而變得僵硬，症狀上會看到 elbow flexion, forearm pronation, wrist flexion, finger 近端 extension 而遠端 flexion，但是嚴重度上有分三級，其中輕微的只影響到 2-3 隻手指，可能也不一定有感覺異常，因此仍可以有正常功能\n\n【112-2(五)22】也是有關腔室症候群的題目，可相互搭配複習",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-58_merged.png",
     "explanation_images": null
   },
   {
@@ -14796,8 +14796,8 @@
       "D": "肌腱斷端修補後應該利用鐵絲將髕骨與脛骨作固定"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(C) 解剖上，髕骨向上和股四頭肌肌腱相連，向下以髕骨肌腱與脛骨相接，因此髕骨肌腱斷裂時僅剩股四頭肌肌腱的拉力向上，膝蓋骨位置會更高\n\n| 比較項目 | 髕骨肌腱斷裂 | 股四頭肌肌腱斷裂 |\n| :--- | :--- | :--- |\n| **性別** | 男 > 女 |\n| **好發年紀** | <40 歲 | >40 歲 |\n| **傷害機轉** | 膝蓋伸展時離心加重 (eccentric loading)，常發生在膝蓋微彎時 | 膝蓋屈曲時股四頭肌出力或遭受外力傷害，常發生在膝蓋彎曲 >60° 時 |\n| **症狀** | 疼痛、膝蓋無法主動伸直 |\n| **治療** | 修補肌腱，可考慮以鐵絲做固定 | 修補肌腱與髕骨相連處 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-59_merged.png",
     "explanation_images": null
   },
   {
@@ -14813,8 +14813,8 @@
       "D": "可在短肢進行骨延長術（bone lengthening）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "兒童長短腳 (leg length discrepancy) 的治療分成保守治療與手術治療兩大類，對於生長板尚未閉合的兒童，目前的共識為估計骨骼成熟時的長短腳 <2 cm 先保守治療（如觀察或穿 shoe lift）；≥ 2 cm 或合併嚴重神經症狀才考慮手術治療，本題估計的長度為 1.5~3.5 cm，考量骨骼發育未成熟與手術風險，現階段保守治療最適合\n\n| 估計骨骼成熟的長短腳 (cm) | 治療 |\n| :--- | :--- |\n| **<2** | 保守治療 |\n| **2~5** | 保守治療、長肢股骨縮短手術 (femoral shortening)、長肢生長板抑制手術（epiphysiodesis，生長板已閉合者不能做） |\n| **>5** | 短肢骨延長術 (limb lengthening)、義肢 (prosthetic leg) |\n\n重要：4~8 歲男童有單側股骨頭缺血性壞死，要想到 Legg-Calvé-Perthes Disease (LCPD)\n\n參考資料：B Vogt, et al. (2020). Leg length discrepancy — treatment indications and strategies. Deutsches Ärzteblatt International, 117(24), 405.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(五)-60_merged.png",
     "explanation_images": null
   },
   {
