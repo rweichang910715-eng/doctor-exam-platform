@@ -16795,8 +16795,8 @@
       "D": "症狀嚴重的病人可以使用dihydropyridine鈣離子阻斷劑減輕症狀"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Raynaud's phenomenon 是可逆性的肢端缺血現象，常由低溫與壓力誘發，典型為蒼白、發紺、發紅至少兩色相，Raynaud's phenomenon 又分為原發性及次發性，見下表：\n\n| 項目 | 原發性 (primary) | 次發性 (secondary) |\n| :--- | :--- | :--- |\n| **比率** | 80-90% | 10-20% |\n| **原因** | idiopathic，但常因高血壓、動脈粥狀硬化、冠狀動脈心臟病、糖尿病等而加劇 | 結締組織疾病：主要包括全身性硬化症 (SSc)、SLE、混合型結締組織疾病 (MCTD) |\n| **臨床特性** | 症狀輕微、對稱<br>沒有自體抗體、不侵犯拇指<br>甲摺鏡正常 | 症狀較嚴重、不對稱<br>會有組織缺血的傷害（如手指 / 腳趾潰瘍）、通常可發現自體抗體<br>甲摺鏡微血管異常 |\n\n(D) Raynaud's phenomenon 治療第一線是避免 triggers，接著為藥物，首選為 CCB（特別是主要作用為舒張周邊血管的 DHP-CCB），其他藥物包括 α-blockers, nitrates, aspirin, PDE inhibitors, endothelin-1 (ET-1) receptor antagonist 等",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-11_merged.png",
     "explanation_images": null
   },
   {
@@ -16812,8 +16812,8 @@
       "D": "colchicine用於治療急性不明原因性心包膜炎（acute idiopathic pericarditis）病人的標準治療期程不可超過兩週，否則轉變成慢性心包膜炎的機率會增加"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 在急性（<6 週）心包膜炎的病理分類中，Harrison 將其分為 fibrinous 和 effusive 兩類，主要是依不同發炎原因，造成相異的發炎後外觀和積液類型：fibrinous 的心包膜表面較乾、呈粗糙顆粒狀，並會有纖維蛋白的滲出液 (fibrinous exudate)，背後原因可為 post-MI、癌症、免疫疾病、創傷等；effusive 則以較溼、多積液為表現，多為感染性原因\n\n(B) 錯誤，胸痛非罕見症狀，急性心包膜炎最常見的四個臨床表現：發燒、胸痛、心包膜積水（可能無症狀）、聽診發現 friction rub\n\n(C) friction rub 是個高度專一性的身體檢查發現，最常在 LLSB 的位置聽見，各文獻提及其在急性心包膜病人的盛行率不一，介於 35%~85%，受聽診者專精度、聽診次數、積液量多寡影響\n\n(D) 在急性不明原因性心包膜炎的病人，colchicine 合併 NSAID 類藥物治療，比起單純以 NSAID 類藥物治療可以顯著降低心包膜炎再發率，其療程最長可持續 3 個月，故超過兩週的療程並不會增加轉變成慢性心包膜炎的機率",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-12_merged.png",
     "explanation_images": null
   },
   {
@@ -16829,8 +16829,8 @@
       "D": "一位50歲女性診斷有擴大型心肌症（dilated cardiomyopathy），平常可以躺平一覺睡到天亮，最近2個禮拜腳漸漸腫起來，需要頭部墊兩個枕頭才有辦法躺下來睡"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "NYHA functional classification 是用來評估心衰竭的嚴重程度，分級如下：\n\n| NYHA Class | 心衰竭症狀描述 |\n| :--- | :--- |\n| **I** | 在活動時沒有任何受限或影響 → (A) |\n| **II** | 和原本的活動比起輕微受限 → (C) |\n| **III** | 和原本的活動比起明顯受限 → (B) |\n| **IV** | 休息時也會有症狀 → (D) |\n\n這題的關鍵是要和未發病前的自己比較！雖然症狀上 (C) 的男性看似比較嚴重，但他日常是走平路 20 公尺到便利商店，雖然有症狀但是還是有辦法走完，相對 (B) 的工人平常就是扛 20 公斤爬到二樓都不用休息，現在在扛比較輕卻還是爬不完樓梯，代表是有症狀而且跟他原本比起受限不少，屬於 NYHA class III",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-13_merged.png",
     "explanation_images": null
   },
   {
@@ -16846,8 +16846,8 @@
       "D": "5"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "CHA₂DS₂-VASc score 是心房顫動 (atrial fibrillation) 病人中風風險最普遍使用的評估工具\n\n| CHA2DS2-VASc score | 分數 | CHA2DS2-VASc score | 分數 |\n| :--- | :--- | :--- | :--- |\n| **Congestive heart failure** | 1 | **Stroke/TIA** | 2 |\n| **Hypertension** | 1 | **Vascular disease** | 1 |\n| **Age ≥ 75 yrs** | 2 | **Age 65-74 yrs** | 1 |\n| **Diabetes mellitus** | 1 | **Sex (female)** | 1 |\n\n本題病人計算後應為 5 分（粗體字項目）\n\n臨床上通常 CHA₂DS₂-VASc >1 分的病人就建議接受預防性抗凝血藥物治療（1 分可用可不用），另外還有一項 HAS-BLED score 可以評估病人使用抗凝血藥物的出血風險",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-14_merged.png",
     "explanation_images": null
   },
   {
@@ -16863,8 +16863,8 @@
       "D": "患者無需每半年接受腹部超音波檢查"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "B 型肝炎的疾病自然史：\n\n| 分期 | 臨床特徵 |\n| :--- | :--- |\n| **免疫耐受期 (immune tolerance)** | 成年以前，HBV 雖在體內複製，但免疫系統不會去攻擊 B 肝病毒，與之和平共處，HBeAg(+), anti-HBe(-) |\n| **免疫廓清期 (immune clearance)** | 約 20 歲左右，人體的免疫系統開始退抗 B 肝病毒，引起肝臟組織發炎、患者肝指數上升，並有急性肝炎的症狀，此時期是進行抗病毒治療的時機，HBeAg(+), anti-HBe(-) |\n| **殘存期 / 不活動期 (inactive residual phase)** | 約 35-40 歲會產生 e-seroconversion (血清轉換 — HBeAg 消失，anti-HBe 出現)，代表人體的免疫機制已大致控制 HBV 於體內的感染狀況（有 1-2% 機率 HBsAg 消失），此時病毒量下降，但仍須追蹤 |\n| **再活化期 (reactivation phase)** | 雖然已血清轉換，HBV 仍可能因病毒突變或病人免疫系統缺失而再活化，此時肝臟組織發炎（大部分為 HBeAg-negative hepatitis）、肝指數異常，也是進行抗病毒治療的時機 |\n\n題幹為肝指數正常、HBeAg(-)、anti-HBe(+)，應為「殘存期 / 不活動期」，病人雖無肝組織發炎或症狀，但仍有肝細胞癌風險，應持續追蹤，(C) 從「媽媽與哥哥也是 B 肝帶原」來看，可合理推測病人的 B 肝可能是垂直感染而得",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-15_merged.png",
     "explanation_images": null
   },
   {
@@ -16880,8 +16880,8 @@
       "D": "G6PD deficiency"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "有黃疸但肝功能都正常時，排除掉溶血，會需要考慮遺傳問題導致的黃疸，主要的機制可以分成無法接合 (conjugation) 以及無法排出 (excretion) 兩種\n\n複習膽紅素 (bilirubin) 產生的機制：\n紅血球破裂產生血紅素 → 代謝成 indirect bilirubin（脂溶，與白蛋白結合）→ 到肝臟轉為 direct bilirubin（水溶）→ 排入膽道進入腸胃道\n\n如果因為無法接合產生的黃疸，indirect form 會上升；如果因為肝臟無法排出已接合的膽紅素至膽道，direct form 會上升，同時身體裡增加的水溶性膽色素會讓尿液變褐色\n\n| 類型 | 尿液 | 疾病 |\n| :--- | :--- | :--- |\n| **unconjugated (indirect)** | 紅色 (hemoglobinuria) | 溶血、G6PD deficiency |\n| | 黃色 | Gilbert's、Crigler-Najjar |\n| **conjugated (direct)** | 茶色 / 褐色 (bilirubinuria) | Dubin-Johnson、Rotor's |\n\n本題為 direct form 為主的黃疸，應選擇 (C) 選項，其他選項皆為 indirect form 為主的黃疸，且 (D) G6PD deficiency 產生的黃疸應是溶血造成的，會同時看到紅色尿\n\n同樣有關 bilirubin 鑑別的題目可參閱【112-2(三)3】",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-16_merged.png",
     "explanation_images": null
   },
   {
@@ -16897,8 +16897,8 @@
       "D": "肛門直腸膿瘍常發生在免疫低下的患者（如糖尿病、血液疾病及HIV陽性的患者）。標準的治療是要切開膿瘍引流"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A)(B) 正確，控制排便的肌肉主要是由肛門內外括約肌及恥骨直腸肌 (puborectalis)，而選項中提到的各種疾患因為肌肉、神經等因素導致大便失禁，腸躁症則多是症狀會有不預期的糊便跟著氣體一起排出，大便失禁的治療除了選項提到的方式外，還可以透過骨盆底肌運動（凱格爾運動）、手術等方式治療\n\n(C) 錯誤，痔瘡分級如下，選項描述為第三級：\n\n| grade | 形容 | 治療方式 |\n| :--- | :--- | :--- |\n| **I** | 沒有脫出肛門口 | 生活改善、藥物 |\n| **II** | 脫出，但可自動縮回 | 生活改善、藥物、rubber band ligation*、sclerosing therapy** |\n| **III** | 用手推才能縮回 | rubber band ligation、excisional hemorrhoidectomy |\n| **IV** | 手推也不會縮回 | excisional hemorrhoidectomy |\n\n生活改善方式包含：飲食（高纖食物、增加水分攝取）、溫水坐浴（增加血流加速癒合）\n藥物如軟便劑、外用 nitroglycerine、類固醇塞劑等\n*rubber band ligation 只能做內痔（做外痔會超痛）\n**sclerosing therapy 現已少做，透過讓痔瘡纖維化，停止流血\n\n(D) 正確，肛門直腸膿瘍 (anorectal abscess) 可分成四種，perianal（80%，最常見）、ischiorectal（15%，若擴散至雙側則稱為馬蹄膿瘍 (horseshoe abscess)）、intersphincteric、supralevator，成因多半為 anal glands 感染而形成膿瘍，40% 更會產生廔管，切開引流是標準治療，但是有可能傷及括約肌而導致大便失禁，發生肛門直腸膿瘍的危險因子包含免疫低下、創傷、發炎性大腸炎、惡性腫瘤、放射線治療等\n\n補充考點：肛門廔管 (anal fistula) 也分為四種，以 intersphincteric 最常見，另有 trans-、supra-、extra-sphincteric type",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-17_merged.png",
     "explanation_images": null
   },
   {
@@ -16914,8 +16914,8 @@
       "D": "X光檢查要注意腸道外的氣體（free air），若有則代表有腸穿孔的可能性，需要緊急手術"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題 (B) 錯誤之處，在導致自發性細菌性腹膜炎的重要因子為「肝硬化下的肝臟無法正常製造蛋白質，使血液中的補體和免疫蛋白過低」，最終導致腸道菌叢易位 (bacterial translocation)，經血液進入腹水產生 SBP\n\n常見兩種腹膜炎的鑑別診斷：\n\n| 項目 | 自發性細菌性腹膜炎 | 續發性腹膜炎 |\n| :--- | :--- | :--- |\n| **成因 / 菌株** | 肝硬化、單一菌株、SAAG >1.1、PMN >250 (PMN-predominant) | 腸穿孔 / 腹膜透析、多菌株、SAAG <1.1、PMN >250 |\n\n相關題目請見【112-1(三)18】",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-18_merged.png",
     "explanation_images": null
   },
   {
@@ -16931,8 +16931,8 @@
       "D": "食道鱗狀上皮細胞癌產生之高鈣血症不會出現在沒有骨骼轉移的病人"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "首先，食道癌 (esophageal cancer) 分為鱗狀上皮癌、腺癌兩類，簡要整理如下：\n\n| 類型 | 好發食道段 | 有關風險因子 | 近年趨勢 | 預後 |\n| :--- | :--- | :--- | :--- | :--- |\n| **鱗狀上皮癌** | 上 2/3（中 1/3 為主） | 酒、菸、少蔬果飲食、腐蝕性傷害、食道遲緩不能、Plummer-Vinson syndrome、HPV 感染 | 減少 | 早期 (stage I, II)：腺癌預後較佳 |\n| **腺癌** | 下 1/3、胃食道交接處 | Barrett's esophagus（來自菸、少蔬果飲食、GERD、制酸劑使用） | 快速增多 | 晚期 (stage III, IV)：預後相當 |\n\n由上表知 (A) (B) (C) 正確，口咽癌除了 ABC（酒 + 檳榔 + 菸），HPV 感染也是高危險群；吞嚥困難問診的第一問通常是：「是喝水困難還是吃固態食物困難？」若僅喝水嗆到，可能是單側聲帶麻痺；若是固態食物難以下嚥、感覺卡卡，則懷疑機械性阻塞（如腫瘤等）；若是水和固態食物都難以下嚥，多半是與神經肌肉接合處 (neuromuscular junction) 有關的食道運動問題（如遲緩不能、廣泛性食道痙攣、硬皮症等）\n\n(D) 選項考 paraneoplastic syndrome，儘管是肺鱗狀上皮癌最常見，但只要是鱗狀上皮癌就可能分泌 PTH-related protein (PTHrp) 而造成惡性高血鈣 (hypercalcemia of malignancy)\n食道癌在外科也愛考，請參考【112-1(五)26】",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-19_merged.png",
     "explanation_images": null
   },
   {
@@ -16948,8 +16948,8 @@
       "D": "內視鏡檢查要注意胃靜脈瘤（gastric varices）的有無和出血跡象"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，治療性內視鏡應在急性出血時儘快進行（12-24 小時內），並同時考慮插管保護呼吸道\n\n(B) 正確，terlipressin 及 octreotide 是人體體抑素 (somatostatin) 的類似物，可以使腸道循環 (splanchnic circulation) 的血管收縮，讓進入 portal vein system 的血液量下降、食道屈張靜脈壓下降，降低出血量，在出血的同時應立即給予靜脈輸注\n\n(C) 錯誤，nonselective beta blockers 是降血壓藥，在病人 active bleeding 時還降血壓，可能會馬上休克，正確使用時機應該是在出血停止後的食道靜脈瘤患者，藉由 β1 block 減少心輸出量、β2 block 收縮腸道循環血管，降低食道屈張靜脈壓，預防出血或再出血事件的發生\n\n(D) 正確，胃靜脈瘤出血的致死率更高，在內視鏡檢查時，應同時排除食道外其他上消化道位置出血的可能\n\n補充：在肝硬化合併食道靜脈瘤急性出血的病人，可靜脈給予 7 日的預防性抗生素 (ceftriaxone)，預防再次出血與降低出血後感染發生率",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-20_merged.png",
     "explanation_images": null
   },
   {
