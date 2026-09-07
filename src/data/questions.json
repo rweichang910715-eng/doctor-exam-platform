@@ -16020,8 +16020,8 @@
       "D": "淋巴血管浸潤（lymph-vascular space invasion）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題考的是子宮頸癌的風險族群，同學記 FIGO 分期之餘（見【112-1(三)36】詳解），也別忘了這部分\n\n| 風險族群 | 條件 | 術後輔助治療 |\n| :--- | :--- | :--- |\n| **中度風險** | Sedlis' criteria 任一：<br>- LVSI(+) + 侵犯間質外層 1/3<br>- LVSI(+) + 侵犯間質中層 1/3 + 腫瘤 >2 cm<br>- LVSI(+) + 侵犯間質內層 1/3 + 腫瘤 >5 cm<br>- LVSI(-) + 侵犯間質中層 / 外層 1/3 + 腫瘤 >4 cm<br>- LVSI = 淋巴血管浸潤 (lymphovascular space invasion) | 同步化學放射治療 (CCRT) 或放射治療 |\n| **高度風險** | Peters' criteria 任一：<br>- 淋巴結侵犯<br>- 子宮頸旁組織侵犯（無論是否顯微）<br>- 標本邊緣侵犯 | 同步化學放射治療 |\n\n目前針對「早期」子宮頸癌的定義沒有明確的共識：部分參考書指的是 FIGO stage IA~IB2，本題則是涵蓋 IIA，但無論用哪種定義，都要記得標準治療上只有早期子宮頸癌建議手術 ± CCRT；之後的期別則是以 CCRT 為主（因手術效益不高）",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-51_merged.png",
     "explanation_images": null
   },
   {
@@ -16037,8 +16037,8 @@
       "D": "骨盆淋巴結轉移（pelvic lymph node metastasis）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "應可直接從字面選擇，子宮內膜癌的高危險因子包括：\n• stage III 以上（意即肌肉侵犯深、有局部擴散及淋巴轉移）\n• 細胞分化不良（分化不良、grade III 以上）\n• 細胞學型態差 (serous or clear cell)\n\n故 (B) 選項分化程度高、復發風險低\n關於子宮內膜癌分期，【112-2(六)51】有考，製表於詳解",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-52_merged.png",
     "explanation_images": null
   },
   {
@@ -16054,8 +16054,8 @@
       "D": "施打子宮頸癌疫苗後，可以不用再做子宮頸抹片檢查"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，CIN 最常見位在鱗柱狀上皮交界處的基底細胞，和 HPV 於此處反覆感染很有關係\n(B) 正確，CIN1 又被稱為低度病變 (LSIL)，大約有 60% 的 CIN1 會自行痊癒、30% 會維持，而只有 10% 左右會進展到高度病變 (HSIL)，包含 CIN2、CIN3，即便是 CIN2 與 CIN3，也都有 40% 與 30% 的機會痊癒，且 CIN3 要進展至侵襲性子宮頸癌的時間緩慢，需 5-10 年以上的時間\n(C) 正確，幾乎所有的 CIN 都是源自 HPV 感染（尤其 HPV16 最多、HPV18 次之），其他危險因子包含：抽菸、過早性行為、長期服用口服避孕藥\n(D) 其他不會應該也看得出這個選項明顯錯誤，即便施打 HPV 疫苗，仍要定期接受抹片檢查！由於 HPV 疫苗沒有涵蓋全部的 HPV 病毒，因此仍可能有感染風險，另外，施打疫苗無法治療已經被感染的病毒，但是可以降低惡性病變的機率，底下附上 HPV 疫苗整理：\n\n| HPV 疫苗 | 2 價 | 4 價 | 9 價 |\n| :--- | :--- | :--- | :--- |\n| **涵蓋型別** | HPV 16, 18 | 2 價 + HPV 6, 11 | 4 價 + HPV 31, 33, 45, 52, 58 |\n| **預防疾病** | 子宮頸癌 | 子宮頸癌 + 其他外生殖器癌、菜花 | 子宮頸癌 + 其他外生殖器癌、菜花 |\n\n• 施打三劑（在第 0, 2, 6 月）、保護力約 10 年（並非永久！）\n• 懷孕者不建議施打\n\n其他考點：\n• 子宮頸癌最常見的細胞型態為 squamous cell carcinoma，adenocarcinoma 次之\n• 衛福部補助 30 歲以上婦女每年至少一次子宮頸抹片檢查\n• 抹片結果後續追蹤與治療：\n\n| 抹片結果 | 後續追蹤與處置 |\n| :--- | :--- |\n| **正常** | 每 3 年至少一次抹片 |\n| **非典型細胞** | 3-6 月內再做一次抹片或 HPV 檢測 |\n| **LSIL** | 3-6 月內再做一次抹片或陰道鏡 |\n| **HSIL** | 陰道鏡、切片、錐狀切除 |\n| **癌症** | 切片與 staging 決定治療方式 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-53_merged.png",
     "explanation_images": null
   },
   {
@@ -16071,8 +16071,8 @@
       "D": "異常出血也有可能是披衣菌等造成性傳染疾病所導致"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) (B) 青少年女性的正常月經週期可為 21-45 天，經期 2-7 天，初經後三年，大多數女性的月經週期已與成人 21-35 (28±7) 天一樣\n\n初經前幾年女性的性荷爾蒙軸線 (hypothalamic-pituitary-ovarian axis) 未完全成熟，會有卵巢功能紊亂 / 不排卵 (anovulatory) 的情況，因此月經週期延長、變異度大；此時期的黃體素也分泌較少，使子宮內膜不穩定，較易出現 estrogen-breakthrough bleeding，(C) (D) 其他青少年女性異常出血的鑑別診斷包括凝血功能異常、懷孕（包含子宮外孕）、藥物（常見為避孕藥）、生殖道或骨盆腔感染、腫瘤等",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-54_merged.png",
     "explanation_images": null
   },
   {
@@ -16088,8 +16088,8 @@
       "D": "臨床上會在人類絨毛膜刺激激素（hCG）注射後約36小時取卵"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題難在要熟悉不孕症的相關數值，但似乎也沒好用的記憶心法，就背數字吧！\n\n(A) 抗穆勒氏管荷爾蒙 (AMH) 是小濾泡 (<8 mm) 顆粒細胞製造，負責抑制成熟初級濾泡生長，直到 FSH 誘導其中一顆分化成次級濾泡為止\n(B) 濾泡細胞主要是在濾泡期生成 inhibin B，黃體期則幾乎不生成\n(C) 此選項的臨床知識有點細，人工授精的治療中，濾泡需要生長至 ≥18 mm（試管嬰兒則是至少兩顆濾泡 ≥18 mm 或至少三顆 ≥17 mm），才能使用 hCG 誘發排卵\n(D) 正確，在給予 hCG 後的 34~36 小時進行取卵和人工授精",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-55_merged.png",
     "explanation_images": null
   },
   {
@@ -16105,8 +16105,8 @@
       "D": "antral follicle count（AFC）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "評估育齡女性之卵巢庫存量的指標含下列三者（只能評估存量而非卵子品質）：\n1. Serum anti-Müllerian hormone (AMH)：目前最準確、不受月經週期影響的指標\n2. Antral follicle count (AFC)：要在月經前五天評估被活化的濾泡數量\n3. Day 3 FSH / clomiphen citrate challenge test (CCCT)：月經第 3 天抽血中 FSH 及 Estradiol 濃度，接著在第 5-9 天連續給 clomiphen citrate 刺激，若在月經第 3 天與第 10 天的 FSH 皆小於 5 mIU/ml 代表卵巢庫存正常，反之，其一不達標則是庫存不足",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-56_merged.png",
     "explanation_images": null
   },
   {
@@ -16122,8 +16122,8 @@
       "D": "抗毒蕈鹼類的藥物是副交感神經的拮抗劑，可以用來治療急迫性尿失禁"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "尿失禁可以分成以下幾種：\n\n1. **應力性 (stress)**\n• 最常見！在腹內壓力增加（出力、咳嗽、噴嚏、大笑）發生漏尿，主要是骨盆底肌肉鬆弛導致，因此生產過後通常是高風險族群\n• 保守治療通常包含減重、訓練骨盆底肌（凱格爾運動）以及膀胱訓練（想尿時先憋看看），藥物治療效果不好\n• 手術治療的 gold standard 是 mid-urethral sling，顧名思義，將吊帶固定在尿道中段，分成兩種方法：(1) Retropubic (TVT)：穿過恥骨後的 space of Retzius，比較會傷到腸子 (2) Trans-obturator (TOT)：穿過 obturator foramen，相較 TVT 避開 space of Retzius 也比較不會傷到腸子，但是有機會傷到閉孔內的血管\n\n2. **急迫性 (urge)**\n• 老年人常見，突然很急，一般是因為 overactive bladder 導致的逼尿肌 (detrusor) 不自主收縮\n• 可以使用 anticholinergic 或 antimuscarinic 藥物來治療 → (D) 正確，另外 mirabegron (β3-agonist) 也可以抑制逼尿肌收縮，但要注意血壓高的副作用\n\n3. **滿溢性 (overflow)**：因尿路出口阻塞，等到膀胱很脹時出現漏尿，治療方法主要是去除阻塞因素\n4. **神經性 (neurogenic)**：可能因腦、脊髓損傷導致無法控制排尿，也有可能以尿不出來為表現\n5. **混和性 (mixed)**：可能綜合上述兩種以上",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-57_merged.png",
     "explanation_images": null
   },
   {
@@ -16139,8 +16139,8 @@
       "D": "經皮質感覺型失語症（transcortical sensory aphasia）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "病人會自創新詞，代表 fluency 沒有問題，可能是 (A) (D)，又 (A) Wernicke's aphasia 最常出現，這種失語症叫作 Jargon aphasia，屬於 Wernicke's aphasia 的一種：病人會在句子間插入無意義的新詞或發音（但對病人而言，這些詞是有意義的），(D) transcortical sensory aphasia 的複誦沒有問題，因此常出現把別人的話納入自己的語句，稱作 echolalia（模仿 / 重複言語）\n\n語言的四大要素：Fluency（流暢）、Repetition（複誦）、Naming（命名）、Comprehension（理解），失語症依此分類，復健科很常考：\n\n| 類型 | Fluency (流暢) | Comprehension (理解) | Repetition (覆誦) |\n| :--- | :--- | :--- | :--- |\n| **Anomic** | O | O | O |\n| **Conduction** | O | O | X |\n| **Transcortical sensory** | O | X | O |\n| **Wernicke's** | O | X | X |\n| **Transcortical motor** | X | O | O |\n| **Broca's** | X | O | X |\n| **Transcortical mixed** | X | X | O |\n| **Global** | X | X | X |\n\n註：Naming 的功能在各類失語症患者通常皆有障礙",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-58_merged.png",
     "explanation_images": null
   },
   {
@@ -16156,8 +16156,8 @@
       "D": "環咽肌切開（myotomy）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "各個吞嚥復健的做法和適應症，簡單整理於下表：\n\n| 復健治療 | 做法 | 適應症 |\n| :--- | :--- | :--- |\n| **姿勢治療（傾好轉壞）** | | |\n| **抬頭 (head tilt)** | 頭往後仰或健側傾斜 | 口腔期吞嚥障礙 |\n| **縮下巴 (chin tuck)** | Shaker exercise：平躺，抬頭縮下巴<br>chin tuck against resistance：在下巴處墊軟物，直立縮下巴時抵抗阻力 | 口腔 + 咽期吞嚥障礙 |\n| **轉頭 (head rotation)** | 頭往患側轉 | 咽期吞嚥障礙（單側） |\n| **操作治療** | | |\n| **曼德森手法 (Mendelsohn maneuver)** | 吞嚥時用外力延長舌骨上提時間 | 咽期吞嚥障礙 |\n| **聲門上吞嚥法 (supraglottic swallow)** | 吞嚥時摒住呼吸，讓聲門關閉 | 嗆咳或聲帶無力 |\n| **用力吞嚥法 (effortful swallow)** | 吞嚥時縮緊嘴巴，同時舌頭後頂上 | 口腔期吞嚥障礙 |\n| **刺激治療（冰、酸刺激）** | | |\n| **溫度刺激 (thermal stimulation)** | 用冰湯匙或冰塊刺激前咽門 | 無（或弱）吞嚥反射，如中風、Parkinson、外傷等神經性病灶 |\n| **味覺刺激 (gustatory stimulation)** | 檸檬或酸性食物刺激 | 無（或弱）吞嚥反射 |\n| **生理回饋 (biofeedback)** | 用貼片監測肌肉電位後產生刺激回饋 | 神經性病灶為主 |\n| **其他** | | |\n| **飲食** | 增加流質黏稠度 | 口腔 + 咽期吞嚥障礙 |\n| **切開術 / 氣球擴張術 (myotomy / balloon dilatation)** | 降低環咽肌 (cricopharyngeal muscle) 張力、擴張食道壁 | 口腔 + 咽期吞嚥障礙，但復健或內科治療無效時才考慮做 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-59_merged.png",
     "explanation_images": null
   },
   {
@@ -16173,8 +16173,8 @@
       "D": "阻抗性吸氣肌訓練可改善四肢癱瘓者睡眠呼吸障礙"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "頸椎損傷患者由於會影響到橫膈膜運動功能，同時呼吸肌功能也會下降，因此容易發生睡眠呼吸中止症，其原因應是呼吸肌運動不協調、呼吸道阻力上升導致的「阻塞型睡眠呼吸中止症」；「中樞性睡眠呼吸中止」是中樞呼吸驅動力異常，即使呼吸肌功能正常仍會使胸腹運動減少、呼吸暫停\n\n(C) 肥胖也會導致限制性肺病，使肺活量不足、氣道壓力過高，是阻塞型睡眠呼吸中止症的重要風險因子之一\n(D) 阻抗性吸氣肌訓練可改善患者呼吸肌協調性及呼吸力道，以改善睡眠呼吸",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-60_merged.png",
     "explanation_images": null
   },
   {
