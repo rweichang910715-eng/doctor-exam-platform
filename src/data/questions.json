@@ -15170,8 +15170,8 @@
       "D": "環甲膜切開術不應作為將來病人之永久性通氣道（permanent airway）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 錯誤，在六歲以下的兒童，環狀軟骨所在的位置是氣道最狹窄的地方（相比成人最狹窄的地方在聲門的地方），而且甲狀腺 isthmus 的高度可能會到環甲膜 (cricothyroid membrane) 的位置，因此六歲以下是環甲膜切開術的禁忌症，這個年紀的兒童可以用 transtracheal jet ventilation（TTJV，又稱 needle cricothyrotomy）的方式建立緊急呼吸道\n(B) 正確，環甲膜的位置就在甲狀軟骨之下、環狀軟骨之上，而通常會建議在環甲膜的下三分之一下刀，比較不會傷及動脈 (cricothyroid artery)，因此可以透過兩軟骨的距離找到下三分之一的位置\n(C) 正確，基本上任何侵入性的治療都會有疼痛、出血、感染這三種常見的併發症\n(D) 正確，一般會認為氣切管 (tracheostomy) 才比較適合當作永久氣切管，因為環甲膜切開術可能會有聲門下狹窄的併發症，不過其實有不少篇研究做出來發現這個機率其實很低，但是多半還是會建議以氣切管當作永久性通氣道\n\n參考資料：P Talving, et al. (2010), Conversion of emergent cricothyrotomy to tracheotomy in trauma patients. Archives of Surgery, 145(1), 87-91.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-1_merged.png",
     "explanation_images": null
   },
   {
@@ -15187,8 +15187,8 @@
       "D": "神經軸麻醉（neuraxial anesthesia）不會發生體溫過低的現象"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "身體有冷覺受器 (Aδ fiber)、溫覺受器 (C fiber)，兩種受器藉外側脊髓丘腦束 (lateral spinothalamic tract) 連結至下視丘的前核 (anterior nu.) 和視前核 (preoptic nu.) 溝通調節，在 36.7℃ - 37.1℃ 以外的體溫，身體便會產生一系列行為和恆定調節，太熱時，身體流汗、血管擴張；太冷時，身體血管收縮、發抖、非發抖性產熱（脂解褐色脂肪組織）\n\n麻醉期間 hypothermia 的主要過程有三個階段：\n(1) 體溫再分布作用 (redistribution)：此階段體溫散失最快，血管擴張使中樞的溫血分布到周邊，也使周邊的冷血散布至中樞，血管擴張的原因來自麻醉藥物的直接作用（交感神經訊號下降）和產熱機制閾值改變的影響\n(2) 由於代謝率下降，體熱散失多於產熱效率：此階段體溫仍在散失，但較平緩\n(3) 身體對低體溫反應性血管收縮，此階段熱散失與產熱平衡，體溫沒有變化 (plateau)\n\n其他促成體溫下降的風險因子有老人、小孩（體表面積大）、手術室低溫、術前低體溫、大且立即的手術、同時合併全身和局部麻醉劑\n\n(D) 神經軸麻醉包含硬脊膜外 (epidural) 和脊髓 (spinal) 麻醉，屬於局部麻醉，單純的神經軸麻醉仍會體溫散失，只是程度不若全身麻醉大\n\n參考資料：C Riley & J Andrzejowski. (2018), Inadvertent perioperative hypothermia. BJA education, 18(8), 227.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-2_merged.png",
     "explanation_images": null
   },
   {
@@ -15204,8 +15204,8 @@
       "D": "④②①③"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "由於愈遠端動脈的順應性 (compliance) 愈差，在血流相同下產生的收縮壓也會愈大，因此本題的收縮壓高低應為 dorsalis pedis a. > femoral a. > brachial a. > subclavian a.，答案為 (B)\n\n連結：診斷周邊動脈疾病常用的 Ankle-brachial pressure index (ABI)，正常值介於 1.0~1.4 之間，也可以由此推論正常時足部動脈的收縮壓比近端上肢動脈高",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-3_merged.png",
     "explanation_images": null
   },
   {
@@ -15221,8 +15221,8 @@
       "D": "fentanyl的低分子量和高脂溶性有利其經皮吸收（transdermal absorption）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "複習鴉片類藥物機轉：opioid 受體 → 活化 Gi → 鈣離子內流 ↓、鉀離子外流 ↑ → 細胞膜過極化、電訊號被抑制\n\n(A) 正確、(B) 錯誤，鴉片類藥物會抑制鈣離子通道，啟動鉀離子通道，導致胞內正電荷減少、細胞膜過極化\n(C) 正確，opioid 受體的內源性肽有三種，分別是 μ receptor → endorphins（臨床止痛的主要途徑）、δ receptor → enkephalins、κ receptor → dynorphins\n(D) 正確，fentanyl 可以使用靜脈注射，作用快且強（嗎啡的 100 倍），而其低分子量和高脂溶性讓他同時可以皮膚貼片的方式給予",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-4_merged.png",
     "explanation_images": null
   },
   {
@@ -15238,8 +15238,8 @@
       "D": "etomidate會抑制腎上腺皮質"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(C) 錯誤，Ketamine 可說是在國考出了名的愛考！因為他最特別，可以升血壓、眼壓、腦壓！其他靜脈麻醉藥物的比較整理於下方表格\n\n常見靜脈麻醉藥物：\n| 藥物 | 呼吸抑制 | 掉血壓 | 其他特性 |\n| :--- | :--- | :--- | :--- |\n| **Propofol（俗稱牛奶針）** | ✓ | ✓ | (1) Induction 最常用<br>(2) 低致吐<br>(3) 太快或劑量太大會有 propofol-related infusion syndrome (PRIS) → 代謝酸中毒 |\n| **Etomidate** | X | X | (1) 降腦壓<br>(2) 抑制腎上腺功能（減少生成 cortisol） |\n| **Benzodiazepine 類 (BZD)** | ✓ | X | (1) duration 較其他長，較少用在 induction<br>(2) 解毒劑為 flumazenil |\n| **Barbiturate 類** | ✓ | Thiamylal：X<br><br>Thiopental：✓ | (1) 降腦壓、升心跳<br>(2) 適合幼兒的麻醉劑（ketamine 也是）<br>(3) 較易 bronchospasm（較難插管） |\n| **Ketamine（NMDA 拮抗劑）** | X | 升血壓 | (1) 升眼壓、腦壓（腦部外傷不可用）<br>(2) 增加淚液、唾液分泌<br>(3) 不會 bronchospasm<br>(4) 容易解離性麻醉 |\n\n註：Thiopental 是極短效 barbiturate 類藥物，副作用多，現在已逐漸被 Thiamylal [Citosol] 取代",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-5_merged.png",
     "explanation_images": null
   },
   {
@@ -15255,8 +15255,8 @@
       "D": "propofol"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "見【112-1(六)5】詳解；另 (B) fentanyl 為嗎啡類藥物，亦會抑制呼吸中樞",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-6_merged.png",
     "explanation_images": null
   },
   {
@@ -15272,8 +15272,8 @@
       "D": "肥胖病患對脊椎麻醉阻斷皮節高度無影響"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "影響脊椎麻醉 (spinal anesthesia) 阻斷皮節高度的因素很多：藥物方面如麻醉藥種類、比重、劑量、體積等；病人方面如年紀、體型、CSF 量等；麻醉操作方面如病人姿勢、注射位置、給藥速率等\n\n(A) 局部麻醉劑的比重與會影響藥物在 CSF 中擴散（或阻斷）的範圍，藥物比重愈大，阻斷的皮節就愈高\n(B) 劑量 = 體積 × 濃度，麻醉藥劑量愈大，阻斷的皮節愈高；另外同濃度的藥物體積愈大，可阻斷的皮節也愈高（約每增加 1~2 ml 體積可多阻斷一個脊髓皮節）\n(C) 病人姿勢也會影響麻醉藥阻斷的範圍，因此不同部位的手術會使用各自適合的姿勢與麻醉劑，例如側臥位 (lateral decubitus) 搭配高比重藥物 (hyperbaric) 經常使用在無痛分娩、下肢手術；俯臥屈位 (prone jackknife) 搭配低比重藥物 (hypobaric) 則適合用在直腸肛門的手術\n(D) 錯誤，從語意的「無影響」就能猜有很大機率是錯的，由於皮下脂肪與硬膜外血管較多，同劑量的麻醉藥在肥胖病人阻斷的皮節會比一般人更高，在劑量選擇上要小心\n\n參考資料：S Sakura. (2000), Factors influencing the level of spinal anesthesia:(I). Characteristics of anesthetic solutions. Masui. The Japanese Journal of Anesthesiology, 49(1), 18-25.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-7_merged.png",
     "explanation_images": null
   },
   {
@@ -15289,8 +15289,8 @@
       "D": "即使是腸胃道手術，也儘可能不置放鼻胃管"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "多模式止痛 (multimodal analgesia) 包括合併中樞神經、周邊神經、局部止痛以及全身性止痛四個面向，來達到更佳的止痛效果並降低單一止痛藥所需劑量\n\nEnhanced recovery after surgery (ERAS) 則是希望透過更好的止痛模式，降低止痛藥的併發症及增加止痛品質，達到術後早期活動、早期禁食及降低手術過程 NPO 時間的目的\n\n(A) 使用 NSAIDs 仍有造成腎損傷風險，但在多模式止痛中可以降低使用劑量及頻次\n(B) PCA 的使用能讓病患在有突破性疼痛時，有安全範圍內的劑量增加，可以提高病患滿意度\n(C) 錯誤，使用 peripheral nerve blockade 可以讓病患達到術後早期開始活動的目標，可以加速恢復、縮短住院時間\n(D) 降低噁心嘔吐、腸胃不蠕動的麻醉併發症，腸胃道手術亦可避免鼻胃管的使用",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-8_merged.png",
     "explanation_images": null
   },
   {
@@ -15306,8 +15306,8 @@
       "D": "敗血性休克（septic shock）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "其實這題考在這個時代有點怪... 自從 2016 年的 Sepsis-3 定義後，SIRS 已經不被建議當作評估 sepsis 的判斷標準，而 severe sepsis 也被視為多餘的名詞，另外 2021 年有更新 sepsis 的 guideline，不再建議單以 qSOFA 來判斷病人有無 sepsis，要佐以 SOFA score 去評估，和 2016 的 Sepsis-3 有異曲同工之妙\n\n**Sepsis 定義**：\nSOFA score 的項目每一個都有 0-4 分，總分 2 分以上就符合定義（在此不列每一項分數，記正常值就可以大致推估是否符合 sepsis，完整分數可上網搜尋）\n| 項目 | 指標 | 正常值（SOFA score 的 0 分） |\n| :--- | :--- | :--- |\n| **呼吸** | PaO2/FiO2 | 400 以上 |\n| **凝血** | 血小板 | 15 萬以上 |\n| **肝** | Total bilirubin | <1.2 mg/dL |\n| **腎** | Creatinine | <1.2 mg/dL |\n| **血壓** | MAP (⅓ SBP + ⅔ DBP) | 70 mmHg 以上 |\n| **CNS** | GCS | 15 |\n\n**Septic Shock 定義**：\n即使 fluid resuscitation 之後仍然 (1) 要升壓劑才能使 MAP > 65 mmHg (2) Lactate > 2 mmol/L\n\n由於病人血壓在給予 3000 ml 的輸液後 MAP 仍然 <65 mmHg (90×⅓ + 45×⅔ = 60 mmHg)，代表需要升壓劑才足以超過 65 mmHg，雖然題目並未給 Lactate 的數值，但是應該可以下 septic shock 這個診斷\n\n雖然不影響作答，但筆者還是在底下列出 SIRS 與 severe sepsis 的定義，再次強調，這兩個名詞現在不會拿來評估 sepsis（在 2016 以前，選項的四個名詞是一關一關過的，依序看是否符合 SIRS → sepsis → severe sepsis → septic shock）：\n| 項目 | 定義與標準 |\n| :--- | :--- |\n| **SIRS（符合 ≥2 項者）** | (1) 體溫 >38℃ 或 < 36℃<br>(2) 心跳 >90/min<br>(3) 呼吸速率 >20/min 或 PaCO2 < 32mmHg<br>(4) WBC > 12000 或 < 4000 或 >10% band form |\n| **severe sepsis** | 符合 sepsis 且有以下任一：(1) 低血壓 (2) 器官衰竭 (3) 乳酸過高 |\n\n參考資料：\n1. L Evans, et al. (2021), Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Intensive care medicine, 47(11): 1181-1247\n2. M Singer, et al. (2016), The third international consensus definitions for sepsis and septic shock (Sepsis-3). JAMA, 315(8): 801-810",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-9_merged.png",
     "explanation_images": null
   },
   {
@@ -15323,8 +15323,8 @@
       "D": "雖然與系統疾病相關，發作時通常以單眼發作為主"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A)(D) 典型僵直性脊椎炎的葡萄膜炎是「急性、前葡萄膜炎、單側」，與之相比較的是乾癬性關節炎 (psoriatic arthritis, PsA)，其他常見免疫疾病與葡萄膜炎型態整理如下：\n\n| 疾病 | Uveitis 型態 | 其他眼睛表現 |\n| :--- | :--- | :--- |\n| **僵直性脊椎炎 (AS)** | 前葡萄膜炎、急性、單側 | |\n| **乾癬性關節炎 (PsA)** | 後葡萄膜炎、慢性、雙側 | |\n| **反應性關節炎 (ReA)** | 前葡萄膜炎、單側 | 結膜炎 |\n| **兒童特發性關節炎 (JIA)** | 前葡萄膜炎、慢性、雙側 | |\n| **貝西氏症 (Behcet's disease)** | 全葡萄膜炎、雙側 | 視網膜血管炎、前房蓄膿 (hypopyon) |\n| **原田氏症** | 全葡萄膜炎、雙側 | |\n| **類風濕性關節炎 (RA)** | X | 鞏膜炎 |\n\n(C) AS 和 HLA-B27 的關係很愛考：AS 中近 80-90% HLA-B27 (+)；但反之不然，驗出 HLA-B27(+) 的人僅 5% 會有 AS，HLA-B27(+) AS 與 HLA-B27(-) AS 相比，前者發病年齡早、疾病較不嚴重、較易有家族史、較多葡萄膜炎但合併較少乾癬 (psoriasis) 和發炎性腸道疾病 (IBD)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-10_merged.png",
     "explanation_images": null
   },
   {
