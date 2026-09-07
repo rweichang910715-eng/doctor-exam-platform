@@ -17645,8 +17645,8 @@
       "D": "ciprofloxacin"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Listeria monocytogenes 對環境適應力強，常見於土壤與腐生植物，又可以耐低溫，因此常出現在未洗淨的蔬菜或是未經消毒的牛奶，一般人感染 Listeria 多數是自限性的腸胃道症狀，然而題幹所敘述免疫較差的病人可能會發生 Listeria meningitis，這類病人第一線治療為單獨靜脈注射 ampicillin，或合併 aminoglycoside 使用，這個處方不僅相當有效，副作用也很低，TMP-SMX (Baktar)、fluroquinolone 類、vancomycin 等都屬於第二線的藥物，而 cephalosporin 類抗生素對於 Listeria 則沒有效果\n\n其他考點：\n1. 腦膜炎的常見致病菌 Streptococcus pneumonia, Neisseria meningitidis, H. influenza 都可用第三代 cephalosporin 治療，惟 Listeria 不可，在免疫低下者或 1 歲以下嬰兒的腦膜炎需特別懷疑\n2. 在新生兒的 Listeria 感染當中，主要被感染的原因是母體透過胎盤傳染\n\n腦膜炎的相關考題，可見【112-1(四)56】、【112-2(四)58】",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-61_merged.png",
     "explanation_images": null
   },
   {
@@ -17662,8 +17662,8 @@
       "D": "發生這些併發症的病人，超過80%帶有HLA-B27表現型（phenotype）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "題目關鍵字：Nongonococcal urethritis、關節炎（尤其薦椎部）、結膜炎、葡萄膜炎，看到這些症狀大概就離反應性關節炎的診斷不遠了！另外無發燒、心雜音、出血性病灶等症狀不像是 infective endocarditis；多發性關節炎也不符合 septic arthritis 的表現 (>80% 為單關節發作)，因此 (A) 錯誤\n\n| 反應性關節炎 (reactive arthritis) | |\n| :--- | :--- |\n| **病生理** | 主要源自泌尿道 (e.g. Chlamydia, Ureaplasma)、腸胃道 (e.g. Shigella, Salmonella, Yersinia, Campylobacter) 感染，於感染後 1~4 週內發作；由於症狀為身體受感染時免疫反應異常造成，因此稱為反應性關節炎 |\n| **流行病學** | 好發於 20~40 歲男性，約 60~85% 病人帶有 HLA-B27 表現型，其中合併關節炎以外表現者則是 >80% 帶有 HLA-B27 |\n| **臨床症狀** | • 萊特氏症候群 (Reiter's syndrome)：關節炎、尿道炎及結膜炎<br>• 關節炎為多發性、不對稱且主要分布在膝、踝和薦椎關節；屬於無菌性關節炎，因此關節液無法培養出病原菌<br>• 其他肌肉骨骼症狀包含肌腱炎、著骨點炎；眼睛症狀包含葡萄膜炎、角膜炎；皮膚症狀則包含環狀龜頭炎 (balanitis circinata)、膿漏性角皮症 (keratoderma blenorrhagia) 等 |\n| **治療、預後** | NSAIDs、類固醇 ± DMARDs，一線藥物無效時考慮生物製劑；症狀大多在 3~6 個月內會改善，但 HLA-B27 陽性者有機會變成慢性關節炎 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-62_merged.png",
     "explanation_images": null
   },
   {
@@ -17679,8 +17679,8 @@
       "D": "Vibrio cholerae所致的腹瀉係因產生enterotoxin，糞便中鮮少或不會出現白血球"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 依據我國 110 年食品中毒發生與防治年報統計，最常見的細菌性食物中毒病原為 Bacillus cereus（FC 此部分有很傑出的表格，但國內最大宗的病原有誤）；若計入病毒，則 Norovirus 最常見，中毒人數約等於所有細菌性中毒人數之和，以下整理國內常見病原、潛伏時間 (hr)、關鍵食品：\n\n| hr | 2 | 4 | 6 | 8 | 12 | 15 | 18 | 24 | 30 | 36 | 42 | 48 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| **感染病原** | S. aureus | | | | | | | | | | | |\n| | Bacillus cereus<br>（嘔吐型）<br>[ 炒飯 ] | | | | Bacillus cereus<br>（腹瀉型） | | | | | | |\n| | | | | | Vibrio parahaemolytica [ 海鮮 ] | | | | | | | |\n| | | | | | | | Salmonella [ 雞蛋 ] | | | | |\n| | | | | | | E. coli（現已很少） | | | | | | | |\n| | | | | | | | | Norovirus（最大宗） | | | | |\n\n(B) Shigella 的傳染途徑包含直接（糞口傳染）與間接（汙水和食物）傳染，尤其已開發國家以直接傳染居多\n\n(C) 致病菌量最常比較的是 Salmonella 10⁵ ~10⁸ 而 Shigella 僅需 10-100，Vibrio cholerae 跟 Salmonella 一樣 10⁵ ~10⁸ 也要很大菌量才能致病，Entamoeba histolytica >1000、Giardia lamblia 10-100，為腹瀉最常見的兩種寄生蟲病原\n\n(D) 只有侵襲性的細菌才會使糞便出現白血球或潛血反應（此部分 FC 整理也很不錯）：出血性大腸桿菌 (E. coli O157:H7)、侵入性大腸桿菌 (EIEC)、C. difficile、Salmonella、Shigella、Campylobacter、Yersinia、V. parahaemolyticus（腸炎弧菌，而非選項的霍亂弧菌）",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-63_merged.png",
     "explanation_images": null
   },
   {
@@ -17696,8 +17696,8 @@
       "D": "oxacillin"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "送分題，MRSA 的名字就告訴你這隻菌是 Methicillin/oxacillin-resistant，因此可以很快地選出 (D) ！需要特別注意的是，Daptomycin 雖然對於 MRSA 是有效的，但他對血液肺泡屏障的穿透力差，在肺泡的治療濃度趨近於零，因此不可用來治療 MRSA pneumonia\n• MSSA: oxacillin（首選）, nafcillin, cefazolin\n• MRSA: vancomycin, teicoplanin, daptomycin, tigecycline, linezolid, TMP-SMX",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-64_merged.png",
     "explanation_images": null
   },
   {
@@ -17713,8 +17713,8 @@
       "D": "預防性抗生素治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "疫苗是預防肺炎的一大重點，流感疫苗與肺炎鏈球菌疫苗都能有效預防 COPD 患者得到肺炎的發生率，更能降低住院時間與死亡率，甚至可以減低此類病人罹患缺血性心臟病的風險，抽菸更是得到肺炎的重要危險因子，因此戒菸也能減少肺炎的發生\n\n2018 年發表的一篇 meta-analysis 討論 COPD 患者使用預防性 macrolide，研究對象主要為 65-72 歲、有 moderate 以上的 COPD 患者，而文章結論為 continuous 或 intermittent 的 macrolide 使用可以降低 COPD acute exacerbation 的發生率，然而，文獻中也提到在使用預防性抗生素時還需要考量諸多因素，並非所有 COPD 患者都適合使用，使用不當反而會增加抗藥性風險，因此只有 (A) (B) (C) 三選項是絕對正確，而 (D) 則是要視病患情況才會考慮\n\n參考資料：SC Herath, et al. (2018). Prophylactic antibiotic therapy for chronic obstructive pulmonary disease (COPD). Cochrane Database of Systematic Reviews, 10.",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-65_merged.png",
     "explanation_images": null
   },
   {
@@ -17730,8 +17730,8 @@
       "D": "親和性（Agreeableness）：傾向與其他人合作，較喜歡融洽"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "人格特質五因素模型 OCEAN 各項意涵的敘述如下，該理論認為每個人的性格特質均由這五種因素構成，且依組成比例不同影響個人行為、思考、情感、生活等層面：\n\nO — 經驗開放性 (Openness to experience)，傾向對不同經驗保持好奇和欣賞\nC — 盡責性 (Conscientiousness)，傾向自律，有效率和計畫地達成目標\nE — 外向性 (Extroversion)，傾向與人或外界環境接觸，情緒正向且充滿自信\nA — 親和性 (Agreeableness)，傾向與他人合作，喜歡融洽關係且樂於助人\nN — 神經質性 (Neuroticism)，傾向體驗憤怒、焦慮、抑鬱等情緒",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-66_merged.png",
     "explanation_images": null
   },
   {
@@ -17747,8 +17747,8 @@
       "D": "藥物順從性不佳，也有可能是虐待的徵候"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 老年人口攀升，加上社會日益重視老年權益，近年老人保護通報案件逐年上升，關於後句是否篩檢的問題，可見【112-1(三)71】詳解，USPSTF 目前對老人虐待篩檢結論為 I 等級（證據不足以評估利弊）\n(B) 老人虐待 (elder maltreatment) 類型可分為身體虐待、精神虐待、財務剝削、疏忽、無人扶養、遺棄，其中以疏忽 (neglect) 為最大宗（小孩則以身體虐待為最多）\n(C) 下肢常見的虐待症候為不明瘀青、燒燙傷、突然消瘦、衛生狀況差等",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-67_merged.png",
     "explanation_images": null
   },
   {
@@ -17764,8 +17764,8 @@
       "D": "預防菸品使用（tobacco use）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "如果考試前沒念到相關內容，只需要掌握篩檢的大原則：早期發現、早期介入能改善健康相關的預後，從其他臨床醫學的知識可以判斷，選項中只有 (A) 不一定需要治療或介入，很多人有輕度脊椎側彎的問題，但對生活、整體的健康狀況不一定有影響\n\n美國預防醫學工作小組 (USPSTF) 目前的預防保健建議，擷取部分整理如下表：\n\n| 對象 | 建議（建議等級） |\n| :--- | :--- |\n| **兒童** | 3-5 歲：視力檢測至少一次 (B)<br>5 歲以下：齲齒與氟化物使用 (B)<br>學齡兒童：菸品使用 (B)、肥胖與體重控制 (B) |\n| **青少年** | 藥物濫用 (B)、酒精濫用 (B)、菸品使用 (B)、性傳播疾病 (B)、憂鬱症、焦慮與自殺風險評估 (B) |\n| **懷孕女性** | 菸品使用 (A)、酒精濫用 (B)、梅毒 /HIV 篩檢 (A)、周產期憂鬱症 (B)、無症狀菌尿症 (B) |\n\nUSPSTF 等級共分有 A（建議，效益很大）、B（建議，效益中等或可能很大）、C（個別狀況下建議）、D（不建議）、I（無，證據不足以評估利弊）",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-68_merged.png",
     "explanation_images": null
   },
   {
@@ -17781,8 +17781,8 @@
       "D": "流行性腦脊髓膜炎（meningococcus）疫苗為前往沙烏地阿拉伯的旅客所需，建議每10年追加1劑"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 錯誤，A 肝病毒為 RNA 病毒，少數感染者可能會發生猛爆性肝炎，但是此病毒並不會慢性化，A 肝疫苗出生滿一年就可以接種，一共有兩劑，施打間隔要 6 個月，通常只會建議要前往疫區者（中國、東南亞或衛生習慣較差的國家）於出發前兩週施打疫苗，也可以先驗抗體，若為陰性再接種\n\n(B) 錯誤，B 肝病毒為 DNA 病毒，透過體液傳染，是導致國內肝炎、肝硬化、肝癌的主要元兇之一，現代台灣人多數都有打過 B 肝疫苗，原則上有抗體者在出國前不用接受疫苗接種，而沒有抗體者要前往同樣是高風險地區才會建議補打疫苗，但建議要施打 1 個月以上並回診追蹤是否有產生抗體\n\n(C) 正確，黃熱病由蚊子傳播，在南美與中非是屬於高風險疫區，黃熱病疫苗是活性減毒疫苗，其中未滿 6 個月者或免疫低下者不建議施打，打一劑約 10 天後能產生終身保護力，但是 ACIP 在 2017 年決議欲前往流行地區前且距上次接種超過 10 年者，建議追加 1 劑\n\n(D) 錯誤，Meningococcus 是由 Neisseria meningitidis（革蘭氏陰性雙球菌）感染所引起，大部分是侷限在上呼吸道的症狀，但是仍可能發生 sepsis、meningitis 等，最主要疫區在中非，而沙烏地阿拉伯曾經為疫區，所以要求前往的旅客要施打疫苗，這個疫苗是不活化疫苗，對 A、C、W-135、Y 四種血清型有預防效果，但是對其他型就沒有保護力，由於疫苗保護力約為 5 年，因此暴露於高風險者建議 5 年追加一劑",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-69_merged.png",
     "explanation_images": null
   },
   {
@@ -17798,8 +17798,8 @@
       "D": "陰性預測值是「檢驗陰性且有患病的比率」"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "考過一階系統的同學大概對這題都不陌生，附上經典的表格幫大家強化記憶：\n\n| | 患病 | 無患病 | 統計值定義 |\n| :--- | :--- | :--- | :--- |\n| **陽性** | A | B | 敏感度 = A/(A+C)，患病者中檢驗陽性的比率<br>陽性預測值 = A/(A+B)，檢驗陽性者中患病的比率 |\n| **陰性** | C | D | 特異度 = D/(B+D)，無患病者中檢驗陰性的比率<br>陰性預測值 = D/(C+D)，檢驗陰性者中無患病的比率 |\n\n此類型題目幾乎每次必考，112 年另一題為【112-1(三)69】",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-70_merged.png",
     "explanation_images": null
   },
   {
