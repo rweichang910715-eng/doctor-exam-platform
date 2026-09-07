@@ -17135,8 +17135,8 @@
       "D": "CRP和ESR皆正常"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "重要觀念題！纖維肌痛症 (fibromyalgia) 的核心概念是 ‘centralized pain’，診斷依賴主觀症狀，沒有專一性的客觀檢查或指標，懷疑纖維肌痛症的病人抽血會例行性抽 CBC、CRP、ESR 和 thyroid functions，但數值通常都是正常的，抽血目的是為了排除可能的鑑別診斷（如意義 CRP、ESR 的升高暗示著身體可能有發炎性疾病），臨床上病人也常檢驗 Mg（低血鎂可導致肌肉痙攣，被發現與纖維肌痛症有關，但因果性未被確立）",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-31_merged.png",
     "explanation_images": null
   },
   {
@@ -17152,8 +17152,8 @@
       "D": "頸椎發炎雖然少見，但是通常發生在疾病的早期"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 錯誤，類風濕性關節炎一開始常以對稱性、小關節發炎為主，後期才影響大關節\n\n(B) 正確，以手部而言，類風濕性關節炎最常出現在 PIP、MCP，而退化性關節炎最常出現在 DIP、拇指腕掌關節 (1st CMC)，當然有可能單純是 RA 影響到 DIP，但更常見的情況是 RA 合併 DIP 的 OA\n\n(C) 錯誤，類風濕性關節炎主要是屈側肌腱滑膜炎 (flexor tendon tenosynovitis)，而伸側常見的是局部血管炎導致的類風濕結節 (rheumatoid nodule)\n\n(D) 錯誤，雖然教科書都沒有寫到頸椎發炎發生的時間，但以先小關節後大關節的概念去想，很容易把這個選項排除，搜尋文獻會發現 RA 影響到頸椎很少是發病開始的表現，一般要在發病十年後才容易見到，但如果在早期 RA 病人身上發現頸部疼痛、脊髓型頸椎病變 (myelopathy) 的症狀，也不能排除疾病在很早期就影響到頸椎關節，需要進一步的影像檢查\n\n其他考點：RA 在頸椎常見的徵象為寰軸關節 (C1-C2) 向前半脫位 (anterior atlantoaxial subluxation)\n\n參考資料：M Del Grande, et al. (2014). Cervical spine involvement early in the course of rheumatoid arthritis. In Seminars in arthritis and rheumatism (Vol. 43, No. 6, pp. 738-744). WB Saunders",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-32_merged.png",
     "explanation_images": null
   },
   {
@@ -17169,8 +17169,8 @@
       "D": "necrotizing myopathy與惡性腫瘤較無關"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "【112-1(三)35】、【112-2(四)54】也以 inflammatory myopathies 出題，筆者將 inflammatory myopathies 的比較製表在【112-1(三)35】詳解，由該表可知得知答案為 (C)\n\n(A) 錯誤，相反了，DM 在兒童與成人都可；PM 以成人為主\n\n(B) 錯誤，inclusion body myositis 好發年齡為 50 歲以上，且是唯一男多於女的發炎性肌肉疾病\n\n(D) 錯誤，雖然 DM 是目前研究認為和癌症最相關的發炎性肌肉疾病，但其他種也有比正常人更高得到癌症的機率，PM、necrotizing myopathy 約有 10-20% 病人發展出癌症",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-33_merged.png",
     "explanation_images": null
   },
   {
@@ -17186,8 +17186,8 @@
       "D": "反覆葡萄球菌（Staphylococcus）感染"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題可以試著用一階國考的微免學知識去推：補體系統由肝臟製造，在血液中經病原體、腫瘤細胞活化後會啟動一連串先天性免疫反應，其中 C5-C9 最終會合成膜攻擊複合體 (membrane attack complex, MAC) 將病原的細胞膜溶解，到這裡大致可以推測：補體攻擊效果最強的應該會是那些在血液中、細胞膜含量豐富的病原，之後用刪去法作答就很容易了！首先分枝桿菌、帶狀疱疹都是胞內寄生可以先排除；而葡萄球菌是格蘭氏陽性菌，細胞壁太厚 MAC 很難打穿，最後就只剩奈瑟氏菌 (Neisseria) 符合病原特性，而臨床上也確實發現補體系統受損的病人，產生反覆或嚴重奈瑟氏菌感染的風險最高，因此答案為 (B)\n\n關於各類免疫缺損容易導致的感染，整理表格於小兒科【112-2(四)26】詳解",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-34_merged.png",
     "explanation_images": null
   },
   {
@@ -17203,8 +17203,8 @@
       "D": "90%以上OA患者必須先行使用非類固醇抗發炎藥物（NSAID）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "【112-1(六)62】也考退化性關節炎，而本題考更細，需從 Harrison 找到相關敘述\n\n(A) OA 其實與遺傳高度相關，但有關節差異：手部及髖關節 OA 有 50% 的病人，其家族成員也患病；膝關節 OA 病人僅 30%，而對於多重關節的 OA，此類病人的遺傳性也低，大多可歸因為老化與過度使用\n\n(B) 軟骨是 OA 主要且最早產生病理變化的位置，並主要針對其軟骨細胞外間質的 type 2 collagen 和其纏繞的 aggrecan，當受到機械壓力或滲透壓突然變化時，便會促進發炎和間質分解酵素 (matrix metalloproteinases (MMP)，特別是 collagenases 和 ADAMTS-5) 的產生，而分解 / 破壞 type 2 collagen，本題 type 2 collagen 應譯為 type 2 膠原蛋白，經申覆後 (B) 選項開放\n\n(C) 與白人相比，髖關節 OA 在華人很少見（移民到美的華人的髖關節 OA 比例也低，可見為人種差異），研究認為與東西方人之解剖構造差異有關，膝關節 OA 盛行率則華人與白人相仿\n\n(D) OA 的治療以非藥物治療為優先，包含避免疼痛動作、過度負重、及加強肌力，藥物應視作輔助角色",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-35_merged.png",
     "explanation_images": null
   },
   {
@@ -17220,8 +17220,8 @@
       "D": "化學治療合併trastuzumab，以及抗賀爾蒙治療和放射線治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題同時是 HER2 陽性及賀爾蒙受體陽性的侵襲性乳癌，又同時合併淋巴轉移，此時要達到最好的術後輔助治療，就需要同時針對賀爾蒙受體陽性及 HER2 陽性這兩種細胞，乳癌針對局部復發皆是以放射治療控制，但針對遠處轉移，賀爾蒙型的標準治療是追加口服抗賀爾蒙藥物，HER2 陽性則是需要化療搭配 HER2 target therapy (trastuzumab[Herceptin])，故 (D) 為最佳組合\n\n若為 triple-negative 侵襲性乳癌，針對遠處轉移則需考慮加上化學治療及免疫治療 (pembrolizumab)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-36_merged.png",
     "explanation_images": null
   },
   {
@@ -17237,8 +17237,8 @@
       "D": "若CK（cytokeratin）7-，CK20-：可以幫助診斷肝細胞癌或腎細胞癌"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Cytokeratin 是 epithelial tissue 中間絲的蛋白，大致 pattern 為 CK7+ 為上半身癌症、CK20+ 為下半身癌症，附上整理表格：\n\n| CK7 | CK20 | 相關癌症 |\n| :--- | :--- | :--- |\n| **+** | **-** | 乳癌、甲狀腺癌、肺癌（非小細胞癌）、子宮內膜癌、卵巢癌 |\n| **-** | **+** | 大腸直腸癌 |\n| **+** | **+** | 尿路上皮癌、胰臟癌、膽管癌 |\n| **-** | **-** | 肝細胞癌、腎細胞癌、攝護腺癌、肺癌（小細胞癌、鱗狀上皮癌）、頭頸癌 |\n\n筆者提供一部分記憶法：77(7+) 乳（乳癌）加（甲狀腺）巧克力（內膜異位到卵巢是巧克力囊腫）；20(20+) 寫起來像是 2 個 o：colorectal（大腸直腸癌）",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-37_merged.png",
     "explanation_images": null
   },
   {
@@ -17254,8 +17254,8 @@
       "D": "化學治療；myelodysplastic syndrome"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "癌症治療導致的 secondary malignancies 種類很多，整理如下表，總結來說大致記得放射治療與固體腫瘤有關；化療與血液腫瘤有關（大多化療藥都有骨髓抑制的副作用）；還有造成兩種基因型 AML 的化療藥物不同就可以了\n\n| 癌症治療 | 類別 | secondary malignancies |\n| :--- | :--- | :--- |\n| **放射治療** | | CNS, breast, lung, thyroid, skin, bone, sarcomas |\n| **化學治療** | **alkylating agents** | • 血液腫瘤：AML with chromosome 5 or 7 deletions, MDS（常見）, ALL, lymphoma<br>• 固體腫瘤：thyroid, breast, lung, bladder, sarcomas, GI tumors（platins, procarbazine 相關） |\n| | **topoisomerase inhibitors** | AML with chromosome 11q23 translocations, MDS（少見）, ALL |\n| | **SERMs (tamoxifen)** | endometrial cancer |\n| | **T-cell depletion 藥物 (e.g. Bendamustine, purine analogues)** | EBV-associated B-cell lymphoproliferative disorders |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-38_merged.png",
     "explanation_images": null
   },
   {
@@ -17271,8 +17271,8 @@
       "D": "胃的gastrointestinal stromal tumor（GIST）若轉移至肝臟，應考慮組合式化學治療"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 錯誤，胃的淋巴瘤佔所有胃的惡性腫瘤 3-5%，其中 90% 是 MALT lymphoma 或 large B-cell lymphoma，兩者皆是 B-cell origin\n\n(B) 正確，90% 的 MALT lymphoma 與胃幽門桿菌相關，即便是 H. pylori 陰性的病人也須接受第一線的 H. pylori 清除治療 (eradication therapy)，3-6 個月後再進行上消化內視鏡追蹤療效，多數病人反應良好，後續依療效採取定期追蹤或考慮後線治療，包括局部放療、搭配 rituximab 的化療等\n\n(C) 錯誤，包含 leiomyosarcoma 的絕大部分肉瘤 (sarcoma) 因對放療和化療成效相對有限，首選治療能手術移除就開刀，若不行才採合併放化療\n\n(D) 別忘記 GIST 有標靶藥物 imatinib（為 tyrosine kinase inhibitor）！GIST 最常轉移的位置為肝臟和腹腔，過往有轉移的 GIST 視為 unresectable，治療便升級為標靶治療，又近年研究顯示「經標靶治療縮小腫瘤後再加上手術」的病人，其預後較單純標靶治療有進步，故亞洲的治療指引進一步建議在 imatinib 的 4-12 月後，可考慮手術移除腫瘤（西方的指引暫時只給標靶治療），GIST 標靶治療的先後順序：第一線 imatinib、第二線 sunitinib、第三線 regorafenib；化療並無角色",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-39_merged.png",
     "explanation_images": null
   },
   {
@@ -17288,8 +17288,8 @@
       "D": "免疫治療的sipuleucel-T"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "這題是血腫專科題吧，基本上沒唸到的話就大方地憑感覺吧！\n\n根據 NCCN 2023 guideline，腎細胞癌在前三期的治療還是以手術為主，第三期後追加標靶治療，第四期則會以複合式治療為主，以病理分型，可以把腎細胞癌分為 clear cell type (ccRCC) 與 non clear cell type (nccRCC) 兩大類，各自的治療策略整理如下：\n\n| 腎細胞癌分型 | 治療 |\n| :--- | :--- |\n| **ccRCC（約 80-90%）** | 是預後較佳、治療選擇較多的類型，第三期在切除後可以追加 adjuvant Sunitinib (TKI)，第四期則建議以標靶治療 (TKI) 加上免疫治療 (Anti-PD1)，目前常用的組合是 Axitinib+Pembrolizumab, Cabozantinib+Nivolumab, Lenvatinib+Pembrolizumab |\n| **nccRCC (<10%)** | 預後差，第三期切除後並無有效的標靶藥物可以使用，第四期可以考慮單用 Cabozantinib 或 Sunitinib |\n\n考慮到腎細胞癌的全身性治療只建議標靶及免疫治療，就可以刪掉 (A)；(C) 選項是 HER2 陽性乳癌的標靶用藥；(D) 不是我們常見的免疫治療 (Anti-PD/PDL1)，而是利用自體樹突細胞分離後回注體內，用於攝護腺癌的非常規治療，如果有足夠的知識刪掉這兩個選項，就可以選出 (B) ccRCC 常見的標靶製劑",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-40_merged.png",
     "explanation_images": null
   },
   {
