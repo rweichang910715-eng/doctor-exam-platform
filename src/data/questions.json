@@ -17475,8 +17475,8 @@
       "D": "嚴重肺栓塞病人最常見的死因為右心室衰竭所導致的心因性休克"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 由於肺栓塞的症狀多不具特異性，Wells' criteria of pulmonary embolism 便是臨床可用來篩檢肺栓塞的評分系統（Wells' criteria 分別有針對 DVT 跟 PE 的，以下參照 Harrison 列出原始 Wells' criteria of PE，總分判定採現今主流用的 Modified / 簡要版本）\n\n| Wells' criteria of PE | 分數 | 項目 | 分數 |\n| :--- | :--- | :--- | :--- |\n| **有 DVT 的症狀或徵象（單下肢水腫、小腿腿圍增加、紅 / 溫 / 痛、可見表淺側支靜脈、Homan's sign (+)）** | 3 | 心率 > 100 bpm | 1.5 |\n| | | 不活動 > 3 天或 4 周內有動手術 | 1.5 |\n| **沒有更可能的鑑別診斷** | 3 | 咳血 | 1 |\n| **之前有過 PE 或 DVT** | 1.5 | 癌症 | 1 |\n| **總分判定：> 4 為 ‘likely’，≤ 4 為 ‘unlikely’** | | | |\n\n(B) 臨床非常重要的觀念！D-dimer 是敏感度高、特異度（專一性）低的指標，偽陰性低因此適合排除診斷（位於正常值的就視為沒病），評估 DVT/PE 時，第一步先用 Wells' criteria of DVT/PE，當屬於中、低風險 (DVT) 或 ‘unlikely’ (PE) 時便用 D-dimer 看是否真的沒病，但若歸類為高風險 (DVT) 或 ‘likely’ (PE) 時，直接跳過 D-dimer 做下肢超音波 / 胸部電腦斷層檢查\n\n(C) 選項內本身矛盾，若使用 LMWH 就不是監測 INR 而是 aPTT，在有新型抗凝血劑 (DOAC) 的時代，DVT/PE 的抗凝血治療通常是先皮下注射 LMWH（最常用 Enoxaparin）5 天，之後再橋接成口服 DOAC\n\n(D) 正確，嚴重肺栓塞最常見死因為肺心症 (cor pulmonale)，為血栓堵住肺動脈，使右心室的 afterload 增加，逐漸使右心必須代償做功以維持全身循環，最終導致右心衰竭，但筆者認為休克類型其實有討論空間：很多人會把肺栓塞歸類為「阻塞性休克」（因），這邊提的「心因性休克」則偏向病理現象後期（右心衰竭）的果",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-51_merged.png",
     "explanation_images": null
   },
   {
@@ -17492,8 +17492,8 @@
       "D": "血鈣濃度高於14 mg/dL（3.5 mmol/L）時，病理學報告經常是副甲狀腺癌"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 副甲狀腺瘤造成之副甲狀腺高能症，有 85% 的患者是單一腺瘤，剩餘則是以副甲狀腺增厚的方式表現\n\n(B) 正確，MEN1 及 MEN 2A 會有甲狀腺增生，且其多以 multiglandular hyperplasia 表現，而非單一腺瘤的形式\n\n(C) 錯誤，副甲狀腺亢進時會增加磷排出、鈣吸收，而氯與磷同為身體內的陰離子，在增加磷排出時會降低氯排出，也因此血鈣會顯著升高、血磷會是正常或低下，血氯則會微幅上升，Cl:PO4 ratio >33 可以用來鑑別高血鈣是來自副甲狀腺素過多或是其他來源\n\n(D) 副甲狀腺癌 (parathyroid carcinoma) 佔原發性副甲狀腺亢進約 1% 的原因，且與其他原因相比，血鈣與 PTH 濃度高出許多：血鈣 >14 mg/dl（正常血鈣 8.4-10.6 mg/dl）、PTH 往往 >500 pg/ml 或超出上限值 5 到 10 倍（正常 intact PTH 10-65 pg/ml），一份研究顯示當 PTH 超出上限 10 倍時，有 84% 副甲狀腺癌的陽性預測值\n\n參考資料：M Schaapveld, et al. (2011). Incidence and prognosis of parathyroid gland carcinoma: a population-based study in The Netherlands estimating the preoperative diagnosis. The American journal of surgery, 202(5), 590-597.",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-52_merged.png",
     "explanation_images": null
   },
   {
@@ -17509,8 +17509,8 @@
       "D": "死亡率較低"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "雄性素（睪固酮，testosterone）在年輕成人時期會到達高峰，從 40 歲開始時會逐年遞減約 1%\n\n(A) 雄性素除了會導致較高性慾外，也會讓體毛較多、骨質密度較高、肌肉強度較強\n\n(B)(C)(D) 根據文獻記載，男性血中雄性素的濃度越低時，罹患心血管疾病、第二型糖尿病、肥胖、代謝症候群都會升高，另外，端看整體死亡率，癌症、肺病、腎病、糖尿病等患者在雄性素低的族群裡有更高的死亡率，機制上推測為全身性的發炎反應（因）導致雄性素的濃度被抑制（果）\n\n參考資料：V Muraleedharan & T Hugh Jones. (2014). Testosterone and mortality. Clinical endocrinology, 81.(4): 477-487.",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-53_merged.png",
     "explanation_images": null
   },
   {
@@ -17526,8 +17526,8 @@
       "D": "高血壓會促進糖尿病的大血管與小血管病變的發生及惡化"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題靠題意和基礎的衛教觀念就能作答，另外推薦同學們複習三高時參照台灣《2022 高血壓臨床指引》和《2022 第二型糖尿病臨床指引》，臨床導向高且非常好讀！\n\n(A) 在台灣約 54% 糖尿病患者合併有高血壓，盛行率是無糖尿病者的 3~4 倍以上\n\n(B) 根據指引，糖尿病患者的第一線降壓藥建議使用 ACEi / ARB（擇一）或 SGLT2i，經實證具有降低心血管或腎臟疾病風險；若初始血壓 >160/90 mmHg 則建議合併兩種機轉的降壓藥\n\n(C) 由於糖尿病人因高血壓產生心血管併發症、中風與死亡的風險較高，因此血壓控制目標建議比無糖尿病人更嚴格，台灣高血壓指引建議糖尿病人的血壓目標 <130/80 mmHg；台灣糖尿病指引的目標 <140/90 mmHg，但針對高心血管疾病風險及蛋白尿患者的目標一樣是 <130/80 mmHg\n\n(D) 正確，順便複習一下糖尿病的大 / 小血管病變～\n• 小血管病變：retinopathy、nephropathy、peripheral neuropathy\n• 大血管病變：CAD、CVA、PAOD",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-54_merged.png",
     "explanation_images": null
   },
   {
@@ -17543,8 +17543,8 @@
       "D": "sitagliptin"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "美國 FDA 核准的減肥藥物目前共 6 項，但台灣可用的僅有 2 項，有趣的是 2023 年最熱門且實證效果非常好的 Semaglutide (Ozempic) 這次沒考出來\n\n| 藥物學名（商品名） | 給藥途徑 | 機轉 | 台灣 FDA 現況 |\n| :--- | :--- | :--- | :--- |\n| **Orlistat** | 口服 | 胰脂酶抑制劑 | 核准可用 |\n| **Liraglutide (Saxenda)** | 皮下注射 | GLP-1 受體促效劑 | 核准可用 |\n| **Semaglutide (Ozempic)** | 皮下注射 * | GLP-1 受體促效劑 | 台灣尚未核准非糖尿病病人減肥使用 |\n| **Lorcaserin** | 口服 | 5-HT2c 受體促效劑 | 曾經核准可用，因有致癌風險而已下市 |\n| **Setmelanotide** | 皮下注射 | MC4 受體促效劑 | 未核准 |\n| **Phentermine/ Topiramate** | 口服 | 正腎上腺素 / 抗癲癇藥 | 未核准 |\n| **Bupropion/ Naltrexone** | 口服 | 抗憂鬱劑 / 類鴉片受體拮抗劑 | 未核准 |\n\n*Semaglutide 另有口服藥，但美國尚未核准口服劑型予非糖尿病病人使用",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-55_merged.png",
     "explanation_images": null
   },
   {
@@ -17560,8 +17560,8 @@
       "D": "metformin是最常引起低血糖的口服降血糖藥物"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "送分題，metformin 的作用機制是增加週邊組織胰島素敏感性、抑制肝臟的糖質新生，因此不容易產生低血糖；最易產生低血糖的是會直接刺激胰島素分泌的藥物，包含 sulfonylurea、glinides，請參閱【112-1(三)56】整理的糖尿病藥物表格",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-56_merged.png",
     "explanation_images": null
   },
   {
@@ -17577,8 +17577,8 @@
       "D": "未分化癌（anaplastic carcinoma）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "基本題！甲狀腺癌的盛行率依常見度依序為乳突癌 (80%) > 濾泡細胞癌 (15%) > 髓質癌 (3%) > 未分化癌 (2%)，以下表格簡介四種甲狀腺癌的特性：\n\n| | 相關疾病 | 來源特性 | 預後 | 病理 |\n| :--- | :--- | :--- | :--- | :--- |\n| **Papillary carcinoma (PTC)** | 放射線暴露 | 最常見；來自濾泡上皮<br>常透過淋巴轉移 | 極好 | 突變：BRAF V600E（主要）, RAS, RET<br>病理細胞：Orphan Annie eyes, Psammoma bodies |\n| **Follicular carcinoma (FTC)** | 缺碘 | 來自濾泡上皮<br>常透過血行轉移 | 好 | 突變：RAS<br>FNA、切片尚不足區分 follicular adenoma & carcinoma |\n| **Anaplastic carcinoma** | 放射線暴露 | 來自未分化的濾泡上皮 | 極差 | 長很快、壓迫呼吸道 |\n| **Medullary carcinoma (MTC)** | sporadic (70%); familial (MEN2, 30%) | 來自 parafollicular cells (C cells)，為神經內分泌腫瘤 | 中 | 突變：RET<br>檢驗：calcitonin, CEA 上升 |\n\n其他考點：\n• 治療上，PTC、FTC、MTC 能切就切，做甲狀腺全切除術，PTC、FTC 術後還會做放射碘 131 治療，以消滅殘餘癌細胞，且終生服用甲狀腺素抑制 TSH，避免 TSH 去刺激殘餘癌細胞，MTC 因不會吸收放射性碘，故不用做放射碘治療，不能手術的病人，依分子病理特性，可能有標靶藥物，未分化癌很少能做手術，患者多 1 年內死亡，首要保全呼吸道，以支持性治療為主\n• PTC、FTC 術後追蹤指標：thyroglobulin",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-57_merged.png",
     "explanation_images": null
   },
   {
@@ -17594,8 +17594,8 @@
       "D": "性功能異常"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "佛心送分題！腦下垂體後葉的下視丘神經元軸突會分泌抗利尿激素 (antidiuretic hormone, ADH) 和催產素 (oxytocin)，因此腦下垂體後葉遭破壞，最常出現的疾病就是 ADH 不足的中樞性尿崩症，其餘選項則是腦下垂體前葉異常的疾病",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-58_merged.png",
     "explanation_images": null
   },
   {
@@ -17611,8 +17611,8 @@
       "D": "僅①②④"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Bundle care 在此指一套「組合式（要全做才有意義）」的介入措施，為美國醫療促進協會 (IHI) 2004 年倡議，以實證為基礎，提出 5 項措施來預防加護病房中心導管的感染：\n• 手部衛生\n• 最大範圍防護裝備\n• 以 2% chlorhexidine 消毒皮膚\n• 選擇適當的置入部位，避免由股靜脈置入\n• 每日評估是否拔除導管\n\n題目只有 ④ 錯誤\n\n臨床實務上，若病人仍有管路需求，中心靜脈導管約 1-2 週更換一次以減少管路感染風險（周邊靜脈 3 天、A-line 7 天、PICC 3-6 個月、port-A 數年）",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-59_merged.png",
     "explanation_images": null
   },
   {
@@ -17628,8 +17628,8 @@
       "D": "Neisseria meningitidis"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Trimethoprim-sulfamethoxazole (TMP-SMX) 的抗菌光譜包含：\n• Gram(+)：Streptococcus, MSSA, MRSA (community acquired), Listeria monocytogenes, (4) Nocardia spp.\n• Gram(-)：(1) E. coli, Proteus mirabilis, Salmonella spp., Shigella spp., (3) Burkholderia cepacian, Stenotrophomonas maltophilia（沒有 Pseudomonas aeruginosa ！）\n• Fungal：(2) Pneumocystitis jirovecii\n\n由上述整理確定 (D) Neisseria meningitidis 並不在 TMP-SMX 抗菌範圍中，其首選的治療藥物應是 penicillin-G\n\n補充：由其抗菌光譜得知，臨床上 TMP-SMX 的使用時機\n1. 泌尿道常見感染菌 (1)，因此常用在泌尿道感染的治療或預防\n2. 免疫力低下患者常見的 (2) PJP 治療或預防\n3. 少數 Carbapenem 類無效的格蘭氏陰性菌 (3) 治療首選\n4. Nocardiosis (4) 的治療首選",
+    "explanation_image": "/explanations/cropped/112-2-醫學（三）-60_merged.png",
     "explanation_images": null
   },
   {
