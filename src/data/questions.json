@@ -11599,6 +11599,9 @@
     "explanation_image": "/explanations/cropped/112-1-醫學(三)-38_merged.png",
     "explanation_images": [
       "/explanations/cropped/112-1-醫學(三)-38_merged.png"
+    ],
+    "images": [
+      "/images/112-1/醫學(三)/page_8_img_1.png"
     ]
   },
   {
@@ -11618,6 +11621,10 @@
     "explanation_image": "/explanations/cropped/112-1-醫學(三)-39_merged.png",
     "explanation_images": [
       "/explanations/cropped/112-1-醫學(三)-39_merged.png"
+    ],
+    "images": [
+      "/images/112-1/醫學(三)/page_9_img_1.png",
+      "/images/112-1/醫學(三)/page_9_img_2.png"
     ]
   },
   {
@@ -11751,6 +11758,9 @@
     "explanation_image": "/explanations/cropped/112-1-醫學(三)-46_merged.png",
     "explanation_images": [
       "/explanations/cropped/112-1-醫學(三)-46_merged.png"
+    ],
+    "images": [
+      "/images/112-1/醫學(三)/page_11_img_1.png"
     ]
   },
   {
@@ -12528,6 +12538,9 @@
     "explanation_image": "/explanations/cropped/112-1-醫學(四)-7_merged.png",
     "explanation_images": [
       "/explanations/cropped/112-1-醫學(四)-7_merged.png"
+    ],
+    "images": [
+      "/images/112-1/醫學(四)/page_2_img_1.jpeg"
     ]
   },
   {
@@ -12877,7 +12890,10 @@
     "answer": "A",
     "explanation": "由題目敘述「臉部及軀幹」、「搔癢」、「水泡」，可以判斷此男童是得到水痘 (varicella)，是由帶狀泡疹病毒 (VZV) 所引起的傳染性疾病，會產生多形性皮疹，水泡 (vesicles) 最具辨識度，在皮疹出現前兩天到水泡結痂前皆具感染性\n(B) 猩紅熱 (scarlet fever) 是由 Group A Streptococcus 感染導致，常見砂紙般紅疹，會由頸部向下蔓延\n(C) 手足口症由腸病毒 71 型及克沙奇病毒 A 群 (Group A coxsackievirus) 引起，型態為手掌腳掌的小水泡，無痛不癢也不會結痂結疤，亦可出現在臀部或膝蓋\n(D) COVID-19 主要以呼吸道症狀為主，皮膚症狀會以會癢的紅疹及小水泡出現，常分布於膝蓋、手肘，或是以蕁麻疹的方式出現，較特別的是偽凍瘡 (Pseudo-chilblains) 的形式，會使手指或腳趾紅腫、發熱、疼痛",
     "explanation_image": "/explanations/cropped/112-1-醫學(四)-26_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(四)/page_6_img_1.jpeg"
+    ]
   },
   {
     "id": "112-1-醫學(四)-27",
@@ -13064,7 +13080,10 @@
     "answer": "D",
     "explanation": "KOH 檢查可見 spaghetti and meatballs sign，加上病灶分布在背上，是汗斑 (pityriasis versicolor，又稱花斑癬、變色糠疹) 的典型表現\n(A) 汗斑為馬拉色氏雷菌 (Malassezia furfur) 感染造成，為雙型性真菌；spaghetti and meatballs sign 就是由菌絲和出芽狀的酵母菌樣孢子組成\n(B) 足癬 (tinea pedis，又稱香港腳) 為皮膚絲狀菌中的 Trichophyton rubrum 感染造成，與汗斑的致病原不同\n(C) 汗斑的第一線治療為外用抗真菌藥膏，含有 ketoconazole, econazole 或 terbinafin 成分的藥膏均具有療效，無效者才改用口服 fluconazole, itraconazole 治療\n(D) 正確，馬拉色氏雷菌是皮膚常在菌，喜歡生長在皮脂腺豐富的區域如頭皮、前胸、後背等；因此感染除了皮膚外也可能侵犯皮脂腺與毛囊，造成脂漏性皮膚炎、毛囊炎\n\n| 感染深度 | 微菌 | 疾病 |\n| :--- | :--- | :--- |\n| **表層皮膚** | 馬拉色氏雷菌 (Malassezia furfur) | 汗斑、脂漏性皮膚炎 |\n| **皮膚** | 皮膚絲狀菌 (dermatophytes) | 頭癬、體癬、足癬（香港腳）、灰指甲 |\n| **皮下組織** | 申克氏孢子菌 (Sporothrix schenckii) | 皮下結節、潰瘍→玫瑰園丁病 |\n| | 疣狀瓶黴菌 (Phialophora verrucosa) | 疣狀病灶→著色黴菌病 |",
     "explanation_image": "/explanations/cropped/112-1-醫學(四)-37_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(四)/page_8_img_1.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-38",
@@ -13081,7 +13100,11 @@
     "answer": "C",
     "explanation": "病理切片顯示皮下有增多的角質化構造，可使用排除法選出答案：\n(A) 尋常疣應會看到表皮層增厚、多出許多空泡細胞 (koilocyte)\n(B) 基底細胞癌：會看到不典型的基底細胞、出現 nuclear palisading（腫瘤外圈細胞的細胞核垂直於腫瘤表面），巨觀看起來像潰瘍\n(D) 角化棘皮瘤（常考！）：為良性皮膚腫瘤，但病理上與 SCC 相似，巨觀上呈現圓頂結節狀、中央填塞角質，像是火山口的型態",
     "explanation_image": "/explanations/cropped/112-1-醫學(四)-38_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(四)/page_9_img_1.jpeg",
+      "/images/112-1/醫學(四)/page_9_img_2.jpeg"
+    ]
   },
   {
     "id": "112-1-醫學(四)-39",
@@ -13132,7 +13155,10 @@
     "answer": "B",
     "explanation": "沒記圖片與對應疾病的話也沒關係，只要看到頸部、腋下和皺褶處有皮膚增生和色素沉積，反射性選黑色棘皮症 (acanthosis nigricans) 就對了！其他三種疾病雖然也會表現色素沉積，但黑癬主要長在手 / 腳掌；硬皮症則是由手指皮膚往近端長，且合併變硬、失去皺褶、鈣質沉著 (calcinosis cutis) 等症狀；發炎後色素沉澱則於細菌感染、接觸性皮膚炎、傷口疤痕或雷射治療等皮膚刺激後的病灶處產生",
     "explanation_image": "/explanations/cropped/112-1-醫學(四)-41_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(四)/page_10_img_1.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-42",
@@ -13183,7 +13209,10 @@
     "answer": "A",
     "explanation": "病人出現不對稱神經學症狀時應懷疑中風，而 non-contrast CT 目的在判斷出血性或缺血性中風，本題從影像即可判斷為 ICH，故排除 (B)(C)(D)\n\n(A) spot sign 是 ICH 於 CT 血管攝影 (CTA) 的徵象，為腦血腫內有局部的顯影劑堆積 / 顯影，spot sign 與血腫繼續長大的風險有關，為 ICH 不良預後的獨立預測因子，可能的影像鑑別診斷有 dot sign（見下方，因圖①不是缺血性中風而排除）、生理性鈣化點（此題的確可能是基底核鈣化點，但病人有神經學症狀，還是朝病理徵象去想）\n\n選項 (B)(C)(D) 皆屬腦梗塞的 early CT signs，以下表格整理：\n\n| early CT 徵象 | 成因 |\n| :--- | :--- |\n| **hyperdense MCA sign** | MCA 密度增加（因血栓使血液難以流動所致） |\n| **dot sign = Sylvian fissure sign** | 位於 sylvian fissure 之小亮點<br>（成因與 hyperdense MCA sign 相同，只是梗塞位置為 MCA 的 M2 分支） |\n| **lentiform nucleus obscuration\\*** | 水腫使 lentiform nu.（灰質、CT 本該亮）的密度下降，與鄰近內囊、外囊的區辨變不明顯 |\n| **insular ribbon sign\\*\\*** | 正常 insula 可見彎曲的紋路，水腫時該徵象消失 |\n| **indistinct differentiation between gray and white matter** | 組織密度稍微下降、灰白質界線不清 |\n\n\\*(B) lentiform nucleus sign 在中風影像上應指 lentiform nucleus obscuration（遮蔽）：避免跟 lentiform fork sign 搞混，後者是指 MRI T2 基底核密度變高，臨床很可能是代謝性酸中毒\n\\*\\*(D) insular ribbon sign 更精確應稱為 loss of insular ribbon sign",
     "explanation_image": "/explanations/cropped/112-1-醫學(四)-44_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(四)/page_11_img_1.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-45",
@@ -13302,7 +13331,10 @@
     "answer": "C",
     "explanation": "Multiple system atrophy (MSA) 是一種 atypical parkinsonian（或稱 Parkinson's plus syndrome，巴金森氏疊加綜合症），影響到的部分包含小腦、基底核、腦幹，因此除了動作協調出問題之外，也會有自律神經異常的表現，因此會有如題幹敘述的姿勢性低血壓、性功能障礙等自律神經反射失常現象，而「動作遲緩」以及「步態不穩」分別與「基底核導致的 parkinsonism」和「小腦異常」有關，在這張 MRI 的橋腦，可以看到一個像是十字架的 hyperintensity，是 MSA 經典的 cross bun sign（補充：MSA 可分為兩個 subtype，以巴金森氏症狀表現的 MSA-P (P for parkinsonism) 和以小腦症狀表現的 MSA-C (C for cerebellum)；cross bun sign 一般是 MSA-C 的典型徵象，但本題沒有要進一步作此區分）\n\n(A) 額顳葉失智症的臨床表現會有情緒易怒、個性改變、社交障礙（在不對的場合做事 / 做不該做的事）等情形，在影像上會看到額葉明顯萎縮，有時候也會有顳葉的萎縮\n(B) 阿茲海默症是最常見的失智症，影像上會有海馬迴、頂葉、顳葉的萎縮\n(D) Progressive supranuclear palsy (PSP) 也是一種 atypical parkinsonian，臨床表現有 axial dystonia/rigidity（身體會僵直）、retrocollis（站立時頸後仰）、眼球運動受限（先垂直受限再水平受限）、動作遲緩、語言及情感障礙，其 MRI 最經典的表現是中腦萎縮，導致在 sagittal view 可以看到 hummingbird sign（像是一隻鳥的側面）",
     "explanation_image": "/explanations/cropped/112-1-醫學(四)-51_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(四)/page_13_img_1.png"
+    ]
   },
   {
     "id": "112-1-醫學(四)-52",
@@ -13693,7 +13725,10 @@
     "answer": "C",
     "explanation": "解讀影像：\n1. CT 上看到與骨頭一樣亮的信號代表有鈣化或出血，但形狀邊界清楚較像鈣化\n2. T2-FLAIR（想成 T2 但 CSF 的訊號變黑，能更看清楚腦室旁的異常）看到前額葉有增高的訊號，代表此處有病灶，原因甚多，可以是發炎 / 感染、腫瘤、缺血性中風、代謝性疾病、去髓鞘化 (demyelination) 或神經軸突喪失 (axonal loss) 等〔常考：T2 或 FLAIR hyperintensity 在白質，要想到可能是多發性硬化症 (multiple sclerosis) 或白質病變（如 CADASIL）〕\n\n(C) 腦膜瘤是腦實質外腫瘤 (extra-axial tumor)，應可看到由外往內壓迫，大腦實質可能有變形的影像，合併 T2 上與灰質相同或增高的訊號；在打 contrast 的影像上，典型腦膜瘤會有 dural tail sign（與腦膜瘤相連的硬腦膜會變厚並顯影）",
     "explanation_image": "/explanations/cropped/112-1-醫學(四)-74_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(四)/page_17_img_1.jpeg"
+    ]
   },
   {
     "id": "112-1-醫學(四)-75",
@@ -13710,7 +13745,10 @@
     "answer": "B",
     "explanation": "第一張圖片可以看到有一個五角星形狀的 enhancement，這是 SAH 在 CT 上的典型表現，代表 circle of Willis 週圍的 suprasellar cistern（屬於蜘蛛膜下腔）有出血；第二張圖片的箭頭所指的位置是後交通支與內頸動脈交接處，可以看到有一個動脈瘤，合併第一張圖的 SAH 就可以診斷為動脈瘤破裂，並不需要再做 MRA 確定診斷，至於內頸動脈剝離會在內頸動脈的某一段看到 hypodense 的情形，形成 false lumen；頸部 CT 則會看到剝離處變成剩一條細細的血管 enhancement，稱為 string sign，但以上特徵均與本題圖片不符\n\n治療顱內動脈瘤有用手術 clip 夾起來的方法，或是經動脈用 coil 栓塞，相似考題可參考【112-2(五)10】，該題的動脈瘤就是前交通支的動脈瘤",
     "explanation_image": "/explanations/cropped/112-1-醫學(四)-75_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(四)/page_18_img_1.jpeg"
+    ]
   },
   {
     "id": "112-1-醫學(四)-76",
@@ -13948,7 +13986,11 @@
     "answer": "D",
     "explanation": "從電腦斷層判斷，小腦有一片 hyperdense 區域，為小腦出血，懷疑出血性中風\n(A) 單側大腦半球的病灶才會由半側肢體無力的表現，小腦出血除可能有顱內壓升高的症狀外（頭痛、嘔吐），會有小腦功能失調的表現，如暈眩 (Vertigo)、共濟失調 (Ataxia)、眼震 (Nystagmus)、意向性顫抖 (Intentional tremor)、構音困難 (Slurred speech/dysarthria)、肌張力低下 (Hypotonia)，可以字首 ‘VANISH’ 記憶\n(B) 急性出血性中風的血壓，應控制在 SBP/DBP < 140/90，較缺血性中風的標準嚴格且積極，避免再出血，為維持腦部灌流 (CPP)，在合理的血壓下，應首要降低顱內壓 (ICP)，特別是當病人已出現顱內壓升高的症狀（嘔吐、昏迷、Cushing triad）\n(C) 頭部外傷是鑑別診斷之一，但電腦斷層顯示顱骨結構完整、左右對稱，外傷可能性較低\n(D) 出血性中風危險因子包括高血壓、高血脂、糖尿病、肥胖、抽菸、飲食習慣、其他心血管疾病等",
     "explanation_image": "/explanations/cropped/112-1-醫學(五)-9_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(五)/page_2_img_1.png",
+      "/images/112-1/醫學(五)/page_2_img_2.png"
+    ]
   },
   {
     "id": "112-1-醫學(五)-10",
@@ -14101,7 +14143,10 @@
     "answer": "B",
     "explanation": "照片可以看到本該是乳頭 / 乳暈的地方似乎被一團不規則、濕疹樣的病灶取代，這個外觀最可能是乳頭的 Paget's disease，病灶可進一步演變成硬皮 (crusting) 和潰瘍 (ulceration)，Paget's disease 好發於 50 歲以上女性，佔所有乳癌約 1%，被認為和乳管原位癌有關，癌細胞再藉由乳管傳播到乳頭和周圍皮膚，因此需要做進一步評估",
     "explanation_image": "/explanations/cropped/112-1-醫學(五)-18_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(五)/page_4_img_1.jpeg"
+    ]
   },
   {
     "id": "112-1-醫學(五)-19",
@@ -14509,7 +14554,10 @@
     "answer": "D",
     "explanation": "圖 (a) 可以看到箭頭所指的是一個明顯像爆米花狀的實心鈣化，分類是屬於良性病灶，也就是 BI-RADS 2，圖 (b) 看到的則是多個點狀且其中圈起來的某些會沿著線狀排列，屬於 linear calcifications，而且每個點的形狀與大小不盡相同，為 heterogeneous，惡性可能較高，較像是 BI-RADS 4\n\n基本上 BI-RADS 2 可以大致包含：桿狀（比線性更粗一點）、圓環狀、較大的圓形或爆米花形固體、軌道狀等，而 BI-RADS 4 包含像沙子般灑在畫面上的 amorphous、線性排列且有分支、較細的線狀且大小不一\n\n底下附上乳房攝影的 BI-RADS 分類，基本上只要是 BI-RADS 1、2 都可以不用進行切片，BI-RADS 3 則要追蹤一陣子再決定，而 BI-RADS 4、5 基本上都要切片，因此 (D) 是錯誤的\n\n| BI-RADS 分期 | 意義 | 下一步 |\n| :--- | :--- | :--- |\n| **0** | 無法判斷 | 做其他乳房檢查 |\n| **1** | 沒有病灶 | 定期篩檢 |\n| **2** | 良性病灶 | |\n| **3** | 可能良性 | 需要追蹤 |\n| **4a** | 低度可能惡性 | 需要做切片 |\n| **4b** | 中度可能惡性 | |\n| **4c** | 高度可能惡性 | |\n| **5** | 極可能惡性 | |\n| **6** | 病理已確認惡性 | 進行治療 |",
     "explanation_image": "/explanations/cropped/112-1-醫學(五)-42_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(五)/page_9_img_1.jpeg"
+    ]
   },
   {
     "id": "112-1-醫學(五)-43",
@@ -14594,7 +14642,10 @@
     "answer": "C",
     "explanation": "圖中尾骶部突出且破裂的腫瘤應為尾骶骨畸胎瘤 (sacrococcygeal teratoma)，是胎兒與新生兒腫瘤中最常見的腫瘤（女 > 男），同時也是成年以前 germ cell tumor 中最常見的畸胎瘤種類，多是良性，但兩個月大後出現者惡性機率高\n1. 症狀：胎兒時期有羊水過多、胎兒水腫，最嚴重可因盜血症候群導致胎兒高輸出性心衰竭死亡；腫瘤過大會擠壓周遭的肛門或會陰，致膀胱出口阻塞、腎積水、直腸狹窄或閉鎖\n2. 診斷：產前可由定期超音波發現，並可進一步做進階超音波或 fetal MRI；出生後根據臨床發現即可診斷，可考慮做影像學檢查確認無腹腔內病灶\n3. 預後：胎兒在懷孕週數 30 週之前或出生後 2 個月後發現者預後最差；根據型態分類，第一型和第二型惡性機率低、預後佳，第三型和第四型則相反\n4. 治療：完整的手術切除，若兩個月大後才出現者建議先做切片，惡性的情況先進行化學治療後再切除",
     "explanation_image": "/explanations/cropped/112-1-醫學(五)-47_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(五)/page_11_img_1.jpeg"
+    ]
   },
   {
     "id": "112-1-醫學(五)-48",
@@ -14611,7 +14662,10 @@
     "answer": "A",
     "explanation": "本題光看圖片不一定能想到對應疾病，建議用刪去法作答：膽汁性嘔吐可以先排除肥厚性幽門狹窄；上腸繫膜動脈症候群好發於年輕女性（10~30 歲），且症狀偏慢性因此也排除；十二指腸閉鎖通常在出生後 1~2 天內出現嘔吐，且影像特徵為 double bubble sign，與題目描述不符\n\n中腸旋轉不全合併扭轉 (malrotation and midgut volvulus) 源自胚胎 10~12 週的發育異常，症狀多在出生後數週內發生，一開始為膽汁性嘔吐與餵食不佳，嚴重者可導致腸缺血、休克甚至死亡；腹部 X 光可見擴張的近端腸道 (dilated proximal bowel) 與無空氣的遠端腸道 (paucity of distal bowel gas)，或是在扭轉處出現 corkscrew sign 等",
     "explanation_image": "/explanations/cropped/112-1-醫學(五)-48_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(五)/page_11_img_2.jpeg"
+    ]
   },
   {
     "id": "112-1-醫學(五)-49",
@@ -15036,7 +15090,11 @@
     "answer": "B",
     "explanation": "X 光顯示病人左側股骨頭不在髖臼裡，為髖關節脫臼，電腦斷層則清楚顯示股骨頭相較髖臼胰向後移位，因此選 (B)\n\n另外 (C) 異位性骨化是好發在脊髓損傷、創傷性腦傷、中風後患者，在創傷數週至數月後出現正常骨骼外，成熟的骨小樑堆積；此病症也可出現在 trauma（如燒傷）或接受髖關節置換的人身上，髖關節是最好發的位置，X 光上表現為出現新生骨質，但通常在有症狀 1-2 個月後，骨質逐漸成熟才明顯顯影\n\n其他考點：\n• 常見關節脫臼的方位：肩、膝關節 → 前脫位；肘、髖關節 → 後脫位",
     "explanation_image": "/explanations/cropped/112-1-醫學(五)-73_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(五)/page_16_img_1.png",
+      "/images/112-1/醫學(五)/page_16_img_2.png"
+    ]
   },
   {
     "id": "112-1-醫學(五)-74",
@@ -15053,7 +15111,10 @@
     "answer": "B",
     "explanation": "影像中亮亮圓圓的就是 VCUG 脹尿後的膀胱，脹尿後遇到車禍傷到膀胱時特別容易發生膀胱破裂，可以看到影像的膀胱上緣邊界模糊，另外可以看到 contrast 跑到 cul-de-sac 等腹腔內低點的位置，代表尿液從膀胱滲出，另外，膀胱頂部 (dome) 發生破裂也是最常見的膀胱破裂位置\n\n(A) 理論上，一個正常人應該是無法透過 VCUG 看出 ureter rupture，因為 contrast 不會跑到 ureter 內，但膀胱輸尿管逆流 (VUR) 的病人就有可能會看到顯影劑到 ureter 某個高度就沒了，並且一樣會在腹腔內有顯影劑出現\n(C) 如果有 pseudodiverticulum，應該會看到有一個小球連接著 bladder，此影像看出膀胱（除了頂部）算是蠻完整的球狀\n(D) 攝護腺肥大用 VCUG 一般無法判斷，要透過肛門指診以及臨床的泌尿道症狀來判斷",
     "explanation_image": "/explanations/cropped/112-1-醫學(五)-74_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(五)/page_17_img_1.jpeg"
+    ]
   },
   {
     "id": "112-1-醫學(五)-75",
@@ -15342,7 +15403,10 @@
     "answer": "A",
     "explanation": "眼底鏡判讀的題目真的很難，但好在圖片中視神經盤有顯著的新生血管 (neovascularization)，一出現此特徵就表示病人已經有增值性糖尿病視網膜病變，就放心選 (A) 吧！\n\n| 糖尿病視網膜病變 | 眼底鏡特徵 |\n| :--- | :--- |\n| **mild NPDR** | 只有 microaneurysms |\n| **moderate NPDR** | microaneurysms / dot and blot hemorrhages / hard exudates / cotton-wool spots（以前叫 soft exudates）任一者以上 |\n| **severe NPDR** | 4-2-1 原則：視網膜 4 象限各有 ≥20 hemorrhages / 至少 2 象限有 venous beading / 至少 1 象限有 microvascular abnormalities |\n| **PDR** | neovascularization / vitreous or preretinal hemorrhages 任一者以上 |\n\nNPDR = 非增殖性糖尿病視網膜病變 (Non-proliferative diabetic retinopathy)\nPDR = 增殖性糖尿病視網膜病變 (Proliferative diabetic retinopathy)",
     "explanation_image": "/explanations/cropped/112-1-醫學(六)-11_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(六)/page_3_img_1.jpeg"
+    ]
   },
   {
     "id": "112-1-醫學(六)-12",
@@ -15767,7 +15831,10 @@
     "answer": "D",
     "explanation": "記憶題，見圖所示，小孩的手掌先從陰道口出來，後面可以看到頭頂，故此選項應為一手放置於頭上的 compound presentation\n\n(A) complicated presentation 應是湊選項的名詞，查無此姿勢\n(B) neglected (shoulder) presentation：肩難產的一種\n(C) brow presentation：約是額頭朝陰道口，比 face presentation 的脖子伸展較少",
     "explanation_image": "/explanations/cropped/112-1-醫學(六)-36_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(六)/page_7_img_1.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-37",
@@ -16416,7 +16483,11 @@
     "answer": "C",
     "explanation": "首先注意到第一張圖箭頭所指的是鼻咽的位置，分辨的方式是從鼻子的地方沿著空氣（黑色部分）往顱內看回來，可以發現箭頭所指的地方有一個 hyperintensity 的 mass，這是一張 T1+contrast，在看 tumor 的時候才會比較顯影出來，第二張圖則是 T2，可以注意到右邊（即病人左側耳朵附近，詳解附圖箭頭指的地方）原先應該是被空氣充滿的 mastoid process，現在在影像上有 hyperintensity（可以比較病人右耳附近同樣是 mastoid air 的位置），而 T2 影像 high signal 代表有水，代表內部可能有 pus，可能是 acute mastoiditis，結合這兩個資訊，最有可能是鼻咽癌以及左側急性乳突炎\n\n(A) 聽神經瘤的位置會在小腦橋腦角 (CP angle)，臨床上會影響 CN7, 8 和小腦功能（更大可連帶影響 CN5, 9），故也會有耳鳴、聽力損失等情形\n\n(B) 咽喉細菌感染一般來說不太會持續兩個月只有耳鳴現象，應該會伴隨有上呼吸道症狀且可能會有分泌物增多的表現\n\n(D) 慢性中耳炎一般會用耳鏡來診斷，這兩張影像也不太能看出耳道的位置，但 MRI 還是可能可以在耳道看到慢性中耳炎有積液",
     "explanation_image": "/explanations/cropped/112-1-醫學(六)-73_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(六)/page_14_img_1.png",
+      "/images/112-1/醫學(六)/page_14_img_2.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-74",
@@ -16433,7 +16504,11 @@
     "answer": "B",
     "explanation": "整理擁有資訊：無痛硬塊二年、超音波呈現一界線清楚的 hypoechoic mass、有些 heterogenic、伴隨少許 internal vascularity\n\n由刪去法解題：(A) 膿瘍會痛、病程不會兩年 (C) 血管瘤應有更多血流訊號 (D) 腺癌在耳下腺少見，2 年是否有增大不得而知，理論上應有惡性特徵如界線模糊、形狀不規則，筆者查閱文獻後發現，唾液腺腫瘤的良惡性以超音波較難區分，惡性腫瘤可以在沒有典型惡性影像特徵的狀況下表現（但如此便喪失出題用意）\n\n(B) 多形性腺瘤是耳下腺最常見的良性腫瘤，以無痛腫塊表現，維持數年幾乎不變大，超音波特徵為界線清楚、形狀規則、hypoechoic、其後方可能回音增強 [ 目前描述跟 cyst 一樣 ]，內部通常為 polycyclic or lobulated 故不一定 homogenous，並有微弱血流訊號\n\n關於唾液腺腫瘤的概論，請參考【112-1(五)17】詳解",
     "explanation_image": "/explanations/cropped/112-1-醫學(六)-74_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-1/醫學(六)/page_14_img_3.png",
+      "/images/112-1/醫學(六)/page_14_img_4.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-75",
