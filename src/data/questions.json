@@ -18155,8 +18155,8 @@
       "D": "上消化道內視鏡檢查（upper GI panendoscope）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "對於嬰幼兒的血便要想到的常見鑑別診斷大致上有以下幾種：\n1. 感染：尤其是沙門氏菌或志賀氏菌，可能會讓糞便帶有血絲，但是通常這種腸胃炎引起的血便不會是全部血便，而應該較常以血絲型態出現，另外，應該會有典型腸胃炎症狀，包含腹痛、腹瀉、發燒等情形\n2. 腸套疊：這類型的病人常會有間斷性哭鬧，嚴重腹痛等症狀，而理學檢查上可能會摸到腹部有一個硬塊，糞便會較接近草莓果醬色的糞便，而且會有嚴重的壓痛甚至反彈痛等 peritoneal signs，這個病人也較不像是在這個疾病\n3. Meckel's diverticulitis：此疾病可用經典的 rule of 2 來記憶：「2 歲前、盛行率 2%、距離 ileocecal valve 2 英尺 (約 60 cm)、總長度 2 英吋 (約 5 公分)、憩室常見 2 種外來組織 (胰、胃)」，而症狀上常見無痛深紅色或褐色血便，以及近乎正常的腹部理學檢查，這和此題的題幹敘述很接近，而且年齡上也符合\n4. 肛裂：幾乎是最常見會造成血便的原因，但一樣不會是大量血便，而應該是以血絲為主，另外較可能會是糞便較硬等便秘情形較常見，題幹敘述的病人平時解成形軟便，因此可能性也不高\n5. 早發性發炎性腸炎：也要列入考慮，但是症狀上會有腹痛以及壓痛等\n\n綜上所述，最可能的診斷應為 Meckel's diverticulitis，而敏感度最高的檢查就是 Meckel's scan，主要是透過偵測 Tc-99m 會結合 gastric mucosa，而幼兒的 Meckel's diverticulitis 大部分都會有胃部組織異位到小腸，成人則比例較少，也因此成人的 Meckel's diverticulitis 透過 Meckel's scan 較難發現\n\n如果換成是成人，(A) angiography 就有一定的價值，通常 angiography 需要在有較大量的 active bleeding 才能顯現出來，但是對於兒童來說，出血量沒有那麼大，因此較難偵測到\n(B) 選項主要是兒科用來診斷 acute cholecystitis 的影像方法\n(D) 選項雖可能找到憩室位置，但是敏感度沒有 Meckel's scan 高，而腸鏡的部分，wireless capsule endoscopy 以及 double balloon enteroscopy 較常使用來找 Meckel's diverticulitis 的病灶處",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-11_merged.png",
     "explanation_images": null
   },
   {
@@ -18172,8 +18172,8 @@
       "D": "源於尿液流失alternative pathway的factor B與factor D"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "腎病症候群 (nephrotic syndrome) 簡單來說就是腎絲球疾病造成的蛋白質流失，症狀除了因血液滲透壓降低造成的水腫，也會因抗體（如 IgG，造成 hypoglobulinemia）、補體（如 C3、C5，以及 alternative pathway 的 factor B、D）等免疫相關蛋白經尿液流失而使病人容易感染，兒童腎病症候群常見的感染症有自發細菌性腹膜炎 (SBP)、蜂窩性組織炎、菌血症等\n\n複習一下腎病症候群的診斷條件：\n1. 蛋白尿 ≥ 3.5g/ 天 或 urine protein-creatinine ratio ≥ 2\n2. 合併以下典型的臨床特徵：\n• 低白蛋白血症 (hypoalbuminemia；albumin <2.5 g/dL)\n• 高血脂症 (hyperlipidemia；cholesterol >200 mg/dL)\n• 水腫 (edema)\n• 高凝血狀態 (hypercoagulability)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-12_merged.png",
     "explanation_images": null
   },
   {
@@ -18189,8 +18189,8 @@
       "D": "因為藥物治療效果很好，應列為第一線治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "夜間遺尿症定義為 5 歲以後仍有夜間不自主尿床的狀況（絕大多數兒童 5 歲已能控制小便），盛行率約 20%，男童較多，分為 primary（75-90%，兒童從小就一路尿床）和 secondary（10-25%，兒童有一段不尿床的期間後才發生夜間遺尿），問診須著重遺尿的型態、睡前飲水量、睡眠是否打鼾，並排除是否有慢性腎臟疾病、糖尿病、尿崩症等，約 50% 的兒童有家族史，少部份的兒童在白天和夜間都會遺尿，此時便要懷疑是否泌尿系統結構異常\n\n處置上，提醒家長與兒童夜間遺尿會隨年齡漸長而改善，避免加重心理負擔，晚上限水、減少糖份和咖啡因攝取都有幫助\n\n第一線治療為動機行為治療 (motivational therapy，如不尿床就給小獎勵) 和制約式行為治療 (conditional therapy，如在內褲放潮濕偵測裝置，以振動或聲音提醒兒童下床)，第二線才是藥物治療，主要為抗利尿激素 (ADH) 之衍生物 desmopressin (商品名 Minirin)，後線藥物有抗膽鹼類藥物 oxybutynin 和三環抗憂鬱劑 imipramine，與潮溼偵測裝置相比，藥物治療有較高的復發率",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-13_merged.png",
     "explanation_images": null
   },
   {
@@ -18206,8 +18206,8 @@
       "D": "血管張力素轉換酶抑制劑（ACEI）與血管張力素受體阻斷劑（ARB），可以有效控制血壓並且減少蛋白尿"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "錯誤為 (C)，類固醇脈衝治療只適用於 class III-V 紅斑性狼瘡腎炎，太嚴重或太輕微的類型皆不適合此治療；而 ACEI 與 ARB 可用於減少腎絲球內壓、降低蛋白尿，同時也有控制血壓、減少蛋白滲出的效果\n\n以下補充六種紅斑性狼瘡腎炎的表現及治療：\n\n| 名稱 | 臨床表現 | 預後及治療 |\n| :--- | :--- | :--- |\n| **class I** | minimal mesangial LN | 輕度蛋白尿、腎功能正常 | 預後佳，不須積極治療、中低劑量類固醇 |\n| **class II** | mesangial proliferative LN | 輕度血尿或蛋白尿、腎功能正常 | 預後佳，不須積極治療、中低劑量類固醇 |\n| **class III** | focal LN | 蛋白尿及血尿、腎功能輕微受損 | 積極治療：高濃度類固醇 + 強免疫抑制劑 |\n| **class IV** | diffuse LN | 嚴重蛋白尿及血尿、易惡化成腎衰竭 | 預後最差，積極治療：高濃度類固醇 + 強免疫抑制劑 |\n| **class V** | lupus membranous nephropathy | 嚴重蛋白尿、輕度血尿、不易惡化至腎衰竭 | 積極治療：高濃度類固醇 + 強免疫抑制劑 (MMF) |\n| **class VI** | advanced sclerosing LN | 嚴重蛋白尿、易惡化成腎衰竭 | 預後最差，已不可逆：保守治療，考慮洗腎或腎臟移植 |\n\n*在 class III-V 易有重要器官侵犯，故需給類固醇脈衝療法佐以強免疫抑制劑",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-14_merged.png",
     "explanation_images": null
   },
   {
@@ -18223,8 +18223,8 @@
       "D": "幼兒四肢伸側"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "| 異位性皮膚炎 (atopic dermatitis) | |\n| :--- | :--- |\n| **流行病學** | 大部分病人五歲前發病，成人才發病者多數從手掌開始，75% 在青春期及成人時緩解，但仍有 25% 會慢性化到成人 |\n| **危險因子** | 家族遺傳是最重要的危險因子，其中 flaggerin 基因突變是目前所知最強烈相關的基因危險因子，會使 skin barrier 減弱，其他危險因子如種族、教育程度等都比遺傳來得相關性還弱 |\n| **好發位置** | • 嬰幼兒：頭皮、臉部、四肢伸側 (extensor side)，不包括尿布位置<br>• 青少年：四肢屈側 (flexor side)、頸部<br>• 成人：四肢屈側、頸部、手掌 |\n| **治療** | 保濕、外用類固醇（易皮膚萎縮）、外用 calcineurin inhibitors 如 tacrolimus（較不易皮膚萎縮）、照光治療、免疫抑制劑 |\n\n相同觀念，可與【112-2(四)34】搭配複習",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-15_merged.png",
     "explanation_images": null
   },
   {
@@ -18240,8 +18240,8 @@
       "D": "ILC3s會被IL-33、IL-25與TSLP活化而誘發過敏反應"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "這題出得實在有夠細，建議同學看解析時順便複習一下氣喘的病生理，(D) 錯的地方在於被 IL-33、IL-25、TSLP 活化的免疫細胞為 ILC2s，主要參與非 IgE 相關的過敏反應，以下提供筆者自己整理的簡化版過敏反應路徑圖：\n\n• **Allergic (IgE) pathway**：Allergens → Dendritic cell（抗原呈現）→ Th2 cell（分泌 IL-4、IL-13 促使 B cell 產生 IgE 結合於 Mast cell；分泌 IL-5 促使 Eosinophil 活化）→ Mast cell 釋放 Histamine、Cytokines 造成氣管平滑肌收縮、黏膜分泌、發炎反應\n• **Non-allergic pathway**：Pollutants, microbes, glycolipids → Macrophage, NK T-cell, Goblet cell（分泌 IL-33、IL-25、TSLP）→ 活化 ILC2 cell（分泌 IL-5 活化 Eosinophil；分泌 IL-13 促使氣管平滑肌收縮、黏膜分泌）",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-16_merged.png",
     "explanation_images": null
   },
   {
@@ -18257,8 +18257,8 @@
       "D": "慢性蕁麻疹（chronic urticaria）會影響較深處的皮膚及黏膜組織造成腫脹，稱之為血管性水腫（angioedema）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "蕁麻疹 (urticaria) 是 IgE 媒介的過敏反應，即 type 1 hypersensitivity（口訣 5A1U）\n\n5A：過敏性鼻炎 (Allergic rhinitis)、異位性皮膚炎 (Atopic dermatitis)、氣喘 (Asthma)、過敏性休克 (Anaphylaxis shock)、血管性水腫 (Angioedema)；U：蕁麻疹 (Urticaria)\n\n蕁麻疹誘發原因包括接觸過敏原、食藥物過敏、昆蟲叮咬、感染、輸血反應，輕症於患處皮膚有紅、隆起且發癢難耐之風疹塊，稱為 wheal；重症則可能併發血管性水腫和過敏性休克，蕁麻疹的特性是個別風疹塊會在 24 小時內消退，但可能在皮膚他處積蓄產生，一般皆是急性發作，反覆發作 6 週以上稱為慢性蕁麻疹，慢性蕁麻疹可依病因進一步區分為自發性 (spontaneous) 或誘發性 (inducible)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-17_merged.png",
     "explanation_images": null
   },
   {
@@ -18274,8 +18274,8 @@
       "D": "治療以輸血小板為主"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "特發性血小板減少性紫斑症 (ITP) 是兒童最常見的單獨性血小板低下，常發生在 1-4 歲兒童感染病毒 1-4 週後 (EBV、VZV、HIV)，會產生自體免疫抗體與吞噬作用破壞血小板，臨床上 ITP 應作為排除性診斷，要先排除：\n1. Pseudothrombocytopenia：抗凝劑 EDTA 與血小板產生凝結反應，造成假性低下，要改用 citrate 作為抗凝劑重新測試\n2. 排除 Thrombocytopenia：嚴重的造血不良 (MDS)、DIC、肝炎導致的脾腫大 (splenomegaly with hypersplenism)、sepsis 導致的血小板抑制\n3. 可以用血小板輸注來證明 ITP：在身體有大量抗體的情況下，即使輸注血小板還是會快速被消耗；反之，若為脾破壞增加或製造太少，輸完血小板短期內會改善\n\n嚴重出血是非常少見的情況 (<3%)，嚴重至顱內出血的比例更少 (<1%)，多數兒童在 6 個月後會自行緩解，其他治療可考慮類固醇、IVIG，在 platelet 大於三萬的情況下不須輸血小板治療，隨意輸注血小板反而會增加體內產生血小板抗體的機會",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-18_merged.png",
     "explanation_images": null
   },
   {
@@ -18291,8 +18291,8 @@
       "D": "特定疾病（如神經纖維瘤）的兒童罹患癌症的風險會增加"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，白血病、淋巴癌與 CNS 惡性腫瘤是常見的兒童癌症前三名，但即使是這些兒童常見癌症，要知道他們的每年的病例數仍遠低於成人的病例數\n(B) 正確，幾乎全部的癌症都需要病理組織學結果才能確定診斷，無論是兒童或是成人的癌症，而影像在癌症的診斷上也日趨重要\n(C) 錯誤，大部分是透過手術、化療為主，標靶治療一般比較後線，化療在兒童癌症尤其重要是因為大部分的兒童癌症長得很快，這也是化療會比較有效的原因，而且兒童仍會發育，因此比起成人更能從高劑量化療藥物的毒性中恢復，反倒是放療對於兒童比較不適合，跟成人相比會有較嚴重的副作用\n(D) 正確，選項中提及的神經纖維瘤 (neurofibroma) 是體顯性遺傳，又可分為 NF1 與 NF2，其中 NF1 的兒童病人比起正常兒童有更高機率得到許多癌症，如：rhabdomyosarcoma、optic pathway glioma、juvenile myelomonocytic leukemia 等，因此會建議有 NF1 的兒童進行這些癌症的 screening，除了 neurofibroma 以外，仍有許多疾病的兒童罹患癌症機率會上升，包含某些病毒的感染 (HHV、HPV、HIV)、先天性遺傳疾病（唐氏症、Beckwith-Wiedemann syndrome）等等\n\n其他考點：\n• 總體而言，兒童癌症的五年存活率比成人癌症的還要好\n• 兒童血癌當中，最常見的是 Acute Lymphoblastic Leukemia (ALL)\n• 唐氏症的兒童有更高機率會罹患 leukemia\n• Beckwith-Wiedemann syndrome 的兒童有更高機率得到 Wilms tumor",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-19_merged.png",
     "explanation_images": null
   },
   {
@@ -18308,8 +18308,8 @@
       "D": "系統性紅斑性狼瘡"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "會需要造血幹細胞移植的病人想必有造血相關的問題，系統性紅斑性狼瘡 (SLE) 雖然也會全血球低下，但成因與疾病本身造成的慢性發炎、溶血、高凝血狀態相關，而非骨髓造血功能不良\n\n臨床上可使用異體造血幹細胞移植 (allo-HSCT) 的適應症有：\n1. 白血病（急性骨髓性白血病、急性淋巴性白血病等）\n2. 骨髓疾病（骨髓化生不良症候群、骨髓增生性腫瘤等）\n3. 淋巴癌、多發性骨髓瘤\n4. 其他血液疾病（嚴重型再生不良性貧血、重型地中海型貧血等）\n5. 少數高危險固態腫瘤（neuroblastoma、medulloblastoma 等）",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-20_merged.png",
     "explanation_images": null
   },
   {
