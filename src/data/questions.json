@@ -15510,8 +15510,8 @@
       "D": "卡他莫拉菌（Moraxella catarrhalis）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "送分題！細菌性鼻竇炎最常見的三隻菌務必背起來，最常見的是肺炎鏈球菌，第二常見的是 Haemophilus influenzae，第三常見則是 Moraxella catarrhalis，這三隻也是急性中耳炎最常見的菌（記憶：那些細菌跑到鼻咽順著耳咽管跑就會變成中耳炎）！綠膿桿菌也可能導致急性鼻竇炎，只是相對少見\n\n其他考點：\n• 若只論「急性鼻竇炎」則是病毒較常見（由 common cold 的病毒所致，以 rhinovirus 為大宗）\n• 慢性鼻竇炎代表時間超過 3 個月，上皮變化可能不可逆",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-21_merged.png",
     "explanation_images": null
   },
   {
@@ -15527,8 +15527,8 @@
       "D": "骨性發炎（bone inflammation）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "慢性鼻竇炎可分為三類：\n1. 慢性鼻竇炎無合併鼻息肉（CRSsNP，佔 65%）\n2. 慢性鼻竇炎合併鼻息肉（CRSwNP，佔 25%）\n3. 過敏黴菌性鼻竇炎（allergic fungi rhinosinusitis, AFRS，佔 10%）\n\n鼻竇炎的核心機轉都是「發炎」，但「無」合併與「有」合併息肉兩者在病因仍有些不同，前者主因是竇口鼻道複合體 (osteomeatal complex) 阻塞，後者偏重與嗜酸性球浸潤的鼻黏膜水腫有關，竇口鼻道複合體阻塞的原因，包含鼻腔解剖結構有異、鼻內纖毛功能缺陷、全身性因素（如先天或後天免疫缺陷、囊狀纖維化）、生物膜 (biofilm)、骨性發炎 (osteitis)，一些疾病也被發現會增加患病風險（過敏性鼻炎、胃食道逆流、氣喘、慢性阻塞性肺病等）\n\n(A) 耳咽管功能異常很常是鼻竇炎的結果，而非原因",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-22_merged.png",
     "explanation_images": null
   },
   {
@@ -15544,8 +15544,8 @@
       "D": "誤食鈕扣電池（button battery）必須緊急進行食道鏡手術移除，因短時間內，食道黏膜就會受損，可能導致食道穿孔"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，食道管腔內的 linear opacity 在 X 光下通常比周邊組織亮且邊界清楚，是食道異物（如魚骨）的重要特徵\n(B) 雖然考得偏細，但根據統計食道異物最常卡的位置為食道上段的環咽肌（cricopharyngeal muscle，近 thoracic inlet 處），占約 70%；其次主動脈弓和橫膈狹窄處則發生率差不多\n(C) 正確，二次探查的目的在於排除食道異物殘留，並檢查食道結構是否異常或有腫瘤；此外也有建議在內視鏡檢查後加做食道 X 光確認\n(D) 早期的鈕扣電池就是俗稱的水銀電池，腐蝕性之強可想而知，無論是何種類型的電池都有一定的腐蝕性，一旦誤食都必須緊急食道鏡移除；至於其他食道異物多數可以自行排出，只有 20% 病人需要手術",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-23_merged.png",
     "explanation_images": null
   },
   {
@@ -15561,8 +15561,8 @@
       "D": "最常見的惡性腫瘤病理為濾泡性腺癌（follicular adenocarcinoma）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(D) 最常見的惡性腫瘤病理為 papillary carcinoma\n\n| 比較項目 | 成人甲狀腺癌 | 兒童甲狀腺癌 |\n| :--- | :--- | :--- |\n| **性別** | 女 > 男 | 女 > 男 |\n| **類型** | 兩者比例相似<br>papillary carcinoma (85–90%) > follicular carcinoma > medullary carcinoma | 兩者比例相似<br>papillary carcinoma (85–90%) > follicular carcinoma > medullary carcinoma |\n| **thyroid nodules** | 發生率高<br>惡性比率約 5-15% | 發生率低<br>惡性比率約 70% |\n| **遺傳性** | 多為體染色體突變 | 遺傳性高<br>(10% follicular carcinoma are familial) |\n| **放射線敏感度** | 兒童 > 成人 | 兒童 > 成人 |\n| **復發率** | 兒童 > 成人 | 兒童 > 成人 |\n\n各類型甲狀腺癌的比較，請看【112-2(三)57】詳解",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-24_merged.png",
     "explanation_images": null
   },
   {
@@ -15578,8 +15578,8 @@
       "D": "出現遠端轉移後，部分病人疾病進程緩慢，仍可存活數年"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 錯誤，三者型態的預後：cribriform 和 tubular 差不多，但型態若有 solid component 則預後差\n(B) 正確，因為其親神經性，容易在疾病初期發現神經學異常的症狀，在一項有 198 個 adenoid cystic carcinoma 病人的研究統計，發現有 69% 有 perineural spread\n(C) 正確，雖然「治療失敗」這個名詞有點怪，但筆者認為題目想表達的是 disease-free survival，而遠端轉移確實常發生在這類疾病裡面\n(D) 正確，Adenoid cystic carcinoma 即使遠端轉移仍有約 10% 的病人可以活超過 10 年\n\n| 惡性唾液腺腺樣囊狀癌 (Adenoid Cystic Carcinoma) | |\n| :--- | :--- |\n| **特性** | 進展緩慢<br>親神經性、易沿著神經侵犯（臉癱、舌頭單側無力等） |\n| **頻率** | 第二常見的唾液腺惡性腫瘤（第一常見是 mucoepidermoid carcinoma） |\n| **位置** | 是下頜腺、小唾液腺最常見的惡性腫瘤<br>（腮腺最常見的惡性腫瘤是 mucoepidermoid carcinoma）<br>除唾液腺外，也能原發於乳房、淚腺、氣管等有外分泌腺體處 |\n| **組織** | 由 ductal, myoepithelial 兩種細胞組成，可排列成 cribriform, tubular, solid 三種組織型態 |\n| **復發** | 雙峰分佈，最常見復發時間為 5 年內，另一分佈則在 20 年後 |\n| **轉移** | 較常以血行轉移，最容易到肺 (70%)、骨頭、肝 |\n| **預後較差** | 年紀大、一開始就有遠端轉移（骨轉移又比肺、肝轉移預後差）、原發位置在下頜或鼻竇區域、solid pattern |\n\n可參閱【112-1(五)17】了解其他常見唾液腺良惡性腫瘤\n參考資料：M Amit, et al. (2014). Analysis of failure in patients with adenoid cystic carcinoma of the head and neck. An international collaborative study. Head & neck, 36(7): 998-1004",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-25_merged.png",
     "explanation_images": null
   },
   {
@@ -15595,8 +15595,8 @@
       "D": "是惡性腫瘤"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Warthin's tumor（又稱 papillary cystadenoma lymphomatosum）是唾液腺第二常見的良性腫瘤，約佔腮腺腫瘤的 2%-10%，且常見於腮腺尾端 (tail)，病因未明但與吸菸高度相關，流行病學上好發於 50-70 歲、男性多於女性，【112-1(五)17】也有考唾液腺腫瘤，請參考其詳解",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-26_merged.png",
     "explanation_images": null
   },
   {
@@ -15612,8 +15612,8 @@
       "D": "頸部腫塊"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "實在不懂出症狀常見度要幹嘛，四個選項都可以發生在鼻咽癌病人，而且不同研究做出來的症狀常見度也可能有差，要解釋大概只能說鼻咽癌早期多為無症狀且容易轉移，因此病人出現症狀時大多已經有頸部淋巴結轉移了\n\n筆者能找到最相符的研究為香港的回溯性研究 (n=4768)，裡面的統計結果供參就好：\n\n| 鼻咽癌症狀 | 最早出現症狀 (%) | 症狀發生率 (%) |\n| :--- | :--- | :--- |\n| **頸部腫塊** | 37.3 | 75.8 |\n| **單側鼻血 / 鼻水 / 鼻塞** | 35.4 | 73.4 |\n| **聽力損失及耳鳴** | 19.1 | 62.4 |\n| **頭痛** | 3.7 | 34.8 |\n| **複視及瞇眼** | 1.0 | 10.7 |\n| **面神經麻痺** | 0.5 | 7.6 |\n| **體重減輕** | <0.1 | 6.9 |\n| **牙關緊閉、口齒不清** | 0.1 | 5.4 |\n| **其他症狀** | 0.3 | 1.2 |\n\n參考資料：WMA Lee, et al. (1997). Nasopharyngeal carcinoma: presenting symptoms and duration before diagnosis. Hong Kong medical journal",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-27_merged.png",
     "explanation_images": null
   },
   {
@@ -15629,8 +15629,8 @@
       "D": "hair loss增加"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "懷孕期間的生理變化如下：\n1. 呼吸：呼吸速率增加（黃體素促使中樞對 CO2 敏感度增加）、肺容積減少（橫膈膜上移）\n2. 心血管：心跳及心搏量增加（心輸出量上升）、週邊血管阻力下降、血壓下降（到第三孕期會恢復）\n3. 血液：紅血球增加（EPO 分泌 ↑）、血色素下降（因為血清量增加更多）、高凝血功能狀態、白血球上升\n4. 腸胃道：因黃體素與子宮壓迫，蠕動下降，容易便秘\n5. 泌尿系統：腎臟灌流增加（Cr ↓、輕微蛋白尿）、膀胱受壓迫易頻尿、逆流及感染\n6. 皮膚：雌激素促使血管擴張 (spider angioma)、黑色素沉積、陰道和子宮頸血流增加呈藍紫色\n\n故此題應選 (B)，孕期代謝需求增加，因此 TBG 會上升，加上 hCG 有微弱的甲狀腺素效力（結構和 TSH 相似），以維持代謝需求",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-28_merged.png",
     "explanation_images": null
   },
   {
@@ -15646,8 +15646,8 @@
       "D": "合體滋養層（syncytiotrophoblast layer）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "在產科教科書上有明確記載著選項中 (A) (B) (C) 三者的抗張強度，強度由強至弱依序是羊膜 >> 絨毛膜 > 蛻膜，教科書甚至用：「...provides almost all of the tensile strength of the fetal membranes.」來形容羊膜，不過並沒有特別找到合體滋養層跟其他層的強度關係\n\n這題看似很難，但是可以推理一下：一般羊膜破掉的時候大概就是要準備生了，羊膜是最內層的膜，可以視為是最後一道防線，所以必須是最堅韌的\n\n其他考點：\n• 四個選項若從子宮壁開始往胎兒組織依序為蛻膜 → 合體滋養層 → 絨毛膜 → 羊膜\n• 羊膜缺乏平滑肌、神經、血管（可以當作角膜移植用）\n• 合體滋養層是胎盤最外層組織，會在約受精後第 8 天分泌 hCG，可檢測有無驗孕",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-29_merged.png",
     "explanation_images": null
   },
   {
@@ -15663,8 +15663,8 @@
       "D": "15～16 週"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "胎兒心臟結構在妊娠 3-8 週發育，於 8-10 週完成，約第 6 週就可用「經陰道超音波」偵測到微弱心跳，「經腹部超音波」則是第 7-8 週可偵測到，題幹詢問的是「Doppler 胎心音監測器 (fetal heart monitor)」約要 10 週以後才能聽見心跳，選 (C)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-30_merged.png",
     "explanation_images": null
   },
   {
