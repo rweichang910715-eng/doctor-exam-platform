@@ -18495,8 +18495,8 @@
       "D": "hydrocephalus"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 選項的 craniosynostosis 就是指囟門的提前關閉，但是會導致它的原因有很多，比如：甲狀腺亢進、副甲狀腺亢進，低血磷，另外，腦太小 (microcephaly) 也會導致前囟門提早關閉，可能原因包含 prenatal trauma、fetal alcohol syndrome、先天感染等，額外補充，craniosynostosis 最常影響 sagittal suture，而導致兒童舟狀頭 (scaphocephaly)\n\n至於其他選項的軟骨發育不全、甲狀腺低下、水腦症等都會造成延遲關閉（其中水腦症可以更廣義的延伸為腦內壓上升），除此之外還有：Down syndrome、早產、成骨不全症 (osteogenesis imperfecta，俗稱玻璃娃娃)、佝僂病 (rickets)\n提供一個簡單的記法：腦太小比較好關起來（提早），而腦太大則比較難關起來（延後）\n\n其他考點：\n• 【112-1(四)3】有考類似的題目，但是考前囟門擴大 (enlarged)，而這通常跟前囟門延後關閉一起發生，只有少數例外如：家族性 macrocephaly (延後關閉但不擴大)、子宮內生長遲緩 (擴大但不延後關閉) 等\n• 囟門膨出 (bulging) 是另一個常見考法，通常跟水腦症、CNS 感染、顱內出血等有關，而如果是囟門凹陷 (sunken)，則要特別注意 dehydration\n• 囟門關閉的大致時間與順序：posterior (3 月) → sphenoid (6 月) → mastoid (6-18 月) → anterior (24 月)\n參考資料：J Kiesler & R Ricer. (2003). The abnormal fontanel. American family physician, 67(12), 2547-2552.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-31_merged.png",
     "explanation_images": null
   },
   {
@@ -18512,8 +18512,8 @@
       "D": "受虐性腦傷（abusive head trauma）應列入鑑別診斷"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "3 個月大的嬰兒按正常發育時程最多只會自行抬頭，無法自行翻身、爬行乃至站立、行走，幾乎不可能因為「日常活動」而受傷；另外肢體內側、軀幹與鼠蹊部也不是嬰兒常見的受傷部位，因此本題的頭部血腫一定要考慮兒虐造成的受虐性腦傷 (abusive head trauma，以前稱為 shaken baby syndrome)，初始影像評估和一般頭部外傷相同，是以頭部電腦斷層 (CT) 作為工具，另外還需要眼底鏡檢查來偵測有無視網膜出血\n\n其他受虐性腦傷的考點建議配合【112-2(六)15】一起複習，以下補充兒童虐待的簡易篩檢條件，其中 1~4 符合兩者以上或符合 5、6 任一項以上就應做進一步兒虐篩檢：\n1. 一年內超過三次以上急診外傷就醫紀錄\n2. 病史不一致\n3. 病史和身體檢查不符\n4. 延遲就醫\n5. 一歲以下任何的骨折及頭部外傷\n6. 低處跌落（約 150 公分以下）後造成顱內損傷或骨折",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-32_merged.png",
     "explanation_images": null
   },
   {
@@ -18529,8 +18529,8 @@
       "D": "一般人身上都帶有一個由母親遺傳而來的粒線體基因病變"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "【112-1(四)33】正好也是考粒線體疾病，歷史總是驚人的相似\n\n粒線體連同粒線體 DNA (mtDNA) 均為母系遺傳，所以 (D) 人體的兩個粒線體基因應都遺傳自母親，故男女皆有可能發病，一般認為粒線體為母系遺傳的理由有二：(1) 精子的 mtDNA 突變的機率高 (2) 粒線體為了穩定並有效運作，mtDNA 需保持均一性 (homoplasmy)\n\n粒線體疾病 (mitochondrial disease) 可分為兩種型態，一為同質性 (homoplasmic) 粒線體疾病，表示一旦有病，每個細胞內的粒線體全部都是異常的；另一為多元性 (heteroplasmy) 粒線體疾病，表示每個細胞內混雜著有突變跟沒突變的粒線體，且通常突變基因須達一定比例才會發病，大部分粒線體疾病屬於此類\n\n以下介紹常被討論的粒線體基因疾病：\n\n| 疾病 | 型態 | 成因 |\n| :--- | :--- | :--- |\n| **雷伯氏遺傳性視神經病變 (Leber's hereditary optic neuropathy, LHON)** | 同質性 | 視神經凋亡以致視力衰退，好發於男性、青春期與成年早期 |\n| **遺傳性聽損** | 同質性 | 漸進式感音性聽損，其中 m.1555A >G 與 aminoglycoside 抗生素引起的聽損有關 |\n| **MELAS 症候群 (Mitochondrial Encephalomyopathy, Lactic Acidosis and Stroke-like episodes)** | 多元性 | 神經與肌肉病變（包含不自主肌肉痙攣、共濟失調、聽損）、乳酸性酸血症（嘔吐、腹痛），亦可能糖尿病、心臟和腎臟問題，2-10 歲發病 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-33_merged.png",
     "explanation_images": null
   },
   {
@@ -18546,8 +18546,8 @@
       "D": "成人時期（adulthood）的異位性皮膚炎，可以慢性手部濕疹（chronic hand eczema）作為表現"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "非常愛考，【112-2(四)15】也有出現，異位性皮膚炎在不同年紀的發生位置不同，嬰兒時期會發生在臉頰、頭皮、四肢伸側及軀幹，但不包括尿布區域；兒童時會跑到四肢屈側（特別是手肘窩、膝膕窩），頸部、手腕、腳踝也會發生；成人後則是在四肢屈側、頸部跟手掌，較特別的是能以慢性手部濕疹或癢疹狀病灶 (prurigo-like lesions) 表現，有異位性皮膚炎的嬰兒常伴隨或接著發展出食物過敏、過敏性鼻炎及氣喘，稱為 atopic march",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-34_merged.png",
     "explanation_images": null
   },
   {
@@ -18563,8 +18563,8 @@
       "D": "atorvastatin"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "乾癬患者症狀加劇的誘發因子可以用 TIDES 來做記憶：\n• Trauma：就是皮膚科常聽到的 Köbner phenomenon，會在皮膚有受傷處再新發生 lesion\n• Infection：主要是 Group A 鏈球菌引起的 guttate psoriasis，但是 HIV、金黃色葡萄球菌也可能加劇\n• Drugs：又可以詳細記憶 ABCD+GI，列在下方表格處\n• Environment、Emotion：較冷的環境或是日照少的國家，壓力較大也會加劇\n• Sunlight：乾癬治療的其中一個方法是照光治療 (UVB)，但是過度日曬反而會加劇乾癬！\n\n加劇乾癬的藥物：\n\n| 藥物類別 / 名稱 | 說明 |\n| :--- | :--- |\n| **Anti-malarial、ACE-I** | |\n| **Beta-blockers** | |\n| **Corticosteroid** | 外用是治療，但是口服藥可能有 rebound relapse |\n| **Depression 藥物** | 主要是 Lithium |\n| **Gemfibrozil** | 降血脂藥物，可以降 LDL、TG，也可以升高 HDL |\n| **Imiquimod、INF-α** | |\n\n(A) 選項就是常見的利尿劑 lasix，主要作用在亨利氏環上升支，而減少鈉離子及水分再吸收，常見副作用為電解質異常（幾乎都造成低下）、耳毒性\n(C) 選項是 α1-blocker，可以用在高血壓治療或是讓 BPH 病人可以放鬆膀胱頸，副作用為性功能障礙、姿勢性低血壓等，但因 prazosin 是 selective blocker 所以副作用會比較少\n(D) 選項的 statin 類是降血脂藥物，要注意的副作用主要是肌肉酸痛、肝功能異常\n\n其他考點：\n• 乾癬容易發生在膝蓋、手肘、下背等 extensor sides 以及頭皮等位置\n• Köbner phenomenon 除了乾癬外，扁平苔癬、白斑、病毒疣、Darier disease 也有這個表現",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-35_merged.png",
     "explanation_images": null
   },
   {
@@ -18580,8 +18580,8 @@
       "D": "扁平疣（verruca plana）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "圖片的病灶為多發性、表面平滑且無脫屑 / 發炎 / 色素沉積的丘疹 (papules)，大致可以先排除類澱粉症苔癬和尋常性痤瘡；再來汗管瘤主要分布在眼周圍、臉頰且好發於成年女性，也不符合題幹敘述，用刪去法後最可能的診斷為 (D)\n\n扁平疣 (verruca plana, flat warts) 是 HPV 病毒疣的一種，常見於顏面、頸部、手背與前胸，外觀為平滑扁平狀、正常膚色或輕微咖啡色的多發性丘疹，有 Köbner phenomenon，和其他病毒疣不同的是扁平疣常見於青少年族群，因此也被稱為 juvenile warts\n\n相關題目請見【112-1(四)36】\n\n最後補充 HPV types 和對應的皮膚疾病：\n\n| HPV type | 疾病 |\n| :--- | :--- |\n| **16、18、31、33、45** | 子宮頸癌、生殖器上皮發育不良 |\n| **6、8、11** | 肛門生殖器疣 (condylomata acuminata) |\n| **1** | 足疣 (verruca plantaris) |\n| **2、4** | 尋常疣 (verruca vulgaris) |\n| **3、10、28** | 扁平疣 (verruca plana) |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-36_merged.png",
     "explanation_images": null
   },
   {
@@ -18597,8 +18597,8 @@
       "D": "冷凍治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "包含扁平疣在內的病毒疣，幾乎不會進展成皮膚癌、可能自動痊癒，但由於易傳染給別人、亦可能愈長愈多，因此多建議進行治療，主要有二種方式：\n(1) 冷凍治療：最常見，利用液態氮直接破壞病毒疣，分 4-6 次療程，但對於大範圍病灶有其侷限，過小的病灶則可能被遺漏（常用在手掌、腳掌的病毒疣）\n(2) 外用藥膏：以水楊酸、A 酸等酸性藥物加速皮膚代謝及引起免疫反應殺死病毒；近年有 imiquimod (商品名 Aldara)，是一種免疫調節 (toll-like receptor 7 agonist) 藥膏，可刺激病人免疫反應以攻擊被病毒感染的表皮細胞（常用在生殖器、大範圍的病毒疣）\n\n此外，其他對付病毒疣包含電燒（但過程產生的煙塵也會帶有 HPV 病毒，有感染呼吸道、口腔黏膜風險）、雷射、局部注射 MMR 疫苗等",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-37_merged.png",
     "explanation_images": null
   },
   {
@@ -18614,8 +18614,8 @@
       "D": "甲下血管球腫瘤（subungual glomus tumor）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "從 X 光圖片可看出，指骨尖端伸側長出凸起物，且在 X 光上亮度與骨質相似，可以選出 (C) 甲下外生骨，其他三者雖然都是會痛的增生物，但在 X 光上只能看到軟組織層的增厚\n(A) 甲下病毒疣是上皮層的增生\n(B) 甲下角化棘皮瘤是皮膚鱗狀上皮細胞的增生瘤，是 SCC 的變型，會呈現火山口樣、中央填塞角質\n(D) 甲下血管球腫瘤是良性的錯構瘤 (hamartoma)，主要以軟組織構成，以超音波或 MRI 才能清楚成像",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-38_merged.png",
     "explanation_images": null
   },
   {
@@ -18631,8 +18631,8 @@
       "D": "hydralazine"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "這應該是大家在一階段國考藥理學背到爛的題目：\n\n| 種類 | 藥物名稱 | 檢測基因 |\n| :--- | :--- | :--- |\n| **抗癲癇藥物** | Carbamazepine | HLA-B\\*1502 |\n| | Lamotrigine | HLA-B\\*1502（相關性較弱） |\n| | Phenytoin | HLA-B\\*1502（相關性較弱） |\n| **降尿酸藥** | Allopurinol | HLA-B\\*5801 |\n| **抗病毒藥** | Abacavir | HLA-B\\*5701 |\n\n特別注意這個檢測的基因是專屬於華人的，在其他種族可能因為其他基因表現或藥物而會產生不良反應，比如抗生素當中的 sulfamethoxazole (SMX) 在有 HLA-B\\*38 的歐洲人就比較容易造成 SJS / TEN，(D) 選項的 hydralazine 是降血壓藥物，機制是直接擴張血管，在文獻上幾乎沒有導致過 SJS/TEN\n\n其他考點：\n• SJS 與 TEN 的差別在於影響皮膚的面積，SJS 是影響面積 <10%，TEN 則是 >30%，而介於中間會稱為 SJS-TEN overlap",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-39_merged.png",
     "explanation_images": null
   },
   {
@@ -18648,8 +18648,8 @@
       "D": "皮膚鈣化；復健物理治療（physiotherapy）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "全身性硬化症 (systemic sclerosis, SSc) 的臨床表現，可參看【112-1(四)39】，本題著重其皮膚症狀的治療：\n\n| SSc 皮膚症狀 | 治療選擇 | 說明 / 藥物 |\n| :--- | :--- | :--- |\n| **皮膚硬化** | 主線治療 | • 一線藥物：methotrexate、mycophenolate mofetil<br>• 二線藥物：IVIG、cyclophosphamide、rituximab |\n| | 輔助治療 | • UVA1 紫外光（使皮膚老化鬆弛）<br>• 復健物理治療<br>• 皮膚保溼劑 |\n| **雷諾氏現象** | | • calcium channel blockers (e.g. nifedipine)<br>• PDE-5 inhibitors、prostanoids、prazosin<br>• endothelin receptor inhibitors (e.g. bosentan)<br>• low-dose aspirin、statins<br>• 手指交感神經阻斷術<br>• 手部保暖、戒菸 |\n| **手指潰瘍** | | • 藥物治療和雷諾氏現象的治療相同<br>• 支持性治療：閉塞性敷料、止痛藥物 |\n| **微血管擴張** | | • 脈衝式染料雷射 (pulsed dye laser) |\n| **皮膚鈣化** | | • minocycline、bisphosphonates<br>• 局部或靜脈 sodium thiosulfate |\n\n參考資料：JL Zhu, et al. (2021). Emerging treatments for scleroderma/systemic sclerosis. Faculty Reviews, 10.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-40_merged.png",
     "explanation_images": null
   },
   {
