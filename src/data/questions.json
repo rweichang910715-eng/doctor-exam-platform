@@ -19005,8 +19005,8 @@
       "D": "思覺失調症患者之認知功能退化比其正性精神症狀更可預測其社會功能影響"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "多巴胺神經路徑在思覺失調症之病生理與治療：\n\n| 多巴胺路徑 | 主管 | 思覺失調症患者 | 治療 / 傳統抗精神病藥物 | 治療 / 二代抗精神病藥物 (Aripiprazole 為例) |\n| :--- | :--- | :--- | :--- | :--- |\n| **Mesolimbic**<br>(中腦 - 邊緣系統) | 成癮、酬賞 | 太多（正性症狀） | 抑制 → 正常 | 抑制 → 正常 |\n| **Mesocortical**<br>(中腦 - 前額葉皮質) | 認知、情緒、動機 | 太少（負性症狀） | 抑制 → 更低（負性症狀持續） | 促進 → 正常 |\n| **Nigrostriatal**<br>(黑質 - 紋狀體) | 動作協調 | -- | 抑制 → 太低（出現 EPS*） | 促進 / 維持 → 正常 |\n\n傳統抗精神病藥物：為 dopamine D2 receptor antagonist，如 Haloperidol、Chlorpromazine\n二代抗精神病藥物：以 Aripiprazole (dopamine partial agonist) 為例，在該促進 / 抑制的路徑分別促進 / 抑制\n*EPS：錐體外症候群",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-61_merged.png",
     "explanation_images": null
   },
   {
@@ -19022,8 +19022,8 @@
       "D": "鋰鹽（lithium）濃度過高時可能出現手抖、腹瀉、口齒不清"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(B) 鋰鹽是已證實有致畸胎性的藥物 (pregnancy risk: D)，而抗精神病藥物並未全部建立足夠的實證資料，有部分文獻認為第二代抗精神病藥物不會造成胎兒異常或致畸胎性，因此情緒穩定劑的危險性應更高\n\n鋰鹽重點整理如下：\n1. 用途：bipolar disorder（對躁期與鬱期都有效）、思覺失調（合併抗精神病藥物治療）、衝動行為控制\n2. 副作用：最常見是多尿（拮抗 ADH）、甲狀腺功能低下、類似低血鉀的 EKG 變化 (T wave flattening or inversion)\n3. 鋰鹽中毒：血中鋰鹽濃度 > 1.5 meq/L 就會中毒，常見症狀包含手抖、噁心嘔吐、腹痛、運動失調 (ataxia)、口齒不清 (dysarthria)、腎衰竭\n4. 血中濃度控制：急性期 0.8~1.2 meq/L、維持期 0.4~0.8 meq/L",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-62_merged.png",
     "explanation_images": null
   },
   {
@@ -19039,8 +19039,8 @@
       "D": "lithium是首選藥物"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "強迫症 (Obsessive-Compulsive disorder，簡稱 OCD) 的治療可以分成藥物治療、心理治療（包含認知與行為治療），以及少數採用其他 somatic approach\n\n1. 藥物治療：三環抗憂鬱劑 (TCA) 與選擇性血清素回收抑制劑 (SSRI) 屬於首選藥物，這些藥物也用在治療憂鬱症，但憂鬱症患者使用這些藥物較快改善，而強迫症患者通常需要更久的時間（至少會嘗試 12 週的藥物治療，再來評估是否有效果），成人的強迫症也可以佐以 anti-psychotics（如 risperidone, aripiprazole）合併使用\n2. 心理治療：最早應用在 OCD 的心理治療是精神分析法 (psychodynamic)，但是沒有證據指出對於 OCD 的治療有幫助，反倒是認知與行為治療 (CBT) 有一定的角色：暴露與反應阻止法 (exposure and response prevention，簡稱 ERP) 被視為是對於 OCD 相當有效的心理治療，方法是讓患者自願接觸會引起強迫的事物，並讓自己學習去抑制強迫行為與想法，Guideline 認為藥物或是心理治療都可以當作第一線治療，年輕患者通常建議先以心理治療開始，而症狀較嚴重的通常建議藥物先開始，也有證據指出兩者合併是有療效的\n3. 其他治療：少數對於藥物、心理治療效果不佳的患者會採用 anterior cingulotomy、capsulotomy，且被證實有療效，近期有在研究跨顱刺激、深層腦部刺激等方式，但是目前認為沒有幫助\n\n(B) BZD 的使用並無法有效預防 OCD，且有研究發現有使用 BZD 的 OCD 族群反而更難控制病情\n(D) 鋰鹽 (lithium) 是 bipolar disease 的首選藥物之一，抗躁效果好，請見【112-2(四)62】的詳解",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-63_merged.png",
     "explanation_images": null
   },
   {
@@ -19056,8 +19056,8 @@
       "D": "第二型雙相情緒障礙症的患者之自殺死亡率較第一型雙相情緒障礙症患者低，且其初發病年齡較晚"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) (B) 均正確，建議記熟下表的精神疾患盛行率：\n\n| 精神疾患 | 終生盛行率 | 男：女 | 平均好發年齡 |\n| :--- | :--- | :--- | :--- |\n| **重鬱症** | 15% | 1 : 2 | 40 歲，小孩到老人均有 |\n| **思覺失調症** | 1% | 1 : 1 | 20 歲，男性發病早，預後差；女性發病晚，預後佳 |\n| **雙向情緒障礙症 (躁鬱症)** | bipolar I: 1%<br>bipolar II: 1.5% | 1 : 1<br>1 : 1~2 (<20 歲發病：女 > 男) | <20~30 歲，男性易躁症發作，女性易鬱症發作 |\n| **廣泛性焦慮症** | 5% | 1 : 2 | 30 歲 |\n| **恐慌症** | 1.5~5% | 1 : 2~3 | 25 歲 |\n| **恐懼症** | 3~13% | 1 : 2 | 青少年族群 |\n| **強迫症** | 2~3% | 1 : 1 | 男性 <20 歲，女性 20~30 歲 |\n\n(C) 正確，Bipolar I 病人相較重鬱症有更高比例濫用酒精或藥物、恐慌症和強迫症，自殺死亡率也比重鬱症高；而且 bipolar I <20 歲發病者合併上述情況的風險愈高\n\n(D) 錯誤，Bipolar II 初發病年齡比 bipolar I 晚沒錯，但自殺死亡率比 bipolar I 高（回想一下：bipolar II 多數時期處於中～重度鬱期，病程上更接近重鬱症），Bipolar I/II 的情緒症狀佔病程時間的比例為：\n\n| 類型 | 情緒症狀佔病程時間比例 |\n| :--- | :--- |\n| **Bipolar I** | 無症狀 (50%) > 鬱期 (33%) >> 躁期 (mania, 8~10%) |\n| **Bipolar II** | 鬱期 (50%) > 無症狀 (46%) >> 輕度躁期 (hypomania, 2~3%) |\n\n參考資料：L Tondo, et al. (2022). Differences between bipolar disorder types 1 and 2 support the DSM two-syndrome concept. International Journal of Bipolar Disorders, 10(1), 1-11.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-64_merged.png",
     "explanation_images": null
   },
   {
@@ -19073,8 +19073,8 @@
       "D": "頂葉（parietal lobe）會出現鈣化現象"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "創傷與壓力相關疾患的鑑別診斷，必須問：\n(1) 其所衍生的壓力反應是否過度 ('disproportionate')？\n→ 若壓力反應合乎正常比例、不致影響工作與日常，為 adjustment 'reaction'（不是疾病）\n(2) 是否為創傷？\n→ 不是創傷，是壓力源 (stressors，如分手、失去親人、失去工作等)，為 adjustment disorder（症狀持續在壓力源消失 < 6 個月內緩解）\n→ 是創傷 (traumatic event，性或肢體暴力、戰爭、重大意外或天災（包含目睹他人死亡）)\n(3) 是創傷，症狀持續時間？\n→ 持續 3 天～1 個月，為 acute stress disorder\n→ 持續 > 1 個月，為 posttraumatic stress disorder (PTSD)\n\n(A) 依題幹的敘述，陳先生診斷應為 PTSD\n(B) 杏仁核掌管情緒記憶、恐懼反應，研究顯示其結構與功能在 PTSD 患者身上可發生改變，結構上，病例對照研究發現患者的杏仁核較小；功能上，患者的杏仁核面對特定刺激較一般人敏感 (hypersensitivity)\n(C) 基底核與動作障礙有關，(D) 並無查到 PTSD 與鈣化有關，應是編湊出來的選項",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-65_merged.png",
     "explanation_images": null
   },
   {
@@ -19090,8 +19090,8 @@
       "D": "bupropion和risperidone能提高性慾"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 文獻報導，使用 SSRI 後，約 30-60% 會產生性慾降低、勃起功能困難或高潮障礙，這類副作用更常出現在服藥的男性（但男女皆有影響）；事實上，所有抗憂鬱劑（包含 SNRI, TCA, MAOi）皆有此類副作用，但以 SSRI 最容易出現\n\n(B) cyproheptadine 為第一代抗組織胺，可以穿過 BBB 阻斷 5-HT2 受體，藉此改善 SSRI 導致的性功能異常；amantadine 則是用在帕金森氏症的促多巴胺釋放藥物，臨床試驗上與前者一樣有改善 SSRI 相關性功能異常\n\n(C) 鋰鹽可能造成勃起障礙，約三分之一服用鋰鹽的 bipolar 患者報告有此副作用\n\n(D) 錯誤，僅 bupropion 能增加多巴胺濃度、提高性慾，risperidone 則會造成性慾下降、勃起障礙",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-66_merged.png",
     "explanation_images": null
   },
   {
@@ -19107,8 +19107,8 @@
       "D": "老年人有憂鬱症、甲狀腺低下症或維他命缺乏可能會出現失智的症狀"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "蠻刁鑽的，但是透過刪去法應該可以選出來\n\n(A) 正確，失智症的危險因子包含：年紀大（最主要）、女性、家族史、三高、抽菸、酒精濫用、輕度認知障礙等\n\n(B) 錯誤，2020 年發表的一篇文獻提到 302 位美國的醫護人員預估失智症病人一些症狀的比例，其中 hallucination / delusion 的結果約為 44%，還在結論寫下要推翻過去所認知的三分之一這個比例（筆者是覺得這篇文章的證據力有待商榷啦 ...）\n\n(C) 正確，失智症最常見的類型就是 Alzheimer's disease，病理機轉上是 amyloid beta protein 不正常的折疊進而堆積在腦部，症狀上會是漸進且不可逆的，第二常見的失智症則為血管性（由於中風等腦血管因素導致），病程可快可慢，反之，如果是非常快速進展的失智症狀，伴隨步伐不穩、全身抽搐就要想到庫賈氏症\n\n(D) 正確，臨床上，初次診斷失智症的病人都會作一系列檢查，以尋找是否有「可逆的病因」，經過排除才能確診失智症：\n\n| 可逆性病因分類 | 常見原因 |\n| :--- | :--- |\n| **內分泌 / 營養** | 甲狀腺低下、B12 缺乏、葉酸 (B9) 缺乏 |\n| **神經 / 結構** | 巴金森氏症、憂鬱症（假性失智）、中風、常壓性水腦 (NPH)、腦瘤、神經性梅毒 |\n| **全身性** | 譫妄、肝腦病變、腎功能不全、嚴重貧血、電解質不平衡 |\n\n參考資料：J Chen, S Bell & C Brain. (2020). The incidence of dementia-related psychosis in people with dementia: Results from a survey of 302 US healthcare providers: Developing topics. Alzheimer's & Dementia, 16, e047138.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-67_merged.png",
     "explanation_images": null
   },
   {
@@ -19124,8 +19124,8 @@
       "D": "②③④"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "海洛因 (heroin/diamorphine) 屬於鴉片類藥物，有關鴉片中毒 / 戒斷症狀與處置整理如下：\n\n| 項目 | 鴉片中毒 (opioid intoxication) | 鴉片戒斷 (opioid withdrawal) |\n| :--- | :--- | :--- |\n| **症狀** | 縮瞳 (miosis)、便祕、噁心嘔吐、暈眩、低血壓等；嚴重時可造成呼吸抑制、昏迷甚至死亡 | **急性期**：散瞳 (mydriasis)、腹瀉、噁心嘔吐、腸胃痙攣、肌肉痠痛、發汗、心搏過速等；初期容易有藥物渴望與焦慮症狀<br>**亞急性期**：心搏過緩、胃口差、疲倦、失眠等 |\n| **Onset** | < 1~4 小時 | 6~12 小時 |\n| **Duration** | IV 劑型平均約 1~5 天 | 7~10 天，亞急性期症狀可在急性期過去後持續數週至數個月之久 |\n| **處置** | • IV naloxone 無論何種鴉片中毒都是一線緊急用藥（成人 0.04~0.4mg，且不超過 15 mg）<br>• 合併意識改變或呼吸抑制則可給予氧氣或呼吸支持 | • buprenorphine、methadone 可使用於戒斷期 (induction)；戒斷期後使用則有助於維持緩解期及預防復發 (maintenance)，需注意要根據臨床症狀監控並調整劑量<br>• 症狀緩解：止瀉 / 止吐藥物、α2 agonist（如 clonidine，可改善焦慮與疲倦） |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-68_merged.png",
     "explanation_images": null
   },
   {
@@ -19141,8 +19141,8 @@
       "D": "藥理機轉與安非他命相似，主要作用在多巴胺（dopamine）系統上"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Ketamine 和俗稱天使塵的 PCP (Phencyclidine) 都屬於「中樞神經迷幻劑」，兩者藥理上都是 NMDA receptor antagonist，選項 (A) 對其作用做了很好的小結，會與現實解離、產生聽 / 視幻覺，故可能造成 (C)\n\n(B) ketamine 為白色粉末，濫用時當然能用「吸」的；醫用的 ketamine 可 IV、IM、口服、霧化後吸入，除麻醉外，ketamine 在精神科用於憂鬱症治療，2019 年美國 FDA 核准 Esketamine [Spravato]，為一鼻噴劑，需與口服抗憂鬱劑併用，適用難治型憂鬱症或有急性自殺意念或行為的憂鬱症患者",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-69_merged.png",
     "explanation_images": null
   },
   {
@@ -19158,8 +19158,8 @@
       "D": "注射thiamine"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "重度酒精成癮患者，加上進食量少容易有營養缺乏，出現步態不穩與意識混淆，應優先懷疑有 Wernicke-Korsakoff syndrome，其急性期 Wernicke's encephalopathy 會有 triad 的症狀表現：意識混亂 (confusion)、步態不穩 (ataxia)、眼肌麻痺 (ophthalmoplegia) 而造成震顫、視力模糊，治療上需給予 thiamine (Vit B1) 補充\n\n(A) BZD 是使用在 alcohol withdrawal syndrome，相關考題請見【112-1(四)67】、【112-1(四)76】\n\n補充考點：\n1. 由於 thiamine 參與檸檬酸循環，給予 thiamine 必須在補充糖水前或同時給予，否則缺乏 thiamine 下給糖，只是進行無氧呼吸，會加劇乳酸中毒\n2. 急性期 Wernicke's encephalopathy 是可逆的；慢性期 Korsakoff syndrome 是不可逆的，典型症狀為順向失憶症 (anterograde amnesia，無法形塑發病後的記憶)、confabulation (虛構)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-70_merged.png",
     "explanation_images": null
   },
   {
