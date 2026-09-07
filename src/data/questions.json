@@ -18325,8 +18325,8 @@
       "D": "腎病症候群：低容積性（hypovolemic）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(C) 心包膜填塞導致之休克屬於阻塞性休克，以下整理各休克型態之成因與病生理特性：\n\n| 休克型態 | 病理現象 | 成因 | CO | SVR | CVP |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **低容積性 (hypovolemic)** | 失血過多（外傷、內出血） | 血管內有效容積下降，使心輸出量減少 | ↓ | ↑ | ↓ |\n| **心因性 (cardiogenic)** | 心肌梗塞、心律不整 | 心源性問題使心輸出量減少 | ↓ | ↑ | ↑ |\n| **阻塞性 (obstructive)** | 心包膜填塞、張力性氣胸、肺栓塞 | 機械性壓迫使心輸出量減少 | ↓ | ↑ | ↑ |\n| **分布性 (distributive)** | 敗血性休克、神經性休克、過敏性休克 | 周邊血管過分擴張 | -- / ↑ | ↓ | ↓ |\n\n(D) 腎病症候群的低血壓成因為血管內有效容積 (effective arterial volume, EAV) 不足，若導致休克歸類為低容積性休克，需要注意現實臨床情境中，病人低血壓往往合併多種休克型態，以常見的心衰竭為例，即合併低容積性和心因性休克",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-21_merged.png",
     "explanation_images": null
   },
   {
@@ -18342,8 +18342,8 @@
       "D": "血管張力（venous tone）下降"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(D) 因為交感神經活化及腎上腺素分泌，血管張力會上升\n\nHypobaric hypoxia 即是在敘述進入高海拔環境、氧氣分壓降低，會導致身體發生缺氧的狀況，而身體為了維持組織足夠的供氧，就會啟動一系列的生理反應達到順應 (acclimatization)\n\n依照順應產生的時間可以分為：\n• 短時間內 (<1 天) 的反應：身體最快會藉由缺氧刺激使呼吸速率上升 (hypoxic ventilatory response, HVR)，其次是藉由活化交感神經及腎上腺素分泌，來增加心率、心輸出量及血管張力\n• 一週內 (5-6 天)：身體會先短期由腎臟濃縮血液，再增加 erythropoietin 促進身體製造新的紅血球、增加血紅素濃度，並促進 2,3-DPG 的產生，讓紅血球於週邊組織能更容易的釋出氧氣 (rightward shift of the oxyhemoglobin dissociation)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-22_merged.png",
     "explanation_images": null
   },
   {
@@ -18359,8 +18359,8 @@
       "D": "第1型糖尿病（type 1 diabetes mellitus）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Polyuria 的鑑別診斷與 approach 非常重要，以下列出整理過後的流程：\n1. Polyuria 的定義要先清楚，成人一天超過 3000 ml 的尿量為 polyuria，但兒童則會用體面積去計算，一般抓每天超過 2L/m² 的尿量為 polyuria\n2. 確定多尿後，接下來要評估是水利尿 (water diuresis) 還是滲透性利尿 (solute diuresis)，會用 urine osmolality 去區別：\n\n| Uosm < 100 mOsm/kg | Uosm 100-300 mOsm/kg | Uosm > 300 mOsm/kg |\n| :--- | :--- | :--- |\n| water diuresis | mixed（可能兩邊各一些） | solute diuresis |\n\n3. 如果測出來是 solute diuresis，常見的原因有 hyperglycemia、mannitol、high solute intake、post-obstruction diuresis\n4. 如果測出來是 water diuresis，則要先進行 water deprivation test（沒有固定的 protocol，但是大方向類似），限水 8 小時並看結束時的 urine osmolality 是否超過 600 mOsm/kg，如果有超過，多尿的原因就是水喝太多，稱為 primary polydipsia，若沒超過，甚至低於 300mOsm/kg 就要懷疑尿崩症 (Diabetes insipidus, DI)，執行這個 test 時要注意病人情況以及 serum osmolality，如果 serum osmolality 太高 (>300 mOsm/kg) 就要終止試驗並讓病人喝水\n5. 尿崩症可以分為兩種：一種是中樞型 (central DI)，主要因為體內抗利尿激素不夠而導致多尿；另一種是腎源型 (nephrogenic DI)，主要因為腎臟無法利用抗利尿激素而導致多尿，因此可用外來給予抗利尿激素 (desmopressin) 來做區別，稱為 DDAVP test，在試驗中病人可以正常飲食，並在接下來定期測量 urine osmolality，如果有上升則代表是 central DI，反之則是 nephrogenic DI，以下列出導致兩種尿崩症的原因：\n6. central DI 常見因為腦下垂體問題（創傷、手術、遺傳、腦垂體功能低下等）而發生，至於 nephrogenic DI 可能原因包含 (1) 電解質異常：尤其是高血鈣、低血鉀 (2) 藥物：鋰鹽、利尿劑 (3) 腎間質疾病：鐮刀型貧血等\n\n此題如果不是問兒童而是成人答案其實也不會變，倒是要注意 Type I DM 在兒童產生多尿的情況確實比較多\n\n額外補充：\n高血鈣導致多尿的原因為水通道 (aquaporin-2 water channel) 會有 down-regulation，另外 calcium 也會沈積在腎髓質產生腎間質疾病",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-23_merged.png",
     "explanation_images": null
   },
   {
@@ -18376,8 +18376,8 @@
       "D": "中樞性性早熟的病童都應接受性釋素類似物（GnRH agonist）治療，以延緩青春期的進展"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 一般兒童出現第二性徵的時間為女孩 8-13 歲，男孩 9-15 歲；性早熟即是未達上述年齡就出現第二性徵\n(B) 雖然性早熟會使骨齡超前、生長板提早關閉而使成年身高矮化，但並非所有性早熟都有此情形：在女生只有 30% 的成年身高 <5% 百分比，在男生的比率則更高\n(C) 性早熟依 GnRH 是否升高分成中樞型與周邊型兩種，整理如下：\n\n| | 中樞型性早熟 (CPP) | 周邊型性早熟 (PPP) |\n| :--- | :--- | :--- |\n| **定義 / GnRH** | GnRH-dependent / 增加 | GnRH-independent / 正常或降低 |\n| **原因** | • 自發性（占 80%）<br>• 中樞神經病灶：腦瘤 (hypothalamic hamartoma, astrocytoma, ependymoma 等)、水腦症、感染、創傷、放射治療、結節性硬化症、type 1 NF<br>• 基因異常 (MKRN3、KISS1、DLK1 等) | • 女性：McCune-Albright syndrome、卵巢腫瘤 / 卵巢囊腫、先天性腎上腺增生、原發性甲狀腺低下、雌激素攝取過多<br>• 男性：Familial male-limited precocious puberty、睪丸腫瘤、肝母細胞瘤、先天性腎上腺增生、原發性甲狀腺低下、睪固酮攝取過多 |\n| **流行病學** | 較常見，且女性 > 男性（女性 ~90% 為自發性；男性 25-75% 有中樞病灶） | 較少見 |\n\n(D) 錯誤，性釋素類似物 (GnRH agonist) 是中樞型性早熟的治療首選沒錯，但 Nelson 提到對於緩慢進展的自發性中樞型性早熟女性，GnRH agonist 對於身高預後並沒有助益，因此不是所有病人都需要 GnRH agonist 治療；此外有中樞病灶的話還需要合併治療病因，如手術、加馬刀等",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-24_merged.png",
     "explanation_images": null
   },
   {
@@ -18393,8 +18393,8 @@
       "D": "先天性腎上腺增生（congenital adrenal hyperplasia）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "先整理此男孩的資訊：身材矮小 (PR < 3)、出生體重正常、骨齡落後實際年齡 2 歲、第二性徵未出現（無陰毛、睪丸 4 ml 為發育前的大小）、父母身高偏矮\n\n再來看看選項，最常考的 (A) 家族性身材矮小、(B) 體質性生長遲延，表格整理如下：\n\n| | 家族性身材矮小（父母矮、你也矮，其他一切如常） | 體質性生長遲延（青春期遲來，大隻雞慢啼，後面會加速趕上） |\n| :--- | :--- | :--- |\n| **出生至青春期成長速度** | 正常，但身高始終 PR < 3 | 出生時身高體重正常，青春期速度明顯變慢（1-3 歲也變慢復又正常） |\n| **骨齡** | 正常 | 落後 |\n| **父母 / 家族史** | 矮小 | 矮小且也青春期生長遲延 |\n| **成人身高** | 偏矮 | 正常 |\n\n骨齡落後排除 (A)，(B) 仍有可能\n\n前兩個皆屬正常變異，若是病理性原因，首要考慮三大類：\n\n| 類別 | 疾病與特徵 |\n| :--- | :--- |\n| **基因 / 遺傳** | 透納氏症（最常見，女）、唐氏症、DiGeorge syndrome、Noonan syndrome 等，若四肢與軀幹比例不同，考慮先天骨骼疾病：軟骨發育不全、成骨發育不全症 |\n| **內分泌** | 腦垂腺低下：<br>• 生長激素缺乏 (GH → IGF-1 缺乏，侏儒症)<br>• 甲狀腺素缺乏（呆小症）<br>• 糖皮質素 (cortisol) 過多<br>• 代謝性骨疾病：佝僂病 |\n| **營養與吸收不良** | 營養不良、佝僂病、乳糜瀉、發炎性腸道疾病 |\n\n內分泌、營養與吸收不良兩大類，也會骨齡延遲，代表青春期會晚來、仍有長高潛力\n\n故 (C) 也是鑑別診斷之一，但筆者覺得題幹都沒有敘述成長過程的其他症狀，讓人很難懷疑是病理性原因；欲申覆爭取 (B) 也給分，但沒有成功\n\n(D) 在最常見 21-hydroxylase 缺乏的 CAH 患者中，有過多 androgen 但無法製造 aldosterone 和 cortisol，骨齡通常超前（青春期提早到來，但也提早結束導致最終身高偏矮）、男性化明顯，在女嬰會性器混淆",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-25_merged.png",
     "explanation_images": null
   },
   {
@@ -18410,8 +18410,8 @@
       "D": "原發性先天性中性球減少症：常見金黃色葡萄球菌或綠膿桿菌感染之膿瘍"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 脾臟會幫助清除免疫複合體，因此無脾症會類似 B 細胞缺陷，無法清除莢膜細菌\n(B) 鐮狀細胞病患者單核球功能容易異常，表現如顆粒球缺陷\n(C) 瘧原蟲感染應常見在 B 細胞缺陷，補體缺陷常見反覆腦膜炎、肺炎\n\n| | T cell 缺陷 | B cell 缺陷 | 吞噬細胞 / 顆粒球 (phagocytic/granulocyte) 缺陷 | 補體 (complement) 缺陷 |\n| :--- | :--- | :--- | :--- | :--- |\n| **發生年齡** | 發病早 (2-6 個月大) | 7 個月大後（前期有母體抗體保護） | 發病早 | 任何年齡 |\n| **常見病原菌** | 伺機性感染（病毒、真菌、PJP） | 莢膜細菌 #、腸病毒、陰道滴蟲 | 細菌 (e.g. Staph., Strep., PsA, Salmonella)、真菌 (Aspergillus, Candida 皆可) | 莢膜細菌 #（尤其 Neisseria spp.） |\n| **臨床表現** | 生長發育不良、長期腹瀉 | 反覆鼻竇炎、肺炎 | 臍帶脫落晚、傷口癒合慢、皮膚膿瘍、骨髓炎 | 反覆鼻竇炎、肺炎、血型感染（菌血症、腦膜炎），並常合併風濕疾病 |\n| **代表疾病** | Thymic hypoplasia (DiGeorge) | X-linked (Bruton) agammaglobulinemia、selective IgA deficiency<br><br>合併 T、B cell 缺陷：CVID、SCID | Chronic granulomatous disease（驗 NBT assay）、Leukocyte adhesion deficiency (驗 CD11/CD18、LAD-1) NBT assay | C1 inhibitor deficiency (hereditary angioedema) |\n| **檢驗** | 淋巴球總量與各分型數量、胸腺大小 | 抗體分型數量、淋巴球分型數量、疫苗施打後抗體效價 | NBT assay | CH50 assay、C3、C4 level |\n\n# 莢膜細菌 (encapsulated bacteria)：常見包含 Streptococcus pneumoniae, Klebsiella pneumoniae, Haemophilus influenzae, Pseudomonas aeruginosa (PsA)；也包括 Neisseria meningitidis，但此病原菌較常出現在補體功能缺陷的病人\n\n相似題目於免疫風濕科【112-2(三)34】也有出現",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-26_merged.png",
     "explanation_images": null
   },
   {
@@ -18427,8 +18427,8 @@
       "D": "3週前鄰居出現手足口症"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "| 疾病 | 病毒 | 皮疹特性 |\n| :--- | :--- | :--- |\n| **嬰兒玫瑰疹** | HHV-6、HHV-7 (少數) | 1. 分佈密集的紅斑狀丘疹，不會有水泡<br>2. 伴隨高燒，燒退後才在臉部及軀幹長出<br>3. 背部的丘疹與皮膚皺紋平行，呈中軸往外斜下的分佈方式，像聖誕樹的圖樣 |\n| **水痘 / 帶狀疱疹** | VZV | 1. 可能在身上一次看到三種階段（紅疹、水泡、結痂）的型態<br>2. 從軀幹、臉部開始逐漸蔓延全身，但手掌、腳底幾乎不會出現<br>3. 幼年感染過水痘者幾乎會終身免疫，但是 VZV 病毒會潛藏在神經節，等到年紀大、免疫低下時就可能產生帶狀疱疹，病灶沿皮節分布且疼痛 |\n| **手足口症** | 腸病毒，Coxsackie-A16、Enterovirus-71 最常見 | 水泡主要會在手掌、腳底、硬顎、舌頭，屁股周圍也是常見區域 |\n\n題幹描述的症狀雖沒有發燒，但是若從三個疾病選擇還是可以刪掉嬰兒玫瑰疹與手足口病，剩下兩選項中，(B) 更有可能，因為 VZV 病毒的潛伏期為 10~21 天，因此 5 天前被傳染的機率較低，而 2 週前被傳染，至近兩天發病比較符合病程\n\n其他考點：\n• 腸病毒重症引發腦炎通常是由腸病毒 71 型 (EV71) 導致，常見重症症狀為：嗜睡、嘔吐、肌躍型抽搐\n• 最近很紅的猴痘，跟水痘不同之處在於猴痘會有淋巴腫大，而疹子會出現在手掌、腳底，另外，所有疹子都是同時出現與變化（從凸起變成膿皰），而凸起的疹子通常是堅硬且邊緣清楚的",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-27_merged.png",
     "explanation_images": null
   },
   {
@@ -18444,8 +18444,8 @@
       "D": "發燒的機轉為身體散熱不良"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "衛教題，了解發燒的原理以及正確的處置觀念就能拿分\n\n發燒 (fever) 是一種症狀，其機轉為全身的發炎反應產生 prostaglandin E 等細胞激素，刺激下視丘調高人體的中心體溫（正常範圍 36~37°C）造成，嬰幼兒的發燒絕大部分為病毒、細菌感染引起，且隨感染改善而緩解，對於高燒或因發燒造成的不適感才會給予退燒\n\n目前臨床上只有退燒藥才具有降低中心體溫的效果，其它方法如溫水拭浴、冰枕等皆只能讓病人舒服而無法真正達到退燒，嬰幼兒的退燒藥多為水劑，常見藥物包含 acetaminophen、ibuprofen 等，須注意的是：退燒藥只能用來緩解症狀，無法治療病因和改變疾病病程（以本題急性扁桃腺炎為例，真正的治療是抗生素而非退燒藥）",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-28_merged.png",
     "explanation_images": null
   },
   {
@@ -18461,8 +18461,8 @@
       "D": "發作時間通常超過15分鐘，甚至可能產生癲癇重積狀態（status epilepticus）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題考基本的單純型熱性痙攣觀念：\n1. 熱性痙攣通常發生於 6 個月至 60 個月大兒童，因高燒引起全腦的不正常放電\n2. 符合以下任一項即為「複雜型」熱性痙攣：發作時間超過 15 分鐘、24 小時內多次發作、局部 (focal) 發作，換言之，「單純型」熱性痙攣的型態是發作時間小於 15 分鐘（通常小於 5 分鐘）、全身型強直陣攣發作 (generalized tonic-clonic)、24 小時內不復發\n3. 處置：單純型熱性痙攣若有明確發燒原因、評估活動、食慾皆正常，並排除腦炎及腦膜炎，即可回家，無需安排腦波 EEG、頭部電腦斷層（懷疑腦炎、腦膜炎，第一線評估也是腰椎穿刺）；若發作未大於 5 分鐘，不用給 BZD 藥物，亦不用長期給予抗癲癇藥物\n4. 預後：熱性痙攣易復發，但只要是「單純型」熱性痙攣，不論第幾次發作，處置皆不變，多次單純型熱性痙攣的兒童與未發作兒童相比，長期無任何顯著不良影響\n5. 家族史：有熱性痙攣家族史的兒童，有較高機率會有熱性痙攣，熱性痙攣與一群 SCN1A 基因相關的癲癇症候群密切有關，包含 GEFS+ (generalized epilepsy with febrile seizure plus)、Dravet syndrome",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-29_merged.png",
     "explanation_images": null
   },
   {
@@ -18478,8 +18478,8 @@
       "D": "有些個案可能會合併有強迫症（obsessive-compulsive disorder）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "112 年兩份考題皆在小兒科考妥瑞氏症，筆者將詳解整併至【112-1(四)29】\n\n妥瑞氏症 (Tourette disorder) 為一種反覆表現快速、無規律性運動和聲音抽動的神經疾病，屬於抽動症 (Tic disorders) 之一，DSM-5 中的妥瑞氏症診斷條件必須符合以下 4 點：\n• 發病年齡 <18 歲\n• 發病期間觀察到 ≥ 2 次運動抽動與 ≥ 1 次聲音抽動\n• 抽動症狀持續 ≥ 1 年\n• 排除藥物、物質和其他疾病\n\n妥瑞氏症病人平均於 4~6 歲開始發病，motor tics 通常會比 vocal tics 更早出現，並於 10~12 歲症狀最嚴重，並常伴隨 ADHD (50%)、OCD (40%) 等精神疾病；不過多數病人 (~65%) 的抽動嚴重度在 18~20 歲以後便會大幅改善，持續至成年後的抽動較少見，第一線治療為行為治療 (e.g. 認知行為治療、暴露 - 反應預防、習慣改變訓練)，只有中度以上抽動相關障礙的病人才需要藥物控制或深層腦刺激術，藥物包含高強度多巴胺受體阻斷劑（即抗精神病藥），合併 ADHD 時可考慮 alpha2-agonist (clonidine)，合併強迫症時可選擇 SSRIs，美國神經學學會 (AAN) 建議應衛教照顧者與生活接觸者妥瑞氏症的症狀與自然史，將觀察等待 (watchful waiting) 作為對妥瑞氏症病人適當的互動方式\n\n(C) 大多數個案在成年期症狀會大幅改善而非越來越明顯",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-30_merged.png",
     "explanation_images": null
   },
   {
