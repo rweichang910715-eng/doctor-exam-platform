@@ -15850,8 +15850,8 @@
       "D": "核磁共振"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "109-1 也考過類似題目，診斷子宮內膜異位的 gold standard 是透過腹腔鏡切片的組織證實\n\n(B) 子宮內膜異位的臨床症狀包含痛經、經血過多、性交疼痛、不孕等等，即使臨床症狀可以讓我們懷疑內膜異位，仍有其他鑑別診斷可能表現類似症狀，如：子宮肌瘤、骨盆腔發炎等，因此不能當作確診工具\n(C) 超音波通常是最方便、最安全的影像檢查，但特異性較低，比較適合當第一線的篩檢\n(D) MRI 算是影像中可以把子宮內膜異位看得很有清楚的，通常在超音波粗略看過之後，若想要定位內膜異位的影響範圍可以在腹腔鏡術前照 MRI",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-41_merged.png",
     "explanation_images": null
   },
   {
@@ -15867,8 +15867,8 @@
       "D": "若發現存在Y染色體，建議在成年後進行預防性性腺切除，以減低惡性腫瘤的風險"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Turner syndrome 最為人熟知的染色體核型是 45, X，但這只佔透納氏症患者的半數，其他半數的變異型，包含性染色體構造異常與鑲嵌型 (mosaicism)\n\n其中，鑲嵌型混有 Y 染色體 (45,X/46,XY) 者，第一性徵可能是男、女或男女混淆，並有 15-30% 機率罹患生殖母細胞瘤 (gonadoblastoma)，多發生在青春期，生殖母細胞瘤含有未分化的生殖細胞 (germ cell) 與間質細胞 (stromal cell)，本身為良性、不會轉移，但一部份的細胞可以癌化導致無性胚胎瘤 (dysgerminomas) 或其他的惡性生殖細胞瘤，40 歲前發生的風險達 80%，檢查出帶有 Y 染色體的透納氏症患者，會接受預防性性腺切除手術 (prophylactic gonadectomy)，過往是一發現就做手術，現在因基因體學的發展而有討論空間，但仍不可能成年後才進行",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-42_merged.png",
     "explanation_images": null
   },
   {
@@ -15884,8 +15884,8 @@
       "D": "60歲婦女發現10公分的卵巢囊腫，建議進行手術處置"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "婦科腫瘤有個大觀念務必記得：停經後出現的婦科腫瘤要優先懷疑惡性，加上停經後病人大多無生育考量，因此一旦高度懷疑惡性就建議積極處理\n\n以卵巢囊腫 (ovarian cyst) 為例，2019 年超音波放射協會 (SRU) 將簡單囊腫 (simple cyst) 的判讀標準建議為停經前女性 >5 cm，停經後女性 >3cm，臨床上處置流程大致如下：\n\n| 卵巢 / 子宮附件囊腫 | 條件 | 囊腫大小 / 類型 | 建議處置 |\n| :--- | :--- | :--- | :--- |\n| **停經前病人 (premenopausal)** | • 症狀或超音波影像懷疑惡性<br>• RMI ≥200 | | 轉介婦產科 & 評估手術 |\n| | 簡單、單室 (unilocular) 囊腫 | 囊腫 >7 cm | 轉介婦產科 & 評估手術 |\n| | | 囊腫 5~7 cm | 3~4 個月超音波追蹤 |\n| | | 囊腫 <5 cm | 不需追蹤 |\n| **停經後病人 (postmenopausal)** | • 症狀或超音波影像懷疑惡性<br>• 癌症病史或家族史<br>• RMI ≥25 | | 轉介婦產科 & 評估手術 |\n| | RMI < 25 且無其他風險因子 | 其他 | 轉介婦產科 & 評估手術 |\n| | | 同時符合：<br>• 簡單、單室囊腫<br>• 囊腫 <5 cm<br>• CA-125 正常 | 3~4 個月超音波追蹤 |\n\n1. 超音波影像懷疑惡性：多室、不規則、固體組成、囊腫 >10 cm、雙側卵巢或腹水等；國際普遍採用 O-RADS 分數 (1~5 分) 評估惡性度\n2. RMI (Risk of Malignancy Index) 為評估子宮附件腫瘤惡性度的常用指標，計算方式為 RMI=U×M×CA-125 (U/ml)，其中 U 為超音波影像（低惡性 1 分，高惡性 3 分）；M 為停經狀態（停經前 1 分，停經後 3 分），RMI: 25~200 為 intermediate risk；≥200 為 high risk\n\n根據題幹搭配上表，病人 60 歲應屬於停經後女性，卵巢囊腫 5 公分則建議給婦產專科醫師評估手術處置，但評估卵巢囊腫是否惡性還需要症狀、超音波或 CA-125 等指標，不能只用大小和停經與否來判定；另外 ACOG 指引也建議 <10 公分的簡單囊腫定期超音波追蹤即可，因此筆者認為本題有爭議\n\n參考資料：American College of Obstetricians and Gynecologists. (2016). Practice bulletin no. 174: evaluation and management of adnexal masses. Obstetrics and gynecology, 128(5), e210-e226",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-43_merged.png",
     "explanation_images": null
   },
   {
@@ -15901,8 +15901,8 @@
       "D": "子宮肌瘤因有惡性肉瘤的風險，宜用剖腹手術，不適合用腹腔鏡手術"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "腹腔鏡有傷口小、住院天期短的好處，不再贅述，只是在婦科手術的限制是切除位置需在腹腔或骨盆腔可操作的範圍，例如輸卵管上的子宮外孕即可，但子宮內的病灶就需要與子宮鏡相配合，且切除時需要考慮到病灶惡性可能，要保持檢體完整，避免因手術造成腹腔內擴散\n\n(D) 錯誤，子宮肌瘤的惡性風險極低，因此在多數情況使用腹腔鏡是可行的，但實際方法的選擇應是依據子宮肌瘤的大小、位置、數量，例如 submucosal myoma 應用子宮鏡處理、數量很多的子宮肌瘤可以考慮腹腔鏡子宮切除",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-44_merged.png",
     "explanation_images": null
   },
   {
@@ -15918,8 +15918,8 @@
       "D": "輕壓劍突軟骨，可見腹內壓力增加可以作為進入腹膜腔的檢測方式"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) Veress needle 入針處通常在肚臍的位置，因為不論體型胖瘦，這裡的腹壁一般都比較薄，而根據 BMI 的不同會決定入針角度，在比較瘦的病人，大血管的 bifurcation 位在與肚臍差不多的高度，因此會採斜角進入（與水平呈 45 度），而越肥胖的病人，大血管的 bifurcation 會比肚臍高度更高（肚臍較 caudal），因此反而會用接近垂直的方式往下進針\n\n(B) 其實從插入 Veress needle 到腹膜應該會有兩個 click，一個穿過 rectus sheath、另一個穿過 peritoneum，也被視為一個檢查進入腹膜腔的方法，稱為 double click test，惟不常使用，選項以「通常」來敘述，勉強算是正確\n\n(C) 錯誤，進入腹膜腔的壓力一般是 8 mmHg，超過 10 mmHg 通常代表位置錯誤，而 10-15 mmHg 是灌 CO2 製造氣腹時要達到的目標壓力\n\n(D) 筆者並沒有特別在文獻中找到選項描述的方式，但是壓迫劍突使腹腔體積減少，會使腹內壓力上升，若 Veress needle 在正確位置應可測得這個壓力上升的變化\n\n參考資料：GA Vilos, et al. (2007). Laparoscopic entry: a review of techniques, technologies, and complications. Journal of Obstetrics and Gynaecology Canada, 29(5): 433-447",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-45_merged.png",
     "explanation_images": null
   },
   {
@@ -15935,8 +15935,8 @@
       "D": "不可能有卵巢組織與睪丸組織混雜在一起的狀況"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "真性陰陽人，指同時具有男（睪丸）女（卵巢）生殖組織的人，可以是各擁有一個睪丸和一個卵巢，更常情況是有卵巢與睪丸並存的組織 (ovotestis)，外生殖器絕大多數表現為性器混淆（ambiguous genitalia，即外生殖器無法明顯表現為男或女），其染色體核型半數以上是 46,XX，其次是 46,XX/46,XY 和 46,XY，少數為性染色體結構異常或其他鑲嵌型\n\n假性陰陽人 (pseudohermaphrodites) 則是僅有一種性別的生殖組織，但卻與外生殖器的性徵表現相反，之所以稱為「假性」，因為其有最終性別可判定，又分為假性男性陰陽人 (46,XY) 與假性女性陰陽人 (46,XX)，前者範例如 androgen insensitivity syndrome、5-alpha reductase deficiency，後者如女嬰出現 congenital adrenal hyperplasia，【112-2(六)47】考假性陰陽人\n\n註：「陰陽人」的說法因帶有汙名，現今正名為性發展障礙 (disorders of sex development, DSD)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-46_merged.png",
     "explanation_images": null
   },
   {
@@ -15952,8 +15952,8 @@
       "D": "免疫功能不全"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "聽到「複雜性」感染就能猜到比一般的感染嚴重，病原更少見也更難治，複雜性外陰陰道念珠菌感染 (complicated vulvovaginal candidiasis) 好發於糖尿病、HIV、癌症、類固醇使用等免疫低下的族群，除了症狀嚴重、反覆發作 (≥4 次 / 年) 外，大多為以禿髮念珠菌 (Candida glabrata) 為主的 Non-albicans candidiasis 感染\n\n複雜性念珠菌感染的治療通常須搭配口服（fluconazole 為主，但若為 non-albicans candida 需避免）+ 外用抗真菌藥，治療 6 個月",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-47_merged.png",
     "explanation_images": null
   },
   {
@@ -15969,8 +15969,8 @@
       "D": "黏膜下的肌瘤（submucosal myoma）較會影響生育"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 雌激素與子宮肌瘤生長有關，因此口服避孕藥應是避免子宮肌瘤產生或長大的藥物\n\n| 子宮肌瘤 (uterine myoma) | |\n| :--- | :--- |\n| **特徵** | 女性最常見良性骨盆腔腫瘤<br>20-40% 在 30 歲後發生，好發育齡女性 |\n| **流行病學** | 與雌激素相關，有家族性（一等親 (+)，2.5 倍風險） |\n| **症狀** | 多數無症狀，嚴重會有不正常子宮出血、壓迫、骨盆腔疼痛 |\n| **病理** | 巨觀有假包膜 (pseudoencapsulated)，微觀為平滑肌細胞 |\n| **分類** | FIGO 分類依位置分 0-8 共 9 型：<br>• **子宮黏膜下 (submucous)** (0~1)：<br>  - 0：有蒂型，突於子宮腔中<br>  - 1：子宮黏膜下，<50% 於子宮肌層<br>• **子宮肌層 (intramural)** (2~5)：<br>  - 2：子宮黏膜下，>50% 於子宮肌層<br>  - 3：緊貼子宮黏膜，100% 於子宮肌層<br>  - 4：完全於子宮肌層內<br>  - 5：子宮漿膜下，>50% 於子宮肌層<br>• **子宮漿膜下 (subserous)** (6~7)：<br>  - 6：子宮漿膜下，<50% 於子宮肌層<br>  - 7：有蒂型，突於子宮外<br>• **其他位置** (8)：e.g. 子宮頸<br>*(建議上網蒐圖 FIGO myoma subclassification，更好理解)* |\n| **治療** | 治療方法的選擇，考慮有無症狀、數量 / 大小、停經與否、再生小孩意願、治療作用與風險 (e.g. 想不想一勞永逸、侵入性)<br>1. **再觀察**：無症狀者、接近停經者<br>2. **內科 / 藥物**：<br>  - 口服避孕藥、GnRH 促效劑 (Leuprorelin)：減少出血量、減少肌瘤大小<br>  - NSAID：止痛、減少出血量，非賀爾蒙藥物故不會使肌瘤減小<br>3. **手術**：術式皆可選擇傳統開腹、腹腔鏡、從陰道端開<br>  - Myomectomy (只切除肌瘤)：type 0-1 肌瘤適合用子宮鏡，侵入性最小<br>  - Hysterectomy (拿掉子宮)：適合停經後和已不想生育之女性 |\n\n相關題目：【112-2(六)42】考病理、【112-1(六)78】考分類與相應治療",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-48_merged.png",
     "explanation_images": null
   },
   {
@@ -15986,8 +15986,8 @@
       "D": "卵巢未成熟畸胎瘤（immature teratoma）有時會出現腹腔神經膠質瘤病（gliomatosis peritonei），這是惡性度高的轉移病灶，預後差"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) Ovarian teratoma 通常發生在初經前的青少年，而 immature teratoma 較差的預後指標有年齡較大、期別較晚，孩童的預後一般較好，一篇有 1307 人的統計文獻結果顯示，在 214 位 18 歲以下有 grade 1 immature teratoma 的病人，五年存活率是 100%\n(B) 成熟畸胎瘤是分化良好的良性腫瘤，又稱為 dermoid cyst，但是有約 1-2% 會惡性轉變，以鱗狀上皮癌 (squamous cell carcinoma) 最常見\n(C) 正確，常見生殖細胞癌的血清腫瘤指標如下（關於詳細生殖系統腫瘤的腫瘤指標，請參考【112-2(六)50】整理的表格），不成熟畸胎瘤通常沒有特意指標，但若是 mixed GCT，會依照 mixed 的比例而有對應的腫瘤指標上升（如：dysgerminoma + yolk-sac tumor 可能就會見到 LDH 與 AFP 上升）\n\n註：mixed GCT 最常見的種類是 dysgerminoma + yolk-sac tumor\n\n| 生殖細胞癌種類 | 血清腫瘤指標 |\n| :--- | :--- |\n| **Dysgerminoma** | LDH |\n| **Yolk-sac tumor** | AFP |\n| **Choriocarcinoma** | β-hCG |\n| **Immature teratoma** | 無 |\n\n(D) Gliomatosis peritonei 是成熟的膠質細胞 (glial cell) 轉移到腹膜上，在免疫組織染色上表現 SOX2 基因，在 WHO 分類裡面算是 grade 0 的 immature teratoma，預後很好，針對這部分保守治療即可，但 immature teratoma 還是要追蹤腫瘤本身及其他部位是否有轉移病灶\n\n參考資料：\n1. Liang, et al. (2015). Gliomatosis peritonei: a clinicopathologic and immunohistochemical study of 21 cases. Modern Pathology, 28(12): 1613-1620\n2. JK Chan, et al. (2016). The influence of age and other prognostic factors associated with survival of ovarian immature teratoma—A study of 1307 patients. Gynecologic Oncology, 142(3): 446-451",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-49_merged.png",
     "explanation_images": null
   },
   {
@@ -16003,8 +16003,8 @@
       "D": "臨床上病人因子宮異常出血利用子宮鏡檢查是標準流程"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 子宮內膜增生是癌化的前兆，肇因於長期 unopposed estrogen 的暴露，依組織學型態而有不同的子宮內膜癌發生率：\n\n| 組織學型態 (WHO 分類) | 發生率 |\n| :--- | :--- |\n| **simple hyperplasia without atypia** | 1% |\n| **simple hyperplasia with atypia** | 3% |\n| **complex hyperplasia without atypia** | 8% |\n| **complex hyperplasia with atypia** | 29% |\n\n(B) (C) 子宮內膜癌的標準治療是子宮切除 (hysterectomy)，局限於子宮內的子宮內膜癌 (stage IA, IB) 可選擇腹腔鏡接受分期手術，可有傷口小、復原快等優勢，但疾病本身預後與開腹手術無異\n(D) 有子宮出血的病人依照可能罹患子宮內膜癌的風險高低（下表），進行子宮內膜取樣，並非所有人皆需要，又子宮內膜取樣方法有「門診內診時抽吸取樣」或「安排子宮鏡做 D&C」，後者好處為不會有採樣遺漏的問題，但缺點是要麻醉，我國因就醫方便多直接安排後者，但在有分級、一般科制度的美國則不一定\n\n| 年齡族群 | 建議進行子宮內膜取樣之適應症 |\n| :--- | :--- |\n| **已停經** | 任何子宮出血 |\n| **大於 45 歲但未停經** | 子宮異常出血，包含出血量太大、持久、太頻繁或月經週期期間出血 |\n| **小於 45 歲** | 子宮異常出血 且 有以下任一因子：肥胖、慢性排卵異常 (a)、暴露於 unopposed estrogen、患有子宮內膜癌高風險的綜合症 (b)<br>*(a) ovulatory dysfunction，如多囊性卵巢症候群<br>*(b) 如 Lynch syndrome* |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-50_merged.png",
     "explanation_images": null
   },
   {
