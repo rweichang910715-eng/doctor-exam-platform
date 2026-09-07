@@ -17305,8 +17305,8 @@
       "D": "人類乳突病毒疫苗接種過後可有終生免疫效果"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，打 B 型肝炎疫苗的目的是產生表面抗體，進而預防 B 型肝炎病毒感染，而且 B 型肝炎病毒已知會造成肝硬化與肝癌\n\n(B)(C) 正確，根據 CDC，在尚未被感染前施打 HPV 疫苗能夠對於施打的病毒類型有預防持續感染、CIN 以及原位腺癌，然而施打 HPV 疫苗對於已經感染的病毒類型沒有治療效果，但即使透過檢查發現已經有 HPV 感染，仍會建議施打疫苗，因為可能只被感染其中一型，而施打疫苗可以預防其他型病毒的感染\n\n(D) 錯誤，HPV 疫苗的保護效力在目前的研究中有做到打完疫苗後 14 年都還有免疫效果，筆者認為這個選項的瑕疵在於「終身」兩字，目前並無法確定是否可以終身免疫\n\n其他考點：HPV 疫苗有 2 價、4 價、9 價，不同價數疫苗針對的 HPV 病毒型、預防疾病，可參考【112-1(六)53】表格",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-41_merged.png",
     "explanation_images": null
   },
   {
@@ -17322,8 +17322,8 @@
       "D": "在急性冠狀動脈症候群（acute coronary syndrome）的病人血液中，其血小板彼此之間，以及血小板與白血球之間的交互作用均增強"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 錯誤，雖然無細胞核，但從巨核細胞 (megakaryocyte) 分離出的血小板依然有部分巨核細胞的 mRNA、miRNA 和合成蛋白質的能力\n\n(B) 正確，補充：欲接受高出血風險手術的病人，須在術前 5~7 天停止服用 aspirin，正是因為 aspirin 屬於不可逆結合的抗血小板藥物，藥效須等血小板度過存活期後才會解除\n\n(C) 正確，以下整理血小板表面受器與其對應的活化物：\n• GP Ia：內皮 collagen → 血小板黏附 (adhesion) 與活化\n• GPIb-IX-V：內皮 von Willebrand factor → 血小板黏附 (adhesion) 與活化\n• GP IIb/IIIa：透過 fibrinogen 與其他血小板的 GP IIb/IIIa 結合 → 血小板凝集 (aggregation)\n\n(D) 正確，急性冠狀動脈症候群的病人不僅血小板間的凝集反應會增強，血小板也會藉由表面的 P-selectin 活化白血球、單核球產生更多 fibrin 促進血栓生成",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-42_merged.png",
     "explanation_images": null
   },
   {
@@ -17339,8 +17339,8 @@
       "D": "周邊血液中，在施打granulocyte colony-stimulating factor（G-CSF）數天之後，也可能收集到足夠的造血幹細胞進行移植。若是收集的數量不足，施打plerixafor（一種CXCR4的拮抗劑），可以幫助收集到更多的造血幹細胞"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) HLA 基因在人類第六對染色體上，其上有 6 個基因座 (loci) HLA-A, -B, -C, -DR, -DQ, -DP，兩對合計 12 個，HLA matching 通常要在雙套 -A, -B, -C, -DR, -DQ 10 個位點中有 8-10 個匹配；但因其互相連鎖，遺傳方式是整條染色體、6 個基因座一起分配，故子女永遠與父母是半相合，與兄弟姊妹則有 25% 機率 HLA 全合，考數學，n 個兄弟姊妹都沒有 HLA 全合的機率為 (1-25%)ⁿ，至少有 1 位全合的機率便為 1 - (1-25%)ⁿ\n\n(B) ABO 血型不合並非造血幹細胞移植的禁忌症，但可能發生免疫性溶血、純紅血球再生不良等，也會有較高風險的 GVHD 與 graft failure，ABO 血型不相合可分為主要 (major) 與次要 (minor)：\n\n| ABO mismatch | 定義 | 舉例 | 減少併發症對策 |\n| :--- | :--- | :--- | :--- |\n| **主要 (major)** | recipient 血漿有攻擊 donor 紅血球之抗體 | donor A 型<br>recipient O 型 | (1) 移除病人的抗體（如血漿置換）<br>(2) 捐贈者骨髓紅血球減除術 |\n| **次要 (minor)** | donor 血漿有攻擊 recipient 紅血球之抗體 | donor O 型<br>recipient A 型 | 藉離心減除 donor 血漿 |\n\n(C) 定義上，自體幹細胞移植因為沒有引入異體抗原 (alloantigen)，是不會有 GVHD 或 graft rejection，但或許因免疫系統在移植前後改變，少數自體移植的病患 (5-20%) 也會發生 autologous GVHD/GVHD-like syndrome，症狀通常較輕微，(C) 經申覆後開放\n\n(D) 周邊血幹細胞移植可行後，一大議題是如何「驅動 (mobilize)」骨髓內的造血幹細胞跑到周邊血，過往都是靠 G-CSF，但少數病人效果不彰，Plerixafor [商品名 Mozobil / 總動原] 為 CXCR4 拮抗劑，能阻斷 CXCR4 與骨髓內 stromal cell-derived factor-1 (SDF-1 α) 的連結，導致白血球增生並增加周邊血中造血先驅細胞 (hematopoietic progenitor cells) 的數目，Plerixafor 被核准用在非何杰金氏淋巴癌和多發性骨髓瘤的病人，需自體周邊血幹細胞移植，但 G-CSF 驅動成效不佳時（需與 G-CSF 並用）",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-43_merged.png",
     "explanation_images": null
   },
   {
@@ -17356,8 +17356,8 @@
       "D": "del(17)(p13.1)"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "死背題，根據 Harrison 的存活曲線圖，CLL 的基因突變類型預後：單獨的 13q deletion > 12q trisomy > 11q deletion > 17p deletion，建議記得在 CLL 中有 del(17p) 及 TP53 突變者預後特別差即可",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-44_merged.png",
     "explanation_images": null
   },
   {
@@ -17373,8 +17373,8 @@
       "D": "serum alpha-1 antitrypsin level"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "COPD 是 obstructive airway disease，要透過 forced spirometry 來進行診斷，由於氣喘也是 obstructive airway disease，因此鑑別兩者會用支氣管擴張試驗 (bronchodilator test) 進行區別，當使用 bronchodilator 後，測得 FEV1/FVC < 70% 即可診斷為 COPD；反之 FEV1/FVC ≥ 70% 較可能是 asthma（asthma 診斷為使用 bronchodilator 後，FEV1 增加 >12% 或 200 ml），另外，GOLD guideline 有提及要再根據 FEV1 去評估嚴重度：\n\n| FEV1 (%) | ≥ 80 | 50-79 | 30-49 | <30 |\n| :--- | :--- | :--- | :--- | :--- |\n| **Grade** | 1 | 2 | 3 | 4 |\n\n(D) alpha-1 antitrypsin 會抑制肺部的 neutrophil elastase activity，並減少肺組織受到 proteolytic damage，當此蛋白在體內濃度太低時 (alpha-1 antitrypsin deficiency 患者，為先天性遺傳疾病)，容易導致肺部損傷進而導致 COPD、肺氣腫，因此是 COPD 病因的檢查，但並非診斷 COPD 的必要檢查",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-45_merged.png",
     "explanation_images": null
   },
   {
@@ -17390,8 +17390,8 @@
       "D": "add-on inhaled corticosteroid"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "在 2023 更新的 GOLD guideline，對於治療 COPD 有一些更動：\n\n| | mMRC 0-1<br>CAT<10 | mMRC >=2<br>CAT>=10 |\n| :--- | :--- | :--- |\n| **一年內至少 2 次中度急性發作，或是有 1 次導致住院** | **E**<br>治療：LABA + LAMA (+ICS if eos > 300) | **E**<br>治療：LABA + LAMA (+ICS if eos > 300) |\n| **一年內少於 2 次中度急性發作，且沒有因發作導致住院** | **A**<br>治療：支氣管擴張劑 | **B**<br>治療：LABA + LAMA |\n\n以往在 COPD exacerbation 的治療中，E 是被拆成 C 與 D 且有不同治療建議的，現在都統一建議用 LABA+LAMA 並在 eosinophil >300 時給類固醇，另外 2023 GOLD guideline 也更新了 COPD 在初始治療後症狀仍不穩定時的治療流程：\n\n| 分類 | 條件 | 處置 |\n| :--- | :--- | :--- |\n| **Dyspnea** | | LABA or LAMA → LABA + LAMA |\n| **Exacerbation** | **eosinophil ≥ 300** | LABA or LAMA → LABA + LAMA + ICS |\n| | **eosinophil < 300** | LABA or LAMA → LABA + LAMA<br>若無效且 blood eosinophil ≥ 100 → + ICS |\n| | **FEV1 <50% & 慢性支氣管炎** | + Roflumilast (PDE-4 inhibitors) |\n| | **吸菸者** | + Azithromycin (Macrolides) |\n| | **肺炎 or 類固醇嚴重副作用** | - ICS |\n\n根據題幹，病人的 eosinophil 為 5%，即 9500 × 5% = 475 cells/ul，且無明確證據有肺炎（單憑 WBC 和 CRP 高並不能診斷肺炎），最適合的治療應為合併兩種長效支氣管擴張劑，並且加入吸入型類固醇治療",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-46_merged.png",
     "explanation_images": null
   },
   {
@@ -17407,8 +17407,8 @@
       "D": "兩側肺門淋巴腺腫"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "超音波在骨頭與空氣的傳遞效果很差，因此很難看到肺部深處構造 (D)，做胸腔超音波時大部分看到的是「肋膜與肺的交界」，因此對肋膜的病理現象，如 (A) 肋膜積水、(B) 氣胸都能很好判斷，(C) 橫膈肌是主要的呼吸肌，橫膈膜麻痺會直接影響呼吸，臨床上會取超音波 real-time 的優勢，用 M mode 來監看橫膈肌的運動\n\n胸腔超音波的應用，可參考急診常用的 BLUE protocol，除氣胸外，在肺炎、氣喘 / COPD、肺氣腫也都有診斷價值",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-47_merged.png",
     "explanation_images": null
   },
   {
@@ -17424,8 +17424,8 @@
       "D": "重症肌無力"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題的肺功能測試可以看到 TLC 及最大吸氣壓力下降，但 FEV1/FVC 正常，代表全肺容積的下降不是因為氣道的問題造成，可以排除掉 (A) COPD (FEV1/FVC<0.7)，剩下三個選項需要考量到最大吸氣壓力 55%，代表全肺容積下降不是單純因為 (B) 肥胖造成的限制性肺病以及 (C) 肺葉切除，而是因為吸氣力道不足，故選 (D) 重症肌無力",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-48_merged.png",
     "explanation_images": null
   },
   {
@@ -17441,8 +17441,8 @@
       "D": "9個月的每日一次levofloxacin治療"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "潛伏結核菌感染 (LTBI) 可以用皮膚結核菌測試或丙型干擾素血液試驗 (interferon-γ release assay, IGRA) 偵測，而 LTBI 首要排除的就是活動性病灶，題目的病人 X 光正常，目前排除開放性肺結核，因此可以接受 LTBI 的指引治療，若丈夫是非抗藥性結核感染，則建議此病人用 3HP / 3HR / 4R 其中一種方式；但是丈夫是 isoniazid 抗藥，那就會建議 4R，額外補充：如果丈夫是 rifampin 抗藥，就會建議 9H，數字代表療程長度（月），H = isoniazid (INH)，P = rifapentine (RPT)，R = rifampin (RMP)\n\n以下補充其他較常見的情形及治療處方，有興趣的話可以參考《台灣結核病診治指引》：\n1. 新發現的開放性肺結核標準治療：2 個月的 INH + RMP + pyrazinamide (PZA) + ethambutol (EMB)；接著拿掉 PZA 繼續 4 個月（若 X 光有廣泛開洞病灶應改成 7 個月）\n2. 如果是曾經感染過的病人，要 INH + RMP + PZA + EMB 6-9 個月\n3. 對 INH 單一抗藥（題目中丈夫要用的藥）：RMP + PZA + EMB (+INH) 6 個月，或是 RMP + PZA + EMB + fluoroquinolone + amikacin (+INH) 6-9 個月（amikacin 用到轉陰就停止）\n\n其他考點：抗結核病藥物的肝傷害，請見【112-1(三)19】詳解\n參考資料：結核病診治指引第七版",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-49_merged.png",
     "explanation_images": null
   },
   {
@@ -17458,8 +17458,8 @@
       "D": "M. abscessus是快速生長菌；此菌引成的肺部感染，藥物治療時間與一般肺炎相同，約需2個星期"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "非結核分枝桿菌 (nontuberculous mycobacteria, NTM) 廣泛存在於自然環境中，且和結核分枝桿菌相比不會人傳人，不過近年來結核病防治有成之下，NTM 的盛行率反而有增加的趨勢，以下整理 NTM 重要的 Runyon classification 和各常見菌株：\n\n| Runyon classification | | NTM 常見菌株 | 皮下 | 肺 | 全身 | 特殊症狀 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| **生長緩慢型 (>7 天)** | **Group I 光照產色菌** | M. kansasii | - | +++ | ++ | |\n| | | M. marinum | ++ | - | - | tenosynovitis |\n| | **Group II 黑暗產色菌** | M. gordonae | +/- | - | - | 少為致病菌 |\n| | | M. scrofulaceum | - | + | ++ | lymphadenitis |\n| | **Group III 非光照產色菌** | M. avium complex (MAC) | + | +++ | ++ | lymphadenitis |\n| | | M. ulcerans | +++ | - | - | Buruli ulcer |\n| **生長快速型 (<7 天)** | **Group IV** | M. abscessus<br>M. fortuitum<br>M. chelonae | +++ | + | + | |\n\n(A) 錯誤，雖然免疫力低下者 (e.g. HIV) 感染 NTM 的風險較高，但只有全身性感染才與免疫力低下高度相關；肺部感染則是主要發生在呼吸道上皮異常的病人，如支氣管擴張症 (brochiectasis)、囊腫纖維化 (cystic fibrosis) 等\n\n(B) 錯誤，M. gordonae 幾乎不會造成肺部感染，若培養出此菌則要留意是否有其他致病菌\n\n(C)(D) 有關生長速度的敘述皆正確，但 (D) 錯誤的地方在於 M. abscessus 的肺部感染很難根治，因此藥物治療時間要比一般肺炎更久，和大多數 NTM 一樣須治療 18 個月以上\n\nNTM 與其他分枝桿菌屬 (Mycobacterium) 的菌種，【112-1(三)63】也有出題，建議搭配複習",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-50_merged.png",
     "explanation_images": null
   },
   {
