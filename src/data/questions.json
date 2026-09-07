@@ -18835,8 +18835,8 @@
       "D": "散發性的庫賈氏症（sporadic Creutzfeldt-Jakob disease）診斷除臨床表現之外，目前尚需要腦波、腦部磁振造影或腦脊髓液的14-3-3蛋白檢測"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "以下表格整理罹患 CJD 的原因；【112-1(四)52】也考 CJD，該詳解製表比較了典型（以散發型為代表）和變異型在臨床表現上的差異，請相互參照\n\n庫賈氏症 (Creutzfeldt-Jakob disease, CJD)：\n\n| 原由 | 比例 | 特性 |\n| :--- | :--- | :--- |\n| **散發性 (sporadic)** | 85% | 是 PrP 基因的 somatic mutation<br>迅速認知功能下降、動作障礙，發病 4 個月左右死亡 |\n| **遺傳性 (familial)** | 10-15% | 是 PrP 基因的 germ line mutation<br>症狀上和散發性類似，但病程略長一些 |\n| **後天性 (acquired)** | 1% | 醫源性 (iatrogenic)：手術污染而導致傳染<br>變異型 (variant form)：食用狂牛症的牛肉得到的屬於這種，雖少見但是比例以年輕人居多，除了神經退化外會有精神症狀（如憂鬱、焦慮等），發病 1 年多左右死亡 |\n\n(A) 以前在 prion disease 尚未明瞭之前，的確以為是病毒感染的結果，後來才知道是由於 encode prion 蛋白的基因發生突變才會使蛋白折疊發生異常，和任何病毒或微生物都無關\n\n(D) sporadic CJD 的 definite diagnosis 要靠西方墨點法確認有抵抗 protease 的 PRP 蛋白，但是更常使用的是 probable diagnosis，要包含三個條件：\n1. 臨床症狀一定要有快速認知功能下降 + 四項中至少兩項（肌躍、視力模糊或小腦功能失調、錐體或錐體外路徑功能異常、緘默不語症）\n2. 三項中其中一項有典型異常 (1) EEG periodic shock wave complex (2) MRI 在 caudate 或 putamen 有 T2 high density (3) CSF 14-3-3 蛋白陽性\n3. 排除其他診斷",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-51_merged.png",
     "explanation_images": null
   },
   {
@@ -18852,8 +18852,8 @@
       "D": "肌萎縮性側索硬化（amyotrophic lateral sclerosis）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "不自主動作是 hyperkinesia 的典型表現，而選項中就只有 (C) 亨丁頓氏病屬於 hyperkinetic movement disorder（另一個熟悉的名稱為亨丁頓舞蹈症，很容易就能聯想到了！），其餘選項和本題症狀皆不相符\n\n有關亨丁頓氏病 (Huntington disease) 的重點整理如下：\n• 自體顯性遺傳，為 Huntingtin 蛋白基因 (HTT) 的 CAG repeat 過多，造成變異的蛋白在腦中累積，以紋狀體的 GABA 神經元退化最明顯\n• 平均發病年齡約為 35~44 歲之間，且每傳一代 CAG repeat 數會增加（≥ 36~121 次基因就會異常），發病時間也越早，此為 anticipation 現象（如同本題王小姐發病年齡較父親早）\n• 臨床症狀 triad：動作障礙（主要以舞蹈症表現）、認知障礙、精神 / 行為異常",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-52_merged.png",
     "explanation_images": null
   },
   {
@@ -18869,8 +18869,8 @@
       "D": "運動神經元疾病（motor neuron disease）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "此題考各疾病是屬於 fluctuating weakness 或 slowly progressive weakness，前者 'fluctuating' 指短時間（數小時～數天）的變動，常見鑑別診斷如下：\n\n| 疾病 | 類型 | 特徵 |\n| :--- | :--- | :--- |\n| **myasthenia gravis** | 神經肌肉接合處 (NMJ) 疾病 | 愈用愈沒力 (worsen with repetition) |\n| **Lambert-Eaton myasthenic syndrome** | 神經肌肉接合處 (NMJ) 疾病 | 疾病初期，愈用愈有力 (improve with repetition) |\n| **periodic paralysis (hyperkalemia)** | 先天遺傳（主要） | 發作頻率變異度大（一生一次～一週數次）、每次發作可數分鐘～幾天才自然恢復正常 |\n| **periodic paralysis (hypokalemia)** | 先天遺傳（主要）<br>後天：<br>- 甲狀腺亢進（任何原因）<br>- 腎 / 腸胃道 / 內分泌流失鉀 | 發作頻率變異度大（一生一次～一週數次）、每次發作可數分鐘～幾天才自然恢復正常 |\n\n若把一些會不時發作 (attack)、平時正常的神經疾病納入，則包括多發性硬化症 (multiple sclerosis)、紫質症 (porphyria) 等\n\n(D) 運動神經元疾病—如最常見的肌萎縮性脊髓側索硬化症 (amyotrophic lateral sclerosis)—病程一般而言都是 progressive 的",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-53_merged.png",
     "explanation_images": null
   },
   {
@@ -18886,8 +18886,8 @@
       "D": "以類固醇治療為主"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "發炎性肌肉病變共有 4 種：dermatomyositis（皮肌炎 / DM）、polymyositis（多發性肌炎 / PM）、immune-mediated necrotizing myopathy（免疫引起肌肉壞死之肌肉病變 / IMNM）、inclusion body myositis（包涵體肌炎 / IBM），重點比較整理如下：\n\n| | 皮肌炎 / DM | 多發性肌炎 / PM | 免疫引起肌肉壞死之肌肉病變 / IMNM | 包涵體肌炎 / IBM |\n| :--- | :--- | :--- | :--- | :--- |\n| **onset** | subacute | subacute | acute/subacute | slow |\n| **無力的表現** | 對稱：近端 > 遠端；伴隨典型 rash 表徵 | 對稱：近端 > 遠端 | 不對稱：近端 > 遠端 | 不對稱：以股四頭肌、手指無力為多（近、遠端皆有） |\n| **creatine kinase (x 正常值上限)** | 高 10-50 倍 | 高 10-50 倍 | 極高 > 50 倍 | 微高 < 10 倍 |\n| **自體免疫抗體 \\*** | anti-MDA5, anti-Mi2, anti-TIF1, anti-NXP2 | antisynthetase antibodies (anti-Jo-1 為代表) | anti-SRP 和 anti-HMGCR (專一性 for IMNM) | anti-cN1A |\n| **肌肉切片** | perivascular perimysial perifascicular CD4+ 浸潤 + perifascicular atrophy | perivascular endomysial CD8+ 浸潤 | necrotic fibers + 補體沉積在微血管 | perivascular endomysial CD8+ 浸潤 + autophagic vacuoles |\n| **常合併病症** | 心肌炎、間質性肺炎、結締組織疾病、血管炎；癌症 | 間質性肺炎、結締組織疾病、血管炎；anti-synthetase syndrome (肌炎 + 關節炎 + 雷諾氏現象 + mechanic's hand + 間質性肺炎) | 癌症、結締組織疾病、statin 藥物 | 結締組織疾病 |\n\n\\* 自體免疫抗體方面：間質性肺炎與 anti-MDA5、antisynthetase antibodies (anti-Jo-1 為代表) 有關；癌症與 anti-TIF1、anti-NXP2 有關\n\n(A) 錯誤，複視 (diplopia) 是重症肌無力 (Myasthenia Gravis) 侵犯眼外肌的典型表現，發炎性肌病變（PM/DM）主要侵犯近端肢體骨骼肌，極少侵犯眼外肌，故不會出現複視\n(B) 皮肌炎容易合併癌症，但並無特定哪個癌別，因流病統計皮肌炎患者相關的癌症就是普遍盛行率較高的癌症（肺、乳、卵巢癌等），較特定有關的是「亞洲皮肌炎患者」與「鼻咽癌」\n(C) PM/DM 主要為侵犯近端肢體肌肉，近端 > 遠端\n(D) 發炎性肌肉病變第一線治療以高劑量類固醇為主",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-54_merged.png",
     "explanation_images": null
   },
   {
@@ -18903,8 +18903,8 @@
       "D": "頸椎第五節（C5）脊髓休克"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "題幹敘述四肢運動與感覺功能都喪失，代表比較是一個高位的 spinal cord injury，符合四個選項所述頸椎第五節的位置，另外佐以 anal reflex 與 bulbocavernous reflex 都沒有，代表是一個 complete spinal cord injury，屬於 ASIA impairment scale 分類的 type A\n\n(A) 前脊髓損傷對於本體感覺比較不會受到影響\n(B) 反之，後脊髓損傷一般影響的是 posterior column 居多，較不影響運動功能\n(C) 運動與感覺功能確實都會影響，但並不會完全消失，近端或下肢的功能通常不會太差\n\nSpinal shock 不是一般的休克（但確實可能有低血壓表現），而是用來代表 spinal cord 受到損傷時暫時性的失去 reflex 與感覺運動功能，文獻記載發生 spinal shock 後會先進到 areflexia 的狀態，而後慢慢恢復甚至會有一陣子出現 hyper-reflexia 的情形，雖然初始症狀看起來很可怕，但如果 spinal cord 沒有壞死，一般 spinal shock 會在 24-48 小時內開始逐漸恢復，但要完全復原可能會花上幾週的時間\n\n其他考點：\n• 關於常見 spinal cord injury 的整理可以參考【112-2(六)60】的詳解\n• ASIA impairment scale 用來分辨 spinal cord injury 的嚴重程度：\n\n| ASIA scale | Injury type | 描述 |\n| :--- | :--- | :--- |\n| **A** | Complete | 完全沒有運動、感覺功能（也無 sacral sparing） |\n| **B** | Incomplete | 沒有運動功能，但是仍有感覺功能 |\n| **C** | Incomplete | 在該 level 至少 50% 的肌力 < 3 分 |\n| **D** | Incomplete | 在該 level 至少 50% 的肌力 ≥ 3 分 |\n| **E** | Normal | 完全正常的運動與感覺功能 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-55_merged.png",
     "explanation_images": null
   },
   {
@@ -18920,8 +18920,8 @@
       "D": "病人可能合併疲倦及沮喪等症狀"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 多發性硬化症是自體免疫疾病的一種，機轉為 T 細胞攻擊中樞神經白質使神經去髓鞘化，且在時序和位置上多發 (dissemination in time & space)\n\n(B) 錯誤，多發性硬化症是緯度愈高、天氣愈冷的地區發生率愈高（在北歐、英國與紐西蘭的發生率為熱帶國家的 10~20 倍），目前認為相關的風險因子包含人種、UVB、vitamin D 等\n\n(C) (D) 由於多發性硬化症可發作在不同位置的中樞神經，因此初始症狀非常多樣，最常見的症狀包含感覺喪失、視神經炎（單側視力減弱、眼痛）、無力或麻木感；另外作用在大腦可表現疼痛、疲倦、憂鬱沮喪、認知功能受損等\n\n其他考點：\n• 多發性硬化症 (MS) 和視神經脊髓炎 (NMO) 兩種疾病很常拿來比較！相似處為兩種病皆好發於壯年女性，病程常以 relapsing & remitting 表現，以及常見視神經炎；相異處為 MS 是 T-cell mediated，為去髓鞘化疾病，NMO 則是 B-cell mediated（自體抗體攻擊 AQP4，表現在 astrocyte 上），另外 NMO 較會有長節段橫貫性的脊髓炎 (LETM)，患者的生活品質與預後都較差，有別於 MS，NMO 的治療不包括口服類固醇，建議同學們複習時將這兩種疾病一起準備",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-56_merged.png",
     "explanation_images": null
   },
   {
@@ -18937,8 +18937,8 @@
       "D": "APP"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "唐氏症患者在進入中壯年後罹患阿茲海默症 (AD) 的風險漸高，30% 患者在 50 多歲時有 AD，50% 患者在 60 多歲時罹病，原因與多一條第 21 對染色體有關，其上帶有與 AD 病理學密切相關的 APP gene，會轉錄 β 型類澱粉蛋白前驅蛋白 (Amyloid-beta Precursor Protein)，40 歲之後的唐氏症患者幾乎都可發現 β 型澱粉樣蛋白的不正常堆積",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-57_merged.png",
     "explanation_images": null
   },
   {
@@ -18954,8 +18954,8 @@
       "D": "病人腦壓升高時，可能會出現心跳變快、血壓上升及呼吸不規則的變化"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 化膿性腦膜炎的病人常見症狀是發燒 (77%)、頭痛 (87%)、頸部僵硬 (31%) 與意識改變 (GCS < 14, 69%)，約 95% 的患者會同時表現其中兩項，但同時出現三者的比率並沒有那麼高；此外，腦壓升高也是常見的發現，90% 以上患者 CSF opening pressure > 18 cmH2O，腦壓高的症狀為 (D) Cushing triad：高血壓、心跳減慢及呼吸不規律\n\n(B) 常見感染菌包含：group B streptococcus (S. pneumoniae, 30-60%) > Neisseria meningitidis (10-35%) > Listeria monocytogenes (5-10%) > H. influenzae (<5%)\n\n(C) 最常見的 S. pneumoniae，治療給予第三代能穿過 BBB 的抗生素為主，正常成年人會經驗性使用 Ceftriaxone + Vancomycin 作為治療組合",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-58_merged.png",
     "explanation_images": null
   },
   {
@@ -18971,8 +18971,8 @@
       "D": "病人表示同事在走廊聊天，就是互傳訊息，想要聯手對付他，是一種控制（control）妄想"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "整理選項中以及國考常見的幾種妄想：\n\n| 妄想種類 | 內容說明 |\n| :--- | :--- |\n| **關係妄想 (referential)** | 將與自己無關的事認為與自己相關 → (D) |\n| **被害妄想 (persecutory)** | 認為周遭某些人對自己進行監視、誣陷、謀害等 → (A) |\n| **虛無妄想 (nihilistic)** | 認為這世界與一切已經不復存在了 |\n| **誇大妄想 (grandeur)** | 認為自己的能力、財富、地位、權勢等高人一等 → (B) 正確 |\n| **忌妒妄想 (jealousy)** | 認為自己的另一半對自己感情不忠 |\n| **控制妄想 (control)** | 認為自己的行為與想法是被外力控制與指揮 |\n| **鍾情妄想 (being loved)** | 認為對方對自己產生愛意，即使對方否認仍堅持此想法 → (C) |\n\n另外補充幾個常見易混淆的名詞：\n\n| 名詞 | 定義維度 | 說明與舉例 |\n| :--- | :--- | :--- |\n| **妄想 (delusion)** | Thought 之中的 Content（思考內容） | 不可動搖的信念（以前作 unshakable false belief，DSM-5 把 'false' 刪除）<br>如：深信自己就是某個神明的後世 |\n| **幻覺 (hallucination)** | Perception（知覺） | 無中生有，五官中某些知覺感知到了不存在的東西<br>如：窗外沒東西，但是有看到人影 |\n| **錯覺 (illusion)** | Perception（知覺） | 有外在刺激，只是感知使得以為是另一回事<br>如：窗外有樹木，但是看成人影 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-59_merged.png",
     "explanation_images": null
   },
   {
@@ -18988,8 +18988,8 @@
       "D": "顳葉癲癇（temporal lobe epilepsy）可能導致嗅幻覺"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "雖然選項內容偏細，但 (C) 現實感佳明顯不符合物質成癮的精神症狀，靠語意就能作答\n\n(A) 觸幻覺 (tactile hallucination) 是古柯鹼成癮典型的症狀之一，病人通常會感覺手腳發癢，或是形容有蟲子在皮膚表面或身體裡爬行，因此也被稱為 delusional parasitosis\n\n(B) 被害妄想 (persecutory delusion) 是物質 / 藥物引發的妄想症中最常見的，其中使用安非他命類藥物的病人中約 77% 出現被害妄想，是最常見的精神病症\n\n(D) 人體的嗅覺皮質 (olfactory cortex) 位於顳葉的鉤迴、旁海馬迴與杏仁核，因此顳葉癲癇通常也會合併嗅幻覺，其他症狀包含聽幻覺、味幻覺、情緒或記憶紊亂等",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-60_merged.png",
     "explanation_images": null
   },
   {
