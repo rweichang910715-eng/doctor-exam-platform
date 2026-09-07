@@ -18665,8 +18665,8 @@
       "D": "甲癬（tinea unguium）；指甲下角質增厚（subungual hyperkeratosis）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "常見會有指甲變化的皮膚疾病，製表如下：\n\n| 疾病 | 指甲表現 | 說明 |\n| :--- | :--- | :--- |\n| **乾癬 (psoriasis)** | 1. 點狀凹陷 (pitting)<br>2. 油滴狀變色 (oil spot/salmon patch)：形狀不規則的黃 / 粉紅色甲床脫色，專一性高<br>3. 甲床分離 (onycholysis)：遠端甲床分離並圍繞著紅色邊緣<br>4. 指甲下角質增生 (subungual hyperkeratosis) | 這三者皆是免疫失調導致的發炎性皮膚疾病，且皆可有以下表現：<br>1. 指甲直線紋 / 隆起 (longitudinal ridging)<br>2. 縱向裂隙 (longitudinal fissuring)<br>3. 粗面指甲 (trachyonychia) |\n| **扁平苔癬 (lichen planus)** | 指甲萎縮 (nail dystrophy) | ^ |\n| **圓禿 (alopecia areata)** | 1. 斑點指半月 (spotted lunula)：指甲近端有半月狀紅點<br>2. 點狀凹陷 (pitting) | ^ |\n| **毛囊角化症 (Darier disease)** | 為遺傳性皮膚疾病 (ATP2A2 基因、自體顯性)<br>1. 脆甲 (onychorrhexis)：指甲易脆、出現有縱向紅或白的條紋 / 裂隙<br>2. V 形切口 (V-shaped nick) | |\n| **甲癬 (tinea unguium)** | 即灰指甲 (onychomycosis)，為真菌感染<br>1. 指甲變色 (discoloration)：變白、黃、綠等<br>2. 指甲下角質增生 (subungual hyperkeratosis)<br>3. 指甲易脆 (crumbling)、碎屑 | |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-41_merged.png",
     "explanation_images": null
   },
   {
@@ -18682,8 +18682,8 @@
       "D": "長期發炎的病灶會有產生鱗狀上皮細胞癌的可能"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "化膿性汗腺炎較常影響女性 (F : M = 3 : 1)，最常影響的位置為腋下，其次是鼠蹊部、大腿內側等處，最常見的初始表現是發炎性結節及化膿，但由於這個疾病極易慢性化，長期會形成反覆發生的皮膚隧道 (skin tunnel)、開放性痤瘡 (open comedones) 及結痂，治療原則為降低病灶反覆復發、降低疼痛及避免社會心理問題，包含調整生活方式、使用抗生素、清創引流，在極嚴重的狀態才考慮切除重建\n\n原先 (A) 錯誤，但亞洲的統計數據發現化膿性汗腺炎是以男性為主，故此選項送分",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-42_merged.png",
     "explanation_images": null
   },
   {
@@ -18699,8 +18699,8 @@
       "D": "皮膚可能合併細菌或病毒的感染"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "非常罕見的疾病，建議以下表格重點看看就好！\n\n毛囊角化症 (Darier disease)：\n\n| 項目 | 說明 |\n| :--- | :--- |\n| **流行病學** | 體染色體顯性疾病，是 ATP2A2 基因突變造成（影響 sarco / endoplasmic reticulum 的 Ca 離子 ATPase），盛行率約 10 萬分之一且多為男性患者 |\n| **分布位置** | 主要發生在頭頸部的過度角化丘疹，也可能發生在對磨處（腋下、鼠蹊、膝蓋後、股溝等），口腔也會受影響但通常較輕微 |\n| **臨床症狀** | 指甲易脆 (onychorrhexis)、容易有紅白縱向條紋，或有特別的 V 型凹入表現，由於日光、流汗、高溫等會加劇病灶嚴重度，因此夏季容易惡化，此外皮膚的細菌、病毒感染相當常見，若有指甲異味或紅腫要高度懷疑感染，少數患者會合併神經精神異常如智能障礙 |\n| **治療** | 基本上無法痊癒，所以是症狀治療為主，輕症則避免過度悶熱、流汗，並可局部塗抹 A 酸 (retinoids)、類固醇，中重症患者口服 A 酸多數有效，可減緩角化程度，若有次發性感染要使用抗生素或是抗病毒藥物治療；頻繁復發則可用電燒、雷射等外科治療 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-43_merged.png",
     "explanation_images": null
   },
   {
@@ -18716,8 +18716,8 @@
       "D": "中樞結核感染合併血管炎"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "毛毛樣血管疾病在年輕中風族群中越來越被重視，相關介紹整理如下：\n\n毛毛樣血管疾病 (moyamoya disease)：\n\n| 項目 | 內容 |\n| :--- | :--- |\n| **病生理** | 顱內大血管堵塞，造成阻塞後方側枝循環異常增生，以代償供應腦部血流，由於增生的小血管在影像上呈現薄霧般的特徵，因而得名 (moyamoya 在日文有「模糊、混亂」之意) |\n| **基因異常** | 約 10% 與遺傳有關：RNF213、ACTA2 等 |\n| **流行病學** | 好發於東方人種（日本發生率 1/300,000；台灣為 1/5,000,000）、≤15 歲兒童或 30~40 歲年輕人、女性 |\n| **臨床症狀** | 短暫但反覆發生的中風，其他症狀包含頭痛、抽搐、不自主運動、語言障礙或精神異常等，兒童的中風時常合併癲癇發生 |\n| **治療** | 和一般中風治療類似（抗血小板藥物 / 抗凝血劑、降血壓藥等），嚴重者可考慮腦血管重建手術，如淺顳動脈 - 中大腦動脈吻合術等 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-44_merged.png",
     "explanation_images": null
   },
   {
@@ -18733,8 +18733,8 @@
       "D": "CHA DS -VASc分數為0分之非瓣膜性心房顫動（atrial fibrillation），暫不使用抗血栓藥物2 2"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "缺血性中風的次級預防策略大致分為心源性栓塞 (cardioembolism) 和非心源性栓塞兩類 *\n\n\\* 補充：依據正式 TOAST classification 分為五類：大血管粥樣硬化 (large artery arherosclerosis)、心源性栓塞 (cardioembolism)、小血管阻塞 (small vessel occlusion，以 lacunar infarcts 為主)、其他原因、未知原因\n\n(1) 心源性栓塞又以非瓣膜性心房顫動 (non-valvular Af) 為大宗，以 CHA2DS2-VASc score 評估（可見【112-2(四)45】詳解），≥ 2 分要用抗凝血劑、1 分可用可不用、0 分不用，本題 (D) 敘述對，但放在此題架構下稍怪，因有 TIA/stroke 的病人，CHA2DS2-VASc 就至少兩分，故心源性栓塞的中風病人都一定會給抗凝血劑 (non-valvular Af 給的抗凝血劑都是新型口服抗凝血劑 (DOAC)；valvular Af 也一定要給抗凝血劑，除機械性瓣膜或中度以上二尖瓣閉鎖需用 warfarin 外，其他也給 DOAC)\n\n(2) 非心源性栓塞：涵蓋類型包括大血管粥樣硬化與小血管阻塞，基本上給予抗血小板藥物，至於要給 SAPT（單抗）或短期 DAPT（雙抗），則用以下標準：\n(a) 缺血性中風：early (< 24 hrs) 且 NIHSS ≤ 3 分使用 DAPT，其餘 SAPT\n(b) 暫時性腦缺血發作 TIA：ABCD2 分數 ≥ 4 分為 high risk 使用 DAPT，其餘 SAPT\n\n(B) 至於頸動脈支架，不限於中風後的次級預防，現在態度採主動預防，適應症包含 (1) 有中風 / TIA 症狀且顱外內頸動脈狹窄 ≥ 50%（健保 ≥ 60%） (2) 無症狀但顱外內頸動脈狹窄 ≥ 70%（健保 ≥ 80%），(A)「顱內」的大動脈狹窄，做血管塑形或放支架是有害的，依據上文給予抗血小板藥物就好\n\n(C) 來源不明之栓塞型中風 (ESUS，懷疑是血栓性中風但找不到血栓來源)，近年有很多臨床試驗 (NAVIGATE-ESUS、RE-SPECT ESUS、ATTICUS)，看是否吃抗凝血劑會比吃抗血小板藥物好，結果都是「DOAC 並未優於 SAPT」，故其次級預防指引仍維持給予 SAPT 而不建議 DOAC",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-45_merged.png",
     "explanation_images": null
   },
   {
@@ -18750,8 +18750,8 @@
       "D": "弓形蟲（toxoplasma）腦內感染"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "一下子要判讀三張不同模式的腦影像看似困難，但把握一開始的 CT，CT 呈現高訊號，若非鈣化，很可能表示出血，後續追蹤 MRI 看到 FLAIR（即 CSF 訊號被抑制的 T2）原出血處低訊號（其周圍的高訊號是 vasogenic edema 所致）、T1 邊緣高訊號 / 中間 isotense，推論為出血之血紅素攜氧狀態改變，導致的結果（對照下表，本題的影像較符合 acute stage）\n\n再配合刪去法：\n(B) 腦腫瘤應可以看到 mass effect 導致中線偏離，且不應在 CT 上呈現均質的高訊號\n(C) multiple sclerosis 導致的神經發炎性訊號，在 CT、T1 上應該不會有明顯的高訊號\n(D) neurotoxoplasmosis 會有典型的 concentric target sign，和 MRI 的外圍高中心低訊號有點像，但這種因為周圍水腫導致的訊號是在 T2、FLAIR 或 T1+contrast 才看的到，在 CT、T1 應無法清楚辨別，因此錯誤\n\n另外，高血壓腦出血容易發生在視丘 (thalamus)，符合影像所在位置，故推論答案為 (A)\n\nStages of hemorrhage：\n\n| 階段 (Stage) | T1 訊號 | T2/FLAIR 訊號 | CT 訊號 | 說明 |\n| :--- | :--- | :--- | :--- | :--- |\n| **Hyperacute (<24 hr)** | 等訊號 (Isotense) | 高訊號 (Bright) | 高訊號 (Bright) | Oxyhemoglobin |\n| **Acute (1-3 d)** | 等訊號 / 低訊號 | 低訊號 (Dark) | 高訊號 (Bright) | Deoxyhemoglobin |\n| **Subacute, early (3-7 d)** | 高訊號 (Bright) | 低訊號 (Dark) | 等訊號 / 漸淡 | Intracellular MetHb |\n| **Subacute, late (>7 d)** | 高訊號 (Bright) | 高訊號 (Bright) | 等訊號 / 低訊號 | Extracellular MetHb |\n| **Chronic (>1m)** | 低訊號 (Dark) | 低訊號 (Dark) | 低訊號 (Dark) | Hemosiderin, ferritin |\n\n參考資料：C Domingues, C Rossi & C Cordonnier. (2015). Diagnostic evaluation for nontraumatic intracerebral hemorrhage. Neurologic clinics, 33(2), 315-328.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-46_merged.png",
     "explanation_images": null
   },
   {
@@ -18767,8 +18767,8 @@
       "D": "除非有安全上的考量，基本上不需要藥物治療"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "異睡症 (parasomnia) 是指在睡眠期間做一般人清醒時才會做的事，包含講話、走路、吃東西等，是一種睡眠障礙，而異睡症在 REM 與 NREM 期都可能發生\n\n| 類型 | 疾病 / 表現 |\n| :--- | :--- |\n| **REM 異睡症** | • 睡眠癱瘓症（俗稱鬼壓床）<br>• 夢境實演（把夢境演出來，會拳打腳踢等）→ (C) 錯誤<br>• 惡夢（會記得內容） |\n| **NREM 異睡症**<br>*(主要發生在 NREM Stage 3)* | • 夢遊<br>• 夜驚（和惡夢不同，不會記得內容）<br>• 覺醒困惑症（突然從深層睡眠醒來，大腦還沒開機）<br>• 睡食症<br>• 睡眠性行為 |\n\n目前已知有許多原因可能會造成或加重異睡症，包含睡眠呼吸中止症、喝酒、壓力等等，而治療上大部分會先以衛教與處理其他影響睡眠的疾病，並顧及病人（或同床者）的安全而給予症狀控制的治療，藥物部分可以給予 clonazepam、antidepressants、melatonin 等，透過非藥物如認知行為治療也有療效\n\n參考資料：P Drakatos, et al. (2019). NREM parasomnias: a treatment approach based upon a retrospective case series of 512 patients. Sleep medicine, 53: 181-188.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-47_merged.png",
     "explanation_images": null
   },
   {
@@ -18784,8 +18784,8 @@
       "D": "多巴胺（dopamine）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 降鈣素基因相關胜肽 (calcitonin gene-related peptide, CGRP) 是一種神經發炎物質，三叉神經的 C-fiber 在受到刺激時會由神經末梢釋放 CGRP，促進血管擴張同時活化 A δ -fiber 將刺激傳回中樞產生疼痛感，由於偏頭痛發作時觀測到腦血管的 CGRP 濃度會上升，且可在治療後降為正常，最新偏頭痛的藥物就是以 CGRP 作為治療標的：CGRP 單株抗體 (e.g. Galcanezumab)、CGRP 受體拮抗劑 (-gepant)\n\n(B) 血清素作用在 5-HT1B 受體可調節血管收縮；作用在 5-HT1D/1F 受體則可抑制神經元衝動的傳導，相對 CGRP 反而具有抑制偏頭痛的作用\n\n(C) 乙醯膽鹼雖然與偏頭痛相關的證據較少，但確實有動物實驗發現乙醯膽鹼與副交感神經在腦膜的疼痛感受性具有重要角色，因此申覆後也給分\n\n(D) 多巴胺路徑刺激 (dopaminergic) 被證實可誘發偏頭痛，且研究證實偏頭痛患者的多巴胺受器比一般人更敏感，也更容易在發作時伴隨噁心嘔吐、低血壓、哈欠等症狀\n\n參考資料：\n1. L Edvinsson & R Uddman. (2005). Neurobiology in primary headaches. Brain research reviews, 48(3), 438-456.\n2. I Shelukhina, et al. (2017). Cholinergic nociceptive mechanisms in rat meninges and trigeminal ganglia: potential implications for migraine pain. Frontiers in Neurology, 8, 163.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-48_merged.png",
     "explanation_images": null
   },
   {
@@ -18801,8 +18801,8 @@
       "D": "55歲男性糖尿病患者血糖控制不佳，伴有酮酸中毒症"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "單純型熱痙攣的基本觀念：預後與正常人無異，無顯著不良影響，即不會提高成為癲癇 (epilepsy) 風險（文字遊戲：若說「單純型熱痙攣兒童之後仍容易（熱）痙攣 [(febrile) seizure]」，是對的，熱痙攣本身容易復發）\n\n癲癇常見誘發因素：藥物服用不規則、合併易誘發癲癇藥物、作息不規則（熬夜、睡眠不足）、酒精、壓力、發燒 / 感冒 / 身體不適、腦病變或創傷、女性生理期、特定的誘發因素（光、聲、溫度）",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-49_merged.png",
     "explanation_images": null
   },
   {
@@ -18818,8 +18818,8 @@
       "D": "對口服藥物藥效波動大的患者，視丘下核（subthalamic nucleus）刺激術是有效的治療選擇"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "巴金森氏症的治療原則是避免早期給予大量的左旋多巴，因為過高劑量和長期 (>5 年) 的使用，患者容易出現異動症 (dyskinesia) 與藥效波動 (fluctuations)，早期應從低劑量左旋多巴或多巴胺促效劑開始，慢慢提升治療濃度，在口服藥效果不彰的情形下再考慮手術\n\n(B) 多巴胺促效劑單獨使用在年輕、早期的帕金森患者是很好的起始治療，因為其較不易導致 dyskinesia 與 fluctuations，並可以延後開始服用左旋多巴的時間，缺點是此藥效果略差於左旋多巴，在老人較會有意識混亂、幻覺的副作用\n\n(C) 常用的多巴胺促效劑：Pramipexole (D2R+D3R)、Ropinirole (D2R)、Apomorphine (D1R+D2R)\n\n(D) 對藥物波動大、效果不彰的患者可以考慮使用深層腦刺激術 (deep brain stimulation)，在視丘下核植入電極，立體定位手術的蒼白球燒灼 (pallidotomy)、丘腦燒灼 (thalamotomy) 也是外科治療選項",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-50_merged.png",
     "explanation_images": null
   },
   {
