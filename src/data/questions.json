@@ -15340,8 +15340,8 @@
       "D": "輕度非增殖性糖尿病視網膜病變（mild nonproliferative diabetic retinopathy）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "眼底鏡判讀的題目真的很難，但好在圖片中視神經盤有顯著的新生血管 (neovascularization)，一出現此特徵就表示病人已經有增值性糖尿病視網膜病變，就放心選 (A) 吧！\n\n| 糖尿病視網膜病變 | 眼底鏡特徵 |\n| :--- | :--- |\n| **mild NPDR** | 只有 microaneurysms |\n| **moderate NPDR** | microaneurysms / dot and blot hemorrhages / hard exudates / cotton-wool spots（以前叫 soft exudates）任一者以上 |\n| **severe NPDR** | 4-2-1 原則：視網膜 4 象限各有 ≥20 hemorrhages / 至少 2 象限有 venous beading / 至少 1 象限有 microvascular abnormalities |\n| **PDR** | neovascularization / vitreous or preretinal hemorrhages 任一者以上 |\n\nNPDR = 非增殖性糖尿病視網膜病變 (Non-proliferative diabetic retinopathy)\nPDR = 增殖性糖尿病視網膜病變 (Proliferative diabetic retinopathy)",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-11_merged.png",
     "explanation_images": null
   },
   {
@@ -15357,8 +15357,8 @@
       "D": "若合併不規則散光，可配戴硬式隱形眼鏡矯正"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 調節性近視（假性近視）是源於睫狀肌過度緊張、水晶體過度增厚，成像就會聚焦在視網膜前，容易發生在調節能力較強的幼童，利用「散」瞳劑可幫助改善；若長期無法放鬆導致睫狀肌失去調節能力，就會演變為真性近視，「縮」瞳劑主要用於青光眼降眼壓\n(C) 近視雷射可藉由改變角膜和晶體的曲度和折射能力，改變晶體的屈光度，以此治療近視\n(D) 不規則散光沒有互相垂直的主軸，多源自角膜受傷或潰瘍，致使角膜凹凸不平，硬式隱形眼鏡（如 RGP）和鞏膜鏡 (scleral lens) 可矯正不規則散光，眼鏡與一般軟式隱形眼鏡則只能矯正規則散光",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-12_merged.png",
     "explanation_images": null
   },
   {
@@ -15374,8 +15374,8 @@
       "D": "長期配戴隱形眼鏡"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "非常冷門的考題，輪部 (limbus) 位在角膜與結膜的交界處，limbus 上有角膜幹細胞可以不斷產生新的角膜上皮，LSCD 就是這群角膜幹細胞被破壞，取而代之的，結膜上皮會開始增生並覆蓋原本的角膜，症狀上會導致視力減退甚至失明\n\nLSCD 治療會依據病因因而有不同方式，大部分是減少角膜受到的刺激（如減少乾眼、不要戴隱形眼鏡等），手術也是治療選擇之一，包含清創（移除增生的結膜上皮）、移植 limbus 等\n\n筆者猜測 (B) 選項是為了誘答，根據文獻，乾眼可能惡化 LSCD 但並非造成 LSCD 的直接病因\n\n以下將參考文獻提到的病因表格整理並放上給大家參考：\n| 分類 | limbal stem cell deficiency 病因 |\n| :--- | :--- |\n| **先天性** | • 虹膜缺損 (aniridia)<br>• 先天性角化不全 (dyskeratosis congineta)<br>• 外胚層增生不良 (ectodermal dysplasia)<br>• 多重內分泌激素不足導致的角膜炎 |\n| **後天性** | • 化學藥物或熱傷害 → (A)<br>• SJS / TEN → (C)<br>• 粘膜性天皰瘡 (mucous membrane pemphigoid)<br>• 影響到 limbus 的手術、創傷、感染、放射治療或慢性發炎<br>• 配戴隱形眼鏡 → (D)<br>• 角膜水疱樣病變 (bullous keratopathy)<br>• 化療藥中的抗代謝劑：如 5-FU、Mitomycin C |\n\n參考資料：K Sejpal, P Bakhtiari & SX Deng. (2013), Presentation, diagnosis and management of limbal stem cell deficiency. Middle East African journal of ophthalmology, 20(1), 5.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-13_merged.png",
     "explanation_images": null
   },
   {
@@ -15391,8 +15391,8 @@
       "D": "睫狀體（ciliary body）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "隅角鏡檢查可辨別開放性或閉鎖性青光眼，並依據前房隅角角度以 Shaffer system 分級（角度不用記，因臨床多粗估，記可見結構的順序）：\n\n| Shaffer Grade | 隅角角度 | 描述 / 臨床意義 | 隅角鏡可見結構 |\n| :--- | :--- | :--- | :--- |\n| **4** | 35°-45° | wide open / 不可能閉鎖 | 睫狀體 (ciliary body) |\n| **3** | 20°-35° | open / 不可能閉鎖 | 鞏膜脊 (scleral spur) |\n| **2** | 10°-20° | narrow / 可能閉鎖 | 小樑 (trabeculum meshwork) |\n| **1** | < 10° | extremely narrow / 非常可能閉鎖 | 施瓦布線 (Schwalbe line) 和小樑頂端 |\n| **0** | 0° | closed / 閉鎖 | 無 |\n\n(D) 睫狀體是最後一個可見結構，看得到睫狀體的情況下不可能為隅角閉鎖性青光眼",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-14_merged.png",
     "explanation_images": null
   },
   {
@@ -15408,8 +15408,8 @@
       "D": "房水排出後，最後會由淋巴系統回收"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "眼房水生理和青光眼治療幾乎每年眼科必考，若沒時間準備眼科也務必要了解這部分\n\n(A) 房水由睫狀體 (ciliary body) 的微血管分泌，因此成分和血漿相近，但葡萄糖和大分子蛋白較血漿少，且有較高濃度的維他命 C、丙酮酸、乳酸等\n(B)(C) 正確，青光眼藥物之一的膽鹼促效劑 (cholinergic agonists，如 pilocarpine) 就是透過收縮睫狀肌，打開前房隅角促進房水從小樑網排出\n(D) 錯誤，眼房水的排出無論是小樑網路徑 (trabecular meshwork, 80%) 或是葡萄膜鞏膜路徑 (uveoscleral pathway, 20%)，最終都會進入鞏膜或結膜靜脈回到體循環，補充小知識：眼球沒有淋巴系統，眼皮才有",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-15_merged.png",
     "explanation_images": null
   },
   {
@@ -15425,8 +15425,8 @@
       "D": "眼窩尖端症候群（orbital apex syndrome）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(B) 重症肌無力會表現眼瞼下垂 (ptosis，提上眼瞼肌無力，常是雙側) 和複視 (diplopia，眼外肌無力)，不會有眼球突出 (exophthalmos)\n\n其他選項：\n(A) 急性眼窩外傷性血腫：可因血腫導致眼球凸出，壓迫眼外肌導致複視\n(C) 甲狀腺相關眼疾：甲狀腺亢進的典型症狀即是凸眼及複視\n補充：甲狀腺眼病變侵犯眼外肌比率 IR > MR > SR > LR → 容易發展成下斜視或內斜視，【112-2(六)18】考甲狀腺眼病變，詳解有完整介紹\n(D) 眼窩尖端症候群 (orbital apex syndrome)：可以因為腫瘤、外傷、發炎、感染等原因，導致眼尖處發炎壓迫到 CNII、III、IV、VI 的罕見症候群，由於眼尖處發炎水腫導致眼球突出、疼痛，加上神經壓迫會出現複視",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-16_merged.png",
     "explanation_images": null
   },
   {
@@ -15442,8 +15442,8 @@
       "D": "大腸癌"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "脈絡膜是癌症轉移至眼睛最容易發生的部位，根據一項 479 個病例的文獻統計，最常見轉移到脈絡膜的是乳癌 (53%)，第二常見則是肺癌 (20%)，第三常見才是腸胃相關的惡性腫瘤 (4%)，根據題目所述，要看的是「成人男性」，因此最常見的應為肺癌\n\n另外，乳癌轉移到脈絡膜，較會出現雙側及多發病灶；反之，肺癌較會出現單側及單一病灶\n\n參考資料：S Arepalli, S Kaliki & CL Shields. (2015), Choroidal metastases: origin, features, and therapy. Indian journal of ophthalmology, 63(2), 122.",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-17_merged.png",
     "explanation_images": null
   },
   {
@@ -15459,8 +15459,8 @@
       "D": "在一歲前進行淚管通條疏通未打開的淚管瓣膜"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "先天性淚管阻塞為新生兒鼻淚管結構發育不完全，鼻淚管末端（位於下鼻甲）的 Hasner valve 薄膜尚未打開，使新生兒出現溢淚、多黏稠分泌物 / 黃眼屎的症狀，先天性淚管阻塞多在一歲前自行緩解，處置策略依年齡有所不同\n\n(1) < 6 月：指腹淚囊按摩 (Crigler massage)，自淚囊往鼻淚管方向、上而下增加壓力幫助疏通，注意清潔與適度抗生素眼藥水，避免淚囊炎\n(2) 6 月 ~ 1 歲：保守療法無效，考慮淚囊灌洗術 (irrigation)、鼻淚管探針術 (surgical probing)，若病人無結構異常，大都能解除阻塞\n(3) > 1 歲：考慮鼻淚管氣球擴張術 (balloon dacryocystoplasty)，但若為嚴重或完全阻塞，則需手術建立排放淚水的通道，稱為淚囊鼻腔造口術 (dacryocystorhinostomy, DCR)\n\n後天性淚管阻塞多發生在中老年人，原因可能是長期發炎、外傷、腫瘤、放射線或化療藥物，治療需先找到原因，解決根本原因，並以手術打通淚管，治療選項同上",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-18_merged.png",
     "explanation_images": null
   },
   {
@@ -15476,8 +15476,8 @@
       "D": "下前庭神經位於內聽道之前下方"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "見示意圖，內聽道 (internal auditory canal) 內共有兩條腦神經通過：前上方為面神經 (CN VII)，前下方為聽神經 (cochlear nerve of CN VIII)；後上方與後下方則分別通過上 / 下前庭神經 (superior/inferior vestibular nerve of CN VIII)，對照解剖後正確答案為 (A)\n\n提供筆者自創的口訣：「____ 前七上八下；____ 後八成穩拿」，空格填考試、約會都行",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-19_merged.png",
     "explanation_images": null
   },
   {
@@ -15493,8 +15493,8 @@
       "D": "將修補的耳膜放在stapes footplate上"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "鼓室成型術可以依開刀位置分成耳後、耳前、與耳道，手術類型可分五種，其中 type 1、3、4 較常用（需熟記）：\n\n| 類別 | 耳膜連結點 | 術後的聽小骨鏈 | 使用人工聽小骨 |\n| :--- | :--- | :--- | :--- |\n| **type 1** | Malleus | 不變 (M-I-S) | x |\n| **type 2** | Incus | Malleus 及 Incus 一同貼在耳膜上 (M&I-S) | x |\n| **type 3** | Stapes | 只剩 Stapes | 可以使用 |\n| **type 4** | Stapes footplate（上半部已損壞） | 只剩 Stapes 底部 | 可以使用 |\n| **type 5** | oval window | 完全去除 | 可以使用 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-20_merged.png",
     "explanation_images": null
   },
   {
