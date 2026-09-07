@@ -16380,8 +16380,8 @@
       "D": "肝癌早期很容易就造成身體功能嚴重失能"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 腫瘤誘發的內分泌異常就是腫瘤伴生症候群 (paraneoplastic syndrome)；而腫瘤伴生神經系統異常 (paraneoplastic neurological disorders) 多與腫瘤誘發的自體抗體攻擊神經系統有關\n\n(B) 錯誤，從轉移癌症容易造成惡病體質 (cachexia) 就可以理解，目前普遍認為癌細胞可透過組織侵犯、慢性發炎、腸道菌叢失調、影響食慾等機轉，造成心肌、骨骼肌等肌肉流失而導致肌力與功能下降\n\n(C) 正確，器官系統的功能儲備能力 (organ functional reserve) 愈差的器官，罹癌後產生衰竭與失能症狀的時間就愈早\n\n(D) 肝癌早期幾乎沒有症狀，而合併症狀或肝功能異常的肝癌通常發現時已經是晚期（和胰臟癌相似，都是沉默的癌症），這也是肝硬化、B/C 型肝炎病人建議早期篩檢的原因",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-71_merged.png",
     "explanation_images": null
   },
   {
@@ -16397,8 +16397,8 @@
       "D": "磁振造影大多不適合做為篩檢工具"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "不孕症的影像檢查應優先以子宮輸卵管攝影 (HSG)、經陰道超音波 (TVS)、腹腔鏡或子宮鏡探勘為主，電腦斷層對於軟組織的解析力有限，並非適合的工具\n\n(B) 陰道超音波只能評估子宮結構，無法確認輸卵管通暢度\n\n| 評估項目 | 檢查項目 |\n| :--- | :--- |\n| **卵巢功能及庫存** | • Antral follicle count (AFC)<br>• Anti-mullerian hormone (AMH)<br>• Day3 FSH / clomiphene citrate challenge test |\n| **輸卵管通暢度** | • 子宮輸卵管攝影 (HSG)<br>• 腹腔鏡輸卵管通色素法 |\n| **子宮構造異常** | • 子宮輸卵管攝影 (HSG)<br>• 超音波<br>• 子宮鏡<br>• 腹腔鏡<br>• 核磁共振 |\n| **內膜異位或骨盆腔沾黏** | • 腹腔鏡<br>• 抗體檢查 (Chlamydia) |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-72_merged.png",
     "explanation_images": null
   },
   {
@@ -16414,8 +16414,8 @@
       "D": "chronic otitis media（COM）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "首先注意到第一張圖箭頭所指的是鼻咽的位置，分辨的方式是從鼻子的地方沿著空氣（黑色部分）往顱內看回來，可以發現箭頭所指的地方有一個 hyperintensity 的 mass，這是一張 T1+contrast，在看 tumor 的時候才會比較顯影出來，第二張圖則是 T2，可以注意到右邊（即病人左側耳朵附近，詳解附圖箭頭指的地方）原先應該是被空氣充滿的 mastoid process，現在在影像上有 hyperintensity（可以比較病人右耳附近同樣是 mastoid air 的位置），而 T2 影像 high signal 代表有水，代表內部可能有 pus，可能是 acute mastoiditis，結合這兩個資訊，最有可能是鼻咽癌以及左側急性乳突炎\n\n(A) 聽神經瘤的位置會在小腦橋腦角 (CP angle)，臨床上會影響 CN7, 8 和小腦功能（更大可連帶影響 CN5, 9），故也會有耳鳴、聽力損失等情形\n\n(B) 咽喉細菌感染一般來說不太會持續兩個月只有耳鳴現象，應該會伴隨有上呼吸道症狀且可能會有分泌物增多的表現\n\n(D) 慢性中耳炎一般會用耳鏡來診斷，這兩張影像也不太能看出耳道的位置，但 MRI 還是可能可以在耳道看到慢性中耳炎有積液",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-73_merged.png",
     "explanation_images": null
   },
   {
@@ -16431,8 +16431,8 @@
       "D": "耳下腺腺癌（adenocarcinoma）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "整理擁有資訊：無痛硬塊二年、超音波呈現一界線清楚的 hypoechoic mass、有些 heterogenic、伴隨少許 internal vascularity\n\n由刪去法解題：(A) 膿瘍會痛、病程不會兩年 (C) 血管瘤應有更多血流訊號 (D) 腺癌在耳下腺少見，2 年是否有增大不得而知，理論上應有惡性特徵如界線模糊、形狀不規則，筆者查閱文獻後發現，唾液腺腫瘤的良惡性以超音波較難區分，惡性腫瘤可以在沒有典型惡性影像特徵的狀況下表現（但如此便喪失出題用意）\n\n(B) 多形性腺瘤是耳下腺最常見的良性腫瘤，以無痛腫塊表現，維持數年幾乎不變大，超音波特徵為界線清楚、形狀規則、hypoechoic、其後方可能回音增強 [ 目前描述跟 cyst 一樣 ]，內部通常為 polycyclic or lobulated 故不一定 homogenous，並有微弱血流訊號\n\n關於唾液腺腫瘤的概論，請參考【112-1(五)17】詳解",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-74_merged.png",
     "explanation_images": null
   },
   {
@@ -16448,8 +16448,8 @@
       "D": "輸血、安排緊急剖腹手術和輸卵管切除術（laparotomy and salpingectomy）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "從題幹可判斷病人為子宮外孕 (ectopic pregnancy)，且已經出現血循不穩和疑似妊娠囊破裂，這時候穩定生命徵象與緊急輸卵管切除術是最適當且必須的處置，答案為 (D)\n\n子宮外孕的治療分成內科與外科，各自的適應症務必熟悉：\n\n| 內科治療：methotrexate (MTX) | 外科治療：輸卵管切除術 (salpingectomy) 或輸卵管造口術 (salpingostomy) - 絕對適應症 | 外科治療 - 相對適應症 |\n| :--- | :--- | :--- |\n| • 血循穩定且無破裂出血<br>• 腫塊 <3.5 cm<br>• β-hCG ≤5000 mU/ml<br>• 無胎兒心跳<br>• 無 MTX 禁忌症 | • 血循不穩定 (ex. 休克)<br>• 疑似腫塊破裂或腹膜內出血<br>• 出現胎兒心跳<br>• 有 MTX 禁忌症或使用後療效不佳<br>• 病人不配合長期追蹤 | • 腫塊 ≥3.5~4 cm<br>• 初始 β-hCG >5000~10000 mU/ml |\n| | 1. 腫塊 ≥5 cm、有破裂或大量出血時建議輸卵管切除術<br>2. 想保留生育功能者，對側輸卵管正常時可考慮輸卵管切除術；對側輸卵管有損傷時考慮輸卵管造口術<br>3. 術後都要追蹤 β-hCG 變化，可合併單次 MTX 治療 | |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-75_merged.png",
     "explanation_images": null
   },
   {
@@ -16465,8 +16465,8 @@
       "D": "propofol用於低血容性休克的病人"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(D) propofol 副作用為低血壓，用於低血容性休克的病人並不恰當\n\n(C) 較有疑慮的可能是此選項，因為會有增加腦壓的副作用，筆者認為此選項應該送分\n\n| 藥名 | 類別 | 副作用 |\n| :--- | :--- | :--- |\n| **Propofol** | induction agent | 容易低血壓，但無絕對禁忌症<br>禁用於紫質症患者，會造成紫質沉積 |\n| **Ketamine** | induction agent | 會增加血壓、心跳、及心輸出，ICP ↑<br>→不可用於頸部外傷及顱內高壓患者 |\n| **Midazolam** | induction agent | ICP ↓、呼吸抑制<br>→不可用於孕婦（會影響胎兒）、COPD 及 MG 患者 |\n| **Etomidate** | induction agent | 對於血壓、心跳、呼吸影響小<br>→建議用於外傷性休克及敗血性休克病人 |\n| **Succinylcholine** | neuromuscular blocking agent | 易造成高血鉀、惡性高熱、眼壓 /ICP ↑<br>→禁用於腎衰竭、燒燙傷、惡性高熱病史、近期中風 (<72 hr)、肌肉失養症、閉鎖性青光眼 |\n| **Rocuronium** | neuromuscular blocking agent | 需肝腎代謝 → 肝腎功能不佳者需小心使用 |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-76_merged.png",
     "explanation_images": null
   },
   {
@@ -16482,8 +16482,8 @@
       "D": "較常發生於小於10歲的小孩或大於70歲的老年人"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "| 項目 | 前鼻腔出血 | 後鼻腔出血 |\n| :--- | :--- | :--- |\n| **流行病學** | 雙峰分佈（10 歲以下、50 歲以上最多）<br>住院病人中：50 歲以下有男 > 女的趨勢（可能因為雌性激素會保護粘膜） | |\n| **成因** | • 創傷（外傷或醫源性）<br>• 乾冷季節（但也由一些文獻沒有做出顯著差異）<br>• 藥物如：抗凝血劑、抗血小板、鼻類固醇噴劑<br>• 其他疾病如：凝血異常相關疾病、鼻腔或鼻咽腫瘤 | |\n| **比例** | 占流鼻血的 90% | 占流鼻血的 10% |\n| **出血位置** | 主要是 Kiesselbach plexus：(1) anterior ethmoidal a. (2) superior labial a. 的 nasal septal branch (3) sphenopalatine a. 的 posterior septal branch | 主要是 Woodruff plexus：(1) sphenopalatine a. (2) posterior pharyngeal a. |\n| **特性** | • 單次出血量比較少<br>• 較易止血，可以先用外力壓住 septum 止血，或是用 anterior packing | • 單次出血量比較多<br>• 較難止血，可能需要 ligate sphenopalatine artery<br>• 透過鼻內視鏡才能找到出血點<br>• 通常會流到口咽，因此會看到鼻子跟嘴巴都是血的情況 |\n\n(A) 大體來說，大部分研究是支持這個敘述的，可以算正確\n\n(B) 這個敘述筆者認為有瑕疵，「前鼻腔出血較後鼻腔多」如果是指「發生率」那這個選項是對的，但是如果是指「單一次的出血量」，那通常是後鼻腔出血比較多囉\n\n(C) 如果要選一個最錯誤的選項還是要選這個！前鼻腔出血主因為 Kiesselbach plexus，雖然有 sphenopalatine a. 的分支去吻合，但是他只佔了其中一小部分，除了表格上面寫的三條動脈以外，其實還有 greater palatine a. 及 posterior ethmoidal a. 去吻合，因此選項用「常」來自 sphenopalatine a. 不完全正確\n\n(D) 這個選項比較沒有疑問，只是耳鼻喉教科書在高齡患者抓得比較廣，寫的是 50 歲以上",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-77_merged.png",
     "explanation_images": null
   },
   {
@@ -16499,8 +16499,8 @@
       "D": "可以執行腹腔鏡式子宮肌瘤切除手術改善貧血問題"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "子宮肌瘤是良性的，其治療方法多樣，(A)(B)(C)(D) 皆是選擇，因此該如何處置，要與病人充分溝通後決定，依臨床的觀點，此肌瘤已多次造成要輸血的地步，故移除肌瘤對病患的幫助應較保守治療大，又其型態屬於 FIGO type 1 (submucosal, < 50% intramural)，可用子宮鏡切除對病人傷害性最小，其他子宮肌瘤的重點，請參閱【112-1(六)48】詳解",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-78_merged.png",
     "explanation_images": null
   },
   {
@@ -16516,8 +16516,8 @@
       "D": "僅③④"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "《醫師法》第 23 條和第 72 條都有提到醫療人員不得「無故」洩漏病人病情或健康資訊，然而若資訊涉及公共安全或第三方重大權益（且保密會造成其權益損害）時，醫療人員可將資訊合法提供予適當人員，(1)、(2) 涉及的強姦、兒虐都是刑事案件且攸關人身安全，無論病人是否反對，一旦高度懷疑，醫師都有責任通報；(3)、(4) 都不符合上述條件，當然也就違反保密義務了",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-79_merged.png",
     "explanation_images": null
   },
   {
@@ -16533,8 +16533,8 @@
       "D": "因病人長期有慢性病並行動困難，應考慮不予急救"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "DNR 的生效時機為：病人罹患嚴重傷病，經醫師診斷認為不可治癒，且病程進展至死亡已屬不可避免時，可經病人或家屬同意在臨終或無生命徵象時，不施行心肺復甦術（包括插管、電擊、急救藥物等）\n\nDNR 對象為末期病人，包含癌症病人及八大非癌患者，需經二位具有相關專科醫師資格的醫師診斷，此題病患未符合以上定義，所以醫師還是要保有醫療人員的專業判斷，急救與否並不是聽從家屬指揮",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-80_merged.png",
     "explanation_images": null
   },
   {
