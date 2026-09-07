@@ -16965,8 +16965,8 @@
       "D": "手術切除後進行輔助化學治療（adjuvant chemotherapy）無確定療效，並非標準治療方式"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，BRCA2 是最常見造成胰腺癌的基因突變位置，而一些遺傳性的疾病如家族性腺瘤性息肉症 (FAP)、Peutz-Jeghers syndrome (STK11 基因突變)、遺傳性胰臟炎 (PRSS1 基因突變) 也都會造成較高罹癌風險\n\n(B) 正確，胰腺癌的危險因子除了 (A) 所提到的基因突變以外，抽菸、糖尿病、喝酒、肥胖、慢性胰臟炎等也都會提高風險\n\n(C) 正確，胰腺癌的手術就是赫赫有名的 Whipple procedure，切除範圍包含胰頭、十二指腸、總膽管遠端、近端結腸，但以下情況的胰臟癌無法手術切除：\n• 遠端轉移（肝、腹膜等）\n• 侵犯到 SMA、SMV、celiac trunk、肝門靜脈任何一處\n\n(D) 錯誤，目前 NCCN guideline 對於胰腺癌的建議是要使用 adjuvant chemotherapy，因此是標準治療\n\n其他考點：\n• 大約只有 15-20% 的胰腺癌病人有辦法手術\n• 診斷與評估胰腺癌的首選工具為 CT；而 MRI 也有無放射線的優勢，PET/CT、ERCP 則非第一線用來評估胰腺癌的影像工具；但前者可用來看有無遠端轉移；後者可以評估膽道情形或緩解黃疸",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-21_merged.png",
     "explanation_images": null
   },
   {
@@ -16982,8 +16982,8 @@
       "D": "對於肝細胞癌的治療，除了腫瘤外，也要考慮到肝臟本身的情況（如：肝硬化、病毒性肝炎）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "肝細胞癌的治療可以看【112-1(五)4】的整理，本題以選項解析為主\n\n(A) 錯誤，射頻消融術 (RFA) 和手術切除、肝臟移植均為根除性治療\n\n(B) 錯誤，從前者為緩和性治療、後者為根除性治療的差異就能知道兩者的療效絕對有差，經動脈化學栓塞的存活中位數約為 26-30 個月；開刀則可達到 >60 個月之久\n\n(C) 錯誤，併發門靜脈侵犯的肝癌已屬於 BCLC 分期的 stage C (advanced stage)，無論是開刀、栓塞或肝臟移植的療效都不佳，此時期的一線治療應為標靶治療；另外肝臟移植的篩選準則無論是 Milan criteria 或 UCSF criteria 都需要排除血管 / 肝臟外侵犯，肝臟移植可參閱【112-1(五)31】詳解\n\n(D) 正確，BCLC 分期包含腫瘤、肝功能 (Child-Pugh score) 和日常功能狀態 (performance status) 三種面向，不同分期對應的治療首選也會不同",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-22_merged.png",
     "explanation_images": null
   },
   {
@@ -16999,8 +16999,8 @@
       "D": "食道靜脈曲張（esophageal varices）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "送分題，常見肝硬化的併發症：腹水、食道靜脈曲張【112-2(三)20】、肝腦病變、自發性細菌性腹膜炎 (spontaneous bacterial peritonitis)【112-1(三)18】、肝腎症候群 (hepatorenal syndrome)，也包括影響到其他器官系統如肝肺症候群 (hepatopulmonary syndrome)、肝硬化心肌病變 (cirrhotic cardiomyopathy)、凝血功能異常等\n\n(C) 局部結節性增生是肝臟第二常見的良性腫瘤，目前認為與動脈異常 (arterial malformation) 有關，其導致肝血流增加或減少，皆可使肝細胞增生，特定的血管異常疾病如遺傳性出血性血管擴張症 (hereditary hemorrhagic telangiectasia, HHT)，又名 Osler-Weber-Rendu syndrome 有較高肝臟局部結節性增生的發生率，其病灶會於 CT arterial phase 上呈現亮但結節中央暗的 'central scar'，又稱為 'spoke-wheel sign'",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-23_merged.png",
     "explanation_images": null
   },
   {
@@ -17016,8 +17016,8 @@
       "D": "轉介照會腎臟科醫師做進一步處置"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "一般需在危及生命（高血鉀、酸血症、肺水腫或出現尿毒症症狀）或是無症狀但 eGFR<10（健保給付 eGFR<5）的情況下，才需開始透析治療，提早在 eGFR 在 10-15 的病人開始洗腎對於日後的存活率並無助益（早期會有研究做出 GFR 5-15 就去洗腎 (early dialysis) 的病人，相較 GFR<5 洗腎者能延長 6 個月壽命，但被發現是統計學上的 lead-time bias，有興趣的同學可去探究）\n\n(A) 可參考【112-1(三)29】，適當的維持腎性貧血患者 Hb>10 是有幫助的\n\n(B) 根據隨機分派試驗，在慢性腎臟病患者（第三期以上），嚴格的血壓控制在 <130/80 mmHg 能有效降低 all-cause mortality",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-24_merged.png",
     "explanation_images": null
   },
   {
@@ -17033,8 +17033,8 @@
       "D": "mycophenolate mofetil"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "以下整理常見免疫抑制藥物的副作用：（三高指高血糖、高血壓、高血脂）\n\n| 藥物 | 副作用 |\n| :--- | :--- |\n| **Calcineurin inhibitors (Cyclosporine)** | 三高、腎毒性、毛髮 / 牙齦增生 |\n| **Calcineurin inhibitors (Tacrolimus)** | 三高、腎毒性、神經毒性、掉髮 |\n| **Sirolimus** | 三高 |\n| **Cyclophosphamide** | 骨髓抑制、掉髮、出血性膀胱炎、心 / 肺纖維化 |\n| **Azathioprine** | 骨髓抑制、肝毒性 |\n| **Mycophenolate mofetil** | 骨髓抑制（相對輕微）、肝毒性、神經毒性 |\n| **Corticosteroid** | 三高、骨質疏鬆、毛髮增生、腎上腺功能低下 |\n\n這題麻煩在於 cyclosporine、sirolimus、tacrolimus 都會造成血糖上升，但多數文獻均指出，同樣為 calcineurin inhibitor，tacrolimus 的移植後糖尿病發生率比 cyclosporine 更高，另外 sirolimus 跟 calcineurin inhibitors 比起來，移植後糖尿病的效應沒那麼強，也有文獻指出因為 calcineurin inhibitor 導致糖尿病者，改使用 sirolimus 反而有助於血糖控制\n\n參考資料：\n1. V Shivaswamy, B Boerner & J Larsen. (2016). Post-transplant diabetes mellitus: causes, treatment, and impact on outcomes. Endocrine reviews, 37(1), 37-61.\n2. KM Wissing, et al. (2018). Prospective randomized study of conversion from tacrolimus to cyclosporine A to improve glucose metabolism in patients with posttransplant diabetes mellitus after renal transplantation. American Journal of Transplantation, 18(7): 1726-1734.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-25_merged.png",
     "explanation_images": null
   },
   {
@@ -17050,8 +17050,8 @@
       "D": "Balkan endemic nephropathy"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "這題考得很細，慢性腎小管間質性病變 [chronic tubulointerstitial disorders，又稱慢性間質性腎炎 (CIN)] 的病因絕大部分和長期物質暴露有關，選項中的 Chinese herbal nephropathy 和 Balkan endemic nephropathy 皆為馬兜鈴酸 (aristolochic acid) 造成，透過誘發 DNA 的鹼基轉位 (A : T → T : A) 導致泌尿上皮壞死、異常化生甚至癌化；Karyomegalic interstitial nephritis 較少見，與 DNA 修復基因 FAN1 的突變相關，本題答案的 (A) Mesoamerican nephropathy 發生在中美洲的蔗農族群，與 Sri Lankan nephropathy、Uddanam（南印度地名）nephropathy 為新興的地緣性慢性腎病，致病機轉尚未明瞭，但推測與農業工作的熱暴露、缺水、農藥 / 殺蟲劑暴露等環境因子相關",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-26_merged.png",
     "explanation_images": null
   },
   {
@@ -17067,8 +17067,8 @@
       "D": "統合分析結果顯示體外震波（extracorporeal shock wave）是輸尿管結石的治療首選"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 靜脈注射的 NSAID 在緩解腎絞痛扮演重要角色，緩解疼痛效果可能更甚類鴉片藥物，且副作用與耐受性比類鴉片藥物低\n\n(B) 低尿量（主因為體液過少）是腎結石的危險因子，體液輸注常是臨床第一線常用的輔助處置；thiazide 有助預防腎鈣結石（不論磷酸鈣或草酸鈣結石）的復發，亦是 AUA guideline 建議的，但筆者認為 (B) 敘述無誤在於，上述兩項處置對「讓已形成的結石排出」沒有幫助\n\n(C) 內科排出療法 (medical expulsive therapy) 較有證據的兩種藥物為 alpha-blocker（如 tamsulosin）和 CCB（如 nifedipine），適用 0.5 - 1 cm 的結石，且這兩種藥都能放鬆平滑肌，故也能降低輸尿管痙攣造成的疼痛\n\n(D) 比起體外震波碎石 (ESW)，輸尿管鏡取石 (ureteroscopy, URS) 有顯著更高的 stone-free rate (90% vs. 72%)，後續處置更少，缺點是併發症風險較高，2016 AUA guideline 建議 >1 cm 的「輸尿管結石」，輸尿管鏡取石為第一線治療（體外震波碎石適用於 <1 cm 輸尿管結石、<2 cm 腎結石；>2 cm 腎結石則採用經皮穿刺腎造口碎石）\n\n參考資料：A Holdgate & T Pollock. (2004). Systematic review of the relative efficacy of non-steroidal anti-inflammatory drugs and opioids in the treatment of acute renal colic. BMJ, 328(7453), 1401.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-27_merged.png",
     "explanation_images": null
   },
   {
@@ -17084,8 +17084,8 @@
       "D": "建議病人限制低鹽（＜5 g/day）飲食"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 錯誤，在年輕（18-50 歲）、腎功能佳 (eGFR>60) 的患者，嚴格的血壓控制在 110/75 mmHg 以下才對預後有幫助，若以進展到慢性腎臟病，則控制目標則與其他 CKD 患者相同 (<135/85 mmHg)\n\n(B) 正確，由於這類病人很難區分腎盂腎炎及囊泡感染，此外，很難對囊泡進行引流的感染控制，因此 lipid-soluble antibiotics 可以在囊泡內有較高的治療濃度，治療時間也需要拉長至四週以上\n\n(C) 正確，Tolvaptan 可以降低細胞內 cAMP 濃度、控制囊泡大小，在 rapid progression ADPKD 應馬上開始使用，越早開始使用預後越佳\n\n(D) 正確，限制鹽分攝取對囊泡的生長控制很重要，每日應控制在 2.3-3 g，此外還須增加水分攝取，目標使尿液滲透壓在 280 mOsm/kg 以下",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-28_merged.png",
     "explanation_images": null
   },
   {
@@ -17101,8 +17101,8 @@
       "D": "糖尿病視網膜病變和病理上的Kimmelstiel-Wilson nodules有很強的相關性"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，糖尿病是造成 CKD 的最主要原因 (~50%)，【112-1(三)27】也考相同觀念\n\n(B) 錯誤，基本上糖尿病有腎病變的患者高達 30-50%\n\n(C) 正確，除了選項中提到 RAAS 系統相關的基因表現異常是風險因子外，還有罹患糖尿病的時間、HbA1c、抽菸、BMI、年齡等\n\n(D) 正確，糖尿病腎病變一般可以分成四期：\n\n| 分期 | 組織病理特徵 |\n| :--- | :--- |\n| **第一期** | glomerular basement membrane thickening |\n| **第二期** | mesangial expansion |\n| **第三期** | nodular sclerosis (Kimmelstiel-Wilson lesion)<br><50% global glomerulosclerosis |\n| **第四期** | glomerulosclerosis (>50% global glomerulosclerosis) |\n\nKimmelstiel-Wilson nodules 是 mesangial cell 被破壞而沉澱形成的病理組織，其中有 K-W nodules 的病人在統計上會有更嚴重的糖尿病視網膜病變",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-29_merged.png",
     "explanation_images": null
   },
   {
@@ -17118,8 +17118,8 @@
       "D": "Fgf8"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "很艱深又不臨床的題目…… 但 Harrison Ch.309 真的有寫腎臟發育的基因調控，腎元起源於中胚層間質細胞，被輸尿管芽 (ureteric bud，日後形成集尿管、腎盂和輸尿管) 誘發後開始聚合、改變構型，其中聚合階段稱為前腎小管聚合期 (pretubular aggregation)，參與調控的基因包含 Wnt4、Emx2、Fgf8、Brn1、Dll1 等；至於 VEGF-A/Kdr 則是調控初始腎元彎曲成 S-shape，VEGF-A 還會促進 capillary penetration、endothelial fenestration 形成腎絲球\n\n基因調控的細節太繁瑣便不多述，筆者建議這題當延伸閱讀就好，有興趣再去研究",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-30_merged.png",
     "explanation_images": null
   },
   {
