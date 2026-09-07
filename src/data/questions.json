@@ -17985,8 +17985,8 @@
       "D": "50%原發性HHV-6B感染的兒童，發燒時間可持續6天或更長時間"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "嬰兒玫瑰疹的病原為人類皰疹病毒第六型 (HHV-6) 和第七型 (HHV-7)，其中 HHV-6 又分 HHV-6A 和 HHV-6B，多數嬰兒感染的病株皆是 HHV-6B，幾乎所有嬰兒在母體抗體消失後便會感染 HHV-6B 病毒，這也說明玫瑰疹好發於 6-24 個月大嬰兒，高峰在母體抗體剛消失的 6-9 個月大時，感染病毒而發病的嬰兒會有 3-5 天可達 40°C 的持續高燒，退燒的 24 小時內，全身出現無痛癢、細小淡粉紅的斑丘疹 (maculopapular rash)，1-3 天內自行消失，玫瑰疹靠飛沫傳染，嬰兒高燒與發疹期間應避免外出，感染後的 HHV-6B 會終生潛伏，但由於會產生抗體，一生僅會得到一次（免疫功能低下者除外）\n\n其他考點：玫瑰疹約 2/3 的嬰兒會在懸壅垂、舌顎交界處看到小紅斑或出血點，稱作 Nagayama spots",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-1_merged.png",
     "explanation_images": null
   },
   {
@@ -18002,8 +18002,8 @@
       "D": "此月齡平均體重為8公斤，應積極衛教家屬多增加純配方奶哺餵以達成長所需"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "根據生長曲線做答：\n(A) 落在第 15 百分位不等於是異常值，生長曲線只能抓出極端值，因此落在第 5-95 百分位都算是正常的範圍\n(B) 體重排在後第 15 位\n(C) 生長曲線走勢突然有大變動時，要懷疑是否有疾病影響生長，需立即重新評估\n(D) 月齡平均體重為 8 公斤是正常的範圍（第 50 百分位），無須刻意調整營養配方",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-2_merged.png",
     "explanation_images": null
   },
   {
@@ -18019,8 +18019,8 @@
       "D": "胃扭轉（gastric volvulus）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "題目敘述符合胃從左側橫膈膜缺口導致的疝氣，由於胃往上頂而腹部變扁平，進而導致左肺被壓縮無法順利膨脹的呼吸窘迫及心臟被往右擠而導致 PMI 跑到右側\n\n先天性橫膈膜疝氣成因為橫膈膜發育異常而有缺口導致，最常見的缺口位置在左後側導致的 Bochdalek hernia，而右後側的 Bochdalek hernia 相對少見，另一部分會發生在橫膈膜前側，稱為 Morgagni hernia\n\n(B) 食道閉鎖有五種 type，其中有四種會有氣管食道瘻管，剩下一種是食道少了中間一段，且上下兩端變成盲端，臨床症狀有出生時易流口水、餵食時有發紺、嘔吐現象，可以透過影像或是 NG tube 無法順利到達胃部當作診斷，因此不太會出生時就有呼吸窘迫，也不太會有腹部扁平的表現，但是食道閉鎖常合併 VACTERL 的其他症狀一起表現，考試很愛考，務必記起來！\nV：Vertebral anomaly、A：Anal atresia、C：Cardiovascular anomaly、T：Tracheoesophageal fistula、E：Esophageal atresia、R：Renal anomaly、L：Limb defect\n\n(C) 後鼻孔閉鎖是後鼻孔的位置在發育時有骨頭或是軟組織覆蓋，比較多是單側的 (60%)，而雙側閉鎖會造成鼻子吸不到氣的情況，但是仍可以透過嘴巴呼吸，因此會有餵奶時發紺的現象以及哭鬧時發紺減少等症狀\n\n(D) 胃扭轉定義為胃沿著 longitudinal 或是 transverse axis 繞超過 180 度的角度，可以發生在幼兒與成人，大部分會發生的原因和胃、脾、橫膈膜較異常的解剖構造有關，臨床症狀包括急性上腹疼痛、嘔吐但吐不出東西、NG 管無法順利放到胃部",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-3_merged.png",
     "explanation_images": null
   },
   {
@@ -18036,8 +18036,8 @@
       "D": "成因為surfactant deficiency，導致肺泡塌陷，無法維持適當功能肺餘容積"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "呼吸窘迫症候群無論在新生兒或成人都是非常危險的急重症，不會是 2、3 天內就能恢復這麼輕微，(A) 選項直觀來看並不適當\n\n| 呼吸窘迫症候群 (respiratory distress syndrome, RDS，也作 hyaline membrane disease) | |\n| :--- | :--- |\n| **風險因子** | 由於肺泡發育約在妊娠 34~36 周後才完成，因此 <36 周早產的嬰兒是 RDS 最主要的風險因子（愈早產風險愈高）；其他因子包含母親有 RDS 嬰兒史、妊娠糖尿病、低體溫、缺氧、剖腹產等 |\n| **病生理** | 肺泡表面張力素缺乏 (surfactant deficiency) 造成肺泡塌陷與呼吸衰竭 |\n| **病程** | 症狀通常在出生後的數分鐘至小時內發生，但並非一出生就是最嚴重狀態，而是在 24-72 小時內達到高峰期；恢復時間則相對緩慢，且會根據血氧濃度、呼吸器仰賴程度等因素而不同 |\n| **診斷** | 主要靠症狀（淺快呼吸、胸廓起伏異常、發紺等）、血氧濃度與影像合併診斷，其中 X 光影像的典型表現包含 low lung volumes、diffuse reticulogranular pattern（雙側毛玻璃狀模糊的肺葉）、air bronchograms 等 |\n| **治療** | • 呼吸治療：目標為 permissive hypercapnia (>60-70 mmHg) 及 avoidance of hyperoxia (91-95%)，維持適當通氣避免肺泡塌陷，建議 RDS 的新生兒應儘早使用正壓呼吸器（如 nCPAP、NIPPV 等），嚴重呼吸衰竭時則考慮插管<br>• 表面張力素替代治療 (surfactant replacement therapy)：氣管內管給藥，適用於無法用 CPAP 的新生兒，且須留意暫時性缺氧、管路阻塞等風險<br>• 類固醇、吸入性一氧化氮：目前無證實對 RDS 的預後有益 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-4_merged.png",
     "explanation_images": null
   },
   {
@@ -18053,8 +18053,8 @@
       "D": "足月兒的NEC常有次發之前置因子，如先天性心臟病等"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "早產為壞死性腸炎最重要的風險因子（90% NEC 嬰兒為早產兒），同時妊娠週數愈低和出生體重愈低會有更高的發生率和死亡率，這與腸道結構與免疫功能尚未健全、腸道菌叢失衡有關，足月兒很少患有 NEC，多數是其他疾病次發導致，Nelson 列舉包含出生過程窒息、唐氏症、先天性心臟病、先天性巨結腸症、腹裂等，營養方面，母乳哺餵相較配方乳哺餵是 NEC 的保護因子\n\n整理關於哺餵母乳與疾病的益處：\n(1) 寶寶：降低 NEC、發炎性腸道疾病 (IBD)、第一型糖尿病、乳糜瀉（麩質不耐 celiac disease）風險、提供對各式感染症的保護（呼吸道、中耳炎、腸胃道、泌尿道）、預防過敏\n(2) 媽媽：降低乳癌、卵巢癌、子宮內膜癌、骨質疏鬆風險",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-5_merged.png",
     "explanation_images": null
   },
   {
@@ -18070,8 +18070,8 @@
       "D": "輕壓頸靜脈（jugular vein）可使心雜音變小聲"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "功能性心雜音主要是源於心臟內不正常的渦流，但心臟結構並無問題，可以記得特徵有以下七項 (the seven S's)：\n1. Soft (low to medium amplitude)\n2. Systolic murmur\n3. Short duration\n4. S1、S2 normal\n5. Symptomless\n6. Special test normal (Xray, ECG)\n7. Sitting/standing（依姿勢改變）\n\n依照以上敘述，(B) 功能性心雜音不可能是全收縮期的雜音；(D) 在降低靜脈回流血的情況下（如輕壓頸靜脈、吐氣時），能使心臟內血流量減少、不正常的渦流降低",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-6_merged.png",
     "explanation_images": null
   },
   {
@@ -18087,8 +18087,8 @@
       "D": "rheumatic fever"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "看到高燒五天、卡介苗處紅腫就要反射性想到 Kawasaki disease，是熱門國考題之一，可搭配【112-1(四)28】！\n\n| 川崎氏症 (Kawasaki Disease) | |\n| :--- | :--- |\n| **流行病學** | 是一種血管炎，幾乎 100% 都出現在小孩，目前病理機轉不明，但是推測和病原造成的感染有關，而顧名思義，亞裔人種的罹患率最高 |\n| **診斷標準** | (1) 1 個嘴巴：草莓舌、唇裂開<br>(2) 2 個眼睛：non-exudative 的結膜炎<br>(3) 3 指摸頸部淋巴：>1.5 cm，通常會硬與痛<br>(4) 4 掌：手掌、腳掌紅腫<br>(5) 5 體：從軀幹開始的多形性疹子，逐漸散到肢體<br><br>發燒 5 天以上 + 以上任四項（可以用 12345 來記）<br># 只符合三項但有冠狀動脈異常者可以診斷非典型 Kawasaki disease |\n| **臨床表現** | 除了診斷標準的症狀外，以下也對 Kawasaki disease 相當 specific：(1) BCG 注射處紅腫 (2) 膽囊積水 (3) 指尖脫皮 |\n| **治療** | IVIG、高劑量 aspirin，若發燒持續可搭配類固醇脈衝療法 |\n\n(B) 選項的咽結膜熱主要由 adenovirus 感染引起（尤其第三、七型），症狀有高燒、咽喉疼痛、單或雙側的結膜炎、淋巴結腫大，和 Kawasaki disease 的主要差別在於咽喉疼痛，而咽結膜熱的結膜炎會常常有水狀分泌物，Kawasaki 則比較不會有 discharge，另外補充，如果是眼屎比較多的結膜炎比較像是細菌感染導致\n(C) Sepsis 的定義要根據 SOFA score 去評估，大部分都是一些 end-organ failure 的徵象，包含呼吸衰竭、尿量減少、黃疸、意識不清等等，而題幹敘述的症狀不符合 end-organ damage 的徵象，即便是發燒，也只滿足 qSOFA 其中一分而已，不能直接診斷為 sepsis\n(D) Rheumatic fever 是由 group A streptococcus 感染引起，症狀包含發燒、關節疼痛、心肌炎、Sydenham's 舞蹈症、皮下結節等",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-7_merged.png",
     "explanation_images": null
   },
   {
@@ -18104,8 +18104,8 @@
       "D": "動脈幹異常（truncus arteriosus）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "本題的關鍵字在於肺部充血 (pulmonary overcirculation) 而非發紺，肺部充血可以想成肺部血流增加 (increased pulmonary blood flow)，只要找出不會造成肺部血流增加的先天性心臟病就可以作答了\n\n| 先天性心臟病 | 肺部血流增加 | 肺部血流不增加 |\n| :--- | :--- | :--- |\n| **無發紺型 (acyanotic CHD)** | 心房中膈缺損 (ASD)<br>心室中膈缺損 (VSD)<br>開放性動脈導管 (PDA)<br>部分肺靜脈回流異常 (PAPVR) | 主動脈縮窄 (CoA)<br>主動脈瓣狹窄 (AS)<br>肺動脈瓣狹窄 (PS) |\n| **發紺型 (cyanotic CHD)** | 大血管轉位 (TGA)<br>全靜脈回流異常 (TAPVR)<br>動脈幹異常 (truncus arteriosus)<br>左心發育不全 (hypoplastic left heart) | 法洛氏四合症 (ToF)<br>肺動脈瓣閉鎖 (PA)<br>三尖瓣閉鎖 (TA) |\n\n重點整理：\n1. left-to-right shunt 的 acyanotic CHD → 肺部血流增加\n2. 無肺動脈阻塞的 cyanotic CHD → 肺部血流增加\n3. 有肺動脈阻塞的 cyanotic CHD → 肺部血流減少\n\n本題原先的答案為 (C)，但因為題幹症狀有發紺，因此屬於 acyanotic CHD 的 (A) 心室中膈缺損在申覆後也同樣給分，不過要注意的是：嚴重的心室中膈缺損也會出現發紺（長期 left-to-right shunt 造成肺高壓，最後反轉成 right-to-left shunt，即所謂的 Eisenmenger syndrome），在合併肺部充血的發紺下還是需要考慮此鑑別診斷",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-8_merged.png",
     "explanation_images": null
   },
   {
@@ -18121,8 +18121,8 @@
       "D": "膽道閉鎖（biliary atresia）手術的黃金時間為8週大以前"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "4 週大才有黃疸、直接型、灰白便皆暗示嬰兒可能有膽道閉鎖 (BA)，膽道閉鎖診斷方法如下：\n\n| 方法 | BA 發現 | 備註（BA 的重要鑑別診斷為新生兒肝炎 idiopathic neonatal hepatitis） |\n| :--- | :--- | :--- |\n| **糞便顏色** | 灰白、無色便 | 若持續有 pigmented stool，則不傾向 BA 的診斷 |\n| **肝臟觸診** | 肝腫大 | 肝腫大較少出現在新生兒肝炎 |\n| **超音波** | gallbladder 'ghost' triad | 包含三項，總結為 BA 嬰兒的膽囊太小、不易找到，如同鬼魅 |\n| **胃鏡抽液** | 十二指腸液無膽汁 | 若抽液有膽汁，則不傾向 BA 的診斷 |\n| **MRCP** | | 少用 |\n| **核醫肝膽道閃爍攝影 (hepatobiliary scintigraphy)** | 肝細胞可吸收但無法排除帶有 Tc99m 之物質 | (1) 敏感度高、但特異度低，檢查前 5 天會給予嬰兒口服 phenobarbital，以促進膽汁的排除，提高檢查專一性<br>(2) 若可見到腸道顯影，則排除 BA 的診斷 |\n| **肝臟切片** | 肝內膽管增生、膽汁栓塞、portal 與肝小葉周圍 (perilobular) 水腫或纖維化、但肝小節結構基本正常 | (1) BA 的確定診斷<br>(2) 若肝小葉結構扭曲、廣泛地浸潤發炎細胞則傾向新生兒肝炎 |\n\n有懷疑 BA 的嬰兒都必須接受剖腹探查 (exploratory laparotomy) 和術中直接膽道攝影 (intraoperative cholangiography)，以確認閉鎖的位置，若僅部份膽汁淤積、或非真正膽道閉鎖（如膽道較細），則不用接受葛西氏手術\n\n葛西式手術 (Kasai procedure) 為肝門與空腸吻合，出生前 8 週做有 90% 成功率，及早診斷、及早治療是 BA 治療的要務，術後肝組織若微觀下可見膽道直徑 >150 μm，則膽道順暢機會高，若無，則根本處置是肝臟移植（膽道閉鎖是兒童進行肝臟移植最常見之適應症）",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-9_merged.png",
     "explanation_images": null
   },
   {
@@ -18138,8 +18138,8 @@
       "D": "支持性療法包括吃流質食物、抑酸劑等"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "配合題幹敘述，治療青春痘藥物以及吞嚥疼痛，可以推論是藥物導致的食道炎，最常見即為 doxycyline（tetracycline 類藥物），加上病人沒有配合足夠飲水，或是維持臥躺的姿勢，均會讓藥物在食道逗留時間增長，doxycycline 溶解時會產生酸性環境腐蝕食道黏膜，至於治療方式與一般食道炎相同，以支持性療法為主\n\n(C) 內視鏡看到的會是對稱性潰瘍（mirror-image 或 kissing ulcers），同學可以想像潰瘍的位置應是與藥物接觸的黏膜處，即膠囊的兩側",
+    "explanation_image": "/explanations/cropped/112-2-醫學(四)-10_merged.png",
     "explanation_images": null
   },
   {
