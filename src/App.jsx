@@ -1122,9 +1122,10 @@ function App() {
                     {isAnswerCorrect(q, userSelected) ? '答對了！' : '答錯了！'} 正確答案：{q.answer.replace('ALL', '一律給分')}
                   </span>
                 </div>
-                {q.note ? (
+                {q.note && (
                   <div className="explanation-text" style={{ color: 'var(--warning)', fontWeight: 600 }}>備註：{q.note}</div>
-                ) : (
+                )}
+                {!q.note && !q.explanation && !q.explanation_image && !q.explanation_images && (
                   <div className="explanation-text" style={{ color: 'var(--text-secondary)' }}>此題目前尚無詳細解析對照，請溫習相關臨床講義</div>
                 )}
                 <BookExplanation q={q} />
