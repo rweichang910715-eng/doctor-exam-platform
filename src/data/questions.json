@@ -16190,9 +16190,11 @@
       "D": "隱神經（saphenous nerve）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "一階國考就會考的東西，二階其實還是有不少題目會用到！看到關鍵字「足部下垂 (foot drop)」其實就是無法做到 dorsiflexion，要想到是支配 tibialis anterior muscle 的腓神經受損\n\n另外，(D) 選項的 saphenous nerve 沒有支配肌肉，是負責小腿與足部內側感覺\n\n| 神經 | 主要支配肌肉 | 受損影響的動作 |\n| :--- | :--- | :--- |\n| **peroneal nerve** | tibialis anterior<br>peroneus longus & brevis & tertius<br>extensor digitorum longus<br>extensor hallucis longus | dorsiflexion<br>eversion |\n| | biceps femoris (longus) | hip extension<br>knee flexion |\n| **tibial nerve** | tibialis posterior<br>calf muscles (gastrocnemius, plantaris, soleus)<br>popliteus<br>flexor digitorum longus<br>flexor hallucis longus | plantarflexion<br>inversion |\n| | semitendinosus<br>semimembranosus | hip extension<br>knee flexion |\n| **femoral nerve** | quadriceps femoris<br>sartorius<br>iliacus | hip flexion<br>knee extension |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-61_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(六)-61_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-62",
@@ -16207,9 +16209,11 @@
       "D": "上肢多發性骨性關節炎，以大拇指之腕掌關節最會造成疼痛及影響手功能"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "退化性關節炎其實就是骨關節炎 (osteoarthritis)，病生理為關節軟骨耗損，造成 X 光影像下關節腔狹窄 (joint space narrowing)、骨頭與骨頭摩擦形成骨刺 (osteophyte)、軟骨下硬化 (subchondral sclerosis)、軟骨下囊腫 (subchondral cyst)，成因包括自然老化、過度使用 / 不當負重（包含肥胖、特定職業）、外傷、基因等，好發於下肢負重關節，分布多不對稱，其中以膝最常見，髖、手部、脊椎也是好發位置\n\n手部的骨關節炎好發於（依序）遠端指間關節（DIP joint，嚴重外觀呈現 Heberden's node）、近端指間關節（PIP joint，嚴重外觀呈現 Bouchard's node）、拇指腕掌關節 (1st MCP joint)，(D) 依盛行率而言，拇指腕掌關節低於 DIP 和 PIP joints，不過以拇指的角色來看，其功能影響或許甚於指間關節",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-62_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(六)-62_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-63",
@@ -16224,9 +16228,11 @@
       "D": "骨鬆性骨折因病人對跌倒採用不同的防禦機轉而有不同的好發位置，常見部位為髖部（近端股骨）、脊椎及手腕"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 選項錯的地方在於 WHO 是以 T 值 (T-score) 作為臨床診斷標準！T-score 是將 DXA 測得的骨密度與年輕女性相比，骨質疏鬆的診斷標準為：\n• 停經後女性 / >50 歲男性：T-score ≤ -2.5 SD 或 骨鬆性骨折\n• 停經前女性 / ≤ 50 歲男性：T-score ≤ -2.0 SD 和 骨鬆性骨折 / 其他風險因子\n\n其他選項均正確，補充一下 Z-score 為與同年齡同性別的健康人相比，同樣為評估工具但不是在診斷標準，小心別搞錯了",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-63_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(六)-63_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-64",
@@ -16241,9 +16247,11 @@
       "D": "若需手術，一般建議受傷後一週內執行較適宜"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "前十字韌帶在滑液囊外，作用是防止小腿過度往前位移、防止脛骨過度內旋，由膝關節內上外處連結下外處，沒有再生能力，前十字關節損傷後以保守治療為主，以加強股四頭肌力量穩定膝關節、避免前移；進行重建手術的適應症有：年輕、高活動需求者（如運動員）、影響到日常生活、合併其他傷害（如內側副韌帶及半月板同時傷害的 unhappy triad）\n\n(C) 由於膝關節是構造複雜的硬骨、軟骨及結締組織，檢查應使用 MRI 才能精準判讀軟組織傷害，非超音波\n\n(D) 重建手術應選擇在受傷的發炎反應消退後，否則會增加術後關節沾黏的機會",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-64_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(六)-64_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-65",
@@ -16258,9 +16266,11 @@
       "D": "接受運動訓練的心臟衰竭病人，可能可以改善運動功能，也可以減少死亡或住院"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 對於心臟衰竭病人，運動強度因人而異，通常在初始階段會設定最大攝氧量的 40-50%，等到逐漸能適應，可以提升至 60-70%，直接將強度設定最大攝氧量的 80% 可能會不適合，甚至有風險\n\n(B) 錯誤，如果大部分都能提升 10% 以上，那就不需要藥物了，在一篇有 14 個 trials 的 meta-analysis 中，評估 810 位 HFrEF 病人，經過中強度運動的病人比上對照組，LVEF 進步約 3.79%\n\n(C) 錯誤，一篇有 33 個 trials 的 meta-analysis 中，評估 4740 位 LVEF<40% 的 HFrEF 病人接受運動訓練的安全性，結論是沒有嚴重的不良事件，而 ACC/AHA 也針對心衰竭病人運動訓練的安全性，給出 class I 的建議\n\n(D) 正確，對於慢性心衰竭的運動訓練有一個大型的 HF-ACTION RCT，運動組比起對照組的 all-cause mortality 與住院率有些微下降（經過共變數校正後下降 11%），另外 ACC/AHA 也對於運動訓練可以改善體能、運動時長、生活品質與死亡率，給出 class IIA 的建議\n\n其他考點：\n• 最大心率 = 220 - 年齡；儲備心率 = 最大心率 - 靜止時的心率\n• 心衰竭的運動復健一般建議進行達到 60-70% 儲備心率的有氧運動\n\n參考資料：\n1. JH Morris & L Chen. (2019). Exercise training and heart failure: a review of the literature. Cardiac failure review, 5(1), 57\n2. CM O'Connor, et al. (2009). Efficacy and safety of exercise training in patients with chronic heart failure: HF-ACTION randomized controlled trial. JAMA, 301(14): 1439-1450\n3. WJ Tucker, et al. (2019). Meta-analysis of exercise training on left ventricular ejection fraction in heart failure with reduced ejection fraction: a 10-year update. Progress in cardiovascular diseases, 62(2): 163-171",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-65_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(六)-65_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-66",
@@ -16275,9 +16285,11 @@
       "D": "Erb's palsy之後可能發生肩盂肱骨關節發育不良（glenohumeral dysplasia）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "新生兒的臂神經叢麻痺導因於陰道生產時的拉扯受傷 (traction injury)，風險因子如胎兒過重、臀位產、肩難產等，但 90% 會自行恢復，若三到六個月保守治療後沒有恢復，考慮轉介至神外治療，共有兩種，以下整理：\n\n| 分類 (比例) | 受損神經 | 神經麻痺後姿勢 | 備註 |\n| :--- | :--- | :--- | :--- |\n| **上臂型 Erb's palsy (80%)** | C5-6 | ‘waiter’s tip posture’<br>肩：內轉 (IR)、內收 (Add)<br>肘：伸直 (ext)、旋前 (pronation)<br>手腕、手指：屈曲 (flex) | 更易造成肩關節攣縮 (contracture) 與 glenohumeral dysplasia |\n| **下臂型 Klumpke's palsy (15%)** | C8-T1 | 與 Erb's 相反<br>肩：外轉 (ER)、外展 (Abd)<br>肘：屈曲 (flex)、旋後 (supination)<br>手腕：伸直 (ext)<br>因內在肌肉無力 (intrinsic minus hand)，手指無法抓握或伸直，呈 claw's hand | 可能傷及交感神經而導致 Horner's syndrome |",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-66_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(六)-66_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-67",
@@ -16292,9 +16304,11 @@
       "D": "相較於半邊麻痺型（hemiplegic type），癲癇（seizure）較常發生於雙邊麻痺型（diplegic type）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(D) 癲癇較常發生在四肢麻痺型與半邊麻痺型，腦性麻痺 (cerebral palsy) 的整理如下：\n\n| 腦性麻痺 | 好發族群 | 病理特徵 | 症狀 |\n| :--- | :--- | :--- | :--- |\n| **雙邊麻痺痙攣型 (spastic diplegia)** | 早產 | 腦室周圍白質軟化症 | 雙下肢麻痺 |\n| **四肢麻痺痙攣型 (spastic quadriplegia)** | 足月產 | 腦室周圍白質軟化症、多囊性腦軟化症 | 四肢麻痺、癲癇、智力受損、吞嚥困難 |\n| **半邊麻痺型 (hemiplegia)** | 足月產 | 局部性病灶（中風） | 半側麻痺（上肢 > 下肢）、半側感覺異常、癲癇 |\n| **徐動型 (athetoid, dyskinetic)** | 新生兒窒息、核黃疸 | 基底核 / 丘腦病變 | 肌張力異常 (dystonia) |\n\n註：上表參考 Nelson，其綜合以下二種腦性麻痺的分類：\n• 依照動作障礙的形式，分為痙攣型 (spastic)、動作不良型 (dyskinetic)、低張力型 (hypotonic)、混合型 (mixed)\n• 依照肢體受損的部位，分為 diplegia, quadriplegia, hemiplegia, monoplegia 等",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-67_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(六)-67_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-68",
@@ -16309,9 +16323,11 @@
       "D": "對於壓力的適應性變差"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "送分題，可以依照字面意思選答案，老化對身體的影響應是反應、儲備力下降，容易因為疾病或環境導致身體狀態不穩、併發症增加，因此 (C) 選項錯誤",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-68_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(六)-68_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-69",
@@ -16326,9 +16342,11 @@
       "D": "適當的運動可增加體內的腦啡、解除內心壓力、減低疼痛"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這題應該沒有唸書也可以作答～把握好送分題！\n\n(C) 錯誤，手術大部分對於患者有較多副作用，應該優先選擇非侵入性的方式為主，甚至會先以非藥物治療為主，如運動、物理治療、認知行為治療、心理治療、催眠等，沒有效果時便會考慮輔以止痛藥物控制，等到藥物與非藥物的治療效果皆有限時才會考慮手術治療\n\n(A)(B)(D) 皆正確",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-69_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(六)-69_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-70",
@@ -16343,9 +16361,11 @@
       "D": "只有復健科醫師方可進行無障礙空間的評估"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "住家環境評估的目的如 (A)(B)(C) 所述，旨在增進患者日常生活動的功能與安全性，以利其發揮最大獨立性之生活型態，評估時機為出院準備時，評估者除了復健科醫師，(D) 實務上以職能治療師為主力，其他職類如物理治療師、個案管理師也可",
+    "explanation_image": "/explanations/cropped/112-1-醫學(六)-70_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-1-醫學(六)-70_merged.png"
+    ]
   },
   {
     "id": "112-1-醫學(六)-71",
