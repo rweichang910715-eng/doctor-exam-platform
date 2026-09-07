@@ -16625,8 +16625,8 @@
       "D": "測血中鎂（magnesium）濃度"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "乍看簡單，實則有點刁鑽的題目，血鈣異常時可以從以下指標尋找病因：\n\n| 評估項目 | 機轉與臨床意義 |\n| :--- | :--- |\n| **維他命 D3 (vitamin D3)** | 活性 vitamin D3 (1,25(OH)2D) 可使腸道中鈣與磷的吸收增加，但注意評估 vitamin D3 缺乏時，要測的是 25(OH)D 濃度而不是 1,25(OH)2D！這是因為 25(OH)D 在體內含量更多且半衰期較長，因此比 1,25(OH)2D 更能夠反應 vitamin D3 功能 |\n| **副甲狀腺素 (PTH)** | 促進蝕骨細胞 resorption，且使腎臟增加鈣再吸收 + 減少磷再吸收 |\n| **降鈣素 (calcitonin)** | 抑制蝕骨細胞 resorption，且使腎臟減少鈣、磷再吸收 |\n| **磷 (phosphorus)** | 除了本身也受 PTH、calcitonin 調控外，磷可以結合鈣使血鈣濃度下降 |\n| **鎂 (magnesium)** | 鈣、鎂在腸胃道通常會一起被吸收，因此如果血鎂也低，代表背後可能有腸胃道異狀、營養不良等 |\n| **白蛋白 (albumin)** | 由於血中部分鈣離子是結合在白蛋白上運輸，因此檢驗得到的血鈣需要校正為正確的血鈣濃度，校正公式為：<br>Corrected Ca²⁺ = Measured Ca²⁺ + 0.8 × (4.0 - Albumin)<br>Ca²⁺(mg/dL)；Albumin(g/dL)，可知低白蛋白下的血鈣值會被低估 |\n\n其他考點：\n• 低血鈣的理學檢查要記得 Chvostek's sign：用手輕拍臉頰處，會有 facial muscle twitching；另外是 Trousseau's sign：量血壓時會發現手腕、MCP、拇指有無法控制的 flexion 表現",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-1_merged.png",
     "explanation_images": null
   },
   {
@@ -16642,8 +16642,8 @@
       "D": "使用β -adrenergic agonists支氣管擴張劑2"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "高血鉀是內科很常見的急症之一，務必要熟讀高血鉀的原因與處置，非類固醇抗發炎藥物 (NSAIDs) 有兩種狀況會造成高血鉀，其一是抑制前列腺素生成，間接抑制腎素 (renin) 生成最終造成醛固酮低下，其二是引發 AKI 間接造成高血鉀，因此答案為 (C)，其餘選項則恰好相反，會造成低血鉀\n\n| 高血鉀機轉 | 成因 |\n| :--- | :--- |\n| **細胞內→外轉移 (transcellular shift)** | • 酸血症<br>• 細胞破裂 (e.g. tumor lysis syndrome、橫紋肌溶解、溶血、燒燙傷、感染、大量輸血)<br>• 胰島素下降 (e.g. 糖尿病)<br>• 高血鉀週期麻痺症<br>• 藥物 (e.g. β-blocker, digoxin) |\n| **鉀離子排除減少（腎功能 GFR 低下）** | CKD、AKI |\n| **鉀離子排除減少（醛固酮低下：Renin ↓, Aldo ↓）** | • 糖尿病腎病變<br>• 腎小管 - 間質疾病 (eg. SLE、HIV 感染、鐮刀型貧血、類澱粉沉積症、尿路阻塞等)<br>• 藥物 (e.g. NSAIDs、calcineurin inhibitors) |\n| **鉀離子排除減少（醛固酮低下：Renin 正常, Aldo ↓）** | • 原發性腎上腺低下<br>• 藥物 (e.g. ACEi/ARB、heparin) |\n| **鉀離子排除減少（醛固酮低下：Renin 正常, Aldo 正常）** | • 腎小管 - 間質疾病<br>• 藥物 (e.g. spironolactone、pentamidine、amiloride、TMP-SMX、calcineurin inhibitors) |\n| **鉀離子排除減少（其他原因）** | • 心肝衰竭、脫水<br>• 輸尿管－空腸吻合術（尿液鉀被空腸吸收） |\n| **鉀離子攝取增加** | 醫源性（含鉀藥物 / 輸液過量）、攝取過多 |\n| **假性高血鉀** | 檢體溶血、止血帶綁太久等 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-2_merged.png",
     "explanation_images": null
   },
   {
@@ -16659,8 +16659,8 @@
       "D": "抽血檢驗creatinine是否上升"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "常見尿液顏色改變為橘紅色、紅色、深紅色、茶褐色，由於此題又給「有飲酒習慣」的線索，因此很容易思考至肝臟問題造成的黃疸，只要是 conjugated (direct type) hyperbilirubinemia 都有可能產生黃疸的茶色尿 (tea-colored urine)，故評估 (A)total & direct type bilirubin、(B) 鞏膜與舌下黏膜是否變黃很合理，(C) 檢驗尿液中的 urobilinogen 和 bilirubin 則也可進一步鑑別黃疸的類別，統整如下表\n\n| 情境（類別） | urine urobilinogen | urine bilirubin | 黃疸 | 茶色尿 | 灰白便 |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **正常** | + (0.2-1.0 mg/dL) | - | | | |\n| **溶血性貧血 (unconjugated hyperbilirubinemia)** | ++ | - | ✓ (indirect type) | ✗ | ✗ |\n| **肝臟疾病 (non-obstructive conjugated hyperbilirubinemia)** | ++ | + | ✓ (direct type) | ✓ | ✗ |\n| **膽管阻塞 (obstructive conjugated hyperbilirubinemia)** | - | + | ✓ (direct type) | ✓ | ✓ |\n\n註：urobilinogen 是無色的，其轉變為 urobilin 才是ㄧ般尿液偏黃的來源",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-3_merged.png",
     "explanation_images": null
   },
   {
@@ -16676,8 +16676,8 @@
       "D": "prednisolone"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "關節紅腫疼痛、關節液有強烈負雙折射性（即負偏光姓）結晶，加上服用利尿劑 (thiazide) 是發生痛風的風險因子，很明顯此時急性關節炎的診斷應為痛風 (gouty arthritis)，痛風在急性期治療應以阻止發炎、疼痛為主，因此可早期給予秋水仙素 (colchicine)、NSAIDs 或類固醇；降尿酸藥物應避免在急性期給予，因為痛風的發生通常和血中尿酸濃度沒有絕對關係，反而是尿酸濃度波動時容易誘導尿酸析出，加重關節炎症狀，因此此題之 (B)febuxostat 應等急性期過後再開始服用\n\n其他考點：\n1. 降尿酸藥物有兩種機轉：xanthine oxidase inhibitor（降低尿酸產生）及 uricosuric agent（增加尿液排出），前者包含常見的 allopurinol 及 febuxostat，須注意在 HLA B5801 的患者使用 allopurinol 易造成 Steven Johnson syndrome；後者藥物有 benzbromarone, probenecid, sulfinpyrazone",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-4_merged.png",
     "explanation_images": null
   },
   {
@@ -16693,8 +16693,8 @@
       "D": "sodium bicarbonate"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "連同上題敘述可知病人有痛風病史，再加上 X 光無法看到結石，推測最可能是尿酸形成的結石（請配合【112-1(五)64】詳解，複習常見尿路結石特性）\n\n接著要知道選項中不同藥物的作用，其中 (B) (D) 均為鹼化尿液的方式，是溶解尿酸結石的方法之一；(A)allopurinol 是痛風常見用藥，會抑制 xanthine oxidase 而減少尿酸產生，因此也適合；(C) probenecid 雖然也是痛風用藥，但它的機轉為減少尿酸在腎小管的再吸收，換言之 probenecid 會使尿中的尿酸濃度更高，反而更容易產生尿酸結石",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-5_merged.png",
     "explanation_images": null
   },
   {
@@ -16710,8 +16710,8 @@
       "D": "懷疑冠狀動脈心臟病之病人，於檢查前均應服用aspirin，但因心導管屬無菌操作，所以並不需預防性投與抗生素"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 正確，有趣的是 Harrison 21e 提到的死亡風險已下修為 0.05%，心導管術後併發症包含手術部位出血、心律不整、急性腎損傷等，其中最常見的手術部位出血發生率為 1.5-2.0%\n\n(B) 正確，嚴重類過敏反應症狀包含休克、肺水腫甚至心肺停止，有相關病史者建議在進行心導管前 >24h 接受抗組織胺與類固醇治療；非離子性 / 低張性顯影劑也有助降低過敏發生率\n\n(C) 錯誤，術前給予足夠輸液 (0.9% 生理食鹽水 1.0-1.5 ml/kg) 已證實能降低術後 AKI 風險，但術前給予 N-acetylcysteine 僅能在高風險病人降低 AKI 發生率，因此不建議常規給予\n\n(D) 正確，Harrison 建議的 aspirin 劑量為 325mg；另外有高機會合併做 PCI 者應加上抗血小板藥物 (e.g. clopidogrel, prasugrel, ticagrelor 等)，預防性抗生素並不必要",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-6_merged.png",
     "explanation_images": null
   },
   {
@@ -16727,8 +16727,8 @@
       "D": "有機硝酸鹽類（nitrate）經人體代謝後，可釋放一氧化氮（NO）與血管平滑肌adenylyl cyclase結合，造成血管擴張"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "四個選項皆在冠狀動脈心臟病的 OMT (optimal medical therapy) 用藥內容：aspirin、ACEi (or ARB)、beta-blocker (or CCB)±nitrates、statin，但除 (A) 之外的選項皆有誤\n\n(B) 無法適用 beta-blocker 的病人可選用 CCB（CCB 可改善症狀，但無法降低死亡率），唯可選用的 CCB 就是不包括 short-acting DHP-CCB（如 short-acting nifedipine），此類 CCB 容易有反應性心跳加速 (reflex tachycardia) 的副作用，可加劇心肌缺血的症狀\n\n(C) aspirin 為不可逆的血小板 COX-1 和 COX-2 抑制劑\n\n(D) nitrate 的藥理作用為：血管內皮釋放 NO → NO 與血管平滑肌的 guanylyl cyclase 結合，將 GTP 轉為 cGMP → 血管平滑肌舒張 (→ cGMP 再被 PDE5 轉為 GMP)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-7_merged.png",
     "explanation_images": null
   },
   {
@@ -16744,8 +16744,8 @@
       "D": "除了考慮乙型交感神經阻斷劑（beta blocker），鈣離子阻斷劑（calcium channel blocker）等，還要增加利尿劑的使用量，避免心臟衰竭"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 從心臟超音波可以看到左心室出口阻塞 (LVOT obstruction)（圓圈處），中膈、LV 後壁皆厚，而心電圖中有左心室肥大 (LVH)、在 lead II, III, aVF, V4-6 有 giant T-wave inversion，此為 apical HCM 的心電圖特徵，推測此病人為左心各處皆肥厚的 diffuse HCM，補充：典型 HCM，表現為中膈不對稱肥厚 (asymmetrical septal hypertrophy)，心電圖特徵除了 LVH，在側壁或下壁導極會有深且窄的 Q waves（心肌梗塞產生的 Q wave 通常較寬）\n\n(D) 錯誤，HCM 在病人有心衰竭症狀（如肺水腫）時，能適度使用利尿劑改善體液過多的情形，但在已有 LVOT 阻塞的病人要非常謹慎，因為大量的 preload 降低，會使得本來已經很少的心輸出量更低，導致心因性休克\n\n肥厚型心肌病變的治療，分為三個面向：\n1. 阻塞性 HCM，有出口阻塞症狀，引發心衰竭：第一線為藥物治療，可用 metoprolol (beta blocker)、non-DHP CCB 和 disopyramide（class Ia 抗心律不整藥）；若持續有心衰竭現象，考慮侵入性治療，包括中膈心肌切除、經皮冠狀動脈酒精心肌消融；心臟移植是最後手段\n2. 非阻塞性 HCM，併有心律不整：若有 Af，建議服用 DOAC（電燒治療通常對 HCM 病人效果差）；若有 VT，屬於高危險族群，建議植入 ICD，並採取 beta blocker+amiodarone 藥物治療，效果不佳時，考慮心臟移植\n3. 猝死預防：AHA 建議針對 sudden cardiac death (SCD) 高危險族群放置 ICD，高危險族群有其定義，簡言之包含一等親家族史、有昏厥症狀、心肌過厚、合併心室衰竭或惡性心律不整等\n\n其他考點：DHP-CCB、nitrate、直接血管擴張劑、digoxin 是 HCM 病人須避免的藥物",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-8_merged.png",
     "explanation_images": null
   },
   {
@@ -16761,8 +16761,8 @@
       "D": "ventricular tachycardia"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "心電圖首先可看到 QRS 波是窄波，代表發出的訊號不是經由心室發出，先刪掉 ventricular tachycardia；再由 RR interval 不固定這點刪掉 sinus tachycardia，剩下的兩個選項較難分辨：圖中似乎仍看得出一些不規則的 P 波，有 MAT 的可能，然而 MAT 的 baseline 波型較固定，且 P 波一般會很明顯，再加上 MAT 通常發生在嚴重的 COPD 或是心臟衰竭，一個沒有過去病史的病人突然發生 MAT 的機率其實蠻低的，因此根據這個心電圖的 irregular rhythm、baseline wandering 以及 P 波不明顯的證據，較符合 (C)atrial fibrillation 的診斷\n\n補充一下，看到 RR interval 不固定時除了常見的 atrial fibrillation (Afib) 之外，也要想到同屬 atrial tachycardia 的三個診斷：\n\n| 診斷 | 心電圖特徵 |\n| :--- | :--- |\n| **Focal atrial tachycardia (FAT)** | 心房固定一處非 SA node 的位置放電，會看到型態異常但統一的 P 波 |\n| **Multiple atrial tachycardia (MAT)** | 心房多處非 SA node 的位置放電，要有三個以上 distinct form P 波 |\n| **Atrial flutter (AF)** | 會看到鋸齒狀 P 波，依據 A-V conduction ratio 而會有不同心率 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-9_merged.png",
     "explanation_images": null
   },
   {
@@ -16778,8 +16778,8 @@
       "D": "確診的病人常合併有貧血"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 肺高壓的五大症狀：「喘咳血腫暈」，初期症狀以呼吸喘最常見，而出現咳血、水腫甚至昏厥時通常已經合併有右心衰竭，但以上症狀均無專一性，需要和其他心肺疾病鑑別\n\n(B) (C) 正確，肺高壓最重要的篩檢工具是心臟超音波；診斷工具則是右心導管，兩項檢查的重要數值簡介如下：\n\n| 檢查工具 | 數值 | 臨床意義 |\n| :--- | :--- | :--- |\n| **經胸廓心臟超音波 (TTE)** | TRV > 3.4 m/s<br>PASP > 35-40 mmHg | 高度懷疑肺高壓 → 建議右心導管 |\n| **右心導管** | mPAP > 20 mmHg<br>PVR ≥ 3.0 WU (woods unit) | 診斷肺高壓 |\n\nTRV=tricuspid regurgitation velocity; PASP=pulmonary arterial systolic pressure; mPAP=mean pulmonary arterial pressure; PVR= pulmonary vascular resistance\n\n(D) 2020 年一篇回顧提到肺高壓的病人中約有 1/3 合併貧血，但無法確定如此盛行率是否等同選項認為的「常合併貧血」，在其他選項均正確下，(D) 應還是算錯誤的\n\n參考資料：T Sonnweber, et al. (2020). Anaemia, iron homeostasis and pulmonary hypertension: a review. Internal and emergency medicine, 15, 573-585.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(三)-10_merged.png",
     "explanation_images": null
   },
   {
