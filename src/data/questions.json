@@ -21735,9 +21735,11 @@
       "D": "bladder invasion"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "婦產國考題愛出的 FIGO stage 務必要把握。子宮內膜癌的手術分期如下：\n\n| FIGO Stage | 侵犯程度 |\n| --- | --- |\n| I IA | 子宮內膜或子宮肌層 <1/2 |\n| IB | 子宮肌層 >1/2 |\n| II | 子宮頸基質 |\n| III IIIA | 子宮漿膜層 (serosa) + 子宮附件 (adnexa) |\n| IIIB | 陰道或子宮旁組織 |\n| IIIC | IIIC1: 骨盆腔淋巴結<br>IIIC2: 主動脈旁淋巴結 |\n| IV IVA | 膀胱或直腸黏膜層 |\n| IVB | 遠端轉移（肺、肝、骨頭等） |\n\n選項中只有 (B) 腹水 cytology 陽性反應不會影響子宮內膜癌分期。補充一下：腹水 cytology 陽性反應影響的是卵巢癌分期 (stage IC3)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-51_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-51_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-52",
@@ -21752,9 +21754,11 @@
       "D": "若有骨盆腔淋巴轉移屬於第三期"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "子宮頸癌、CIN 算是二階國考常客，考的方向也比較廣。關於 2018 FIGO 對於子宮頸癌的分期可以參考【112-1(三)36】的詳解\n\n(A) 正確、(B) 錯誤。文獻裡面有特別提到，大部分 FIGO 的婦科癌症 staging 非常仰賴手術與病理切片，但唯獨子宮頸癌非常特別，主要仰賴骨盆腔檢查以及影像檢查。其實從 2018 子宮頸癌 staging 的方法就可以略知一二，包含淋巴結、遠端轉移等都很依靠 CT、MRI、PET 等等（舊版子宮頸癌分期是不包含淋巴結轉移的）。因此跟以往最大的不同就在於影像變成子宮頸癌分期的重要角色\n(C) 正確。文獻有提及：胸、腹、骨盆的 PET CT 會在 14% 有 locally advanced 的子宮頸癌病人中額外發現遠端轉移並使得期別、治療計畫、預後等有所改變。另外也發現，PET CT 比起 CT、MRI 更能偵測到後腹腔的淋巴轉移\n(D) 正確。骨盆腔淋巴結轉移屬於 stage IIIC1（主動脈旁淋巴結轉移則是 stage IIIC2）\n\n其他考點：超音波、MRI 兩者都比 CT、理學檢查能更準確地量測 primary tumor 以及評估子宮旁組織受到的影響",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-52_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-52_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-53",
@@ -21769,9 +21773,11 @@
       "D": "其發生與肥胖或不當使用雌激素有關"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "考的有點細，子宮頸小細胞癌是子宮頸癌很少見的細胞學型態，這種少見的型態通常惡性度都比較高，所以猜題會猜 (C)\n\n子宮頸癌常見是鱗狀細胞癌 (70%)，其次是腺癌 (25%)，而小細胞癌占比極低（約 2%），(D) 其與 HPV 16 /HPV 18 感染高度相關，屬於有高度轉移性的神經內分泌細胞癌 (neuroendocrine carcinoma)，(A) 多數是原發性的癌症，不過發現有子宮頸小細胞癌的病人確實要排除肺小細胞癌（但子宮頸並非常見的肺小細胞癌轉移器官）；化學治療則是 (B) 以 cisplatin 及 etoposide 為主，和子宮頸鱗狀細胞癌的 carboplatin 及 paclitaxel 不同",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-53_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-53_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-54",
@@ -21786,9 +21792,11 @@
       "D": "從注射hCG當天開始，給與cabergoline每天0.5 mg，連續8天"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "在試管嬰兒療程，有許多方式可減少 OHSS 的發生風險：\n\n刺激排卵、破卵療程中：\n1. 抑制提早 LH surge：選擇拮抗劑療程 (GnRH antagonist)，而非 GnRH agonist\n2. 破卵針：避免使用 hCG [呼應前項，選擇拮抗劑療程可選擇 hCG 或 GnRH agonist 破卵，但若採用長療程僅能使用 hCG 破卵]\n3. 促進濾泡發育用針 (rFSH, rLH, hMG)：減少其劑量與使用天數。臨床上有種做法稱作‘coasting’，在排卵前提早停止使用上述激素，以減少對卵巢的刺激\n\n破卵／取卵後：\n1. 卵泡數目 (antral follicle count) 多或取卵數量大時 (> 15 顆)，先將胚胎冷凍保存，延後植入，讓過度刺激的卵巢得以休息\n2. 施打破卵針後，給予口服 Cabergoline（多巴胺 D2 受器促效劑，能抑制 VEGFR-2，降低血管通透與新生），每日 0.5 mg 連續 8 天\n3. 增加蛋白質類食物攝取，或預防性注射 Albumin\n4. 增加水分與電解質補充",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-54_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-54_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-55",
@@ -21803,9 +21811,11 @@
       "D": "在排卵時，初級卵母細胞（primary oocyte）會完成兩次減數分裂，成為卵子（ovum）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確。補充一下嬰兒出生時，體內所有初級卵母細胞會停在第一次減數分裂前期 (meiosis I prophase)\n(B) 錯誤。在懷孕中由初級卵母細胞和顆粒細胞組合成的叫原始濾泡 (primordial follicle)\n(C) 錯誤。初級濾泡 (primary follicle) 和次級濾泡 (secondary follicle) 要等到青春期時，原始濾泡受 FSH 刺激才會陸續發育而成\n(D) 錯誤。由於 LH surge 刺激，排卵時已經是完成第一次減數分裂的次級卵母細胞，接著次級卵母細胞會停在第二次減數分裂中期 (meiosis II metaphase)，待受精後才完成第二次減數分裂，形成卵子",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-55_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-55_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-56",
@@ -21820,9 +21830,11 @@
       "D": "超音波顯示多囊性卵巢"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據該會議，PCOS 的診斷條件從 1999 年的舊 criteria 改為 2003 年的新 criteria：\n• 少排卵或無排卵 (oligo- and/or anovulation)\n• 臨床或實驗數據有雄性素過高的證據\n• 直接看到多囊性卵巢\n以上三者出現至少兩者，並且排除其他病因（先天腎上腺增生症、釋放雄性素的腫瘤、Cushing's syndrome）就可以診斷為 PCOS\n\n雖然胰島素阻抗有更高的風險罹患 PCOS，但是會議文獻也提出 PCOS 的診斷不需要去檢驗病人是否有胰島素阻抗，因此 (C) 錯誤。倒是有 PCOS 的肥胖女性要進行代謝症候群的篩檢，其中血糖要透過 OGTT 測試。另外，筆者覺得 (A) 有些微瑕疵，criteria 用排卵而非以月經來敘述或許是為了排除其他 secondary 原因導致的寡經或無月經。否則一般 primary 的無月經通常意味著卵巢功能有些異常，但畢竟題幹明確指的是 criteria 的內容，因此會略有疑義。但是相比 (C) 選項，(A) 確實算是相對正確\n\n其他考點：\n• PCOS 會增加 Type 2 DM 的發生率\n• PCOS 最重要的治療是減重，若想懷孕可服用 clomiphene，抑制 estrogen 的負回饋，但會增加懷多胞胎的機率\n\n參考資料：Rotterdam ESHRE/ASRM-Sponsored PCOS Consensus Workshop Group. (2004). Revised 2003 consensus on diagnostic criteria and long-term health risks related to polycystic ovary syndrome. Fertility and sterility, 81(1), 19-25.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-56_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-56_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-57",
@@ -21837,9 +21849,11 @@
       "D": "膀胱下垂的程度（stage）是以C點決定"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "脫垂定量系統 (POP-Q) 會測量九個數值（建議搭配圖來理解），起始位置以陰道冠（處女膜）為基準點，向內為負向外為正：\n1. 先算 Aa/Ap：前／後陰道距離陰道冠 3 公分的位置做為計算起始點\n2. 再算 Ba/Bp：由 Aa/Ap 算至陰道的最低點\n3. C 點：陰道冠至子宮頸\n4. D 點：後穹窿（比起 Bp 點更向內，因為子宮頸有長度，通常是兩公分左右）陰道總長 (tvl) 即陰道冠至後穹窿的距離\n5. gh：尿道口到陰道口\n6. pb：尿道口到肛門\n\n在完全脫垂的情況下，D 點會變平、消失，陰道總長 (tvl) 就會變成陰道口至子宮頸 (C 點) 的距離。所以各選項的訂正應為：\n(B) 向外為正\n(C) Aa 點定義是陰道距離陰道冠 3 公分處，變動程度不大，子宮頸下垂的程度應以 C 點決定\n(D) 膀胱與陰道口的距離是記錄在 gh，C 點應是看子宮脫垂的程度",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-57_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-57_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-58",
@@ -21854,9 +21868,11 @@
       "D": "V"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Brunnstrom 分期用來評估中風病患的肢體障礙程度，共分 6 期，理想病患的運動功能恢復，能由最差 stage I 到最佳 stage VI\n\n| Brunnstrom stage | 描述 |\n| --- | --- |\n| I. flaccid stage | 患肢軟弱無力，無任何動作、肌張力也低 |\n| II. spasticity developing stage | 仍無明顯自主動作，但 DTR 和肌張力增強 |\n| III. synergic stage | 開始出現自主動作，但只有協同動作 (synergy pattern)，此時 DTR 和肌張力達到最強 |\n| IV. movement deviating from basic synergy stage | 協同動作開始消失，並可出現獨立動作，肌張力也開始下降 |\n| V. relative independence of basic synergy stage | 比 stage IV 更進步，幾乎不受協同動作影響，有更多獨立動作，肌張力逐漸接近正常 |\n| VI. near normal stage | 幾乎可做所有獨立動作、肌張力幾乎正常，僅在速度快或交替動作時出現異樣 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-58_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-58_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-59",
@@ -21871,9 +21887,11 @@
       "D": "第二型（type II）肌肉細胞較易萎縮"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "老人肌肉流失的重要概念：肌纖維越多、爆發力越強的肌肉，隨著年齡流失的速度通常越快。老年人的肌少症以下肢近端快肌（e.g. 股四頭肌）功能最先受影響，症狀則以無法站立、行走為代表，因此最不適當的答案為 (A)\n\n| | |\n| --- | --- |\n| 肌力 (muscle power) | 下肢 > 上肢；近端 > 遠端；伸肌 > 屈肌 |\n| 肌肉量 (muscle mass) | 第二型（type II，快肌）> 第一型（type I，慢肌） |\n\n參考資料：WR Frontera, et al. (2000). Aging of skeletal muscle: a 12-yr longitudinal study. Journal of applied physiology, 88(4), 1321-1326.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-59_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-59_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-60",
@@ -21888,9 +21906,11 @@
       "D": "患者的下肢功能一般恢復比上肢好"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 錯誤，通常是因為 hyperextension 加上頸部 spinal canal 狹窄，因此常見於老年人。年輕人才比較有可能是 unstable bone injury，但相對少數\n\n神內也愛考 spinal cord injury，下表的臨床表現建議搭配各種神經路徑思考一遍：\n\n| spinal cord injury | 機制 | 臨床表現 | 預後 |\n| --- | --- | --- | --- |\n| Anterior cord | spine hyperflexion<br>anterior spinal artery 損傷 | 失去運動功能、溫痛覺。本體感覺正常。可能有 autonomic dysfunction | 最差 |\n| Central cord | spine hyperextension<br>常見於老年人頸部 stenosis | 運動與感覺都是上肢比下肢嚴重。遠端也比近端嚴重。 | 次之 |\n| Brown-Sequard | penetration | 失去對側溫痛覺、輕觸覺。失去同側本體感覺、運動功能。 | 最好 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-60_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-60_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-61",
