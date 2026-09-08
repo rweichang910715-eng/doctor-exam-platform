@@ -16746,7 +16746,11 @@
     "answer": "D",
     "explanation": "(A) 從心臟超音波可以看到左心室出口阻塞 (LVOT obstruction)（圓圈處），中膈、LV 後壁皆厚，而心電圖中有左心室肥大 (LVH)、在 lead II, III, aVF, V4-6 有 giant T-wave inversion，此為 apical HCM 的心電圖特徵，推測此病人為左心各處皆肥厚的 diffuse HCM，補充：典型 HCM，表現為中膈不對稱肥厚 (asymmetrical septal hypertrophy)，心電圖特徵除了 LVH，在側壁或下壁導極會有深且窄的 Q waves（心肌梗塞產生的 Q wave 通常較寬）\n\n(D) 錯誤，HCM 在病人有心衰竭症狀（如肺水腫）時，能適度使用利尿劑改善體液過多的情形，但在已有 LVOT 阻塞的病人要非常謹慎，因為大量的 preload 降低，會使得本來已經很少的心輸出量更低，導致心因性休克\n\n肥厚型心肌病變的治療，分為三個面向：\n1. 阻塞性 HCM，有出口阻塞症狀，引發心衰竭：第一線為藥物治療，可用 metoprolol (beta blocker)、non-DHP CCB 和 disopyramide（class Ia 抗心律不整藥）；若持續有心衰竭現象，考慮侵入性治療，包括中膈心肌切除、經皮冠狀動脈酒精心肌消融；心臟移植是最後手段\n2. 非阻塞性 HCM，併有心律不整：若有 Af，建議服用 DOAC（電燒治療通常對 HCM 病人效果差）；若有 VT，屬於高危險族群，建議植入 ICD，並採取 beta blocker+amiodarone 藥物治療，效果不佳時，考慮心臟移植\n3. 猝死預防：AHA 建議針對 sudden cardiac death (SCD) 高危險族群放置 ICD，高危險族群有其定義，簡言之包含一等親家族史、有昏厥症狀、心肌過厚、合併心室衰竭或惡性心律不整等\n\n其他考點：DHP-CCB、nitrate、直接血管擴張劑、digoxin 是 HCM 病人須避免的藥物",
     "explanation_image": "/explanations/cropped/112-2-醫學(三)-8_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(三)/page_3_img_1.jpeg",
+      "/images/112-2/醫學(三)/page_3_img_2.png"
+    ]
   },
   {
     "id": "112-2-醫學(三)-9",
@@ -16763,7 +16767,10 @@
     "answer": "C",
     "explanation": "心電圖首先可看到 QRS 波是窄波，代表發出的訊號不是經由心室發出，先刪掉 ventricular tachycardia；再由 RR interval 不固定這點刪掉 sinus tachycardia，剩下的兩個選項較難分辨：圖中似乎仍看得出一些不規則的 P 波，有 MAT 的可能，然而 MAT 的 baseline 波型較固定，且 P 波一般會很明顯，再加上 MAT 通常發生在嚴重的 COPD 或是心臟衰竭，一個沒有過去病史的病人突然發生 MAT 的機率其實蠻低的，因此根據這個心電圖的 irregular rhythm、baseline wandering 以及 P 波不明顯的證據，較符合 (C)atrial fibrillation 的診斷\n\n補充一下，看到 RR interval 不固定時除了常見的 atrial fibrillation (Afib) 之外，也要想到同屬 atrial tachycardia 的三個診斷：\n\n| 診斷 | 心電圖特徵 |\n| :--- | :--- |\n| **Focal atrial tachycardia (FAT)** | 心房固定一處非 SA node 的位置放電，會看到型態異常但統一的 P 波 |\n| **Multiple atrial tachycardia (MAT)** | 心房多處非 SA node 的位置放電，要有三個以上 distinct form P 波 |\n| **Atrial flutter (AF)** | 會看到鋸齒狀 P 波，依據 A-V conduction ratio 而會有不同心率 |",
     "explanation_image": "/explanations/cropped/112-2-醫學(三)-9_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(三)/page_4_img_1.png"
+    ]
   },
   {
     "id": "112-2-醫學(三)-10",
@@ -17885,7 +17892,10 @@
     "answer": "C",
     "explanation": "因空氣、結石跟其餘組織密度差異大，所以音波在行進遇到空氣與結石時，音波大多被反射回來，留下高回音、而其後呈幾乎無回音的 acoustic shadow，雖然氣膽和結石皆有可能，但可以用下面幾點排除結石：\n• 空氣不如結石 well-defined，且較可能改變位置或出現在多處膽管\n• 空氣產生的 acoustic shadow 較混濁，不若結石的全黑清楚\n• 結石的肝內膽管應可看到膽管擴張\n\n本題答案為 (C) 氣膽，另外若懷疑為氣膽（膽管有氣），還須與肝門靜脈氣體 (portal venous gas) 區分，影像上前者通常分布在肝臟中間，後者在週邊，(A) 肝臟蛔蟲疾病會看到高回音之長條狀物；(B) HCC 在超音波下相對肝實質多半是低回音，通常不均質並有血流訊號，較特異性的發現為腫瘤外圍會有一低回音的黑色暈圈",
     "explanation_image": "/explanations/cropped/112-2-醫學（三）-75_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(三)/page_16_img_1.png"
+    ]
   },
   {
     "id": "112-2-醫學(三)-76",
@@ -18004,7 +18014,10 @@
     "answer": "C",
     "explanation": "根據生長曲線做答：\n(A) 落在第 15 百分位不等於是異常值，生長曲線只能抓出極端值，因此落在第 5-95 百分位都算是正常的範圍\n(B) 體重排在後第 15 位\n(C) 生長曲線走勢突然有大變動時，要懷疑是否有疾病影響生長，需立即重新評估\n(D) 月齡平均體重為 8 公斤是正常的範圍（第 50 百分位），無須刻意調整營養配方",
     "explanation_image": "/explanations/cropped/112-2-醫學(四)-2_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(四)/page_1_img_1.jpeg"
+    ]
   },
   {
     "id": "112-2-醫學(四)-3",
@@ -18582,7 +18595,10 @@
     "answer": "D",
     "explanation": "圖片的病灶為多發性、表面平滑且無脫屑 / 發炎 / 色素沉積的丘疹 (papules)，大致可以先排除類澱粉症苔癬和尋常性痤瘡；再來汗管瘤主要分布在眼周圍、臉頰且好發於成年女性，也不符合題幹敘述，用刪去法後最可能的診斷為 (D)\n\n扁平疣 (verruca plana, flat warts) 是 HPV 病毒疣的一種，常見於顏面、頸部、手背與前胸，外觀為平滑扁平狀、正常膚色或輕微咖啡色的多發性丘疹，有 Köbner phenomenon，和其他病毒疣不同的是扁平疣常見於青少年族群，因此也被稱為 juvenile warts\n\n相關題目請見【112-1(四)36】\n\n最後補充 HPV types 和對應的皮膚疾病：\n\n| HPV type | 疾病 |\n| :--- | :--- |\n| **16、18、31、33、45** | 子宮頸癌、生殖器上皮發育不良 |\n| **6、8、11** | 肛門生殖器疣 (condylomata acuminata) |\n| **1** | 足疣 (verruca plantaris) |\n| **2、4** | 尋常疣 (verruca vulgaris) |\n| **3、10、28** | 扁平疣 (verruca plana) |",
     "explanation_image": "/explanations/cropped/112-2-醫學(四)-36_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(四)/page_8_img_1.png"
+    ]
   },
   {
     "id": "112-2-醫學(四)-37",
@@ -18616,7 +18632,10 @@
     "answer": "C",
     "explanation": "從 X 光圖片可看出，指骨尖端伸側長出凸起物，且在 X 光上亮度與骨質相似，可以選出 (C) 甲下外生骨，其他三者雖然都是會痛的增生物，但在 X 光上只能看到軟組織層的增厚\n(A) 甲下病毒疣是上皮層的增生\n(B) 甲下角化棘皮瘤是皮膚鱗狀上皮細胞的增生瘤，是 SCC 的變型，會呈現火山口樣、中央填塞角質\n(D) 甲下血管球腫瘤是良性的錯構瘤 (hamartoma)，主要以軟組織構成，以超音波或 MRI 才能清楚成像",
     "explanation_image": "/explanations/cropped/112-2-醫學(四)-38_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(四)/page_9_img_1.jpeg"
+    ]
   },
   {
     "id": "112-2-醫學(四)-39",
@@ -18752,7 +18771,10 @@
     "answer": "A",
     "explanation": "一下子要判讀三張不同模式的腦影像看似困難，但把握一開始的 CT，CT 呈現高訊號，若非鈣化，很可能表示出血，後續追蹤 MRI 看到 FLAIR（即 CSF 訊號被抑制的 T2）原出血處低訊號（其周圍的高訊號是 vasogenic edema 所致）、T1 邊緣高訊號 / 中間 isotense，推論為出血之血紅素攜氧狀態改變，導致的結果（對照下表，本題的影像較符合 acute stage）\n\n再配合刪去法：\n(B) 腦腫瘤應可以看到 mass effect 導致中線偏離，且不應在 CT 上呈現均質的高訊號\n(C) multiple sclerosis 導致的神經發炎性訊號，在 CT、T1 上應該不會有明顯的高訊號\n(D) neurotoxoplasmosis 會有典型的 concentric target sign，和 MRI 的外圍高中心低訊號有點像，但這種因為周圍水腫導致的訊號是在 T2、FLAIR 或 T1+contrast 才看的到，在 CT、T1 應無法清楚辨別，因此錯誤\n\n另外，高血壓腦出血容易發生在視丘 (thalamus)，符合影像所在位置，故推論答案為 (A)\n\nStages of hemorrhage：\n\n| 階段 (Stage) | T1 訊號 | T2/FLAIR 訊號 | CT 訊號 | 說明 |\n| :--- | :--- | :--- | :--- | :--- |\n| **Hyperacute (<24 hr)** | 等訊號 (Isotense) | 高訊號 (Bright) | 高訊號 (Bright) | Oxyhemoglobin |\n| **Acute (1-3 d)** | 等訊號 / 低訊號 | 低訊號 (Dark) | 高訊號 (Bright) | Deoxyhemoglobin |\n| **Subacute, early (3-7 d)** | 高訊號 (Bright) | 低訊號 (Dark) | 等訊號 / 漸淡 | Intracellular MetHb |\n| **Subacute, late (>7 d)** | 高訊號 (Bright) | 高訊號 (Bright) | 等訊號 / 低訊號 | Extracellular MetHb |\n| **Chronic (>1m)** | 低訊號 (Dark) | 低訊號 (Dark) | 低訊號 (Dark) | Hemosiderin, ferritin |\n\n參考資料：C Domingues, C Rossi & C Cordonnier. (2015). Diagnostic evaluation for nontraumatic intracerebral hemorrhage. Neurologic clinics, 33(2), 315-328.",
     "explanation_image": "/explanations/cropped/112-2-醫學(四)-46_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(四)/page_10_img_1.jpeg"
+    ]
   },
   {
     "id": "112-2-醫學(四)-47",
@@ -19228,7 +19250,10 @@
     "answer": "D",
     "explanation": "本題十分困難，題目所給提示甚少，從 X 光可看出右側股骨頭生長板位置相較於左側，骨骺 (epiphysis) 與幹骺端 (metaphysis) 中間的縫隙特別明顯（三角形處），且右股骨頭外側有部分碎裂及不平整（箭頭處），由此發現可以推論患者為股骨頭生長板滑脫 (slipped capital femoral epiphysis, SCFE)\n\n股骨頭生長板滑脫常見於骨頭為快速生長期的 10-16 歲青少年，尤其容易發生在肥胖的男性青少年，病生理上，這類的患者多半是歷經重複且不會嚴重到骨折的創傷事件，加上本身可能有內分泌的問題（如甲狀腺低下、副甲狀腺亢進等），使得剪力造成骨質相對脆弱的生長板處滑脫，臨床上表現如同骨折般的髖部疼痛、痛肢無法承受體重（走路拐一邊），最常表現在左側股骨（但本題發生在右側），約 20-40% 會有雙側表現，而較嚴重的 SCFE 甚至會影響到股骨頭的血液供應，導致有類似本題的股骨頭 X 光透射率增加、碎裂的情形（如箭頭，影像較黑代表骨質密度下降），不穩定的 SCFE 治療建議使用骨釘固定，避免生長板傷害，導致後續的髖骨變形及股骨頭壞死，因此選項 (D) 錯誤\n\n鑑別診斷需考慮小兒股骨頭缺血性壞死 (Legg-Calve-Perthes disease, LCPD)，兩者臨床症狀相似，但此題影像學以生長板處異常更為明顯，小兒股骨頭缺血性壞死的影像會以股骨頭變形為主\n\n| 項目 | 股骨頭生長板滑脫 (SCFE) | 小兒股骨頭缺血性壞死 (LCPD) |\n| :--- | :--- | :--- |\n| **年紀** | 骨頭快速生長期的青少年（男性：10-16 歲、女性：8-15 歲） | 兒童及青少年，可發生在 2-14 歲（最好發於 6-8 歲，較生長板滑脫早） |\n| **性別** | 男性為主 | 男性為主 |\n| **常發生處** | 好發左側，20-40% 會有雙側侵犯 | 10-12% 會有雙側侵犯，不會同時發生 |\n| **危險因子** | 肥胖、內分泌異常（甲狀腺低下、副甲狀腺亢進）、化療 / 放療治療史 | 家族史、低出生體重、生長異常 |\n| **機制** | 持續或小的剪力傷害使生長板成熟帶變脆弱、破裂並滑脫 | 先天或凝血異常造成血管供應不足，導致骨骺（含生長板）缺血性壞死 |\n| **臨床表現** | 表現依急慢性差異大：<br>• 急性：常在小創傷事件後有模糊的鼠蹊或大腿疼痛持續數周，演變為跛行及強烈的髖部疼痛<br>• 慢性：更常見，模糊的鼠蹊或大腿疼痛持續三周以上，並演變為跛行<br>15-50% 合併膝蓋疼痛（刺激到 medial obturator nerve） | 無創傷史的突發髖部、鼠蹊部或大腿疼痛，持續數周到數月 |\n| **影像** | 以骨骺與幹骺端間的縫隙增寬最為明顯，少數嚴重個案可能影響到股骨頭血流供應，導致股骨頭表面變化 | 以髖關節空隙增加、股骨頭表面不平整或壞死為主要表現，通常要在股骨頭壞死一半以上的狀況 (crescent sign > 1/2)，生長板才容易出現明顯的增寬 |\n| **治療** | 早期骨釘固定，大於 90% 預後佳 | 1. 小於八歲發生，保守治療就能有不錯的效果，手術並不能提供額外的好處（考點：年紀輕發病是好的預後指標）<br>2. 年紀大或股骨頭壞死嚴重 (Type B、C) 時，才考慮手術治療 |",
     "explanation_image": "/explanations/cropped/112-2-醫學(四)-74_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(四)/page_16_img_1.jpeg"
+    ]
   },
   {
     "id": "112-2-醫學(四)-75",
@@ -19500,7 +19525,10 @@
     "answer": "B",
     "explanation": "可以看到圖片上箭頭所指有一顆位在前交通動脈支的顱內動脈瘤，而且尚未破裂，如果是破裂的動脈瘤，應該不會像圖片那樣侷限在一個囊狀結構，而是呈比較不規則散開的樣子，接著會造成 subarachnoid hemorrhage (SAH)\n\n動脈瘤在很小時 (< 1 cm) 一般不太會建議處理，但是越大的動脈瘤破裂風險越高，侵入性處理會用 clip 去把動脈瘤夾住讓它缺血，或是用 coil 從血管內去填充動脈瘤內部使血液在 coil 周圍形成血栓，塞住動脈瘤入口讓它缺血，至於 (A) 選項提到的抗血小板藥物，目前研究僅發現用在未破裂的動脈瘤可以防止破裂（曾經破裂過的動脈瘤就不建議使用）；抗血小板藥物在防止梗塞的實證時機則是在放入 coil 後給予\n\n其他考點：\n顱內動脈瘤最好發的位置為前動脈交通支 (40%)，中大腦動脈瘤為次常見 (35%)，內頸動脈瘤為第三常見 (20%)，第四常見是後循環部分的前大腦動脈與基底動脈交接處",
     "explanation_image": "/explanations/cropped/112-2-醫學(五)-10_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(五)/page_3_img_1.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-11",
@@ -20184,6 +20212,9 @@
     "explanation_image": "/explanations/cropped/112-2-醫學(五)-46_merged.png",
     "explanation_images": [
       "/explanations/cropped/112-2-醫學(五)-46_merged.png"
+    ],
+    "images": [
+      "/images/112-2/醫學(五)/page_10_img_1.jpeg"
     ]
   },
   {
@@ -20241,6 +20272,9 @@
     "explanation_image": "/explanations/cropped/112-2-醫學(五)-49_merged.png",
     "explanation_images": [
       "/explanations/cropped/112-2-醫學(五)-49_merged.png"
+    ],
+    "images": [
+      "/images/112-2/醫學(五)/page_11_img_1.jpeg"
     ]
   },
   {
@@ -20260,6 +20294,9 @@
     "explanation_image": "/explanations/cropped/112-2-醫學(五)-50_merged.png",
     "explanation_images": [
       "/explanations/cropped/112-2-醫學(五)-50_merged.png"
+    ],
+    "images": [
+      "/images/112-2/醫學(五)/page_11_img_2.png"
     ]
   },
   {
@@ -20447,7 +20484,10 @@
     "answer": "B",
     "explanation": "佛心解剖題，圖片看到在橈側又是手腕近端就知道是舟狀骨了。附上 8 塊腕骨口訣：舟月三角豆（近端橈→尺）& 大小頭鈎（遠端橈→尺）\n\n舟狀骨骨折 (scaphoid fracture) 是最常見的腕骨骨折，依骨折處遠近有不同治療與預後：\n- 遠端 (distal pole) 骨折－血液供應好，多用石膏保守治療\n- 中近端 (middle & proximal) 骨折－血液供應差而容易骨壞死，需要手術內固定\n\n此外舟狀骨骨折和背側位移的遠端橈骨骨折 (Coles' fracture) 都是由手掌撐地造成；而掌側位移的遠端橈骨骨折 (Smith's fracture) 則是手背撐地造成",
     "explanation_image": "/explanations/cropped/112-2-醫學(五)-61_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(五)/page_14_img_1.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-62",
@@ -20634,7 +20674,10 @@
     "answer": "D",
     "explanation": "影像位於右邊的是肱骨，左側在上的是橈骨、其下為尺骨\n1. 首先排除 (C)，若生長板 (physis) 若未癒合，我們可在橈骨近端 epiphysis 和 metaphysis 之間看到一條可透 (radiolucent) 的線，故此病人應為成人\n2. (A) (B) 骨折要找是否有 cortical bone 有不連續面。筆者覺得肱骨小頭 (capitulum，被尺骨 olecranon 包住的球狀構造) 似乎不是很圓滑平整，可能有小骨裂，但肱骨和橈骨均沒有明顯骨折（另一種想法：成人最常見的手肘骨折是「橈骨頭骨折」；兒童則是「肱骨髁上骨折」、其次「肱骨外髁骨折」，但在圖片裡皆為平整）\n3. 遠端肱骨前後分別有脂肪墊，正常影像中 anterior fat pad 會在肱骨前側呈現一片低射線密度的黑影，posterior fat pad 則因被骨頭圍繞而於側位照看不到；然而有關節積液的情況下，積液把原本的 fat pads 向外向上推出，在前側看到 anterior fat pad 猶如船帆的三角形黑影 = sail sign，且原本看不到的 posterior fat pad 現在也看得到了 = posterior fat pad sign（箭頭處）。本題這兩個 signs 都有出現，因此 (D) 最恰當\n\nRadiopaedia 有個關於肘關節積液非常好的短片，有興趣的話可點下方連結參考：https://radiopaedia.org/articles/joint-effusion",
     "explanation_image": "/explanations/cropped/112-2-醫學(五)-72_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(五)/page_16_img_1.jpeg"
+    ]
   },
   {
     "id": "112-2-醫學(五)-73",
@@ -20651,7 +20694,10 @@
     "answer": "D",
     "explanation": "一看到「紅腫熱痛、白血球增加、糖尿病」就要反射想到感染，而選項中只有 (D) Fournier's gangrene 與感染有關，是壞死性筋膜炎的一種。本題解析主要聚焦於 Fournier's gangrene 與 hernia 的影像特徵，有關其病因、診斷或治療等內容可再參閱其他資源\n\n| 電腦斷層影像特徵 | |\n| --- | --- |\n| Fournier's gangrene | - 皮下氣腫 (subcutaneous emphysema，是最典型的特徵)<br>- 軟組織產生 stranding、gas locules<br>- 侵犯筋膜增厚<br>- 附近可能伴隨感染源，如肛門膿瘍、瘻管等 |\n| hernia | - 有明顯、界線分明的腸壁<br>- 不太會有軟組織 stranding<br>- 可見 lateral crescent sign（鼠蹊管的血管、輸精管被 hernia 擠到同一側，是 direct inguinal hernia 的典型特徵） |",
     "explanation_image": "/explanations/cropped/112-2-醫學(五)-73_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(五)/page_17_img_1.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-74",
@@ -20668,7 +20714,10 @@
     "answer": "A",
     "explanation": "X 光影像畫面的左上方霧狀的就是肝臟，在影像中間偏左有許多一個圈一個圈亮亮的就是鈣化表現。而這個解剖位置比較接近膽囊而非腎臟（應該要再更下方一點）。另外根據病史敘述，飯後開始右上腹痛會更像是膽結石，因為飯後會分泌膽囊收縮素讓膽囊擠出膽汁，而當膽囊內有結石，這個動作就會引發疼痛。另外還有一個線索是這些石頭堆積起來形成的形狀比較不像是一橫軸長於縱軸的囊狀物（如圖虛線標示）。因此會更可能是 (A) 膽結石\n\n(B) 總膽管通常不太會累積到這麼多顆石頭才會由症狀，而且形狀也不太像是管狀。另外，當有石頭從膽囊透過 cystic duct 跑到總膽管，可能會引起總膽管的發炎，稱為 cholangitis。如果是 cholangitis 還會伴隨其他症狀如黃疸、發燒（與右上腹痛合稱 Charcot's triad）\n(C) 選項的腎臟 TB 也會有 3 成左右的病人可以在 X 光發現腎臟的 lobular 會有鈣化，但是這張圖的位置不像，一樣是要再下面一點。而臨床症狀比較常見排尿疼痛、血尿，腰痛與肚子痛比較少 (10%)",
     "explanation_image": "/explanations/cropped/112-2-醫學(五)-74_merged.png",
-    "explanation_images": null
+    "explanation_images": null,
+    "images": [
+      "/images/112-2/醫學(五)/page_17_img_2.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-75",
@@ -20998,6 +21047,9 @@
     "explanation_image": "/explanations/cropped/112-2-醫學(六)-12_merged.png",
     "explanation_images": [
       "/explanations/cropped/112-2-醫學(六)-12_merged.png"
+    ],
+    "images": [
+      "/images/112-2/醫學(六)/page_3_img_1.jpeg"
     ]
   },
   {
@@ -22138,6 +22190,9 @@
     "explanation_image": "/explanations/cropped/112-2-醫學(六)-72_merged.png",
     "explanation_images": [
       "/explanations/cropped/112-2-醫學(六)-72_merged.png"
+    ],
+    "images": [
+      "/images/112-2/醫學(六)/page_14_img_1.jpeg"
     ]
   },
   {
@@ -22157,6 +22212,10 @@
     "explanation_image": "/explanations/cropped/112-2-醫學(六)-73_merged.png",
     "explanation_images": [
       "/explanations/cropped/112-2-醫學(六)-73_merged.png"
+    ],
+    "images": [
+      "/images/112-2/醫學(六)/page_14_img_2.jpeg",
+      "/images/112-2/醫學(六)/page_14_img_3.jpeg"
     ]
   },
   {
@@ -22176,6 +22235,10 @@
     "explanation_image": "/explanations/cropped/112-2-醫學(六)-74_merged.png",
     "explanation_images": [
       "/explanations/cropped/112-2-醫學(六)-74_merged.png"
+    ],
+    "images": [
+      "/images/112-2/醫學(六)/page_15_img_1.png",
+      "/images/112-2/醫學(六)/page_15_img_2.png"
     ]
   },
   {
