@@ -196,9 +196,11 @@
       "D": "慢性靜脈疾病的主要診斷工具是venous duplex ultrasonography"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 靜脈疾病 | | |\n| --- | --- | --- |\n| varicose vein | primary | 淺層靜脈本身結構異常（一半有家族史） |\n| | secondary | 深層靜脈異常 → 靜脈高壓、perforating v. 功能不佳 → 淺靜脈擴張 |\n| chronic venous insufficiency | primary | 血管壁異常、瓣膜本身功能不足 → 靜脈血逆流 |\n| | secondary | DVT 導致阻塞、瓣膜變厚且攣縮 → 靜脈血逆流<br>* 其他如 May-Thurner syndrome、腫瘤從外壓迫、後腹腔纖維化、A-V fistula 等也都是成因 |\n\n(A) 錯誤，原發性靜脈曲張主要是因為靜脈結構異常、瓣膜功能不佳導致，其中約一半的人有家族史\n(B) 錯誤，造成原發性靜脈曲張的風險因子包含老化、懷孕、荷爾蒙療法、肥胖、以及久站\n(C) 錯誤，原發性靜脈曲張常發生在淺層靜脈\n(D) 正確，慢性靜脈疾病最重要的診斷工具就是 venous duplex ultrasonography，是一種結合了 B-mode 以及 spectral Doppler 的超音波檢查，可以偵測靜脈阻塞、靜脈血逆流等異常",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-11_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-11_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-12",
@@ -213,9 +215,11 @@
       "D": "metoprolol succinate"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "實證醫學支持能改善 HFrEF 預後的 beta-blockers 就只有 carvedilol、bisoprolol、metoprolol succinate 這三種（口訣：CBM 才有 EBM），故本題選 (C)",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-12_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-12_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-13",
@@ -230,9 +234,11 @@
       "D": "在門診呼吸困難患者中，BNP或NT-proBNP的測量可用於支持有關HF診斷的臨床決策，尤其是在臨床不確定性情況下"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Brain natriuretic peptide（BNP）以及 NT-proBNP 主要儲存在 ventricular myocytes 中，當心室舒張壓升高時會釋放出來。作用包含：促進 Na 與水的排除、限制 Na 再吸收、抑制 RAAS 系統等。通常 HFrEF 病人的 BNP 會比 HFpEF 高。但許多因子也會影響 BNP、NT-proBNP 的濃度，包含：年紀、性別、慢性腎臟病等，整理如下表：\n\n| 影響 BNP 的因素 | |\n| --- | --- |\n| BNP 升高 | 心因性：HFrEF、PAH、AF、PE、AL amyloidosis（可追蹤 troponin）<br>其他：年紀大、女性、腎功能變差、使用 ARNI |\n| BNP 降低 | 肥胖（假性降低，falsely low） |\n\n(A) 錯誤，使用 ARNI 應該會讓 BNP 濃度升高\n(B)(C) 正確，年齡增加、腎功能變差的時候 BNP、NT-proBNP 血清濃度也會增加\n(D) 正確，在 HF 的診斷中，除了心室肥大以及臨床症狀（喘、basilar rales、頸靜脈鼓張、肝腫大等）外，ECG、BNP、NT-proBNP 都能夠支持診斷。Harrison 也提到在會喘的非肥胖病人中，極低的 BNP 或 NT-proBNP 可幫忙排除 HF 的診斷\n\n＜其他考點＞\n1. 在 AKI 時，NT-proBNP 不能評估 HF 的嚴重度【109 內專】\n2. 右心衰竭時，BNP 也會增加【108 內專】",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-13_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-13_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-14",
@@ -247,9 +253,11 @@
       "D": "心臟超音波"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "呼吸困難的鑑別診斷主要從心肺出發\n\n| 器官 | 異常位置 | 疾病舉例 | 初步檢查工具 |\n| --- | --- | --- | --- |\n| 肺臟 | 呼吸道異常 | 氣喘、COPD、上呼吸道阻塞 | CXR、肺功能檢查、CT |\n| | 間質疾病 | 各種 ILD | CXR、肺功能檢查、CT |\n| | 胸壁異常 | 駝背、脊椎側彎、神經肌肉無力 | 肺功能檢查（MIP、MEP） |\n| 心肺 | 肺血管 | 肺高壓 | DLCO、ECHO、EKG |\n| 心臟 | 左心衰竭 | 冠狀動脈疾病、cardiomyopathy | BNP、EKG、ECHO、可考慮壓力催迫性檢查 |\n| | 心包膜疾病 | 限制性心包膜炎、心包膜填塞 | |\n| 其他 | | 貧血、緊張、酸血、GERD | Hct、SMAC、UGI 鏡檢 |\n\n(B)(C) 身體檢查通常都是門診就會做的事情，對於初步診斷非常重要；24 hr Holter 通常是心律不整病患要進行的檢查，對於呼吸困難的鑑別診斷幫助較小，本題選 (C)",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-14_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-14_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-15",
@@ -264,9 +272,11 @@
       "D": "病人是否因其他疾病須接受抗癌化學藥物治療"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "不是所有慢性 B 型肝炎患者都需要接受藥物治療，需要使用抗病毒藥的條件為：\n1. HBeAg(+)：\n   a. ALT ≥ 正常值上限 5 倍\n   b. ALT 介在正常值上限 2~5 倍，且 HBV DNA ≥ 20000 IU/mL 或切片 HBcAg(+) → (A) 錯誤，是 HBV DNA 不是 RNA\n   c. ALT 半年內兩次以上超過正常值，且 HBV DNA ≥ 20000 IU/mL 或切片 HBcAg 陽性：經切片 / 肝纖維化掃描 / Fibrosis-4 證實纖維化 ≥ F3\n2. HBeAg(-)：\n   a. ALT 半年內兩次以上超過正常值 2 倍，且 HBV DNA ≥ 2000 IU/mL 或切片 HBcAg 陽性\n   b. ALT 半年內兩次以上超過正常值，且 HBV DNA ≥ 20000 IU/mL，肝纖維化 ≥ F3\n3. 肝代償不全：total bilirubin ≥ 2 mg/dL 或 PT ≥ 3 秒\n4. 肝硬化患者 HBsAg(+) 且可驗到 HBV DNA，符合以下其一：\n   a. 切片纖維化程度符合標準\n   b. 電腦斷層或磁振造影診斷為肝硬化\n   c. 超音波診斷肝硬化，合併脾腫大或胃鏡檢查有食道或胃靜脈曲張\n   d. 超音波診斷肝硬化，PLT < 120 k/uL\n5. 懷孕：HBV DNA ≥ 1000000 IU/mL 之孕婦，從懷孕 28 週起到產後 4 週\n6. 慢性帶原：\n   a. 接受肝移植\n   b. HBsAg(+) 或 HBsAg(-) 但 anti-HBc 陽性，接受非肝臟之移植\n   c. 確診為肝癌並接受根除性治療，且可檢驗到血清 HBV DNA\n   d. 接受化療（經消化科專科醫師同意）：B 肝急性發作者、預防性用藥\n   e. 接受免疫抑制劑治療（經消化系專科醫師同意）：HBsAg(+) 或 HBsAg(-) 但 anti-HBc 陽性出現 B 肝急性發作、預防性用藥（接受 rituximab、anthracycline 衍生物、中高劑量類固醇者）",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-15_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-15_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-16",
@@ -281,7 +291,7 @@
       "D": "若闌尾破裂被腸繫膜包住形成局部膿瘍，需要給與廣效抗生素及考慮安排引流。手術切除可延後至局部發炎改善後再進行"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "急性闌尾炎（Acute appendicitis）臨床診斷與處置重點整理：\n\n(A) 正確，年輕女性急性腹痛鑑別診斷廣泛，需涵蓋婦產科（子宮外孕、骨盆腔發炎 PID、卵巢囊腫扭轉、黃體破裂、子宮內膜異位症）及泌尿道感染/結石等問題，常規應驗尿及驗孕（β-hCG）\n\n(B) 錯誤。各項身體診察徵象定義如下：\n- **McBurney's point tenderness**：肚臍至右前上髂棘（ASIS）連線的外 1/3 處有壓痛與反彈痛（Rebound tenderness / Blumberg sign）\n- **Rovsing's sign**：按壓**左下腹（LLQ）**時引起**右下腹（RLQ）**疼痛\n- **Psoas sign**：右髖關節過度伸展（hyperextension）引發右下腹痛（暗示後腹腔/盲腸後闌尾炎）\n- **Obturator sign**：右髖關節屈曲並內旋（internal rotation）引發疼痛（暗示骨盆腔闌尾炎）\n\n(C) 正確，腹部電腦斷層（CT with contrast）為非孕婦成年人診斷闌尾炎最準確之影像工具（敏感度與特異度皆 > 90%～95%），典型表現包括闌尾直徑擴大（> 6 mm）、管壁增厚環形顯影（target sign）、闌尾周圍脂肪發炎浸潤（fat stranding），闌尾糞石（appendicolith/fecalith）約見於 20%～30% 病人，非診斷之必要條件\n\n(D) 正確，闌尾炎若發生穿孔合併局部膿瘍形成（perforated appendicitis with phlegmon or abscess）且血行動力學穩定者，標準治療策略為先給予廣效靜脈抗生素，較大膿瘍可配合經皮穿刺引流（percutaneous drainage），待急性發炎消退後 6～8 週再進行間隔性闌尾切除術（interval appendectomy）",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -298,9 +308,11 @@
       "D": "Lynch's syndrome導致的大腸癌與遺傳有關，也會增加發生子宮內膜癌或是卵巢癌的風險"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "家族遺傳性大腸癌（以下三者都是 AD）\n\n| syndrome | 突變的基因 | 腸胃道腫瘤 | 其他異常 |\n| --- | --- | --- | --- |\n| FAP | APC（chr. 5q21） | 上百顆 adenoma、intestinal type 胃癌 | 視網膜色素上皮肥厚（CHRPE） |\n| Lynch（HNPCC） | MSH2, MLH1 | 大腸直腸癌 | 子宮內膜癌、卵巢癌 |\n| Peutz-Jeghers | STK11 = LKB1（chr. 19） | hamartoma、胃癌、小腸癌、大腸癌、胰臟癌 | 口腔黏膜色素斑、乳癌、卵巢癌、胰臟癌、肺癌 |\n\n(A) 正確，adenoma/adenomatous polyp 是 adenocarcinoma 的癌前病變（但大部分不會癌化），而 hyperplastic polyp 則不是癌前病變\n(B) 錯誤，一般而言相較於 pedunculated, adenomatous polyp，侵犯癌更容易從 sessile, serrated polyp 中長出。另外 sessile, serrated polyp 大多數帶有 MSI 的變異，常侵犯周圍的淋巴血管組織\n(C) 正確，在沒有預防性切除的情況下，FAP 患者發生大腸癌的機率幾乎 100%\n(D) 正確，Lynch syndrome 就是 HNPCC（hereditary nonpolyposis colorectal cancer），是因為 mismatch repair 功能受到影響，導致有 microsatellite instability（MSI），因此不只是會發生大腸癌，得到子宮內膜癌（Lynch 最常見的腸道外腫瘤）、卵巢癌等機率也比一般人高\n\n＜其他考點＞\n1. 家族遺傳性的大腸癌，發生年紀通常較早\n2. APC 突變系列的還有：\n   a. Gardner：polyposis + osteoma / epidermoid cyst / thyroid tumor\n   b. Turcot：polyposis + medulloblastoma / glioblastoma\n3. Lynch 的大腸癌主要發生在近端大腸（ascending colon）\n   < 記法 > Lynch 唸起來像「鄰居」，所以是「近」端大腸\n4. Peutz Jeghers 病患的過誤瘤（hamartoma）可能會造成出血、腸阻塞、腸套疊等，雖然本身不是癌前病變，但患者罹癌的風險仍比一般人高。可能合併卵巢癌、胰臟癌、乳癌等，但與口腔腫瘤無關【110 內專】\n5. 大腸息肉經切除後，多數人 3 年後再追蹤大腸鏡檢查即可",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-17_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-17_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-18",
@@ -315,9 +327,11 @@
       "D": "parietal cell之尖端細胞膜（apical membrane）型態會因在休息狀態（resting）或受刺激狀態（stimulated）有所改變"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "胃酸分泌由負責刺激分泌的胃泌素（gastrin）、乙醯膽鹼（acetylcholine）、組織胺（histamine），以及負責抑制分泌的體抑素（somatostatin）所調控。負責分泌酸的細胞是位於腺體頸部、峽部（isthmus）的壁細胞（parietal cell，又稱泌酸細胞 oxyntic cell）。壁細胞受到刺激後，會在管狀囊泡（tubulovesicle）的表面表現大量 H⁺/K⁺- ATPase，尖端細胞膜（apical membrane）也會在刺激後形成緻密的胞內小管。這個過程相當耗能，因此需要大量的粒線體產能（約佔整個細胞體積 30 ~ 40%），故 (B) 錯誤",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-18_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-18_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-19",
@@ -332,9 +346,11 @@
       "D": "可能同時合併有總膽管結石"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "急性膽囊炎（acute cholecystitis）通常起因於膽囊管（cystic duct）中結石阻塞、透過以下三種機轉導致發炎：\n\n| 急性膽囊炎發炎機轉 | |\n| --- | --- |\n| 物理性 | 管腔內壓力上升 → 膽囊膨脹 → 黏膜或膽囊壁缺血 |\n| 化學性 | 膽汁中的 phospholipase 把 lecithin 轉成 lysolecithin → 黏膜受損 |\n| 感染性 | 最常見的感染源：E. coli、Klebsiella、Streptococcus、Clostridium<br>* 注意：感染性發炎約佔 50 ~ 85%，並非所有膽囊炎都有感染！ |\n\n急性膽囊炎最常考的 PE 特徵是 Murphy's sign，是指在深度按壓右上腹部時，因疼痛而使深吸氣突然停止的現象。其臨床症狀要跟膽管炎區分，單純急性膽囊炎出現輕微 bilirubin 上升的比例不到一半，因為膽汁還是可以流進腸道，不會回堵到肝臟、大量進入血循；相較之下 CBD stone（choledocholithiasis）、cholangitis 則通常會有黃疸，但急性膽囊炎可能同時有 CBD stone 或膽管炎，此時症狀就有可能重疊。兩者的典型 triad 如下表：\n\n| | |\n| --- | --- |\n| 急性膽囊炎 triad | RUQ pain + fever + leukocytosis |\n| 急性膽管炎 triad（Charcot's triad） | RUQ pain + fever + jaundice<br>* Reynold's pentad = Charcot's triad + 休克 + 意識改變 |\n\n(A) 錯誤，依照 Harrison 21/e Ch. 346 所述，急性膽囊炎中有 5 ~ 14% 並沒有膽結石，稱為 acalculous cholecystitis，主要與缺血有關。這種沒有膽結石的急性膽囊炎通常發生於長期禁食、嚴重燒燙傷、休克、產程過久、接受重大手術的病人。另外還有部分人是因為血管炎、膽囊腫瘤壓迫、膽囊扭轉、寄生蟲塞住等原因導致急性膽囊炎，因此並非「必定」伴隨膽囊結石\n(B) 正確，治療方法依病人穩定度區分。可以保守治療，但因為復發率高，目前的趨勢傾向於能早點開掉就早點開掉\n\n| 急性膽囊炎處理 | |\n| --- | --- |\n| 狀況 | 治療 |\n| 有化膿 / 產氣 / 破掉 | urgent cholecystectomy 或 percutaneous cholecystostomy |\n| 穩定且無併發症 | 72 hr 內 early laparoscopic cholecystectomy (LC) |\n| 生命徵象不穩定 | 先 PTGBD 引流、打抗生素，再開 LC<br>* 常用抗生素：Tazocin、metronidazole + ceftriaxone、metronidazole + levofloxacin、imipenem、meropenem |\n\n＜其他考點＞\n1. 急性膽囊炎的 referred pain 可到右肩、背後\n2. Courvoisier's sign 指的是可觸摸到的「無痛」大膽囊，通常代表有壺腹周圍腫瘤或有 distal CBD 阻塞，跟膽囊炎無關",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-19_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-19_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-20",
@@ -349,9 +365,11 @@
       "D": "原發性硬化性膽管炎（primary sclerosing cholangitis）並不會增加膽管癌之風險"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "膽管癌（cholangiocarcinoma）是第二常見的肝癌類型。危險因子包含：原發性硬化性膽管炎（primary sclerosing cholangitis, PSC）、膽管囊腫、肝結石、Caroli's disease，以及肝吸蟲（fluke）感染等。PSC 主要造成肝內膽管癌以及肝門膽管癌；HBV、HCV 感染以及肝硬化等 HCC 風險因子也是肝內膽管癌的風險因子；有部分 cohort 研究顯示含糖飲料與肝外膽管癌、膽囊癌有關。依照解剖位置可分為以下三種（AJCC 第 8 版採用）類型。目前不論是哪一種類型的膽管癌，手術切除都是唯一的根治性治療\n\n| 膽管癌（cholangiocarcinoma） | | | | |\n| --- | --- | --- | --- | --- |\n| 位置 | 細分 | 比例 | 細胞來源 | 突變類型 |\n| 肝內 intrahepatic（iCCA） | | 20 ~ 30% | 膽管細胞 | FGFR2（25%）、IDH1/2、KRAS（15%）、BRAF、EGFR 等 |\n| 肝外（eCCA） | perihilar（pCCA） | 50 ~ 60% | 膽道上皮、膽周腺體 | TP53（30%）、KRAS（25%）、ERBB2/3（20%）、SMAD4<br>* 吸蟲相關：TP53、SMAD4 |\n| | distal（dCCA） | 20 ~ 30% | | |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-20_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-20_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-21",
