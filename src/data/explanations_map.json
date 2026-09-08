@@ -1582,5 +1582,75 @@
   "112-2-醫學(五)-80": {
     "explanation": "心存善念、政治正確，本題便可答對。《人體器官移植條例》第 10-1 條第 3 點明訂有關業務人員不得無故洩漏有意願捐贈者、待移植者之相關資料。第 12 條強調器官必為「無償」提供或取得，仲介器官是犯法的。就倫理層面而言，國際有《伊斯坦堡宣言》提出器官販運和器官移植旅遊的原則，認為器官移植商業化，有違公平正義，應予以禁止",
     "explanation_image": "/explanations/cropped/112-2-醫學(五)-80_merged.png"
+  },
+  "112-2-醫學(六)-1": {
+    "explanation": "本題看似簡單其實藏有小陷阱，面罩通氣困難與困難插管是兩個不同命題。通氣困難主要與面罩密合度相關，困難插管則有很多的因素 (LEMON)，包含口腔結構 (Mallampati classification)、呼吸道結構 (3-3-2 rule)、頸部活動度、肥胖等，當然很多因素相互會有影響，但 (B) (C) (D) 甚至不是困難插管的預測因子，因此 (A) 選項明顯正確！",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-1_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-1_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-2": {
+    "explanation": "靜脈氧飽和度 (SvO2) 指的是「在身體組織利用完後的氧飽和度」，即 O2 delivery - O2 consumption，故要最精確測量氧飽和度的位置，會是血氧交換前的「肺動脈」\n\n其他考點：\n- 影響 O2 delivery（氧氣含量）的因素為 CO（心輸出量）、Hgb（血紅素）、SaO2（動脈血氧飽和度）\n- 正常 SvO2 約在 70%-75%（寬鬆則 60%-80%），代表全身組織才消耗總氧量的 25%-30%。另一與 SvO2 很像的血液動力學參數為 ScvO2 (central venous oxygen saturation)，以下比較：\n\n| | SvO2 | ScvO2 |\n| --- | --- | --- |\n| 測量位置／導管 | 近端肺動脈<br>(Swan-Ganz，較侵入性) | 上腔靜脈<br>(中心靜脈導管 (CVC)) |\n| 數值（血氧飽和度） | 較高 | 較低 \\* |\n\n\\* 儘管 ScvO2 取樣位置在 SvO2 之前，但上腔靜脈回收自腦部的血流，其耗氧量大，因此一般 ScvO2 數值較 SvO2 低約 5-10%。另外有兩種情況下 ScvO2 反而高過 SvO2：(1) 腦部受抑制，耗氧量下降時，如麻醉狀態、腦傷 (2) 內臟組織用氧量大，如休克，使回收進下腔靜脈氧飽和度低",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-2_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-2_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-3": {
+    "explanation": "這題錯誤的選項為 (D)。術中呼吸功能監測必要的兩項指標就是氧合 (oxygenation) 和換氣 (ventilation)，氧合透過脈搏血氧儀 (pulse oximeter) 監測血氧飽和度 (SpO2，正常為 96~99%)；換氣則透過二氧化碳記錄圖 (capnography) 監測潮氣末二氧化碳 (EtCO2，麻醉病人正常為 30~40 mmHg)；另外二氧化碳記錄圖的波形正常下為 plateau，不成形的波形代表有食道插管等氣管內管位置異常\n\nEtCO2 和動脈 CO2 分壓 (PaCO2) 的差距正常下為 PaCO2 - EtCO2 = 2~5 mmHg，但此差距並非固定值，因此不能完全反應 PaCO2 的變化。常見使 PaCO2 - EtCO2 增加的原因有：灌流不足 (deadspace ↑，如低血壓、肺栓塞、心衰竭等)、肺泡未完全排空、EtCO2 採樣不佳等",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-3_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-3_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-4": {
+    "explanation": "局部麻醉劑有分 amide 類（如 bupivacaine）以及 ester 類（如 cocaine），其中 ester 類的代謝才是透過血漿中的 pseudocholinesterase，amide 類的代謝是透過肝臟的 cytochrome P450，因此 (A) 是錯的。另外，amide 類局部麻醉劑作用時間較久，ester 較短\n\n非離子化麻醉劑由於脂溶性的特性會比離子化麻醉劑作用上更快速，因此當麻醉劑當中非離子化濃度占比越高，onset 會越快；(D) 選項的情形又稱作 Local anesthetic systemic toxicity (LAST)，可能發生在如選項敘述把局部麻醉劑打進血管，或即便沒打到血管但是使用過多局部麻醉劑也可能發生。症狀上最常見是以癲癇來表現，而 cardiac arrest 也是常有的情形（而且即便施行復甦術仍可能繼續發生）。治療上除了基本的復甦處置外，可以靜脈注射 lipid 來處理\n\n小技巧：如何知道一個局部麻醉劑是 amide 還是 ester 類？\namide 類的名字會有兩個 i；而 ester 只會有一個 i",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-4_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-4_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-5": {
+    "explanation": "(A) 鴉片類藥物多數是肝代謝、腎排出，因此此選項敘述有些許錯誤，應是嗎啡累積，若是腎衰竭則是其活性代謝物累積\n(B) 正確，快速施打大劑量鴉片類藥物（特別是短效的 fentanyl, sufentanil, remifentanil, alfentanil）會造成胸腹肌肉僵直（muscle tone 上升），又被稱為 wooden chest syndrome\n(C) 錯誤，鴉片類藥物長期使用會使中樞的神經結構發生改變，對於痛的敏感度會上升，又稱為 opioid-induced hyperalgesia\n(D) 可用推理得知：術中的 catecholamine 產生主要源自創傷或疼痛引發的腎上腺反應，因此大劑量的鴉片類藥物有預防疼痛、避免神經及內分泌反應的效果\n\n補充考點：\n1. 鴉片類藥物作用在 μ、δ、κ 三種受體上，其中副作用造成的呼吸抑制和 μ 受體有關，縮瞳則和 κ 受體有關\n2. 無法因為耐受而緩解的鴉片類副作用：便秘、縮瞳\n3. 拮抗劑：Naloxone",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-5_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-5_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-6": {
+    "explanation": "(A) Permissive hypercapnia 是治療急性呼吸窘迫症候群 (ARDS) 的呼吸器設定策略。但此策略在孕婦上研究不多，母體高二氧化碳的狀態易導致胎兒呼吸性酸中毒，臨床上很少採用\n\n其他選項與【112-1(五)53】一樣考孕婦腹腔鏡的注意事項：\n(B) 孕婦腹腔鏡手術的氣腹壓力應與正常人相仿 (10-15 mmHg)\n(C) 為了增加手術視野，調整病人姿勢於腹腔鏡手術中很常見（特別是頭低腳高），孕婦則要避免擺位去影響血液循環，致使胎盤血流減少\n(D) 有疑義，因氣腹之故，術中通常無法進行非侵入性胎心音監測，若無必要不建議術中例行連續性胎心音監測，一般在術前與術後監測即可",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-6_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-6_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-7": {
+    "explanation": "產婦硬脊膜外止痛就是俗稱的無痛分娩，重點整理於下表：\n\n| 產婦硬脊膜外止痛 (labor epidural analgesia) | |\n| --- | --- |\n| 目的 | 降低產婦分娩期間的疼痛與不適感，有助於縮短產程 |\n| 方式 | 1. 從 L2-L4 高度進針，穿過黃韌帶後朝頭端置入硬脊膜外導管，導管延伸至 T10-L1 高度後於硬脊膜外給藥（約為脊髓尾端高度）<br>2. 完成置放後先給予 test dose，確認導管位置是否正確。若移位入脊髓腔內，則給藥後的運動抑制會比硬膜外更明顯<br>3. 留置軟管，於分娩中持續給藥或漸進式調整劑量 |\n| 藥物 | 局部麻醉劑 (e.g. lidocaine, bupivacaine) + 鴉片類神經止痛藥 (e.g. morphine, fentanyl)；test dose 則含有 epinephrine 幫助止血 |\n| 使用時機 | 第一產程：一旦產婦開始有規律宮縮痛或有止痛需求時就可以考慮無痛分娩。Cochrane 於 2014 年的系統性回顧發現，第一產程早期（子宮頸口 <4~5 cm）即施行無痛分娩，與晚期（子宮頸口 ≥4~5 cm）相比無產程延長或剖腹產風險的顯著差異，且止痛效果比晚期更好<br><br>第二產程：無痛分娩可持續到第二產程初期。然而若持續使用於第二產程，則可能因麻醉過度而延長產程時間 |\n| 副作用 | 頭痛、噁心嘔吐、低血壓、呼吸抑制等，但發生率與嚴重度皆比脊髓麻醉 (spinal anesthesia) 輕微 |\n\n參考資料：BL Sng, et al. (2014). Early versus late initiation of epidural analgesia for labour. Cochrane Database of Systematic Reviews, (10)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-7_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-7_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-8": {
+    "explanation": "(A) (B) (D) 都是癌症疼痛常用的 pure agonist opioids。morphine、hydromorphone、oxycodone、fentanyl 都是屬於半衰期較短的鴉片類藥物，相較半衰期長的 methadone、levorphanol 更好隨時調整劑量；fentanyl 的脂溶性高，可以透過皮膚貼片來讓藥物吸收\n\n止痛藥的給藥途徑通常以最簡單、不具侵入性的方法優先。不論口服或皮膚貼片都比 (C) 靜脈注射來得更適合。另外 NCCN guidelines 特別提出兩種不建議使用的藥物：\n1. Meperidine：長期使用會使代謝物累積（尤其腎功能差或脫水者），造成神經毒性或心律不整\n2. Mixed agonist-antagonist opioid：有天花板效應，另外如果之前使用 pure agonist opioids 可能會有嚴重的戒斷症狀\n\n綜上所述，IV meperidine 並不適合長期疼痛使用\n參考資料：RA Swarm, et al. (2019). Adult cancer pain, version 3.2019, NCCN clinical practice guidelines in oncology. Journal of the National Comprehensive Cancer Network, 17(8), 977-1007",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-8_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-8_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-9": {
+    "explanation": "ARDS 簡易的解釋是：一週內發生，無法用心臟問題、肺積液或塌陷解釋的急性雙側肺浸潤。以此就可以快速刪去 (C) (D)，至於 (B) 重度 ARDS 定義是 P/F ratio 小於 100，因此只剩 (A) 選項能選，以下附上 Berlin definition 給大家參考\n\n| Berlin definition of ARDS | 定義解釋 |\n| --- | --- |\n| 發生時間 | 一週內發生的臨床事件或新的／惡化的呼吸症狀 |\n| 胸部影像 | 雙側肺陰影：無法以積液、肺塌陷或肺結節完全解釋的 |\n| 肺水腫成因 | - 呼吸衰竭：無法完全以心衰竭或積液過多解釋<br>- 可用心臟超音波進一步評估呼吸功能 |\n| 氧合能力<br>(PEEP ≥ 5cmH2O 下) | - Mild：200 < P/F ≤ 300 mmHg<br>- Moderate：100 < P/F ≤ 200 mmHg<br>- Severe：P/F ≤ 100 mmHg |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-9_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-9_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-10": {
+    "explanation": "(B) 格子狀退化／變性 (lattice degeneration) 易發生在高度近視的人身上，由於眼軸拉長，導致周邊視網膜脆弱、變薄萎縮而出現小圓洞，故稱格子狀退化。病變區域為「周邊」視網膜，超出普通 OCT 的評估範圍。診斷方式多靠眼底鏡，可搭配眼底照相 (fundus cameras)\n格子狀退化通常無症狀，但容易進一步造成視網膜裂孔和視網膜剝離，高度近視且有格子狀退化的人發生視網膜剝離的機會高達 30%\n\n(D) 這裡應特指與高度近視相關的後葡萄腫 (posterior staphyloma)，為眼軸拉長使眼球後極 (posterior pole) 向後擴張的表現\n\n(A) (C) (D) 發生區域都在黃斑部與視神經盤附近，可用 OCT 評估診斷，(C) 若有光學共軛掃描血管攝影 (OCTA) 更佳",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-10_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-10_merged.png"
+    ]
   }
 }
