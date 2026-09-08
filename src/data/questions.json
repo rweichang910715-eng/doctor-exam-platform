@@ -20275,8 +20275,8 @@
       "D": "middle rectal artery"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "解剖記憶題，十二指腸第二部分開始直到橫結腸前三分之二都是「上腸繫膜動脈」支配，剩下三分之一的橫結腸到上段直腸是「下腸繫膜動脈」支配，由此可知不在此範圍者為 (D) middle rectal artery，是源自於內骼動脈分支的下臀動脈，有兩個分支分別供應中直腸與下直腸",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-51_merged.png",
     "explanation_images": null
   },
   {
@@ -20292,8 +20292,8 @@
       "D": "familial adenomatous polyposis"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "當發現腸胃道有 hamartomatous polyps（缺陷瘤，病理屬良性、non-neoplasm），(A)、(B) 皆有可能，而理學檢查發現有嘴唇、口腔黏膜有黑色素沉澱的小黑點，就剩下 (B) 了。以下表格比較各選項疾病：\n\n| 分類 | 疾病表現 | 遺傳模式與基因 | 癌症風險（重要者標示底線） |\n| --- | --- | --- | --- |\n| juvenile polyposis syndrome (JPS) | hamartomatous polyps（多大腸直腸） | 體染色體顯性 (AD)<br>SMAD4, BMPR1A | <u>大腸直腸癌</u><br>小腸癌、胃癌 |\n| Peutz-Jeghers syndrome (PJS) | hamartomatous polyps（多小腸），易發生阻塞、腸套疊<br>嘴唇、口腔黏膜有黑色素沉澱 | 體染色體顯性 (AD)<br>STK11 | <u>大腸直腸癌</u>、<u>小腸癌</u><br><u>乳癌</u>、<u>婦科三癌</u>、<u>睪丸癌</u><br><u>胃癌</u>、<u>胰臟癌</u><br>肺癌 |\n| Lynch syndrome (HNPCC) | 無息肉，故名 Hereditary 'Non-Polyposis' Colorectal Cancer | 體染色體顯性 (AD)<br>mismatch repair gene (MMR) | <u>大腸直腸癌 (50%)</u><br><u>子宮內膜癌</u>、<u>卵巢癌</u><br><u>泌尿道癌</u><br>胃癌、胰臟癌、膽管癌 |\n| familial adenomatous polyposis (FAP) | 數百顆以上 adenomatous polyps（多大腸直腸） | 體染色體顯性 (AD)<br>APC gene | <u>大腸直腸癌 (100%)</u><br>胃癌、胰臟癌、膽管癌<br><br>若 Gardner syndrome：<br>表皮囊腫 (epidermoid cyst)<br>纖維瘤 (fibroma)<br>硬纖維瘤 (desmoid tumor)<br>骨瘤 (osteoma) |\n\n嘴唇的理學檢查，Peutz-Jeghers syndrome 常與 Osler-Weber-Rendu syndrome（即 Hereditary hemorrhagic telangiectasia, HHT）相提並論：後者會在嘴唇及身體各處發現小血管擴張，是動靜脈畸形 (arterio-venous malformations) 所致，症狀常有流鼻血、腸胃道出血，並可能有腦、肝、肺部的動靜脈畸形，也是一個體染色體顯性遺傳疾病",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-52_merged.png",
     "explanation_images": null
   },
   {
@@ -20309,8 +20309,8 @@
       "D": "患者精神穩定，無酒精依賴或非法使用毒品"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "112 年國考真的蠻愛考減肥手術的（可看【112-2(五)37】詳解的常見術式比較表格），不過考手術適應症相較術式佛心很多。選項中只有 (C) 不是減肥手術適應症，以下整理 Sabiston 提供的適應症：\n- BMI ≥ 40，或 BMI ≥ 35 且合併有高危險併發症\n- 患者內科治療失敗，如藥物、飲食、運動治療等\n- 精神狀態健全，無藥物濫用或精神疾病\n- 無重大器官功能異常並可接受手術風險\n\n至於台灣健保給付的手術適應症大致與上述相同，但調整為 BMI ≥ 37.5，或 BMI ≥ 32.5 且合併有高危險併發症；且新增年齡 20~65 歲，以及減重門診治療達半年以上",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-53_merged.png",
     "explanation_images": null
   },
   {
@@ -20326,8 +20326,8 @@
       "D": "成像技術數位化提供解剖訊息，可以在手術前生成三維VR模型來模擬手術環境"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "這題對大家來說應該是送分題，透過語意敘述就可以作答。微創手術模擬訓練從最傳統的動物模型、box trainer（用一個盒子模擬病人身體，並伸進器械模擬手術進行），到了後來發展出 computer-enhanced trainer 與虛擬實境，都可以進行手術模擬。起初 box trainer 比 VR 還要有更大的優勢在於有觸覺回饋，也就是碰到東西會有感覺，VR 則沒有。到了後來將 Augmented realistic (AR) 技術引進後，現在即便透過 VR 也可以有觸覺回饋，主要缺點就是昂貴與不方便攜帶\n\n(B) 選項提到的深度感知、手眼協調、雙手敏捷度訓練其實從最早的動物模型與 box trainer 就可以訓練到，更不用說近期的 VR 與 AR 模擬環境也都可以做到。從常見的 CTA 或是 MRCP 就可以知道現有技術已經可透過多張影像重建出立體結構，將此立體結構模型結合 VR 就可以模擬特定病人的手術解剖構造，並先行模擬練習",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-54_merged.png",
     "explanation_images": null
   },
   {
@@ -20343,8 +20343,8 @@
       "D": "腹腔鏡闌尾切除手術"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "基本的腹腔鏡手術可以在腹腔內直接完成，基本上就是腸胃道的手術為主，而 (B) 腹腔鏡子宮切除手術須同時配合體外經陰道口作業，會將子宮經由陰道取出，再由陰道口做腹膜修補，因此不屬於基本的腹腔鏡手術術式",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-55_merged.png",
     "explanation_images": null
   },
   {
@@ -20360,8 +20360,8 @@
       "D": "多樣藥化療（multidrug chemotherapy）可提高原發性骨淋巴瘤（primary lymphoma of the bone）的5年生存率"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Small-blue-round-cell tumor 是一群罕見、惡性度高的軟組織肉瘤，因 H&E 染色下呈現普遍小而圓、藍染、未分化的細胞而得名，成員包含 Ewing sarcoma、primitive neuroectodermal tumor (PNET)、non-Hodgkin's lymphoma、rhabdomyosarcoma、Wilms' tumor (nephroblastoma)、neuroblastoma 等\n(A) 錯誤。Ewing sarcoma 家族大多為 t(11;22)(q24;q12) 轉位導致的 EWSR1-FLI1 fusion\n(B) Ewing sarcoma 最常長在長骨的骨幹 (diaphysis)，對於放射線敏感，其療程通常是「化療 → 局部治療（手術／放療）→ 化療」\n(C) (D) primary lymphoma of bone 佔原發性骨腫瘤不到 5%，屬於 non-Hodgkin's lymphoma (NHL)，療程也採用 NHL 的 CHOP 或 R-CHOP 組合，有時合併放射線治療，反應不錯，手術則少有角色。研究顯示化療或合併放化療比起單純放療的預後佳，預後依期別不同有異，整體 5 年存活率 66%",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-56_merged.png",
     "explanation_images": null
   },
   {
@@ -20377,8 +20377,8 @@
       "D": "給與支持性治療，必要時可加上類固醇治療"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "依關鍵字：股骨骨折、皮膚點狀出血、意識改變，可以高度懷疑病人有脂肪栓塞症候群，是骨折常見且嚴重的併發症之一\n\n| 脂肪栓塞症候群 (fat emboli syndrome, FES) | |\n| --- | --- |\n| 成因 | 好發於外傷，尤其長骨、骨盆骨折（發生率 2~5%） |\n| 病生理 | 骨髓的脂肪隨骨折進入循環中，造成肺栓塞且誘發全身凝血與發炎反應 |\n| 症狀／徵象 | 皮膚點狀出血 (petechiae)、意識改變、呼吸衰竭<br>胸部 X 光呈現 multiple flocculent shadows，又稱 snow-storm appearance |\n| 治療 | 支持性治療 ± 類固醇（綜合分析顯示類固醇可降低 78% FES 發生率）；等病況穩定再做骨折手術 |\n\n可能有同學看題目第一時間想到的是敗血症 (sepsis)，但兩種疾病都可以表現點狀出血 (DIC)、意識改變與呼吸衰竭，治療也包含支持療法和類固醇（比 FES 多了抗生素），若用敗血症的診斷作答其實也能殊途同歸\n\n(C) 題幹唯一跟腦壓升高有關是意識改變，但意識改變的可能原因太多，在沒有其他症狀（頭痛、嘔吐）、徵象（視乳突水腫）輔助下，不會懷疑腦壓有升高",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-57_merged.png",
     "explanation_images": null
   },
   {
@@ -20394,8 +20394,8 @@
       "D": "boxer's fracture"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "骨科最愛考的人名題又出現了。底下將骨科常見手指、腳趾 fractures 合併討論給大家參考\n\n| 部位 | 骨折名稱 | 斷裂位置與方式 |\n| --- | --- | --- |\n| 手指 | Bennett | 大拇指掌骨近端（近 CMC joint）的單純性骨折（裂成兩半） |\n| | Rolando | 和 Bennett 類似，但是比較嚴重，是裂成較多塊的粉碎性骨折 |\n| | Boxer's | 顧名思義，拳擊手出拳後第五指的掌骨遠端（近 MCP joint）骨折並往掌側位移（也可以發生在第四指，但通常講 Boxer 是指第五指） |\n| 腳趾 | Jones | 第五趾蹠骨斷裂在 metaphysis 的位置 |\n| | Dancer's | 同樣是第五趾蹠骨但是位置更靠近 tarsometatarsal (TMT) joint，約在 tuberosity 處，又稱 avulsion fracture |\n| | Lisfranc | TMT joint 又名 Lisfranc joint；Lisfranc fracture 分很多種類，大原則是蹠骨們與跗骨 (tarsus) 分離 |\n\n掌骨：metacarpal bone；蹠骨：metatarsal bone",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-58_merged.png",
     "explanation_images": null
   },
   {
@@ -20411,8 +20411,8 @@
       "D": "髕骨韌帶斷裂（patellar tendon rupture）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "「膝部疼痛卡住」暗示應為半月板傷害，常見主訴是膝關節有異物感或在彎曲 30° 有鎖住的感覺，無法伸直及彎曲\n\n(A) (B) (D) 選項皆屬韌帶斷裂，患者應會主訴在受傷當下膝關節內有斷裂聲，可在藉由困難移動的動作來鑑別，前十字韌帶拉傷仍可移動，但在 Lachman test 會看到脛骨向前鬆動；髕骨韌帶斷裂則會使 knee extension 受到影響，通常受傷後無法行走；內側副韌帶斷裂則相對輕微，患者仍可移動只是在膝內側可能會有紅腫瘀青表現",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-59_merged.png",
     "explanation_images": null
   },
   {
@@ -20428,8 +20428,8 @@
       "D": "肱骨外髁骨折（lateral condylar fracture of the humerus）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Salter-Harris classification 針對生長板傷害的型態做分類：\n\n| Salter-Harris classification | 型態描述 | 發生率 & 預後 |\n| --- | --- | --- |\n| I Slipped | 骨折面橫斷過生長板，無位移且不波及 metaphysis 和 epiphysis | < 10%<br>預後佳 |\n| II Above | 骨折面橫斷過生長板，並向 metaphysis 端裂出 | 最常見 (75%)<br>預後佳 |\n| III Lowered | 骨折面橫斷過生長板，並向 epiphysis 端裂出 | < 10%<br>預後差 \\* |\n| IV Through/Transverse | 骨折斷面與骨走向較平行，涉及生長板、metaphysis、epiphysis | 10%<br>預後差 \\* |\n| V Ruined/Rammed | 很大的能量 (crush/compression) 擾亂生長板內的組成，如電擊、燒傷、凍瘡，無明顯斷面或位移 | < 1%<br>預後最差 |\n\n\\* 牽涉 epiphysis 對日後生長影響較大，因其包含保留區 (zone of reservation) 和增殖區 (zone of proliferation)，涉及軟骨內骨化的過程，常要手術復位及固定 (ORIF)\n\n(A) 鎖骨骨折大部分為 midshaft fracture (80%)，不影響生長板\n(B) 近端肱骨骨折在兒童不常見，但近三成近端肱骨骨折涉及生長板（位於 anatomical neck of humerus），由於肩關節方位之故，此處的生長板骨折以 type II 為主，也因近端肱骨生長板 remodeling 能力很好，通常保守治療即可。（補充：七成近端肱骨骨折位於 surgical neck）\n(C) 肱骨髁上骨折為兒童最常見的手肘骨折類型、(D) 肱骨外髁骨折次之，但遠端肱骨骨折少有生長板傷害，有的話原因多是兒虐或分娩損傷，type I~IV 皆有可能",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-60_merged.png",
     "explanation_images": null
   },
   {
