@@ -384,9 +384,11 @@
       "D": "Sequential Organ Failure Assessment（SOFA）score"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Model for End-Stage Liver Disease（MELD）score 是 Mayo Clinic 的 Patrick S. Kamath 與同事研發的，最初叫做 Mayo End-Stage Liver Disease（MELD）model，本來是拿來預測肝硬化不做 TIPS 的存活率。後來成為了決定接受肝移植優先次序的模型，故本題選 (A)\n\nMELD score 以前有個版本叫做 MELD-Na，不過 MELD 在 2021 更新成為 MELD 3.0 後，本身就加入性別、Na、Albumin 等評分項目了（Creatinine 的上限從 4 下調到 3 mg/dL）。有關肝臟疾病的常用指標或計分整理如下：\n\n| score / grade / stage | 用途 | 項目 |\n| --- | --- | --- |\n| MELD（舊版） | 肝臟移植排序 | Bilirubin、Creatinine、INR、BIW 洗腎或近一週內 CVVH ≥ 24hr |\n| MELD 3.0 | | Bilirubin、Creatinine、INR、Na、Gender、Albumin |\n| Child-Turcotte-Pugh | 評估肝硬化嚴重度、肝功能 | Albumin、Ascites、Bilirubin、encephalopathy、PT 或 INR |\n| Maddrey discriminant function score | 找出適合使用類固醇的酒精肝炎病患 | PT、Bilirubin |\n| BCLC stage | HCC 治療參考 | 腫瘤顆數、大小、整體 ECOG 狀況（performance status）、Child-Pugh |\n\n(B) Child-Turcotte-Pugh 過去會考算分數，所以細項都要會：\n\n| Child-Turcotte-Pugh Score | 1 | 2 | 3 |\n| --- | --- | --- | --- |\n| Albumin | > 3.5 | 2.8 ~ 3.5 | < 2.8 |\n| Ascites | 無 | 輕 ~ 中（利尿劑有效） | 嚴重（利尿劑 refractory） |\n| Bilirubin | < 2 | 2 ~ 3 | > 3 |\n| Coagulation（PT 延長） | < 4 | 4 ~ 6 | > 6 |\n| Coagulation（INR） | < 1.7 | 1.7 ~ 2.3 | > 2.3 |\n| Encephalopathy | 無 | 輕 ~ 中（Gr 1~2） | 嚴重（Gr 3~4） |\n\nClass A：5 ~ 6 分\nClass B：7 ~ 9 分\nClass C：10 ~ 15 分\n\n(D) SOFA score 跟 APACHE-II score 都是用於預測 ICU 病人的死亡率，但 APACHE-II 只看前 24 hr，而 SOFA 看的是連續的變化（sequential）",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-21_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-21_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-22",
@@ -401,9 +403,11 @@
       "D": "無消化潰瘍，但在胃體部上方有一小段可見之動靜脈畸生血管（arteriovenous malformation）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這題在考 Peptic ulcer 的 Forrest classification，從 class I 到 class III 再出血機率由高至低，各家統計出來的再出血機率數值略有不同，本題知道相對風險就可以作答。選項中再出血機率最小的應為 (C)，屬 Forrest class III\n\n| Forrest class | 內視鏡下表現 | 再出血機率 |\n| --- | --- | --- |\n| I A | 正在噴血（spurting hemorrhage） | 高<br>↓<br>↓<br>↓<br>↓<br>低 |\n| I B | 滲血（oozing hemorrhage） | |\n| II A | 未出血的血管（non-bleeding visible vessel） | |\n| II B | 潰瘍底部有附著血塊（adherent clot） | |\n| II C | 黑色的潰瘍底（hematin covered lesion） | |\n| III | 乾淨的潰瘍底（clean base w/o active bleeding） | |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-22_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-22_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-23",
@@ -418,9 +422,11 @@
       "D": "急性感染時，核心抗體（anti-HBc IgM）在表面抗原（HBsAg）出現的4週後才可以偵測到"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "B 肝的血清學反應很愛考，請務必記熟。被 HBV 感染後，第 1 個（8 ~ 12 週）可以在血中偵測到的是 HBsAg，過了 2 ~ 6 週後才會開始出現症狀以及肝指數上升。HBcAg 出現在肝細胞內，因此通常無法在血中直接偵測到，但 anti-HBc IgM 在偵測到 HBsAg 後 1 ~ 2 週即可被測得，比 anti-HBs 早數週甚至數個月出現。若發生只有 anti-HBc 陽性的情況，可能是急性輸血相關肝炎或 occult infection\n\n| HBV 感染血清學指標 | | | |\n| --- | --- | --- | --- |\n| 血清指標 | 出現時機 | 消失時機 | 意義 |\n| HBsAg | 感染後 8 ~ 12 週 | 出現黃疸後 1 ~ 2 個月，不超過 6 個月（變慢性則會） | 活動性感染（active infection）的指標 |\n| anti-HBs | 急性：HBsAg 消失後 | - | 有保護力的 Ab |\n| HBcAg | 通常測不到 | - | 真的有感染才會由 |\n| anti-HBc | IgM 在 HBsAg 出現 1 ~ 2 週後出現 → 慢性感染時為 IgG | - | 感染 (+)、打疫苗 (-) |\n| HBeAg | HBsAg 出現時或出現後隨即可測得 | 自限性：肝指數對頂、HBsAg 消失前 | 複製活躍度、感染力高<br>* 量化指標：HBV DNA |\n| anti-HBe | HBeAg 消失後 | - | 複製活躍度、感染力低 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-23_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-23_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-24",
@@ -435,9 +441,11 @@
       "D": "anti-CD20 單株抗體（rituximab）注射"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "出現 creatinine 爬升、切片下內皮細胞損傷 + 有 C4d 沉積 → antibody-mediated 腎排斥。治療方法包含：血漿置換（plasmapheresis）、IVIG、rituximab（anti-CD20 針對 B cell）、bortezomib（針對漿細胞）。並非使用 anti-IL2 receptor 的單株抗體，故選 (C)\n\n| 排斥類型 | 病理表現 | 治療 |\n| --- | --- | --- |\n| Acute T-cell mediated | 間質、腎小管、血管有免疫細胞浸潤 | 高劑量類固醇（500 ~ 1000 mg MTP x 3 天）、ATG |\n| Antibody-mediated | 內皮細胞損傷、微血管有 C4d 沉積 | 血漿置換、IVIG、rituximab、bortezomib |\n\n＜補充＞\n1. 腎臟移植病患的前三大死因：心血管意外（29%）、感染（18%）、惡性腫瘤（17%）\n2. 腎移植後免疫抑制治療：\n\n| 腎移植後免疫抑制藥 | | |\n| --- | --- | --- |\n| 類型 | 舉例 | |\n| 誘導期 | depleting | anti-thymocyte globulin (ATG)、Alemtuzumab |\n| | non-depleting | basiliximab (IL-2R antagonist)（只能當預防，不能當已發生排斥的治療） |\n| 維持期 | anti-metabolite | Azathioprine (AZA)、mycophenolate (MMF) |\n| | steroids | methylprednisolone (MTP) |\n| | calcineurin-i | cyclosporine、tacrolimus (FK506) |\n| | mTOR-i | sirolimus (rapamycin)、everolimus |\n| | costimulation-i | belatacept（CTLA-4 融合蛋白） |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-24_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-24_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-25",
@@ -452,9 +460,11 @@
       "D": "supply high-dose vitamin C"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "圖中的結晶形狀像信封，是最常見的 calcium oxalate dihydrate 結石\n\n| 結石的 risk factors | | | | | |\n| --- | --- | --- | --- | --- | --- |\n| 結石 | 食物 | 飲水 / 尿量 | 尿液成分 | 尿液 pH | 其他 |\n| 草酸鈣（75%） | 低鈣飲食、高劑量 vitamin C | 水喝太少、UOP < 1 L/d、含糖飲料（柳橙汁例外） | 高草酸 / 高鈣、低檸檬酸 | 不影響 | - |\n| 磷酸鈣（15%） | - | | 高磷酸 / 高鈣、低檸檬酸 | ≥ 6.5 | type 1 RTA、1° 副甲亢 |\n| 尿酸（8%） | 高普林飲食 | | 高尿酸 | ≤ 5.5 | - |\n\n(A) 錯誤，飲食中有攝取「高鈣食物」反而會「降低」結石的生成。因為高鈣飲食會讓腸道吸收較少 oxalate，反而不容易形成 calcium oxalate stones。但如果是透過吃保健食品補鈣，則會增加結石機率（可能與攝取的時間與平常進食不同，或與總量過高有關）。因此平常食物要高鈣，但不用特別去補充鈣離子營養品\n(B) 正確，尿液 pH 不會影響 calcium oxalate 結石的生成\n(C) 錯誤，tiopronin 跟 penicillamine 是治療 cystinuria 的藥，透過生成溶解度比 cystine 高的 disulfide 來增進結石排除，兩者均無法減少 calcium oxalate 結石生成\n(D) 錯誤，vitamin C 會增加男性 calcium oxalate 結石生成。因為 vitamin C 會增加尿液中的 oxalate 濃度，故應該要避免額外補充 vitamin C",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-25_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-25_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-26",
@@ -469,9 +479,11 @@
       "D": "腎衰竭發展耗時數日至數週，符合原發性免疫反應動力學（kinetics）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "急性間質性腎炎（acute interstitial nephritis, AIN）可有以下幾種表現類型：\n1. 常見：偶然發現 creatinine 升高\n2. 典型：發燒、紅疹、血中嗜酸性白血球增加、使用 β-lactam Abx 後出現\n   * 雖稱典型，但這些症狀並不常見\n3. 非典型：嚴重蛋白尿、使用 NSAID 後出現\n\n診斷方式：\n\n| 診斷方式 | |\n| --- | --- |\n| 支持診斷、常見 | 無法解釋的腎損傷、有膿尿（pyuria）與 WBC casts、血尿 |\n| 可支持診斷、少見 | 周邊嗜酸性白血球增加 |\n| 可有可無 | oliguria、藥物暴露史 |\n| 不敏感也不準確 | 尿中嗜酸性白血球 |\n| 通常不用做 | 腎臟切片（間質、腎小管大量免疫細胞浸潤） |\n\n(C) 使用 PPI 所導致免疫性間質性腎炎進程比較緩慢，其他也會有類似表現的藥物包含：sulfonamide、5-ASA、反轉錄病毒藥物\n(D) 這句中文有點神秘，推測想表達的應該是：AIN 表現的急性腎衰竭的病程（包含時程），與免疫反應相關，會造成組織水腫、腎小管細胞受損、影響腎小管內正常流動、產生 cast 或 crystals 等\n\n＜其他考點＞\n1. drug free 一陣子後重新使用（reintroduce）rifampin 會導致嚴重且快速發生的 AIN\n2. 慢性間質性腎病的常見臨床表現：Fanconi syndrome、貧血",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-26_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-26_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-27",
@@ -486,9 +498,11 @@
       "D": "多囊性腎臟病的患者與一般末期腎病不同的是，患者發生嚴重貧血的機率較小，當惡化至尿毒症時，患者一樣可接受透析治療或腎臟移植"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "ADPKD 是最常見的遺傳性腎臟疾病，分為兩型，都是影響 primary cilium 中的 polycystin (PC)。PC1 以及 PC2 會以 1:3 的比例組合成 PC1/2 通道複合體，負責調控鈣離子的進出以及 G-protein signaling。如果其中一者發生異常，可能會導致 cAMP 增加 → protein kinase A 活性增加 → 促進囊泡內襯細胞增生及液體分泌。長期下來，兩邊的腎臟會變很大顆，與一般 CKD 腎臟會萎縮的表現不同\n\n| ADPKD 症狀 | |\n| --- | --- |\n| 常見症狀 | 1. 60% 有背或軀幹疼痛：因為 cyst 感染、出血、長腎結石<br>2. 40% 有 gross hematuria：因為 cyst 破掉出血、腎結石磨擦<br>3. 最常見死因是心血管併發症（40%）：第二常見死因是感染（25%）<br>4. 最常見腎外併發症：liver cysts（膽道上皮長出來的） |\n| 較少見症狀 | 1. proteinuria（就算有通常也不嚴重）<br>2. renal cell carcinoma（罕見，跟一般人比起來風險無顯著增加！） |\n\n(B) 正確，整理於下表。ADPKD 遺傳形式為完全外顯（complete penetrance）但表現度多樣（variable expressivity）。另外要記 ARPKD 的突變基因是 PKHD1（chr. 6p），嚴重者會因為腎功能太差 → 尿液製造困難 → oligohydramnios → 影響胎兒肺發育\n\n| ADPKD 比較 | | | | |\n| --- | --- | --- | --- | --- |\n| | 基因 | 30 歲 | 50 歲 | 70 歲 |\n| 第一型（85%） | PKD1 (chr. 16p13.3) → polycystin 1 (PC1) | focal cysts；< 5% 腎衰竭 | 上百、千顆 cysts；35% 腎衰竭 | 95% 腎衰竭 |\n| 第二型（15%） | PKD2 (chr. 4q21-23) → polycystin 2 (PC2) |（惡化較慢） | < 5% 腎衰竭 | 45% 腎衰竭 |\n\n(C) 錯誤，ADPKD 病人發生顱內動脈瘤的機率約為一般人的 4 ~ 5 倍，盛行率約 8%，有家族史的人風險又再 x3 倍。雖說這種動脈瘤是「先天性」的，但其實並非出生時就有，而是隨著年紀才逐漸長出；動脈瘤破裂一般常見於 50 歲的中年女性\n(D) 正確，ADPKD 的紅血球生成素（EPO）比起其他原因導致的 CKD 高，因此血比容（Hct）也較高、會較晚才出現貧血症狀\n\n＜其他考點＞\n1. 腎臟會變大顆的 CKD：ADPKD、DM、HIV、amyloidosis、腎靜脈栓塞\n2. ADPKD 最常合併的心臟瓣膜異常：mitral valve prolapse（25 ~ 30%）\n3. ADPKD 如果發生 cyst 感染，一般的抗生素不易穿透，要選 FQ 或 3 代 cefa\n4. ADPKD 的腎結石有過半是 uric acid stone，calcium oxalate 僅第二多\n5. 經證實可延緩 ADPKD 腎功能衰退、減緩體積增加的藥是 tolvaptan（目前唯一經美國 FDA 認可）【110 內專】\n6. 低鹽飲食可能對 ADPKD 有幫助，高血壓一線用藥：ACE-i、ARB【110 內專】",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-27_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-27_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-28",
@@ -503,9 +517,11 @@
       "D": "minimal change disease（MCD）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "在 108 年內專考了一題幾乎一樣的（差在抽掉一個選項）\n\n腎病症候群（nephrotic syndrome）的典型臨床表現為嚴重蛋白尿、輕微血尿、低白蛋白、高膽固醇血症、水腫以及高血壓。雖然血栓相關併發症是所有腎病症候群的共同特色，但 membranous nephropathy (MN) 或稱 membranous glomerulonephritis (MGN) 的發生率最高。目前對於是否要預防性使用抗凝血藥物還有爭議，但如果出現「低白蛋白血症」則建議使用",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-28_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-28_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-29",
@@ -520,9 +536,11 @@
       "D": "B型間細胞（type B intercalated cells）控制酸的分泌與重碳酸根再吸收"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 皮質集尿管（cortical collecting duct）上皮細胞類型 | |\n| --- | --- |\n| 主細胞（principal cell，chief cell！） | 1. 負責留水、留 Na、排 K 的細胞<br>2. aldosterone、保鉀利尿劑、鹽皮質素受體拮抗劑（MRA，如：spironolactone 與 eplerenone）的作用細胞 |\n| A 型間細胞 | 負責排酸（H⁺）、再吸收重碳酸根（HCO₃⁻） |\n| B 型間細胞 | 負責排重碳酸根（HCO₃⁻）、再吸收酸（H⁺） |\n\n(A) 是排鉀離子，不是再吸收\n(C)(D) 正好寫反，A 型間細胞排酸、B 型間細胞排鹼\n＜記法＞ 叫什麼型間細胞就排什麼，A 型排酸（acid）、B 型排鹼（base）",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-29_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-29_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-30",
@@ -537,9 +555,11 @@
       "D": "不建議使用低劑量多巴胺（dopamine）來預防急性腎損傷"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "急性腎損傷的處置：透過輸液及升壓劑維持良好血液動力學、少用傷腎的藥（ACE-i / ARB / NSAID / aminoglycoside）、適時啟動 renal replacement therapy（RRT）\n\n(A) 如果有大量出血者應輸 packed RBC，其他 AKI 患者建議選擇 crystalloid，因為 albumin 比較貴，而且跟 crystalloid 比並沒有 survival benefit，也不會降低使用 renal replacement therapy 的需求\n\n| 狀況 | 輸液選擇 |\n| --- | --- |\n| 大失血 | packed RBC |\n| hypochloremic AKI | 0.9% normal saline (NS) |\n| non-hypochloremic AKI | Buffered crystalloid（例：lactate Ringer）<br>* 如果輸太多 NS 可能會導致高氯酸血症 |\n\n(B) 在嚴重 AKI 的病人身上出現蛋白質消耗是一件常見的事情。然而蛋白質的攝取量多寡要依 AKI 嚴重度有所調整。總熱量目標是每天 20 ~ 30 kcal/kg，過低可能導致酮酸血症（ketoacidosis）或出現負的氮平衡（nitrogen balance）。不同嚴重度每日所需之蛋白質量參考 Harrison 21/e Ch. 310 整理如下：\n\n| 狀態 | 每日所需蛋白質 |\n| --- | --- |\n| 不用洗腎 | 0.8 ~ 1.0 g/kg/day |\n| 洗腎中 | 1.0 ~ 1.5 g/kg/day |\n| 持續進行 RRT | 最多 1.7 g/kg/day<br>* 有 guideline 建議 1.5 ~ 2.5，但考試先以 Harrison 為主 |\n\n(C) 因為 BUN、creatinine 主要是看腎絲球過濾率，不能完全反應腎實質的損傷，所以拿來預測 AKI 惡化程度的還有其他指標，整理於下表。選項中的 furosemide stress test 主要是看在體液容積足夠的情況下，腎小管的功能是否有損傷、是否能對 furosemide 的刺激做出相對的反應，可以作為 AKI 惡化的預測工具。檢測方法是 iv. bolus 1.0 ~ 1.5 mg/kg 的 furosemide，並於 2 hr 內監測 urine output（UOP）\n\n| 指標 | 說明 |\n| --- | --- |\n| Furosemide test | 1. 適合用於寡尿型 AKI（oliguric），檢測腎小管功能<br>2. 注射後 2hr 的 UOP < 200 mL 者可能惡化較快 |\n| 尿液鏡檢 | 有腎小管上皮細胞、granular cast 者可能惡化較快 |\n| KIM-1 | 反應腎臟缺血性傷害、nephrotoxin 導致的損傷（如：cisplatin） |\n| NGAL | 反應發炎、近端腎小管損傷 |\n| IGFBP7 + TIMP-2 | 用於預測 critically ill 病人發展出中重度 AKI 之風險 |\n\n(D) 已經有不少物質被證實對 ATN 沒有任何好處，包含：ANP、low dose dopamine、endothelin antagonist、EPO、CCB、α-blockers、PGE、IGF 等。依照 2012 KDIGO AKI 指引的 Chapter 3.1: Hemodynamic monitoring and support for prevention and management of AKI，建議使用血管收縮劑配上輸液以維持腎臟灌流預防 AKI。但相比於 norepinephrine，low-dose dopamine 會有較高的風險產生心律不整，因此並不建議使用",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-30_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-30_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-31",
