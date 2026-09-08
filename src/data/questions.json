@@ -20085,9 +20085,11 @@
       "D": "手術前做細針穿刺細胞學檢查（fine needle aspiration cytology），若是惡性，即可切除全乳房"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "乳房腫瘤切片的方式整理如下。大致記得侵入性越高的檢查，診斷準確度通常越好\n\n| 切片檢查 (incisional biopsy) | | | 手術切除檢查 (excisional biopsy) |\n| :--- | :--- | :--- | :--- |\n| **細針抽吸 (fine needle aspiration)** | **粗針切片 (core needle biopsy)** | **真空吸引切片 (vacuum-assisted biopsy)** | |\n| **取得檢體** | 少 -----------------------------------------------------> 多 | | |\n| **優點** | 快速、不需麻醉 | 可區分異常增生、原位癌或侵犯性乳癌 | |\n| **缺點** | 只能判斷良性 / 惡性，無法區分異常增生、原位癌或侵犯性乳癌 | 耗時、需麻醉、複雜度高的病灶需要重複切片 | 耗時、需麻醉、傷口大易留疤 |\n| **應用** | 乳癌篩檢、術前偵測淋巴結轉移 | 乳癌診斷與分期 | |\n\n(D) 由於細針抽吸（或稱細針穿刺）無法判斷是否為侵犯性乳癌，因此不能單憑抽吸結果為惡性就做全乳切除，需至少加做粗針切片才能診斷",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-41_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-41_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-42",
@@ -20102,9 +20104,11 @@
       "D": "低音波回音性（hypoechoic echogenicity）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "不要被騙了！乳房超音波病灶後回音減弱 (posterior acoustic shadowing) 才是惡性特徵，會回音減弱代表腫瘤內可能有可以反射訊號的微小鈣化 (microcalcifications)，是惡性特徵之一；另外如果用 Doppler 掃有明顯的 vascularization 代表病灶有許多血管分布，也是惡性度較高的特徵。其餘除了 (A)(B)(D) 三選項所敘述之外，還有星狀 (spiculation)、分枝 (branching)、分葉 (lobulation) 等也都是惡性病灶\n\n建議同學一併複習 BI-RADS 分類，可以參考【112-1(五)42】的詳解",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-42_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-42_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-43",
@@ -20119,9 +20123,11 @@
       "D": "epirubicin"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "專科題，針對轉移性乳癌的化療用藥，常用紫杉醇 (taxol, taxotere) 與 Anthracycline 類藥物 (doxorubicin、epirubicin)，(C) etoposide 是 Topoisomerase II inhibitor，常用在小細胞肺癌或生殖腺癌，對於轉移性乳癌是後線用藥",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-43_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-43_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-44",
@@ -20136,9 +20142,11 @@
       "D": "無肛症（anorectal malformation）；Peña operation"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Sistrunk procedure 是治療頸部中線甲狀舌骨囊腫 (thyroglossal duct cyst) 的術式，而鰓裂遺跡的切除手術則無特別的以人名命名的術式。其他手術名稱配對均正確，其中先天性巨腸症的三種治療術式— Soave procedure、Swenson procedure、Duhamel procedure 詳見【112-2(五)49】",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-44_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-44_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-45",
@@ -20153,9 +20161,11 @@
       "D": "肺部狀況"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這題難在考得細，而且幾乎無法只憑選項作答。下表整理了古今較為通用的三個評估系統，影響預後的因子在各系統間大同小異，看過有個概念就好\n\n| EA-TEF 預後評估系統 | 臨床因子 | 嚴重度 |\n| :--- | :--- | :--- |\n| **Waterson classification (1962)** | • 出生體重 (1800~2500 g)<br>• 肺炎<br>• 先天異常 | 由低至高分成 Class A, B, C |\n| **Montreal classification (1993)** | • 呼吸器依賴度<br>• 先天異常 | 由低至高分成 Class I, II |\n| **Spitz classification (1994，今最通用)** | • 出生體重 (1500 g)<br>• 先天心臟異常 | 由低至高分成 Class I, II, III |\n\nEA-TEF = 食道閉鎖併氣管食道瘻管 (esophageal atresia and tracheoesophageal fistula)\n\n綜合三個系統可知 (C) 手術矯正的時機不在評估預後的因子中。臨床上新生兒 EA-TEF 的手術時機應根據病況而定：生命徵象穩定者可在出生後 1~2 天內手術；合併感染或心肺衰竭者則應等病況穩定後再做階段手術",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-45_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-45_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-46",
@@ -20170,9 +20180,11 @@
       "D": "雙側膀胱輸尿管逆流（bilateral vesicoureteral reflux），grade V"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Vesicoureteral reflux (VUR) 根據 voiding cystourethrogram (VCUG) 結果可以分 5 級：\n\n| VUR 嚴重度分級 | 處置策略 |\n| :--- | :--- |\n| **Grade 1** | 只逆流到輸尿管 | 再觀察 |\n| **Grade 2** | 逆流到腎盂（從 Grade 2 開始高度都是到腎盂） | 再觀察 |\n| **Grade 3** | 輸尿管有輕度 dilatation，小腎盞穹窿鈍化但仍是銳角 | 內科治療 + 追蹤 |\n| **Grade 4** | 輸尿管有中度 dilatation，小腎盞穹窿鈍化已變成鈍角 | 內科治療 + 追蹤 ± 預防性抗生素 |\n| **Grade 5** | 輸尿管腫脹彎曲變形，分不清楚 papillary 的位置 | 手術 + 預防性抗生素 |\n\n如圖可以先看顯影劑都達到腎盂，且兩側的輸尿管已經有明顯擴張甚至變形（已經不是直直一條接到腎臟），代表是 grade 5\n\n除了知道分級之外，由於 VCUG 是一個侵入性檢查，並不會所有 UTI 的病人都做，因此知道 VCUG 的適應症也是重要的！\n• ≥ 2 次 febrile UTI\n• < 2 次 febrile UTI 且符合下列任何一項：\n(1) 腎臟超音波有異常發現\n(2) 有 VUR 家族史\n(3) 致病菌非 E. coli\n(4) 生長遲緩或有高血壓",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-46_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-46_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-47",
@@ -20187,9 +20199,11 @@
       "D": "臍膨出較易合併其他先天性異常"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(C) 不一定，由於腹裂畸形沒有腹膜包覆，水分散失會比相同範圍的臍膨出更多，文獻報導在嚴重個案，水分甚至會給到 8-10 ml/kg/hr\n\n| 比較項目 | 腹裂畸形 (gastroschisis) | 臍膨出 (omphalocele) |\n| :--- | :--- | :--- |\n| **腹膜** | 無腹膜包覆臟器 | 有腹膜包覆臟器 |\n| **範圍** | 小，通常 <4 公分 | 可大至小腸肝臟脫疝 |\n| **位置** | 常見肚臍右側 | 常見腹中線 |\n| **染色體異常** | 少見 | 30% 有染色體異常 (Trisomy 13, 18, 21) |\n| **合併異常** | 少見<br>*除小腸閉鎖 (10-15%) | 50% 伴有腸道外器官異常<br>*心臟異常最常見<br>*Beckwith-Wiedemann syndrome：臍膨出 + 高胰島素血症 + 巨舌 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-47_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-47_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-48",
@@ -20204,9 +20218,11 @@
       "D": "乙醯膽鹼酶染色（acetylcholinesterase immunostaining）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "直腸切片是診斷先天性巨腸症的 gold standard，切片必須涵蓋足夠的黏膜下層，才能評估位於黏膜下層的 Meissner's plexus 是否有神經節細胞\n1. 蘇木素－伊紅染色 (H&E stain)：是製作病理切片的基本染色，染後可從形態學去診斷疾病，但由於嬰兒的神經膠細胞剛發育，多半小而不規則，單靠 H&E 染色有時不足以辨別\n2. 乙醯膽鹼酶染色 (AChE stain)：Hirschsprung's disease 首選的進階染色。神經纖維在無神經節細胞的情況下會肥大，此肥大的過程會增加乙醯膽鹼酶表現，因此先天性巨腸症的患者在乙醯膽鹼酶染色下呈陽性，正常神經細胞呈陰性\n3. 鈣視網膜蛋白染色 (calretinin stain)：在神經節細胞存在時呈陽性，因此若切片於鈣視網膜蛋白染色下呈陰性，也能診斷先天性巨腸症\n\n選項 (A) PAS 染色用於檢測組織中的「醣類」，原理為過碘酸先把醣類的羥基氧化成醛基，再用 Schiff 試劑和醛基反應使其呈紫紅色，在診斷先天性巨腸症較不適用",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-48_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-48_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-49",
@@ -20221,9 +20237,11 @@
       "D": "Sistrunk procedure"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題建議與【112-2(五)44】一起準備。Sistrunk 不是開大腸的術式可先刪除，剩下三項皆是先天性巨腸症的常見術式，簡單整理如下：\n\n| 先天性巨結腸症手術 | 手術方式 | 補充 |\n| :--- | :--- | :--- |\n| **Swenson procedure** | 將無神經節的腸段切除，再將有神經節的腸段拉下，和遠端肛門口做端對端接合 (end-to-end) | 最早開創的術式 |\n| **Duhamel procedure** | 避免分離直腸前壁，將無神經節的腸段切除，再將有神經節的腸段拉下，和遠端肛門做端對邊接合 (end-to-side) | 改良版稱 Martin procedure |\n| **Soave procedure** | 將無神經節的腸段做黏膜下層切除，再將有神經節的腸段拉下，套疊已切除黏膜層及黏膜下層的腸段後，和遠端肛門口做端對端接合 (end-to-end) | 改良版稱 Boley procedure |\n\n這題原答案為 Soave，主要根據圖片裡拉出的腸段為剝離後的黏膜層和下黏膜層（肌肉層則是上方較粗淺色那圈）；然而題幹文字是針對 Swenson 的敘述，因此最後 (A)、(B) 均給分",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-49_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-49_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-50",
@@ -20238,9 +20256,11 @@
       "D": "空腸腸繫膜膿瘍（jejunal mesenteric abscess）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "從病史知道病人有大腸憩室炎的病史，會讓我們更懷疑他的腹膜炎是因為憩室炎破裂導致。從 CT 圖片來看，可以看到第一張圖的右邊有一個 heterogeneous mass（圓圈處），也可以在第二張圖右邊偏下看到（圓圈處）。這個位置符合症狀的左下腹痛以及可以摸到硬塊的位置，而此處很可能形成膿瘍，對應到的位置就是大腸中的乙狀結腸處\n\n(A) 如果是缺血性腸壞死，腹痛一般會是 generalized pain，而較不是 localized pain，也比較不會摸到硬塊，另外，缺血性腸壞死在 CT 可以看到廣泛的腸壁明顯增厚，或是有壞死導致腸子穿孔的 pneumoperitoneum（會看到肝臟上方有一層黑色的氣體）\n(B) Sigmoid colon volvulus 一定要知道有名的 coffee bean sign，乙狀結腸會因為扭轉而腫大，在 CT 底下看起來就像是一個大型咖啡豆的樣子，其實就是非常非常膨脹的乙狀結腸，在這題並沒有看到此特徵，因此可能性也不高\n(D) 空腸繫膜膿瘍以解剖位置來說應該不會在那麼邊邊，但是不能完全排除，因此跟 (C) 選項辨別的最好方式是透過病史來判斷可能性：通常空腸繫膜膿瘍較容易發生在 Crohn's disease 或是由小腸手術過的病人",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-50_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-50_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-51",
