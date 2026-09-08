@@ -1862,5 +1862,75 @@
     "explanation_images": [
       "/explanations/cropped/112-2-醫學(六)-40_merged.png"
     ]
+  },
+  "112-2-醫學(六)-41": {
+    "explanation": "二氧化碳氣體栓塞的基本處置包括停止腹腔充氣（避免再發）、積極給氧及水分（避免血管堵住）、以及置入大孔徑中央靜脈導管（協助排出）。最重要的擺位需要頭低腳高避免氣體被打到頭部造成中風，左側躺則可讓氣體盡可能的上浮在右心房、不會被向下打到肺動脈造成肺栓塞，因此 (B) 選項錯誤",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-41_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-41_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-42": {
+    "explanation": "本題考子宮肌瘤的病理學。組織學上，子宮肌瘤是「從子宮肌層之平滑肌細胞和纖維母細胞形成的非惡性、單株腫瘤（monoclonal，代表腫瘤是靠單一細胞株突變繁殖而來）」。造成子宮肌瘤突變及繼續生長的病理因素有三：\n1. 後天基因突變與染色體異常：約 40% 子宮肌瘤的染色體有異常，多涉及第 6, 7, 12, 14 對染色體的互換重組；基因則發現 MED12 基因的後天突變 (somatic mutation)\n2. 內分泌：雌激素和黃體素會刺激子宮肌層平滑肌細胞及後續肌瘤的生長\n3. 旁分泌：平滑肌細胞與突變的肌瘤細胞會分泌 TGF-β，促進胞外基質的生長，不斷增大的胞外基質佔據肌瘤的大部分體積\n\n(A) 一般認為子宮肌肉癌是 de novo 產生的，但研究也發現極少數子宮肌肉癌能由良性子宮肌瘤惡性轉變而成。儘管有疑義，(A) 仍是最不合適的選項，一來這會不符合子宮肌瘤「非惡性、單株腫瘤」的定義，二來學界把會轉變為子宮肌肉癌的腫瘤給予另一名稱‘smooth muscle tumors of uncertain malignant potential (STUMP)’\n\n子宮肌瘤的重點整理，可見於【112-1(六)48】詳解",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-42_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-42_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-43": {
+    "explanation": "非常非常冷門的題目，不知道答案是 (D) 聽覺的話也只能背了\n\n其實 Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome 有另一個較多人知道的名稱：穆勒氏管發育不全 (Müllerian agenesis)，發生率約為 1/4000~1/10000，是原發性無經症 (primary amenorrhea) 中相對常見的病因。此疾病由於先天穆勒氏管發育不全造成病人無輸卵管、子宮、陰道上半部，但性染色體正常 (46XX)，病人仍能正常產生第二性徵。MKRH syndrome 依據影響的器官可分成兩型：Type I 局限於生殖器官 (isolated uterovaginal aplasia)；Type II 則可影響到其他器官系統 (extragenital organ anomalies)，如腎臟、骨骼、耳朵、心臟等。治療策略以手術為主，包含陰道重建、子宮移植等",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-43_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-43_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-44": {
+    "explanation": "常見腹腔鏡子宮切除手術的輸尿管受傷位置包含：\n• pelvic brim：即骨盆腔入口 (pelvic inlet) 所在位置，ureter 在這裏跨過 common iliac artery，這個高度大約是 ureter 跨過 iliac crest 後的附近\n• cardinal ligament：輸尿管在這裏會穿過子宮動脈下方\n• uterosacral ligament：另一說法是 ovarian fossa 附近\n• ureterovesical junction：另一說法是 ureteric canal，位在輸尿管通進去膀胱附近，這裏距離子宮頸約只有 1 公分多的距離\n\n在輸尿管從腎盂出來之後會先走在 psoas muscle 上，直到跨過 common iliac vessels 後就不會直接走在 psoas muscle 上了。而這個位置對於腹腔鏡子宮切除手術來說太高了，因此比較不會傷到",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-44_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-44_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-45": {
+    "explanation": "骨盆腔發炎，係指女性上生殖道急性感染，多與性行為相關，臨床表現包含 (A) 下腹部持續性疼痛（題幹雖說是骨盆腔但定位不一定清楚）、(B) 發燒、陰道膿狀分泌物，加上內診時有 (C) 子宮頸位移痛、子宮或卵巢附屬器官壓痛，(D) 選項應為泌尿道感染的症狀，雖然骨盆腔發炎時也可能造成排尿疼痛，但尿道內出血問題應是源於泌尿道\n\n補充：致病菌 Chlamydia trachomatis > Neisseria gonorrhea > 其他 (e.g. E. coli, Streptococci)，最嚴重的情況是進展到卵巢輸卵管膿瘍，此時通常就需抗生素合併手術引流治療",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-45_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-45_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-46": {
+    "explanation": "定義上自然流產 (miscarriage) 是指「懷孕 20 週以前或出生體重小於 500 g」的胎兒以非人為因素脫離母體，逾 80% 自然流產發生在 12 週以前。50% 自然流產與胎兒染色體異常有關，其餘包括內分泌因素（如多囊性卵巢症候群、甲狀腺功能紊亂等）、免疫因素（如抗磷脂抗體）、子宮因素（包含先天性子宮異常、卵巢囊腫、子宮內膜異位症等）、過去手術史、抽菸／飲食習慣、藥物、感染等。由於流產原因受地區、年齡、檢查工具影響，筆者沒有查到明確各原因的統計值，最接近答案的比率為 Johns Hopkins Manual 寫的 7%。而習慣性流產 (recurrent miscarriage/pregnancy loss) 定義為連續兩次或以上的自然流產，則統計內分泌、免疫、子宮因素約各佔 15-20%，一項大型研究指出「先天性子宮異常佔習慣性流產」的比率為 12.6%\n\n※ 註：美國婦產科醫學會有另一名詞 early pregnancy loss 指懷孕 13 週以前的流產，題幹「早期懷孕發生流產」題意不甚清楚，理應送分\n\n參考資料：GF Grimbizis, et al. (2001). Clinical implications of uterine malformations and hysteroscopic treatment results. Human reproduction update, 7(2), 161-174.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-46_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-46_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-47": {
+    "explanation": "假性陰陽人 (pseudohermaphroditism) 的定義為體內只有一種性腺，但外生殖器與性腺性別不符。男性、女性假性陰陽人的差異如下：\n\n| | 男性假性陰陽人 (46, XY) | 女性假性陰陽人 (46, XX) |\n| --- | --- | --- |\n| 性腺 | 睪丸 | 卵巢 |\n| 外生殖器、症狀 | 外生殖器雌性化 (e.g. 尿道下裂、睪丸未下降、乳房發育)、無月經 | 外生殖器雄性化 (e.g. 陰蒂變大、陰毛變多)、少或無月經 |\n| 病因 | • 雄性素不敏感 (complete androgen insensitivity, CAI)：雄性素受器異常<br>• 5α-reductase 缺損 | • 先天性腎上腺增生 (congenital adrenal hyperplasia, CAH)：雄性素大量生成<br>• 來自母體的雄性素過多 |\n\n至於女性假陰陽人的卵巢是否較正常女性大，有種說法為有 CAH 的女性假陰陽人有機會併發多囊性卵巢症候群 (PCOS)，因此卵巢也會比較大，然而筆者並未找到研究能夠支持兩者間有絕對相關，加上其他選項的敘述均正確，因此答案為 (C)\n\n其他考點：真性陰陽人 (true hermaphroditism) 是體內同時有兩性的性腺組織 (ovotestis)；【112-1(六)46】便考了真性陰陽人。區分陰陽人的性別口訣為：假內在（性腺）、真外表",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-47_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-47_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-48": {
+    "explanation": "(A) 梅毒是 Treponema pallidum 感染造成。梅毒病程的 stage I 會在感染處出現硬性下疳 (chancre)，是一個堅硬且無痛的潰瘍，此時傳染力很強；stage II 則會出現全身的紅疹（尤其常見手掌、腳底）與淋巴腫大；接著會進入潛伏期，此時仍可能有傳染力；而若持續未治療，有部分人會進入 stage III，影響重要系統如 CNS、心血管等\n(B) 單純性疱疹中，HSV-1 感染主要導致口唇及周遭疼痛性潰瘍，但因性行為之故也可在生殖器產生病灶；HSV-2 感染則是生殖器疼痛潰瘍常見原因之一。常見生殖器潰瘍整理如下：\n\n| 疼痛性潰瘍 | 無痛性潰瘍 |\n| --- | --- |\n| (B) HSV<br>Haemophilus ducreyi 感染的 Chancroid | (A) 梅毒的硬性下疳 (chancre)<br>(D) 花柳病 腹股溝肉芽腫 (granuloma inguinale) |\n\n(C) 帶狀疱疹為潛伏在神經節的 VZV 被 reactivate 造成，會產生帶狀的疼痛水泡。若侵犯 CN5 可能導致 herpes zoster ophthalmicus，嚴重可能導致失明；至於侵犯 CN7、8 有可能會導致 Ramsay-Hunt syndrome，產生單側臉癱、聽力損失。由於帶狀疱疹在文獻上極少會侵犯生殖器，因此不會是優先考慮的診斷\n(D) 花柳病 (LGV) 是 Chlamydia trachomatis 感染的性傳染病。通常初期會在外陰部長出無痛潰瘍或丘疹；到了中期會出現腹股溝、股淋巴結腫痛（單／雙側都可能）；晚期可能在肛門、生殖區域出現瘻管或纖維化",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-48_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-48_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-49": {
+    "explanation": "見下表，(C) type II 通常是以 atypical atrophy 表現\n\n| 分型 | Type I | Type II |\n| --- | --- | --- |\n| 比例 | 80% | 10-20% |\n| 發生年紀 | 較小（停經前） | 較大（停經後） |\n| 與雌激素相關性 | 相關<br>* 從發生年紀可推論和雌激素不平衡較相關 | 無關<br>* 停經後已無異常雌激素刺激 |\n| 組織型態 | Endometrioid type | Clear/serous type |\n| 癌前病變 | 子宮內膜增厚 | 子宮內膜萎縮 |\n| 主要基因突變 | PTEN、MSI、K-ras | P53、Her2/neu |\n| 預後 | 佳 | 差 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-49_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-49_merged.png"
+    ]
+  },
+  "112-2-醫學(六)-50": {
+    "explanation": "生殖系統相關腫瘤標記（只需要記 + 即可）：\n\n1. Germ cell tumor\n\n| Germinomatous | β-hCG | AFP | LDH | Non-germinomatous | β-hCG | AFP | LDH |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| seminoma | ± | - | + | choriocarcinoma | + | - | ± |\n| dysgerminoma | ± | - | + | yolk sac tumor | - | + | ± |\n| mixed germ cell tumor | ± | ± | ± | embryonal carcinoma | ± | ± | ± |\n| | | | | teratoma mature | - | - | ± |\n| | | | | teratoma immature | ± | ± | ± |\n\n2. Sex cord-stromal tumor\n\n| | E2 | Testosterone | DHEA | Inhibin | AMH |\n| --- | --- | --- | --- | --- | --- |\n| Granulosa cell tumor | ± | ± | - | + | + |\n| Sertoli Leydig cell tumor | ± | ± | ± | ± | |\n| Sertoli cell tumor | - | ± | - | ± | - |\n\n3. CA153, CA19-9, CA125, CEA 系列\n\n| | 主要 | 可能上升（但幅度較低） |\n| --- | --- | --- |\n| CA153 | 乳癌 | 良性乳房疾病、卵巢癌、婦科良性疾病、其他腺癌 |\n| CA19-9 | 胰臟、膽管癌 | 胰臟、膽管良性疾病、其他消化道癌症、其他腺癌 |\n| CA125 | 卵巢癌 | 其他婦癌、腹膜癌、婦科良性疾病 (endometriosis、uterine myoma、PID、懷孕等) |\n| CEA | 腺癌 (adenocarcinoma) 皆可能上升<br>（補充：抽菸人士 CEA 也會略微上升） | |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-50_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-50_merged.png"
+    ]
   }
 }
