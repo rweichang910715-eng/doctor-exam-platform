@@ -12,9 +12,11 @@
       "D": "懷疑是血管迷走神經性昏厥（vasovagal syncope）時可建議病人做傾斜床測試（tilt table test）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "昏厥（syncope）是一種因為大腦血流減少所造成暫時性的意識喪失，能自行恢復。發作時間短、恢復速度快，在發生前可能有所謂前兆（prodrome），稱作 presyncope。一般發作原因可分為三大類：神經性（neurogenic）、姿勢性低血壓（orthostatic hypotension）、心因性（cardiac）。其中神經性最常見，除了會有頭暈疲倦症狀外，還會有自主神經系統活化的症狀，如：冒汗、暈眩、蒼白、心悸、噁心、過度換氣、打哈欠等\n\n| 昏厥（syncope）類型 | 舉例 |\n| --- | --- |\n| 神經性（反射性） | **血管迷走神經性**：害怕、焦慮、看到或聞到令人不舒服的東西<br>**情境式反射（有明確刺激）**：咳嗽、排尿後、DRE、頸動脈竇按摩、眼睛檢查或手術、Bezold-Jarisch reflex |\n| 姿勢性低血壓 | **原發性 ANS 失調**：Lewy body disease、Parkinson's、multiple system atrophy（舊稱 Shy-Drager）<br>**續發性 ANS 失調**：DM、amyloidosis、Sjögren's、HIV<br>**其他**：剛吃飽、醫源性（如：prazosin）、體液不足 |\n| 心因性 | **心律不整**：sick sinus syndrome、AV block、心跳過快（SVT 或 VT）、離子通道異常<br>**結構問題**：瓣膜異常、心肌缺血、myxoma、心包積液 |\n\n(C) 姿勢性低血壓：在站立 3 分鐘時出現 SBP 掉 ≥ 20 mmHg 或 DBP 掉 ≥ 10 mmHg 者。如果自主神經只有部分受損，可能會出現代償性的心跳上升，但所增加的心跳仍不足以供應所需的心輸出量\n\n(D) 傾斜床測試（tilt table test）可檢測交感神經功能，不只能看出姿勢性低血壓，vasovagal 也有其典型表現，整理如下：\n\n| Syncope 類型 | Tilt table 結果 |\n| --- | --- |\n| 神經性 | 陣發性的「低血壓－心跳慢」表現 |\n| 姿勢性低血壓 | 血壓逐漸往下掉，心跳無足夠的代償性增加 |\n| psychogenic | 無血行動力學不穩定，但在檢測過程中出現不適 |\n\n＜相關考點＞\n1. syncope 是嚴重主動脈瓣狹窄開刀 indication，出現 syncope 不處理平均餘命剩 3 年（胸痛 5 年、心衰竭 2 年）\n2. 會引起姿勢性低血壓的藥：TCA（imipramine > amitriptyline > nortriptyline）、α-1 blocker（-zosin）、teriparatide、nitrate、phenothiazine",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-1_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-1_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-2",
@@ -29,7 +31,7 @@
       "D": "若出現發燒、體重減輕或發生在胸椎第四節以上的骨折，要懷疑不是單純由老化所引發的骨折"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "骨質疏鬆性骨折（osteoporotic fracture，又稱脆性骨折 fragility fracture）臨床重點整理如下：\n\n(A) 大約 2/3 的脊椎壓迫性骨折在臨床上是無症狀或僅有輕微背痛，常為常規胸部 X 光或脊椎影像檢查時無意中發現（silent/asymptomatic vertebral fractures）\n\n(B) 發生過一次脊椎骨折後，一年內再次發生新脊椎骨折的風險顯著增加（imminent fracture risk），研究顯示約達 20%（即所謂骨折骨牌效應 fracture cascade）\n\n(C) 錯誤。抗骨吸收藥物（anti-resorptive drugs，如雙磷酸鹽 Bisphosphonates、Denosumab、SERMs 等）與促骨生成藥物（anabolic agents，如 Teriparatide、Romosozumab）的主要治療目標即為提升骨密度、改善骨品質，並顯著降低初次骨折與再次骨折（recurrent fractures）的發生風險（可降低脊椎骨折再發生率約 40%～70%）\n\n(D) 若脊椎骨折合併紅旗警訊（Red flags，如發燒、不明原因體重減輕、夜間痛、癌症病史、或骨折發生於頸椎或胸椎第 4 節以上 T1～T4），應強烈懷疑惡性腫瘤轉移（metastasis）、多發性骨髓瘤（multiple myeloma）或脊椎感染（spondylodiscitis/TB），而非單純的老年退化性骨質疏鬆骨折",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -46,9 +48,11 @@
       "D": "right ventricle heave"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "端坐時比平躺時更覺得胸悶吸不到氣 → 躺臥呼吸（platypnea），可伴隨 orthodeoxia（因坐立時動脈血氧分壓降低而出現症狀）\n躺臥呼吸與肝肺症候群（hepatopulmonary syndrome, HPS）、PFO、myxoma 等有關。肝肺症候群的病人因為肝硬化合併門脈高壓 → 肺部血管擴張 → 出現肺內 shunting → V/Q mismatch\n\n(A) Castell's test 是 splenomegaly 的 PE，透過叩診左腋下第八或九肋間判斷是否有脾腫大，若叩診為 dullness 則可能有脾腫大，進一步暗示可能有門脈高壓\n(B) 可偵測肝硬化產生的腹水\n(C) diastolic rumbling heart murmur 為主動脈瓣逆流的聽診特徵\n(D) right ventricular heave 代表右心室肥大，與本題最無關",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-3_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-3_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-4",
@@ -63,7 +67,7 @@
       "D": "腹瀉、大便失禁"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "有機磷（Organophosphate）為乙醯膽鹼酯酶抑制劑（Acetylcholinesterase inhibitor），會導致乙醯膽鹼（Acetylcholine, ACh）在突觸間隙大量堆積，產生過度刺激的毒性症候群（Cholinergic toxidrome）：\n\n1. **毒蕈鹼型症狀（Muscarinic effects）**：口訣 **SLUDGE / DUMBELS**\n   - **D**iarrhea（腹瀉、腹部絞痛）\n   - **U**rination（排尿增加）\n   - **M**iosis（瞳孔縮小／針狀瞳孔 pinpoint pupils）、**M**uscle weakness\n   - **B**ronchorrhea / **B**ronchospasm / **B**radycardia（支氣管分泌增加、支氣管痙攣、心跳過緩）\n   - **E**mesis（嘔吐）\n   - **L**acrimation（流淚）\n   - **S**alivation / **S**weating（流口水、冒汗）\n\n2. **菸鹼型症狀（Nicotinic effects）**：口訣 **MTWTF**\n   - **M**ydriasis（少見早期交感刺激）、**M**uscle fasciculation（肌肉顫動）、**M**uscle weakness（呼吸肌無力甚至麻痺衰竭）\n   - **T**achycardia、**W**eakness、**H**ypertension、**F**asciculations\n\n3. **中樞神經症狀（CNS effects）**：\n   - 意識混亂、抽搐／癲癇發作（Seizure）、昏迷、呼吸中樞抑制\n\n(B) 有機磷中毒之典型 Muscarinic 表現為瞳孔縮小（Miosis）而非瞳孔放大，故 (B) 最不適當",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -80,7 +84,7 @@
       "D": "注射pralidoxime（2-PAM）"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "有機磷（Organophosphate）中毒之急救與治療處置原則：\n\n1. **支持性療法（ABCDE）**：\n   - 移除受污染衣物並以大量清水肥皂清洗皮膚，避免施救者次級污染\n   - 維持呼吸道暢通（Airway）、氧氣給予、必要時儘早氣管插管保護呼吸道與抽吸分泌物\n\n2. **解毒劑治療**：\n   - **Atropine**：競爭性 Muscarinic receptor 拮抗劑。為最關鍵之初期搶救藥物，目標為改善肺部支氣管分泌物過多（drying of pulmonary secretions）、改善支氣管痙攣與心搏過緩（劑量應持續加倍給予直到達到 atropinization）\n   - **Pralidoxime（2-PAM）**：膽鹼酯酶再活化劑（Cholinesterase reactivator），可解除有機磷與乙醯膽鹼酯酶之結合，特別能改善菸鹼型（Nicotinic）症狀（如骨骼肌肌力無力、呼吸肌麻痺）。須於老化（aging）前儘早給予\n\n3. **禁忌藥物**：\n   - **Physostigmine**：為乙醯膽鹼酯酶抑制劑（Cholinesterase inhibitor），會進一步增加體內乙醯膽鹼濃度，使有機磷中毒嚴重惡化，絕對禁用於有機磷中毒（Physostigmine 主要用於抗膽鹼中毒 Anticholinergic toxidrome 之解毒）\n\n故 (C) 注射 physostigmine 最不適當",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -97,9 +101,11 @@
       "D": "無症狀腹主動脈瘤若直徑5.5 cm以上，應考慮進行主動脈瘤修補術，以血管內（endovascular）介入方式之短期死亡率較傳統外科手術為低，而長期死亡率相似"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "主動脈瘤（aortic aneurysm）的成因主要可分為以下幾類：\n\n| 主動脈瘤成因 | 舉例 / 說明 |\n| --- | --- |\n| 退化性 | 老化、抽菸、高膽固醇血症、高血壓、粥狀動脈硬化 |\n| 基因異常 | BAV、Marfan's、Loeys-Dietz、Ehlers-Danlos type IV、aneurysm-osteoarthritis syndrome、Turner's、fibromuscular dysplasia |\n| 動脈炎 | - 血管炎：Takayasu、giant cell arteritis<br>- 風濕性：HLA-B27 相關、Behçet's、Cogan's、IgG4-RD<br>- 感染性：梅毒（升主動脈～主動脈弓）、結核（胸主動脈）、mycotic（沙門氏菌 / 葡萄球菌 / 鏈球菌 / 真菌，多在粥狀硬化斑塊處） |\n| 慢性剝離 | 久了導致動脈壁變脆弱 |\n| 創傷性 | 多傷到降胸主動脈（在 ligamentum arteriosum insertion 處之後） |\n\n而依照發生的位置又可分胸主動脈瘤、腹主動脈瘤\n\n| 主動脈瘤分佈 | 成因 | 症狀 | 預後 | 治療 |\n| --- | --- | --- | --- | --- |\n| 胸主動脈瘤 | 升主動脈：medial degeneration<br>下主動脈：粥狀動脈硬化（atherosclerosis） | 大多無症狀，若有：<br>- 壓迫或侵蝕：胸痛、喘、咳嗽、沙啞、吞嚥困難<br>- 影響升主動脈：AR、壓到 SVC → congestive HF | 進展較快：Marfan's、體積大、出現症狀者<br>* 破裂率：< 4 cm 每年 2~3%、> 6 cm 每年 7% | 藥物：β-blockers、控制血壓、ACE-i/ARB<br>手術：升主動脈瘤 ≥ 5.5 cm 或每年增加 > 0.5 cm；降主動脈 ≥ 6 cm 或每年增加 > 1 cm 時可考慮介入 |\n| 腹主動脈瘤 | > 4 cm 的有 90% 與粥狀動脈硬化有關，大多出現在比 renal artery 低的地方 | 大多無症狀，若有：腹痛、強烈搏動感、胸痛、下背痛、陰囊痛。會痛要小心是不是動脈瘤（要）破了 | 破裂率：< 5 cm 五年 1~2%、> 5 cm 五年 20~40% | 藥物：statins<br>手術：有任何症狀、快速擴大、≥ 5.5 cm 者 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-6_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-6_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-7",
@@ -114,9 +120,11 @@
       "D": "體外膜氧合系統（ECMO）可用於急性心衰竭合併心因性休克及嚴重肺損傷合併呼吸衰竭"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "機械式循環輔助（Mechanical Circulatory Support, MCS）可用於輔助休克或血行動力不穩的病人，但目前這些 MCS 在治療心因性休克的角色仍未定，不論是大型 trials 或是 meta-analysis 都沒有看到顯著的好處。較常用的幾種整理如下：\n\n| 機械式循環輔助 | 類型 | 說明 |\n| --- | --- | --- |\n| 主動脈氣球泵浦（IABP） | 被動式 | 氦氣充填的氣球經股動脈置入，放到左鎖骨下動脈跟將主動脈的交界處<br>舒張早期：充氣 → 增加壓力、增加冠狀動脈灌流；舒張後期：消氣 → 降低壓力、降低左心室後負荷 |\n| Impella 導管 | 主動式 | 經皮放導管從股動脈到 LV。尖端有軸向 pump，從 LV 以 2.5 ~ 5 L/min 之速打血到主動脈 |\n| TandemHeart 系統 | 主動式 | 經皮放 21 Fr 導管從股靜脈到 RA 再到 LA。有離心 pump，從 LA 以 5 L/min 之速抽血泵出，再注入股動脈 |\n| 動靜脈體外膜氧合（VA-ECMO） | 主動式 | 用於急性心衰竭合併心因性休克及嚴重肺損傷合併呼吸衰竭時 |\n\n＜相關考點＞\n1. IABP 禁忌症：嚴重主動脈逆流、主動脈剝離、嚴重周邊血管疾病等\n2. IABP 無助於 AMI 引起的心因性休克，因此已經不再被推薦常規使用【108 內專、Harrison 21/e Ch.305、證據：IABP-SHOCK II trial】",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-7_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-7_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-8",
@@ -131,9 +139,11 @@
       "D": "嚴重心律不整，且曾併發血行動力學不穩定"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "壓力催迫性檢查（stress test）的禁忌症包含：2 天內發生 AMI、沒有治療過的不穩定心絞痛、沒有控制好且血行動力學不穩定的心律不整、有症狀的嚴重主動脈狹窄、控制不良又有症狀的心衰竭、急性肺栓塞、嚴重肺高壓、急性心臟炎（心內膜 / 心肌 / 心包膜）、急性主動脈剝離、高度 AV block、嚴重高血壓（BP > 200/110）、因為各種原因不能運動的（如：太胖）。故本題選 (C)，有症狀的嚴重主動脈狹窄不適合做 stress test，無症狀者可以做",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-8_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-8_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-9",
@@ -148,9 +158,11 @@
       "D": "class IV antiarrhythmic drugs"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Class 1C 的藥可能會造成 ST elevation，只能用在結構正常的心臟。抗心律不整藥依照 Vaughan Williams 分類系統整理於下表\n\n| 類別 | | 藥物 | 控制 | 副作用 | 備註 |\n| --- | --- | --- | --- | --- | --- |\n| I（NaC） | A | quinidine | rhythm | 耳鳴、腹瀉、紫斑症 | 也會抗膽鹼 |\n| | | procainamide | | lupus、↑ QT | |\n| | | disopyramide | | anti-cholinergic、導致 HF | 青光眼者慎用 |\n| | B（僅治心室異常） | lidocaine | | 感覺異常、癲癇 | 適合用於治療 AMI 後產生之 VT |\n| | | mexiletine | | 感覺異常、嗜睡、痙攣 | 口服 |\n| | C | propafenone | | 金屬味、便秘 | 微弱 β-B 效果 |\n| | | flecainide | | 惡化 MI 後之 VT | 也會 block KC |\n| II（β-B） | | β-blockers：propranolol、esmolol | rate | AV block | |\n| III（KC） | | sotalol（也是 β-B） | rhythm | ↑ QT | ↓ ICD 通電量 |\n| | | amiodarone（廣效型，各類作用均有） | | ↑ QT、肺纖維化、甲狀腺異常、視力模糊、皮膚藍斑、肝功能異常 | 很少 TdP、半衰期很長、含碘量高 |\n| IV（CaC） | | non-DHP CCB：verapamil, diltiazem | rate | AV block、低血壓 | HFrEF 不可用 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-9_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-9_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-10",
@@ -165,9 +177,11 @@
       "D": "心房顫動之缺血性中風風險評估可用 CHA DS -VASc score2 2"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "心房顫動（AF）是最常見的 sustained arrhythmia，盛行率隨著年紀增長而增加，超過 95% 的 AF 病人年紀 > 60 歲；而 80 歲以上的族群中盛行率約為 10%\n\n(A) 錯誤，男性多於女性\n\n(B) 正確，AF 風險因子包含：高血壓、糖尿病、心血管疾病、AF 家族史、肥胖、睡眠呼吸問題；部分病人也與甲狀腺亢進、急性酒精中毒、MI、肺栓塞等有關\n\n(C)(D) 正確，CHA₂DS₂-VASc score 可輔助找出需要使用預防缺血性中風藥的病患",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-10_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(三)-10_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(三)-11",
