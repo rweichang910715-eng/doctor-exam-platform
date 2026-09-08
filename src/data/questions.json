@@ -19345,8 +19345,8 @@
       "D": "血漿：血小板：紅血球為1單位：1單位：1單位"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "【112-1(五)76】也有類似的題目！目前的外傷指引建議大量輸血的血品比例維持在血漿：血小板：紅血球 = 1:1:1 到 1:1:2 之間，這是根據 2015 年的一項大型 RCT(PROPPR trial) 結果，無論比例是 1:1:1 或 1:1:2，病人在輸血 24 小時內與 30 天的死亡率皆無顯著差異，另外試驗發現接受比例 1:1:1 輸血的病人更容易達到早期止血，且伴隨較低因失血導致的死亡率\n\n原答案為 (D)，但由於題幹並未定義何謂好的臨床結果，因此最後 (C) (D) 均給分，同學怕忘記的話就選比例 1:1:1 來記就好\n\n參考資料：JB Holcomb, et al. (2015). Transfusion of plasma, platelets, and red blood cells in a 1: 1: 1 vs a 1: 1: 2 ratio and mortality in patients with severe trauma: the PROPPR randomized clinical trial. JAMA, 313(5), 471-482",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-1_merged.png",
     "explanation_images": null
   },
   {
@@ -19362,8 +19362,8 @@
       "D": "高血壓"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "肺水腫的病因主要是肺微血管的壓力上升或是肺微血管的通透性改變，急性左心衰竭使左心室將血液打出去的功能下降，會導致血液淤積回到左心房甚至到肺靜脈，使肺微血管的壓力上升，而 fluid overload 也是讓身體內整體的血管壓力上升，(A) 選項初看會覺得沒有太大關係，但是文獻統計大約有 30% 胰臟炎病人有急性肺損傷與 ARDS，推測機制有許多種：\n1. 胰臟炎會釋放 elastase，會破壞肺部的內皮細胞導致通透性增加\n2. 胰臟炎也會使 phospholipase a2 濃度上升，而這個化合物會破壞肺部的 surfactant\n3. 發炎反應促使血中的 neutrophil 上升，而 neutrophil 也被證實會導致肺損傷進而產生肺水腫、肋膜積水等併發症\n\n至於高血壓的想像空間很大，嚴重高血壓確實有機會造成心臟衰竭和肺水腫，但是回到題目問的「較不容易」，同學可以想像若抽樣四個選項的患者並要抓出有肺水腫的比例，應該會是 (D) 選項最少\n\n參考資料：CJ Shields, DC Winter & HP Redmond. (2002). Lung injury in acute pancreatitis: mechanisms, prevention, and therapy. Current opinion in critical care, 8(2), 158-163",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-2_merged.png",
     "explanation_images": null
   },
   {
@@ -19379,8 +19379,8 @@
       "D": "腹瀉會導致電解質及水分的不平衡，需補充水分及電解質"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "困難梭狀桿菌感染常見於長期使用抗生素或制酸劑（PPI 和 H2 blocker）的族群，症狀以頻繁水瀉（單天水瀉 > 3 次以上）、血便及發燒，大腸鏡可以看到粘膜出現由發炎性滲出物構成的黃色斑塊，故又稱為偽膜性結腸炎 (pseudomembranous colitis)\n1. 診斷方式：並非每種困難梭狀桿菌皆俱致病性，因此可透過 PCR 確定糞便中有致病基因 (stool tcdB gene PCR) 或高毒性菌株，以及免疫法確定糞便中有毒性的 toxin A/B\n2. 治療方式：\na. 抗生素治療：停止現在使用的抗生素以降低復發率，目前 IDSA 建議的一線治療包括 Fidaxomicin 及口服 Vancomycin，Metronidazole 較適合用在輕度的困難梭狀桿菌感染；(C) 錯在困難梭狀桿菌為革蘭氏陽性菌，不應使用廣效性抗革蘭氏陰性菌抗生素\nb. 支持性治療：水分及電解質補充",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-3_merged.png",
     "explanation_images": null
   },
   {
@@ -19396,8 +19396,8 @@
       "D": "病人本身之合併症"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "傷口感染占了傷口癒合延遲 50% 以上的原因，是外傷 / 手術後最常見的併發症之一，且無論年齡、身體狀況、傷口大小、縫合有無皆可能發生，不利傷口癒合之因子整理如下：\n\n| 全身 / 系統性 (systemic) | 局部 (local) |\n| :--- | :--- |\n| 糖尿病、肥胖 | 感染 |\n| 年紀大 | 血循不佳 / 缺血 / 組織缺氧 |\n| 營養不良 | 照過放射線 |\n| 微量營養素（維他命 / 礦物質）缺乏 | 過度流血 / 組織液 |\n| 貧血 | 壞死組織 / 外來異物 |\n| 抽菸 | 傷口張力 / 壓力太大 |\n| 免疫抑制（疾病狀態 / 藥物） | |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-4_merged.png",
     "explanation_images": null
   },
   {
@@ -19413,8 +19413,8 @@
       "D": "82歲女性，接受經腹腔鏡部分胃切除手術，腹部傷口正常，然而於術後第6天出現劇烈腹痛與發燒，電腦斷層發現腸胃道吻合處有膿瘍形成"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "手術部位感染 (surgical site infection, SSI) 的定義為：(1) 非植入物手術：術後 30 天內與手術相關的身體部位感染；(2) 植入物手術：植入成功術後 1 年內與手術相關的身體部位感染，套用上述定義後，可以發現 (A) 選項的肺炎應為長期使用呼吸器造成 (VAP)，且敗血症感染源與肺炎關聯較大並缺乏穿孔造成腹腔內感染的證據，因此不符合手術部位感染\n\n補充一下手術部位感染常考的傷口乾淨分類：\n\n| CDC 傷口分類 | 描述 | SSI 風險 |\n| :--- | :--- | :--- |\n| **I (clean)** | 傷口無發炎且不是位在中空臟器，主要採 primary closure 或密閉系統引流 | < 2% |\n| **II (clean-contaminated)** | 控制良好下在中空臟器（呼吸道、消化道、泌尿道、生殖道）之無污染傷口，且無感染證據 | 5~10% |\n| **III (contaminated)** | 開放性、新產生的傷口，或是消化道傷口有溢出物 (spillage)、術中破壞無菌操作（如開胸心外按摩）等，傷口發炎但沒有化膿 | 15~20% |\n| **IV (dirty)** | 舊有傷口有壞死組織或病原菌存留，或是新傷口有化膿、糞便或異物等汙染 | 30~40% |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-5_merged.png",
     "explanation_images": null
   },
   {
@@ -19430,8 +19430,8 @@
       "D": "凝血酶原時間國際標準化比值（international normalized ratio, INR）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "記憶題：MELD score 公式的組成，包含 total bilirubin、INR、serum Cr，分數介於 6 至 40 分；(B) 選項的 WBC 則是出現在急性胰臟炎的嚴重度工具 Ranson score 裡面\n\n其他考點：\n• 目前大體上認同 MELD score 要至少 15 分，移植才有較好的效益，但是太高分時接受手術的死亡率又會提升；另有一個 MELD-Na score 還會將鈉離子濃度納入分數\n• Child-Pugh Score 的參數：腹水、肝腦病變、total bilirubin、albumin、PT (INR)，可以分成 Child A、B、C（請務必記熟如何算 Child，很愛考！）",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-6_merged.png",
     "explanation_images": null
   },
   {
@@ -19447,8 +19447,8 @@
       "D": "淨體重損失40%，會開始增加脆弱性骨折的風險"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "在嚴重燒傷的病人淨體重損失可做為預後指標，但其研究並非單純聚焦在燒傷病人，而是針對所有有骨骼肌流失的患者所做的分類\n\n| loss of lean body mass | complications |\n| :--- | :--- |\n| **10%** | 免疫下降、感染風險上升 |\n| **20%** | 肌肉無力、傷口癒合能力下降 |\n| **30%** | 難以坐起，導致容易壓瘡、肺炎，且傷口無法癒合 |\n| **40%** | 增加死亡風險（多源自於肺炎） |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-7_merged.png",
     "explanation_images": null
   },
   {
@@ -19464,8 +19464,8 @@
       "D": "泌乳激素瘤（prolactinoma）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "泌乳激素瘤 (prolactinoma) 是最常見，也是唯一藥物治療優先於手術治療的腦下垂體腺瘤，第一線治療使用多巴胺受體促效劑，如 bromocriptine、cabergoline 等，藥物治療無法改善則考慮經蝶竇內視鏡手術、加馬刀等手術治療，其他賀爾蒙細胞之腺瘤則都是切除手術優先，藥物、放射線為輔，同學們可以搭配【112-1(三)58】一同複習\n\n其他考點：\n• 腦下垂體腫瘤需手術的適應症：\n1. 有症狀（包含賀爾蒙亢進 / 低下、腫塊壓迫造成的 mass effect）\n2. Macroadenoma (> 1 cm)\n3. 位置考量：比如腫瘤靠近視交叉，即便無症狀也考慮手術",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-8_merged.png",
     "explanation_images": null
   },
   {
@@ -19481,8 +19481,8 @@
       "D": "一定要投與預防癲癇用藥"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(D) 無論是從語意或臨床實證上都不正確，2022 年 AHA/ASA 的自發性腦出血指引中提到在無癲癇發作證據下，預防性抗癲癇藥物並不能改善出血性腦中風的長期癲癇控制或神經功能，因此不是所有病人都要投藥\n\n出血性腦中風 (hemorrhagic stroke) 的急性期處置，記得最重要有三點：\n1. 積極控制血壓：SBP ≤ 140~160 mmHg（AHA/ASA 最新建議 130~150 mmHg）\n2. 防止腦壓過高：維持大腦灌流壓 (CPP) ≥ 50–70 mmHg，應避免類固醇\n3. 評估手術時機：小腦出血 > 3 cm 或 > 30 ml；年輕病人大腦出血 > 50 cc 且中至重度昏迷；意識或症狀快速惡化、影像有腦疝脫等\n\n至於其他治療如床頭抬高、過度換氣、控制血糖（< 180~200 mg/dL 且避免低血糖即可）、服用抗凝血劑者監測凝血功能、避免久臥壓瘡、復健等，基本上看過有印象就好\n\n可搭配相關題組【112-1(五)9】、【112-1(五)10】一起複習\n參考資料：SM Greenberg, et al. (2002). 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage: a guideline from the American Heart Association/American Stroke Association. Stroke, 53(7): e282-e361",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-9_merged.png",
     "explanation_images": null
   },
   {
@@ -19498,8 +19498,8 @@
       "D": "影像中可以看出此動脈瘤已破裂"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "可以看到圖片上箭頭所指有一顆位在前交通動脈支的顱內動脈瘤，而且尚未破裂，如果是破裂的動脈瘤，應該不會像圖片那樣侷限在一個囊狀結構，而是呈比較不規則散開的樣子，接著會造成 subarachnoid hemorrhage (SAH)\n\n動脈瘤在很小時 (< 1 cm) 一般不太會建議處理，但是越大的動脈瘤破裂風險越高，侵入性處理會用 clip 去把動脈瘤夾住讓它缺血，或是用 coil 從血管內去填充動脈瘤內部使血液在 coil 周圍形成血栓，塞住動脈瘤入口讓它缺血，至於 (A) 選項提到的抗血小板藥物，目前研究僅發現用在未破裂的動脈瘤可以防止破裂（曾經破裂過的動脈瘤就不建議使用）；抗血小板藥物在防止梗塞的實證時機則是在放入 coil 後給予\n\n其他考點：\n顱內動脈瘤最好發的位置為前動脈交通支 (40%)，中大腦動脈瘤為次常見 (35%)，內頸動脈瘤為第三常見 (20%)，第四常見是後循環部分的前大腦動脈與基底動脈交接處",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-10_merged.png",
     "explanation_images": null
   },
   {
