@@ -1502,5 +1502,45 @@
   "112-2-醫學(五)-60": {
     "explanation": "Salter-Harris classification 針對生長板傷害的型態做分類：\n\n| Salter-Harris classification | 型態描述 | 發生率 & 預後 |\n| --- | --- | --- |\n| I Slipped | 骨折面橫斷過生長板，無位移且不波及 metaphysis 和 epiphysis | < 10%<br>預後佳 |\n| II Above | 骨折面橫斷過生長板，並向 metaphysis 端裂出 | 最常見 (75%)<br>預後佳 |\n| III Lowered | 骨折面橫斷過生長板，並向 epiphysis 端裂出 | < 10%<br>預後差 \\* |\n| IV Through/Transverse | 骨折斷面與骨走向較平行，涉及生長板、metaphysis、epiphysis | 10%<br>預後差 \\* |\n| V Ruined/Rammed | 很大的能量 (crush/compression) 擾亂生長板內的組成，如電擊、燒傷、凍瘡，無明顯斷面或位移 | < 1%<br>預後最差 |\n\n\\* 牽涉 epiphysis 對日後生長影響較大，因其包含保留區 (zone of reservation) 和增殖區 (zone of proliferation)，涉及軟骨內骨化的過程，常要手術復位及固定 (ORIF)\n\n(A) 鎖骨骨折大部分為 midshaft fracture (80%)，不影響生長板\n(B) 近端肱骨骨折在兒童不常見，但近三成近端肱骨骨折涉及生長板（位於 anatomical neck of humerus），由於肩關節方位之故，此處的生長板骨折以 type II 為主，也因近端肱骨生長板 remodeling 能力很好，通常保守治療即可。（補充：七成近端肱骨骨折位於 surgical neck）\n(C) 肱骨髁上骨折為兒童最常見的手肘骨折類型、(D) 肱骨外髁骨折次之，但遠端肱骨骨折少有生長板傷害，有的話原因多是兒虐或分娩損傷，type I~IV 皆有可能",
     "explanation_image": "/explanations/cropped/112-2-醫學(五)-60_merged.png"
+  },
+  "112-2-醫學(五)-61": {
+    "explanation": "佛心解剖題，圖片看到在橈側又是手腕近端就知道是舟狀骨了。附上 8 塊腕骨口訣：舟月三角豆（近端橈→尺）& 大小頭鈎（遠端橈→尺）\n\n舟狀骨骨折 (scaphoid fracture) 是最常見的腕骨骨折，依骨折處遠近有不同治療與預後：\n- 遠端 (distal pole) 骨折－血液供應好，多用石膏保守治療\n- 中近端 (middle & proximal) 骨折－血液供應差而容易骨壞死，需要手術內固定\n\n此外舟狀骨骨折和背側位移的遠端橈骨骨折 (Coles' fracture) 都是由手掌撐地造成；而掌側位移的遠端橈骨骨折 (Smith's fracture) 則是手背撐地造成",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-61_merged.png"
+  },
+  "112-2-醫學(五)-62": {
+    "explanation": "(A) 錯誤。spinal stenosis 大部分是後天造成，大約只有一成是先天性。先天因素包含軟骨發育不全、骨質石化症 (osteopetrosis) 等。後天因素則多因 trauma、degenerative changes、醫源性等因素\n(B) 正確。椎管中央可能會被增厚的黃韌帶或是 disc herniation 以前後方向壓迫到；神經孔是神經根鑽出去的地方，這裏也可能被 disc herniation 壓迫，facet joint 的肥大或是椎體有不穩定錯位也會影響；側隱窩只出現在腰椎部分，是神經要離開 spinal canal 的通道，這裡也常因 facet joint 肥大而壓迫。筆者認為「發生在 pedicle 的位置」敘述有點怪，畢竟神經孔其實就是由包含 pedicle、disc、椎體等等形成的孔。但通常造成壓迫確實不是 pedicle 去壓，而是前面提到的 joint 跟 disc，因此勉強可以算是正確。額外補充 pedicle 太短也有可能導致先天性的脊管狹窄\n(C) 正確。脊椎狹窄常見位置依序排列是：lumbar > cervical > thoracic，而在 lumbar 裡面又以 L4-L5、L5-S1 最常見，cervical 則是 C5-C6 最常見（會造成 forearm 無法 flexion 以及拇指跟 radial side 感覺異常）。大多數的病因是 disc herniation 所致\n(D) 正確。最常進行的減壓手術是椎板切除 (laminectomy)，會將 lamina 還有 spinous process 移除，至於是否要做椎體融合取決於是否有 unstable 的滑脫情形。手術成功率可以達到九成，疼痛與無力大部分可以迅速獲得緩解，感覺異常則要花比較多時間，但是多半也能恢復良好",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-62_merged.png"
+  },
+  "112-2-醫學(五)-63": {
+    "explanation": "人工關節感染在不同協會的 guideline 仍沒有一致的診斷標準，目前常用的診斷標準為 MSIS 2011 及 EBJIS criteria：\n\n| MSIS 2011 | EBJIS criteria |\n| --- | --- |\n| 有連結到關節腔的 sinus tract | |\n| 兩套組織或關節液 culture(+) | |\n| 其他（六取四）：<br>1. ESR 或 CRP 上升<br>2. 關節液白血球上升<br>3. 關節液 PMN 比例上升<br>4. 單套 culture(+)<br>5. 關節蓄膿<br>6. >5 neutrophils/HPF | 其他（任一成立即可）：<br>1. WBC>3000, PMN>80%, Alpha-defensin(+)<br>2. >5 neutrophils/HPF 且鏡檢可見微生物 |\n\n(B) CPR 升高只是診斷條件之一，不一定會發生\n(C) WBC>3000 在 EBJIS criteria 中是項重要的診斷條件，但仍要搭配前面二項要件始能確診\n(D) 早期人工關節感染可透過抗生素 ± 關節內清創手術 (debridement) 治療。所謂「早期」，一般是指手術後三個月內發生的感染，但也必須考慮症狀嚴重度、病人免疫力、手術風險等。晚期或延遲發生的人工關節感染，通常考慮做「兩階段人工關節重建手術」：第一階段「拔除人工關節，以骨水泥假體填充」，將附著於人工關節表面的生物膜 (biofilm) 連根拔起，才能徹底地清創，過渡期會持續給予抗生素，待感染得到控制，再進行第二階段「重新裝置人工關節」",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-63_merged.png"
+  },
+  "112-2-醫學(五)-64": {
+    "explanation": "筆者不太知道此題出處和出題用意，尿路阻塞導致不可逆之腎損傷的時間點受許多因子影響：如單側／雙側、阻塞前 GFR、腎血流等。一週內解除阻塞者幾乎都能恢復腎功能，4-6 週已有不可逆腎元損傷，12 週則幾乎不可能復原，故 (B) 最適合。其病生理機轉與阻塞處壓力增加，並逐漸回傳至腎元有關，使入腎血流減少、腎小管膨脹而變形",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-64_merged.png"
+  },
+  "112-2-醫學(五)-65": {
+    "explanation": "大約 10~40% 的腎細胞癌 (renal cell carcinoma, RCC) 病人以副腫瘤症候群作為初始症狀，因此又被稱為「內科醫師的腫瘤 (internist's tumor)」，症狀整理如下：\n1. 紅血球增多症 (EPO ↑，但病人反而表現貧血居多)\n2. 高血鈣 (PTHrP ↑)\n3. 高血壓 (renin ↑)\n4. 非轉移性肝功能異常 (nonmetastatic hepatic dysfunction，又稱 Stauffer's syndrome)\n5. 發炎指數上升 (CRP、ESR ↑)\n\n除了腎細胞癌，鱗狀細胞癌、轉移性乳癌、多發性骨髓瘤等也會分泌 PTHrP，產生高血鈣",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-65_merged.png"
+  },
+  "112-2-醫學(五)-66": {
+    "explanation": "| 嗜鉻細胞瘤 (pheochromocytoma) | |\n| --- | --- |\n| 定義 | 用來指稱位在腎上腺髓質裡會分泌 catecholamine 的腫瘤 |\n| 流行病學 | Rule of Tens：10% 惡性、10% 雙側、10% 腎上腺外（稱為 paraganglioma）<br>家族遺傳約佔 25%，常見於 VHL disease、MEN type 2、NF type 1 |\n| 臨床症狀 | 經典 triad：頭痛、心悸（心跳過快）、冒汗 |\n| 診斷 | 檢驗：抽血或 24 小時尿液檢驗 catecholamine 或 metanephrine<br>影像：CT、MRI、I-123 或 I-131 的 MIBG 掃描、18F-DOPA PET/CT |\n| 治療 | 症狀上，控制血壓是關鍵之一，但注意要先用 α-blocker 才可以改用 β-blocker<br>手術移除腫瘤，但特別注意要保留正常 adrenal cortex 的部分，否則容易變成 Addison's disease |\n| 基因篩檢 | 如果病人合併有其他特殊病史／家族史，可以考慮做基因篩檢：<br>- VHL disease：小腦、腦幹、腎臟、脊髓腫瘤要特別懷疑這個診斷，可以驗 VHL gene<br>- MEN type 2：家族史有甲狀腺癌或血清驗到 calcitonin 過高可以驗 RET gene |\n\n(A) 選項文獻提到的數據差異甚大，有 5-15%，可以算是正確。然而 (B) 就差太多啦！幾乎 90% 都在腎上腺內，而是 10% 才在腎上腺外。另外關於 MEN 2 的題目可以參考【112-2(五)39】、【112-2(五)40】",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-66_merged.png"
+  },
+  "112-2-醫學(五)-67": {
+    "explanation": "決定是否需進行手術的條件是攝護腺肥大的症狀，而非絕對體積，攝護腺體積超過 50 ml 的病人也有部分對藥物反應良好；AUA guideline 羅列 BPH 手術的絕對適應症包括：\n1. 因為 BPH 導致的反覆尿滯留或腎功能損傷\n2. 反覆發生泌尿道感染\n3. 反覆產生的膀胱結石或巨觀性血尿\n4. 病人對於症狀控制藥物反應不佳或拒絕使用",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-67_merged.png"
+  },
+  "112-2-醫學(五)-68": {
+    "explanation": "本題原本給 (A)，最後 (A)、(D) 皆給分。此題出處可能來自台大和亞東的老師發表在 BMJ 的統合分析。裡面把 BPH 的手術方法分成三種：resection（刮除術／RP）、enucleation（剜除術／EP）、vaporization（汽化術／VP），TURP 屬於 resection，能量來源用單極或雙極電刀；剜除術和汽化術的主要能量來源是雷射。另外 incision（切除術／IP）是微創療法，但未納入本研究\n\n(A) 研究發現 EP 在術後 6、12、24、36 個月的 Qmax（最大尿流速）較 RP、VP 好。細看發現現今主流雙極 TURP 在 Qmax 上雖略遜 EP，但沒有顯著差異。TURP 仍是主流且最大宗手術改善 BPH 的方式，但其他微創手術的確有其優點（不然為什麼自費？），筆者認為 (A) 太武斷，改成「針對尿流速，TURP 與其他微創療法的效果相當」較無疑義\n(B) 研究沒有探討住院時間，但一般採用雷射的 VP 不必住院即可回家，TURP 因術後可能有 TUR syndrome，仍需住院觀察。EP 雖然也用雷射，但 EP 通常是攝護腺嚴重肥大才考慮的術式，故也有住院必要\n(C) 暫時性尿失禁在術後是常見的副作用，以 EP 較 RP、VP 多，但兩週後大抵無差異，術後長期仍有尿失禁的發生率約 2%\n(D) TUR syndrome 是使用單極電刀 TURP 的併發症。由於單極電刀使用蒸餾水灌洗，低滲透壓溶液易被攝護腺靜脈竇吸收而造成體液過多，如肺水腫（咳粉紅泡沫痰）、腦水腫（意識改變）、低血鈉（噁心嘔吐）、血壓高、心跳減慢等症狀。但血壓、心跳等參數因病人而異，血壓低、心跳加速也可發生，是筆者認為 (D) 也給對的原因。現今攝護腺手術不論雙極電刀 TURP 或 EP、VP 等方法，皆使用 normal saline 灌注來減少 TUR syndrome 的風險\n\n下表整理攝護腺肥大 (BPH) 的手術方法：\n\n| BPH 手術術式 | | 適合攝護腺大小 | 補充 |\n| --- | --- | --- | --- |\n| 刮除術 (TURP) | 單極刮除 | 已少用 | 必用 distilled H2O，多 TUR syndrome |\n| | 雙極刮除 | < 80 g | 主流、健保給付 |\n| 切除術 (TUIP) | | < 30 g | |\n| 汽化術 (Vaporization) | | < 80 g | 適合在吃 anticoagulant 但不能停用者<br>術後恢復最快；無法取得檢體 |\n| 剜除術 (Enucleation) | | > 80 g | 適合在吃 anticoagulant 但不能停用者 |\n| Open prostatectomy | | | 傳統手術，恢復時間較久 |\n| 攝護腺動脈栓塞術 (prostatic arterial embolization, PAE) | | | 因技術尚未成熟且栓塞範圍可能不精準，有較高失敗率和併發症機率，建議在多科合作下施行；無法取得檢體 |\n\n目前 TURP 仍是手術主流，因為能取得切除的組織（汽化手術不能）；從 TURP 術後病理統計發現，65 歲以下病人約 13% 意外發現有攝護腺癌，65 歲以上者則來到 29%\n參考資料：SW Huang, et al. (2019). Comparative efficacy and safety of new surgical treatments for benign prostatic hyperplasia: systematic review and network meta-analysis. BMJ, 367",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-68_merged.png"
+  },
+  "112-2-醫學(五)-69": {
+    "explanation": "尿路感染 (UTI) 的危險因子整理如下。筆者分享一個簡單的記法：尿路越不通暢或越容易接觸感染源的病人，UTI 的風險越高。(D) 尿道下裂通常不會阻塞尿路，是 UTI 危險因子的可能性最低\n\n| 尿路不通暢 | 容易接觸感染源 |\n| --- | --- |\n| - 尿路結石<br>- 腎盂輸尿管逆流<br>- 先天泌尿道狹窄、結構異常<br>- 排尿不順 (e.g. 神經性膀胱、攝護腺肥大)<br>- 包莖<br>- 骨盆腔脫垂<br>- 泌尿道外傷或手術史 | - 尿路導管<br>- 性交或性病相關接觸史<br>- 尿布疹、陰部清潔刺激物<br>- 免疫力低下（糖尿病、洗腎、HIV、類固醇等） |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-69_merged.png"
+  },
+  "112-2-醫學(五)-70": {
+    "explanation": "(A) 儲精囊收縮：胃下神經 (hypogastric nerve)；交感神經\n(B) 陰莖海綿體勃起：海綿體神經 (cavernous nerve)；副交感神經\n(D) 膀胱頸收縮：胃下神經 (hypogastric nerve)；交感神經。有關膀胱其他神經分佈，可以參考【112-1(六)57】詳解\n\n男性勃起的一開始是透過性刺激使 cavernous nerve 受到刺激而導致內皮細胞釋放 NO，NO 會促進 GTP 變成 cyclic GMP，使血管平滑肌舒張，進而勃起。而 (B) 選項的陰莖背神經其實是 pudendal nerve 的一個分支，屬於體神經（有研究做出似乎也有自律神經功能），解剖位置上就走在陰莖海綿體上，但是他的目的是將感覺訊號回傳，而非主要造成勃起的神經\n\n至於射精 (ejaculation) 可分成 emission 跟 expulsion 兩階段。emission 一開始，要先將膀胱頸關閉以免逆行性射精，接著會收縮攝護腺，將前列腺液擠出、接著換儲精囊收縮將大部分的精液擠出。而在 expulsion 階段，就是要將精液注射出尿道，這個過程會牽涉到球海綿體肌與坐骨海綿體肌一陣一陣的收縮，雖然過程感覺是不自主的，但是卻是透過體神經支配\n參考資料：\n1. AC Leung, GJ Christ, & A Melman. (2004). Physiology of penile erection and pathophysiology of erectile dysfunction. Atlas of Male Sexual Dysfunction, 1-25.\n2. A Alwaal, BN Breyer, & TF Lue. (2015). Normal male sexual function: emphasis on orgasm and ejaculation. Fertility and sterility, 104(5), 1051-1060.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-70_merged.png"
   }
 }
