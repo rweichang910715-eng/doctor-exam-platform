@@ -21165,9 +21165,11 @@
       "D": "蝶竇（sphenoid sinus）是最晚開始發育且最晚完成的鼻竇"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，氣化意即由骨頭中產生此空腔，額竇是最晚開始發育的\n(B) 錯誤，雖然篩竇在出生時已發育良好，但篩竇小室 (ethmoid cells) 數量仍會繼續增加，在 6 個月大時才在 X 光上可見\n(C) 錯誤，上頜竇在出生時就發育完成\n(D) 錯誤，額竇才是最晚開始發育且最晚完成的鼻竇\n\n以下整理常見考點（鼻竇發育及開口位置）：\n\n| | 發育開始 | 發育結束 | x 光可見 | 引流出口 |\n| --- | --- | --- | --- | --- |\n| 蝶竇 | 2 歲 | 6 歲 | -- | 上鼻道 |\n| 篩竇 | 胚胎第 14 週 | 出生 | 6 個月大 | middle turbinate<br>(前後篩竇分界) |\n| 上頜竇 | 胚胎第 10 週 | 出生 | 6 個月大 | 中鼻道 |\n| 額竇 | 3 歲 | 18 歲 | 7 歲左右 | |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-21_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-21_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-22",
@@ -21182,9 +21184,11 @@
       "D": "上眼瞼出現皺褶（Dennie-Morgan folds）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "過敏性鼻炎的理學檢查發現：\n(A) 眼下黑眼圈及浮腫 (allergic shiners)，跟鼻塞使得血液與組織液在眼眶下溝累積有關\n(B) 鼻尖上橫紋 (transverse nasal crease) 是過敏的孩童，頻繁上推、揉鼻子而導致的，這個上推鼻子的動作很像是敬禮，故又被稱作 allergic salute。(可見 NEJM 的照片：10.1056/NEJMicm2111716)\n(D) Dennie-Morgan folds 是「下眼瞼」皺褶，暗示合併有過敏性結膜炎 (allergic conjunctivitis)，與過敏性鼻炎高度相關\n\n上述 'allergic shiners'、'transverse nasal crease'、'Dennie-Morgan folds' 是三個最常被提及的發現，另外在過敏性鼻炎的孩童中，眼睛 (C) 眼睫毛顯著較長、結膜水腫／翻紅、紅眼有血絲，並頻繁流淚、眼睛癢；鼻子有鼻黏膜水腫、鼻涕增加，常造成倒流 (postnasal drip) 而有清喉嚨的動作。鼻竇檢查可能有壓痛。耳朵基本上正常，有時可用氣動耳鏡檢查出耳咽管功能障礙 (Eustachian tube dysfunction)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-22_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-22_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-23",
@@ -21199,9 +21203,11 @@
       "D": "以目前的光學技術及醫療影像而言，兩者均可呈現高解析度影像畫質"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這題原答案為 (C)，但最後 (A)、(C) 都給分\n(A) 直接、間接喉鏡檢查的差別在於能否「直視」探查部位：\n\n| | 直接喉鏡檢查<br>(direct laryngoscopy) | 間接喉鏡檢查<br>(indirect laryngoscopy) |\n| --- | --- | --- |\n| 原理 | 透過長直管使眼睛直視目標 | 運用玻璃纖維可彎曲光束的特性，使眼睛不須直視目標即可看到影像 |\n| 喉內視鏡 | 皆為硬式，急救插管常用的彎刀形喉鏡就屬於這一類 | 分成硬式、軟式兩類。<br>硬式：Optical stylet、Bullard、Glidescope 等<br>軟式：Flexible laryngoscope、電子喉鏡等 |\n\n雖然間接喉鏡檢查以軟式纖維喉鏡為主流，但仍有硬式喉鏡的間接檢查，因此 (A) 也錯誤\n\n(B) 正確。軟式喉內視鏡較硬式細長且可彎曲，產生的不適感較低；加上是經鼻孔進入，不用像硬式需要病人平躺擺位成 sniffing position 且不容易誘發咽反射，因此很適合在門診檢查；硬式喉內視鏡則多在手術房使用全麻檢查\n\n(C) 錯誤。軟式喉內視鏡和胃鏡、大腸鏡一樣也有工作管腔，能夠放入器械進行治療手術，如腫瘤切片、息肉切除、聲帶治療等\n\n(D) 正確。若為早期的軟式喉內視鏡，確實會因纖維容易斷裂而使影像解析度較差，然而隨著纖維材料進步加上電子喉鏡的出現，軟式和硬式喉內視鏡均能呈現高畫質的影像",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-23_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-23_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-24",
@@ -21216,9 +21222,11 @@
       "D": "可放置較大管徑的人工呼吸管路"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "很微妙的一題。其實光從增加呼吸道 dead space 不會是優點而是缺點就可以選出答案 (A) 了。理論上氣管切開術 (tracheotomy) 會減少 dead space，因為氣體少了口腔到氣管這一段空間，會比 endotracheal tube 更早能脫離呼吸器，減少加護病房住院天數。許多文獻也有提到氣切能降低住院中的死亡率，但實際上其實減少的空間也不多，大約 10-18 ml 而已",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-24_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-24_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-25",
@@ -21233,9 +21241,11 @@
       "D": "lateral cricoarytenoid muscle"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題在考聲帶控制肌肉的神經支配，建議搭配個別肌肉的功能記憶，除了 (B) cricothyroid muscle 外皆是由 recurrent laryngeal n. 支配，詳見下表：\n\n| 肌肉 | 神經支配 | 功能 | |\n| --- | --- | --- | --- |\n| Posterior cricoarytenoid muscle | recurrent laryngeal n. | 開啟聲門 | 無 |\n| Lateral cricoarytenoid muscle | recurrent laryngeal n. | 關閉聲門 | 無 |\n| Transverse arytenoid muscle | recurrent laryngeal n. | 關閉聲門 | 無 |\n| Vocalis muscle / Thyroarytenoid muscle | recurrent laryngeal n. | 關閉聲門 | 放鬆聲帶<br>（聲音變低） |\n| Cricothyroid muscle | external branch of superior laryngeal n. | 關閉聲門 | 拉緊聲帶<br>（聲音變高） |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-25_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-25_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-26",
@@ -21250,9 +21260,11 @@
       "D": "原發腫瘤周圍出現淋巴血管侵犯（lymphovascular invasion）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題考得很細，原發腫瘤的術後輔助治療大致分成術後輔助化學放射治療 (CCRT) 和術後單獨放射治療兩類。NCCN guidelines 的建議如下：\n\n| 必須術後輔助化學放射治療 | - 淋巴結外膜侵犯 (extranodal extension, ENE)<br>- 切緣腫瘤陽性 (positive margin) |\n| 單獨術後放射治療即可 | - 原病理分期為 T3、T4<br>- 有 N2 以上淋巴轉移<br>- 腫瘤有神經或淋巴血管侵犯 |\n\n補充口腔癌分期與採取的 primary treatment（參考 AJCC 第 8 版和 NCCN 2023 指引）：\n\n| Stage | TMN | 簡單描述 | primary treatment |\n| --- | --- | --- | --- |\n| I | T1 | 0-2 cm | 手術（或 definite RT） |\n| II | T2 | 2-4 cm | 手術（或 definite RT） |\n| III | T3N0M0 / [T1, T2, T3] N1M0 | > 4 cm or < 4 cm 但有淋巴結轉移 | 手術 + 術後輔助治療 |\n| IVA | T4a [N0, N1] M0 / [T1, T2, T3, T4a] N2M0 | 有 T4a（侵犯 adjacent structures, e.g. bone） | 手術 + 術後輔助治療 |\n| IVB | [Any T] N3M0 / T4b [Any N] M0 | 有 T4b（侵犯 skull base、內頸動脈） | 手術或 CCRT |\n| IVC | [Any T][Any N] M1 | 有 M（遠端轉移） | 化療、標靶治療 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-26_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-26_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-27",
@@ -21267,9 +21279,11 @@
       "D": "Warthin氏腫瘤的另一個名稱是papillary cystadenoma lymphomatosum"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題只有 (D) 的名稱配對正確。延伸主題建議參閱【112-1(五)17】的解析\n\n唾液腺腫瘤無論是良性或惡性，首選治療一律都是手術切除 (surgical excision)。然而題目很刁鑽的寫成「腫瘤摘除 (enucleation)」，和 excision 是兩種不同的術式：\n\n| 摘除／剜除 (enucleation) | 只取腫瘤本體 |\n| 切除 (excision) | 取腫瘤本體和周邊組織，斬草除根的概念 |\n\n多形性腺瘤、Warthin 氏腫瘤等良性腫瘤都有機會轉成惡性，且未清除乾淨下的復發率很高，因此手術切除 (excision) 的療效較好，其中以耳下腺囊外廓清術 (extracapsular dissection) 最常使用",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-27_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-27_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-28",
@@ -21284,9 +21298,11 @@
       "D": "mifepristone and methotrexate"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "在子宮腔內懷孕第一孕期的藥物終止妊娠方式，主要以 (A) (B) 兩選項的單用 misoprostol 或 mifepristone + misoprostol 為主，合併使用時的效果更好，也較快可以完成流產。給法是先口服 200 mg 的 mifepristone，過 24 小時再給 800 μg 的 misoprostol；(C) methotrexate + misoprostol 最早是用在子宮外孕，但在 1995 年 NEJM 上有一篇文獻，結論是這個組合用在子宮內懷孕 9 週以內的婦女是有效且安全的；(D) mifepristone + methotrexate 一般是用在子宮外孕，且目前實證上沒有建議將這個用法用在子宮腔內懷孕的終止妊娠。因此這題要選 (D)\n\n其他考點：\n• 常見的終止妊娠藥物就是選項中出現的這三個：\n\n| 藥物名稱 | 作用與特性 |\n| --- | --- |\n| Misoprostol | 是 PGE1 的類似物，原先主要用來防止 NSAID 造成的胃潰瘍，用在終止妊娠則可以使子宮收縮、子宮頸軟化。可以口服、雙頰、舌下、直腸、陰道等方式給藥，其中直腸、陰道給藥療效高且副作用少 |\n| Mifepristone | 俗稱 RU-486，會使黃體素無法作用在子宮上，進而使子宮和子宮頸的血管擴張並使子宮收縮。這個藥物同時也可以延後濾泡成熟，進而使排卵延後 |\n| Methotrexate (MTX) | 是 folic acid antagonist，被應用在許多癌症與自體免疫疾病。MTX 對於 trophoblastic tissue 有毒性，因此在婦產科病人中被用在妊娠滋養細胞疾病 (e.g. 葡萄胎)，另外也可以用在未破裂的子宮外孕治療 |\n\n• 若要在第二孕期進行終止妊娠，藥物選擇上除了 misoprostol、mifepristone + misoprostol 之外，還可以使用 dinoprostone（一種 PGE2）、濃縮 oxytocin，但最適合的還是前面兩者\n• 藥物終止妊娠不需要預防性給予抗生素（感染機率低，約 0.3%）\n\n參考資料：RU Hausknecht. (1995). Methotrexate and misoprostol to terminate early pregnancy. New England Journal of Medicine, 333(9): 537-540",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-28_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-28_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-29",
@@ -21301,9 +21317,11 @@
       "D": "子宮動脈栓塞（uterine artery embolization）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據子宮外孕的治療方式，在生命徵象穩定、妊娠週數 10-12 週以前，皆可以使用藥物治療（MTX、RU486 或 PGE1）來達到流產的目的；如果週數 >14 週，或是目前生命徵象不穩，對於藥物治療的效果可能不佳，才會考慮 D&E 等手術方式介入。子宮頸懷孕屬於子宮外孕的一種，處理概念上類似，會先使用 MTX 注射，治療失敗、出血或生命徵象不穩才考慮 (B) (C) 手術方式處理",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-29_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-29_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-30",
@@ -21318,9 +21336,11 @@
       "D": "自然殺手細胞（natural killer cell）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "胚胎著床到胎盤形成有兩個重要步驟：\n1. 細胞滋養細胞侵襲，讓胚胎能深入蛻膜，有固定作用並特化出絨毛膜外滋養細胞 (extravillous cytotrophoblast, EVT) 與母體蛻膜的免疫細胞接觸\n2. 重塑母體螺旋動脈的平滑肌和彈性纖維，讓其有足夠功能於母體與胎兒之間交換養分與廢物\n\n母體蛻膜（特化的子宮內膜，為母胎介面 (maternal-fetal interface) 最前線）的免疫細胞組成為自然殺手細胞 (70%)、巨噬細胞 (20%)、調節 T 細胞 (10%)。胚胎的 EVT 會表現獨有的 HLA-G, HLA-C, HLA-E 而不被自然殺手細胞攻擊，還會協同自然殺手細胞分泌細胞激素促進上述 (1) (2) 步驟的進行；調節 T 細胞則進一步確保母體對胚胎（跟母體半相容）的免疫容忍 (maternal intolerance)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-30_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-30_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-31",
