@@ -19705,9 +19705,11 @@
       "D": "第四型因為支架血管的織物孔洞而造成"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腹主動脈瘤的血管內治療方式為放置支架血管 (stent graft)，但臨床發現約 20~30% 病人都會在術後初期出現支架滲漏 (endoleak)，根據發生位置共分成五型：\n\n| 滲漏分型 | 描述 | 補充 |\n| :--- | :--- | :--- |\n| **type I** | 支架接觸區滲漏 (attachment site leak) | 支架近端— type Ia<br>支架遠端— type Ib<br>髂動脈端— type Ic |\n| **type II (最常見)** | 動脈側枝回流滲漏 (side branch leak)<br>如腰動脈、下腸繫膜動脈等 | 1 條側枝— type IIa<br>≥2 條側枝— type IIb |\n| **type III** | 支架交界區或破損處滲漏 (junctional leak) | 交界區— type IIIa<br>破損處— type IIIb |\n| **type IV** | 支架織物孔洞滲漏 (fabric porosity leak) | |\n| **type V** | 腹主動脈瘤擴大，但顯影劑無發現滲漏 | 原因不明，推測為手術時殘留壓力造成 |\n\n(C) 第三型滲漏應更正為發生在支架血管交界處。另外大多數的支架血管滲漏可在術後 6 個月內自行緩解，但也有約 10~15% 的滲漏需要第二次手術治療，如近 / 遠端放置 extender、側枝動脈栓塞、開腹手術等",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-21_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-21_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-22",
@@ -19722,9 +19724,11 @@
       "D": "肌紅蛋白尿（myoglobinuria）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "創傷、急性下肢缺血進行血管重建後可能會發生下肢急性腔室症候群，整理如下：\n\n| 急性腔室症候群 (acute compartment syndrome) | |\n| :--- | :--- |\n| **病理機轉** | 當腔室壓力增加而超過微靜脈的壓力時，就會讓血液回流出問題而導致水腫，水腫更會讓腔室壓力上升阻礙灌流，使肌肉組織缺氧壞死。經常合併橫紋肌溶解，嚴重則出現腎衰竭 |\n| **症狀** | 經典症狀 5P：Pallor (蒼白)、Pain (疼痛)、Pulseless (無脈搏)、Paresthesia (感覺異常)、Pressure increased (壓力上升)，題幹敘述的肌肉緊繃就是壓力上升的證據 |\n| **實驗室檢查** | 電解質異常：高血鉀、高血磷、低血鈣<br>肌酸酐 (creatininine)、肌酸磷酸激酶 (creatine kinase) 與肌紅蛋白 (myoglobin) 三者上升，而肌紅蛋白會導致茶色或深紅色尿 |\n| **治療** | 筋膜切開術 (fasciotomy) + 輸液治療 |\n| **鑑別診斷** | 周邊動脈阻塞疾病 (PAOD) 的症狀和腔室症候群很像，但是不會有壓力上升，而是會感覺冰冷 (Poikilothermia) 及癱瘓 (Paralysis)（加上這兩個，腔室症候群也有症狀 7P 的說法）。另外 Doppler 在阻塞後的地方會沒訊號 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-22_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-22_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-23",
@@ -19739,9 +19743,11 @@
       "D": "在青春期前的女性，不適合使用右前側開胸術（anterolateral thoracotomy）來修補"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(B) ASD 患者在 40 歲以上時，容易因為右心長期承受高血量導致心衰竭與心律不整，應考慮心導管檢查；在有嚴重肺動脈高壓（大於 12 Wood units）的患者，直接關閉缺損無法改善其預後，需先考慮藥物治療來控制肺動脈高壓\n(C) 錯誤，常伴有二尖瓣逆流的是圓孔型缺損 (ostium primum ASD)，其心內膜墊缺損會容易延伸到二尖瓣而有裂口 (cleft)；靜脈竇型缺損 (sinus venosus type, ASD) 則是很常合併肺靜脈回流異常，通常涉及一或多條肺靜脈注入上腔靜脈\n(D) 右前側開胸術會影響後續乳房發育，因此不建議使用於乳房未發育的青春期前的女性",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-23_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-23_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-24",
@@ -19756,9 +19762,11 @@
       "D": "肺動脈瓣轉至主動脈之手術（Ross procedure）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "先天性主動脈瓣狹窄是否外科介入，與成人主動脈瓣狹窄相同，「重度」就需要外科治療，包含任一項：有左心衰竭症狀、平均心室到主動脈壓力差 > 40 mmHg、LVEF < 50%。（成人還有主動脈瓣面積 < 1 cm² 也算重度）\n\n手術治療的大方向為修補 (repair) 優於置換 (replacement)，氣球擴張術和主動脈瓣膜切開術分別是微創與傳統開胸的瓣膜「修補」方法，前者優勢在於侵入性小，但有狹窄復發的風險。若必須考慮「置換」，兒童有 Ross procedure 用自體的肺動脈瓣置換主動脈瓣，再用異體的肺動脈瓣去替補原肺動脈瓣。傳統瓣膜置換術 (surgical aortic valve replacement, SAVR) 很少採用，因此時期患者較難有適合尺寸的人工瓣膜，且人工瓣膜不會隨著兒童成長，Ross procedure 則不會有此問題\n\n補充：成人主動脈瓣狹窄幾乎都是置換（SAVR 或 TAVI），很少修補，這是因為成人狹窄主因是鈣化，瓣膜結構通常無法修補",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-24_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-24_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-25",
@@ -19773,9 +19781,11 @@
       "D": "橫膈上食道憩室（epiphrenic diverticula）為壓出型憩室（pulsion diverticula），也是偽憩室（falsediverticula）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 咽食道憩室在分類上應為偽憩室\n\n有關食道憩室的整理如下：\n\n| 憩室 | 咽食道憩室 (Zenker diverticula) | 橫膈上食道憩室 (epiphrenic diverticula) | 氣管旁食道憩室 (parabronchial diverticula) |\n| :--- | :--- | :--- | :--- |\n| **位置** | 口咽 | 橫膈上方 | 食道中段 |\n| **型態** | 偽憩室 (false diverticula) | 偽憩室 (false diverticula) | 真憩室 (true diverticula) |\n| **病生理** | 食道蠕動異常造成管腔內壓力增加，使黏膜層、黏膜下層穿過肌肉形成憩室<br>= 壓出型憩室 (pulsion diverticula) | 食道蠕動異常造成管腔內壓力增加，使黏膜層、黏膜下層穿過肌肉形成憩室<br>= 壓出型憩室 (pulsion diverticula) | 食道外淋巴結發炎後產生攣縮，將全層食道壁往外拉扯形成憩室<br>= 牽引型憩室 (traction diverticula) |\n| **病因** | 老化相關（最常見） | 慢性感染（TB、真菌）、食道痙攣、弛緩不能相關 | 食道痙攣、弛緩不能相關 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-25_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-25_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-26",
@@ -19790,9 +19800,11 @@
       "D": "與肺腺癌（adenocarcinoma）相比，較早發生轉移"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "112 年兩次國考都有出現肺腺癌與肺鱗狀上皮癌比較的題目，另一題是【112-1(五)27】，筆者統一將各類型肺癌的比較整理至【112-1(五)27】的詳解",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-26_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-26_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-27",
@@ -19807,9 +19819,11 @@
       "D": "大部分病人以抗生素治療即能痊癒"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 肺膿瘍可為局部感染或外源性感染導致，前者多源自吸入性肺炎、壞死性肺炎等情形，後者可以來自持續的菌血症且常為表皮菌感染（e.g. 感染性心內膜炎或靜脈管路感染），因此葡萄球菌菌血症是可能的原因\n\n這類病患在影像上會看到肺部有空腔積液、蓄膿，故可能看到氣液平面，有肺部空腔者本身即是發展成氣胸的高風險族群，在空腔 < 4 cm 的情況下，抗生素治療的反應良好，反之過大的空腔則須搭配手術引流做感染控制",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-27_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-27_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-28",
@@ -19824,9 +19838,11 @@
       "D": "黑色素瘤"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "惡性肋膜積液 (MPE) 是在肋膜液中發現惡性細胞，其來源多是惡性細胞經血路轉移至臟層肋膜，也可腫瘤直接侵犯肋膜所致。最常見的成因為肺癌和乳癌（共佔 50-65%），其他則有間皮細胞瘤（mesothelioma，90% 間皮細胞瘤會有 MPE）、淋巴瘤、卵巢癌。(D) 選項的黑色素瘤較常轉移到肺臟，但轉移到肋膜很罕見\n\nMPE 是癌症預後不佳的獨立預測因子。因預後差，MPE 的處置目標為舒緩病人不適並維持生活品質。常用的治療包含積液抽吸、留置肋膜導管 (indwelling pleural catheter)、肋膜沾黏術 (pleurodesis) 等",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-28_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-28_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-29",
@@ -19841,9 +19857,11 @@
       "D": "氣胸合併持續漏氣及肺部塌陷或通氣不足"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(C) 看到生命跡象回穩大概能知道病人已暫時脫離險境，因此無緊急開胸探查的需要。以下為 Sabiston 中對於胸腔外傷的開胸手術適應症 (thoracotomy indications)：\n• 胸管引流 >1500mL 且持續出血\n• 胸管引流 >150 to 200 mL/ 小時且持續 2~4 小時以上\n• 輸血後仍持續血循不穩定\n• 心跳停止或急性心衰竭（e.g. 心包膜填塞）\n• 氣胸合併持續大量的漏氣、肺塌陷或通氣不足\n• 引流液出現食道或胃分泌物（e.g. 食道破裂）",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-29_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-29_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-30",
@@ -19858,9 +19876,11 @@
       "D": "有將近60%的gastrinoma為惡性的，且常合併淋巴結、肝臟或其他遠端轉移"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "近期考試非常愛考 MEN I、MEN II 以及與他們相關的腫瘤，可以多花時間準備！\n(A) 正確。Gastrinoma 是胰臟神經內分泌瘤的一種，會異常地分泌 gastrin 導致腹痛、嚴重且反覆性的 peptic ulcer disease、腹瀉等，臨床上稱為 Zollinger-Ellison syndrome\n(B) 錯誤。20% 的病人是合併 MEN I（記得胰臟的內分泌腫瘤都和 MEN I 有關！）\n(C) 正確。Gastrinoma triangle 又稱為 Passaro's triangle，大約 80-90% 的 gastrinoma 會在此處發現（詳見【112-1(五)34】）\n(D) 正確。不像大部分為良性的 insulinoma，gastrinoma 多數是惡性且常是小顆、多發、易遠端轉移\n\n最後補充 Zollinger-Ellison syndrome/gastrinoma 的治療：初始治療以 PPI 等胃酸抑制劑佐以體抑素 (somatostatin) 優先；基於 gastrinoma 腫瘤多為惡性且不局部，手術切除雖然有機會根治但並非首選，只有在保守治療不佳或有 mass effect 時才做",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-30_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-30_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-31",
