@@ -19515,9 +19515,11 @@
       "D": "如數日後疼痛緩解，下肢麻木感取代部分疼痛，則表示神經根病變有緩解"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腰椎椎間盤突出常發生在 L4-5 和 L5-S1，由於脊柱壓力在前傾彎腰時最大〔彎腰 (flexion) > 坐姿 > 站立 > 躺平〕，因此長期前傾彎腰和負重是造成損傷的主因，臨床症狀會以局部背痛 (dysfunction)、背無力感 (unstable)、下背痛減輕但活動不能 (stabilization)，而時常坐骨神經痛的症狀會比背痛更強烈\n\n(D) 錯誤，下肢麻木感代表壓迫處神經細胞產生缺血性損傷，導致去髓鞘化，代表疾病進程而非緩解與否",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-11_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-11_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-12",
@@ -19532,9 +19534,11 @@
       "D": "後縱走韌帶，椎莖，椎關節"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Denis' three-column model 提到當任二相鄰的 columns 受傷，此脊椎便會不穩定 (unstable)。不穩定的脊椎暗示該段脊椎有一定程度的錯位，上下的結構恐不足以支撐，可能進一步發生神經、關節、軟組織傷害\n\n| 脊椎分柱 | 解剖構造 |\n| :--- | :--- |\n| **Anterior column** | 前縱韌帶 (anterior longitudinal ligament, ALL)<br>前 2/3 椎體和椎間盤 |\n| **Middle column** | 後 1/3 椎體和椎間盤<br>後縱韌帶 (posterior longitudinal ligament, PLL) |\n| **Posterior column** | 椎根 / 椎莖 (pedicle)、椎板 (lamina)、橫突、棘突<br>小面關節 (facet joints) 和上下關節突<br>黃韌帶 (ligamentum flavum)<br>棘間韌帶 (intraspinous lig.)、棘上韌帶 (supraspinous lig.) |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-12_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-12_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-13",
@@ -19549,9 +19553,11 @@
       "D": "受傷後1～2週容易有記憶障礙或頭痛症狀"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腦震盪 (concussion) 的嚴重度評估工具眾多，以下整理最常使用的 Colorado 分級系統：\n\n| Colorado 分級 | Grade I | Grade II | Grade III |\n| :--- | :--- | :--- | :--- |\n| **症狀** | • 意識錯亂 (confusion)<br>• 無失去意識 | • 意識錯亂 + 創傷後失憶 (post-traumatic amnesia)<br>• 無失去意識 | 任何程度的失去意識 |\n\n失去意識已屬於第三級腦震盪，因此 (A) 錯誤。此外還有 Cantu 分級（少用）、American Academy of Neurology 分級（和 Colorado 大致相同，但 Grade I/II 以症狀持續 15 分鐘為界）等。有些研究發現腦部在受傷後可維持高代謝狀態長達 1 週，但也會在受傷後 1~2 週內對傷害更敏感，即使是輕微頭部創傷後也可能出現記憶困難或頭痛，稱為第二次撞擊綜合症 (second-impact syndrome)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-13_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-13_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-14",
@@ -19566,9 +19572,11 @@
       "D": "①③④"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題正確的敘述只有③，答案為 (C)\n① 血管瘤 (hemangioma) 大部分在剛出生時會逐漸長大，到了 3 個月時最大；一歲以後會開始縮小，大部分都會在 3-4 歲的幼童時期消失\n② 硬化劑注射可以讓畸形的血管位置形成 emboli，但只是輔助作用。血管畸形的第一線治療仍以手術為主\n④ 微血管畸形又稱為 port-wine stain，它與動靜脈畸形一樣，並不會自己萎縮消失。而微血管畸形是血管畸形裡面最常見的一種",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-14_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-14_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-15",
@@ -19583,9 +19591,11 @@
       "D": "頭頸部"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "球狀血管瘤是球狀體 (glomus body，皮下動靜脈吻合的組織、用於體溫控制) 的異常增生，這類球狀體分布於全身的皮膚 (stratum reticularis)，但主要分布在四肢的肢端，特別是高度聚集在指甲下的位置，因此此題答案應為 (C) 手指",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-15_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-15_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-16",
@@ -19600,9 +19610,11 @@
       "D": "type IV：縫匠肌（sartorius）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "一翻兩瞪眼的記憶題。Mathes-Nahai classification 與代表性的肌肉整理如下：\n\n| Type | 供應血管型態 (major / minor) | 代表肌肉 |\n| :--- | :--- | :--- |\n| **I** | 單一血管 (1 / 0) | 闊筋膜張肌 (tensor fascia lata)<br>腓腸肌 (gastrocnemius) |\n| **II** | 一條主血管和數條小血管 (1 / 2+) | 股薄肌 (gracilis) |\n| **III** | 兩條主血管 (2 / 0) | 臀大肌 (gluteus maximus) |\n| **IV** | 數條大小相同的血管，每條各供應肌肉的不同段 (0 / segmental) | 縫匠肌 (sartorius) |\n| **V** | 一條主血管供應外，也有數條大小相同的血管，各供應肌肉的不同段 (1 / segmental)，可想成 type I + type IV | 闊背肌 (latissimus dorsi)<br>胸大肌 (pectoralis major) |\n\n原答案給 (C)，但 (A) 比目魚肌英文為 soleus m. 且屬於 type II，gastrocnemius 腓腸肌屬於 type I，故開放為 (A) (C) 皆給分",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-16_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-16_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-17",
@@ -19617,9 +19629,11 @@
       "D": "紅寶石雷射（ruby laser）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這題很有近年醫美流行的應景感。雷射在整形外科、皮膚科也是重要的手術之一，透過熱能破壞皮膚、色素或血管組織達成不同治療目的。臨床上皮膚雷射依據原理，可分成消融式雷射與非消融式雷射兩類：\n\n| 比較項目 | 消融式雷射 (ablative laser) | 非消融式雷射 (non-ablative laser) |\n| :--- | :--- | :--- |\n| **原理** | 汽化皮膚組織 | 加熱皮膚組織，但不會汽化 |\n| **破壞表皮 (epidermis)** | 會 | 不會（可將破壞侷限在真皮 / 皮下） |\n| **優點** | 破壞力強，單次效果顯著 | 週邊組織熱傷害程度小，癒合較快 |\n| **缺點** | 週邊組織熱傷害程度大，癒合較久且容易結疤 | 破壞力弱，通常需要多次治療 |\n| **應用** | 表皮為主，如消除皺紋、疤痕、點痣、磨皮等 | 真皮 / 皮下為主，如改善色素沉積、皮膚血管問題等 |\n| **舉例** | • 二氧化碳雷射 (CO2 laser)<br>• 鉺雅鉻雷射 (Er: YAG laser) | • 釹雅鉻雷射 (Nd: YAG laser)<br>• 脈衝式染料雷射 (pulsed dye laser)<br>• 紅寶石雷射 (ruby laser)<br>• 紫翠玉雷射 (alexandrite laser)<br>• 鉀鈦磷雷射 (KTP laser)<br>• 半導體雷射 (diode laser) |\n\n參考上表可發現選項只有二氧化碳雷射屬於消融式雷射，加上分段式二氧化碳雷射 (fractional CO2 laser) 相較傳統二氧化碳雷射具有較不疼痛、傷口較小且復原較快的優點，很適合用於消除皮膚紋路，如妊娠紋、肥胖紋等，所以正確答案為 (C)\n\n參考資料：MR Alexiades-Armenakas, JS Dover & KA Arndt. (2008). The spectrum of laser skin resurfacing: nonablative, fractional, and ablative laser resurfacing. Journal of the American Academy of Dermatology, 58(5), 719-737",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-17_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-17_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-18",
@@ -19634,9 +19648,11 @@
       "D": "男性女乳症會發現在Klinefelter's syndrome的病患，且與罹患乳癌風險較無關聯"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確。testosterone 會抑制乳房生長，而 estrogen、progesterone、prolactin、growth hormone 等則會促進生長。文獻有記載大約 20% 的男性女乳症是因為藥物或者是化學藥劑影響。根據前面講的生理機轉，與性賀爾蒙相關的藥物都有可能造成男性女乳症，比如有雌性激素效果的毛地黃，或者是抗雄性激素的攝護腺癌藥物 flutamide 等，而 spironolactone 則是會抑制雄性激素受器以及增加雌性激素的濃度\n(B) 正確、(D) 錯誤。男性女乳一般都是良性的乳房增生且通常是雙側都會有（但也可能單側），它也不是一種乳癌前病變。但是 Klinefelter's syndrome 的病人較正常人有 20-50 倍機率得到乳癌。其他如肥胖、使用性賀爾蒙相關藥物、高齡、BRCA(+) 等風險因子也都是評估男性懷疑乳癌時的重點\n(C) 正確。男性女乳症在全年齡都可能發生，而其中有三個時期更常出現：\n1. 新生兒：主要因為懷孕時母體產生的雌性激素會讓寶寶血中有高濃度的雌性激素，通常一年內會消失\n2. 青春期：60% 男生在 14 歲前可在臨床上發現有男性女乳的特徵，而大部分在 3 年內會消失。機制主要跟青春期性荷爾蒙分泌有關，而是否會發展取決於 androgen/estrogen 的比值\n3. 晚年期：大約 40-60% 的男性會有，目前機制沒有定論，但是推測跟老年人的雄性激素下降、身體脂肪含量增加而造成 aromatase 活性增加、LH 濃度相對上升等有關，也有文獻提出跟老年人會使用較多藥物也因此比較有可能產生男性女乳的副作用\n\n其他考點：Klinefelter's syndrome 染色體為 XXY，常見表現為身高較高、第二性徵不明顯（睪丸小、體毛少）、不孕（可能無精症）、男性女乳，有時伴隨智能障礙",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-18_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-18_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-19",
@@ -19651,9 +19667,11 @@
       "D": "不建議使用預防性抗生素，除非肺部出現感染現象"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 錯誤，胸部 X 光對於吸入性灼傷的敏感性極低，而電腦斷層對診斷和預後的價值較高，但無法改變太多的臨床醫療決策（早期插管仍是非常重要！），因此處置應依據病史及身體檢查結果，不須常規進行電腦斷層檢查\n(B) 在嚴重燒傷的患者，燒傷後的主要死因常是源於併發感染症，但綜合此題敘述的面部燒傷、煙霧瀰漫等情景，吸入性灼傷仍是可能的原因之一\n(C) 有必要早期插管，美國燒傷醫學會建議在有任何臨床懷疑會危及呼吸道的徵兆，就應提早插管，避免水腫惡化時插管困難\n(D) 雖然在這類燒傷的病人會有更高的機率發生院內感染肺炎，但目前並無證據顯示預防性抗生素對於呼吸道灼傷的預後是有幫助的，因此不建議在沒有感染跡象前給予",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-19_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-19_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-20",
@@ -19668,9 +19686,11 @@
       "D": "acute type B aortic dissection若無合併灌流不足症候群，可先使用藥物控制血壓"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 乍看之下是對的，但 Stanford 分類是看剝離涉及的區域而跟破口在何處無關，涉及升主動脈就是 type A，不涉及升主動脈是 type B。若今天破口在降主動脈但一路裂回升主動脈，依然屬於 Stanford type A\n\n補充急性主動脈剝離 (acute aortic dissection, AAD) 的治療：\n\n| Stanford 分型 | 亞型 | 治療處置 |\n| :--- | :--- | :--- |\n| **Stanford type A** | | 開心手術（死亡率每隔 1 小時 + 1%） |\n| **Stanford type B** | **complicated\\*** | 需手術介入，有機會採用內視鏡手術（如血管腔內主動脈瘤修復 = TEVAR） |\n| | **uncomplicated** | 優先給予 anti-impulse therapy 降血壓，避免進一步剝離，待血壓穩定後再考慮內視鏡手術<br>• 目標：血壓 <120/80 mmHg、心率 <60 bpm<br>• 藥物：第一線為 β-blocker（如 labetalol、esmolol、propranolol 等），效果差可加上 non-DHP CCB 或 sodium nitroprusside<br>• 須留意 nitroprusside 不可單用，否則其血管舒張會造成反應性心搏過速，增加心臟負擔 |\n\n\\* 有合併以下情形皆屬 complicated：\n• 有器官灌流不足之症候 (malperfusion syndromes)，如心絞痛 /EKG 變化 (冠狀動脈)、神經學症狀 (腦血管)、寡尿 (腎)、腹痛 (腸胃)、脈搏減弱 / 蒼白 (周邊血管)\n• 有心臟併發症 (cardiac complications)，如心包膜填塞、裂回主動脈瓣出現急性主動脈瓣閉鎖不全\n• 主動脈破裂 (rupture)",
+    "explanation_image": "/explanations/cropped/112-2-醫學(五)-20_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(五)-20_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(五)-21",
