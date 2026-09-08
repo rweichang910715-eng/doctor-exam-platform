@@ -21355,9 +21355,11 @@
       "D": "第4度裂傷係指裂傷範圍包括perineal body、anal sphincter complex和anorectal mucosa"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "知道會陰裂傷各級大致的分界部位就不難作答，整理如下：\n\n| 會陰裂傷分級<br>(Sultan's classification) | 傷及部位 |\n| --- | --- |\n| 第一度 | vaginal epithelium 或 perineal skin |\n| 第二度 | perineal muscles，但 anal sphincter complex 完整 |\n| 第三度 | 3a：<1/2 external anal sphincter<br>3b：>1/2 external anal sphincter<br>3c：internal anal sphincter |\n| 第四度 | 傷及 anorectal mucosa（包含之前第一至三度裂傷） |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-31_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-31_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-32",
@@ -21372,9 +21374,11 @@
       "D": "骨盆底部肌肉受損機會較高"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確。一般剖腹產的出血量會在 1000 ml 以內，而自然產則在 500 ml 以內。超過這些數值是傳統定義上的 postpartum hemorrhage (PPH)\n(B) 正確。孕婦罹患 DVT 的機率較一般人高 4 到 5 倍，而剖腹產的病人又比自然產得到 DVT 機率高上 2.2 倍\n(C) 正確。糖尿病的病人在剖腹產術前使用胰島素可以讓產婦在手術中的高血糖得以受到控制，進而防止胎兒出生的低血糖症狀。另外，也有一些情形會需要有抗凝血劑的 bridge，底下以裝有機械瓣膜的病人為例：一般這種病人會建議使用 warfarin (Vit K antagonist)，但是 warfarin 因為有致畸胎性因此懷孕者不建議使用，因此在懷孕後會開始使用 LMWH，並在生產前 24 小時停用，剖腹產後 6-12 小時後繼續用 LMWH，再 bridge 回 warfarin\n(D) 錯誤。骨盆底肌肉受損機率較高的應該是自然產，這也是自然產孕婦產後容易出現應力性尿失禁的主要原因\n\n參考資料：\n1. MS Evangelista, K Slompo & JRR Timi. (2018). Venous Thromboembolism and route of delivery-review of the literature. Revista Brasileira de Ginecologia e Obstetricia, 40, 156-162.\n2. MM Daughety, et al. (2020). Management of anticoagulation in pregnant women with mechanical heart valves. Obstetrical & gynecological survey, 75(3): 190.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-32_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-32_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-33",
@@ -21389,9 +21393,11 @@
       "D": "脹奶可為產褥熱的原因之一"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 大致正確，產褥熱更嚴謹的定義為產後 1-10 天內，每日 4 次體溫有兩次大於攝氏 38℃\n(B) 錯誤，僅有 20% 的自然產後第一天發生的產褥熱，是因為骨盆腔細菌感染，而且此數據是來自 1979 年的論文，現在肯定更低。考數字實在有點太不人道，但 >50% 骨盆腔細菌感染的比率看起來誇張的高，要猜錯肯定猜這個！\n(C) 正確，敘述照搬教科書內容，但可以推論的是大部分非感染性產褥熱發燒都不太會超過 39℃，而嚴重發燒肯定會和嚴重細菌感染做連結\n(D) 正確，產褥熱的原因可以粗略分為生殖道與非生殖道兩者：\n• 生殖道：包括會陰傷口感染、骨盆腔感染或子宮內膜炎，子宮內膜炎與過長的產程、早期破水和剖腹產有關\n• 非生殖道：包括呼吸道（麻醉造成）、脹奶、剖腹傷口感染、泌尿道感染、細菌性乳房炎等。脹奶 (breast fever) 幾乎不超過 39℃，且很少燒超過 24 小時；剖腹傷口感染多在 2-4 天後才發生\n• 最常見的原因眾說紛紜，不同生產方式差異極大，感染而言以 upper genital tract infection 及 UTI 為主",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-33_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-33_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-34",
@@ -21406,9 +21412,11 @@
       "D": "胎兒患有此疾病，超音波下特徵為股骨（femoral length）過短"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "脊髓性肌肉萎縮症 (Spinal muscular atrophy, SMA) 是位於脊髓前角和腦幹的運動神經元退化，導致患病兒童肌張力低下、漸進式近端肌肉無力／萎縮，但不影響感覺、認知功能\n(A) 正確。SMA 為體染色體隱性遺傳，由 5q13.2 的 SMN1 基因缺失造成。SMN2 基因會轉錄、轉譯出蛋白以代償部分 SMN1 基因的功能，因此 SMA 嚴重程度與 SMN2 的 copy number 呈反比\n(B) 錯誤。多數 SMA 的病人為出生後才會發病，可參考以下 SMA 分型整理：\n\n| SMA | 比例 | 發病年紀 | 預期壽命 | SMN2 copy no. | 別稱 |\n| --- | --- | --- | --- | --- | --- |\n| Type 0 | < 1% | 懷孕後期發現<br>(prenatal) | < 6 月 | 1 | |\n| Type 1 | 55% | < 6 月<br>(infantile) | < 2 歲 | 2 | Werdnig-Hoffmann disease |\n| Type 2 | 20% | 6-18 月<br>(immediate) | 10-40 歲 | 3 | Dubowitz disease |\n| Type 3 | 20% | > 18 月<br>(juvenile) | 正常 | 3-4 | Kugelberg-Welander disease |\n| Type 4 | < 5% | > 5 歲<br>(late-onset) | 正常 | 4-8 | |\n\n(C) 錯誤。有已知家族帶因者的夫妻就建議做基因檢測，若夫妻皆為帶因者，則建議懷孕時做絨毛膜取樣或羊膜穿刺檢測嬰兒基因（目前在台灣仍屬自費項目）\n(D) femoral length 是評估懷孕週數的參數之一，並沒有 SMA 方面的應用。SMA type 0 於孕期超音波可發現胎兒減少或沒有活動，目前尚無特異度高的徵象\n\n其他考點：\n• 運動發展里程／SMA 評估量表：CHOP-INTEND, HINE-II\n• SMA 治療藥物：Nusinersen [Spinraza，脊髓腔內注射]、onasemnogene abeparvovec [Zolgensma，一次性基因療法]",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-34_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-34_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-35",
@@ -21423,9 +21431,11 @@
       "D": "1.0 gm ceftriaxone每12小時給與注射"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "剖腹產的術後傷口感染大多來自陰道菌叢（包含 Gram(+)、Gram(-) 的好氧菌 + 厭氧菌），因此預防感染使用的抗生素也要以能對抗上述種類細菌為原則。若不知道選何種抗生素也沒關係，可以由題目的盤尼西林過敏先刪去身為 beta-lactam 類的 (A) (D)；再看到 (B) 單用 gentamycin 無法對抗 Gram(+) 和厭氧菌也可以刪除，最後就只剩 (C) 了！\n\n補充剖腹產的預防性抗生素指引：\n1. 一線藥物：cefazolin + azithromycin 單次注射\n2. 對 beta-lactam 過敏者：clindamycin + gentamycin / tobramycin 單次注射\n3. 肥胖孕婦：術前單次 cefazolin，術後再用 cephalexin + metronidazole 治療 48 小時\n\n參考資料：T Kawakita, CC Huang & HJ Landy. (2018). Choice of prophylactic antibiotics and surgical site infections after cesarean delivery. Obstetrics and gynecology, 132(4), 948.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-35_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-35_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-36",
@@ -21440,9 +21450,11 @@
       "D": "未治療之開放性肺結核菌（pulmonary tuberculosis）感染"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "哺乳禁忌症真的超愛考，務必把禁忌症記熟，也要看一下容易誤會為禁忌症的情形！\n\n| | |\n| --- | --- |\n| 禁忌症 | • 母親有未治療的開放性肺結核（治療 ≥ 兩週且無傳染風險時才可以餵）<br>• 母親有未控制的 HIV（有控制且驗不到病毒才可以餵）<br>• 母親 HTLV 感染<br>• 母親乳房若感染 HSV，則該側乳房不可以哺乳<br>• 母親使用化療藥物、含放射線物質的藥物（看半衰期）<br>• 母親藥物濫用<br>• 嬰兒患半乳糖血症、高胱胺酸尿症 |\n| 常搞錯的非禁忌症 | • CMV 感染（但若是早產兒則不建議哺乳）<br>• VZV 感染<br>• 所有的肝炎病毒感染<br>• 抽菸、喝酒<br>• 嬰兒苯酮尿症在母親的 phenylalanine 數值較低時可以哺乳 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-36_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-36_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-37",
@@ -21457,9 +21469,11 @@
       "D": "C"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題在唸妊娠糖尿病時大概都沒唸過，大家就當作補充知識看看即可\n\n妊娠糖尿病基本概念：懷孕 24-28 週時篩檢，目前常用 75g 葡萄糖水測試，診斷要抽空腹、一小時後、兩小時後三個時間點，任一者超過標準 (92, 180, 153 mg/dL) 即可診斷\n\n本題的空腹血糖已超過標準，可確定為妊娠糖尿病。White Classification 是過去用來評估糖尿病發生時間與生產預後間的指標，依照題目是在「孕期診斷」、「飲食控制中」，屬於 (A)Class A1\n\n| 妊娠糖尿病 (White classification) | |\n| --- | --- |\n| A1 | 飲食控制的妊娠糖尿病 |\n| A2 | 藥物控制的妊娠糖尿病 |\n| 原有糖尿病 (pre-gestational diabetes) 及其他風險因子 | |\n| B | DM 在 20 歲後診斷，持續小於 10 年 |\n| C | DM 在 10-19 歲後診斷，持續 10-19 年 |\n| D | DM 在 10 歲前診斷，持續超過 20 年 |\n| Others | R：有增殖性糖尿病視網膜病變或玻璃體出血<br>F：蛋白尿 >500 mg/day 的糖尿病腎病變<br>H：粥狀動脈硬化相關心血管疾病<br>T：換腎 |",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-37_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-37_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-38",
@@ -21474,9 +21488,11 @@
       "D": "骨骼系統"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "久遠的時事題，茲卡病毒在 2015-16 年於巴西及拉丁美洲造成疫情，當時最有名是造成新生兒小頭畸形 (microcephaly)，並伴有腦神經系統和眼部發育不良，而造成癲癇發作、視力與聽力受損，發展問題如餵食困難、手腳活動受限也是 congenital Zika syndrome 的症狀表現",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-38_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-38_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-39",
@@ -21491,9 +21507,11 @@
       "D": "抗生素（antimicrobials）治療"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "早產性羊膜早破 (preterm premature rupture of membranes, PPROM) 的治療中，只有妊娠 24~31 週且無胎兒窘迫／羊水過少的孕婦才會考慮安胎，妊娠 32~33+6 週則是建議觀察至 34 週後再行催生，因此最不建議在這個時期使用 (B) 宮縮抑制劑。此外，無論何時期的破水皆建議做乙型鏈球菌篩檢和子宮頸細菌培養，且針對乙型鏈球菌給予預防性抗生素治療；妊娠 34 週以前的破水也可給予類固醇 (betamethasone) 以促進胎兒肺部成熟",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-39_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-39_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-40",
@@ -21508,9 +21526,11 @@
       "D": "excisional surgery增加病人後續懷孕機會"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 子宮內膜異位常見的位置包含卵巢、骨盆壁、cul-de-sac、子宮韌帶、輸卵管等；而相對較少發生的位置包含腹壁、腸胃系統、子宮頸、泌尿道等\n(B) 錯誤。如果會增加復發機率大概也就不會有這個治療選項了。然而子宮內膜異位病人經手術切除後仍有 30-40% 機會復發，因此建議術後加上荷爾蒙輔助治療\n(C) 其實只要是骨盆腔內的相關手術都有可能傷到 ureter，文獻有提到腹腔鏡子宮切除手術比經陰道子宮切除術或是開腹式切除更容易發生 ureter injury\n(D) 大約一半女性的不孕症是子宮內膜異位導致，手術則可增加約 2 倍的後續懷孕機會\n\n參考資料：B Rizk, et al. (2015). Surgery for endometriosis-associated infertility: do we exaggerate the magnitude of effect?. Facts, views & vision in ObGyn, 7(2): 109.",
+    "explanation_image": "/explanations/cropped/112-2-醫學(六)-40_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/112-2-醫學(六)-40_merged.png"
+    ]
   },
   {
     "id": "112-2-醫學(六)-41",
