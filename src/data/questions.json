@@ -574,7 +574,7 @@
       "D": "針對痛風合併腎臟功能不全的病人，不應使用glucocorticoid的藥物來治療急性痛風關節炎"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "【答案】(B)\n【解析】\n(A) 錯誤：雌激素（estrogen）具促進尿酸排泄（uricosuric effect）的作用，因此女性在停經前痛風極為少見；女性在停經（menopause）之後因體內雌激素分泌大幅下降，痛風的發生率反而會顯著上升\n(B) 正確：急性痛風發作（acute gouty flare）時，發炎反應引發腎上腺皮質醇及腎臟尿酸排泄代償性增加，臨床上約有 10%～40%（甚至高達 50%）的病人在急性發作當下測得之血中尿酸濃度落在正常範圍內，因此單次正常的血中尿酸值不能用來排除急性痛風關節炎之診斷\n(C) 錯誤：關節超音波（ultrasound）對痛風關節炎高度敏感且具專一性，可見軟骨表面的典型「雙軌徵象（double contour sign）」以及痛風石（tophus）的雪暴狀高回音變化；而早期痛風的 X 光常僅見非特異性軟組織腫脹，骨侵蝕破壞（punched-out erosion with overhanging edge）多見於慢性痛風石關節炎\n(D) 錯誤：針對合併中重度腎功能不全（CKD）、心臟衰竭或活動性消化性潰瘍等不宜使用 NSAIDs 或秋水仙素（colchicine）的急性痛風病人，全身性類固醇（systemic glucocorticoids 如 oral prednisolone）或關節內類固醇注射（intra-articular steroid injection）為首選且安全的第一線治療藥物",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -591,7 +591,7 @@
       "D": "低劑量類固醇在懷孕前可以使用，一旦驗到受孕就不能再使用類固醇"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "【答案】(C)\n【解析】\n(A) 錯誤：Methotrexate (MTX) 與 Leflunomide 均具高度致畸胎性（teratogenic），懷孕期間絕對禁用；MTX 需在受孕前至少 1～3 個月（通常建議 3 個月）停藥；Leflunomide 半衰期極長，若計畫懷孕需於 2 年前停藥或使用 Cholestyramine 進行快速廓清（washout protocol），並確認血中濃度 < 0.02 mg/L 後方可受孕\n(B) 錯誤：並非所有生物製劑都可在懷孕中全程使用；大多數單株抗體（如 anti-TNF 單株抗體 Infliximab、Adalimumab 等含有 IgG1 Fc 段）在妊娠第 20 週後會經由胎盤主動轉運給胎兒，建議於懷孕第 30～32 週停藥；僅無 Fc 結構的 Certolizumab pegol（PEG 化 Fab'）不會穿過胎盤，可於懷孕全程安全使用\n(C) 正確：Hydroxychloroquine (HCQ) 與 Sulfasalazine (SSZ，需常規併用高劑量葉酸補充) 在風濕疾病（如 SLE、RA）患者懷孕期間被證實高度安全，可於懷孕全程持續使用以穩定疾病活性並預防復發\n(D) 錯誤：低劑量類固醇（如 Prednisolone ≤ 20 mg/day，尤其是維持劑量 < 7.5～10 mg/day）會被胎盤的 11β-HSD2 酵素代謝分解，對胎兒暴露量極低，在整個懷孕期間皆可安全使用於控制疾病活性；非代謝型類固醇（如 Dexamethasone、Betamethasone）可通過胎盤，通常僅用於促胎兒肺部成熟，不宜用於常規風濕病控制",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -608,7 +608,7 @@
       "D": "大概有10 %病人會進展到風濕性心臟病（rheumatic heart disease）"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "【答案】(C)\n【解析】\n(A) 錯誤：急性風濕熱（Acute rheumatic fever, ARF）是由 A 群鏈球菌（Group A Streptococcus, GAS，即 Streptococcus pyogenes）咽喉炎感染後的自體免疫延遲性併發症，並非 Group B\n(B) 錯誤：GAS 咽喉炎痊癒後至急性風濕熱關節炎發作的潛伏期（latent period）平均約為 2～3 週（關節炎與心臟炎約 1～5 週，平均 3 週；舞蹈症 Sydenham chorea 潛伏期較長，約 1～6 個月）\n(C) 正確：邊緣性紅斑（erythema marginatum）與皮下結節（subcutaneous nodules）屬於 Jones criteria 主要準則（Major criteria）中發生率較低的罕見臨床表徵（發生率小於 5%）\n(D) 錯誤：初次急性風濕熱發作時約有 50%～70% 病人會出現心臟炎（carditis），若未妥善接受抗生素二級預防（secondary prophylaxis），進展為慢性風濕性心臟病（Rheumatic heart disease, RHD）的比例高達 30%～50%（並非僅 10%）",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -625,7 +625,7 @@
       "D": "停掉adalimumab，改用infliximab"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "【答案】(C)\n【解析】\n(A)(D) 錯誤：病人使用 anti-TNF 單株抗體（Adalimumab）後產生抗藥性抗體（anti-drug antibodies, ADA）且疾病活性顯著惡化（DAS28 由 2.4 上升至 5.2），屬於續發性治療失效（secondary loss of response）；若僅換成同為 TNF 抑制劑的 Infliximab 或 Etanercept，容易因為免疫原性或同機轉交叉抗性而療效受限\n(B) 錯誤：體內已產生中和性 anti-adalimumab 抗體，單純加大類固醇維持原藥無法解決抗體中和藥物的問題，且長期使用高劑量類固醇（1 mg/kg/day）副作用過大\n(C) 正確：當病人對 TNF inhibitor 產生 anti-drug antibodies 且疾病活性上升時，最理想的治療策略是更換不同作用機轉的生物製劑（Switching to another class），如 B 細胞清除劑 Rituximab (anti-CD20)、IL-6 抑制劑 Tocilizumab、T 細胞共刺激調節劑 Abatacept 或標靶小分子 JAK inhibitor，可有效克服抗藥性並改善疾病活性",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -642,7 +642,7 @@
       "D": "滑膜（synovium）"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "【答案】(B)\n【解析】\n(A)(C)(D) 錯誤：類風濕性關節炎（Rheumatoid arthritis, RA）主要的病理特徵是滑膜炎（synovitis）伴隨血管翳（pannus）形成進而破壞關節軟骨與硬骨；退化性關節炎（Osteoarthritis, OA）主要以關節軟骨磨損退化為主\n(B) 正確：脊椎關節炎（Spondyloarthritis, SpA，包括僵直性脊椎炎 AS、乾癬性關節炎 PsA 等）的原發核心病理變化為「肌腱附著點炎（enthesitis）」，即肌腱、韌帶或關節囊附著於骨骼處（enthesis）的原發性發炎反應，隨後引發骨侵蝕與新骨形成（骨贅/韌帶骨贅 syndesmophyte 形成與關節黏連 ankylosis）",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -659,8 +659,8 @@
       "D": "腫瘤細胞產生CTLA-4可讓毒殺T細胞（cytotoxic T cells）不活化"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "【答案】(A) 或 (D)\n【解析】\n原始答案為 (A)，經申覆後開放 (D) 也給分\n\n(A) 錯誤，interferon-γ 是促進發炎、促進免疫的激素，具有 anti-tumor 的功能；另外較常提到 anti-inflammatory 的是 TGF-β 等細胞激素\n(B) 正確，腫瘤細胞會降低 MHC class I 的表現，避開 cytotoxic CD8+ T cell 的辨認 → 躲掉胞殺\n(C) 正確，Treg 屬於 CD4+ T cell 的其中一種，負責避免人體產生自體免疫疾病\n(D) CTLA-4 (CD152) 全名是 cytotoxic T-lymphocyte antigen 4，表現 CTLA-4 的主要是 CD8+ T cell當抗原呈現細胞上的 CD80/86 與 CTLA-4 結合後，CD8+ T cell 就不會活化雖然近年的研究指出腫瘤細胞一樣可以表現 CTLA-4，但其功能是不是跟 T cell 上的 CTLA-4 一樣，目前研究還不是很完整；另外，Harrison 上面直接寫 “CTLA-4, which is expressed on T cell (not tumor cells)”，故本選項經申覆後開放",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-36_merged.png",
     "explanation_images": null
   },
   {
@@ -676,8 +676,8 @@
       "D": "Helicobacter pylori"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "【答案】(D)\n【解析】\n| 食道癌 | 危險／致病因子 |\n| --- | --- |\n| squamous cell carcinoma | 致癌物：醃漬物、亞硝酸鹽、吸食鴉片<br>破壞黏膜：熱茶、照過 RT、弛緩不能 (achalasia)<br>其他：Plummer-Vinson、tylosis、抽菸、酗酒 |\n| adenocarcinoma | Barrett、肥胖、慢性 GERD、男性、抽菸 |\n\n*(參考 Harrison 21/e Ch. 80)*\n\n(A)(B)(C) 均為 esophageal adenocarcinoma 的危險因子，故本題選 (D)",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-37_merged.png",
     "explanation_images": null
   },
   {
@@ -693,8 +693,8 @@
       "D": "針對gemcitabine治療失敗的晚期或轉移胰臟癌病患，liposomal irinotecan + 5-fluorouracil + leucovorin因可改善病患的整體存活期，已被美國衛生主管機關（FDA）核准通過"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "【答案】(C)\n【解析】\n胰臟癌 (pancreatic ductal adenocarcinoma) 的發生率有逐年增加的趨勢，雖然整體預後仍不佳，但因為藥物的進步，五年存活率還是有延長（從 1975 年的 3% 進步到 2015 年時有 9%）目前的治療大原則整理如下癌症治療日新月異，建議準備考試的時候要確認一下有沒有什麼變動或是更新的地方喔！\n\n| 類型 | 情況 | 治療 |\n| --- | --- | --- |\n| Localized (10~20%) | 沒有包住動脈、靜脈通暢 | (neoadjuvant) → 手術 → 24 週 adjuvant (modified FOLFIRINOX) |\n| Locally advanced (30%) | 包住動脈、靜脈閉塞、無胰臟外疾病 | 化療或 CCRT，以可進行手術為目標 |\n| Metastatic (60%) | 有轉移到胰臟外 | 化療：多藥物組合優於單一藥物 |\n\n(B)(C)(D) 目前已經證實以下組合均優於單用 gemcitabine：\ngemcitabine + capecitabine、gemcitabine + erlotinib、FOLFIRINOX (folinic acid + 5-FU + irinotecan + oxaliplatin)、gemcitabine + nab-paclitaxel；liposomal irinotecan + 5-FU + folinic acid (= leucovorin) 比單用 liposomal irinotecan 或 5-FU + folinic acid 更能延長整體存活率，故已被美國 FDA 核准用於第二線治療 (gemcitabine 失敗後)",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-38_merged.png",
     "explanation_images": null
   },
   {
@@ -710,8 +710,8 @@
       "D": "肺功能檢查FEV 大於1公升1"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "【答案】(A)\n【解析】\n(A) 正確，若非小細胞癌的患者出現 superior vena cava syndrome，其 5-year survival 很低，因此普遍認為是 resection 的禁忌症\n(B) 錯誤，同側肺門淋巴結轉移算 N1，如果沒有遠端轉移的頂多 T3 → 最多就 stage IIIA (N1)Stage IIIA (N1) 的肺癌可以接受手術，並搭配術後化療\n(C) 錯誤，穩定性心絞痛還是可以接受 curative resection\n(D) 錯誤，FEV₁ < 1L 才是絕對禁忌症",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-39_merged.png",
     "explanation_images": null
   },
   {
@@ -727,8 +727,8 @@
       "D": "對於高風險（例如：T1腫瘤、high-grade、CIS）的非平滑肌肉層侵犯（non-muscle-invasive）膀胱癌，使用經尿道膀胱腫瘤切除術切除所有肉眼可見的腫瘤後，膀胱灌注BCG可以減少復發的機會"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "【答案】(C)\n【解析】\n泌尿道癌症最常見 (90%) 的組織型態為泌尿上皮癌 (urothelial carcinoma)，舊稱移行上皮癌 (transitional cell carcinoma)大部分 (75%) 在診斷時是非平滑肌肉層侵犯型 (non-muscle-invasive bladder cancer, NMIBC)【110-2】；18% 的已經侵犯到肌肉壁；只有 3% 在診斷時已經出現遠端轉移依照分化程度分為兩種 phenotype：\n\n| 組織型態 | 基因突變 | 表現 |\n| --- | --- | --- |\n| low grade | 乳突狀 (papillary) | RAS/RAF 路徑：60～80% FGFR3 活化、基因融合 | 侵襲性較低、較不易轉移 |\n| high grade | 扁平狀 (flat) | TP53 del.、RB1 del.、CDH1 mut.、VEGFR2 增加 | 侵襲性較高、早期轉移 |\n\n*(參考 Harrison 21/e Ch.86)*\n\n治療選項跟大原則參考 Harrison 21/e Ch.86 整理如下，如果這題考在泌尿要依據新的 NCCN 或是 Sabiston 所寫的作答喔！\n\n| 適合的病人類型 | 建議治療 |\n| --- | --- |\n| **NMIBC (非肌肉侵犯型)** | |\n| 低復發風險* | TURBT → 24hr 內膀胱灌注化療藥物 (mitomycin C、epirubicin、或 gemcitabine) |\n| 中復發風險 | TURBT → QW 膀胱灌注 BCG × 6 週 (引導) |\n| 高復發風險 | * 之後視情況決定是否繼續給予 BCG (維持) |\n| **MIBC (肌肉侵犯型)** | |\n| 大部分、任何 MIBC | 膀胱全切除 |\n| 單顆、T2、在 dome | 切除部分膀胱 |\n| 無 CIS 或水腎 | 可考慮保留膀胱做 TURBT + CCRT |\n| 適合 cisplatin 者 | 加做 neoadjuvant (存活率 + 5～10%) |\n| pT3-T4, N+ | 再加做 adjuvant |\n| **metastatic** | |\n| 適合 cisplatin 者 | MVAC 或 G+C |\n| 無法接受 cisplatin | carboplatin-based 化療 |\n| 有 FGFR2/3 突變 | 可使用 erdafitinib |\n| 其他額外的選擇 | + 免疫療法 (PD-1/PD-L1) |\n| 化療跟免疫都失敗 | enfortumab vedotin (anti nectin-4) |\n\n\\* 低復發風險的 NMIBC：單一腫瘤、low grade、大小 < 3 cm、沒有 CIS\n*(參考 Harrison 21/e Ch.86)*",
+    "explanation_image": "/explanations/cropped/111-1-醫學(三)-40_merged.png",
     "explanation_images": null
   },
   {
