@@ -744,7 +744,7 @@
       "D": "granulocyte colony-stimulating factor（G-CSF）通常無效"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "後天嚴重型再生不良貧血屬於 bone marrow failure 的一種，會 pancytopenia，常見原因是 T 細胞攻擊造血幹細胞導致。骨髓切片特徵為造血幹細胞減少 (hypocellular)，被「脂肪」所取代。通常最先出現的症狀是出血，也會有貧血症狀 (疲倦、虛弱、喘)，很少人會以感染為最初的表現 (這點跟 agranulocytosis 不同)。治療方法整理於下：\n\n| 再生不良性貧血 (aplastic anemia) 治療 | |\n| --- | --- |\n| 免疫抑制 | 藥物：antithymocyte globulin (ATG) + cyclosporine<br>療效：可使 60 ~ 70% 病人恢復造血 |\n| Eltrombopag (TPO-R agonist) | 併用：搭配 ATG + cyclosporine 作為初始治療<br>單用：refractory (免疫抑制失敗) 時【108 內專】 |\n| 造血幹細胞移植 | 可真正治癒疾病。兒童若接受 HLA 完全配對正確的手足捐贈，長期存活率約 90%；非手足但配對相符的成功率相似，但比較會有 GVHD，可以靠移植後給 cyclophosphamide 來預防 |\n| 無效的治療：EPO、G-CSF<br>研究中的治療：androgen (有些病人反應不錯，但目前尚無 controlled trials 證實) | |\n\n(參考 Harrison 21/e Ch.102)\n\n(A) 類固醇雖然可以抑制免疫反應，但治療通常無效，而且副作用很多",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -761,7 +761,7 @@
       "D": "HbF（α γ ）2 2"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "胚胎的造血從 yolk sac 開始 → 胎兒肝臟 (脾臟) → 骨髓。Hemoglobin 是一個 tetramer，由兩對 polypeptide chains（2×2 = 4 條）所組成，每一條 chain 都有一個 tetrapyrrole heme。α-globin gene cluster 在 16p、β-globin gene cluster 在 11p\n\n| Hb 名稱 | α-globin | β-globin | 說明 |\n| --- | --- | --- | --- |\n| Hb Gower I | ζ2 (HBZ) | ε2 (HBE) | 屬於 embryonic Hb，懷孕 3 週～3 個月時存在，3 個月後就沒有 ε2 chain 了 |\n| Hb Gower II | α2 (HBA) | ε2 | 屬於 embryonic Hb，懷孕 3 週～3 個月時存在，3 個月後就沒有 ε2 chain 了 |\n| Hb Portland I | ζ2 | γ2 (HBG) | 屬於 embryonic+fetal Hb，不論在哪個時期，所佔比例都很低 |\n| Hb Portland II | ζ2 | β2 (HBB) | 屬於 embryonic+fetal Hb，不論在哪個時期，所佔比例都很低 |\n| HbF (fetal Hb) | α2 | γ2 | GA 6~8 週時出現，fetal 時期主要 Hb。只佔成人 Hb 不到 1% |\n| HbA (adult Hb) | α2 | β2 | 佔成人 Hb > 95% |\n| HbA2 | α2 | δ2 (HBD) | 佔成人 Hb 2~3% |",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -778,7 +778,7 @@
       "D": "輻射傷害常常會導致這種轉位"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "慢性骨髓性白血病 (chronic myeloid leukemia, CML) 致病機轉主要為 t(9;22) 長臂的平衡轉位 (q34.1;q11.2) → 產生費城染色體 (Philadelphia chromosome) → 因為 BCR/ABL1 融合 → 導致 tyrosine kinase 活性增加 → 細胞過度生長。BCR region 原本在 chromosome 22、ABL1 locus 原本在 chromosome 9，在不同位置斷裂轉為會導致三種不同的 BCR-ABL1 癌蛋白，分別為：\n\n| 慢性骨髓性白血病 (CML) 類型 | | |\n| --- | --- | --- |\n| BCR-ABL1 蛋白 | 斷裂點 | 盛行率 |\n| p210 (major BCR) | e13a2、e14a2 | CML 中最常見 |\n| p190 (minor BCR) | e1a2 | 2/3 的 Ph(+) ALL 有，但在 CML 中少見 |\n| p230 (micro BCR) | e19a2 | CML 中罕見，病程比較緩慢 (indolent) |\n\n診斷方式除了透過 G-banding 發現費城染色體外，也可使用 FISH 或 PCR 協助並監測 CML burden、了解 TKI 的治療成效。CML 這個疾病並沒有遺傳傾向，benzene 暴露、病毒感染、肥料或殺蟲劑等目前為止都沒有發現與 CML 有相關性。CML 不是在使用 alkylating agents 或接受輻射後常見的 secondary leukemia，雖然游離輻射有可能會使 CML 發生率增加，但車諾比事件後並沒有觀察到 CML 的發生率增加，因此目前認為要導致 CML 的游離輻射劑量應該相當大，故選項中「常常導致這種轉位」的說法並不正確，本題選 (D)",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -795,7 +795,7 @@
       "D": "急性心肌梗塞是屬於動脈性的血栓造成的併發症"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "動脈血栓（arterial thrombi）與靜脈血栓（venous thrombi）在病理機轉、組成及治療上有明顯差異：\n\n| 比較項目 | 動脈血栓 (Arterial Thrombi) | 靜脈血栓 (Venous Thrombi) |\n| --- | --- | --- |\n| 主要成因 | 動脈粥狀硬化破裂 (atherosclerotic plaque rupture)、內皮細胞受損、高血流切應力 | 血流鬱積 (stasis)、高凝血狀態 (hypercoagulability) |\n| 組成成分 (白色血栓為主) | 主要由血小板 (platelets)、纖維蛋白 (fibrin) 及紅血球組成，其中富含血小板 (white thrombi) | 主要由紅血球和大量纖維蛋白組成，血小板較少 (red thrombi) |\n| 常見併發症 | 急性冠心症/急性心肌梗塞 (AMI)、缺血性腦中風 (Ischemic stroke)、急性周邊動脈阻塞 (Acute limb ischemia) | 深層靜脈血栓 (DVT)、肺栓塞 (PE) |\n| 治療原則 | 1. 抗血小板藥物 (如 Aspirin, P2Y12 inhibitor)<br>2. 急性周邊動脈血栓：緊急外科取栓 (thrombectomy/embolectomy) 或導管引導局部溶栓 (catheter-directed thrombolysis, CDT)，而非以全身性靜脈血栓溶解劑 (systemic fibrinolytic therapy) 為主，因全身性溶栓出血風險極高且療效不如局部處置 | 抗凝血劑 (DOACs, Heparin, Warfarin) 為主 |\n\n(C) 急性周邊動脈血栓（Acute arterial occlusion / Acute limb ischemia）的緊急處置首選為外科血管切開取栓術（surgical embolectomy/thrombectomy）或導管導引局部動脈內溶栓術（catheter-directed thrombolysis, CDT），並非以「全身性纖維蛋白溶解劑治療」為主",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -812,7 +812,7 @@
       "D": "IL-10和IL-12是proinflammatory mediators，由呼吸道發炎細胞產生與氣喘的嚴重度有正性相關"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "氣喘 (asthma) 主要分為第二型發炎 (type 2 inflammation) 與非第二型發炎兩大類\n\n| 氣喘 (asthma) 類型 | | |\n| --- | --- | --- |\n| | type 2 inflammation | non-type 2 inflammation |\n| 刺激物 | 過敏原 | 空污、病原菌 | 病原菌 (結核菌) |\n| 啟動者 | DC 釋放 CCL17、22 | 上皮釋放 alarmins | |\n| mediator | TH2 分泌 IL-5 | ILC2 分泌 IL-5、13 | TH17 分泌 IL-6、8、17 |\n| effector | 吸引 eosinophil | 吸引 eosinophil | neutrophil |\n\n(A) 錯誤，過敏原刺激 dendritic cells → 釋放 CCL17、CCL22 → 誘使 TH2 lymphocytes 分泌 IL-5 → eosinophil 進入呼吸道\n(B) 正確，病毒可刺激呼吸道上皮細胞，上皮細胞會分泌 alarmins (IL-25、IL-33、TSLP) → ILC2 lymphocytes 分泌 IL-5 → 吸引 eosinophils 進入呼吸道\n(C) 錯誤，NO 是上皮細胞釋放的強效血管舒張劑，可在呼出的氣體中偵測到。呼氣一氧化氮濃度 (FeNO) 可以大致反應呼吸道中的 eosinophilic 發炎，不是 dendritic cells 或 lymphocytes\n(D) 錯誤，IL-10 是抗發炎 (anti-inflammatory) 的細胞激素",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -829,7 +829,7 @@
       "D": "呼氣一氧化氮測試"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "看到哮鳴音、因各種刺激而症狀加劇 (hyper-responsive)、過敏性鼻炎 (異位體質) → 懷疑氣喘。評估的內容包含以下幾種，methacholine provocation test 跟 bronchodilator test 都是初步評估的項目，但是一般會優先進行 bronchodilator test，如果結果模稜兩可才會進行 methacholine provocation test，故本題選 (B)\n\n| 氣喘的評估 | | |\n| --- | --- | --- |\n| 類型 | 評估項目 | 說明 |\n| 基本評估 | 病史詢問 | 1. 症狀：氣促、胸悶、夜咳、冷天運動喘<br>2. 誘發因子：環境、動物、二手菸、灰塵<br>3. adult-onset：特別注意職業史、藥物史 |\n| 基本評估 | 理學檢查 | 1. 平時：同時有過敏性鼻炎而黏膜蒼白、鼻息肉、吐氣時 wheezing<br>2. 發作：呼吸喘、心跳快、wheezing |\n| 基本評估 | bronchodilator test (測 reversibility) | 給 β2-agonist：FEV1 增加 ≥ 12% 以及絕對值增加 ≥ 200 mL，並持續至少 15 min |\n| 基本評估 | methacholine test (測 reactivity) | 1. 時機：bronchodilator test 結果不明確時<br>2. 標準：達 PD20 時劑量 ≤ 400 μg |\n| 額外評估 | eosinophil count | 1. 治療：偏高可以針對 type 2 發炎治療<br>2. DDx：過高者要考慮是否為 EGPA |\n| 額外評估 | IgE | 1. 治療：評估是否適合用 anti-IgE<br>2. DDx：> 1000 IU/mL 要考慮是否為 ABPA |\n| 額外評估 | 呼氣 FeNO 測試 | 可作為 eosinophilic 發炎程度的指標 |\n| 治療反應不佳的評估 | 胸部 CT | 評估是否有解剖構造問題、bronchiectasis |\n| 治療反應不佳的評估 | 痰液檢查 | 檢查是否 eosinophil 或 neutrophil 過高 |\n\n(參考 Harrison 21/e Ch.287)",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -846,7 +846,7 @@
       "D": "肺炎"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "Wheezing 是下呼吸道阻塞時發出的高頻聲響 (頻率 > 400 Hz)，分成 monophonic 跟 polyphonic，比較如下表。Monophonic 最常見原因為 bronchogenic carcinoma (就是肺癌)，本題選 (B)\n\n| 喘鳴聲 (Wheezing) | | |\n| --- | --- | --- |\n| | 成因 | 舉例 |\n| Monophonic | 單一氣道阻塞 (多為大氣道) | 肺癌、氣管軟化、異物或黏液阻塞 |\n| Polyphonic | 不同大小的氣道瀰漫性阻塞 | 氣喘、COPD |\n\n(A) 心衰竭時可在肺底聽見 rales，也可因為肺水腫而出現類似 asthma wheezing 的 cardiac asthma (像氣喘的 wheezing 就比較不會是 monophonic)\n(C) 肺纖維化的呼吸音是 \"velcro-like\" 的 fine crackles (像撕開魔鬼氈的聲音)\n(D) 肺炎時會聽到 ronchi、bronchophony (請病人說 \"ninety-nine\" → 可聽見清晰聲音，代表肺部有實質化)。有的時候可能會看到寫 \"sonorous wheezes\"，其實就是 ronchi，跟 cardiac asthma 一樣都不是真的 wheezing",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -863,7 +863,7 @@
       "D": "肺氣腫"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "肺功能檢查兩大指標：\n• TLC < 預測值 80% → 限制性\n• FEV1/FVC < 70% → 阻塞性\n\n病人的 FEV1/FVC 78% 表示非阻塞性疾病、TLC 為 70% 預測值代表為限制性肺疾，可能原因包含：間質性疾病、神經肌肉無力、胸壁或肋膜問題。但 DLco 只有預測值的 55% → 比較有可能是間質性疾病影響氣體交換能力，本題選 (C)\n\n| 疾病類型 | FEV1/FVC | TLC | DLco | 代表疾病 |\n| --- | --- | --- | --- | --- |\n| 阻塞性肺疾 (Obstructive) | < 70% | 正常或 ↑ | 正常或 ↓ (肺氣腫顯著下降) | COPD、Asthma、Bronchiectasis |\n| 本質性限制性肺疾 (Intrinsic Restrictive) | ≥ 70% | < 80% | ↓ (< 80%) | 間質性肺病 (ILD/IPF)、肺纖維化、塵肺症 |\n| 外在限制性肺疾 (Extrinsic Restrictive) | ≥ 70% | < 80% | 正常 (≥ 80%) | 胸廓畸形 (脊椎側彎)、神經肌肉疾患 (ALS, MG)、肥胖 |",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -880,7 +880,7 @@
       "D": "pyrazinamide"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "常用的結核菌藥物比較整理於下表。跟藥名長得超不像的 KatG、gyrA/B、rrs 感覺蠻有機會之後考出來。其中 KatG 是 catalase-peroxidase 的基因，與 isoniazid 這個 prodrug 的活化有關；gyrA/B 是 gyrase A/B 的基因，fluoroquinolone (FQ) 本來的作用標的就是 DNA gyrase 跟 topoisomerase IV\n\n| 結核菌抗生素比較 | | | | |\n| --- | --- | --- | --- | --- |\n| 藥名 | 特殊副作用 | 作用標的 | 抗藥性突變 | 其他特色 |\n| Rifampin | 橘紅色尿、汗 | RNA-polymerase | rpoB | |\n| Isoniazid | 周邊神經炎 (要補 vit B6) | 抑制細胞壁 mycolic acid 合成 | KatG、inhA | 誘發類 lupus (DILE)、癲癇 |\n| Pyrazinamide | 高尿酸、N/V | 抑制脂肪酸合成 | pncA | 主殺胞內菌 |\n| Ethambutol | 視神經炎 → 紅綠色盲 | 抑制 arabinosyl transferase | embCAB | bacteriostatic |\n| Streptomycin | 聽力障礙 | 16S rRNA | rrs、rpsL | |\n| Fluoroquinolone | 影響肌肉軟骨、QTc prolong | DNA gyrase, topoisomerase IV | gyrA、gyrB | 若用於肺炎治療恐延誤診斷 |\n\n傷肝三兄弟：Rifampin、Isoniazid、Pyrazinamide (記法：讀國考讀到爆肝 R.I.P...)\n記法：用 Rifampin 會分泌 Red 液體、得了周邊神經炎會礙手 (Isoniazid) 礙腳、上完皮拉提斯 (Pyrazinamide) 關節痠痛、Ethambutol 影響 Eye 的神經\n\n(參考 Harrison 21/e Ch.181)",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -897,7 +897,7 @@
       "D": "偏頭痛"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "突發性、如雷擊般劇烈頭痛（thunderclap headache，常被描述為「人生中最嚴重的頭痛」worst headache of my life），合併腦膜刺激徵候（頸部僵硬 meningismus）、噁心嘔吐甚至意識改變，為典型蜘蛛膜下腔出血（Subarachnoid Hemorrhage, SAH）的臨床表現\n\n| 疾病 | 臨床特徵與鑑別要點 |\n| --- | --- |\n| 顱內動脈瘤破裂 (SAH) | 最常見自發性 SAH 原因（約 85% 由囊狀動脈瘤 saccular aneurysm 破裂引起）。典型為數秒內達到最劇烈程度的雷擊頭痛 (thunderclap headache)，常伴隨腦膜刺激、嘔吐、意識障礙 |\n| 腦膜炎 (Meningitis) | 典型症狀為發燒、頭痛、頸部僵硬三合一（triad），通常為亞急性或急性進展（數小時至數天），少見如雷擊般瞬間劇烈發作 |\n| 梗塞性中風 (Ischemic Stroke) | 主要表現為突發局部神經學缺損（如單側偏癱、失語症、臉歪），頭痛通常不明顯或僅為輕中度 |\n| 偏頭痛 (Migraine) | 多為單側、搏動性頭痛（throbbing headache），伴隨畏光、畏聲，發作常有預兆（aura）或反覆發作病史，極少伴隨頸部僵硬及突發意識喪失 |\n\n診斷與處置要點：\n1. 影像首選：急診首選「無顯影劑腦部電腦斷層（Non-contrast Brain CT）」，發作 6 小時內敏感度 > 95%\n2. 腰椎穿刺（LP）：若臨床高度懷疑 SAH 但 CT 正常，應進行腰椎穿刺檢查，觀察腦脊髓液（CSF）是否有均勻血性（xanthochromia 或離心後上清液變黃）\n3. 血管評估：CTA 或 DSA（數位減影血管造影）定位動脈瘤位置與大小\n4. 治療處置：\n   • 早期動脈瘤處理：開顱夾閉（clipping）或血管內栓塞（coiling）以防止再出血（rebleeding）\n   • 預防腦血管痙攣（vasospasm）：給予鈣離子阻斷劑 Nimodipine\n\n(參考 Harrison 21/e Ch.301 / Tintinalli Emergency Medicine)",
     "explanation_image": null,
     "explanation_images": null
   },

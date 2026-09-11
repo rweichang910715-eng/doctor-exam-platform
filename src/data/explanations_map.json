@@ -18,5 +18,45 @@
   "111-1-醫學(三)-37": 84,
   "111-1-醫學(三)-38": 86,
   "111-1-醫學(三)-39": 84,
-  "111-1-醫學(三)-40": 87
+  "111-1-醫學(三)-40": 87,
+  "111-1-醫學(三)-41": {
+    "page": 88,
+    "image": "/explanations/cropped/111-1-醫學(三)-41_merged.png"
+  },
+  "111-1-醫學(三)-42": {
+    "page": 85,
+    "image": "/explanations/cropped/111-1-醫學(三)-42_merged.png"
+  },
+  "111-1-醫學(三)-43": {
+    "page": 89,
+    "image": "/explanations/cropped/111-1-醫學(三)-43_merged.png"
+  },
+  "111-1-醫學(三)-44": {
+    "page": 90,
+    "image": null
+  },
+  "111-1-醫學(三)-45": {
+    "page": 31,
+    "image": "/explanations/cropped/111-1-醫學(三)-45_merged.png"
+  },
+  "111-1-醫學(三)-46": {
+    "page": 33,
+    "image": "/explanations/cropped/111-1-醫學(三)-46_merged.png"
+  },
+  "111-1-醫學(三)-47": {
+    "page": 32,
+    "image": "/explanations/cropped/111-1-醫學(三)-47_merged.png"
+  },
+  "111-1-醫學(三)-48": {
+    "page": 34,
+    "image": "/explanations/cropped/111-1-醫學(三)-48_merged.png"
+  },
+  "111-1-醫學(三)-49": {
+    "page": 35,
+    "image": "/explanations/cropped/111-1-醫學(三)-49_merged.png"
+  },
+  "111-1-醫學(三)-50": {
+    "page": 174,
+    "image": null
+  }
 }
