@@ -302,13 +302,10 @@ function BookExplanation({ q }) {
   const croppedImages = q.explanation_images || (q.explanation_image ? [q.explanation_image] : [])
   const hasCroppedImage = croppedImages.length > 0 && !imgError
 
-  // Hide image box for 113-2 Med 3-6, 113-1 Med 4-6, 112-2 Med 3-6, and 112-1 Med 3-6
+  // Show image container if cropped images exist, or fallback page scans for legacy exams
   const isExcludedSubject = 
-    (q.year === '113-2' && ['醫學(三)', '醫學(四)', '醫學(五)', '醫學(六)', '醫學三', '醫學四', '醫學五', '醫學六'].includes(q.subject)) ||
-    (q.year === '113-1' && ['醫學(四)', '醫學四', '醫學(五)', '醫學五', '醫學(六)', '醫學六'].includes(q.subject)) ||
-    (q.year === '112-2' && ['醫學(三)', '醫學(四)', '醫學(五)', '醫學(六)', '醫學三', '醫學四', '醫學五', '醫學六'].includes(q.subject)) ||
-    (q.year === '112-1' && ['醫學(三)', '醫學(四)', '醫學(五)', '醫學(六)', '醫學三', '醫學四', '醫學五', '醫學六'].includes(q.subject))
-  const showImageContainer = !isExcludedSubject && (pagesToRender.length > 0 || hasCroppedImage)
+    ['111-1', '111-2', '112-1', '112-2', '113-1', '113-2'].includes(q.year)
+  const showImageContainer = hasCroppedImage || (!isExcludedSubject && pagesToRender.length > 0)
   
   if (!hasTextExplanation && !showImageContainer) return null
   
