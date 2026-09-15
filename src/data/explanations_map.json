@@ -494,5 +494,75 @@
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-80_merged.png"
     ]
+  },
+  "111-1-醫學(四)-1": {
+    "explanation": "兒童疫苗的接種近年非常愛考，建議上疾管署網站把「現行兒童預防接種時程」看過一次，目前台灣施打的是非活性疫苗，若不知道是否對雞蛋過敏，仍可以施打流感疫苗，施打完後觀察 30 分即可\n\n(A) 錯誤，最小 6 個月即可施打，流感疫苗在過去未曾接種的 6 個月到 9 歲的兒童之中，初次接種 1 劑後，間隔 4 週後須再施打第 2 劑；曾接種過者，每年施打一劑即可\n(B) 正確，但若是 9 歲以上兒童，不論其過去接種史，皆是每年一劑即可\n(C) 正確，針對較嚴重的患者，可給予 neuraminidase inhibitor（如：口服 Oseltamivir、吸入型 Zanamivir、注射型 Peramivir 等），尤其對 A 型流感治療效果較好\n(D) 正確，流感病毒感染病人的白血球可能會偏低或正常",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-1_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-1_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-2": {
+    "explanation": "CMV 是最常見的先天性感染，可於懷孕任何時期造成垂直感染，但影響最嚴重的是第一孕期時，為造成聽力損失（hearing loss）、心智遲緩（mental retardation）、視網膜疾病（retinal disease）、腦性麻痺（cerebral palsy）的主要因子\n\n(A) 錯誤，約只有 12～18% 的病人在出生時有臨床症狀，遠遠不到 90%\n(B) 正確，一般來說足月健康的新生兒，因為有母體的抗體保護，所以就算感染也症狀輕微，因此哺餵是安全的\n(C) 正確，其他症狀還包括小頭症（microcephaly）、血小板低下（thrombocytopenia）、腦內鈣化（intracranial calcifications）以及 blueberry muffin appearance 等，其中腦內鈣化特別好發於腦室周圍以及 germinal matrix\n(D) 正確，其他要考慮的還有 Rubella infection、腦膜炎、使用有耳毒性的藥物等\n\n媽媽是否可以哺乳亦是國考常見的考題，整理在以下表格供參考：\n\n| 媽媽患有的疾病 | 是否可哺乳 | 說明 |\n| --- | :---: | --- |\n| HIV、HTLV | ✕ | 建議不要哺餵母乳 |\n| Chemotherapy | ✕ | 建議不要哺餵母乳 |\n| VZV/HSV | ▲ | 若未結痂病灶可能碰到寶寶，建議不要哺餵母乳 |\n| TB | ▲ | 開放性肺結核會傳染給寶寶，因此媽媽在有效治療 2 周後，才可以哺餵母奶 |\n| Hepatitis B | ▲ | 寶寶出生後施打免疫球蛋白並注射疫苗後，可哺餵母奶 |\n| Hepatitis C | ◯ | 可以哺餵，並非禁忌症 |\n| CMV | ◯ | 雖然乳汁裡面會有病毒，但是傳染給健康足月新生兒造成嚴重症狀的機率不高，因此可以哺餵 |\n| 抽菸 | ◯ | 不鼓勵媽媽抽菸，但抽菸還是可以哺餵母奶 |\n| 喝酒 | ◯ | 不鼓勵媽媽飲酒，但飲酒還是可以哺餵母奶 |\n\n備註：◯ 表示可以、✕ 表示建議不要、▲ 表示有條件可以",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-2_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-2_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-3": {
+    "explanation": "教科書直翻的記憶題，GAS（Streptococcus pyogenes）是最常造成兒童菌性咽喉炎的致病菌，病毒的話則是以 Rhinoviruses 為大宗，給予抗生素治療 GAS 造成的咽喉炎可縮短病程，並減少發展成風溼熱（rheumatic fever）的機會\n\n(A) 嗜血桿菌要想到的急性會厭炎（acute epiglottitis），影像上會出現 thumbprint sign\n(C) 肺炎黴漿菌（Mycoplasma pneumoniae）是非典型細菌，透過飛沫傳播，為社區性肺炎常見的致病菌之一，因其造成的肺炎通常症狀較輕微，所以又稱為「會走路的肺炎」（walking pneumonia）\n\n| 鏈球菌亞型 | 常見疾病 |\n| --- | --- |\n| Group A Strep | Pharyngitis, scarlet fever, erysipelas, rheumatic fever, GN |\n| Group B Strep | Neonatal meningitis, puerperal fever（產褥熱） |\n| Strep. viridans | Subacute endocarditis |\n| Strep. pneumoniae | Pneumonia, sinusitis, meningitis, otitis media, bacteremia |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-3_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-3_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-4": {
+    "explanation": "腸病毒是小兒科考到稀爛的考點，務必熟悉，腸病毒可以引發多種疾病，其中很多是沒有症狀的感染，或只出現類似一般感冒的輕微症狀，常引起手足口病（hand-foot-mouth disease）及疱疹性咽峽炎（herpangina），較嚴重的併發症則包括無菌性腦膜炎、病毒性腦炎、心肌炎、肢體麻痺症候群、急性出血性結膜炎（acute hemorrhagic conjunctivitis）等，若感染腸病毒 D68 型，可能引起嚴重呼吸道症狀、腦炎或急性無力脊髓炎，故此題應選 (C)（同樣是較容易引起重症的 71 型則較少呼吸道症狀）\n\n腸病毒感染較常見的疾病、臨床症狀及可能病毒型別如下：\n\n| 疾病 | 病原 | 說明 |\n| --- | --- | --- |\n| 疱疹性咽峽炎 | A 型克沙奇病毒 | 特徵為突發性發燒、嘔吐及咽峽部出現小水泡或潰瘍，病程為 4 至 6 天，病例多數輕微無併發症，少數併發無菌性腦膜炎 |\n| 手足口病 | A 型克沙奇病毒、腸病毒 71 型 | 特徵為發燒及身體出現小水泡，主要分布於口腔黏膜及舌頭，其次為軟顎、牙齦和嘴唇；四肢則包含手掌、腳掌、手指及腳趾，常因口腔潰瘍而無法進食，病程 7-10 天 |\n| 嬰兒急性心肌炎、成人人心包膜炎 | B 型克沙奇病毒 | 特徵為突發性呼吸困難、蒼白、發紺、嘔吐，開始可能誤以為肺炎，接著可能快速演變成心衰竭、休克、甚至死亡 |\n| 流行性肌肋痛 | B 型克沙奇病毒 | 特徵為陣發性胸痛，合併發燒、頭痛及短暫噁心、嘔吐和腹瀉，病程約 1 週 |\n| 急性淋巴結性咽炎 | A 型克沙奇病毒 | 特徵為發燒、頭痛、喉嚨痛、懸雍垂和後咽壁有明顯白色病灶，持續 4 至 14 天 |\n| 發燒合併皮疹 | 各類型克沙奇及伊科病毒 | 皮疹通常為斑丘疹，有些會出現小水泡 |\n| 新生兒腸病毒感染 | B 型克沙奇病毒或伊科病毒 | 初期症狀包括發燒、食慾不佳、活動力下降、躁動不安、皮膚出現紅疹、腹瀉或嘔吐等，病況進展嚴重時可引發凝血異常、心肌炎、肝炎、腦炎、新生兒敗血症 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-4_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-4_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-5": {
+    "explanation": "從 Nelson Ch. 407 出題，兒童的耳咽管較為水平、寬短，黏膜纖毛的免疫與清除功能也尚未成熟，因此容易發生中耳炎，在上呼吸道感染的兒童之中，急性中耳炎（acute otitis media, AOM）是最常見的併發症，發生率約 5～30%，故選 (A)，(C) 選項的急性鼻竇炎是另一個常見的併發症，發生率約 5～13%\n\n＜補充＞\n1. 兒童 common cold 最常見的病原體為 rhinovirus\n2. 兒童急性中耳炎常見的致病菌，包括肺炎鏈球菌（Streptococcus pneumoniae）、嗜血桿菌（Haemophilus influenzae）、卡他莫拉菌（Moraxella catarrhalis）\n3. 兒童急性中耳炎抗生素治療首選為 Amoxicillin 80-90 mg/kg/day，治療 10 天，抗生素治療時機整理如下表：\n\n| 年紀 | 建議治療 |\n| --- | --- |\n| ＜ 6 個月 | 有懷疑就要接受抗生素治療 |\n| 6～24 個月 | 確診即接受抗生素治療；未確認診斷但出現高燒、嚴重耳朵痛者也建議治療 |\n| ＞ 2 歲 | 先觀察，除非很嚴重，否則不見得要給抗生素 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-5_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-5_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-6": {
+    "explanation": "試想如果 23 價和其他的製程機轉也相似的話，其他家應該早就被打趴了吧？雖然都是不活化的次單元疫苗，但 23 價是 1980 年代研發出的多醣體（polysaccharide）型疫苗，7、10、13 則是 2000 年後陸續研發出的蛋白載體結合型（conjugated）疫苗，莢膜多醣體只能引起 B cell 免疫反應，加上了蛋白載體（如：白喉 CRM197）後，則可引發 T cell 免疫反應，2021 年美國 FDA 剛核可 PCV20 也是結合型疫苗，目前還沒在台灣使用，以下表格整理兩種製程機轉疫苗的特色：\n\n| 商品名 | 肺炎鏈球菌結合型疫苗（PCV13） | 肺炎鏈球菌多醣體型疫苗（PPV23） |\n| --- | --- | --- |\n| 菌種數 | 涵蓋 13 種血清型別 | 涵蓋 23 種血清型別 |\n| 持久力 | (◯) 較持久，至少 10 年 | (✕) 較短暫，最多 5 年 |\n| 免疫記憶力 | (◯) T cell dependent，具有較長久的免疫記憶力 | (✕) T cell independent，免疫力容易隨時間消退 |\n| 群體保護力 | (◯) 可降低鼻咽腔帶菌 | (✕) 無法降低鼻咽腔帶菌 |\n| 適用對象 | 出生滿六週以上 | 出生滿兩歲以上 |\n| 可能副作用 | 發燒、疲憊、注射部位紅腫等等 | |\n| 備註 | * PCV13 有群體保護力，小朋友打疫苗可以減低老人得病機會<br>* PCV13 亦可減少小朋友中耳炎以及相關的併發症 | |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-6_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-6_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-7": {
+    "explanation": "直接照搬 Nelson 表格的難題，表格內包含前三種方法，以下簡單說明各選項，建議看看就好\n\n(A) 連鎖分析（Linkage analysis）：主要概念是透過觀察細胞減數分裂（meiosis）過程中，染色體的某些染色分體發生交換（crossover）後重新組合的現象，通常透過收集罹病家族成員的罹病狀態資料與標誌基因資料，觀察標誌基因的基因型（genotype）由前代傳遞到下一代的模式，然後用統計方法推估出致病基因與每個標誌基因間的重組率，低重組率表示致病基因與標誌基因有連鎖，亦即致病基因就在該標誌基因附近，概念上可以想成是染色體海中的指南針\n(B) 染色體基因晶片分析（aCGH）：是用兩組基因體（控制組與測試組）以不同的螢光進行標示後，一起放在染色體的載玻片上進行競爭式雜交，如有一段區域呈現某一螢光顏色較強，即代表有其中一組基因體的基因拷貝數有增加或減少的現象，但偵測不出平衡移位、點突變或是太小的片段異常，此法藉由晶片上數以萬計的寡核苷酸（DNA）探針，進行全基因組的遺傳分析，概念上可以想成用人海戰術逐個檢查\n(C) DNA sequence-based analysis：顧名思義就是用 DNA 序列的異同直接做比較，解析度非常好，例如造成 cystic fibrosis 的 CFTR gene 中曾經被報導有超過 1000 種突變的型態，要探查是哪裡出了問題就得使用 PCR 技術來看特定序列是否突變，概念上像是依循前人的航海圖到特定點檢查\n(D) 螢光原位雜合技術（FISH）：FISH 是以螢光染劑來取代放射線的原位雜交技術，此技術主要使用螢光標記的單鏈核酸片段作為探針（probe），與檢體組織或是細胞的染色體進行雜交反應，再用螢光檢測系統去偵測訊號，來確定雜交位點在哪裡，FISH 常用於檢測組織或細胞中染色體上的 DNA 或 RNA 序列的存在、缺失、定位、完整性和數量，在單基因疾病的分子診斷上較無角色",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-7_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-7_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-8": {
+    "explanation": "典型的 clenched fists with overlapping fingers 和 rocker bottom feet（搖椅底狀腳）→ 選 (B)，國考近年喜歡用圖片出題，下方表格整理一些疾病出現的徵象：\n\n| 基因異常 | 疾病名稱 | 特色 |\n| --- | --- | --- |\n| Trisomy 21 | Down syndrome | 智能障礙、臉平、斷掌（single palmar crease）、低位耳、內眥贅皮、先天心臟病（50%，VSD/ASD）、十二指腸閉鎖、先天性巨結腸症、ALL/AML 機率上升 |\n| Trisomy 18 | Edwards syndrome | 嚴重智能障礙、小頭畸形、rocker bottom feet、兔唇顎裂、低位耳、內眥贅皮、先天心臟病（90%，VSD）、clenched fists with overlapping fingers、多在一歲內死去 |\n| Trisomy 13 | Patau syndrome | 嚴重智能障礙、小頭畸形、Rocker bottom feet、兔唇顎裂、全前腦畸形、多指、隱睪、多在一歲內死去 |\n| Chr 15q21.1 FBN1 (AD) | Neonatal Marfan syndrome (nMFS) | 關節攣縮、外耳皺摺、皮膚鬆弛、先天性心臟病（二尖瓣與三尖瓣逆流導致鬱血性心衰竭；主動脈剝離並不常見），多在三歲內死去 |\n| Chr 5q11.2-q13.3, SMN gene (AR) | Spinal muscular atrophy (SMA) | (1) SMA type 0 (pre-natal)：出生時就有嚴重 hypotonia，通常出生後第一個月就會因為呼吸衰竭死亡<br>(2) SMA type 1 (infantile, Werdnig-Hoffmann)：最常見的型，6 個月大前發病，LMN 受損，無法自己坐直、呼吸肌無力、吸吮跟吞嚥能力都受損，如果沒治療大多於 2 歲前死亡<br>(3) SMA type 2 (intermediate, Dubowitz)：6 個月～18 個月大發病，可以自己坐直（長大後又會失去此能力），但無法自己站立，預期壽命比正常人短，但可能可以活到成年期<br>(4) SMA type 3 (juvenile, Kugelberg-Welander)：臀部、腿部肌肉較無力，依照嚴重度不同，有的人最終可以自己行走、有的則需依賴輪椅，預期壽命大多正常<br>(5) SMA type 4 (late onset)：症狀較輕，通常 35 歲以後才發病，預期壽命正常 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-8_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-8_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-9": {
+    "explanation": "蠶豆症患者需要避免的藥物和化學藥品非常複雜，解熱止痛類藥品中，NSAID 和 acetaminophen 被歸類為相對安全的；aspirin 在過去被認為應盡量避免，目前則認為低劑量使用可能安全，故選 (A)，另外，台灣大部分 G6PD 患者在 WHO 的嚴重度分類中屬於嚴重的 class II（酵素活性 ＜ 10% 正常值），因此藥物的避免非常重要，以下整理出蠶豆症患者需要避免的藥物或是物質：\n\n| 種類 | 藥品名稱 |\n| --- | --- |\n| 磺胺類藥物 | Sulfamethoxazole, Sulfasalazine, Sulfadiazine silver |\n| 抗瘧藥品 | Hydroxychloroquine |\n| 降血糖藥 | Glibenclamide, Glyburide, Glimepiride, Glipizide |\n| 抗生素 | Nitrofurantoin, Nalidixic Acid, Chloramphenicol, Ciprofloxacin |\n| 降尿酸藥 | Probenecid, Rasburicase |\n| 青光眼用藥 | Acetazolamide |\n| 化療和其他用藥 | Dabrafenib, Doxorubicin, Dapsone, Methylene blue |\n| 食物類 | 蠶豆製品 |\n| 薄荷成分用品 | 薄荷口香糖、曼秀雷敦、綠油精、白花油 |\n| 樟腦成分用品 | 樟腦丸、冬青油 |\n| 其他化學物質 | 龍膽紫（紫藥水）、指甲花染料、萘丸、含苯染料 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-9_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-9_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-10": {
+    "explanation": "著名的代謝疾病氣味題，詳見下方表格整理：\n\n| 疾病 | 異常的味道 |\n| --- | --- |\n| Maple syrup urine disease | 楓糖漿味 |\n| Isovaleric acidemia（異戊酸血症）<br>Glutaric acidemia type II（戊二酸血症 II） | 腳臭味（Sweaty feet） |\n| Hypermethioninemia（高甲硫胺酸血症）<br>Tyrosinemia（酪胺酸血症） | 煮熟的高麗菜味（Boiled cabbage） |\n| Phenylketonuria（苯丙酮尿症） | 霉臭味 |\n| Trimethylaminuria（三甲基胺尿症） | 腐魚味 |\n| Hawkinsinuria（霍金斯尿症） | 游泳池消毒水味 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-10_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-10_merged.png"
+    ]
   }
 }
