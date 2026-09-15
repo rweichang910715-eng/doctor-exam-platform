@@ -1695,9 +1695,11 @@
       "D": "迴腸閉鎖（Ileum atresia）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "三個泡泡分別由 dilated stomach、duodenum 以及 proximal jejunum 產生，下表整理 X ray 偵測到各種氣泡的疾病\n\n| 影像表徵 | 相關疾病 |\n| :--- | :--- |\n| Single bubble sign | Congenital hypertrophic pyloric stenosis |\n| Double bubble sign | Duodenal atresia, annular pancreas |\n| Triple bubble sign | Jejunal atresia |\n\n(D) 迴腸閉鎖 (Ileum atresia) 在影像中可見因充滿空氣而脹大的近端大腸 (dilated loops of proximal bowel)",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-11_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-11_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(四)-12",
@@ -1712,9 +1714,11 @@
       "D": "應置放臍靜脈導管後，以高濃度葡萄糖輸注液滴注"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "由於新生兒低血糖相關的研究不足，低血糖是否會造成後續永久的腦損傷也眾說紛紜，因此目前只要符合新生兒低血糖定義，就建議盡快補並密切監測，新生兒低血糖的定義為：出生 24 小時內測得血糖小於 30 mg/dL，或出生 24 小時後測得血糖小於 45 mg/dL，新生兒低血糖的臨床表現通常不典型，可能症狀包括：手腳震顫 (jitteriness)、餵食困難 (feeding difficulties)、蒼白 (pallor)、張力下降 (hypotonia)、低體溫 (hypothermia)、心搏減緩 (bradycardia) 等等\n\n(A) 錯誤，雖然出生後 2 小時的確會出現血糖最低值（約 55 mg/dL），但低到 20 mg/dL 且有症狀，應立即補充 IV bolus D10W 2 mL/kg 後再測一次\n(B) 錯誤，儘早腸道營養 (early enteral feeds) 是「無症狀」新生兒低血糖的處置，有症狀應該輸注葡萄糖而不是補餵母奶\n(C) 正確，針對有症狀的低血糖，應立即 IV bolus 2 mL/kg D10W 後再測一次，之後緩慢滴注（新生兒或嬰兒的速率約：6-8 mg/kg/min）並考慮使用其他藥物 (glucagon, hydrocortisone 等)，如果出現低血糖癲癇 (hypoglycemic seizures)，建議給予 4 mL/kg D10W bolus\n(D) 錯誤，置放臍靜脈導管可給予較高濃度的葡萄糖液，但不屬於初步處置",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-12_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-12_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(四)-13",
@@ -1729,9 +1733,11 @@
       "D": "腳掌橫紋紋路"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "難題，這題考的是 New Ballard score for gestational age assessment 大表，評估面向包括 Neuromuscular maturity 以及 Physical maturity 兩方面，各項加總後的 maturity rating score (-10 ~ +50) 會有相對應的週數 (20 to 44 weeks)，評估項目如下表所列，不包括眼睛到耳朵的距離，故選 (A)，詳細對應的分數比較複雜，礙於版面限制，請自行上網查閱\n\n| 新生兒週數預估面向 | 子項目 |\n| :--- | :--- |\n| Neuromuscular maturity | posture, square window (wrist), arm recoil, popliteal angle, scarf sign, heel to ear |\n| Physical maturity | skin、lanugo (胎毛)、plantar surface (腳掌長度與紋路)、breast (乳頭與乳暈大小)、eye/ear (眼皮、耳廓、耳軟骨)、genitals (陰囊皺褶、睪丸下降、陰蒂陰唇等) |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-13_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-13_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(四)-14",
@@ -1746,9 +1752,11 @@
       "D": "上段氣管閉鎖合併下段食道氣管瘻管"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "「一直流口水並冒出泡泡」代表有食道氣管瘻管；「無法將口胃管順利放入」代表有食道閉鎖；「有腸氣」代表遠端的食道接到氣管，本題選 (B)，食道氣管瘻管一直是國考愛考的題型，各種亞型請務必熟記喔\n\n| Type | A | B | C | D | E |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **描述** | 單純食道閉鎖 | 食道閉鎖 + 近端氣管食道瘻管 | 食道閉鎖 + 遠端氣管食道瘻管 | 近端 + 遠端氣管食道瘻管 | 單純氣管食道瘻管 (H型) |\n| **發生率** | 8% | 1% | 86% | 1% | 4% |\n| **特性** | 胃小且沒有氣 | 胃小且沒有氣<br>嘴巴可冒泡泡 | 最常見！可見 distal gas，符合此病人狀況 | 可見 distal gas | 可見 distal gas |\n\n*** 食道氣管瘻管較常見於 VACTERL association (Vertebral anomaly, Anorectal atresia, Cardiac defect (VSD), T-E anomalies, Renal abnormalities, and Limb defect)",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-14_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-14_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(四)-15",
@@ -1763,9 +1771,11 @@
       "D": "先天性巨結腸症（Hirschsprung disease）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "如果嘔吐物中有膽汁的話，堵塞的地方必須在十二指腸第二段之後（膽汁出口），因此本題選 (A)，增生性胃幽門狹窄的嘔吐會以噴射性嘔吐來表現，以下整理出會導致小兒膽汁性嘔吐 (bilious emesis) 之消化道異常之特徵：\n\n| 小兒膽汁性嘔吐相關疾病 | 年紀 | 特徵 |\n| :--- | :--- | :--- |\n| Malrotation with volvulus | 出生後 3-7 天 | 影像可見 corkscrew sign |\n| Enteric duplication cysts | 任何年紀皆有可能，多在一歲內 | 影像可見 double wall sign |\n| Duodenal atresia | 出生後數小時內 | 影像可見 double bubble sign，和 trisomy 21 相關 |\n| Jejunoileal atresia | 出生後 24 小時內 | 影像可見 triple bubble sign |\n| Necrotizing enterocolitis | 出生後 1-2 週 | 影像可見 pneumatosis intestinalis (腸壁有氣) 或 portal venous gas |\n| Meconium ileus | 出生後 24 小時內 | 影像可見 ground glass appearance，和 cystic fibrosis 有關 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-15_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-15_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(四)-16",
@@ -1780,9 +1790,11 @@
       "D": "膽汁淤積症的病童容易缺乏水溶性維生素及維生素B群"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，食物中的維生素 B12 主要來源是動物，如紅肉、海鮮、蛋黃等，富含維生素 D 的食物主要有魚油和蛋黃，故吃全素的兒童容易缺乏維生素 B12 及維生素 D\n(B) 錯誤，母乳中的維生素 K 含量不高，而配方奶則添加較多的維生素 K，因此餵母乳的嬰幼兒較易缺乏維生素 K，缺乏維生素 K 會提高瘀青和出血的風險，故目前建議新生兒一出生就要馬上打一劑維生素 K\n(C) 錯誤，母乳中的維生素 D 含量不高 (12-60 IU/L)，相對的配方奶就添加較多的維生素 D (400 IU/L)，因此建議餵母乳的嬰幼兒額外補充維生素 D，礦物質部分例如鋅 (zinc) 和鐵 (iron)，雖然在母乳的含量不及配方奶，但比較容易吸收，足夠支撐嬰幼兒到約 4-6 個月大，4-6 個月大之後會建議用副食品補充\n(D) 錯誤，膽汁淤積會阻礙的是脂溶性維生素 (vitamin ADEK) 的吸收，維生素 B 是水溶性的，較不受影響",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-16_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-16_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(四)-17",
@@ -1797,9 +1809,11 @@
       "D": "進入追趕性生長期的前兩週，其體重增加的速度可比同年齡層兒童多出2到3倍"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "嬰幼兒生長遲滯的原因複雜，在過去被分成器質性 (organic) 和非器質性 (non-organic)，但近年認為生長遲滯的原因通常是多因性的 (multifactorial)，包含 nutritional intake (e.g., neurological condition, impeding feeding, improper mixing of formula, food insecurity), malabsorption (e.g., celiac disease, milk protein allergy), and/or increased metabolic demands (e.g., cardiac disease, chronic infection) 等種種複雜因子組成\n\n(A) 正確，最先出現的症狀是 wasting（無法增重），幾個月後才會出現 stunting（無法長高）\n(B) 錯誤，嬰幼兒生長遲滯成因複雜，且常常有多種原因混雜，真正靠門診或住院檢查出特定病因的病人其實占少數\n(C) 正確，處置的第一步為高熱量飲食的介入，通常會每天增加 10-20% 的熱量並密切監測生理狀況，高熱量飲食會給予到追趕性生長 (catch-up growth) 開始，此時通常需要同年齡小朋友建議熱量的 150%\n(D) 正確，要進入追趕性生長 (catch-up growth) 時，體重增加要超過同齡小孩的 50 百分位，增加速率可以是平均的 2-3 倍",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-17_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-17_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(四)-18",
@@ -1814,9 +1828,11 @@
       "D": "若採取腳跟血檢測直接與總膽紅素值之比例（Direct-to-total bilirubin）為21%，總膽紅素值10 mg/dL，應儘快轉診或住院檢查"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "新生兒出生後超過兩周的延長性黃疸 (prolonged jaundice) 要找原因，另外照光治療必須參考膽紅素的閾值，一般 indirect bilirubin level 在 16 到 18 mg/dL 左右可考慮開始照光治療\n\n**新生兒黃疸超過兩週處置流程**：\n- **在 30 天之前至兒科門診**：同時檢測直接型以及總膽紅素，並求其比值 (Direct/Total)\n  - < 20%：非膽汁滯留症\n  - > 20%：懷疑膽汁滯留症 → 立即轉至新生兒科或兒童胃腸科做進一步檢查（膽道閉鎖等疾病診斷）\n- **立即在家觀察嬰兒大便顏色**：\n  - 顏色異常（大便卡 1-6 號或是不確定）：懷疑膽汁滯留症 → 立即轉至新生兒科或兒童胃腸科做進一步檢查\n  - 顏色正常（大便卡 7-9 號）：繼續觀察，若仍有黃疸則須檢測直接型以及總膽紅素比值 (Direct/Total)\n\n本圖參考：<臺灣新生兒科醫學會 - 黃疸處置建議手冊>",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-18_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-18_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(四)-19",
@@ -1831,9 +1847,11 @@
       "D": "矯正脫水後立刻給與進食（Early feeding）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "輕中度脫水可先給予 Oral Rehydration Solution (ORS)，適應良好後可開始餵易吸收食物；重度脫水則要立即給予靜脈輸液治療，以補充電解質及水分\n\n(A) 錯誤，兒童腹瀉請指名口服葡萄糖電解質液 (Oral Rehydration Solution, ORS)，請勇敢地對運動飲料說不，而給予速度依小朋友的體重計算，若為輕度脫水，前四小時的水分建議約為每公斤 50 mL；若脫水程度為中度脫水，則前四小時的建議為葡萄糖口服電解質液約為每公斤 100 mL\n(B) 錯誤，此選項是針對乳糖不耐症的治療，雖然可能是造成急性腹瀉的原因，但矯正脫水才是目前最優先的處置\n(C) 錯誤，一般不建議給予未知病因急性腹瀉的嬰幼兒強力的止瀉劑\n(D) 正確，就題目敘述此病患屬於輕度脫水，矯正脫水後可給予進食\n\n**<補充> 兒童脫水程度判斷**：\n\n| 評估項目 | 輕度 (<5%) | 中度 (5-10%) | 嚴重 (>10%) |\n| :--- | :--- | :--- | :--- |\n| General condition | well, alert | restless, thirsty | drowsy, lethargy |\n| Eyes | normal | sunken | very sunken |\n| Anterior fontanelle | normal | depressed | very depressed |\n| Tears | present | absent | absent |\n| Mouth + tongue | moist | sticky | dry |\n| Skin turgor | slightly decreased | decreased | very decreased |\n| Pulse (N=110-120 bpm) | slightly increased | rapid, weak | rapid, sometime impalpable |\n| Blood pressure (N=90/60 mmHg) | normal | decreased | decreased, sometimes unrecordable |\n| Respiratory rate | slightly increased | increased | increased and deep |\n| Urine output | normal | reduced | markedly reduced |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-19_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-19_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(四)-20",
@@ -1848,9 +1866,11 @@
       "D": "腦部血管栓塞（Cerebral venous sinus thrombosis）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題看似在考泛發性強直-陣攣發作 (Generalized tonic-clonic seizures)，但其實閱讀完題目會發現選項皆有可能造成癲癇，因此應從原發性微小腎病變與類固醇脈衝治療之副作用著手\n\n(A) 錯誤，近年雖然有一些研究指出腎病症候群會提升顱內出血的風險，但是相關文獻甚少，和其他選項相比發生率較低\n(B) 正確，原發性微小腎病變 (minimal change disease) 是腎病症候群 (nephrotic syndrome) 的病因之一，而腎病症候群使白蛋白流失造成血管內容積不足與水腫，血管內容積不足會活化 RAAS 使 ADH 上升，進而使水份滯留引發低血鈉\n(C) 正確，有些偏門的選項，可逆性後腦病變症候群 (PRES) 是小兒腎病症候群的一種少見的併發症，會造成局部腦血管水腫，主要特徵為頭痛、視力障礙、癲癇發作及意識狀態改變\n(D) 正確，腎病症候群的病人由於血中白蛋白低下、血管內膠體滲透壓不足，肝臟會增加脂質與血栓形成因子 (pro-thrombotic factors) 的製造；抗凝血因子 (antithrombotic factors) 也因腎絲球受損，而從尿液中流失，因此病人形成血栓的風險上升",
+    "explanation_image": "/explanations/cropped/111-1-醫學(四)-20_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(四)-20_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(四)-21",
