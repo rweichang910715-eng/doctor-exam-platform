@@ -2995,9 +2995,9 @@
       "D": "快速靜脈輸注大量等張氯化鈉溶液（isotonic sodium chloride solutions）時，會發生代謝性酸血症（metabolicacidemia）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "缺頁",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-1-醫學(五)-2",
@@ -3012,9 +3012,11 @@
       "D": "bilateral C2 pedicles with spondylolisthesis"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "當頸部高度向後伸展 (hyperextension)，導致第二頸椎椎弓脫位骨折，此種骨折就稱為絞刑骨折。大多病人會以頸部劇烈疼痛為臨床表現，若未及時察覺、加以固定與治療，可能損及脊髓，導致嚴重癱瘓甚至呼吸停止\n\n#### 脊柱骨折 Fractures of Vertebral Column\n| 骨折類型 | 描述 | 處置方法 |\n| :--- | :--- | :--- |\n| C1 Jefferson fracture | (A) disruption of C1 ring in multiple locations；blow-out ring (第一頸椎的粉碎性骨折) | • 橫韌帶 (transverse ligament) 穩定：硬頸圈 (hard collar)<br>• 橫韌帶不穩定：頸椎牽引 (traction) 或手術 |\n| Odontoid fracture I | (C) tip of odontoid | 硬頸圈 (hard collar) |\n| Odontoid fracture II | (B) through base | 頸椎外固定器 (halo vest) 或手術 |\n| Odontoid fracture III | involves C2 body | 頸椎外固定器 (halo vest) |\n| C2 hangman fracture | (D) bilateral C2 pedicles with spondylolisthesis | 頸椎外固定器 (halo vest) 或手術 (脫位嚴重時) |\n| Cervical vertebral body fractures | Compression or burst of vertebral body with or without retropulsion into canal | • 高度略減：硬頸圈<br>• 影響多節脊柱或往後壓迫至脊髓管 (retropulsion into canal)：手術穩定 |\n| Thoracic vertebral body fractures | Compression or burst of vertebral body with or without retropulsion into canal | • 僅前柱：TLSO<br>• 前柱 + 後柱：手術穩定 |\n| Lumbar vertebral body fractures | Compression or burst of vertebral body with or without retropulsion into canal | • 僅前柱：TLSO<br>• 前柱 + 後柱：手術穩定 |\n| Chance fracture | Avulsion of posterior elements of lumbar vertebrae seen with high seat belt use (脊椎骨前後完全撕裂，常見於加速後急減速的緊急煞車) | 手術穩定 |\n\n*(整理自 2021 Sabiston Chapter 16)",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-2_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(五)-2_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(五)-3",
@@ -3029,9 +3031,11 @@
       "D": "血清中弓漿蟲（toxoplasma）抗體陽性之腦死病人"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "死後器官捐贈者基準如下：\n\n| 捐贈者類別 | 條件基準 |\n| :--- | :--- |\n| 捐贈者絕對禁忌症 | • 庫賈氏病<br>• 其他無法控制的感染症<br>• 人體免疫缺乏病毒感染，且不符合相對禁忌症處所列之患者，則屬於絕對禁忌症 |\n| 捐贈者相對禁忌症 | • 敗血症<br>• 開放性結核病<br>• 藥物成癮<br>• 病毒性腦炎<br>• 人體免疫缺乏病毒 (可捐贈給同樣感染者)<br>• 人類免疫缺乏病毒陽性時，應符合以下標準：<br>1、已列為疾病管制署通報個案 (愛滋感染者若未曾通報，亦即器官捐贈前之檢驗才得知愛滋病毒為陽性反應，因無法確認是否仍有未受控制、潛在致命之伺機性感染，故應終止器官捐贈作業)<br>2、遵循醫囑並穩定接受雞尾酒療法 (HAART)，且最近 6 個月內測量不到 HIV 的病毒量 (HIV viral load 小於 50 copies/ml)<br>3、排除有未受控制、潛在致命之伺機性感染或腫瘤<br>4、日後仍有抗逆轉錄病毒之治療選擇 (應事先與感染科醫師討論及確認) |\n\n參考資料：行政院衛生福利部函衛部醫字第 1080000531 號、The Transplantation Society of Australia and New Zealand: Clinical Guidelines for Transplantation from Deceased Donors (https://tsanz.com.au/storage/documents/TSANZ_Clinical_Guidelines_Version-15_29042021.pdf)\n\n以下另列各器官的捐贈者基準：\n\n| 器官 | 捐贈者基準 |\n| :--- | :--- |\n| 心臟 | • 過去病史與諸項檢查證實心臟正常者<br>• 無顱內腫瘤外之癌症病史 |\n| 肺臟 | • 年齡不超過 60 歲<br>• 無顱內腫瘤外之癌症病史<br>• 無長期抽菸之病史 (≤ 20 Pack-years)<br>• 胸部 X 光等檢查顯示肺部無嚴重感染<br>• 在 PEEP = 5 cmH₂O 下，呼吸 100% 氧氣時，其 PaO₂ > 300 mmHg；呼吸 40% 氧氣時，其 PaO₂ > 100 mmHg |\n| 肝臟 | • 無顱內腫瘤外之癌症病史<br>• 肝功能可接受 |\n| 腎臟 | • 無顱內腫瘤外之癌症病史<br>• 腎功能可接受 |\n| 胰臟 | • 年齡 5~55 歲<br>• 無糖尿病病史；如無法確定者須檢查 HbA1c<br>• 無慢性酗酒<br>• 無胰臟炎<br>• 無顱內腫瘤外之癌症病史 |\n| 眼角膜 | • 一般無年齡特別限制，但嬰幼兒則不建議<br>• 無全身性病毒或細菌感染 (如人類免疫缺乏病毒、C 型肝炎)<br>• 無白血病及淋巴癌<br>• 無青光眼、虹彩炎或眼部腫瘤病史<br>• 角膜情況佳 (無明顯角膜炎且未曾動過角膜手術者)<br>• 非下列疾病死亡：不明之中樞神經性疾病、亞急性硬化性腦膜炎、先天性德國麻疹、進行性多發性白血症腦病變、雷氏症候群 (Reye's Syndrome)、何杰金氏病 (Hodgkin's disease)、巨細胞病毒性感染、狂犬病等 |\n| 小腸 | • 年齡不超過 45 歲<br>• 體型適當：以不超過待移植者體重的 20% 為上限<br>• 少量升壓藥：沒有使用大量升壓藥，例如 dobutamine 或 dopamine 超過 20 ug/kg/min<br>• 儘可能沒有經歷很久的急救過程 (Absent/scant arrest period) |\n\n(A) B 肝帶原者若經醫師評估器官狀況及體內病毒量後確定狀況符合標準，可捐贈給同樣 B 肝表面抗原陽性者，唯須經過受贈者的知情同意，並且在器官移植後需進行病毒的控制及治療\n\n(B) 根據上表，若有巨細胞病毒感染，除了眼角膜可能無法捐贈外，其他器官仍可進行捐贈，但須使用預防感染藥物及注意移植後體內病毒狀況的監測\n\n(C) The Transplantation Society of Australia and New Zealand 中提到，若接受 HTLV 感染患者的器官捐贈使得受贈者也因此感染 HTLV，將有很高的機會得到 acute T cell leukemia/lymphoma (ATL) 或 HTLV-associated myelopathy (HAM) 且死亡率高，因此皆不建議 HTLV 感染者作為器官捐贈者；台灣的移植相關規範中並沒有明確列出 HTLV 感染為絕對禁忌症，但感染 HTLV 後易得到 acute T cell leukemia/lymphoma (ATL)，也並不符合大部分器官「無顱內腫瘤外之癌症病史」的捐贈者基準，故而此選項為最適當的答案\n\n(D) 雖弓漿蟲感染並非器官捐贈的禁忌症，但受贈者於接受移植後至少需使用 3 個月的 Trimethoprim-sulfamethoxazole 作為預防感染的藥物",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-3_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(五)-3_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(五)-4",
@@ -3046,9 +3050,11 @@
       "D": "立即送病人至手術室接受緊急剖腹探查"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "從 CT 上可看到左胸及腹部皆有不正常積液，可能為車禍過程中遭到撞擊導致的出血，另從題述可看出病人已經處於 shock 狀態，故此時最佳的做法應為儘速接受緊急剖腹探查，以儘快找到出血處加以處置。對於 blunt abdominal trauma 的處置流程，大家可以參考 Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 17 中的 Figure 17.21\n\n以下也列出緊急開胸與緊急剖腹探查的適應症供大家參考：\n\n| 緊急開胸 | 緊急剖腹探查 |\n| :--- | :--- |\n| • 穿刺傷：胸管初次引流量 >1000 mL or 鈍傷：胸管初次引流量 >1500 mL<br>• 沒有凝血功能異常的病人，胸管引流量連續 3 小時 >200 mL/hr<br>• 以置放兩個胸管仍無法順利引流的血胸 (caked hemothorax)<br>• 大血管損傷<br>• 心包膜填塞<br>• 心臟疝脫 (cardiac herniation)<br>• 胸管大量漏氣且沒有足夠通氣 (massive air leak from the chest tube with inadequate ventilation)<br>• 內視鏡或影像診斷氣管或主支氣管受損<br>• 開放性氣胸<br>• 食道破裂<br>• 氣體栓塞 | • 腹腔內出血且血液動力學不穩定 (如內臟受損)<br>• 腸道破裂<br>• 腸阻塞、腸缺血 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-4_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(五)-4_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(五)-5",
@@ -3063,9 +3069,11 @@
       "D": "liver cirrhosis due to heart failure"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "大致而言，不可逆的肝臟疾病皆為肝臟移植的適應症\n\n*(整理自 Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 26 及 Schwartz's Principles of Surgery (2019, 11ed.) Chapter 11)*\n\n| 肝臟移植適應症 | 肝臟移植禁忌症 |\n| :--- | :--- |\n| • 自體免疫性肝臟疾病：自體免疫性肝炎 (autoimmune hepatitis, AIH)、原發性膽汁性肝硬化 (primary biliary cirrhosis, PBC)、原發性硬化性膽管炎 (primary sclerosing cholangitis, PSC)<br>• 病毒性肝炎：B 型肝炎、C 型肝炎<br>• 酒精性肝臟疾病、非酒精性脂肪肝病 (nonalcoholic fatty liver disease, NAFLD)<br>• 代謝性疾病：α-1 抗胰蛋白酶缺乏症 (alpha-1 antitrypsin deficiency, AATD)、囊腫性纖維化 (cystic fibrosis)、血鐵沉積症 (hemochromatosis)、高酪胺酸血症 (tyrosinemia)、威爾森氏症 (Wilson's disease)<br>• 肝臟惡性腫瘤：肝細胞癌 (hepatocellular carcinoma, HCC)、轉移到肝臟的神經內分泌腫瘤 (neuroendocrine tumor)<br>• 猛爆性肝臟衰竭 (fulminant hepatic failure)<br>• 藥物或其他暴露引起的肝硬化<br>• 先天性：膽道閉鎖、先天性膽管擴張症 (Caroli disease)<br>• 其他：阿拉吉歐症候群 (Alagille syndrome，為一種會造成膽汁鬱積的體染色體顯性遺傳疾病)、隱源性肝硬化 (cryptogenic cirrhosis)、Budd-Chiari syndrome (BCS，任何原因造成肝臟血流受到阻斷所產生的症候群)、多囊性肝臟疾病 (polycystic liver disease)、澱粉樣蛋白疾病 (amyloidosis) | • 心肺儲備量不足 (insufficient cardiopulmonary reserve)：CAD、嚴重瓣膜性疾病、低血壓、須仰賴氧氣的嚴重 COPD、嚴重肺高壓<br>• 無法控制的感染或癌症<br>• 病人遵從性差<br>• 不可逆的神經損傷 |\n\n肝臟移植另一個常見的考點為肝臟移植病人的評估。可以記一下 MELD score 評估的項目有哪幾項：serum bilirubin, INR, serum creatinine；評估肝功能的 Child-Pugh score 的評估項目則為：albumin, bilirubin, ascites, prothrombin time (延長的秒數或 INR 數值), encephalopathy",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-5_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(五)-5_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(五)-6",
@@ -3080,9 +3088,9 @@
       "D": "虛弱疲乏"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "缺頁",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-1-醫學(五)-7",
@@ -3097,9 +3105,11 @@
       "D": "3,000 mL"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "#### ATLS 出血性休克分級\n| | Class I | Class II | Class III | Class IV |\n| :--- | :--- | :--- | :--- | :--- |\n| 失血量 (%) | 0~15 | 15~30 | 30~40 | >40 |\n| 失血量 (mL) | <750 | 750~1500 | 1500~2000 | >2000 |\n| 中樞神經系統 | 微焦慮 (slightly anxious) | 輕度焦慮 | 焦慮或混亂 (confused) | 混亂或昏睡 (lethargic) |\n| 心跳 (bpm) | <100 | >100 | >120 | >140 |\n| 血壓 | 正常 | 正常 | ↓ | ↓ |\n| 脈壓 | 正常 | ↓ | ↓ | ↓ |\n| 呼吸速率 | 14~20/min | 20~30/min | 5~15/min (↓) | 幾乎沒有 |\n| 尿量 (mL/hr) | >30 | 20-30 | 5-15 | 幾乎沒有 |\n| 輸液 | crystalloid | crystalloid | crystalloid + blood | crystalloid + blood |\n\n*(整理自 Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 4 及 Emergent Medicine Journal, 2012;0:1-8)*\n\n題幹中病人的狀況應該落在 Class III (心跳落在 120 bpm~140bpm 間、脈搏微弱、血壓下降)，故選擇 1500~2000 mL 區間內的失血量較為適合",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-7_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(五)-7_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(五)-8",
@@ -3114,9 +3124,11 @@
       "D": "①②⑤"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "#### 緊急開胸適應症\n• 穿刺傷：胸管初次引流量 >1000 mL or 鈍傷：胸管初次引流量 >1500 mL\n• 沒有凝血功能異常的病人，胸管引流量連續 3 小時 >200 mL/hr\n• 已置放兩個胸管仍無法順利引流的血胸 (caked hemothorax)\n• 大血管損傷\n• 心包膜填塞\n• 心臟疝脫 (cardiac herniation)\n• 胸管大量漏氣且沒有足夠通氣 (massive air leak from the chest tube with inadequate ventilation)\n• 內視鏡或影像診斷氣管或主支氣管受損\n• 開放性氣胸\n• 食道破裂\n• 氣體栓塞",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-8_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(五)-8_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(五)-9",
@@ -3131,9 +3143,11 @@
       "D": "須加上標靶藥物（VEGF或EGFR inhibitor）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此病人的結腸癌為 Stage IIIB，根據 2022 NCCN Guideline，屬於 low-risk Stage III 的結腸癌，建議以 CAPEOX 或 FOLFOX 作為一線藥物進行治療",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-9_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(五)-9_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(五)-10",
@@ -3148,9 +3162,11 @@
       "D": "約在胚胎發育第6週，泌尿生殖膈（urogenital septum）往尾部移行（caudal migration）而分隔開消化道及生殖泌尿道"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(B) 中腸衍生結構應該是從遠端十二指腸一直到遠端橫結腸",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-10_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(五)-10_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(五)-11",
