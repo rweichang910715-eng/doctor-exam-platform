@@ -884,5 +884,75 @@
     "images": [
       "/explanations/cropped/111-1-醫學(四)-60_merged.png"
     ]
+  },
+  "111-1-醫學(四)-61": {
+    "text": "【詳解 答案：(A)】\n* **(A) 錯誤**（本題選 A），躁鬱症患者終身的物質濫用盛行率將近五成，而在憂鬱症患者中約三成（記憶：有躁期才有動力去找藥物來 high）\n* **(B) 正確**，雙相情緒障礙症在嚴重躁期或鬱期時，可能出現與情緒一致（Mood-congruent）或不一致的幻聽或妄想等精神病症狀\n* **(C) 正確**，每次躁症發作都會增加神經毒性與後續發作頻率，因此臨床治療上需要長期使用情緒穩定劑以預防復發\n* **(D) 正確**，其中一部分躁鬱症患者在疾病一開始以 depression episode 來表現，此時難以和憂鬱症鑑別，早發及抗藥性憂鬱症將來轉變為雙相情緒障礙症的機率較高",
+    "image": "/explanations/cropped/111-1-醫學(四)-61_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-61_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-62": {
+    "text": "【詳解 答案：(C)】\n此題出的滿細的。部分抗癲癇藥物如 Lamotrigine、Valproate、Carbamazepine 等可穩定躁鬱症病人的情緒，但是 lamotrigine 並沒有獲得 FDA 治療躁症 (mania) 的適應症（Lamotrigine 僅核准用於躁鬱症維持期預防鬱期發作）。下表簡單整理一些藥物在躁鬱症中 FDA 核准的情況：\n\n### 躁鬱症常用藥物 FDA 核准適應症比較表\n| 藥物名稱 (Medication) | 急性躁期 (Mania) | 混合發作 (Mixed) | 雙相鬱期 (Depression) | 維持期 (Maintenance) |\n| :--- | :---: | :---: | :---: | :---: |\n| **Lithium (鋰鹽)** | ✓ | - | - | ✓ |\n| **Lamotrigine (樂命達)** | - | - | - | **✓ (預防鬱期)** |\n| **Carbamazepine** | ✓ | ✓ | - | - |\n| **Valproate (帝拔癲)** | ✓ | ✓ | - | - |\n| **Aripiprazole** | ✓ | ✓ | - | ✓ |\n| **Asenapine** | ✓ | ✓ | - | ✓ |\n| **Chlorpromazine** | ✓ | - | - | - |\n| **Olanzapine** | ✓ | ✓ | - | ✓ |\n| **Quetiapine** | ✓ | ✓ | ✓ | ✓ |\n| **Risperidone** | ✓ | ✓ | - | ✓ |\n| **Ziprasidone** | ✓ | ✓ | - | ✓ |\n| **Olanzapine + Fluoxetine** | - | - | ✓ | - |",
+    "image": "/explanations/cropped/111-1-醫學(四)-62_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-62_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-63": {
+    "text": "【詳解 答案：(B)】\n本題主要測驗考生對於懷疑是裝病或是詐病的身體型疾患之名詞定義是否清楚\n\n### 各選項解析\n* **(A) 慮病症 (hypochondriasis / illness anxiety disorder)**：患者常過度關心身體狀況，懷疑自己罹患重大疾病，稍有病痛就胡思亂想，形成一種慮病的心理狀態，但是並非真正喪失生理上的功能，亦非刻意偽裝症狀\n* **(B) 裝病症候群 / 人為疾患 (factitious disorder / Munchausen syndrome)**：患者有意識的裝病取得「內在好處」，取得疾病角色（Sick role），獲取醫療上的關注或是同情。本題有特別註明個案生病及住院並沒有明顯外在利益或目的，因此選 (B) 為正解\n* **(C) 詐病 (malingering)**：患者有意識的裝病取得「實質的外在好處」，像是休假、逃避兵役和坐牢或是獲取賠償金等\n* **(D) 轉化症 (conversion disorder)**：和上述不同的是，患者的疾病症狀不是故意裝出來的。如果他們說看不見，真的就是看不見；如果他們說沒力，就是真的一點力氣也沒有。在那個當下，是真實的存在失能與困難。這也是醫療最大的困難之所在，只能在長期監控之下，才能確信心理層面上的問題\n\n> 補充：思考這類疾病的時候可先判斷患者的行為是「有意識的」還是「無意識的」，再去評估個案生病及住院是否有「外在利益或目的」，進而作出鑑別診斷",
+    "image": "/explanations/cropped/111-1-醫學(四)-63_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-63_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-64": {
+    "text": "【詳解 答案：(B)】\n這題與【111-1 (四) 63】考點類似，患者有意識的裝病以取得實際的外在好處（逃避兵役），故屬於詐病之行為，本題選 (B)\n\n### 身體型疾患與裝病/詐病鑑別診斷表\n| 疾病類型 | 與疾病的關係 | 原因 / 目的 (動機) |\n| :--- | :--- | :--- |\n| **慮病症 (Illness anxiety disorder)** | 害怕自己有病 (無意裝病) | 就是怕 (對健康過度焦慮) |\n| **裝病症候群 / 人為疾患 (Factitious disorder)** | 想要呈現自己有病 (故意造假) | **求關注 / 取得病人角色 (內在心理需求)** |\n| **詐病 (Malingering)** | 想要呈現自己有病 (故意造假) | **取得實際利益 (逃避兵役、獲取賠償等外在動機)** |\n| **轉化症 (Conversion disorder)** | 真的出現神經症狀 (非故意造假) | 心理衝突轉化為身體神經症狀 |",
+    "image": "/explanations/cropped/111-1-醫學(四)-64_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-64_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-65": {
+    "text": "【詳解 答案：(D)】\n轉化症 (conversion disorder) 是一個非常特別的心理疾病，患者的身體會突然呈現出某種功能上的缺失，常見的症狀為下肢的感覺缺失或癱瘓、失語症、暈厥、失明、甚至較少見的解離性痙攣等。患者的這些神經學症狀難以用一個神經學疾病解釋，而經過檢查後，也往往在生理上卻找不到任何問題\n\n### 各選項解析\n* **(A) 錯誤**，pseudoseizure (non-epileptic seizures) 和 seizure 兩者是可以並存的，兩者的發作可以是有順序性的或是同時的 (sequential and simultaneous)。而在抽搐的形態上則各有特色：pseudoseizure 會有由一邊到另一邊的不同步運動 (asynchronous or side-to-side movements) 或是哭泣與閉眼等表現；而 seizure 則是同步且持續不停地抽搐 (synchronous and continuous)，而且眼睛通常是張開的\n* **(B) 錯誤**，astasia-abasia 指的是失去穩定站立或是走路的功能而呈現的一種特殊步態，但是病患的 motor strength and voluntary coordination 是正常的；雖然此症狀很常是因為轉化症引起，但 weakness and paralysis 才是轉化症最常見的動作異常\n* **(C) 錯誤**，轉化症病患易呈現「漂亮的不關心 (la belle indifférence)」，對自身的症狀一派輕鬆、無所謂之灑脫模樣；但教科書有特別提及，la belle indifférence 在轉化症中雖然常見，但並非特定疾病的特徵 (not pathognomonic)\n* **(D) 正確**，轉化症最明顯的症狀是突發性感覺、運動系統方面的異常，如突然癱瘓 (paralysis)、失明、肢體抽搐、不能說話等等",
+    "image": "/explanations/cropped/111-1-醫學(四)-65_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-65_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-66": {
+    "text": "【詳解 答案：(D)】\nBZD 長期服用後易產生耐藥性及依賴性，驟然的停藥可能會發生反彈性失眠及戒斷症狀，故其停藥可藉由漸進式減量再停藥來改善反彈性失眠及戒斷症狀。在成癮性的部分，用的時間越長、劑量越大，半衰期越短（如：Alprazolam、Lorazepam）及停藥的速度越快，越容易產生戒斷症候群。戒斷相關症狀包括焦慮、焦躁不安、手腳發抖、心跳與血壓上升、冒冷汗、耳鳴、頭痛及失眠等等，更嚴重的甚至會有憂鬱、妄想、抽搐及譫妄等症狀\n\n### 各選項解析\n* **(A) 正確**，使用 BZD 治療失眠應以最低有效劑量、最短療程為原則，避免長期依賴\n* **(B) 正確**，老年人因藥物代謝變慢與肌肉鬆弛作用，使用 BZD 易出現過度鎮靜、共濟失調，需特別注意跌倒與骨折風險\n* **(C) 正確**，短效 BZD（如 Triazolam, Alprazolam）因作用快速、血中濃度起伏大，比長效型更易產生心理與生理成癮性及反彈性失眠\n* **(D) 錯誤**（本題選 D），長期使用 BZD 者若驟然完全停藥，極易誘發嚴重戒斷症狀（如癲癇抽搐、譫妄），應採取漸進式減量（每週減少 10~25% 劑量）或先轉換為長效型 BZD（如 Diazepam, Clonazepam）後再緩慢調降",
+    "image": "/explanations/cropped/111-1-醫學(四)-66_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-66_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-67": {
+    "text": "【詳解 答案：(C)】\n記憶題，DSM-5 中認知功能範疇的執行功能中包含：planning、decision making、working memory、responding to feedback、inhibition and flexibility。故此題應選 (C)（操作能力屬於 Perceptual-motor function 範疇）\n\n### DSM-5 六大認知領域 (Cognitive Domains) 對照表\n| 認知領域 (Cognitive Domain) | 包含之核心功能與範疇 |\n| :--- | :--- |\n| **Executive function (執行能力)** | Planning (計畫)、decision making (決策)、working memory (工作記憶)、inhibition and mental flexibility (抑制與心智彈性)、responding to feedback / error correction (錯誤修正) |\n| **Learning and memory (學習及記憶力)** | Free recall (自由回憶)、cued recall (提示回憶)、semantic and autobiographical long term memory (語意與自傳式長期記憶)、implicit learning (內隱學習) |\n| **Language (語言)** | Object naming (物體命名)、word finding (找字)、fluency (流暢度)、grammar and syntax (文法與句構) |\n| **Perceptual-motor function (感知與動作)** | Visual perception (視覺感知)、visuoconstructional reasoning (視覺建構推理)、perceptual-motor coordination / praxis (感知動作協調與操作能力) |\n| **Complex attention (整體注意力)** | Sustained attention (持續注意力)、divided attention (分散注意力)、selective attention (選擇性注意力)、information processing speed (訊息處理速度) |\n| **Social cognition (社交認知)** | Recognition of emotions (情緒識別)、theory of mind (心智理論)、insight (洞察力) |",
+    "image": "/explanations/cropped/111-1-醫學(四)-67_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-67_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-68": {
+    "text": "【詳解 答案：(D)】\n仔細觀察可以發現 (B) 和 (D) 相互牴觸\n\n### 各選項詳細解析\n* **(A) 正確**，HIV 感染的初期症狀往往不明顯，或是與感冒相似，如：發燒、淋巴結腫大、咽喉炎、皮疹、肌肉疼痛、疲倦，口腔潰瘍等，還可能出現頭痛、噁心嘔吐、肝/脾腫大、體重下降、神經系統病變等\n* **(B) 正確**，愛滋病患者若出現記憶衰退、思考障礙、難以專注、口齒不清晰等症狀，稱為 HIV dementia，其原因是病毒侵犯中樞神經系統，是一預後不良的跡象\n* **(C) 正確**，HIV 病毒是透過血液、精液、陰道分泌液、乳汁而傳染，因此各種性行為、輸血、共用針頭、毒品的靜脈注射都是已知的傳染途徑\n* **(D) 錯誤**（本題選 D），HIV-associated Neurocognitive Disorder (HAND) 通常在疾病中晚期（CD4 顯著低下時）才會出現；若出現精神病症狀目前治療選擇為 anti-psychotics，但 HIV 病患中樞對錐體外症候群（EPS）較為敏感，故臨床上會盡量避免使用 high-potency 的典型抗精神病藥物（如：haloperidol），宜優先選用非典型（第二代）抗精神病藥",
+    "image": "/explanations/cropped/111-1-醫學(四)-68_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-68_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-69": {
+    "text": "【詳解 答案：(B)】\n鴉片類藥物在精神科常常出題，藥理學的副作用和戒斷症狀也建議詳讀\n\n### 各選項詳細解析\n* **(A) 錯誤**，methadone 還是會出現一些類似嗎啡等鴉片類藥物的作用，且在使用期間有生理性依賴的可能，但它可以減緩海洛因成癮者的戒斷症狀\n* **(B) 正確**，methadone 通常以口服糖漿的方式給予，因此可以降低成癮者共用針頭感染血液傳染病（如 HIV、B/C 型肝炎）的風險\n* **(C) 錯誤**，methadone 目前在台灣是第二級管制藥品，海洛因（Heroin）則是第一級管制藥品\n* **(D) 錯誤**，methadone 口服半衰期長，一劑藥效可持續約 24 小時以上，相較海洛因的效力只持續數小時，methadone 通常一天服用一次即可維持血中穩定濃度",
+    "image": "/explanations/cropped/111-1-醫學(四)-69_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-69_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-70": {
+    "text": "【詳解 答案：(C)】\n### 各選項詳細解析\n* **(A) 正確**，依我國道路交通安全規則規定，違規酒駕標準為吐氣所含酒精濃度達 0.15 mg/L 或血液中酒精濃度達 0.03% (30 mg/dL) 以上；若達 0.25 mg/L 則涉及刑法公共危險罪\n* **(B) 正確**，酒精雖然具中樞鎮靜效果可縮短入睡潛伏期，但會破壞睡眠架構，顯著減少深層睡眠（Stage 3/4 slow wave sleep）及快速動眼期（REM sleep），導致後半夜頻繁醒來、睡眠片段化，整體睡眠品質欠佳\n* **(C) 錯誤**（本題選 C），酒精戒斷初期（停止飲酒 6~12 小時內）最常見的症狀為交感神經過度興奮，表現為**失眠（Insomnia）、焦慮、手抖（Tremor）、心搏過速、血壓上升、出汗**，而非嗜睡\n* **(D) 正確**，酒精戒斷可能出現酒精性幻覺症（Alcohol hallucinosis，多為聽幻覺或視幻覺，意識通常清楚）以及嚴重的震顫性譫妄（Delirium Tremens, DT，常伴隨生動視幻覺、意識混亂與自主神經失調）",
+    "image": "/explanations/cropped/111-1-醫學(四)-70_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-70_merged.png"
+    ]
   }
 }
