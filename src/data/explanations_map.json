@@ -1460,5 +1460,45 @@
   "111-1-醫學(五)-30": {
     "explanation": "動脈導管 (ductus ateriosus) 為連接肺動脈與主動脈的血管，一般而言會在新生兒出生後的數天內關閉，若未關閉就會出現開放性動脈導管 (patent ductus ateriosus)，使得充氧血與缺氧血混合，導致肺高壓、低血氧、心律不整等情況。前列腺素 E1 會使動脈導管保持開放狀態。以下的先天性心臟病反而需要動脈導管的開放以暫時緩解血氧下降及發紺的危況，故而需給予前列腺素 E1，根據狀況可分為 3 類：\n\n| 分類 | 疾病類型 |\n| :--- | :--- |\n| (1) 肺動脈血流嚴重受限 (severe restriction of pulmonary blood flow)<br>→缺氧血無法流到肺循環，使得身體缺乏足夠充氧血而發紺、低血氧 | • 肺動脈瓣閉鎖 (pulmonary atresia)<br>• 三尖瓣閉鎖 (tricuspid atresia)<br>• 法洛氏四重症 (tetralogy of Fallot) |\n| (2) 全身血流嚴重受限 (severe restriction of systemic blood flow)<br>→充氧血無法順利打出到各器官系統，造成低灌流、嚴重鬱積型心衰竭 | • 主動脈狹窄 (aortic stenosis)<br>• 主動脈窄縮 (coarctation of the aorta)<br>• 主動脈弓中斷 (interrupted aortic arch)：主動脈轉彎處發生中斷，使血液無法打往下肢<br>• 左心發育不良症候群 (left heart hypoplastic syndrome)：心臟左側發育不良，循環發生嚴重阻塞 |\n| (3) 心臟結構異常 (cardiac anomalies) | • 大動脈轉位 (transposition of great arteries, TGA)：主動脈源於右心室，缺氧血直接打入體循環；肺動脈源於左心室，接受來自肺靜脈的充氧血並回到肺循環，使組織缺氧；當合併心房中膈缺損、心室中膈缺損時，充氧血與缺氧血會混合，稍微減緩發紺的情形 |\n\n(C) 全肺靜脈回流異常 (total anomalous pulmonary venous return, TAPVR)：胚胎發育時，肺靜脈未能順利與左心房相連，而是經由其他通道連接到右心房，再藉由新生兒尚開啟的卵圓孔或心房中膈缺損灌入左心房後流往全身；當回流的途徑阻塞時，血液就會積在肺臟，無法正常回到左心房，其中又以心下型發生回流阻塞時最為嚴重 (因肺靜脈回流會通過橫膈膜再到門靜脈系統，相對而言是很長的路徑)\n\n| 類型 | 特徵 |\n| :--- | :--- |\n| 心上型 (supracardiac type) | 肺靜脈與上腔靜脈 (SVC) 相連 |\n| 心臟型 (cardiac type) | 肺靜脈與右心室相連 |\n| 心下型 (infracardiac type) | 肺靜脈與門靜脈相連 |\n\n由上述可知，TAPVR 發生阻塞時，即使給予前列腺素 E1 保持動脈導管暢通 (使血液可在肺靜脈與主動脈間流通)，血液仍無法順利回到左心，此種情況必須進行緊急手術將不正常的肺靜脈接回左心房並關閉心房中膈，使血液循環恢復正常",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-30_merged.png"
+  },
+  "111-1-醫學(五)-31": {
+    "explanation": "#### 縱膈腔炎\n| | 急性縱膈腔炎 | 慢性縱膈腔炎 (包含硬化性或纖維性縱膈腔炎) |\n| :--- | :--- | :--- |\n| 成因 | • 食道破裂<br>• 胸骨感染<br>• 口咽或頸部感染、頸部蜂窩組織炎或化膿性淋巴結炎<br>• 口腔底蜂窩組織炎 (Ludwig's angina)<br>• 扁桃腺炎<br>• 咽後膿瘍 (retropharyngeal abscess)<br>• 肺部或肋膜發炎、膈下膿瘍 (subphrenic abscess)<br>• 肋骨或脊椎骨髓炎<br>• 齒齦發炎<br>• 血源性 (hematogenous) 或轉移性膿瘍 | 慢性淋巴結炎所致的縱膈腔慢性發炎最終可能造成硬化性或纖維性縱膈腔炎，而慢性淋巴結炎可能由組織胞漿菌病 (histoplasmosis) 或肺結核導致的肉芽腫感染所致 |\n| 處置 | • 安排 CT，了解影響範圍，並且可作為引流的導引工具<br>• 急性縱膈腔炎需進行緊急手術，盡快解決導致縱膈腔炎的成因<br>• 另需輸液、給抗生素以及根據病人情況決定是否進行清創 | • 沒有最佳的處置方法<br>• 手術僅適合用以診斷、緩解呼吸道或食道阻塞、重建血管<br>• 在某些研究中顯示，Ketoconazole 有助於控制疾病進展 |\n\n*(整理自 2019 Schwartz's Principles of Surgery Chapter 19)*\n\n(D) 急性縱膈腔炎需進行緊急手術解決 underlying，不可只給抗生素作為唯一治療手段",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-31_merged.png"
+  },
+  "111-1-醫學(五)-32": {
+    "explanation": "| 首要步驟：評估呼吸道、呼吸、循環 (ABC: airway, breathing, circulation) | 狀況 | 處置與檢查 | 後續處置 |\n| :--- | :--- | :--- | :--- |\n| | 狀況穩定 | PE 及胸部 X 光排除氣胸 / 血胸<br>• 若為氣胸 / 血胸 → 執行胸腔引流 (tube thoracostomy)，之後進入右述步驟<br>• 若否，直接進入右述步驟 | 確認受傷位置是否會進入心臟處或穿過縱膈腔<br>• 若有，安排心臟超音波、胸部電腦斷層血管攝影、支氣管鏡、食道攝影進行評估 **<br>• 若否，且病人有插胸管，則監測引流量 |\n| | 狀況不穩 | 啟動急救復甦 (resuscitation)、PE<br>→呼吸音變小聲則胸腔引流→監測引流量是否 ≥1500 mL | • 引流量 <1500 mL 則掃 FAST sono → 沒有異常發現則監控病人對急救復甦有無反應→有反應則監測引流量並考慮是否進行縱膈腔評估<br>• 引流量 ≥1500 mL、FAST sono 發現異常、病人對急救復甦無反應都須考慮進行緊急手術 |\n| | 心跳停止 | 進行緊急手術 | |\n\n*(整理自 Sabiston Chapter 17 - figure17.16: Algorithm for the management of penetrating thoracic injuries)*\n\n** 若進行心臟與縱膈腔評估後，發現有如下列的緊急狀況，也須給予相應處置：\n• 心包膜填塞 (cardiact tamponade)\n→盡快做心包膜腔穿刺 (pericardiocentesis)，清除積液以減少對心臟的壓迫\n• 大血管損傷→緊急手術\n• 食道破裂→清除致污物、引流、控制感染源 (放置食道支架、修補食道破裂處)\n(食道破裂題目可見於 111-2 第 25 題)",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-32_merged.png"
+  },
+  "111-1-醫學(五)-33": {
+    "explanation": "(A) 根據 NCCN guideline，早期為侵犯周邊淋巴結的小細胞肺癌也建議以肺葉切除術 (lobectomy) 及縱膈腔淋巴結取樣或切除作為一線治療方法\n\n(B) 早期肺癌若有侵犯周邊淋巴結，在術後還是會建議加做化療\n\n(D) 若遠端轉移僅有腦部一處，可做立體定位放射手術 (stereotactic radiosurgery, SRS)，且可根據病人狀況 (病人症狀、作為診斷手段) 做肺部腫瘤切除",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-33_merged.png"
+  },
+  "111-1-醫學(五)-34": {
+    "explanation": "缺頁",
+    "explanation_image": null
+  },
+  "111-1-醫學(五)-35": {
+    "explanation": "#### Esophageal cancer TNM staging\n| 分類 | 代號 | 定義 |\n| :--- | :--- | :--- |\n| T: primary tumor | Tx | 腫瘤無法評估 |\n| | T0 | 沒有證據顯示有腫瘤 |\n| | Tis | 高度分化異常 (high grade dysplasia) |\n| | T1a | 侵犯 lamina propria 或 muscularis mucosa |\n| | T1b | 侵犯 submucosa |\n| | T2 | 侵犯到但不超過 muscularis propria |\n| | T3 | 侵犯 adventitia |\n| | T4a | 侵犯周邊通常可被切除的構造 (橫膈、肋膜、奇靜脈、腹膜、心包膜) |\n| | T4b | 侵犯周邊通常不可被切除的構造 (主動脈、椎體、氣管) |\n| N: regional lymph nodes | Nx | 局部淋巴結無法評估 |\n| | N0 | 沒有侵犯到局部淋巴結 |\n| | N1 | 侵犯 1~2 個局部淋巴結 |\n| | N2 | 侵犯 3~6 個局部淋巴結 |\n| | N3 | 侵犯 ≥ 7 個局部淋巴結 |\n| M: distant metastasis | M0 | 沒有遠端轉移 |\n| | M1 | 有遠端轉移 |\n| G: histologic grade | Gx | 無法評估組織學等級 |\n| | G1 | 高度分化 (well differentiated) |\n| | G2 | 中度分化 |\n| | G3 | 低度分化或未分化 (poorly differentiated or undifferentiated) |\n| L: location (只適用於 squamous cell carcinoma) | Lx | 不明位置 |\n| | Upper | 頸段食道 (cervical esophagus) 到奇靜脈 (azygos vein) 下緣 |\n| | Middle | 奇靜脈下緣到下肺靜脈 (inferior pulmonary vein) 下緣 |\n| | Lower | 下肺靜脈下緣到胃 (包含食道 - 胃接合處) |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-35_merged.png"
+  },
+  "111-1-醫學(五)-36": {
+    "explanation": "缺頁",
+    "explanation_image": null
+  },
+  "111-1-醫學(五)-37": {
+    "explanation": "缺頁",
+    "explanation_image": null
+  },
+  "111-1-醫學(五)-38": {
+    "explanation": "缺頁",
+    "explanation_image": null
+  },
+  "111-1-醫學(五)-39": {
+    "explanation": "缺頁",
+    "explanation_image": null
+  },
+  "111-1-醫學(五)-40": {
+    "explanation": "缺頁",
+    "explanation_image": null
   }
 }

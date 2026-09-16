@@ -3521,8 +3521,8 @@
       "D": "急性縱隔腔炎常因情況危急，生命徵象不穩定，給與抗生素治療即可改善，不需冒手術風險"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "#### 縱膈腔炎\n| | 急性縱膈腔炎 | 慢性縱膈腔炎 (包含硬化性或纖維性縱膈腔炎) |\n| :--- | :--- | :--- |\n| 成因 | • 食道破裂<br>• 胸骨感染<br>• 口咽或頸部感染、頸部蜂窩組織炎或化膿性淋巴結炎<br>• 口腔底蜂窩組織炎 (Ludwig's angina)<br>• 扁桃腺炎<br>• 咽後膿瘍 (retropharyngeal abscess)<br>• 肺部或肋膜發炎、膈下膿瘍 (subphrenic abscess)<br>• 肋骨或脊椎骨髓炎<br>• 齒齦發炎<br>• 血源性 (hematogenous) 或轉移性膿瘍 | 慢性淋巴結炎所致的縱膈腔慢性發炎最終可能造成硬化性或纖維性縱膈腔炎，而慢性淋巴結炎可能由組織胞漿菌病 (histoplasmosis) 或肺結核導致的肉芽腫感染所致 |\n| 處置 | • 安排 CT，了解影響範圍，並且可作為引流的導引工具<br>• 急性縱膈腔炎需進行緊急手術，盡快解決導致縱膈腔炎的成因<br>• 另需輸液、給抗生素以及根據病人情況決定是否進行清創 | • 沒有最佳的處置方法<br>• 手術僅適合用以診斷、緩解呼吸道或食道阻塞、重建血管<br>• 在某些研究中顯示，Ketoconazole 有助於控制疾病進展 |\n\n*(整理自 2019 Schwartz's Principles of Surgery Chapter 19)*\n\n(D) 急性縱膈腔炎需進行緊急手術解決 underlying，不可只給抗生素作為唯一治療手段",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-31_merged.png",
     "explanation_images": null
   },
   {
@@ -3538,8 +3538,8 @@
       "D": "安排移動式胸部X光照射（portable chest X-ray）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "| 首要步驟：評估呼吸道、呼吸、循環 (ABC: airway, breathing, circulation) | 狀況 | 處置與檢查 | 後續處置 |\n| :--- | :--- | :--- | :--- |\n| | 狀況穩定 | PE 及胸部 X 光排除氣胸 / 血胸<br>• 若為氣胸 / 血胸 → 執行胸腔引流 (tube thoracostomy)，之後進入右述步驟<br>• 若否，直接進入右述步驟 | 確認受傷位置是否會進入心臟處或穿過縱膈腔<br>• 若有，安排心臟超音波、胸部電腦斷層血管攝影、支氣管鏡、食道攝影進行評估 **<br>• 若否，且病人有插胸管，則監測引流量 |\n| | 狀況不穩 | 啟動急救復甦 (resuscitation)、PE<br>→呼吸音變小聲則胸腔引流→監測引流量是否 ≥1500 mL | • 引流量 <1500 mL 則掃 FAST sono → 沒有異常發現則監控病人對急救復甦有無反應→有反應則監測引流量並考慮是否進行縱膈腔評估<br>• 引流量 ≥1500 mL、FAST sono 發現異常、病人對急救復甦無反應都須考慮進行緊急手術 |\n| | 心跳停止 | 進行緊急手術 | |\n\n*(整理自 Sabiston Chapter 17 - figure17.16: Algorithm for the management of penetrating thoracic injuries)*\n\n** 若進行心臟與縱膈腔評估後，發現有如下列的緊急狀況，也須給予相應處置：\n• 心包膜填塞 (cardiact tamponade)\n→盡快做心包膜腔穿刺 (pericardiocentesis)，清除積液以減少對心臟的壓迫\n• 大血管損傷→緊急手術\n• 食道破裂→清除致污物、引流、控制感染源 (放置食道支架、修補食道破裂處)\n(食道破裂題目可見於 111-2 第 25 題)",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-32_merged.png",
     "explanation_images": null
   },
   {
@@ -3555,8 +3555,8 @@
       "D": "有腦部轉移就不該做肺部腫瘤切除"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 根據 NCCN guideline，早期為侵犯周邊淋巴結的小細胞肺癌也建議以肺葉切除術 (lobectomy) 及縱膈腔淋巴結取樣或切除作為一線治療方法\n\n(B) 早期肺癌若有侵犯周邊淋巴結，在術後還是會建議加做化療\n\n(D) 若遠端轉移僅有腦部一處，可做立體定位放射手術 (stereotactic radiosurgery, SRS)，且可根據病人狀況 (病人症狀、作為診斷手段) 做肺部腫瘤切除",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-33_merged.png",
     "explanation_images": null
   },
   {
@@ -3572,7 +3572,7 @@
       "D": "Dor fundoplication"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "缺頁",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -3589,8 +3589,8 @@
       "D": "T4b；tumor invades trachea or aorta"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "#### Esophageal cancer TNM staging\n| 分類 | 代號 | 定義 |\n| :--- | :--- | :--- |\n| T: primary tumor | Tx | 腫瘤無法評估 |\n| | T0 | 沒有證據顯示有腫瘤 |\n| | Tis | 高度分化異常 (high grade dysplasia) |\n| | T1a | 侵犯 lamina propria 或 muscularis mucosa |\n| | T1b | 侵犯 submucosa |\n| | T2 | 侵犯到但不超過 muscularis propria |\n| | T3 | 侵犯 adventitia |\n| | T4a | 侵犯周邊通常可被切除的構造 (橫膈、肋膜、奇靜脈、腹膜、心包膜) |\n| | T4b | 侵犯周邊通常不可被切除的構造 (主動脈、椎體、氣管) |\n| N: regional lymph nodes | Nx | 局部淋巴結無法評估 |\n| | N0 | 沒有侵犯到局部淋巴結 |\n| | N1 | 侵犯 1~2 個局部淋巴結 |\n| | N2 | 侵犯 3~6 個局部淋巴結 |\n| | N3 | 侵犯 ≥ 7 個局部淋巴結 |\n| M: distant metastasis | M0 | 沒有遠端轉移 |\n| | M1 | 有遠端轉移 |\n| G: histologic grade | Gx | 無法評估組織學等級 |\n| | G1 | 高度分化 (well differentiated) |\n| | G2 | 中度分化 |\n| | G3 | 低度分化或未分化 (poorly differentiated or undifferentiated) |\n| L: location (只適用於 squamous cell carcinoma) | Lx | 不明位置 |\n| | Upper | 頸段食道 (cervical esophagus) 到奇靜脈 (azygos vein) 下緣 |\n| | Middle | 奇靜脈下緣到下肺靜脈 (inferior pulmonary vein) 下緣 |\n| | Lower | 下肺靜脈下緣到胃 (包含食道 - 胃接合處) |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(五)-35_merged.png",
     "explanation_images": null
   },
   {
@@ -3606,7 +3606,7 @@
       "D": "crura of the diaphragm"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "缺頁",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -3623,7 +3623,7 @@
       "D": "身體檢查有Murphy's sign時"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "缺頁",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -3640,7 +3640,7 @@
       "D": "告知主治醫師並暫停預定之手術"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "缺頁",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -3657,7 +3657,7 @@
       "D": "有無藥物過敏史"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "缺頁",
     "explanation_image": null,
     "explanation_images": null
   },
@@ -3674,7 +3674,7 @@
       "D": "超音波是主要的診斷工具。在超音波下，膿瘍為圓形或是卵圓形的高回音（hyperechoic）病徵，其診斷敏感性可以達到80-95%。唯獨對於某些不易判讀的解剖位置如肝頂（dome）不易確診"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "缺頁",
     "explanation_image": null,
     "explanation_images": null
   },
