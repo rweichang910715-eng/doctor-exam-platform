@@ -797,38 +797,92 @@
     ]
   },
   "111-1-醫學(四)-44": {
-    "text": "【詳解 答案：(B)】\n### 核心概念：核間眼肌麻痺（Internuclear Ophthalmoplegia, INO）\n本題病患向左看時出現**右眼無法內收（Impaired adduction）**，且**左眼完全外展伴隨眼球震顫（Abducting nystagmus）**，而向右看及垂直注視均正常，為標準的**右側核間眼肌麻痺（Right INO）**，病灶位於**右側內側縱向束（Right medial longitudinal fasciculus, Right MLF）**\n\n### 水平共軛眼球運動路徑與機轉分析\n1. 當大腦指令雙眼向**左看**時：\n   * 左側橋腦的**正中旁橋腦網狀結構（Left PPRF）** 活化，啟動**左側外旋神經核（Left CN VI nucleus）**\n   * 左側 CN VI 核一方面支配左側外直肌使左眼外展（Abduction）\n   * 另一方面，CN VI 核發出神經纖維跨過中線，藉由**右側內側縱向束（Right MLF）** 向上傳遞至中腦的**右側動眼神經核（Right CN III nucleus）**，支配右側內直肌使右眼內收（Adduction）\n2. 若**右側 MLF 受損**：\n   * 訊號無法傳至右側 CN III 核，導致**右眼無法內收**\n   * 同時，左眼雖能外展，但中樞神經因接收不到兩眼協同反饋而過度刺激，造成左眼出現**外展眼球震顫（Abducting nystagmus）**\n3. **輻輳反射（Convergence）正常**：\n   * 當病患看近物時，兩眼內收由大腦皮質直達動眼神經核，不經由 MLF 途徑，因此兩眼仍能正常內收\n\n### 診斷速記法則\n* **無法內收的那隻眼睛 ＝ 病灶所在的 MLF 側**\n* 本題向左看時**右眼無法內收** → 病灶在**右側 MLF（Right MLF）**\n\n### 水平注視障礙鑑別診斷表\n| 症狀與病灶 | 向左看表現 | 向右看表現 | 輻輳反射 (Convergence) | 常見病因 |\n| :--- | :--- | :--- | :--- | :--- |\n| **右側 MLF 受損 (Right INO)** | **右眼無法內收**，左眼外展伴眼震 | 兩眼正常向右轉動 | 正常 | 老年人：腦幹中風<br>年輕人：多發性硬化症 (MS) |\n| **左側 MLF 受損 (Left INO)** | 兩眼正常向左轉動 | **左眼無法內收**，右眼外展伴眼震 | 正常 | 腦幹中風、多發性硬化症 |\n| **左側 PPRF / CN VI 核受損** | **兩眼皆無法向左看 (左側共軛注視麻痺)** | 兩眼正常向右轉動 | 正常 | 橋腦梗塞、腫瘤 |\n| **一又二分之一症候群 (1.5 syndrome)** | 兩眼皆無法向左看 (1) | 僅右眼能外展伴眼震，左眼無法內收 (0.5) | 正常 | 橋腦被蓋部廣泛性病變 (同側 PPRF + 同側 MLF) |",
+    "text": "缺頁",
     "image": null,
     "images": []
   },
   "111-1-醫學(四)-45": {
-    "text": "【詳解 答案：(D)】\n### 核心概念：腦梗塞早期水腫機轉與 MRI 序列敏感度\n急性腦梗塞發生後數分鐘內，神經細胞能量衰竭導致細胞毒性水腫，**擴散加權影像（Diffusion-Weighted Imaging, DWI）** 對此具有最高敏感度（> 95%）\n\n### 病理生理機轉\n1. **超急性期（數分鐘內）細胞毒性水腫（Cytotoxic edema）**：\n   * 急性腦血流中斷導致細胞內 ATP 迅速耗竭\n   * 細胞膜上的 \text{Na}^+/\text{K}^+\text{-ATPase} 鈉鉀泵功能停止，大量 \text{Na}^+ 及水分子流入神經元及膠質細胞內，造成**細胞腫脹**\n   * 細胞內空間狹窄，使細胞內外水分子的布朗運動受到極大限制（Restricted diffusion）\n   * **DWI** 利用水分子擴散受限原理，在梗塞發作 **數分鐘內** 即呈明顯**高訊號（Bright / Hyperintense）**，搭配 **ADC map 呈低訊號（Dark / Hypointense）**，是診斷急性缺血性中風的最靈敏工具\n2. **亞急性期（數小時至數天）血管源性水腫（Vasogenic edema）**：\n   * 缺血缺氧持續造成血腦屏障（BBB）破壞，血漿蛋白與液體漏至細胞外間隙\n   * 此時 **FLAIR** 與 **T2WI** 才會逐漸顯現高訊號（通常於發作後 4~6 小時後才清晰可見）\n\n### 細胞毒性水腫 vs 血管源性水腫 比較表\n| 特性項目 | 細胞毒性水腫 (Cytotoxic Edema) | 血管源性水腫 (Vasogenic Edema) |\n| :--- | :--- | :--- |\n| **發生時機** | 超急性期 (發作數分鐘至數小時) | 亞急性期 (數小時至數天) |\n| **主要病因** | 急性腦梗塞、缺氧性腦病變、ATP 衰竭 | 腦腫瘤、腦膿瘍、腦炎、晚期中風 |\n| **水分累積位置** | **細胞內 (Intracellular) 腫脹** | **細胞外白質間隙 (Extracellular white matter)** |\n| **血腦屏障 (BBB)** | **完整 (Intact)** | **受損破壞 (Disrupted)** |\n| **DWI / ADC 表現** | **DWI 高訊號 (擴散受限)，ADC 低訊號** | DWI 正常或低，ADC 高訊號 (擴散增加) |\n| **T2 / FLAIR 顯影** | 早期不明顯 (4~6 小時後才變亮) | 明顯高訊號 (手指狀水腫延伸) |\n| **類固醇治療效果** | **無效** | **顯著有效 (可修復並穩定 BBB，特別是腫瘤性水腫)** |",
+    "text": "缺頁",
     "image": null,
     "images": []
   },
   "111-1-醫學(四)-46": {
-    "text": "【詳解 答案：(C)】\n### 核心概念：中大腦動脈（Middle Cerebral Artery, MCA）梗塞症候群\n病患為 66 歲女性，有高血壓與心律不整（如心房顫動 Afib，易形成心因性血栓栓塞），突然出現**失語症（無法言語 Aphasia）** 及**右側肢體無力（偏癱 Right hemiparesis）**，隨後意識惡化，為典型的**左側中大腦動脈（Left MCA）** 主幹或大分支梗塞\n\n### 臨床症狀與神經解剖定位分析\n1. **無法言語（Aphasia，失語症）**：\n   * 人類語言中樞（Broca 運動語言區、Wernicke 感覺語言區）位於**優勢大腦半球（通常為左側半球）**\n   * 語言區由**左側 MCA** 分支皮質動脈支配，梗塞會導致表達性或全面性失語\n2. **右側偏癱（Right hemiparesis / hemiplegia）**：\n   * 左側大腦額葉運動皮質（Motor strip）及內囊後肢受損\n   * MCA 支配大腦外側面，運動皮質投射以**面部及上肢無力最為顯著（Face & Arm > Leg）**\n3. **意識惡化**：大面積 MCA 梗塞伴隨顯著腦水腫與質塊效應（Mass effect），可壓迫腦幹造成意識昏迷\n\n### 大腦主要動脈支配區域與臨床症候群對照表\n| 血管名稱 | 支配大腦區域 | 典型臨床表徵 |\n| :--- | :--- | :--- |\n| **中大腦動脈 (MCA)** | 大腦半球外側凸面 (額葉、頂葉、顳葉皮質、內囊) | **對側偏癱與感覺喪失 (面部與上肢 > 下肢)**<br>**左側 (優勢半球)：失語症 (Aphasia)**<br>**右側 (非優勢半球)：半側忽略 (Hemineglect)**<br>對側同向偏盲 (Homonymous hemianopia) |\n| **前大腦動脈 (ACA)** | 大腦半球內側面 (額葉內側、頂葉內側) | **對側下肢癱瘓與感覺喪失 (下肢 > 上肢/面部)**<br>尿失禁、無動性發緘 (Abulia / Akinesia)、人格改變 |\n| **後大腦動脈 (PCA)** | 枕葉、顳葉下內側、丘腦 | **對側同向偏盲 (伴黃斑保留 Macular sparing)**<br>視覺失認症 (Visual agnosia)、丘腦痛症候群 |\n| **椎體基底動脈系 (VBA)** | 腦幹 (延腦、橋腦、中腦)、小腦 | 交叉性徵象 (同側顱神經麻痺 + 對側肢體癱瘓)、共濟失調 (Ataxia)、嚴重眩暈、眼球震顫、複視、意識昏迷 |",
+    "text": "缺頁",
     "image": null,
     "images": []
   },
   "111-1-醫學(四)-47": {
-    "text": "【詳解 答案：(D)】\n### 核心概念：癲癇發作（Epileptic Seizures）與抽搐性暈厥（Convulsive Syncope）之鑑別診斷\n臨床上暈厥（Syncope）因暫時性全腦低灌流缺氧，常誘發短暫的肌肉強直或肌躍動作（稱為 Convulsive syncope），但其機轉非大腦皮質異常放電，**不可確診為癲癇**\n\n### 各選項詳細解析\n* **(A) 正常的腦部磁振造影可以排除病人有癲癇的可能**：錯誤，MRI 主要是尋找有無結構性致癲灶（如皮質發育不良、海馬硬化、血管畸形、腫瘤等）；特發性全面性癲癇（如 JME、兒童失神癲癇）患者之腦部 MRI 結構通常完全正常，因此 MRI 正常絕對無法排除癲癇\n* **(B) 暈厥（syncope）的病人如腦電圖出現棘波（spike waves）就可確診為癲癇**：錯誤，癲癇診斷必須以**詳細且符合特徵的臨床病史**為核心；部分正常人或非癲癇患者（包括嚴重缺氧後）腦波亦可能出現非特異性癲癇樣放電，不能僅憑單一腦波表現而忽略臨床發作特徵逕行確診\n* **(C) 嬰幼兒童一旦曾發生熱痙攣（febrile convulsion）就可確認以後會有癲癇**：錯誤，小兒單純型熱痙攣（Simple febrile seizure）預後極佳，日後發展為癲癇的機率僅約 1~2%（與一般族群終生盛行率相仿）\n* **(D) 暈厥同時有短暫的肌肉強直仍不可確診為癲癇**：正確（本題選 D），大腦急性缺氧可引起短暫的去皮質強直姿勢或不對稱肌躍抽搐（Convulsive syncope），發作時間極短（通常 < 15 秒），倒地後意識恢復迅速且無明顯發作後混亂期（Post-ictal confusion），非癲癇發作\n\n### 抽搐性暈厥 vs 癲癇強直陣攣發作 (GTC) 鑑別診斷表\n| 臨床特徵 | 抽搐性暈厥 (Convulsive Syncope) | 癲癇強直陣攣發作 (GTC Seizure) |\n| :--- | :--- | :--- |\n| **發生情境與姿勢** | 通常在久站、體位改變、疼痛或恐懼時 | 任何情境、坐臥或睡眠中皆可發生 |\n| **發作先兆 (Aura)** | 頭暈、視線模糊、冒冷汗、臉色蒼白、噁心 | 上腹上升感、特殊氣味、局部抽動、似曾相識感 |\n| **抽搐動作特徵** | 倒地後短暫、不規則肌躍或輕微強直 (多 < 15 秒) | 規律強直期繼以對稱節律性陣攣 (持續 1~2 分鐘) |\n| **面色與自主神經** | 臉色蒼白、出冷汗、脈搏微弱或變慢 | 面色發紺 (Cyanosis)、口吐白沫、血壓上升、心搏過速 |\n| **舌頭咬傷部位** | 極少見；若有通常咬在**舌尖** | 常見，典型咬在**舌頭兩側邊緣 (Lateral tongue)** |\n| **發作後狀態** | **意識恢復迅速，無發作後混亂 (Confusion < 1 分鐘)** | **明顯發作後昏睡、意識混亂、全身痠痛 (持續數十分鐘至數小時)** |",
+    "text": "缺頁",
     "image": null,
     "images": []
   },
   "111-1-醫學(四)-48": {
-    "text": "【詳解 答案：(C)】\n### 核心概念：偏頭痛（Migraine）急性發作治療與慢性預防用藥原則\n偏頭痛預防性用藥首選包括 β-blockers、Topiramate、Valproate、Amitriptyline 等；**Carbamazepine 主要用於三叉神經痛及局部癲癇，非偏頭痛之常規預防藥物**\n\n### 各選項詳細解析\n* **(A) 急性期的治療藥物 triptan 的使用，須注意心血管疾病的禁忌症**：正確，Triptans（如 Sumatriptan, Rizatriptan）為 \text{-HT}_{1\text{B}/1\text{D}} 受體促效劑，具有收縮血管作用，禁忌用於冠心病、缺血性中風、周邊動脈阻塞疾病及未控制之高血壓病患\n* **(B) 如果一個月發作 4 次以上，可以考慮使用預防性藥物**：正確，預防性治療的適應症包括：每月發作 ≥ 4 次、每月頭痛天數 ≥ 8 天、急性止痛藥無效或有過度使用性頭痛（MOH）風險者\n* **(C) 抗癲癇藥物如 carbamazepine 常用於預防偏頭痛**：錯誤（本題選 C），抗癲癇藥中證實能有效預防偏頭痛的是 **Topiramate** 與 **Valproate**；**Carbamazepine 主要用於治療三叉神經痛（Trigeminal neuralgia）**，並非偏頭痛預防藥物\n* **(D) 預防性用藥的選擇宜考慮病患是否有其他共病，如高血壓或躁鬱症**：正確，合併高血壓可選用 Propranolol；合併躁鬱症可選用 Valproate；合併憂鬱/失眠可選用 Amitriptyline；體重過重者可選用 Topiramate（具減重效果）\n\n### 偏頭痛藥物治療完整彙整表\n| 階段分類 | 藥物類別 | 代表藥物 | 臨床應用與禁忌重點 |\n| :--- | :--- | :--- | :--- |\n| **急性發作期治療 (Acute treatment)** | **偏頭痛特異性藥物** | Triptans (Sumatriptan, Zolmitriptan)<br>Ergotamines (Dihydroergotamine) | 中重度發作首選；心血管疾病 (CAD、中風、高血壓) 禁用；每月使用不超過 10 天 |\n| | **非特異性止痛藥** | NSAIDs (Naproxen, Ibuprofen)<br>Acetaminophen, 複方止痛藥 | 輕中度發作初期使用；每月使用不超過 15 天以防藥物過度使用性頭痛 (MOH) |\n| **慢性預防期治療 (Preventive treatment)** | **β-阻斷劑 (Beta-blockers)** | Propranolol, Metoprolol | 第一線預防藥；適合合併高血壓者；氣喘、心搏過緩禁用 |\n| | **抗癲癇藥 (AEDs)** | **Topiramate, Valproate** | 第一線預防藥；Topiramate 易嗜睡減重/青光眼；Valproate 具肝毒性與致畸性 (Carbamazepine 不適用) |\n| | **抗憂鬱劑** | Amitriptyline (TCA), Venlafaxine (SNRI) | 適合合併憂鬱、焦慮、失眠、慢性緊縮型頭痛者 |\n| | **鈣離子阻斷劑 (CCB)** | Flunarizine | 預防血管痙攣；易嗜睡、體重增加、錐體外症候群 |\n| | **CGRP 拮抗劑 / 單株抗體** | Erenumab, Galcanezumab, Rimegepant | 針對 CGRP 路徑之標靶預防藥，耐受性佳 |",
+    "text": "缺頁",
     "image": null,
     "images": []
   },
   "111-1-醫學(四)-49": {
-    "text": "【詳解 答案：(B)】\n### 核心概念：青少年肌躍性癲癇（Juvenile Myoclonic Epilepsy, JME）用藥禁忌\n青少年肌躍性癲癇（JME）屬於原發全面性癲癇（Idiopathic generalized epilepsy），**狹效性鈉離子通道阻斷劑（如 Phenytoin、Carbamazepine）會使肌躍性抽動顯著惡化，屬於禁忌用藥**\n\n### 疾病臨床特色與診斷要點\n1. **好發年齡**：青少年期（通常為 12~18 歲）\n2. **三大發作型態**：\n   * **晨起肌躍發作（Morning myoclonic jerks）**：最典型特徵，患者早晨起床後雙手突發短暫不自主抖動，常將水杯或梳子甩飛出去\n   * **全身強直陣攣發作（Generalized tonic-clonic seizures, GTC）**：常於肌躍發作數月至數年後出現\n   * **失神發作（Absence seizures）**：約 1/3 病患合併出現\n3. **誘發因子**：**睡眠剝奪（Sleep deprivation）**、飲酒、疲勞、閃爍光刺激（Photosensitivity）\n4. **腦電圖（EEG）**：典型呈現 **4~6 Hz 全身性多棘慢波（Generalized polyspike-and-wave complexes）**\n\n### JME 藥物選擇原則\n* **首選藥物**：**Valproate（帝拔癲）** 為最有效藥物（控制率 > 80%），但因具致畸胎性（神經管缺損），對年輕女性患者可首選 **Levetiracetam（Keppra）**、**Lamotrigine** 或 **Topiramate**\n* **禁用 / 惡化藥物**：**Phenytoin**、**Carbamazepine**、**Oxcarbazepine**、**Vigabatrin**、**Tiagabine**、**Gabapentin** 會加重肌躍發作與失神發作\n\n### JME 與全面性癲癇藥物選擇對照表\n| 藥物分類 | 代表藥物 | 臨床作用說明 |\n| :--- | :--- | :--- |\n| **首選 / 推薦藥物 (廣效型 AEDs)** | **Valproate** (首選，控制率最佳)<br>**Levetiracetam** (育齡女性首選替代)<br>**Lamotrigine** (需緩慢加量防 SJS/TEN)<br>**Topiramate**<br>**Zonisamide** | 能同時控制肌躍發作、失神發作及全面強直陣攣發作 |\n| **禁用 / 易惡化藥物 (狹效型 AEDs)** | **Phenytoin (本題選 B)**<br>**Carbamazepine**<br>**Oxcarbazepine**<br>**Gabapentin / Pregabalin**<br>**Vigabatrin / Tiagabine** | 主要針對局部發作（Focal seizures），會加重大腦全面性同步放電，**誘發或顯著惡化肌躍抽搐（Worsen myoclonus）與失神發作** |",
+    "text": "缺頁",
     "image": null,
     "images": []
   },
   "111-1-醫學(四)-50": {
-    "text": "【詳解 答案：(C)】\n### 核心概念：一氧化碳（CO）中毒之後遺症與神經病理定位\n一氧化碳中毒造成的延遲性神經病變及巴金森症候群（Parkinsonism），其最典型的腦部病灶位於**雙側蒼白球（Bilateral globus pallidus）**\n\n### 病理生理機轉與影像特徵\n1. **一氧化碳中毒機轉**：\n   * CO 與血紅素結合力約為氧氣的 200~250 倍，形成碳氧血紅素（COHb），造成組織嚴重缺氧\n   * CO 直接抑制粒線體電子傳遞鏈的細胞色素氧化酶（Cytochrome c oxidase），造成能量耗竭與自由基生成\n2. **基底核（特別是蒼白球）易受損原因**：\n   * 蒼白球（Globus pallidus）耗氧量極高、血流供應豐富但處於微血管末梢分水嶺、富含鐵質與多巴胺代謝物，對缺氧及毒素最為敏感\n   * 腦部 CT 或 MRI 最典型可見**雙側對稱性蒼白球壞死與囊狀變化（Bilateral symmetric globus pallidus necrosis / T2 hyperintensity）**\n3. **延遲性腦病變（Delayed Post-Hypoxic Leukoencephalopathy / DNS）**：\n   * 患者在急性中毒清醒後數天至數週（假性痊癒期 2~40 天），可能突然出現遲發性神經精神症狀\n   * 表現為**巴金森症候群（動作遲緩、僵硬、步態不穩）**、失智、無動性發緘、大小便失禁等\n\n### 基底核與常見神經系統疾病病灶對照表\n| 疾病 / 毒物中毒 | 最典型病灶部位 | 典型臨床表徵 |\n| :--- | :--- | :--- |\n| **一氧化碳 (CO) 中毒** | **雙側蒼白球 (Globus pallidus)** | 延遲性巴金森症候群、動作遲緩、步態障礙、失智 |\n| **威爾森氏症 (Wilson disease)** | **殼核、豆狀核 (Putamen / Lentiform nucleus)** | 撲翼樣震顫 (Wing-beating tremor)、肌張力不全、K-F 氏環、肝硬化 |\n| **亨丁頓舞蹈症 (Huntington disease)** | **尾狀核萎縮 (Caudate nucleus atrophy)** | 舞蹈症 (Chorea)、失智症、人格與精神異常、側腦室擴大 |\n| **原發性巴金森氏病 (Parkinson disease)** | **黑質緻密部 (Substantia nigra pars compacta)** | 靜止性震顫 (Resting tremor)、齒輪樣僵硬、面具臉、前傾小步步態 |\n| **MPTP 毒素中毒** | **黑質多巴胺神經元 (Substantia nigra)** | 急性、不可逆之重度巴金森症候群 |\n| **半邊跳躍症 (Hemiballismus)** | **對側丘腦下核 (Subthalamic nucleus, STN)** | 對側肢體突發性、劇烈、不自主甩動跳躍動作 |",
+    "text": "缺頁",
     "image": null,
     "images": []
+  },
+  "111-1-醫學(四)-51": {
+    "text": "缺頁",
+    "image": null,
+    "images": []
+  },
+  "111-1-醫學(四)-52": {
+    "text": "缺頁",
+    "image": null,
+    "images": []
+  },
+  "111-1-醫學(四)-53": {
+    "text": "缺頁",
+    "image": null,
+    "images": []
+  },
+  "111-1-醫學(四)-54": {
+    "text": "缺頁",
+    "image": null,
+    "images": []
+  },
+  "111-1-醫學(四)-55": {
+    "text": "缺頁",
+    "image": null,
+    "images": []
+  },
+  "111-1-醫學(四)-56": {
+    "text": "缺頁",
+    "image": null,
+    "images": []
+  },
+  "111-1-醫學(四)-57": {
+    "text": "缺頁",
+    "image": null,
+    "images": []
+  },
+  "111-1-醫學(四)-58": {
+    "text": "缺頁",
+    "image": null,
+    "images": []
+  },
+  "111-1-醫學(四)-59": {
+    "text": "【詳解 答案：(C)】\n* **(A) 錯誤**，思覺失調症急性期以正性症狀為主，慢性期則以負性症狀為主\n* **(B) 錯誤**，haloperidol 屬於第一代抗精神病藥物 dopamine antagonist\n* **(C) 正確**，聯想 (association) 障礙、自閉 (autism)、情感 (affect) 冷漠及情感矛盾 (ambivalence) 是思覺失調症的四個 A 代表的四個層面障礙\n* **(D) 錯誤**，非典型（第二代）抗精神病藥物之作用除了對多巴胺接受器之阻斷作用，亦可阻斷血清素 (Serotonin) 的接受器",
+    "image": "/explanations/cropped/111-1-醫學(四)-59_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-59_merged.png"
+    ]
+  },
+  "111-1-醫學(四)-60": {
+    "text": "【詳解 答案：(C)】\n思考形式障礙指的是思考的結構發生問題，這問題可以透過與患者的交談而得知。患者可能胡言亂語、言語鬆散、令人難以理解。此症狀是思覺失調症的正性症狀之一。而 (C) 選項之思考內容的障礙則包括：妄想 (delusion)、先入為主 (preoccupation)、強迫 (obsession)、慮病 (hypochondria)、過份的念頭 (overvalued-idea) 等。以下整理出思考形式障礙的相關症狀：\n\n### 思考形式障礙的相關症狀\n| 症狀名稱 | 內容說明 |\n| :--- | :--- |\n| **聯想鬆弛** | 聯想內容鬆散，缺乏主體，一個問題與另一個問題之間缺乏聯繫 |\n| **自閉思考** | 極度以自我為中心，而將客觀的事實忽視、歪曲或摒除 |\n| **新語症** | 創造某個新字詞來表示某事物，常使人不易理解 |\n| **字句拼盤** | 說一些不成句子的話，無意義地把一堆單字擺在一起 |\n| **語無倫次** | 由一句話到另一句話間，毫無邏輯連貫 |\n| **答非所問** | 所答非所問。如「你今年幾歲？」、「外面下雨了」 |\n| **音韻聯接** | 語言中的字句以同音字來聯接，如「你早，早安，安全，全部…」 |",
+    "image": "/explanations/cropped/111-1-醫學(四)-60_merged.png",
+    "images": [
+      "/explanations/cropped/111-1-醫學(四)-60_merged.png"
+    ]
   }
 }
