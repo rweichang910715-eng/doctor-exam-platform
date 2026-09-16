@@ -2265,7 +2265,7 @@
       "D": "亞急性皮膚紅斑性狼瘡（subacute cutaneous lupus erythematosus）"
     },
     "answer": "C",
-    "explanation": "【詳解 答案：(C)】\n本題病灶為盤狀紅斑性狼瘡 (discoid lupus erythematosus, DLE)\nDLE 是最常見的慢性皮膚狼瘡，好發於頭頸部，會出現基底為紅色的圓盤狀病灶，病灶上面會覆蓋一層白色皮屑，並隨著疾病進展而萎縮、留疤、脫色或色素沈澱。DLE 也會影響毛囊，導致毛孔角化 (follicular hyperkeratosis)。在直接免疫螢光染色可看到 dermal-epidermal junction (DEJ) 處有線狀 IgG 沉積、skin biopsy 可見上皮層基底細胞 hydropic degeneration、局部基底細胞膜增厚等\n\n### 各選項解析\n* **(A) 皮膚淋巴癌（cutaneous lymphoma）**：主要表現為浸潤性斑塊、結節或腫塊（如 Mycosis fungoides 蕈樣肉芽腫），切片可見異型淋巴細胞親表皮性（Epidermotropism）或 Pautrier 微膿瘍，免疫螢光無特異性 DEJ 線性沉積\n* **(B) 皮膚類肉瘤（sarcoidosis）**：皮膚切片典型表現為非乾酪性肉芽腫（Non-caseating granuloma），無基底細胞液樣變性與 DEJ 免疫球蛋白沉積\n* **(C) 盤狀紅斑性狼瘡（discoid lupus erythematosus, DLE）**：正確，臨床好發於頭頸與光暴露區，切片可見表皮萎縮、毛囊角質塞（Follicular plugging）、基底細胞液樣變性、毛囊周圍淋巴球浸潤，且 DIF 可見表皮真皮交接處 IgG 線性沉積（Lupus band test 陽性）\n* **(D) 亞急性皮膚紅斑性狼瘡（subacute cutaneous lupus erythematosus, SCLE）**：SCLE 比 DLE 較少 hyperkeratosis、基底膜增厚、毛孔角化等；而 SCLE 比 DLE 更多表皮萎縮的情形，且 SCLE 癒合後通常不留萎縮性疤痕\n\n### 皮膚紅斑性狼瘡 (Cutaneous Lupus Erythematosus) 分類比較表\n| 類型 | 臨床病灶特色 | 好發部位 | 疤痕與色素異常 | 系統性侵犯 (SLE) 風險 |\n| :--- | :--- | :--- | :--- | :--- |\n| **急性皮膚狼瘡 (ACLE)** | 蝴蝶斑 (Malar rash)、廣泛紅斑 | 臉頰、鼻樑 (避開鼻唇溝) | 不留疤痕，可能短暫色素沉著 | 高度相關 (幾乎 100% 合併 SLE) |\n| **亞急性皮膚狼瘡 (SCLE)** | 環狀 (Annular) 或丘疹鱗屑狀 (Psoriasiform) | 頸部、胸前、上背部、手臂外側 | 不留疤痕，常伴隨色素脫失；光敏感性極強 (常與 Anti-Ro/SSA 相關) | 約 50% 合併輕度 SLE |\n| **慢性皮膚狼瘡 (DLE)** | 盤狀紅斑、毛囊角化塞、中央萎縮、周圍色素沉著 | 頭皮、臉部、耳朵、頸部 | **易留萎縮性疤痕、永久性脫髮** | 低度相關 (約 5~10% 進展為 SLE) |",
+    "explanation": "本題病灶為盤狀紅斑性狼瘡 (discoid lupus erythematosus, DLE)，DLE 是最常見的慢性皮膚狼瘡，好發於頭頸部，會出現基底為紅色的圓盤狀病灶，病灶上面會覆蓋一層白色皮屑，並隨著疾病進展而萎縮、留疤、脫色或色素沈澱，DLE 也會影響毛囊，導致毛孔角化 (follicular hyperkeratosis)，在直接免疫螢光染色可看到 dermal-epidermal junction (DEJ) 處有顆狀 IgG 沉積、skin biopsy 可見上皮層基底細胞 hydropic degeneration、局部基底細胞膜增厚等\n\n(D) SCLE 比 DLE 較少 hyperkeratosis、基底膜增厚、毛孔角化等；而 SCLE 比 DLE 更多表皮萎縮的情形",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-41_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-41_merged.png"
@@ -2284,7 +2284,7 @@
       "D": "若短期間內出現大量脂漏性角化症病灶，稱為Leser-Trélat sign；需注意是否合併其他惡性疾患（如胃癌）"
     },
     "answer": "A",
-    "explanation": "【詳解 答案：(A)】\n脂漏性角化症 (seborrheic keratosis) 是屬良性表皮病灶，是老化的常見徵狀。日光性角化症 (actinic keratosis) 才是一種皮膚鱗狀細胞原位癌，故此題選 (A)。國考皮膚科喜歡考一些和內科疾病或癌症有關的皮膚疾病或徵象，簡單整理下表供參考\nparaneoplastic dermatoses 是一群和內臟癌症有強烈關聯性的皮膚病灶，若為癌細胞侵入皮膚所產生的皮膚病灶，不算是副腫瘤皮膚病變\n\n### 各選項解析\n* **(A) 脂漏性角化症為一種原位癌的皮膚疾病**：錯誤（本題選 A），脂漏性角化症為最常見的良性表皮腫瘤（Benign epidermal tumor），無惡性轉化潛能；日光性角化症（Actinic keratosis）才是鱗狀細胞原位癌（Squamous cell carcinoma in situ / Bowen disease 前驅病變）\n* **(B) 日曬可能是造成此疾病的原因之一**：正確，長期紫外線暴露與皮膚老化是好發脂漏性角化症的重要危險因子\n* **(C) 好發於老年人**：正確，隨年齡增長發生率大幅增加，又稱老人斑（Senile wart）\n* **(D) 若短期間內出現大量脂漏性角化症病灶，稱為 Leser-Trélat sign；需注意是否合併其他惡性疾患（如胃癌）**：正確，Leser-Trélat sign 為典型副腫瘤徵象，常與胃腸道腺癌（如胃癌、結腸癌）等內臟惡性腫瘤相關\n\n### 副腫瘤皮膚病變 (paraneoplastic dermatoses)\n| 臨床表現 | 可能鑑別診斷 |\n| :--- | :--- |\n| **皮膚過度角化 / 增生** | 黑色棘皮症 (acanthosis nigricans)、Leser-Trélat sign、手掌絨毛狀增生 (acanthosis palmaris)、後天性魚鱗癬 (acquired ichthyosis)、掌蹠角化症 (palmoplantar keratoderma) |\n| **發炎性皮膚病灶** | Sweet syndrome、皮肌炎 (dermatomyositis)、紅皮症 (erythroderma)、匍形性回狀紅斑 (erythema gyratum repens)、遊走性表皮壞死紅斑 (necrolytic migratory erythema)、pancreatic panniculitis |\n| **水泡相關病灶** | 副腫瘤型天疱瘡 (paraneoplastic pemphigus)、黏膜類天疱瘡 (mucous membrane pemphigoid) |\n| **色素沉著** | ectopic Cushing's syndrome, metastatic melanoma |\n| **紫斑與點狀出血** | 血管炎 (vasculitis)、類澱粉沉積症 (amyloidosis) |\n| **硬皮樣皮膚病灶** | 硬化性黏液水腫 (scleromyxedema)、硬皮症 (scleredema) |\n| **頭髮 / 指甲變化** | 胎毛增多症 (hypertrichosis lanuginosa)、肥厚性骨關節病變 (hypertrophic osteoarthropathy, HOA) |",
+    "explanation": "脂漏性角化症 (seborrheic keratosis) 是屬良性表皮病灶，是老化的常見徵狀，日光性角化症 (actinic keratosis) 才是一種皮膚鱗狀細胞原位癌，故此題選 (A)，國考皮膚科喜歡考一些和內科疾病或癌症有關的皮膚疾病或徵象，簡單整理下表供參考\nparaneoplastic dermatoses 是一群和內臟癌症有強烈關聯性的皮膚病灶，若為癌細胞侵入皮膚所產生的皮膚病灶，不算是副腫瘤皮膚病變\n\n| 臨床表現 | 可能鑑別診斷 |\n| :--- | :--- |\n| 皮膚過度角化／增生 | 黑色棘皮症 (acanthosis nigricans)、Leser-Trélat sign、手掌絨毛狀增生 (acanthosis palmaris)、後天性魚鱗癬 (acquired ichthyosis)、掌蹠角化症 (palmoplantar keratoderma) |\n| 發炎性皮膚病灶 | Sweet syndrome、皮肌炎 (dermatomyositis)、紅皮症 (erythroderma)、匍形性回狀紅斑 (erythema gyratum repens)、遊走性表皮壞死紅斑 (necrolytic migratory erythema)、pancreatic panniculitis |\n| 水泡相關病灶 | 副腫瘤型天疱瘡 (paraneoplastic pemphigus)、黏膜類天疱瘡 (mucous membrane pemphigoid) |\n| 色素沉著 | ectopic Cushing's syndrome, metastatic melanoma |\n| 紫斑與點狀出血 | 血管炎 (vasculitis)、類澱粉沉積症 (amyloidosis) |\n| 硬皮樣皮膚病灶 | 硬化性黏液水腫 (scleromyxedema)、硬皮症 (scleredema) |\n| 頭髮／指甲變化 | 胎毛增多症 (hypertrichosis lanuginosa)、肥厚性骨關節病變 (hypertrophic osteoarthropathy, HOA) |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-42_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-42_merged.png"
@@ -2303,7 +2303,7 @@
       "D": "胃腸道如有息肉，常發生在大腸"
     },
     "answer": "C",
-    "explanation": "【詳解 答案：(C)】\n看到嘴巴有黑點點外加有消化道異常，馬上想到黑斑息肉症候群 (Peutz-Jeghers Syndrome)\n\n### 各選項解析\n* **(A) 自體隱性遺傳**：錯誤，為體染色體顯性遺傳（Autosomal Dominant），主要致病原因為第 19 號染色體上的 STK11 / LKB1 抑癌基因突變\n* **(B) 黏膜黑斑多在成年後才會開始出現**：錯誤，黏膜與皮膚黑色素沉著往往於嬰幼兒或孩童期即逐漸出現，至 30 歲後可能逐漸消褪\n* **(C) 常伴發胃腸道、生殖系統和其他器官的良性或惡性腫瘤**：正確，患者終生罹癌風險高達 50% 以上，常見胃腸道癌（大腸癌、胃癌、胰臟癌）及生殖系統腫瘤（乳癌、卵巢性索瘤、睪丸支持細胞瘤、子宮頸腺癌）\n* **(D) 胃腸道如有息肉，常發生在大腸**：錯誤，PJS 之缺陷瘤息肉（Hamartomatous polyps）最常發生於小腸（以空腸 jejunum、迴腸 ileum 最為多見），容易引起腸套疊或腸阻塞\n\n### 黑斑息肉症候群 (Peutz-Jeghers syndrome)\n| 項目 | 內容說明 |\n| :--- | :--- |\n| **遺傳方式** | 體染色體顯性遺傳病 (STK11/LKB1 gene) |\n| **疾病特色** | 在空腸和迴腸發生多發性消化道缺陷瘤 (hamartomatous polyps) 和腺瘤 (adenomatous polyps)，容易導致腸套疊或腸阻塞 |\n| **臨床表現** | 以口周圍皮膚、唇頰黏膜和指趾末端存在黑色素沉著和消化道存在多發息肉為特徵，常伴發胃腸道、生殖系統和其他器官的良性或惡性腫瘤。而色素沉著往往於孩童期即逐漸出現，至 30 歲後可能逐漸消褪 |\n| **疾病診斷** | 符合：<br>(1) 胃腸道內出現兩個或兩個以上的錯構息肉；或<br>(2) 出現一個錯構息肉並且有出現黑斑息肉綜合徵的家族病史；或<br>(3) 出現一個錯構息肉並且嘴唇或皮膚出現典型色素沉澱 |\n| **癌化機會** | 有研究指出存在著由錯構瘤 → 腺瘤 → 腺癌的演變過程，患者在一生中將發展成癌的可能性為 50%，癌症最普遍的部位為胃腸道，結直腸癌為最常見的類型 |\n| **臨床處置** | 孩童期：需注意腸套疊及腸阻塞之可能性<br>成人期：需注意癌症之發生；需定期追蹤檢查消化道息肉，並儘可能做息肉切除；同時也要檢查胰臟、乳房、卵巢以及子宮 |",
+    "explanation": "看到嘴巴有黑點點外加有消化道異常，馬上想到黑斑息肉症候群 (Peutz-Jeghers Syndrome)\n\n| 項目 | 內容 |\n| :--- | :--- |\n| 遺傳方式 | 體染色體顯性遺傳病 (STK11/LKB1 gene) |\n| 疾病特色 | 在空腸和迴腸發生多發性消化道缺陷瘤 (hamartomatous polyps) 和腺瘤 (adenomatous polyps)，容易導致腸套疊或腸阻塞 |\n| 臨床表現 | 以口周圍皮膚、唇頰黏膜和指趾末端存在黑色素沉著和消化道存在多發息肉為特徵，常伴發胃腸道、生殖系統和其他器官的良性或惡性腫瘤，而色素沈著往往於孩童期即逐漸出現，至 30 歲後可能逐漸消褪 |\n| 疾病診斷 | 符合：<br>(1) 胃腸道內出現兩個或兩個以上的錯構息肉；或<br>(2) 出現一個錯構息肉並且有出現黑斑息肉綜合徵的家族病史；或<br>(3) 出現一個錯構息肉並且唇或皮膚出現典型色素沉澱 |\n| 癌化機會 | 有研究指出存在著由錯構瘤 → 腺瘤 → 腺癌的演變過程，患者在一生中將發展成癌的可能性為 50%，癌症最普遍的部位為胃腸道，結直腸癌為最常見的類型 |\n| 臨床處置 | 孩童期：需注意腸套疊及腸阻塞之可能性<br>成人期：需注意癌症之發生；需定期追蹤檢查消化道息肉，並儘可能做瘜肉切除；同時也要檢查胰臟、乳房、卵巢以及子宮 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-43_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-43_merged.png"
@@ -2577,7 +2577,7 @@
       "D": "第二代抗精神病藥物主要與glutamate 機轉有關"
     },
     "answer": "C",
-    "explanation": "【詳解 答案：(C)】\n* **(A) 錯誤**，思覺失調症急性期以正性症狀為主，慢性期則以負性症狀為主\n* **(B) 錯誤**，haloperidol 屬於第一代抗精神病藥物 dopamine antagonist\n* **(C) 正確**，聯想 (association) 障礙、自閉 (autism)、情感 (affect) 冷漠及情感矛盾 (ambivalence) 是思覺失調症的四個 A 代表的四個層面障礙\n* **(D) 錯誤**，非典型（第二代）抗精神病藥物之作用除了對多巴胺接受器之阻斷作用，亦可阻斷血清素 (Serotonin) 的接受器",
+    "explanation": "(A) 錯誤，思覺失調症急性期以正性症狀為主，慢性期則以負性症狀為主\n(B) 錯誤，haloperidol 屬於第一代抗精神病藥物 dopamine antagonist\n(C) 正確，聯想 (association) 障礙、自閉 (autism)、情感 (affect) 冷漠及情感矛盾 (ambivalence) 是思覺失調症的四個 A 代表的四個層面障礙\n(D) 錯誤，非典型（第二代）抗精神病藥物之作用除了對多巴胺接受器之阻斷作用，亦可阻斷血清素 (Serotonin) 的接受器",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-59_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-59_merged.png"
@@ -2596,7 +2596,7 @@
       "D": "新語症（neologism）屬於思考形式障礙"
     },
     "answer": "C",
-    "explanation": "【詳解 答案：(C)】\n思考形式障礙指的是思考的結構發生問題，這問題可以透過與患者的交談而得知。患者可能胡言亂語、言語鬆散、令人難以理解。此症狀是思覺失調症的正性症狀之一。而 (C) 選項之思考內容的障礙則包括：妄想 (delusion)、先入為主 (preoccupation)、強迫 (obsession)、慮病 (hypochondria)、過份的念頭 (overvalued-idea) 等。以下整理出思考形式障礙的相關症狀：\n\n### 思考形式障礙的相關症狀\n| 症狀名稱 | 內容說明 |\n| :--- | :--- |\n| **聯想鬆弛** | 聯想內容鬆散，缺乏主體，一個問題與另一個問題之間缺乏聯繫 |\n| **自閉思考** | 極度以自我為中心，而將客觀的事實忽視、歪曲或摒除 |\n| **新語症** | 創造某個新字詞來表示某事物，常使人不易理解 |\n| **字句拼盤** | 說一些不成句子的話，無意義地把一堆單字擺在一起 |\n| **語無倫次** | 由一句話到另一句話間，毫無邏輯連貫 |\n| **答非所問** | 所答非所問。如「你今年幾歲？」、「外面下雨了」 |\n| **音韻聯接** | 語言中的字句以同音字來聯接，如「你早，早安，安全，全部…」 |",
+    "explanation": "思考形式障礙指的是思考的結構發生問題，這問題可以透過與患者的交談而得知，患者可能胡言亂語、言語鬆散、令人難以理解，此症狀是思覺失調症的正性症狀之一，而 (C) 選項之思考內容的障礙則包括：妄想 (delusion) 先入為主 (preoccupation) 強迫 (obsession) 慮病 (hypochondria) 過份的念頭 (overvalued-idea) 等，以下整理出思考形式障礙的相關症狀：\n\n| 症狀 | 說明 |\n| :--- | :--- |\n| 聯想鬆弛 | 聯想內容鬆散，缺乏主體，一個問題與另一個問題之間缺乏聯繫 |\n| 自閉思考 | 極度以自我為中心，而將客觀的事實忽視、歪曲或摒除 |\n| 新語症 | 創造某個新字詞來表示某事物，常使人不易理解 |\n| 字句拼盤 | 說一些不成句子的話，無意義地把一堆單字擺在一起 |\n| 語無倫次 | 由一句話到另一句話間，毫無邏輯連貫 |\n| 答非所問 | 所答非所問，如「你今年幾歲？」、「外面下雨了」 |\n| 音韻聯接 | 語言中的字句以同音字來聯接，如「你早，早安，安全，全部…」 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-60_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-60_merged.png"
@@ -2615,7 +2615,7 @@
       "D": "早發的憂鬱症以及治療效果不佳者，將來可能轉變為雙相情緒障礙症的診斷"
     },
     "answer": "A",
-    "explanation": "【詳解 答案：(A)】\n* **(A) 錯誤**（本題選 A），躁鬱症患者終身的物質濫用盛行率將近五成，而在憂鬱症患者中約三成（記憶：有躁期才有動力去找藥物來 high）\n* **(B) 正確**，雙相情緒障礙症在嚴重躁期或鬱期時，可能出現與情緒一致（Mood-congruent）或不一致的幻聽或妄想等精神病症狀\n* **(C) 正確**，每次躁症發作都會增加神經毒性與後續發作頻率，因此臨床治療上需要長期使用情緒穩定劑以預防復發\n* **(D) 正確**，其中一部分躁鬱症患者在疾病一開始以 depression episode 來表現，此時難以和憂鬱症鑑別，早發及抗藥性憂鬱症將來轉變為雙相情緒障礙症的機率較高",
+    "explanation": "(A) 錯誤，躁鬱症患者終身的物質濫用盛行率將近五成，而在憂鬱症患者中約三成（記憶：有躁期才有動力去找藥物來 high）\n(B)(C)(D) 皆為正確選項，其中一部分躁鬱症患者在疾病一開始以 depression episode 來表現，此時難以和憂鬱症鑑別，因此才會有 (D) 選項的情況發生",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-61_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-61_merged.png"
@@ -2634,7 +2634,7 @@
       "D": "aripiprazole"
     },
     "answer": "C",
-    "explanation": "【詳解 答案：(C)】\n此題出的滿細的。部分抗癲癇藥物如 Lamotrigine、Valproate、Carbamazepine 等可穩定躁鬱症病人的情緒，但是 lamotrigine 並沒有獲得 FDA 治療躁症 (mania) 的適應症（Lamotrigine 僅核准用於躁鬱症維持期預防鬱期發作）。下表簡單整理一些藥物在躁鬱症中 FDA 核准的情況：\n\n### 躁鬱症常用藥物 FDA 核准適應症比較表\n| 藥物名稱 (Medication) | 急性躁期 (Mania) | 混合發作 (Mixed) | 雙相鬱期 (Depression) | 維持期 (Maintenance) |\n| :--- | :---: | :---: | :---: | :---: |\n| **Lithium (鋰鹽)** | ✓ | - | - | ✓ |\n| **Lamotrigine (樂命達)** | - | - | - | **✓ (預防鬱期)** |\n| **Carbamazepine** | ✓ | ✓ | - | - |\n| **Valproate (帝拔癲)** | ✓ | ✓ | - | - |\n| **Aripiprazole** | ✓ | ✓ | - | ✓ |\n| **Asenapine** | ✓ | ✓ | - | ✓ |\n| **Chlorpromazine** | ✓ | - | - | - |\n| **Olanzapine** | ✓ | ✓ | - | ✓ |\n| **Quetiapine** | ✓ | ✓ | ✓ | ✓ |\n| **Risperidone** | ✓ | ✓ | - | ✓ |\n| **Ziprasidone** | ✓ | ✓ | - | ✓ |\n| **Olanzapine + Fluoxetine** | - | - | ✓ | - |",
+    "explanation": "此題出的滿細的，部分抗癲癇藥物如 Lamotrigine、Valproate、Carbamazepine 等可穩定躁鬱症病人的情緒，但是 lamotrigine 並沒有獲得 FDA 治療躁症 (mania) 的適應症，下表簡單整理一些藥物在躁鬱症中 FDA 核准的情況\n\n| Medication | Mania | Mixed | Depression | Maintenance |\n| :--- | :---: | :---: | :---: | :---: |\n| Lithium | ✓ | | | ✓ |\n| Lamotrigine | | | | ✓ |\n| Carbamazepine | ✓ | ✓ | | |\n| Valproate | ✓ | | | |\n| Aripiprazole | ✓ | ✓ | | ✓ |\n| Asenapine | ✓ | ✓ | | |\n| Chlorpromazine | ✓ | | | |\n| Olanzapine | ✓ | ✓ | | ✓ |\n| Quetiapine | | | ✓ | |\n| Risperidone | ✓ | ✓ | | |\n| Ziprasidone | ✓ | ✓ | | |\n| Olanzapine + Fluoxetine | | | ✓ | |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-62_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-62_merged.png"
@@ -2653,7 +2653,7 @@
       "D": "conversion disorder"
     },
     "answer": "B",
-    "explanation": "【詳解 答案：(B)】\n本題主要測驗考生對於懷疑是裝病或是詐病的身體型疾患之名詞定義是否清楚\n\n### 各選項解析\n* **(A) 慮病症 (hypochondriasis / illness anxiety disorder)**：患者常過度關心身體狀況，懷疑自己罹患重大疾病，稍有病痛就胡思亂想，形成一種慮病的心理狀態，但是並非真正喪失生理上的功能，亦非刻意偽裝症狀\n* **(B) 裝病症候群 / 人為疾患 (factitious disorder / Munchausen syndrome)**：患者有意識的裝病取得「內在好處」，取得疾病角色（Sick role），獲取醫療上的關注或是同情。本題有特別註明個案生病及住院並沒有明顯外在利益或目的，因此選 (B) 為正解\n* **(C) 詐病 (malingering)**：患者有意識的裝病取得「實質的外在好處」，像是休假、逃避兵役和坐牢或是獲取賠償金等\n* **(D) 轉化症 (conversion disorder)**：和上述不同的是，患者的疾病症狀不是故意裝出來的。如果他們說看不見，真的就是看不見；如果他們說沒力，就是真的一點力氣也沒有。在那個當下，是真實的存在失能與困難。這也是醫療最大的困難之所在，只能在長期監控之下，才能確信心理層面上的問題\n\n> 補充：思考這類疾病的時候可先判斷患者的行為是「有意識的」還是「無意識的」，再去評估個案生病及住院是否有「外在利益或目的」，進而作出鑑別診斷",
+    "explanation": "本題主要測驗考生對於懷疑是裝病或是詐病的身體型疾患之名詞定義是否清楚\n(A) 慮病症 (hypochondriasis)：患者常過度關心身體狀況，懷疑自己罹患重大疾病，稍有病痛就胡思亂想，形成一種慮病的心理狀態，但是並非真正喪失生理上的功能\n(B) 裝病症候群 (factitious disorder)：患者有意識的裝病取得「內在好處」，取得疾病角色，獲取醫療上的關注或是同情，本題有特別註明個案生病及住院並沒有明顯外在利益或目的，因此選 (B) 為正解\n(C) 詐病 (malingering)：患者有意識的裝病取得「實質的外在好處」，像是休假、逃避兵役和坐牢或是獲取賠償金等\n(D) 轉化症 (conversion disorder)：和上述不同的是，患者的疾病症狀不是故意裝出來的，如果他們說看不見，真的就是看不見；如果他們說沒力，就是真的一點力氣也沒有，在那個當下，是真實的存在失能與困難，這也是醫療最大的困難之所在，只能在長期監控之下，才能確信心裡層面上的問題\n\n<補充> 思考這類疾病的時候可先判斷患者的行為是有意識的還是無意識的，再去評估個案生病及住院是否有外在利益或目的，進而作出鑑別診斷",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-63_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-63_merged.png"
@@ -2672,7 +2672,7 @@
       "D": "panic disorder"
     },
     "answer": "B",
-    "explanation": "【詳解 答案：(B)】\n這題與【111-1 (四) 63】考點類似，患者有意識的裝病以取得實際的外在好處（逃避兵役），故屬於詐病之行為，本題選 (B)\n\n### 身體型疾患與裝病/詐病鑑別診斷表\n| 疾病類型 | 與疾病的關係 | 原因 / 目的 (動機) |\n| :--- | :--- | :--- |\n| **慮病症 (Illness anxiety disorder)** | 害怕自己有病 (無意裝病) | 就是怕 (對健康過度焦慮) |\n| **裝病症候群 / 人為疾患 (Factitious disorder)** | 想要呈現自己有病 (故意造假) | **求關注 / 取得病人角色 (內在心理需求)** |\n| **詐病 (Malingering)** | 想要呈現自己有病 (故意造假) | **取得實際利益 (逃避兵役、獲取賠償等外在動機)** |\n| **轉化症 (Conversion disorder)** | 真的出現神經症狀 (非故意造假) | 心理衝突轉化為身體神經症狀 |",
+    "explanation": "這題與【111-1(四)63】考點類似，患者有意識的裝病以取得實際的外在好處（逃避兵役），故屬於詐病之行為，本題選 (B)\n\n| 診斷 | 與疾病的關係 | 原因／目的 |\n| :--- | :--- | :--- |\n| 慮病症 | 害怕自己有病 | 就是怕 |\n| 裝病症候群 | 想要呈現自己有病 | 求關注 |\n| 詐病症 | 想要呈現自己有病 | 取得實際利益 |\n| 轉化症 | 真的有病，但難以解釋 | 難以解釋 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-64_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-64_merged.png"
@@ -2691,7 +2691,7 @@
       "D": "paralysis是最常見的症狀之一"
     },
     "answer": "D",
-    "explanation": "【詳解 答案：(D)】\n轉化症 (conversion disorder) 是一個非常特別的心理疾病，患者的身體會突然呈現出某種功能上的缺失，常見的症狀為下肢的感覺缺失或癱瘓、失語症、暈厥、失明、甚至較少見的解離性痙攣等。患者的這些神經學症狀難以用一個神經學疾病解釋，而經過檢查後，也往往在生理上卻找不到任何問題\n\n### 各選項解析\n* **(A) 錯誤**，pseudoseizure (non-epileptic seizures) 和 seizure 兩者是可以並存的，兩者的發作可以是有順序性的或是同時的 (sequential and simultaneous)。而在抽搐的形態上則各有特色：pseudoseizure 會有由一邊到另一邊的不同步運動 (asynchronous or side-to-side movements) 或是哭泣與閉眼等表現；而 seizure 則是同步且持續不停地抽搐 (synchronous and continuous)，而且眼睛通常是張開的\n* **(B) 錯誤**，astasia-abasia 指的是失去穩定站立或是走路的功能而呈現的一種特殊步態，但是病患的 motor strength and voluntary coordination 是正常的；雖然此症狀很常是因為轉化症引起，但 weakness and paralysis 才是轉化症最常見的動作異常\n* **(C) 錯誤**，轉化症病患易呈現「漂亮的不關心 (la belle indifférence)」，對自身的症狀一派輕鬆、無所謂之灑脫模樣；但教科書有特別提及，la belle indifférence 在轉化症中雖然常見，但並非特定疾病的特徵 (not pathognomonic)\n* **(D) 正確**，轉化症最明顯的症狀是突發性感覺、運動系統方面的異常，如突然癱瘓 (paralysis)、失明、肢體抽搐、不能說話等等",
+    "explanation": "轉化症 (conversion disorder) 是一個非常特別的心理疾病，患者的身體會突然呈現出某種功能上的缺失，常見的症狀為下肢的感覺缺失或癱瘓、失語症、暈厥、失明、甚至較少見的解離性痙攣等，患者的這些神經學症狀難以用一個神經學疾病解釋，而經過檢查後，也往往在生理上卻找不到任何問題\n(A) 錯誤，pseudoseizure (non-epileptic seizures) 和 seizure 兩者是可以並存的，兩者的發作可以是有順序性的或是同時的 (sequential and simultaneous)，而在抽搐的形態上則各有特色，pseudoseizure 會有由一邊到另一邊的不同步運動 (asynchronous or side-to-side movements) 或是哭泣與閉眼等表現，而 seizure 則是同步且持續不停地抽搐 (synchronous and continuous)，而且眼睛通常是張開的\n(B) 錯誤，astasia-abasia 指的是失去穩定站立或是走路的功能而呈現的一種特殊步態，但是病患的 motor strength and voluntary coordination 是正常的，雖然此症狀很常是因為轉化症引起，但 weakness and paralysis 才是轉化症最常見的動作異常\n(C) 錯誤，轉化症病患易呈現「漂亮的不關心 (la belle indifference)」，對自身的症狀一派輕鬆、無所謂之灑脫模樣，但教科書有特別提及，la belle indifference 在轉化症中雖然常見，但並非特定疾病的特徵 (not pathognomonic)\n(D) 正確，轉化症最明顯的症狀是突發性感覺、運動系統方面的異常，如突然癱瘓、失明、肢體抽搐、不能說話等等",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-65_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-65_merged.png"
@@ -2710,7 +2710,7 @@
       "D": "為加速戒除長期使用benzodiazepine的病患，安排住院後宜立即停用所有benzodiazepine"
     },
     "answer": "D",
-    "explanation": "【詳解 答案：(D)】\nBZD 長期服用後易產生耐藥性及依賴性，驟然的停藥可能會發生反彈性失眠及戒斷症狀，故其停藥可藉由漸進式減量再停藥來改善反彈性失眠及戒斷症狀。在成癮性的部分，用的時間越長、劑量越大，半衰期越短（如：Alprazolam、Lorazepam）及停藥的速度越快，越容易產生戒斷症候群。戒斷相關症狀包括焦慮、焦躁不安、手腳發抖、心跳與血壓上升、冒冷汗、耳鳴、頭痛及失眠等等，更嚴重的甚至會有憂鬱、妄想、抽搐及譫妄等症狀\n\n### 各選項解析\n* **(A) 正確**，使用 BZD 治療失眠應以最低有效劑量、最短療程為原則，避免長期依賴\n* **(B) 正確**，老年人因藥物代謝變慢與肌肉鬆弛作用，使用 BZD 易出現過度鎮靜、共濟失調，需特別注意跌倒與骨折風險\n* **(C) 正確**，短效 BZD（如 Triazolam, Alprazolam）因作用快速、血中濃度起伏大，比長效型更易產生心理與生理成癮性及反彈性失眠\n* **(D) 錯誤**（本題選 D），長期使用 BZD 者若驟然完全停藥，極易誘發嚴重戒斷症狀（如癲癇抽搐、譫妄），應採取漸進式減量（每週減少 10~25% 劑量）或先轉換為長效型 BZD（如 Diazepam, Clonazepam）後再緩慢調降",
+    "explanation": "BZD 長期服用後易產生耐藥性及依賴性，驟然的停藥可能會發生反彈性失眠及戒斷症狀，故其停藥可藉由漸進式減量再停藥來改善反彈性失眠及戒斷症狀，在成癮性的部分，用的時間越長、劑量越大，半衰期越短 (如：Alprazolam、Lorazepam) 及停藥的速度越快，越容易產生戒斷症候群，戒斷相關症狀包括焦慮、焦躁不安、手腳發抖、心跳、血壓上昇、冒冷汗、耳鳴、頭痛及失眠等等，更嚴重的甚至會有憂鬱、妄想、抽搐及譫妄等症狀",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-66_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-66_merged.png"
@@ -2729,7 +2729,7 @@
       "D": "決策（decision making）"
     },
     "answer": "C",
-    "explanation": "【詳解 答案：(C)】\n記憶題，DSM-5 中認知功能範疇的執行功能中包含：planning、decision making、working memory、responding to feedback、inhibition and flexibility。故此題應選 (C)（操作能力屬於 Perceptual-motor function 範疇）\n\n### DSM-5 六大認知領域 (Cognitive Domains) 對照表\n| 認知領域 (Cognitive Domain) | 包含之核心功能與範疇 |\n| :--- | :--- |\n| **Executive function (執行能力)** | Planning (計畫)、decision making (決策)、working memory (工作記憶)、inhibition and mental flexibility (抑制與心智彈性)、responding to feedback / error correction (錯誤修正) |\n| **Learning and memory (學習及記憶力)** | Free recall (自由回憶)、cued recall (提示回憶)、semantic and autobiographical long term memory (語意與自傳式長期記憶)、implicit learning (內隱學習) |\n| **Language (語言)** | Object naming (物體命名)、word finding (找字)、fluency (流暢度)、grammar and syntax (文法與句構) |\n| **Perceptual-motor function (感知與動作)** | Visual perception (視覺感知)、visuoconstructional reasoning (視覺建構推理)、perceptual-motor coordination / praxis (感知動作協調與操作能力) |\n| **Complex attention (整體注意力)** | Sustained attention (持續注意力)、divided attention (分散注意力)、selective attention (選擇性注意力)、information processing speed (訊息處理速度) |\n| **Social cognition (社交認知)** | Recognition of emotions (情緒識別)、theory of mind (心智理論)、insight (洞察力) |",
+    "explanation": "記憶題，DSM-5 中認知功能範疇的執行功能中包含：planning、decision making、working memory、responding to feedback、inhibition and flexibility，故此題應選 (C)\n\n六大認知領域 (cognitive domain)：\n\n| 認知領域 | 內容 |\n| :--- | :--- |\n| Executive function（執行能力） | planning, decision making, working memory, inhibition and mental flexibility |\n| Learning and memory（學習及記憶力） | free recall, cued recall, semantic and autobiographical long term memory, and implicit learning |\n| Language（語言） | object naming, word finding, fluency, grammar and syntax |\n| Perceptualmotor function（感知與動作） | visual perception, visuoconstructional reasoning and perceptualmotor coordination |\n| Complex attention（整體注意力） | sustained attention, divided attention, selective attention and information processing speed |\n| Social cognition（社交認知） | recognition of emotions, theory of mind and insight |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-67_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-67_merged.png"
@@ -2748,7 +2748,7 @@
       "D": "患者通常發生在感染愛滋病毒（HIV）的前、中期階段就出現精神病症狀，可使用抗精神病藥物治療"
     },
     "answer": "D",
-    "explanation": "【詳解 答案：(D)】\n仔細觀察可以發現 (B) 和 (D) 相互牴觸\n\n### 各選項詳細解析\n* **(A) 正確**，HIV 感染的初期症狀往往不明顯，或是與感冒相似，如：發燒、淋巴結腫大、咽喉炎、皮疹、肌肉疼痛、疲倦，口腔潰瘍等，還可能出現頭痛、噁心嘔吐、肝/脾腫大、體重下降、神經系統病變等\n* **(B) 正確**，愛滋病患者若出現記憶衰退、思考障礙、難以專注、口齒不清晰等症狀，稱為 HIV dementia，其原因是病毒侵犯中樞神經系統，是一預後不良的跡象\n* **(C) 正確**，HIV 病毒是透過血液、精液、陰道分泌液、乳汁而傳染，因此各種性行為、輸血、共用針頭、毒品的靜脈注射都是已知的傳染途徑\n* **(D) 錯誤**（本題選 D），HIV-associated Neurocognitive Disorder (HAND) 通常在疾病中晚期（CD4 顯著低下時）才會出現；若出現精神病症狀目前治療選擇為 anti-psychotics，但 HIV 病患中樞對錐體外症候群（EPS）較為敏感，故臨床上會盡量避免使用 high-potency 的典型抗精神病藥物（如：haloperidol），宜優先選用非典型（第二代）抗精神病藥",
+    "explanation": "仔細觀察可以發現 (B) 和 (D) 相互牴觸\n(A) 正確，HIV 感染的初期症狀往往不明顯，或是與感冒相似，如：發燒、淋巴結腫大、咽喉炎、皮疹、肌肉疼痛、疲倦，口腔潰瘍等，還可能出現頭痛、噁心嘔吐、肝/脾腫大、體重下降、神經系統病變等\n(B) 正確，愛滋病患者若出現記憶衰退、思考障礙、難以專注、口齒不清晰等症狀，稱為 HIV dementia，其原因是病毒侵犯中樞神經系統，是一預後不良的跡象\n(C) 正確，HIV 病毒是透過血液、精液、陰道分泌液、乳汁而傳染，因此各種性行為、輸血、共用針頭、毒品的靜脈注射都是已知的傳染途徑\n(D) 錯誤，HIV-associated Neurocognitive Disorder (HAND) 通常在疾病中晚期才會出現，目前治療選擇為 anti-psychotics，但 HIV 病患比較容易出現 EPS，故臨床上會盡量避免使用 high-potency 的 anti-psychotics (如：haloperidol)",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-68_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-68_merged.png"
@@ -2767,7 +2767,7 @@
       "D": "methadone藥效不及24小時，所以每天須至少使用兩次"
     },
     "answer": "B",
-    "explanation": "【詳解 答案：(B)】\n鴉片類藥物在精神科常常出題，藥理學的副作用和戒斷症狀也建議詳讀\n\n### 各選項詳細解析\n* **(A) 錯誤**，methadone 還是會出現一些類似嗎啡等鴉片類藥物的作用，且在使用期間有生理性依賴的可能，但它可以減緩海洛因成癮者的戒斷症狀\n* **(B) 正確**，methadone 通常以口服糖漿的方式給予，因此可以降低成癮者共用針頭感染血液傳染病（如 HIV、B/C 型肝炎）的風險\n* **(C) 錯誤**，methadone 目前在台灣是第二級管制藥品，海洛因（Heroin）則是第一級管制藥品\n* **(D) 錯誤**，methadone 口服半衰期長，一劑藥效可持續約 24 小時以上，相較海洛因的效力只持續數小時，methadone 通常一天服用一次即可維持血中穩定濃度",
+    "explanation": "鴉片類藥物在精神科常常出題，藥理學的副作用和戒斷症狀也建議詳讀\n(A) 錯誤，methadone 還是會出現一些類似嗎啡等鴉片類藥物的作用，且在使用期間有生理性依賴的可能，但他可以減緩海洛因成癮者的戒斷症狀\n(B) 正確，methadone 通常以糖漿的方式給予，因此可以降低成癮者共用針頭感染其他疾病的風險\n(C) 錯誤，methadone 目前是第二級管制藥品，海洛因則是第一級管制藥品\n(D) 錯誤，methadone 一劑可持續約 24 小時，相較海洛因的效力只持續數小時，methadone 通常一天服用一次即可",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-69_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-69_merged.png"
@@ -2786,7 +2786,7 @@
       "D": "酒精戒斷有可能出現幻覺"
     },
     "answer": "C",
-    "explanation": "【詳解 答案：(C)】\n### 各選項詳細解析\n* **(A) 正確**，依我國道路交通安全規則規定，違規酒駕標準為吐氣所含酒精濃度達 0.15 mg/L 或血液中酒精濃度達 0.03% (30 mg/dL) 以上；若達 0.25 mg/L 則涉及刑法公共危險罪\n* **(B) 正確**，酒精雖然具中樞鎮靜效果可縮短入睡潛伏期，但會破壞睡眠架構，顯著減少深層睡眠（Stage 3/4 slow wave sleep）及快速動眼期（REM sleep），導致後半夜頻繁醒來、睡眠片段化，整體睡眠品質欠佳\n* **(C) 錯誤**（本題選 C），酒精戒斷初期（停止飲酒 6~12 小時內）最常見的症狀為交感神經過度興奮，表現為**失眠（Insomnia）、焦慮、手抖（Tremor）、心搏過速、血壓上升、出汗**，而非嗜睡\n* **(D) 正確**，酒精戒斷可能出現酒精性幻覺症（Alcohol hallucinosis，多為聽幻覺或視幻覺，意識通常清楚）以及嚴重的震顫性譫妄（Delirium Tremens, DT，常伴隨生動視幻覺、意識混亂與自主神經失調）",
+    "explanation": "(A) 正確，飲用酒類或其他類似物後其吐氣所含酒精濃度達 0.15 mg/L 或血液中酒精濃度達 0.03% 以上，即算酒駕\n(B) 正確，酒精可以讓入睡變快，但會降低深層睡眠時間，使得整體睡眠品質欠佳\n(C) 錯誤，酒精戒斷初期會出現焦慮手抖\n(D) 正確，戒斷的精神症狀包括視覺、聽覺、觸覺等幻覺",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-70_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-70_merged.png"
@@ -2919,7 +2919,7 @@
       "D": "對於中毒病人，重要治療包括支持療法及給與足夠鎮定劑"
     },
     "answer": "C",
-    "explanation": "安非他命的戒斷症狀包括焦躁不安、困倦、失眠、侵略性、抑鬱等，因此全部選項皆為正確\n\n### 安非他命簡介\n\n| 項目 | 說明 |\n| :--- | :--- |\n| 作用機轉 | 阻擋神經傳導物質包括（Dopamine, Norepinephrine, Serotonin）的回收，使突觸間隙的神經傳導物質濃度高於正常值 |\n| 代謝 | 安非他命經由消化道吸收，然後在肝臟失去活性，將近一半以原貌由尿液排出，在體內的半衰期為 6-12 小時，而在服用安非他命後的 1-3 天內都可以由尿液檢出 |\n| 臨床表現 | - 輕度：初期會發生煩躁不安、身體顫抖、無法入睡、心悸、目眩頭暈、頭痛、食慾下降及性慾不振<br>- 中度：濫用量增加會愛說話、激動不安、發汗、血壓上升、發熱胸痛、昏厥及心臟衰竭<br>- 重度：過量濫用導致幻覺、昏迷、抽搐、腦出血及休克致死 |\n| 戒斷症狀 | 焦躁不安（Dysphoria）、困倦（Drowsiness）、失眠（Insomnia）、侵略性（Aggression）、抑鬱（Depression）等等 |\n| 治療 | 給予鎮靜劑、症狀治療、心理動力治療 |",
+    "explanation": "安非他命的戒斷症狀包括焦躁不安、困倦、失眠、侵略性、抑鬱等，因此全部選項皆為正確\n\n安非他命簡介\n\n| 項目 | 說明 |\n| :--- | :--- |\n| 作用機轉 | 阻擋神經傳導物質包括（Dopamine, Norepinephrine, Serotonin）的回收，使突觸間隙的神經傳導物質濃度高於正常值 |\n| 代謝 | 安非他命經由消化道吸收，然後在肝臟失去活性，將近一半以原貌由尿液排出，在體內的半衰期為 6-12 小時，而在服用安非他命後的 1-3 天內都可以由尿液檢出 |\n| 臨床表現 | - 輕度：初期會發生煩躁不安、身體顫抖、無法入睡、心悸、目眩頭暈、頭痛、食慾下降及性慾不振<br>- 中度：濫用量增加會愛說話、激動不安、發汗、血壓上升、發熱胸痛、昏厥及心臟衰竭<br>- 重度：過量濫用導致幻覺、昏迷、抽搐、腦出血及休克致死 |\n| 戒斷症狀 | 焦躁不安（Dysphoria）、困倦（Drowsiness）、失眠（Insomnia）、侵略性（Aggression）、抑鬱（Depression）等等 |\n| 治療 | 給予鎮靜劑、症狀治療、心理動力治療 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-77_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-77_merged.png"
@@ -2938,7 +2938,7 @@
       "D": "手掌或腳掌出現小而無痛的出血性斑塊病灶稱為Janeway lesions"
     },
     "answer": "B",
-    "explanation": "此題考的是感染性心內膜炎的身體表徵，詳見以下表格整理\n\n### Endocarditis Signs\n\n| 徵象 | 說明 |\n| :--- | :--- |\n| Splinter hemorrhage | 出現在指甲床下之微血管出血 |\n| Roth spots | 出現在視神經盤附近之橢圓狀視網膜出血，中心蒼白 |\n| Osler nodes | 出現在手指或腳趾末端之有壓痛的皮下紅紫色結節 |\n| Clubbing fingers | 出現在指節末端的球狀軟組織腫脹 |\n| Janeway lesions | 出現於手掌或腳掌，小而無痛的出血性斑塊 |",
+    "explanation": "此題考的是感染性心內膜炎的身體表徵，詳見以下表格整理\n\nEndocarditis Signs\n\n| 徵象 | 說明 |\n| :--- | :--- |\n| Splinter hemorrhage | 出現在指甲床下之微血管出血 |\n| Roth spots | 出現在視神經盤附近之橢圓狀視網膜出血，中心蒼白 |\n| Osler nodes | 出現在手指或腳趾末端之有壓痛的皮下紅紫色結節 |\n| Clubbing fingers | 出現在指節末端的球狀軟組織腫脹 |\n| Janeway lesions | 出現於手掌或腳掌，小而無痛的出血性斑塊 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-78_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-78_merged.png"
