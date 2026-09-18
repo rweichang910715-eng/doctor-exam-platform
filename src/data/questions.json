@@ -4711,8 +4711,8 @@
       "D": "大於8 kHz"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "噪音引發的永久性聽力損失 (Noise-induced Permanent Threshold Shift, NIPTS) 在噪音暴露早期影響 3~6 kHz 段最明顯，故選擇 (C)。以下簡單補充噪音引發聽損的病理機制：\n• 暫時性聽力閥值變化 (temporary threshold shift, TTS)\n  - 在暴露到音量大的噪音時，會產生暫時性的聽力喪失，並且會在 24 小時內完全恢復\n  - 通常越高的頻率越敏感，也越容易受損\n• 噪音引發永久性聽損 (NIPTS)\n  - 長期噪音暴露，導致聽力並未能恢復\n  - 初期聽損明顯的頻率段為 3~6 kHz，可能原因包含：人對高頻聲最敏感、保護性反射（即 acoustic reflex）僅針對 <2 kHz 聲音、耳蝸底部的外毛細胞對氧化壓力敏感\n  - 隨著暴露繼續，其受損頻率範圍會往低頻處擴展；但若早期就停止噪音暴露，則聽損不太會繼續惡化",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-21_merged.png",
     "explanation_images": null
   },
   {
@@ -4728,8 +4728,8 @@
       "D": "nasometry可評估鼻腔之立體構造"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Nasometry（鼻音測量）主要是用來間接評估顎咽閉合不全 (velopharyngeal insufficiency) 或是顎裂的病童，相對於侵入性的鼻內視鏡直接觀察軟顎與咽部在說話 / 唱歌時閉合情況，Nasometry 為非侵入性的，在說話 / 唱歌時接收鼻腔與口腔的壓力與氣流後，以此評估顎咽閉合狀況。以下為關於 Nasometry 的補充，其測量主要分成兩部分：\n• 當受試者發母音時，可以藉此評估鼻腔共鳴 (nasalance)\n• 當受試者發子音時，可以藉此評估異常的氣流自鼻洩出 (nasal emission)，暗示上顎裂或有顎咽閉合不全的問題\n\n(A) acoustic rhinometry（聲反射鼻量計）：透過反射聲波測量鼻腔橫截面面積及鼻道容積\n(B) rhinomanometry（鼻阻壓檢查）：測量吸氣及呼氣時，鼻子前端和後端的壓力差和氣流差，進而得鼻阻力＝壓力差 / 氣流差\n(C) nasal peak flowmetry：評估最大吸氣量下鼻腔的氣流量",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-22_merged.png",
     "explanation_images": null
   },
   {
@@ -4745,8 +4745,8 @@
       "D": "Staphylococcus aureus"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "原始答案為 (D)。急性化膿性中耳炎常見菌包含 S. pneumonia、H influenza、Moraxella catarrhalis，而 S. aureus 被列在不常培養出的細菌之中；而急性細菌性鼻竇炎常次發於急性病毒性鼻炎，教科書提及常見的菌種包含 S. penumoniae (20-43%)、H. influenza (22-35%)、M. catarrhalis (2-6%) 與厭氧菌 (<5%)，但 S. aureus 的比例並未多做說明。筆者覺得送分原因可能是 S. aureus 在急性鼻竇炎中並未明確說明其常見程度，又從文獻上搜尋仍處於未定論狀態，有的文章表示是 major pathogen，有的文章表示其培養出來量與健康人常在菌量無異，所以可能是 (D) 送分的原因",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-23_merged.png",
     "explanation_images": null
   },
   {
@@ -4762,8 +4762,8 @@
       "D": "念珠菌感染（candidiasis）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "看完題目敘述大致可以得到答案，關鍵字像是「糖尿病」暗示病人免疫力較差、「吸入式類固醇」說明口腔黏膜等處於免疫抑制的狀態，又見「瀰漫性喉部點狀白色病灶」，可以推斷最可能診斷為伺機性的 (D) 念珠菌感染。以下補充其他選項：\n(A) 白斑 (leukoplakia)：為異常的上皮細胞增生與變異，好發位置在舌側與口腔壁，與鱗狀上皮癌相關。（此題從病史提供的資訊並不是很像此病灶的臨床特色）\n(B) 乳突瘤病 (papillomatosis)：典型為外生型 (exophytic) 的病灶，與免疫缺陷、HPV 感染相關\n(C) 白喉 (diphtheria)，為一種「急性」的上呼吸道感染症，除了喉嚨痛外，常會有淋巴結腫大，比較多發生於嬰兒童族群，並在口腔、喉部黏膜形成大片白色偽膜 (pseudomembrane)",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-24_merged.png",
     "explanation_images": null
   },
   {
@@ -4779,8 +4779,8 @@
       "D": "圖四：聲帶水腫（Reinke edema）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "此題頗困難，一次考了四張圖。(B) 為聲帶息肉 (vocal polyp)：單側 / 雙側病灶，典型為外生型 (exophytic) 的乾淨病灶，有時可能有局部出血呈現紅色（如圖），為 hemorrhagic polyp。其餘圖片診斷如下：\n• 圖一：應為聲帶結節 (vocal nodule)：主要長在聲帶中段、對稱性的雙側病灶\n• 圖三：可能是聲帶囊腫 (vocal cyst)：為單側 / 雙側的病灶，長在聲帶表皮下區域或是靠近韌帶區\n• 圖四：是聲帶肉芽腫 (vocal fold granuloma)：為一種慢性發炎導致的疾病，主要長在聲帶突 (vocal process)、靠近勺狀軟骨 (arytenoid cartilage) 處，可能與插管有關\n(A) 聲帶白斑 (leukoplakia)：為白色斑點狀的病灶，零星分布在單側或雙側聲帶上\n(D) 聲帶水腫 (Reinke edema)：雙側 / 單側，在聲帶表皮下區域產生膠狀的滲出液沉積。此狀況與喉咽逆流疾病 (laryngopharyngeal reflux disease)、vocal abuse、抽菸相關",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-25_merged.png",
     "explanation_images": null
   },
   {
@@ -4796,8 +4796,8 @@
       "D": "需先施行同步放化療，再追加輔助性化療（adjuvant chemotherapy）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "鼻咽癌 Stage II 病人通常是有淋巴轉移 (N1) 或是沒有淋巴轉移的 T2，就目前臨床研究證據以及 NCCN 指引，適用的治療是同步化放療 (concurrent systemic therapy)\n\n至於 (C) 與 (D) 選項提及的其餘化療時機，通常是 Stage II 有 High-risk feature（腫瘤很大 / EBV DNA 量很高），或者是 T3-4、N1-3 時的狀況會考慮",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-26_merged.png",
     "explanation_images": null
   },
   {
@@ -4813,8 +4813,8 @@
       "D": "咽後壁（posterior pharyngeal wall）癌"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "咽後淋巴結的引流區域包含鼻咽、耳咽管、軟顎、副鼻竇、中耳與咽部，因此 (A)、(C)、(D) 皆可能轉移至此。而舌頭（即口腔內）主要優先引流的淋巴結為 Level IA 的頷下淋巴結 (submental lymph node) 或 Level IB 的頜下淋巴結 (submandibular lymph node)，後續匯流至 Level IIA 的 Upper Jugular lymph node，再經 Level III 與 Level IV，不太會跑到咽後淋巴結，故 (B) 為最適合的答案。以下簡單補充頸部淋巴結分類與引流：\n\n| Neck Level | LN group | 自____引流 | 流出往____ |\n| :--- | :--- | :--- | :--- |\n| Level IA | Submental | 臉頰、下唇、舌尖、口腔底 | Level IB, II, III |\n| Level IB | Submandibular | 鼻、臉頰、前鼻腔、下唇、口腔、頜下腺 | Level II, III |\n| Level IIA, IIB | Upper jugular chain | 耳廓、下頜骨角、口腔、鼻腔、鼻/口/下咽、腮腺、後咽 LN、枕後 LN | Level III~V |\n| Level III | Middle jugular chain | 口腔、Level IA/IB/II | Level IV |\n| Level IV | Lower jugular chain | 後側頭皮、頸部、氣管旁 LN、Level III | 胸管 |\n| Level VA | Spinal accessory chain | 後側頭皮、頸部、鼻咽、後枕 LN、後咽 LN | Level IV |\n| Level VB | Supraclavicular and Transverse cervical | 腋下 LN、Level II & III | Level IV |\n| Level VI | Anterior jugular | 前側頸部、喉、下咽、甲狀腺、氣管、頸段食道 | Level II~IV |\n| Other | Retroauricular | 顳側頭皮、耳後、外耳道 | Level II |\n| Other | Facial(Buccal) | 臉頰、口腔 | Level IB, II |\n| Other | Retropharyngeal | 鼻咽、耳咽管、軟顎、副鼻竇、中耳、咽 | Level II, V |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-27_merged.png",
     "explanation_images": null
   },
   {
@@ -4830,8 +4830,8 @@
       "D": "輸卵管子宮外孕（tubal pregnancy），可行腹腔鏡手術切除輸卵管子宮外孕"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "此題考的是第一孕期「early pregnancy loss」相關敘述。依照題幹，「陰道出血」且「子宮頸口擴張」，並看到「有妊娠組織排出但仍有殘餘」，符合不完全性流產的定義，故選 (C)。以下補充其他種流產：\n\n| 自發性流產種類 | 定義 | 後續處置 |\n| :--- | :--- | :--- |\n| 先兆性 (threatened) | 出血＋子宮頸關閉 | • 排除其他出血原因：外孕、感染、子宮頸癌變<br>• 確定子宮內胎兒的心跳<br>• 休息、觀察、給予 Progesterone（但 2019 NEJM 的 trial 發現給了並無更多好處） |\n| 不完全性 (incomplete) | 出血＋子宮頸擴張＋子宮內有殘餘妊娠組織 | • GA >10 週者較難自行全部排出<br>• 可考慮：刮除 (D&C)、再觀察或給予 Misoprostol（一種 PGE1） |\n| 完全性 (complete) | 妊娠組織完全排出 ⇒ 不再出血、子宮頸內口關閉 | • 檢查排出的是否為妊娠組織；或超音波檢查確定子宮內無殘餘組織<br>• 若無法排除有其他子宮外孕，可以 48 hr 後抽血評估 β-hCG |\n| 過期 (missed) | 在 20 週前的胚胎或胎兒未存活，但過一段時間仍未排出妊娠組織；無出血＋子宮頸關閉 | • 先以超音波、序列性 β-hCG 評估（通常不會繼續上升或開始下降）<br>• 診斷後可考慮：等自己排出、D&C 或 Misoprostol |\n| 不可避免性 (inevitable) | 出血＋子宮頸擴張；但生出來無法存活 | • 一般認為至少 GA 26 週出生後才可能存活<br>• 常見原因：子宮頸功能不全、早產早期破水 |\n\n※ 第一孕期自發性流產的其他考點：\n1. 原因\n  a. 胎兒因素：50% 因染色體異常導致，其中又以三染色體 (Trisomy) 或單條 X 染色體 (monosomy X) 居多，懷孕早期便會流產\n  b. 母親風險因子：懷孕年紀、流產病史、菸酒、肥胖、控制不佳的糖尿病、甲狀腺疾病、SLE 等\n2. 反覆自發性流產的原因：遺傳疾病、子宮畸形（子宮中膈為風險最高者）、子宮肌瘤、子宮內膜沾黏 (=Asherman syndrome)、自體免疫疾病、血栓疾病（如：抗磷脂症候群）",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-28_merged.png",
     "explanation_images": null
   },
   {
@@ -4847,8 +4847,8 @@
       "D": "腹內出血（intra-abdominal hemorrhage）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "為背誦題，以下整理 methotrexate (MTX) 使用的禁忌症：\n\n| 絕對禁忌 | 相對禁忌 |\n| :--- | :--- |\n| • 子宮內懷孕（= 殺寶寶不合倫理）<br>• 免疫缺失者（因骨髓抑制副作用）<br>• 貧血、血小板低下或白血球低下（因骨髓抑制副作用）<br>• 肝腎功能不佳（肝轉換成親水性代謝物 ⇒ 腎排出）<br>• 哺乳期<br>• 子宮外孕破裂<br>• 血液動力學不穩定者<br>• 無法配合醫療進行後續追蹤者 | • 胎兒有心跳<br>• 初始 β-hCG>5000 mIU/mL<br>• β-hCG 上升快速（48 hr 內 >50%）<br>• 子宮外孕囊 >4 cm |\n\n簡單來說何時不能用：子宮內懷孕、血球免疫問題、肝腎不好、哺乳、Unstable 者\n\n[ 其他解法 ] 雖為死背題，但依照 MTX 特性用刪去法還是可以選出來。MTX 可能進入乳汁影響寶寶所以 (B) 為禁忌；MTX 有骨髓抑制副作用，因此 (C)、(D) 狀況感覺都不太適合使用。MTX 沒有影響血糖的副作用，因此 (A) 可能是最佳的選項",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-29_merged.png",
     "explanation_images": null
   },
   {
@@ -4864,8 +4864,8 @@
       "D": "抽血檢測血清aspartate aminotransferase、creatinine以及hemoglobin值"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "此題考「子宮外孕」（基本上是每年必考的內容）的相關處置，依照題幹所述可以得到幾點線索：\n• 此女性 LMP 為 5 週前，因此預期胎齡最大為 GA 3 週\n• 有流產＋子宮外孕病史，序列性 β-hCG 評估下上升的幅度 <50%，子宮內也無看到妊娠囊\n\n因此腦中浮現的鑑別診斷：\n• 優先排除子宮外孕，畢竟她是子宮外孕高風險者\n• 子宮內懷孕，只是妊娠囊還看不到（畢竟胎齡最大才 GA 3 週）\n• 其實根本沒有懷孕，而是長分泌 β-hCG 的腫瘤（如：絨毛膜細胞癌、妊娠滋養體疾病）⇒ 影像上無卵巢腫瘤、子宮內膜正常，故排除\n\n因此下一步就合理性而言，選 (A) 是最合適的，再觀察選 β-hCG 上升情況\n(B) Progesterone 一般只會在受孕前抽比較有意義（如：評估月經週期或排卵狀況），所以可刪\n(C) 若有明確破裂、病人血液動力學不穩定，才會考慮腹腔鏡探查\n(D) 抽肝腎功能與血紅素就穩定的病人而言，對於確立上述的診斷幫助有限\n\n[ 子宮外孕的其他考點 ]\n1. 臨床表現：腹痛、出血、無症狀的驗尿 β-hCG 陽性\n2. 評估：內診、陰道超音波（找妊娠囊）、48 hr 的 β-hCG 上升幅度 <50%\n3. 處置：Methotrexate 的藥物治療（適應症 / 禁忌症）；腹腔鏡的適應症",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-30_merged.png",
     "explanation_images": null
   },
   {
