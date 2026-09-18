@@ -7101,9 +7101,11 @@
       "D": "先蒐集官方衛政資料及過去該地區的流病報告，了解該地區的健康狀態"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "社區導向之基層醫療 (community-oriented primary care, COPC)，可分為五個實施階段，分為 0~4 級：\n\n| 級別 | 定義與實施內容 |\n| :--- | :--- |\n| **0** | 無社區的觀念，不了解所執業社區的健康問題，只對上門求診的病人提供非持續性的照顧 |\n| **1** | 對所處的社區的「衛生統計資料」有所了解，但沒有社區內個人的資料，依照主觀印象來決定健康問題的優先次序和解決方案 |\n| **2** | 對所處的社區的健康問題有進一步了解，所用的方法係經由「間接調查」所取得的二手資料，具備計劃和評估的功能 |\n| **3** | 經由「社區調查或資料建檔」方式能涵蓋所定義社區九成以上的民眾之個別狀況，針對特定社區內的健康問題採取對策，但缺乏時效亦無有效的預防策略 |\n| **4** | 對社區內「每一民眾之基本資料」皆能建檔，掌握個人的健康問題，採取有效的預防保健和疾病治療的措施，建立社區內健康問題蒐集的正式管道和評估系統，具備因應問題解決之能力 |\n\n可見社區健康診斷的第一步要先蒐集官方衛政資料及過去該地區的流病報告，不是直接召集 key person 或馬上進行田野調查，本題選 (D)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(三)-71_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(三)-71_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(三)-72",
@@ -7118,9 +7120,11 @@
       "D": ""
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "老人跌倒的多重因素，可大致分為內在與外在因素，老人跌倒後會有各種併發症，例如：臥床導致的吸入性肺炎、跌倒後焦慮症候群等，會提高病人認知功能異常、憂鬱及平衡障礙的風險，並造成死亡率增加\n\n| 內在因素 | 外在因素 |\n| :--- | :--- |\n| 老化相關姿勢控制退化 | 多重藥物使用 |\n| 肌肉張力、組成的改變：下肢無力 | 鞋子不適合：赤腳、穿襪子比較容易跌倒（但這些研究較小且干擾因子多） |\n| 血壓調控問題：低血壓 | 環境因素：光線不良、地面不平或溼滑、未裝扶手、無防滑地墊 |\n| 慢性疾病：視力障礙、帕金森、糖尿病、退化性關節炎、慢性疼痛 | |\n| 認知功能障礙 | |\n\n本題選項都是內在因素，選 (D)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(三)-72_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(三)-72_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(三)-73",
@@ -7135,9 +7139,11 @@
       "D": "延長生命"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "安寧緩和醫療的目的是為減輕或免除末期病人之生理、心理及靈性痛苦，給予緩解性、支持性之醫療照護，以增進其生活品質，符合定義的末期病人可以決定不施行心肺復甦術或維生醫療，或終止、撤除原施予之心肺復甦術或維生醫療，並不是為了延長生命，故 (D) 錯誤",
+    "explanation_image": "/explanations/cropped/111-2-醫學(三)-73_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(三)-73_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(三)-74",
@@ -7152,9 +7158,11 @@
       "D": "倒 V 徵象（inverted V sign）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) cloverleaf deformity：十二指腸反覆潰瘍、癒合 → 形成纖維化疤痕組織 → 限制十二指腸的正常伸縮 → 膨出的地方變成 pseudodiverticula，在 fluoroscope 檢查時長得就像幸運草 (cloverleaf) 或三葉草 (trifoliate) 的顯影形狀\n\n(B) double wall sign：又稱 Rigler sign、bas-relief sign平常氣體只會讓腸腔側的腸壁顯影，如果兩邊都看得到，代表腸壁的兩邊都有氣體 → 有 intraperitoneal free air (pneumoperitoneum)\n\n(C) football sign：代表有大量的 intraperitoneal free air，較常見於兒童出現壞死性小腸結腸炎 (necrotizing enterocolitis, NEC) 時\n\n(D) inverted V sign：一種是出現 pneumoperitoneum 時，躺著時可以在骨盆看到倒 V 形的 lateral umbilical ligaments，又稱 lateral umbilical ligament sign另一種是在脊髓亞急性退化時所見，又稱 inverted rabbit ears sign",
+    "explanation_image": "/explanations/cropped/111-2-醫學(三)-74_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(三)-74_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(三)-75",
@@ -7169,9 +7177,11 @@
       "D": "主動脈縮窄（coarctation of aorta）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "從照片看得出來有兩條血管相連通了，而那兩條正是降主動脈 (descending aorta, D-Ao) 與肺動脈 (pulmonary artery, PA)，所以本題為開放性動脈導管，選 (A)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(三)-75_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(三)-75_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(三)-76",
@@ -7186,9 +7196,9 @@
       "D": "嚴重低血鈉病人，補充血中鈉離子時，其上升速度不可超過每 24 小時 6 mEq"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(三)-77",
@@ -7203,9 +7213,9 @@
       "D": "低溫療法病人，在維持溫度為 32 oC 時，產生高血鉀比產生低血鉀之機會較高"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(三)-78",
@@ -7220,9 +7230,9 @@
       "D": "DKA 病人的血清鉀離子濃度大多為低下"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(三)-79",
@@ -7237,9 +7247,11 @@
       "D": "不合適，陳醫師事前並沒有對林先生說明教學的意旨，也未事前徵求林先生的同意"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "依照教學醫院評鑑基準所述，進行門診教學時，診間需要有明顯標示、需要「告知」並以任何形式「徵得病人同意」，以兼顧學習便利性、醫療品質及病人安全與隱私本題中既沒有告知也沒有徵得病人同意，應選 (D)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(三)-79_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(三)-79_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(三)-80",
@@ -7254,9 +7266,11 @@
       "D": "病患或其法定代理人必須簽署同意書"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "進行任何人體試驗，須告知受試者相關內容、確認受試者對訊息已理解、確保受試者能完全地行使自主權，接著就要讓受試者表達參與意願除需取得知情同意 (informed consent) 外，還要具有完全行為能力的本人，或其法定代理人簽署同意書得免除同意的情形包含：\n1. 公務機關執行法定職務，自行或委託專業機構進行之公共政策成效評估研究\n2. 自合法之生物資料庫取得之「去連結或無法辨識特定個人」之資料、檔案、文件、資訊或檢體進行研究但不包括涉及族群或群體利益者\n3. 研究屬最低風險，對研究對象之可能風險不超過未參與研究者，且免除事先取得同意並不影響研究對象之權益\n4. 研究屬最低風險，對研究對象之可能風險不超過未參與研究者，不免除事先取得研究對象同意則無法進行，且不影響研究對象之權益\n\n但以上情形除了從生物資料庫提取資料分析外，都有可能侵犯受試者隱私的風險，且本題患者為愛滋病病人，屬易受傷害族群，故最適合的選項為 (D)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(三)-80_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(三)-80_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-1",
