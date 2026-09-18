@@ -7795,9 +7795,11 @@
       "D": "高雪氏症（Gaucher Disease）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "題目中的舅舅暗示此疾病是 X 染色體性聯隱性遺傳，只有 (C) 選項符合，其他皆是由自體隱性遺傳\n\n(A) 龐貝氏症 (Pompe disease) 為既是一種代謝性肌肉疾病也屬於溶小體儲積症的一種，患者由於缺乏 acid alpha-glucosidase(GAA) 酵素而無法分解肝醣，使得堆積的肝醣逐漸傷害肌肉的功能\n\n(B) 威爾森氏症 (Wilson disease) 由於 ATP7B 基因突變身體對銅的代謝異常而造成的，過多的銅堆積在不同的器官中，而產生對組織的毒性與破壞\n\n(C) 腎上腺腦白質失養症 (Adrenoleukodystrophy, ALD) 是由於先天 ABCD1 基因異常，導致細胞無法代謝非常長鏈脂肪酸，造成神經病變退化的一種遺傳性疾病，最嚴重的兒童型腦白質化患者通常於 4~8 歲發病，表現出學習或行為異常，例如學校表現退步、閱讀困難、方向感障礙、視覺及聽力障礙，及癲癇，通常發病後 6 個月到 2 年內會迅速地退化\n\n(D) 高雪氏症 (Gaucher Disease) 是一種溶小體儲積症，主要是由於 GC(glucocerebrosidase) 酵素基因的突變導致醣脂類大分子的新陳代謝無法順利進行，囤積在患者骨髓細胞及神經系統",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-31_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-31_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-32",
@@ -7812,9 +7814,11 @@
       "D": "唐氏症（Down syndrome）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) Williams syndrome 是 chromosome 7 上面的基因 deletion 所引起，通常是 sporadic 的，外表特徵為寬額頭、短鼻子、厚唇寬嘴、短下巴、外向友善，看起來很開心，通常會伴隨輕～中度的智力缺損或學習障礙，也會有心血管（特別是 supravalvular aortic stenosis）、骨關節、牙齒（咬合不正）等問題\n\n(B)(C) 同一年考兩題！再複習一次表格：\n\n| 特徵 | Turner's syndrome | Noonan's syndrome |\n| :--- | :--- | :--- |\n| **染色體** | 45 X monosomy（只影響女性）<br>* 部分患者可能為嵌合型 | 正常（normal karyotype） |\n| **基因異常** | - | PTPN11 (50%) > SOS1 (10~13%) |\n| **智力** | 正常 | 偏低 |\n| **月經** | 原發性無月經 | 月經正常 |\n| **心臟異常** | 左心問題：coarctation of aorta、bicuspid aortic valve (BAV) | 右心問題：pulmonary stenosis |\n| **外觀** | 蹼狀頸、身材矮小、肘外翻、低位耳、盾狀胸 | |\n\n(D) Trisomy 三兄弟：\n\n| 項目 | Down | Edwards | Patau |\n| :--- | :--- | :--- | :--- |\n| **多的染色體** | 21 | 18 | 13 |\n| **平均壽命** | 約可活至 50-60 歲 | 多在一歲內死去 | 多在一歲內死去 |\n| **特徵** | 智能障礙、臉平、斷掌 (single palmar disease)、低位耳、內眥贅皮、先天心臟病 (50%, VSD/ASD)、十二指腸閉鎖、先天性巨結腸症、ALL/AML 機率上升 | 嚴重智能障礙、小頭畸形、Rocker bottom feet、兔唇顎裂、低位耳、內眥贅皮、先天心臟病 (90%, VSD)、clenched fists, overlapping fingers | 嚴重智能障礙、小頭畸形、Rocker bottom feet、兔唇顎裂、全前腦畸形、多指、隱睪 |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-32_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-32_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-33",
@@ -7829,9 +7833,11 @@
       "D": "C4"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "純記憶題，唐氏症患者由於肌張力較低且韌帶比較鬆，因此支撐脊椎骨的力道較差，約 15% 的唐氏症患者有 misalignment of the 1st cervical vertebra (C1)，因此當 hyperextension 或是 extreme flexion 時頸椎易受傷",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-33_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-33_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-34",
@@ -7846,9 +7852,11 @@
       "D": "長期口服類固醇（long term oral corticosteroid）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "慢性蕁麻疹 (chronic urticaria, chronic hives) 建議療法應為避免 trigger、一線治療為抗組織胺，其他治療包含 omalizumab、cyclosporine，長期使用口服類固醇會有系統性副作用，如果真的其他方法都失敗，才會考慮低劑量 prednisolone 隔天服用，本題選 (D)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-34_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-34_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-35",
@@ -7863,9 +7871,11 @@
       "D": "口服類固醇是首選治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，約有 30% 的乾癬患者時間久了會慢慢出現乾癬性關節炎\n\n(B) 正確，研究發現乾癬患者有比一般人更高的心肌梗塞、中風、高血壓、糖尿病、血脂異常、肥胖、代謝症候群機率\n\n(C) 正確，乾癬的危險因子包含：家族史、抽菸、肥胖，常見的誘發因子則包含：壓力、受傷 (Koebner phenomenon)、陽光曝曬、酗酒、抽菸、荷爾蒙波動\n\n(D) 錯誤，通常乾癬如果不是太嚴重的狀況，會先嘗試用 topical steroids 或其他藥膏 (tazarotene, vitamin D analogue)，如果控制失敗才會選擇 systemic 治療（而且通常還是會搭配 topical 使用）",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-35_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-35_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-36",
@@ -7880,9 +7890,11 @@
       "D": "若常處於悶熱潮濕環境，治療後仍容易復發"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，汗斑的致病菌是 Malassezia，喜歡生長在富含油脂的地方\n\n(B) 正確，用伍氏燈照射可以看到黃綠色的螢光\n\n(C) 錯誤，口服藥物選擇為 itraconazole 以及 fluconazole，Griseofulvin 是治療 dermatophyte (tinea) 的，對 yeast 沒效！\n\n(D) 正確，濕熱（常流汗）的環境很適合 Malassezia 生長，故常處於這種環境的話，治療後仍容易復發，可以使用含 selenium sulfide 的洗髮精來降低復發率",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-36_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-36_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-37",
@@ -7897,9 +7909,11 @@
       "D": "可由克沙奇病毒（coxsackievirus）感染造成，病程表現大多比腸病毒（enterovirus）71 型感染嚴重，重症比率也較高"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腸病毒也幾乎是兒科每年必考題\n\n(A)(C) 正確，腸病毒特徵為發燒及身體出現小水泡，主要分布於口腔黏膜及舌頭，其次為軟顎、牙齦和嘴唇，四肢則是手掌及腳掌、手指及腳趾，常因口腔潰瘍、喉嚨痛而難以進食，絕大多數的病童，在 5~7 天內會自然痊癒\n\n(B) 正確，腸病毒感染後的患者比一般人出現脫甲症的風險高出 14 倍，而最常產生脫甲症的病毒是 A6 型克沙奇病毒 (Coxsackievirus A6)，一般認為在病毒感染期間手口足症的範圍影響到指甲生長板使指甲生長暫停，疾病痊癒之後指甲繼續生長因此可見當時的斷層\n\n(D) 錯誤，腸病毒 71 型 (Enterovirus 71) 可侵犯中樞神經系統引起較嚴重的併發症，包括病毒性腦膜炎、腦炎、類小兒麻痺症癱瘓及心肌炎等",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-37_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-37_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-38",
@@ -7914,9 +7928,11 @@
       "D": "色素性基底細胞癌（pigmented basal cell carcinoma）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "雖然可能沒聽過靜脈湖，但切片中可發現 Blood in lumen 的現象，可推敲答案\n\n圖一嘴唇上面的病灶稱作靜脈湖 (venous lake)，形成原因不明，但一般認為可能是外傷或是陽光照射位置導致靜脈血管上皮受損擴張所導致，其特徵為一軟的、可壓扁、深紫色、用燈照會透光的一個結節，常發生在嘴唇、臉上或是耳朵上，年紀愈大，發生的比例越高，臨床上要和血管角化瘤 (angiokeratoma)、櫻桃血管瘤 (cherry angioma) 做鑑別診斷",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-38_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-38_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-39",
@@ -7931,9 +7947,11 @@
       "D": "圓盤狀皮膚疹"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "SLE 請謹記口訣 SOAP BRAIN MD：\n\n| 項目 | 臨床診斷標準 (Diagnostic criteria for SLE) | 項目 | 臨床診斷標準 (Diagnostic criteria for SLE) |\n| :---: | :--- | :---: | :--- |\n| **S** | Serositis (pleuritis, pericarditis) | **R** | Renal involvement |\n| **O** | Oral ulcers | **A** | ANA(+) |\n| **A** | Arthritis in >2 joints | **I** | Immunological disorders |\n| **P** | Photosensitivity | **N** | Neurologic disorders |\n| **B** | Blood disorders | **M** | Malar rash |\n| | | **D** | Discoid rash |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-39_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-39_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-40",
@@ -7948,9 +7966,11 @@
       "D": "蒙古斑（mongolian spot）好發於亞洲人等有色人種，最常見的部位為嬰兒的下腹部"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "各黑色素細胞增生疾病整理如下表：\n\n| 疾病名稱 | 特徵 |\n| :--- | :--- |\n| **太田氏母斑<br>(Nevus of Ota)** | 色素沉澱於真皮層，常見於亞洲女性，呈藍灰色，好發於眼眶周圍、臉頰、結膜或硬顎（沿著三叉神經之第一第二分支分布） |\n| **伊藤氏母斑<br>(Nevus of Ito)** | 相當罕見，也多見於亞洲女性，常見在肩和側胸部有大片的均勻藍灰色斑 |\n| **蒙古斑<br>(Mongolian spot)** | 好發於腰薦部，也可見於背部或頭皮等處，範圍約一到十公分不等，會隨年齡增長逐漸消退 |\n| **貝克氏斑<br>(Becker's nevus)** | 呈現淺或深咖啡色斑塊，有的人會長出毛髮，成因為先天與基因的關係，多位於肩部或上臂，不會自動消退 |\n| **崛氏母斑<br>(Hori's nevus)** | 多同時發生於成人雙側臉部，藍灰色或是咖啡色的斑塊，為後天型真皮細胞增生，又名遲發性兩側太田母斑 |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-40_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-40_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-41",
