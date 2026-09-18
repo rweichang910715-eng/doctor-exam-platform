@@ -7455,8 +7455,8 @@
       "D": "鋇劑灌腸檢查（barium enema examination）可見病變處狹窄"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "先天性巨大結腸症指大腸的黏膜下層 (Meissner's plexus) 或肌肉層 (myenteric, Auerbach plexus) 缺乏神經節，以致無法調節大腸進行正常的排便活動，此疾病較常見於男嬰，足月產嬰兒如果在出生 48 小時內都沒有排出胎便，就要懷疑有 Hirschsprung disease\n\n(A) 錯誤，正常人在直腸被撐大時，肛門內括約肌的壓力會下降 (rectoanal inhibitory reflux, RAIR)，先天性巨結腸症的患者失去 rectoanal inhibitory reflux，因此進行直腸內壓測定時，肛門內括約肌壓力應無法下降\n(B) 正確，醫師在作手指肛診時，通常會感覺異常的緊縮，將手指拔出時甚至會有糞便隨之噴出，這是先天性巨結腸症典型的身體檢查發現\n(C) 正確，病理切片可以發現缺乏神經節細胞之外，還會出現神經纖維的大量增生 (hypertrophied nerve bundle) 以及 acetylcholinesterase 染色增加\n(D) 正確，鋇劑灌腸檢查除了可見病變處狹窄之外，病變處以上腸徑也會異常的脹大，所以影像上看到異常膨脹的地方不是病變處，而是病變處上游",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-11_merged.png",
     "explanation_images": null
   },
   {
@@ -7472,8 +7472,8 @@
       "D": "腎病症候群（Nephrotic syndrome）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "尿液減少、水腫，再加上一個月前皮膚出現化膿性感染 → 聯想到急性鏈球菌感染後腎絲球腎炎 (acute post-Streptococcal glomerulonephritis, PSGN)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-12_merged.png",
     "explanation_images": null
   },
   {
@@ -7489,8 +7489,8 @@
       "D": "血液不易凝固（Hypocoagulability）的狀態"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "腎病症候群的定義和典型症狀務必熟記\n1. 定義：蛋白尿一天大於 3.5g（蛋白尿達到這個範圍：nephrotic range），除蛋白尿外，還伴隨水腫、低白蛋白、高血脂等問題\n2. 臨床表現及併發症：\n(1) 水腫：由於嚴重的蛋白尿導致白蛋白大量流失，血管內滲透壓會降低而造成水腫\n(2) 高血脂：因為白蛋白的流失，使得脂蛋白代償性合成；且 HDL 會從腎臟流失\n(3) 高凝血狀態：因為白蛋白的流失，使得肝臟代償合成凝血相關因子增加，此外，抗凝血的 antithrombin III 會從尿液流失、血管內水分流失，導致血小板和凝血因子的相對濃度變高 → 高凝血狀態",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-13_merged.png",
     "explanation_images": null
   },
   {
@@ -7506,8 +7506,8 @@
       "D": "此代謝性酸中毒（Metabolic acidosis）可能因癲癇發作而引起"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "陰離子間隙：[Na⁺] - [Cl⁻] - [HCO₃⁻] = UA（其他陰離子）- UC（其他陽離子），正常範圍在 10-12 mEq/L，套入本題：140 - 98 - 17 = 25 (>12)，因此應為高陰離子間隙，故 (B) 選項錯誤\n另外，pH < 7.35 明顯偏酸，又合併 [HCO₃⁻] 偏低，推測是代謝性酸中毒，而 PaCO₂ 數值沒有下降代償代謝酸，因此又合併呼吸性酸中毒，故 (A) 選項正確\n(C)(D) 選項亦皆正確，癲癇可能造成局部肌肉缺氧而使乳酸堆積，造成乳酸酸血症 (lactic acidosis)，治療包括控制癲癇症狀及給予呼吸支持",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-14_merged.png",
     "explanation_images": null
   },
   {
@@ -7523,8 +7523,8 @@
       "D": "頻繁的肌跳躍（Myoclonic jerks）是重症前兆"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "(A) 錯誤，會造成脫水通常是因為口腔潰瘍造成進食疼痛，適當補充冰涼、流質飲食（如：果凍、布丁）預防脫水即可，不需特別給與大量輸液補充\n(B) 正確，腸病毒併發重症者以 5 歲以下最多，且大多出現在發病後第一週內，所以對罹患手足口病之 5 歲以下必須特別注意觀察\n(C) 正確，腸病毒 71 型可能導致併發腦幹腦炎、心臟衰竭、肺水腫與肺出血等，除了腸病毒 71 型之外，腸病毒 D68 型也可能會引發重症\n(D) 正確，腸病毒重症前兆包括「嗜睡、意識不清、活力不佳、手腳無力」、「肌躍型抽搐（無故驚嚇或突然全身肌肉收縮）」、「持續嘔吐」與「呼吸急促或心跳加快」",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-15_merged.png",
     "explanation_images": null
   },
   {
@@ -7540,8 +7540,8 @@
       "D": "Guillian-Barré syndrome"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Creatine kinase (CK) 較常見於骨骼肌 (CK-MM)、心肌 (CK-MB)、以及腦 (CK-BB)，如果突然飆高加上腳不良於行 → 想到骨骼肌病變（再加上發燒 → 想到感染或發炎）\n\n(A) 此選項指的應該是 benign acute childhood myositis (BACM)，是一種自限性疾病，目前認為與病毒感染相關，較常見於男童、好發於小腿肚，會突然發生急性肌肉發炎，主要以疼痛或是無力行走來表現，抽血檢查可見 creatine kinase 上升\n(B) Acute transverse myelitis 的症狀包括肢體無力、感覺異常（病變的脊髓位置之下出現麻、刺、灼熱感等）、疼痛（失去溫痛覺相當常見）、大小便功能失常等，流行病學上屬於較罕見的疾病，且多發生於青少年或是成人，因此也不會列入首要鑑別診斷\n(C) Myasthenia gravis 的病人通常一開始的症狀是眼皮下垂造成視力模糊，早上醒來忽然無法走路比較不符合疾病初始特徵\n(D) Guillain-Barré syndrome 主要是周邊神經的髓鞘受到破壞導致雙腿無力，不是直接影響肌肉本身，故 CK 值未必會升高，就算有升高也通常較輕微短暫",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-16_merged.png",
     "explanation_images": null
   },
   {
@@ -7557,8 +7557,8 @@
       "D": "Viral myositis"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "AIDP (Acute Inflammatory Demyelinating Polyradiculoneuropathy) 是 Guillain-Barre Syndrome 之中最常見的一種亞型，本題線索是之前有感染，而且腦脊髓液出現 albumin-cytological dissociation（蛋白質上升但細胞數正常）\n\n(A) 小兒麻痺症（糞口或是飛沫傳染）90% 以上的感染者為不明顯或無症狀的感染，小部分產生輕微症狀，如發燒、倦怠、噁心，或無菌性腦膜炎等，但無任何麻痺症狀，而約 0.3 ～ 1% 的感染者會出現麻痺症狀，通常是病毒侵入中樞神載運動神經元而引起，麻痺部位通常是不對稱的\n(C) 重症肌無力病人主要的臨床表現為肌肉無力，其中又以控制眼球運動的眼外肌 (extraocular muscle) 的無力最為常見，有半數以上的病人是以眼瞼下垂，複視或視力模糊為初發症狀\n(D) 病毒性肌炎表現會以近端大肌肉無力和疼痛來表現，但出現的時間通常是急性病毒感染造成發燒之後的隔一兩天\n\n### 格林 - 巴利症候群（Guillain-Barre syndrome）\n\n| 項目 | 內容 |\n| :--- | :--- |\n| **病因** | 免疫系統攻擊神經導致急性的周邊神經病變 |\n| **常見症狀** | a. Motor: symmetric and ascending weakness（對稱雙下肢無力漸漸往上蔓延，可由輕微的走路困難至四肢癱瘓、吞嚥或呼吸困難）<br>b. Sensory: distal paresthesia（遠端感覺異常），四肢或背部肌肉的刺痛感，但神經理學檢查感覺神經大多正常<br>c. DTR: 深部肌腱反射減低或消失 |\n| **前置事件** | 疾病發生前 2～4 週有前驅感染（上呼吸道感染、急性腸胃炎、病毒感染等） |\n| **疾病進程** | 三週達到頂點、三週持平、三週緩解 |\n| **診斷檢查** | a. CSF: albumin-cytological dissociation（蛋白質上升但細胞數正常）<br>b. 神經傳導檢查：demyelinative disorders 會使傳導速度下降很多 (30% 以上)；電生理有多發性局部神經傳導阻斷和傳導速度減緩<br>c. 兒童脊髓核磁共振檢查：在脊髓神經根呈現顯影劑加強的現象，可做為輔助診斷 |\n| **治療手段** | 僅血漿置換術及免疫球蛋白具有療效，其他以支持性治療為主 |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-17_merged.png",
     "explanation_images": null
   },
   {
@@ -7574,8 +7574,8 @@
       "D": "身體中線兩側的皮膚呈現半紅半白(Harlequin color change)，係屬暫時性的，無任何意義"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "雖然題目中出現一些看起來很難的詞，但把握胎頭腫塊的比較表格還是可以得分\n\n(A) 正確，Moro reflex 是利用巨大聲響或體位的改變，觀察寶寶手腳是否有先內縮再外展的動作，兩側動作若不對稱要考慮是否有臂神經叢受損\n(B) 胎頭血腫是屬於硬膜下的血腫，因此不會越過骨縫\n(C) 毒性紅斑常見於出生後一周的寶寶，通常是暫時且良性的，無臨床意義\n(D) Harlequin color change 是一種良性的皮膚顏色變化，主要是因為新生兒的神經血管調控系統尚未成熟的，當稍微有溫度姿勢或是情緒上的變化時，血管的管徑就容易改變造成血流分布不均，通常在 30 秒到數分鐘內可以緩解\n\n### 胎頭腫塊比較表\n\n| 項目 | 產瘤 (Caput succedaneum) | 胎頭血腫 (Cephalohematoma) | 帽狀腱膜下血腫 (Subgaleal hemorrhage) |\n| :--- | :--- | :--- | :--- |\n| **位置與骨縫** | 頭皮受到擠壓造成頭皮下血腫，故會越過骨縫 | 骨膜層 (periosteum) 下血腫，故不會越過骨縫 | 帽狀腱膜層與骨膜層之間的出血，故會越過骨縫 |\n| **觸感** | 摸起來軟軟的，會凹陷 | 有張力的腫塊 | 範圍大、較硬 |\n| **病程** | 通常持續數天就消失 | 維持數週至數月，通常會自己消失 | 可能造成出血性休克 |\n| **併發症** | 通常沒有其他問題 | 易伴隨黃疸 | 通常有明顯黃疸 |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-18_merged.png",
     "explanation_images": null
   },
   {
@@ -7591,8 +7591,8 @@
       "D": "1 mg 升糖素（glucagon）靜脈注射後，病人血糖值為 90 mg/dL"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "由於人體的胰島素是浮動的，因此正在發生低血糖時去測胰島素來判斷是否是高胰島素症 (hyperinsulinism) 會不準確\n臨床上會以 Ketones, free fatty acids, glucagon stimulation test 這三項指標來判斷是否是高胰島素血症\n由於胰島素會抑制脂肪細胞中的脂肪分解 (lipolysis)，因此脂肪酸 (fatty acid) 的製造也下降，所產生的酮體也會降低\n另一方面，升糖素 (glucagon) 的作用是拮抗胰島素，因此若是因為高胰島素血症而產生的低血糖，注射升糖素後症狀會明顯改善\n因此本題應選 (C)，血漿酮體若偏高應是胰島素濃度較低，可試想第一型糖尿病造成 DKA 的狀況",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-19_merged.png",
     "explanation_images": null
   },
   {
@@ -7608,8 +7608,8 @@
       "D": "陰毛發育（development of pubic hair）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "關於男女青春期第二性徵的發育整理如下，簡單記憶可以記得女生由上而下、男生由下而上\n\n### 男女青春期第二性徵發育順序\n\n| 對象 | 記憶口訣 | 發育順序 |\n| :--- | :--- | :--- |\n| **女生（8 歲）** | 由上而下 | 乳房發育 → 陰毛出現 → 快速長高 → 初經來潮 |\n| **男生（9 歲）** | 由下而上 | 睪丸變大 / 陰囊變深 → 陰莖變長 → 陰毛出現 → 快速長高 |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-20_merged.png",
     "explanation_images": null
   },
   {
