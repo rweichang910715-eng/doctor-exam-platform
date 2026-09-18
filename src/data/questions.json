@@ -5391,9 +5391,11 @@
       "D": "小腦（cerebellum）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "題幹所述的「上下肢無力」與「顏面神經麻痺」皆為運動缺失，前者為「corticospinal tract」，後者為「大腦皮質 - 顏面神經核 - 顏面神經」，這兩條路徑都不會輸入或是經過 (B) 視丘與 (D) 小腦，因此可先刪去，再者，上下肢無力與顏面神經麻痺的症狀是不同側的，可見其定位 level 應該不是在很高位的位置，因此皮質深部神經核 (A) 基底核，也可以刪去，而且基底核的症狀也與題幹不符\n\n雖然題目未說明顏面神經麻痺的形式是哪種，但就這兩條路徑唯一會共同經過的地點為左前側的 (C) 橋腦，受影響的動脈可能是基底動脈，故答案為 (C)\n\n以下整理其他選項解剖構造主要的功能與受傷症狀：\n- (A) 基底核：負責運動產生與抑制，受傷時會造成過動 (hyperkinetics) 或不動 (akinetic) 症狀\n- (B) 視丘：主要整合 spinothalamic tract 感覺輸入訊號，以及聽覺、視覺路徑中繼站\n- (D) 小腦：平衡與協調，受損時會有走路不穩 (imbalanced gait)、共濟失調 (ataxia)，神經學檢查會有 dysmetria、dysdiadokokinesia 的狀況",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-61_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(六)-61_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(六)-62",
@@ -5408,9 +5410,11 @@
       "D": "等速運動（isokinetic exercise）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "骨折復健的目標有：促進癒合、降低疼痛，以及盡早開始訓練肌肉關節，復原初期最重要的是「固定」以促進癒合，因此在此時透過等長運動以維持肌肉的力量，避免不用而萎縮；到了復原中期與後期才依序進行等張運動與等速運動的訓練\n\n- (A) 等長運動 (isometric exercise)：肌肉收縮時長度不變，也沒有可見的關節動作（如：手舉啞鈴維持在同一水平，肌肉出的力等於啞鈴重量）\n- (B) 等張運動 (isotonic exercise)：肌肉收縮時張力不變，但肌肉長度改變，又分為肌肉縮短的向心收縮（如：手臂舉啞鈴往上向身體靠近）與肌肉伸長的離心收縮（如：舉啞鈴手伸直向下遠離身體）\n- (C) 延長運動 (eccentric exercise)：延長運動訓練肌肉延展時的肌力，如：舉啞鈴時慢慢放下，以訓練二頭肌延展下的肌力\n- (D) 等速運動 (isokinetic exercise)：肌肉收縮時動作速度不變，需機器輔助進行",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-62_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(六)-62_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(六)-63",
@@ -5425,9 +5429,11 @@
       "D": "頸圈為治療之首選"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "目前針對先天性肌肉斜頸 (congenital muscular torticollis, CMT) 的機制主要假說是懷孕期間受到壓迫所導致肌肉發育不良，因此常見伴隨病症包含斜頭畸形 (plagiocephaly)、顏面不對稱 (facial asymmetry)、內收足 (metatarsus adductus) 與髖關節發育不良 (hip dysplasia，佔 8-20%)，故 (B) 為正確敘述，而其他選項：\n- (A) 因胸鎖乳突肌攣縮，導致頭頸傾向同側，而臉轉向對側，故按照題幹，小明應可能是「左側」胸鎖乳突肌短縮所致\n- (C)(D) 針對 CMT 嬰兒進行伸展運動 (stretching program) 復健，有很好的治療效果 (>90% 病童會改善)，特別是在出生後 3 個月內開始進行；如果保守治療失敗或嚴重的畸形才考慮手術，通常會在 18 個月大後才進行\n\n斜頸症也是【醫學（五）兒童外科】考點",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-63_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(六)-63_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(六)-64",
@@ -5442,9 +5448,11 @@
       "D": "可穩定行走時的膝關節"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "距骨下關節 (subtalar joint) 可以產生腳掌外翻 (eversion) 與內翻 (inversion) 的動作，穿上 AFO 後會固定小腿至腳掌的關節，即踝關節 (Ankle) 與腳掌 (Foot) 內部關節，而影響其活動度，故 (C) 為錯誤",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-64_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(六)-64_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(六)-65",
@@ -5459,9 +5467,11 @@
       "D": "是一種測量運動強度的指標"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "自覺用力係數是心肺復健常用來評估訓練強度的指標之一，為病人對特定運動主觀感想進行評分，評分為 6~20 分，可用來評估運動強度，當運動強度越高（即越困難）時，分數越高，故 (C) 不太正確，一般常用來評估運動強度為運動心率，但針對心律不整、使用 Beta-blocker 或心臟移植者可能不太適用，因此可改以 RPE 評估",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-65_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(六)-65_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(六)-66",
@@ -5476,9 +5486,11 @@
       "D": "增加休息心跳率"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "在運動狀態時：增進最大攝氧量 (VO₂ max)、動靜脈含氧量差 (a-V O₂ difference) 以及心搏輸出量 (stroke volume)，也因此可以降低心率，使得心輸出量 (CO) 不太改變；而在休息狀態下，心率下降、心搏出量上升（因心肌功能提升），攝氧量不變，因此綜合上述，僅有 (A) 選項正確\n\n而關於 (B)，因為運動可以增加紅血球與血漿導致體內血液總體積上升，也因此筆者推測血紅素濃度應該也是上升的",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-66_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(六)-66_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(六)-67",
@@ -5493,9 +5505,11 @@
       "D": "可以重疊2塊積木"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "重疊 2 塊積木，在 Nelson 教科書中提及平均約在 15 個月大時可學會，而有些育兒網站提供的是在 24 個月大（2 歲）時，不過按照題目「12 個月大的兒童」皆符合較不可能達成的里程碑，至於其他選項：(A) 約在 9 個月大、(B) 約在 12 個月大、(C) 約在 10 個月大\n\n此題也是【醫學（四）兒科】的考點",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-67_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(六)-67_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(六)-68",
@@ -5510,9 +5524,11 @@
       "D": "脊椎（spine）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "髖關節病變在腦性麻痺的兒童是很常見的併發症，特別是無法走動的 (non-ambulatory) 的病人風險更高，因此對於髖關節有常規監測追蹤的指引，目的是希望透過早期發現髖關節問題，以預防進展成脫位等需要手術的情況，部定教科書上說監測髖臼指數 (acetabular index) 與位移比例 (migration percentage) 為最有效評估手術介入時機點，所以並非像其他關節建議是 7 歲以後手術",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-68_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(六)-68_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(六)-69",
@@ -5527,9 +5543,11 @@
       "D": "舌骨（hyoid bone）往上往後拉"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "考吞嚥反射過程，正常生理的吞嚥，包含：\n- 避免跑到呼吸道：聲帶閉合、會厭軟骨下蓋，因而暫時停止呼吸\n- 順利進入食道\n  - 環咽縮肌舒張使上食道括約肌打開\n  - 4 條舌骨上肌肉收縮（Geniohyoid m.、Myohyoid m.、Digastric m. 與 Stylohyoid m.），將喉部往上往前拉（因為食道在後側）\n\n故 (D) 選項錯誤",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-69_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(六)-69_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(六)-70",
@@ -5544,9 +5562,11 @@
       "D": "可以增加輪椅的側向穩定度（lateral stability）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "看選項判斷解題，按照圖示，左圖輪椅有不均勻的輪胎 - 地面接觸面積，故其車輪胎容易有不均勻磨損，特別是輪胎靠近內側區，故 (A) 選項錯誤，左圖的車輪設計，使頂端側向距離變窄，可以 (C) 減少雙肩外展角度，也使 (B) 通過窄門時避免擦傷；底端側向距離變寬，降低重心的同時，也 (D) 可增加底面積增進側向穩定度",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-70_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-1-醫學(六)-70_merged.png"
+    ]
   },
   {
     "id": "111-1-醫學(六)-71",
