@@ -5051,8 +5051,8 @@
       "D": "Danazole"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "此題考子宮肌瘤的藥物治療方式，Danazole 為一雄性激素類似物，具有抑制腦垂腺前葉的作用進而降低卵巢功能，但其目前用於子宮內膜異位症 (endometriosis)，並未用於子宮肌瘤的治療，以下簡單補充子宮肌瘤的藥物治療，包含症狀治療與病因控制：\n\n| 治療目的 | 藥物分類 / 名稱 | 作用機轉與說明 |\n| :--- | :--- | :--- |\n| 症狀治療 | NSAID | 止痛，但對於大量經血沒有改善效果 |\n| 症狀治療 | Tranexamic Acid | 可以改善子宮肌瘤造成大量經血的問題 |\n| 病因控制 | GnRH Agonist | 因抑制 HPG 軸，進而降低 Estrogen 分泌 ⇒ 可降低子宮肌瘤大小，並改善大量經血症狀 |\n| 病因控制 | GnRH Antagonist | 可以降低子宮肌瘤大小 |\n| 病因控制 | Progesterone-mediated agents | • Mifepristone：抑制 Progesterone 作用，效果似 GnRH Agonist<br>• Ulipristal acetate（可造成肝傷害，目前停用）<br>• Levonorgestrel-releasing intrauterine system (LNG-IUS)：為子宮內植入物會釋放 progesterone，改善出血症狀，但無法減少子宮肌瘤大小 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-41_merged.png",
     "explanation_images": null
   },
   {
@@ -5068,8 +5068,8 @@
       "D": "上皮細胞腫瘤不常見"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "在教科書 Berek & Novak's Gynecology 中有提及不少統計，諸如「在青春期前女孩，僅 6% 卵巢腫塊是惡性腫瘤」、「<10 歲女童的卵巢腫瘤有 1/3 是良性的」等等，雖然不是很清楚 (A) 選項「可能性很低」是指多低，但以上數字應該是不小的數字，因此 (A) 較為不適當，以下簡單補充腹骨盆腔腫塊在不同年紀常見的原因（改自 Table 9-5）：\n\n| 年紀段 | 嬰兒期 | 青春期前 | 青春期 | 育齡期 | 停經期前 | 停經期 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| 最常見 | 功能性囊腫 | | | | 纖維瘤 | 卵巢腫瘤 |\n| 其他 | 生殖細胞瘤 | | 懷孕、良性畸胎瘤 / 其他生殖細胞癌、卵巢上皮腫瘤 | 懷孕、子宮肌瘤、卵巢上皮腫瘤 | 卵巢上皮腫瘤、功能性囊腫 | 功能性囊腫、其他癌症轉移 |\n\n在兒童與青少女的卵巢腫塊中：\n• 流行病學（因為各種研究的結果數字不太相同，因此講結論）：非腫瘤性囊腫為主；若是腫瘤也以良性的居多\n• 卵巢腫瘤\n  - 最常見的是生殖細胞瘤，約佔腫瘤的 1/2~ 2/3；卵巢上皮腫瘤很罕見\n  - 年紀較小長出的腫瘤有較高機會是惡性的\n• 檢查診斷：腹部超音波為最適用的初步評估，後續進階使用 CT、MRI 等檢查\n\n[ 編按 ] 此題與【111-2(六)43】考點類似，同樣考兒童和青少女的卵巢腫瘤",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-42_merged.png",
     "explanation_images": null
   },
   {
@@ -5085,8 +5085,8 @@
       "D": "Type 3"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "子宮鏡子宮肌瘤切除術 (hysteroscopic myomectomy) 最常使用於黏膜下子宮肌瘤 (submucous fibroids)，包含 Type 0（有蒂的長在子宮腔中）、<5 cm 的 Type 1（子宮壁侵犯 <50%）與侵犯深度較淺的 Type 2（子宮壁侵犯 ≥50%），故按照選項所給予有限的資訊，(A) 為最適當的答案\n\n[ 另類解法 ] 子宮肌瘤分類總共為 FIGO Type 0-8，由子宮腔內至子宮體外依序編號（Type 8 是長在子宮體以外的地方，建議搭配圖片加深印象）；故藉由子宮鏡最容易切除的就是直接長在腔內的，Type 0 可能是最佳答案\n\nFIGO Classification of Uterine Myoma：\n\n| 類型 | FIGO | 說明 |\n| :--- | :--- | :--- |\n| Submucosal 黏膜下型 | 0 | 蒂連式子宮腔內肌瘤：有蒂且完全在子宮腔內 (pedunculated intracavitary) |\n| Submucosal 黏膜下型 | 1 | 大部分在子宮腔內，<50% 在子宮肌層 |\n| Submucosal 黏膜下型 | 2 | 少部分在子宮腔內，≥50% 在子宮肌層 |\n| Intramural 壁間型 | 3 | 完全在子宮肌層，且有接觸到子宮內膜 (endometrium) |\n| Intramural 壁間型 | 4 | 完全在子宮基層，但沒有接觸到子宮內膜 |\n| Subserosal 漿膜下型 | 5 | 少部分在子宮肌層外，≥50% 在子宮肌層 |\n| Subserosal 漿膜下型 | 6 | 大部分在子宮肌層外，<50% 在子宮肌層 |\n| Subserosal 漿膜下型 | 7 | 蒂連式子宮漿膜層肌瘤：有蒂且完全在子宮肌層外 (subserosal pedunculated) |\n| 其他 | 8 | 在子宮本體以外的部分，如子宮頸內、闊韌帶中 |",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-43_merged.png",
     "explanation_images": null
   },
   {
@@ -5102,8 +5102,8 @@
       "D": "可能造成青少女無月經但週期性下腹痛"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "第二性徵發育遲緩與性腺激素分泌低下有關，如：先天性腺發育不良、卵巢早衰（如：透納氏症）、下視丘 / 腦垂腺分泌不足（如：卡門症候群 Kallmann syndrome）等；而 Müllerian duct 發育異常常見的原因與性激素較不相關，也因性腺功能無異常所以大多會表現第二性徵，故 (B) 敘述不適當，以下補充無月經伴隨正常第二性徵發育但骨盆腔解剖異常的常見原因：\n• 先天穆勒氏管異常 (Müllerian anomalies)\n  - 封閉處女膜 (Imperforate hymen)\n  - 陰道橫向中膈 (transverse vaginal septum)\n  - Mayer-Rokitansky-Küster-Hauser 症候群（= 先天無陰道＋各種程度的子宮發育）：佔原發性閉經 10-15% 病例，多伴隨腎臟、泌尿系統、骨骼、聽力發育異常\n  - 先天無子宮內膜\n• 後天性子宮內沾黏 (=Asherman syndrome)：多因子宮內膜刮除術 (D&C)、子宮頸手術、骨盆腔發炎疾病或結核菌感染所致\n• 雄性素不敏感 (androgen insensitivity)：生理男 (46, XY) 但因雄性素異常導致外生殖器、第二性徵為女性表現，無穆勒氏管發育（因可分泌 AMH）\n• 性發展障礙 (ovotesticular disorder)：很罕見，同時具有卵巢與睪丸，通常會半側 Mullerian 發育（像女）、半側 Wolffian 發育（像男），外生殖器雌雄難辨，通常會有乳房發育",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-44_merged.png",
     "explanation_images": null
   },
   {
@@ -5119,8 +5119,8 @@
       "D": "卵巢癌（ovarian cancer）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "影像題，抓關鍵字與關鍵特徵：\n• 關鍵字：經痛已 5 年（慢性＋週期性疼痛），止痛藥可緩解 ⇒ 週期性疼痛可以考慮原發性痛經與子宮內膜異位症 (endometriosis) 或 Müllerian anomalies【111-1(六)44】；若非週期性，可能會考慮腹骨盆腔沾黏、發炎或卵巢腫瘤，子宮內膜異位也可能是非週期性疼痛\n• 影像（卵巢囊腫）\n  - 「毛玻璃樣 (ground glass appearance)」的回音病灶，看起來沙沙的\n  - 無明顯低回音或高回音部分，意即無固體組織或漿液成分\n  - 無分膈，應屬於單腔室囊腫 (unilocular cyst)\n  - 圖為 Color doppler 介面，也無看到血流\n故從影像上可以得知，偏向卵巢子宮內膜異位瘤 (ovarian endometrioma) 特徵，較不像卵巢腫瘤（纖維瘤 / 卵巢癌）或是功能性囊腫\n\n故綜合兩者，(B) 為最合適的診斷\n(A) 卵巢濾泡囊腫 (ovarian follicular cyst)：大多無症狀；超音波下內部無回音，且通常可見後側回音增強 (posterior acoustic enhancement)\n(C) 卵巢纖維瘤 (ovarian fibroma)：大多無症狀，但長到很大時可觸診到；在超音波下的型態通常為低回音的腫塊 (hypoechoic mass)\n(D) 卵巢癌 (ovarian cancer)：若在超音波下出現以下特徵，病灶為惡性的機會較高：\n  • 邊緣不規則的固態腫塊\n  • 超音波下看到腹水\n  • 看到多個乳突狀贅生物\n  • 不規則、多腔室、直徑大 (>10 cm) 的腫塊\n  • 都卜勒超音波下血流豐富",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-45_merged.png",
     "explanation_images": null
   },
   {
@@ -5136,8 +5136,8 @@
       "D": "骨盆腔底部支持系統"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "Müllerian ducts 發育異常常伴隨腎臟泌尿道的異常，所以應一併進行檢查（關於 Müllerian anomalies 相關整理可見【111-1(六)44】的詳解）\n\n[ 另類解題方式 ] 從胚胎學的角度來看，泌尿與生殖系統的發育是一起的，Woffian duct（男性保留）來自中腎管 (mesonephric duct) 構造，而 Müllerian duct（女性保留）來自副中腎管 (mesonephric duct)，而發育早期的中腎 (metanephron) 逐漸退化，故相較於其他選項，(C) 同時發生異常的機會較高，所以應一併檢查",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-46_merged.png",
     "explanation_images": null
   },
   {
@@ -5153,8 +5153,8 @@
       "D": "跟性行為沒有關係"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "陰道常在菌叢包含乳酸菌（製造乳酸建立陰道酸性環境）、乙型鏈球菌等嗜氧菌；而細菌性陰道炎 (BV) 是陰道內厭氧菌過度增生，取代常在菌叢導致，其風險因子包含陰道灌洗或性行為（鹼性的精液），容易破壞常在菌叢或酸性環境\n\n故刪去 (A) (B) (D) 敘述不正確的選項後，(C) 是剩餘最適當的選項\n\n[ 編按 ] 暑考【111-2(六)48】同樣也考 BV！",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-47_merged.png",
     "explanation_images": null
   },
   {
@@ -5170,8 +5170,8 @@
       "D": "萎縮性子宮內膜炎"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "停經後子宮內異常出血常見的原因包含（取自 Berek & Novak's Gynecology, Table 10-13）：外源性雌激素 (30%)、萎縮性子宮內膜炎 / 陰道炎 (30%)、子宮內膜癌 (15%)、子宮內膜 / 子宮頸息肉 (10%)、子宮內膜增生 (5%)，故沒有服用荷爾蒙者，最常見的成因就是萎縮性子宮內膜炎，故選 (D)\n\n[ 另類解題方式 ] 題幹所述「沒有服用荷爾蒙（未明示 estrogen 或 estrogen + progesterone）」的停經女性，而 (A) (B) (C) 的生長皆與荷爾蒙相關，因此 (D) 為可能的答案",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-48_merged.png",
     "explanation_images": null
   },
   {
@@ -5187,8 +5187,8 @@
       "D": "stage IIIB"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "依照題目資訊：病理診斷是子宮頸癌，大小 1 cm、侵犯深度 5 mm，且病灶僅限於子宮頸而沒有侵犯至陰道（刪去 (B)）、鄰近構造（刪去 (C)）、遠端器官（刪去 (D)），故依照 2018 FIGO for Cervical Cancer 的分期為 Stage IB1（子宮頸內，深度 ≥ 5 mm、最大橫徑 <2 cm），以下簡單提供 2018 FIGO for Cervical Cancer 的記法：\n\n| 期別 | 定義與侵犯範圍 | 細分期與腫瘤大小 |\n| :--- | :--- | :--- |\n| IA | 顯微鏡才看得到，侵犯深度 <5 mm ⇒ 比深度（往下） | IA1: <3 mm<br>IA2: ≥ 3, <5 mm |\n| IB | 侵犯深度 ≥ 5 mm，且肉眼可見 ⇒ 比大小（往側） | IB1: <2 cm<br>IB2: ≥ 2, <4 cm<br>IB3: ≥ 4 cm |\n| IIA | 侵犯出子宮體，往下至陰道上 2/3 部分 | IIA1：<4 cm<br>IIA2：≥ 4 cm |\n| IIB | 侵犯出子宮體，往側向的鄰近構造 (parametrial involvement) | |\n| IIIA | 往下至陰道下 1/3 部分 | |\n| IIIB | 往側至骨盆腔壁，或因壓迫輸尿管造成腎水腫 / 腎衰竭 | |\n| IIIC | 淋巴轉移至骨盆腔 / 主動脈旁淋巴結 | IIIC1：僅骨盆腔<br>IIIC2：主動脈旁 |\n| IV | IVA: 其他骨盆腔器官；IVB: 轉移至遠端器官 | |\n\n[ 編按 ] FIGO 有時真的不好記，子宮頸癌可依照其擴散方向的簡單記憶（上表粗體字）",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-49_merged.png",
     "explanation_images": null
   },
   {
@@ -5204,8 +5204,8 @@
       "D": "腫瘤復發後直接進行化學治療"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
+    "explanation": "這題考名詞定義，neoadjuvant 治療指的是：在正式治癒性治療（通常是手術）之前，所進行的輔助治療，故 (A) 的敘述為最適當的答案\n(B) 敘述為輔助性治療 (adjuvant therapy)，通常針對在治癒性治療後有高局部擴散或隱性全身擴散風險者所安排\n(C) 敘述的化學治療較接近 adjuvant chemotherapy 的概念\n(D) 敘述的是針對復發腫瘤以化學治療作為治癒性治療，而非輔助治療",
+    "explanation_image": "/explanations/cropped/111-1-醫學(六)-50_merged.png",
     "explanation_images": null
   },
   {
