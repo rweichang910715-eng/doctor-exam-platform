@@ -8161,9 +8161,9 @@
       "D": "PSEN-1"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-52",
@@ -8178,9 +8178,9 @@
       "D": "本態性顫抖（essential tremor）"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-53",
@@ -8195,9 +8195,9 @@
       "D": "肉毒桿菌中毒使用類固醇無效"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-54",
@@ -8212,9 +8212,9 @@
       "D": "肘隧道症候群（cubital tunnel syndrome）"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-55",
@@ -8229,9 +8229,9 @@
       "D": "慢性脫髓鞘多發性神經病變（chronic inflammatory demyelinating polyneuropathy）"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-56",
@@ -8246,9 +8246,9 @@
       "D": "隱球菌"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-57",
@@ -8263,9 +8263,9 @@
       "D": "高惡性度神經膠質瘤的病人較可能發生癲癇發作（seizures）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-58",
@@ -8280,9 +8280,9 @@
       "D": "腦脊髓液中葡萄糖量是在正常範圍"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-59",
@@ -8297,9 +8297,11 @@
       "D": "無病識感"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "解離現象指的是在記憶、自我意識或認知的功能上的崩解，起因通常是極大的壓力或極深的創傷，相關症狀包括特定一段的記憶喪失，或是感覺被從自己的身體或情感抽離出來，以及對於周遭的人事物陌生等等\n\n(A) 速度快且難以打斷，話題不斷變化－意念飛躍\n(C) 在執行拯救地球的任務－誇大妄想\n(D) 不知道為何被要求住院－無病識感",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-59_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-59_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-60",
@@ -8314,9 +8316,11 @@
       "D": "memantine 多用於治療輕度阿茲海默失智症（Alzheimer's disease）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(C)(D) 失智症藥物之機轉與作用時機如下，目前僅有 donepezil 對因阿茲海默症而有輕微、中度與嚴重失智的患者有益的證據，因此 (A) 選項不完全正確，memantine 為 NMDA receptor antagonist 且用於中重度以上之失智症，因此 (B) 為較適合之選項\n\n| 作用機轉 | 藥物說明 | 藥物使用時機 |\n| :--- | :--- | :--- |\n| **乙醯膽鹼酶抑制劑<br>(Cholinesterase inhibitors)** | 增加腦內傳導物質乙醯膽鹼的濃度來改善失智症病人之症狀 | 輕度至中度失智症：donepezil、rivastigmine 及 galantamine |\n| **NMDA 受體拮抗劑<br>(NMDA receptor antagonist)** | 透過對 NMDA 受體之拮抗作用，減少麩氨酸 (glutamate) 所造成之神經毒性而降低腦細胞的受損或死亡 | 中重度失智症：限使用 memantine<br>重度失智症：限使用 donepezil 及 memantine |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-60_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-60_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-61",
