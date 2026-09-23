@@ -7985,9 +7985,11 @@
       "D": "酒精（alcohol）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題考化學性白斑症或職業性白斑的暴露物質，化學性皮膚脫色是因為長期接觸化學藥劑引起，目前已知可能誘發化學性白斑的物質包括含酚醛鄰苯二酚衍生物 (aromatic or aliphatic derivatives of phenols and catechols)、杜鵑醇（化妝品）或是對苯二胺（就是 PPD，常見於染髮劑中，是最常見的原因）",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-41_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-41_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-42",
@@ -8002,9 +8004,11 @@
       "D": "不論男女，topical minoxidil 為雄性禿的治療選項"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 正確，雄性禿目前通用的是 Norwood-hamilton 分類法；總共分成 7 個等級，在前額部比較嚴重明顯的另外分成 A 系列，有興趣者可再上網搜尋圖\n\n(B) 錯誤，雄性禿患者因為 DHT (Dihydrotestosterone) 攻擊毛囊，促使毛囊萎縮、毛囊生長週期縮短，導致頭髮變細軟稀疏，逐漸脫落，因此並不會抱怨短時間內的大量落髮，大量的 active hair loss 比較像 alopecia areata（俗稱鬼剃頭）\n\n(C) 正確，雄性荷爾蒙攻擊毛囊造成生長期 (anagen phase) 縮短 → 休止期 (telogen phase) 變長 → 毛髮變細 (miniaturization of scalp hair follicle)、毳毛 (vellus hair) 增加\n\n(D) 正確，topical minoxidil（落健生髮水的成分）可促進鉀離子通透而減少鈣離子進入，有助刺激頭皮毛囊生長、延長毛髮生長期，並喚醒休眠期毛髮進入生長期",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-42_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-42_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-43",
@@ -8019,9 +8023,11 @@
       "D": "incontinentia pigmenti"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "這個寶寶全身覆蓋一塊一塊被裂縫所隔開的菱形狀厚皮 → harlequin ichthyosis，Harlequin ichthyosis（斑色魚鱗癬）又稱 ichthyosis fetalis，為染色體 2q35 上的 ABCA12 突變導致（體隱性遺傳），是先天性魚鱗癬中最嚴重的一型，預後很差，據統計存活率大概落在 50% 上下，依照疾病嚴重度，有的病人渡過嬰兒期的話，可以活到青春期甚至到 25 歲不等，目前只能 supportive care，可以擦大量保濕、retinoids 藥膏",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-43_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-43_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-44",
@@ -8036,9 +8042,9 @@
       "D": "左側無力合併左側肢體共濟失調（ataxia）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-45",
@@ -8053,9 +8059,9 @@
       "D": "收縮壓控制在 160 mmHg 以下"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-46",
@@ -8070,9 +8076,9 @@
       "D": "非細菌性血栓性心内膜炎（nonbacterial thrombotic endocarditis）"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-47",
@@ -8087,9 +8093,9 @@
       "D": "如果抗癲癇藥物不能有效控制病情或癲癇發作影響生活品質，癲癇手術是可能的選擇"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-48",
@@ -8104,9 +8110,9 @@
       "D": "十年內發展成巴金森氏病的危險率增加"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-49",
@@ -8121,9 +8127,9 @@
       "D": "onabotulinum toxin type A"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-50",
@@ -8138,9 +8144,9 @@
       "D": "跨皮質失語症（transcortical aphasia）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-51",
