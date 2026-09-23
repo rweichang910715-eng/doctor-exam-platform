@@ -8335,9 +8335,11 @@
       "D": "抗憂鬱劑在憂鬱症與雙相情緒障礙症（bipolar disorder）鬱期，都是首選藥物"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "* **(A) 錯誤**：躁期病人需要的是情緒穩定劑並非抗憂鬱劑，可參閱【111-1(四) 62】表格\n* **(B) 正確**：aripiprazole 主要是雙相情緒障礙症的用藥，但在作為輔助治療時 MDD 和 ASD 也有拿到適應症\n* **(C) 錯誤**：經顱刺激目前的應用範圍包括：treatment-resistant depression, PTSD, OCD, Tourette syndrome，經顱刺激目前對於思覺失調症的效果仍不明\n* **(D) 錯誤**：抗憂鬱劑運用於雙相情緒障礙症時容易造成情緒不穩定或是引發躁症，因此並非首選用藥",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-61_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-61_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-62",
@@ -8352,9 +8354,11 @@
       "D": "思考置入（thought insertion）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "最近精神科出了不少給情境要判斷是什麼症狀的題目，務必了解名詞定義\n\n* **(A) 關係妄想**：患者把實際與他無關的事情，認為與他本人有關係。例如本題中患者認為電視都在報導他們家發生的事情就是一例\n* **(B) 思考抽離**：患者會認為自己的想法被從自己的心靈抽出，而且患者無能為力。本題有提到相關症狀\n* **(C) 被害妄想**：患者堅信周圍人的或某些團夥對他進行跟蹤監視、打擊、陷害，甚至在其食物和飲水中放毒等。本題有提到患者認為傭人試圖對他不利\n* **(D) 思考置入**：患者感覺自己的思想不屬於自己，而是由別人植入，有些患者也會妄想別人能加插一些想法予其他人的思想中，或是能中斷及奪去自己的思想。本題沒有提到相關敘述",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-62_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-62_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-63",
@@ -8369,9 +8373,11 @@
       "D": "妄想症（delusional disorder）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "純記憶題，焦慮疾患（anxiety disorders）常常伴隨功能性腸胃障礙，最常見的是食道痙攣",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-63_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-63_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-64",
@@ -8386,9 +8392,11 @@
       "D": "嚴重個案合併藥物與心理治療，會比使用單一治療效果好"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "* **(A) 錯誤**：睡眠剝奪治療對於憂鬱症的治療雖有效果但都是短期，不然 clerk 在精神科病房夜間學習的任務搞不好就變成一直叫病人起床了\n* **(B) 錯誤**：照光治療其實主要用於高緯度國家的季節性憂鬱的治療，雖然此療法耐受性高，但教科書上還是提到雖然罕見但轉變成躁症的風險\n* **(C) 錯誤**：經顱磁刺激治療常出現頭痛（42%）、頭暈、噁心、疲倦、耳鳴等暫時性副作用，癲癇則相對少見\n* **(D) 正確**：憂鬱症複合治療通常效果好於單一治療",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-64_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-64_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-65",
@@ -8403,9 +8411,11 @@
       "D": "強迫症（obsessive-compulsive disorder）女性罹病率高於男性"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "強迫症在兒童時期以男性為多，但到了青少年與成年之後女性為多。下表整理出常見精神科疾病盛行率男女比，詳細數據各家說法不一，僅供參考\n\n| 疾病 | 女 / 男<br>終身發生率比 | 疾病 | 女 / 男<br>終身發生率比 |\n| :--- | :--- | :--- | :--- |\n| PTSD | 2.08 | Bipolar disorder | 1.0 |\n| Panic disorder | 1.96 | Schizophrenia | 0.71 |\n| Generalized anxiety | 1.88 | Parkinson's disease | 0.53 |\n| MDD | 1.75 | Drug use disorder | 0.51 |\n| OCD | 1.6 | Alcohol dependence | 0.46 |\n| Alzheimer's disease | 1.3 | ADHD | 0.42 |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-65_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-65_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-66",
@@ -8420,9 +8430,11 @@
       "D": "高劑量或混合使用可產生肝臟毒性，長期使用會提高各類生理疾病和意外事故的風險"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "應該算送分題，急性副作用是嚴重的戒斷症候群這個敘述本身十分矛盾\n\n* **(A) 錯誤**：BZD 急性副作用包括嗜睡、噁心、嘔吐、記憶力障礙、反彈性失眠（rebound insomnia）、精神恍惚、運動失調、呼吸抑制等。突然停藥可能產生的戒斷症狀包括初期的表徵類似焦慮症狀，接著可能會出現焦慮增加、注意力無法集中、疲倦、不安、厭食、頭暈、出汗、嘔吐、失眠、暴躁、噁心、頭痛、肌肉緊張／抽搐、顫抖等症狀\n* **(B) 正確**：補充 BZD 的四種藥物特性有抗焦慮（anxiolytic）、抗痙攣（anti-convulsion）、安眠（hypnotics）、以及肌肉放鬆（muscle relaxant）。實際運用上：Lorazepam（抗焦慮為主）、Estazolam（安眠為主）、Clonazepam（抗癲癇為主）、Diazepam（治療焦慮、肌肉痙攣、失眠及癲癇都很強）\n* **(C) 正確**：短效的 BZD 比長效的成癮性高\n* **(D) 正確**：BZD 長期使用會產生耐受性、依賴性及出現嗜睡、步履不穩、注意力不集中、記憶力和判斷力減退等症狀",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-66_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-66_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-67",
@@ -8437,9 +8449,11 @@
       "D": "②③④"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "鴉片類藥物的成癮和副作用真的每次都考一題，①③皆為正確敘述\n\n* 海洛因**急性中毒**表現的症狀包括縮瞳、呼吸抑制、噁心嘔吐、暈眩、意識不清、皮膚癢、便秘、尿液滯留及低血壓等，因此 **② 並不正確**\n* 關於**戒斷症狀**目前會用 “Changed Set Point” 模型解釋。在正常人中，the locus ceruleus 會設定好釋放足量的 noradrenaline 給大腦其他部位以維持呼吸心跳和警醒。鴉片的使用會讓這個設定好的機制改變，當鴉片結合上 mu receptor 時，the locus ceruleus 釋放的 noradrenaline 量會降低，使人昏昏欲睡、心跳血壓降低。暴露於鴉片久了以後，the locus ceruleus 因為長久被壓抑只好提高之前設定好 noradrenaline 釋放量來維持正常功能。當停用海洛因時，noradrenaline 就會變得過量而產生緊張、焦慮、腹瀉、顫抖等副作用，因此只好使用更多的鴉片將活性抑制而造成惡性循環，因此 **④ 並不正確**",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-67_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-67_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-68",
@@ -8454,9 +8468,11 @@
       "D": "認知退化進展後，發生自發性巴金森氏的特徵"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "謹記三個 core features (demantia + Parkinsonism + visual hallucination) 即可\n\n| Diagnosis requires |\n| :--- |\n| ≥ 2 core features or 1 core feature + 1 suggestive feature |\n| **Core features** |\n| (1) Fluctuating cognition (2) Recurrent visual hallucination (3) Parkinsonism |\n| **Suggestive features** |\n| (1) REM sleep behavior disorder (2) Severe neuroleptic sensitivity (3) Low dopamine activity in basal ganglia on dopamine transporter SPECT or PET |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-68_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-68_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-69",
@@ -8471,9 +8487,11 @@
       "D": "替代性治療可降低病人戒菸期間的戒斷症狀"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "* **(A)**：教科書的原文是 “Withdrawl symptoms can develop within 2 hours”，雖然翻譯上有些瑕疵，不過相對來說還算是正確選項\n* **(B)(D) 正確**\n* **(C) 錯誤**：高達 90% 的思覺失調症患者對尼古丁有依賴性，研究推測可能是思覺失調症患者腦中的 nicotinic receptor 異常所導致",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-69_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-69_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-70",
@@ -8488,9 +8506,11 @@
       "D": "維持注意力（sustain attention）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "轉換注意力（shift attention）即是將注意力或是焦點從現在這個主題轉換到下一個的能力，本題病人此功能有障礙",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-70_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-70_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-71",
