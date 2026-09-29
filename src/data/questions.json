@@ -9091,9 +9091,11 @@
       "D": "對於直徑 3 公分的主動脈瘤應持續於門診追蹤，若病人無出現新的症狀，應每三個月密集行追蹤影像檢查"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 真動脈瘤 (true aneurysm) vs. 假性動脈瘤 (pseudoaneurysm)：\n\n| | True aneurysm | Pseudoaneurysm |\n| :--- | :--- | :--- |\n| 定義 | 血管壁三層皆向外膨出所導致的血管異常擴張；仍保有血管壁完整性 | 血管壁損傷使得血液流到血管壁之間而產生動脈瘤 |\n| 血管壁 | 內膜、中膜、外膜皆向外膨出 | 不會同時影響內膜、中膜、外膜三層 |\n| 常見成因 | 動脈粥狀硬化 (atherosclerosis) | 血管損傷 (trauma) |\n| 破裂機率 (rupture) | 較低 | 較高 |\n| 手術適應症 | • 胸主動脈瘤：≥6 cm（無論有無症狀）、≥5 cm 但快速擴大（≥0.5 cm/ 半年）、非典型胸主動脈瘤（假性主動脈瘤、合併感染、胸主動脈食道廔管或腸道廔管或氣管廔管）<br>• 腹主動脈瘤：≥5 cm（無論有無症狀）、≥4 cm 但快速擴大（≥0.5 cm/ 半年）、非典型副主動脈瘤（合併感染、腹主動脈腸胃道廔管或下腔靜脈廔管）<br>• 患者合併典型症狀，有破裂之虞或破裂時 | |\n\n真動脈瘤是否進行手術需考慮動脈瘤位置、大小、擴大速度、症狀、合併狀況等，而假性主動脈瘤的手術適應症門檻則相對較低（較易破裂）\n\n(B) Mycotic aneurysm 最常見的感染源應為 Staphylococcus aureus\n\n(C) Sabiston (Chapter 62) 中有提到 “Avoidance of spinal cord injury secondary to ischemia is paramount in surgery of the thoracic and thoracoabdominal aorta for both open and endovascular approaches.” 其中可協助脊髓保護的方法包括：cerebrospinal fluid (CSF) drainage、distal perfusion、低體溫、藥物治療，故此選項敘述正確\n\n(D) 主動脈瘤的影像追蹤：（參考自 The Society for Vascular Surgery Clinical Practice Council, SVS）\n\n| 胸主動脈瘤 | 腹主動脈瘤 |\n| :--- | :--- |\n| • <2.6 cm：免進一步追蹤<br>• 2.6~2.9 cm：每 5 年追蹤<br>• 3~3.4 cm：每 3 年追蹤<br>• 3.5~4.4 cm：每 12 個月追蹤<br>• 4.5~5.4 cm：每 6 個月追蹤 | • <3 cm：免進一步追蹤<br>• 3~3.9 cm：每 3 年追蹤<br>• 4~4.9 cm：每 12 個月追蹤<br>• 5~5.4 cm：每 6 個月追蹤 |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-21_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-21_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-22",
@@ -9108,9 +9110,11 @@
       "D": "May-Thurner syndrome 常為靜脈血栓的併發症"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 深層靜脈栓塞 (DVT) 的危險因子：年齡、惡性腫瘤、先前手術、靜脈栓塞病史、BMI 增加、懷孕、長期臥床、抽菸等\n\n(B) Virchow's triad 包括 stasis, hypercoagulable state, venous injury (endothelial injury)，為靜脈栓塞形成的重要因素\n\n(C) protein C、protein S、antithrombin III 的缺少都會導致 hypercoagulable state，進而增加靜脈栓塞形成的可能性，其他會導致 hypercoagulable state 的原因包括：antiphospholipid syndrome, Lupus Ab, anticardiolipin Ab, factor V Leiden mutation, prothrombin gene mutation, homocysteinemia（高胱胺酸血症）等\n\n(D) May-Thurner syndrome，又可稱為 iliac vein compression syndrome（髂靜脈壓迫症候群）或 Cockett's syndrome，指的是右側髂總動脈 (right common iliac artery) 壓迫左側髂總靜脈 (left common iliac vein)，造成左腿靜脈回流異常而導致靜脈高壓的症候群，可能出現的症狀包括：左腿腫脹疼痛、表淺靜脈曲張、皮膚皺摺變淺、皮膚青苔化、慢性潰瘍、復發性 DVT、復發性 cellulitis、跛行等，綜合上述，此選項應改為「靜脈栓塞為 May-Thurner syndrome 常見的併發症」更為合適（註：正常解剖中，右側髂總動脈會從上方橫跨過左側髂總靜脈，建議大家可以自行上網搜尋圖加深印象）\n\n參考資料：Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 65",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-22_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-22_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-23",
@@ -9125,9 +9129,11 @@
       "D": "主動脈瓣狹窄比二尖瓣狹窄惡化進展快，猝死死亡率也高"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 主動脈瓣開口小於 1 cm²，已達 severe AS 的程度，加之病患有症狀，故可置換瓣膜（詳細主動脈瓣置換手術的適應症，請見 111-2 第 20 題詳解）\n\n(B) 二尖瓣開口小於 1.5 cm² 屬於 severe MS，根據 AHA/ACC guidelines，任何有症狀的 severe MS 或無症狀的 very severe MS 都建議進行介入性治療，此選項雖未多加敘述病人更多的臨床狀況，但由描述推論，在須介入的情況下先使用氣球擴張術成效不彰，最終建議侵入性更高的手術置換，應為合理的敘述\n\n(C) 主動脈瓣置換術現已有成熟的導管技術 TAVR (transcatheter aortic valve replacement) 可做選擇，但二尖瓣狹窄目前仍以傳統手術為主要手術治療方法\n\n(D) 正確，主動脈瓣狹窄較二尖瓣狹窄惡化進展快，1-year mortality rate 較高",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-23_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-23_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-24",
@@ -9142,9 +9148,11 @@
       "D": "肥厚性心肌病變（hypertrophic cardiomyopathy）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "“square-root sign” 又稱為 “dip & plateau pattern”，可見於 Constrictive pericarditis，由於在心室舒張早期，一開始心房壓力大且心室壓力小血液快速填入心室，而後舒張晚期逐漸擴大的體積碰到僵硬的心包膜使心室壓力驟然上升而血液填充忽然停止，因此導管壓力曲線會記錄到忽然一個下降然後跟隨著一個維持不動的平原期 (fast early diastolic filling (driven by high atrial pressures) followed by a rapid rise of ventricular pressures (due to the noncompliant pericardium))\n\n以下為 constrictive pericarditis 與 restrictive cardiomyopathy 的比較：\n\n| | | Constrictive pericarditis | Restrictive cardiomyopathy |\n| :--- | :--- | :--- | :--- |\n| **臨床表現** | pulsus paradoxus | 皆有 | |\n| | jugular vein | prominent y & x descent, Kussmaul's sign(+) | |\n| | 心音 | 心包叩擊音 (pericardial knock) | 第三心音 |\n| **影像** | 心包鈣化 | + | - |\n| | 心包膜增厚 | + | - |\n| **血液動力學** | | 四個腔室在舒張時的靜止靜脈壓相同 (= four chamber equalization) | 四個腔室的末期舒張壓不同 |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-24_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-24_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-25",
@@ -9159,9 +9167,11 @@
       "D": "早期腸道灌食，營養補充"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "食道破裂的處置原則，包括：\n(1) 清除致污物\n(2) 廣泛引流：一般來說會使用胸管進行引流\n(3) 感染源頭控制：一般來說可藉由食道支架的放置控制感染並降低併發症，延遲性診斷者，支架放置仍優先於手術修補食道破裂處\n(4) 早期腸道灌食\n\n(C) 即使延遲性發現食道破裂，還是以引流與感染源控制為優先處置\n\n參考資料：Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 42",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-25_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-25_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-26",
@@ -9176,9 +9186,11 @@
       "D": "沒有阻塞吞嚥困難（dysphagia）之症狀"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "巴瑞特氏食道炎 (Barrett esophagus) 為一種食道癌的癌前病變，當鄰近胃賁門的食道黏膜長期在胃酸逆流的刺激下，由扁平的鱗狀上皮細胞轉變為柱狀上皮細胞，日後可能轉變為食道腺癌 (esophageal adenocarcinoma)，在臨床上藉由上消化鏡切片後病理學診斷，若病人長期有胃食道逆流，建議加以治療；若曾診斷 Barrett esophagus，無論分化程度，均建議定期追蹤，甚至以射頻消融 (radiofrequency ablation) 等方法進行治療，以免進一步癌化\n\n(A) 前半敘述正確，後半應改為「食道鱗狀上皮細胞轉變為柱狀上皮細胞」\n\n(B) 應為食道腺癌\n\n(C) 該選項正確，胃食道逆流的治療方式包括：生活習慣調整（減重及平躺時頭抬高）、藥物治療（制酸劑、H₂ blocker、調節腸胃蠕動藥物、PPI 等）、手術治療（藥物治療無效，可考慮胃底折疊術 fundoplication）\n\n(D) 可能出現吞嚥困難的症狀",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-26_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-26_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-27",
@@ -9193,9 +9205,11 @@
       "D": "乳頭型（papillary）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Sabiston 中提到 adenocarcinoma in situ 之定義為 “pure lepidic growth, tumor cells proliferating along the surface of intact alveolar walls without stromal or vascular invasion”",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-27_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-27_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-28",
@@ -9210,9 +9224,11 @@
       "D": "大多數病患診斷時已有遠端轉移，因此治療以化學治療為主"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腺樣囊狀癌 (adenoid cystic carcinoma) 為生長緩慢的惡性腫瘤，且較好發於女性，由於經常影響氣管與主支氣管，大部份病人會發生喘鳴 (stridor)，其中 1/3 的病人在診斷時就已發現遠端轉移，經常轉移到的位置包括神經周圍的淋巴系統 (perineural lymphatics)、局部淋巴結 (regional nodes)、肝臟、骨頭及腎臟，治療方式以廣泛全切除 (wide en bloc resection) 為主，且手術時盡可能保留越多肺組織；不適合進行手術的病人則可使用放射線治療",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-28_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-28_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-29",
@@ -9227,9 +9243,11 @@
       "D": "若有皮下氣腫及縱隔腔氣腫則要考慮食道或氣管受傷"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 頸部穿刺傷仍須排除食道損傷、破裂等狀況\n\n(B) 胸部刺入物若貿然移除，可能導致大量失血而危及生命\n\n(C) 血胸為出血累積於肋膜腔，無法由外觀判定，須觀察病人的臨床表現（呼吸短而急促、心跳加快、失血過多甚至導致血壓下降），並可透過身體檢查（患側呼吸音變小、叩診氣胸處鼓音、叩診血胸處濁音）及影像檢查（胸部 X 光、胸部電腦斷層）進行診斷\n\n(D) 皮下及縱隔腔均為不該有氣體出現的地方，氣腫可能發生於消化道或呼吸道出現破損時",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-29_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-29_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-30",
@@ -9244,9 +9262,11 @@
       "D": "Enteric cyst 通常生長於食道旁"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 大於 75% 沒有症狀\n\n(B) Bronchogenic cyst 為最常見的 primary mediastinal cyst，大多位於氣管或支氣管近端 (proximal to trachea or bronchi)，且鮮少與支氣管相連；但當與支氣管相連時，bronchogenic cyst 便很可能受到感染\n\n(C) Pericardial cyst 為第二常見的 primary mediastinal cyst，並且約 7 成發生於右側 cardiophrenic angle\n\n(D) Enteric cyst 常生長於食道旁，隨著尺寸的增大會壓迫食道、導致吞嚥困難\n\n參考資料：Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 58",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-30_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-30_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-31",
