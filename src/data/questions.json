@@ -9281,9 +9281,11 @@
       "D": "兒童脾臟切除之後併發猛爆型感染症（overwhelming postsplenectomy infection）的風險比成人高"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 嚴重肝硬化病人的血小板減少，可能因肝病本身導致或因肝硬化導致脾腫大而使血小板堆積於脾臟所致，治療主要應針對原發性病因進行處置（改善肝硬化），但脾腫大造成的血小板低下和伴隨的門脈高壓可能導致緊急危機，這些病人可考慮脾切除、部分皮栓塞術、射頻燒灼術 (radiofrequency ablation) 等方法進行處置，此敘述斬釘截鐵地表示「必須切除脾臟」作為處置方式有點過於武斷\n\n(B) 脾臟切除最常見的原因為腹部外傷及醫源性原因所導致的脾臟損傷\n\n(C) 脾臟切除後併發的猛爆型感染症 (overwhelming postsplenectomy infection, OPSI) 主要由多醣莢膜細菌所致，如 S. pneumoniae, N. meningitidis, H. influenzae 等\n\n(D) OPSI 之危險因子：年紀輕、Thalassemia major、鐮刀型貧血、ITP、淋巴癌、免疫低下",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-31_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-31_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-32",
@@ -9298,9 +9300,11 @@
       "D": "克隆氏症（Crohn's disease）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "短腸症為小腸被切除 70~75% 時，因腸段減短導致營養消化吸收減少無法提供身體所需，造成長期營養不良的情形，常見症狀包括腹瀉、脫水、疲勞、體重減輕等，切除大段小腸後造成短腸症的危險因子，包括：小腸長度 <200 cm、切除遠端 2/3 的迴腸（包括 ileocecal valve）、曾全結腸切除 (absence of colon) 及剩餘腸段受疾病影響 (Ex: Crohn's disease)，詳細說明如下：\n\n(A) 見 (B) 敘述\n\n(B) 腸段被切除後，腸子通常仍有足夠的適應能力避免被切除後吸收和消化功能受影響所導致的併發症，然而迴腸後 2/3 段（含 ileocecal valve）若被切除，會明顯影響膽鹽和維他命 B12 的吸收，導致腹瀉和貧血，使得這樣的適應能力大大減弱，而更易導致短腸症；相比之下，小腸前段即使被大量切除，迴腸仍有良好的吸收能力可適應腸段的減少\n\n(C) 結腸具有吸收大量液體及電解質的功能，並且可吸收短鏈脂肪酸\n\n(D) 患有 Crohn's disease 的病人，其腸子狀態差的情況下，若切去大段腸子，比正常人更易出現短腸症",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-32_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-32_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-33",
@@ -9315,9 +9319,11 @@
       "D": "肝臟星狀細胞（stellate cells）又稱 Ito cells，存在於 space of Disse，主要功能之一為儲存維生素Ａ"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "肝臟小葉根據不同概念有三種分法：\n\n| | 結構 | 特徵 |\n| :--- | :--- | :--- |\n| **傳統肝臟小葉 Classic lobule** | 以 central vein 為中心，呈六角形 | 血流由周圍流往中央，膽汁流向與血流相反 |\n| **肝門小葉 Portal lobule** | 以 portal area 為中心，呈三角形；portal area 中包含 portal triad | 外分泌腺（膽汁）流向中央，而以其作為劃分所得出的小葉 |\n| **腺泡肝小葉 Acinar lobule** | 以 central vein 和 portal area 為頂點，以 distributing arteriole 為中心，呈菱形，為功能單位 | 依照距離 central vein 的遠近可分為 3 個 zone，各有不同的生理特性 |\n\n(A) 見上表腺泡肝小葉\n\n(B)(C)(D) 皆正確",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-33_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-33_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-34",
@@ -9332,9 +9338,11 @@
       "D": "所謂 Cantlie's line，係指膽囊窩至下腔靜脈的連線"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "鐮狀韌帶僅能簡單將肝臟大致分為左右兩葉，但此劃分方法過於簡化且無法正確將肝臟按照血液供應進行分葉，故較正式的肝臟之功能性解剖中，以 Cantlie's line（膽囊窩至下腔靜脈的連線，與 middle hepatic vein 走向一致）將肝臟分為左右葉，right hepatic vein 將肝臟右葉分為前分段 (segment V & VIII) 與右分段 (segment VI & VII)，left hepatic vein 將肝臟左葉分為左分段 (segment III & IV) 與左分段 (segment II)，portal vein 分支再分別將左右葉的前後分段進一步分為上下分段，尾狀葉位於肝臟背側，獨立為一葉",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-34_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-34_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-35",
@@ -9349,9 +9357,11 @@
       "D": "基質瘤（gastrointestinal stromal tumor）的預後，主要視癌細胞分裂情況而定，與腫瘤大小無關"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 基質瘤 (stromal tumor) 與腺瘤 (adenoma) 為最常見的小腸良性腫瘤，好發於迴腸\n\n(B) 腺癌 (adenocarcinoma) 為最常見的小腸惡性腫瘤，好發於空腸；神經內分泌腫瘤 (neuroendocrine tumor) 第二常見，除了腺癌外的小腸惡性腫瘤均較常見於迴腸\n\n(D) 基質瘤的癌化風險與預後與癌細胞分裂情況及腫瘤大小有關",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-35_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-35_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-36",
@@ -9366,9 +9376,11 @@
       "D": "胃的 low-grade MALT（mucosa-associated lymphoid tissue）lymphoma 可用根除幽門螺旋桿菌來治療，約 75%病人可達到緩解（remission）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 1997 年以前的 N stage 取決於受侵犯淋巴結的解剖位置，但現今主要取決於數量，且至少需在術中取出 16 顆淋巴結進行病理化驗才可得出確切的分期\n\n(B) 見 (A)\n\n(C) 位於胃底 (gastric fundus) 或胃賁門 (gastric cardia) 的病灶，標準治療為胃全切除 (total gastrectomy) 加上淋巴結廓清術\n\n(D) 胃部 MALToma 與 H. pylori 感染高度相關，根除 H. pylori 是有助於緩解的治療方法",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-36_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-36_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-37",
@@ -9383,9 +9395,11 @@
       "D": "white blood cell count"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Ranson prognostic criteria (criteria for acute gallstone pancreatitis):\n\n| 入院時 | 起初 48hr |\n| :--- | :--- |\n| • 年紀 >70 歲<br>• WBC >18000/mm³<br>• 血糖 >220 mg/dL<br>• LDH >400 IU/L<br>• AST >250 U/dL | • Hct 下降 >10 points<br>• BUN 上升 >2 mg/dL<br>• 血鈣 <8 mg/dL<br>• 鹼缺乏 (base deficit) >5 mEq/L<br>• 預估體液流失 (estimated fluid sequestration) >4 L |\n\n每項一分，分數越高則死亡率越高",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-37_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-37_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-38",
@@ -9400,9 +9414,11 @@
       "D": "此症狀大部分需要手術治療，以減緩胃排空速率"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "題幹所描述的為 dumping syndrome，乃因高滲透壓食糜迅速排空至小腸，導致體液迅速移至腸腔所致，好發於接受過胃切除手術的病人\n\nDumping syndrome 的症狀又可分為 early 及 late dumping syndrome：\n\n| | 用餐後 | 症狀 |\n| :--- | :--- | :--- |\n| **Early dumping syndrome** | <30 min | 水都跑到腸胃道，造成腸胃道及心血管問題（血管內水分變少）：<br>• 噁心、腹瀉、上腹痛<br>• 低血壓、頭痛、心悸、潮紅 |\n| **Late dumping syndrome** | 1~4hr | 因胰島素分泌而造成低血糖，產生血管舒縮症狀 (vasomotor symptoms) |\n\n處置方法包括：\n(1) 調整飲食習慣：少量多餐、增加咀嚼次數、限制液體食物攝取、避免純糖或精緻醣類食物；大部分人經飲食調整後症狀就會改善\n(2) 藥物治療：Somatostatin（Octreotide 可延長腸胃排空）、Serotonin antagonist（對 early dumping 較有效）、Acarbose（減緩醣類分解、減少胰島素分泌，避免 late dumping 發生）等\n(3) 手術治療：藥物失敗後再考慮手術治療",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-38_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-38_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-39",
@@ -9417,9 +9433,11 @@
       "D": "metaiodobenzylguanidine（MIBG）scan"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 高解析度電腦斷層攝影 (HRCT) 為鑑別醛固酮分泌腺瘤與雙側腎上腺增生的首選，但影像上的腎上腺腫瘤不一定是醛固酮分泌腺瘤，此方法無法評估腫瘤之生理功能或其是否分泌某種化學物質，故可考慮採用腎上腺靜脈取樣做進一步鑑別診斷\n\n(B) 在醛固酮分泌腺瘤中 NP-59 顯影會增加，雙側腎上腺增生則不顯影\n\n(C) 同時從腎上腺靜脈及周邊靜脈取樣檢測醛固酮濃度，並同時檢測皮質醇濃度以矯正誤差；若醛固酮與皮質醇濃度的比值在單側腎上腺靜脈高於周邊靜脈 2 倍以上，但在對側靜脈則不高於周邊靜脈，則可診斷單側醛固酮過度分泌，此方法可避免不必要的手術切除無功能瘤或雙側腎上腺增生合併之巨大結節\n\n(D) MIBG scan 中的藥劑 MIBG (Metaiodo Benzylguanide) 為一種類似正腎上腺的藥劑，會聚積在儲有兒茶酚胺 (catecholamine) 的腎上腺髓質嗜鉻性細胞或是交感神經末梢內，因此可用以診斷腎上腺嗜鉻細胞瘤或其他嗜鉻性細胞腫瘤，如甲狀腺髓質癌、亞神經節瘤（存於交感神經及全身嗜鉻組織）、神經母細胞瘤 (neuroblastoma)、類癌瘤 (carcinoid tumor) 等；無法用以鑑別 bilateral adrenal hyperplasia",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-39_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-39_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-40",
@@ -9434,9 +9452,11 @@
       "D": "parathyromatosis"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "血鈣高且 PTH 高，應為 primary hyperparathyroidism，又題幹提到頸部有腫塊，故最可能的診斷應為 parathyroid cancer\n\n(A) sarcoidosis 或 granuloma 等 granulomatous disorders 會導致 1-α-hydroxylase 的過度表現，進而增加活性維生素 D，增加小腸吸收鈣的能力，造成高血鈣\n\n(D) parathyromatosis 為副甲狀腺切除後殘餘組織增生進而導致反覆 hyperparathyroidism 的狀況",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-40_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-40_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-41",
