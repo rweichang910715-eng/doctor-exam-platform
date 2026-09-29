@@ -8525,9 +8525,11 @@
       "D": "與一般族群相比，此症的手足罹患其他發展障礙症的比例並未較高"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "* **(A) 錯誤**：ASD 男生約為女生的四倍\n* **(B) 正確**：確診 ASD 的女生智能不足的比例較高。然而，近年有許多研究認為，其實有一群智能較高的 ASD 女性沒有正確的被診斷出來，因為智能較高的女性即使在 ASD 的症狀影響之下也能發展出維持日常生活的策略，所以不容易被診斷出來\n* **(C) 錯誤**：ASD 患者的基因異質性高，目前認為 ASD 是結合多基因遺傳、新的基因突變以及後天環境多因素結合而成\n* **(D) 錯誤**：與一般族群相比，ASD 手足光罹患 ASD 的風險就是一般族群的 8 倍",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-71_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-71_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-72",
@@ -8542,9 +8544,11 @@
       "D": "通常增加多巴胺之藥物，譬如治療過動症之藥物有可能用來治療妥瑞氏症狀"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "妥瑞氏症 (Tourette's disorder) 是一種在兒童時期發病的神經發展疾病，常會伴隨其他精神症狀出現。盛行率大約是 0.3%~1%，男女比例是 4：1。病理生理學的部分牽涉到皮質 - 紋狀體 - 丘腦 - 皮質迴路和多巴胺調節系統，影響了運動、認知、動機、等行為\n\n* **(A) 正確**：有研究認為此疾病和第 13 對染色體長臂的 SLITRK1 基因相關\n* **(B) 正確**：約 80% 以上的患者會同時合併其他共病，如：注意力不集中及過動症 (21%~90%)、強迫症 (20~80%)、侵略性、焦慮、憂鬱、自我傷害的行為及睡眠異常 (20%~50%) 等\n* **(C) 正確**：PET 和 SPECT 影像發現部分腦區包括蒼白球 (globus pallidus)、殼核 (putamen)、尾核 (caudate nucleus) 及前額葉 (prefrontal cortex) 等活性降低\n* **(D) 錯誤**：目前 FDA 核准治療妥瑞氏症的藥物如第一代精神調節藥物 Haloperidol 和 Pimozide 都是強效的多巴胺受體拮抗劑",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-72_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-72_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-73",
@@ -8559,9 +8563,11 @@
       "D": "精神疾病，例如思覺失調症或酒癮，並非重要因素"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "注意題目要問的是自殺行為還是自殺死亡的風險\n\n* **(A) 錯誤**：男性自殺時通常手段較激烈，因此死亡風險較高\n* **(B) 正確**：自殺死亡率較高的科別，依序為精神科、麻醉科和急重症科\n* **(C) 錯誤**：自殺行為的高峰男性約為 45 歲而女性約為 55 歲，也就是俗稱的中年危機。而老年人的自殺率雖然沒有那麼高，但是自殺死亡率卻高於其他族群\n* **(D) 錯誤**：精神疾病是自殺的重要危險因子",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-73_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-73_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-74",
@@ -8576,9 +8582,9 @@
       "D": "血管性失智症（vascular dementia）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
     "explanation_image": null,
-    "explanation_images": null
+    "explanation_images": []
   },
   {
     "id": "111-2-醫學(四)-75",
@@ -8593,9 +8599,11 @@
       "D": "頸部磁振造影多可見頸長肌纖維化現象"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "嬰幼兒斜頸症以肌肉性斜頸最常見，好發於右側，是因為胸鎖乳突肌纖維化而導致攣縮。其典型症狀以右側肌性斜頸為例，寶寶頭頸傾向右側（即右耳較貼近右肩）、臉則會朝向左側轉",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-75_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-75_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-76",
@@ -8610,9 +8618,11 @@
       "D": "15：2"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "在成人心肺復甦術中，無論施救者人數，壓胸與吹氣的比例皆為 30：2。若是嬰兒或是兒童的心肺復甦術時，單一 1 人施救者的壓胸與吹氣的比例為 30：2，若有 2 人以上的施救者則壓胸與吹氣的比例為 15：2",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-76_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-76_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-77",
@@ -8627,9 +8637,11 @@
       "D": "老人"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據保護司 2017 年以來的統計數據，性侵受害者 6 成以上是未滿 18 歲兒少，且 4 分之 1 是男童。兒少性侵的加害者中有近 8 成是熟人",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-77_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-77_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-78",
@@ -8644,9 +8656,11 @@
       "D": "血管收縮劑如 norepinephrine 不適合用在此病人身上"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "依題目所敘述之被魚鰭刺傷 → 出現暗紅色出血的水泡，可以聯想到本題是想考感染海洋弧菌 (Vibrio vulnificus) 之後，快速惡化形成的壞死性筋膜炎 (necrotizing fasciitis)\n\n* **(A) 錯誤**：海洋弧菌 (Vibrio vulnificus) 才是最可能的致病菌\n* **(B) 正確**：治療首選是第三代 cephalosporin 加上 tetracycline 或 fluoroquinolone 類藥物\n* **(C) 錯誤**：病人已經出現敗血性休克，應該穩定生命徵象後盡快照會外科執行清創\n* **(D) 錯誤**：升壓劑還是可以適用於此類病人\n\n| 海洋弧菌 (Vibrio vulnificus) | |\n| :--- | :--- |\n| **細菌分類** | 革蘭氏陰性桿菌 (Gram negative bacilli, GNB) |\n| **好發族群** | 慢性病患，特別是肝硬化、酒精中毒、血色素沉著症及腎衰竭 |\n| **臨床表現** | (1) 原發性敗血症：吃入未煮熟的魚蝦貝類，導致腸胃道感染<br>(2) 傷口感染：傷口接觸到含有病菌的海水或被蝦、蟹類刺傷 |\n| **抗生素選擇** | 合併四環黴素（如 Minocycline、Doxycycline）及第三代的頭孢子菌素（如 Cefotaxime、Ceftazidime） |\n| **外科清創的必要** | 當合併有嚴重的皮膚或軟組織感染，如組織壞疽或壞死性筋膜炎 |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-78_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-78_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-79",
@@ -8661,9 +8675,11 @@
       "D": "請她詢問兒子保險公司業務員只開立前次住院之診斷書是否有幫助"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "依據醫師法第 11 條：「醫師非親自診察，不得施行治療、開給方劑或交付診斷書。」開立診斷書，病人應親自就醫，另可申請「病歷摘要」以作為證明之用，非原負責醫師只能依照原病歷記載開立，且不得於診斷書中記載原病歷上未記載之內容，本題選 (B)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-79_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-79_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(四)-80",
@@ -8678,9 +8694,11 @@
       "D": "需由法定代理人決定是否停止洗腎"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "吳先生目前意識與智能均正常，已有明確意思表示，故應尊重病人醫療自主、保障其善終權益，故本題選 (A)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-80_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-80_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-1",
