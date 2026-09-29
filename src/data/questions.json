@@ -8901,9 +8901,11 @@
       "D": "前位椎間盤切除減壓手術，術後病人可能發生聲音沙啞、喝水容易嗆到、和吞嚥困難的風險"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(B) 頸椎退化性疾病（包括頸椎間盤病變、頸椎狹窄、骨關節炎等），保守治療為第一線選擇；對病情嚴重、影響生活品質或工作、保守治療無效或反覆發作者，再考慮手術治療\n\n(C) 此選項過於武斷，手術也是有極限的，無法完全回復因過度使用和年齡帶來的影響\n\n(D) 前位椎間盤切除減壓手術乃從頸部前側剝離層層組織後切除椎間盤以放鬆神經的手術。若術中傷到 recurrent laryngeal nerve，便會造成聲音沙啞；傷及食道使其腫脹會造成暫時性的吞嚥困難",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-11_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-11_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-12",
@@ -8918,9 +8920,11 @@
       "D": "可藉由切除枕骨下骨（suboccipital craniectomy）與第一頸椎椎弓來治療"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Chiari herniation/malformation 指的是後顱窩過小的畸形，可分為 4 種類型：\n\n| 類型 | 特徵與臨床表現 |\n| :--- | :--- |\n| **Chiari I<br>（最常見）** | • 單純小腦扁桃體下疝（小腦扁桃體通過枕骨大孔疝脫到椎管）<br>• 可能產生 syringomyelia（脊髓空洞症）或 hydromyelia（脊髓積水） |\n| **Chiari II** | • 小腦扁桃體下疝，甚至連腦幹、第四腦室等都發生疝脫<br>• 常合併 myelomeningocele<br>• 合併其他腦脊柱異常 |\n| **Chiari III** | • 小腦扁桃體下疝 + 腦膨出 or 顱頸區畸形<br>• 合併神經學異常 |\n| **Chiari IV** | • 小腦發育不全，不算是真正的小腦下疝，故是否為 Chiari malformation 之一仍有疑慮 |\n\n(A) Chiari I malformation 應只有小腦扁桃體 (cerebellar tonsil) 向下疝出，腦幹仍正常位於後顱窩內\n(D) 可藉由切除枕骨下骨 (suboccipital craniectomy) 與第一頸椎椎弓達到 craniocervical decompression",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-12_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-12_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-13",
@@ -8935,9 +8939,11 @@
       "D": "往往不用開刀，而藉由血管介入治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題考的是外傷所造成的頸動脈海綿竇廔管 (traumatic carotid-cavernous fistula, CCF)。CCF 為頸動脈與眼後靜脈海綿竇不正常吻合的疾病，可分為 high flow 的 direct type 及 low flow 的 indirect type。典型病徵包括眼球脈動膨脹鼓出 (pulsating exophthalmos)、眼結膜紅腫 (conjunctival chemosis)、眼壓升高（青光眼）、視力減退、重影、眼睛疼痛、眼瞼下垂、眼眶雜音 (orbital bruits)、頭痛等\n\n| 項目 | Direct type 直接型 - Barrow type A | Indirect type 間接型 (Barrow type B) | Indirect type 間接型 (Barrow type C) | Indirect type 間接型 (Barrow type D) |\n| :--- | :--- | :--- | :--- | :--- |\n| **解剖** | 通常為頸動脈與單側海綿竇間僅有單一連結 | 內頸動脈的腦膜分支與海綿竇間產生連結 | 外頸動脈的腦膜分支與海綿竇間產生連結 | 內、外頸動脈的腦膜分支與海綿竇間產生連結 |\n| **臨床表徵** | 較常出現典型病癥（如上述） | 較少出現典型病癥 | 較少出現典型病癥 | 較少出現典型病癥 |\n| **流速** | 通常為高流速 (high flow) 廔管 | 通常為低流速 (low flow) 廔管 | 通常為低流速 (low flow) 廔管 | 通常為低流速 (low flow) 廔管 |\n| **成因** | 通常由頭部或臉部外傷所致 | 大多為不明成因 (idiopathic) 或之前存在微小的血管疾病所致 | 大多為不明成因 (idiopathic) 或之前存在微小的血管疾病所致 | 大多為不明成因 (idiopathic) 或之前存在微小的血管疾病所致 |\n| **診斷** | • CT：主要用已排除其他原因<br>• non-contrast MRI/MRA：可作為診斷工具<br>• 血管攝影：為診斷腦部血管變化最準確的影像，但為侵入性檢查 | • CT：主要用已排除其他原因<br>• non-contrast MRI/MRA：可作為診斷工具<br>• 血管攝影：為診斷腦部血管變化最準確的影像，但為侵入性檢查 | • CT：主要用已排除其他原因<br>• non-contrast MRI/MRA：可作為診斷工具<br>• 血管攝影：為診斷腦部血管變化最準確的影像，但為侵入性檢查 | • CT：主要用已排除其他原因<br>• non-contrast MRI/MRA：可作為診斷工具<br>• 血管攝影：為診斷腦部血管變化最準確的影像，但為侵入性檢查 |\n| **處置** | 靜脈栓塞為首選、放射線治療（如：珈瑪刀） | 大多會自行消失<br>需手術時，首選經靜脈栓塞 (transvenous embolization) | 大多會自行消失<br>需手術時，首選經靜脈栓塞 (transvenous embolization) | 大多會自行消失<br>需手術時，首選經靜脈栓塞 (transvenous embolization) |\n\n(A) 外傷使頸動脈受損，與海綿竇產生不正常相連，形成頸動脈海綿竇廔管所致\n(B) 常因頭部或臉部外傷導致\n(C) 外傷造成的 direct type CCF 通常為高流速 (high flow) 動靜脈廔管\n(D) 若需手術，治療首選為藉由血管介入治療進行靜脈栓塞，也可進行放射線治療，通常不需要開刀",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-13_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-13_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-14",
@@ -8952,9 +8958,11 @@
       "D": "血管縫合太鬆導致中膜（tunica media）外露，也是造成術後栓塞的原因"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 研究並未顯示顯微組織皮瓣移植後使用抗凝血藥物可增進存活率\n\n(B)(C)(D) 都是從教科書中直接照翻出的內容\n\n(D) 另外，顯微組織皮瓣移植的術後栓塞原因，除了血管縫合太鬆導致 tunica media 外露之外，血管縫合太緊而使得血管撕裂、有過多的 subendothelial exposure 或縫合到血管壁使其阻塞也都是可能出現的 primary thrombosis 成因；secondary thrombosis 成因則包括血管 kinking 或被 hematoma/edema 壓迫造成阻塞\n\n參考資料：Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 69",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-14_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-14_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-15",
@@ -8969,9 +8977,11 @@
       "D": ""
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "① ④ 手部屈曲肌腱可劃分為五區，其中 carpal tunnel 屬於第四區：\n\n| 區域 | 定義 | 特徵 |\n| :--- | :--- | :--- |\n| **Zone 1** | 比屈指淺肌 (FDS) 附著部遠端的部分 (distal to flexor digitorum superficialis insertion) | 內含深屈肌腱，當肌腱遠段端太短時，可考慮切除遠端肌腱而將近端肌腱前移並固定於骨頭上 |\n| **Zone 2** | A1 pulley（第一環狀帶，位於手指手掌交界處）到 FDS 附著部 | 為屈指深肌 (FDP) 與屈指淺肌 (FDS) 肌腱交錯處，易產生沾黏，為手術最困難、預後最差處，故又稱為 Bunnell no-man's land（無人區） |\n| **Zone 3** | 橫腕韌帶 (transverse carpal ligament) 遠端到 A1 pulley 起點處 | 縫合預後僅次於 zone 5 |\n| **Zone 4** | carpal tunnel（腕隧道） | 內含多條肌腱與正中神經 (median nerve)，肌腱損傷常會伴隨正中神經損傷 |\n| **Zone 5** | 比 carpal tunnel 近端的部分 | 無論初級縫合或延遲初級縫合預後均佳 |\n\n② 1, 2, 4 區的肌腱均被滑膜鞘 (synovial sheath) 環繞且包含於半剛性的纖維骨管道中 (semirigid fibro-osseous canal)；3, 5 區則被腱旁組織 (paratendon) 包覆\n③ 被腱旁組織 (paratendon) 包覆處，由於腱旁組織可提供豐富的血流而癒合速度較快\n\n參考資料：Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 70",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-15_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-15_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-16",
@@ -8986,9 +8996,11 @@
       "D": "5 歲前可接受唇或鼻修正術（lip or nose revision）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 一般來說，唇黏合術適合的時機大概在三個月左右。唇修補一般還是遵守所謂的「十的定律」：年齡 10 週、體重 10 磅（約 4.5 公斤）、血紅素高於 10，且白血球計數小於 10,000。Sabiston 裡沒有明確寫出 lip adhesion, lip & primary nose repair, palate repair 及 lip or nose revision 個別時間。因此 (A) 選項筆者認為有討論空間\n(B)(C) 皆為正確選項\n(D) 若有需要進行 lip or nose revision，通常會在 5 歲之後",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-16_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-16_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-17",
@@ -9003,9 +9015,11 @@
       "D": "紅寶石雷射（ruby laser）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "| 病灶種類 & 雷射機制 | 雷射種類 | 作用 |\n| :--- | :--- | :--- |\n| **Vascular lesions**<br>• 利用 oxyhemoglobin 吸收綠光及黃光的特性，可用以治療皮膚血管相關病灶 | Pulsed yellow dye laser (585~595 nm) | 高能量、duration 短，可使溫度快速上升，導致血管擴張 |\n| | Potassium titanyl phosphate (KTP) laser (532 nm、綠光) | duration 較長，較易導致 coagulation |\n| | Diode laser（800 nm，雷射二極體） | 會被 oxyhemoglobin 與 melanin 吸收，可用於 vascular lesion |\n| **Pigmented lesions**<br>• 選擇標的為 melanin 的雷射 | KTP laser (532 nm) | • 波長較短者適合治療上皮色素沉澱 (epidermal pigmentation)<br>• 如：雀斑 (freckles)、曬斑 (solar lentigines)、唇黑色素斑 (labial melanocytic macule) |\n| | Ruby laser (694 nm), Alexandrite laser (755 nm), Diode laser (800 nm) | • 波長較長者適合治療真皮色素沉澱 (dermal pigmentation)<br>• 如：咖啡牛奶斑、太田氏母斑 (nevus of Ota)、伊藤氏母斑 (nevus of Ito) |\n\n參考資料：Grabb and Smith's Plastic Surgery, 7th edition (2014)\n\n(A) Nd:YAG laser 可用於除毛、除刺青，也可用於一些 vascular lesions\n(B) CO₂ laser 通常用於表皮良性病灶\n(C) Pulsed-dye laser 為 port wine stain 的首選治療\n(D) Ruby laser 可用於除毛、除刺青、去除真皮色素沉澱",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-17_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-17_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-18",
@@ -9020,9 +9034,11 @@
       "D": "增生期（proliferation）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "以下 skin grafting 階段整理自 Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 69\n\n| 階段 | 特徵與過程 |\n| :--- | :--- |\n| **(1) Serum imbibition (= plasmatic circulation) 浸潤期** | • 發生於植皮後 48hr 內<br>• graft 吸收來自 recipient bed capillaries 的養分 |\n| **(2) Revascularization 血管再生期**<br>• 發生於植皮 48 hr 之後<br>• 包含右述兩個過程 | **primary process: neovascularization**：recipient bed 處的血管長入 graft<br><br>**secondary process: inosculation**：graft 和 recipient 處的血管相互吻合 (anastomoses) |\n| **(3) Organization** | • 此階段在 graft-bed 上血管開始吻合後產生一纖維蛋白介面後立刻開始，為固定 graft 的過程<br>• 植皮後第 7 天開始被 fibroblast 取代<br>• 約植皮後 10~14 天就會與植皮處的組織床貼合 |\n\nSabiston 中提到，最常見導致 skin graft failure 的原因為 graft 下產生 hematoma，進而影響 revascularization 的發生，但在 Sabiston 中又將 revascularization 這個階段細分為 neovascularization 及 inosculation，感覺無法在此題中 (B)(C) 間選出一個較適合的答案\n\nGrabb and Smith's Plastic Surgery, 7th edition 中對 skin grafting 各階段的闡述與 Sabiston 有些微差異：\n\n| 階段 | 特徵 |\n| :--- | :--- |\n| **(1) Serum imbibition 浸潤期** | • 發生於植皮後，並持續 24~48hr<br>• 形成 fibrin layer<br>• graft 吸收來自 recipient bed capillaries 的養分 |\n| **(2) Inosculatory phase 黏合期** | • graft 和 recipient 處的血管相互吻合 (anastomoses) |\n| **(3) Revascularization 血管再生期** | • 透過 “kissing capillaries” 進行血管再生 |\n\n內文提到，導致 graft failure 的原因包括 graft 底下血液/血漿堆積而影響 revascularization、動到 graft 使其無法貼合 recipient bed 而影響 revascularization\n\n綜合上述，筆者認為本題的答案應該 (B)(C) 都開放",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-18_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-18_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-19",
@@ -9037,9 +9053,11 @@
       "D": "延遲重建（delayed reconstruction）是指乳癌得到控制後再進行重建，經常需要等 2 年"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 這個選項沒有問題，每個病人都有知道所有治療方案的權利\n(B) Sabiston 中提到 “Prosthetic breast reconstruction does not hinder detection of local or regional recurrence.” 有無植入假體都不會影響腫瘤復發的發生或偵測\n(C) 乳房重建手術包括植入物重建、自體組織重建 & 複合式義乳合併組織重建，通常皆須複雜精細的多步驟手術以達最佳結果\n(D) 延遲重建是指患者沒有在乳房切除的同次手術中進行乳房重建，而是待乳癌治療（包括化療與放療）結束後再進行重建，一般建議於化療結束 1 個月後、放療結束 3~6 個月後再進行；以下比較立即性重建與延遲重建：\n\n| 項目 | 立即性重建 (immediate reconstruction) | 延遲重建 (delayed reconstruction) |\n| :--- | :--- | :--- |\n| **定義** | 乳房切除後，於同次手術中進行立即重建 | 在手術及其他治療告一段落後，若覺得有必要再施行重建手術 |\n| **優點** | • 減輕病人因失去乳房而造成的殘缺感、心理創傷<br>• 外觀較術前比較有一致性<br>• 不影響乳癌再發之偵測率或輔助性化療 | • 癌症切除後，若合併放射治療，並不影響後續進行重建的區域<br>• 病人可有較長時間決定重建方式 |\n| **缺點** | • 相較單純乳房切除，需較長的手術麻醉時間、住院天數及恢復時間<br>• 按重建方法的不同，除了乳房切除傷口外可能有其他手術傷口<br>• 會延遲後續化療，故較不適合較晚期的乳癌患者 | • 需額外手術及住院進行重建<br>• 若胸部已形成疤痕組織或攣縮會對重建造成困難 |",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-19_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-19_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-20",
@@ -9054,9 +9072,11 @@
       "D": "為預防猝死，在無症狀的嚴重主動脈瓣狹窄之病人，可進行主動脈瓣置換手術"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "主動脈瓣置換手術的適應症，包括：(1) 無症狀嚴重主動脈瓣狹窄且 LVEF<50% (2) 無症狀中等程度以上 (at least moderate) 主動脈瓣狹窄但剛好有其他原因要進行開心手術時 (3) 有症狀的嚴重主動脈瓣狹窄。(嚴重主動脈瓣狹窄 severe AS : Doppler aortic velocity>4 m/sec 或 mean pressure gradient>40 mmHg 或 valve area<1 cm²) 目前並不建議將主動脈瓣置換手術作為預防猝死的手段",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-20_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-20_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-21",
