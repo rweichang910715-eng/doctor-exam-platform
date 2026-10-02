@@ -9661,9 +9661,11 @@
       "D": "直腸"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(1) 腹膜內器官 (intraperitoneal organ)：表面都被臟層腹膜 (visceral layer) 覆蓋、活動性較大的器官，如胃、肝、膽、脾、十二指腸前 1/3、空腸、迴腸、盲腸、闌尾、橫結腸、乙狀結腸、直腸上 1/3、卵巢、輸卵管、子宮等\n(2) 腹膜後器官 (retroperitoneal organ)：位於壁層腹膜 (parietal layer) 後方的器官，如胰臟、腎臟、腎上腺、十二指腸後 2/3、升結腸、降結腸、直腸中間 1/3、輸尿管、膀胱等\n(3) 與腹膜無關的器官：食道、直腸下 1/3、肛管\n\n題幹問的是腹膜後器官，選項中僅 (C) 的整個部分都是腹膜內器官",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-51_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-51_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-52",
@@ -9678,9 +9680,11 @@
       "D": "MSH6 的缺損和子宮內膜癌相關"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Hereditary nonpolyposis colon cancer (HNPCC)，又稱作 Lynch syndrome，為可能演變為大腸癌的一種遺傳性疾病，屬於體染色體顯性遺傳；致病基因為 MMR (mismatch repair) gene，其中有 90% 與 MLH1 gene 及 MSH2 gene 突變有關，發生時有較高機率得到大腸癌、子宮內膜癌與卵巢癌；Amsterdam II Criteria 及 Bethesda Criteria 可作為 Lynch syndrome 的篩檢條件，符合者建議進行預防性篩檢\n\n| Amsterdam II Criteria | Bethesda Criteria |\n| :--- | :--- |\n| • 家族中 ≥3 人患有大腸直腸癌，其中一人為另外兩人的一等親<br>• 連續 2 代以上有親屬罹患 Lynch-related cancers，包括大腸直腸癌、子宮內膜癌、卵巢癌、尿路癌、小腸癌、胃癌、膽道癌等<br>• 至少一位親屬於 <50 歲確診罹患 Lynch-related cancer<br>• 須排除 FAP (familial adenomatous polyposis)<br>• 經病理診斷為癌症<br>*Amsterdam I criteria 僅納入大腸直腸癌作為篩檢條件，而易遺漏部份病人，因此 Amsterdam II criteria 將其改為更廣義的 Lynch-related cancer | • <50 歲的大腸直腸癌患者<br>• 無論年紀，同時性 (synchronous) 或異時性 (metachronous) 患有 Lynch-related cancer<br>• <60 歲的大腸直腸癌，其腫瘤有特殊的病理特性 (MSI histology)，如：tumor-infiltrating lymphocytes, Crohn-like lymphocytic reaction, mucinous/signet-ring differentiation, medullary growth pattern<br>• 一等親家人患有 Lynch-related cancer 者被診斷有大腸直腸癌，且其身上任一癌症在 50 歲前被診斷出<br>• 至少 2 位患有 Lynch-related cancer 的一等親或二等親家人被診斷出大腸直腸癌（無論任何年紀診斷出） |\n\n具 Lynch syndrome 家族病史者建議於 20~25 歲就開始每 1~2 年以大腸鏡篩檢是否有大腸直腸癌；若家族中曾有人於 25 歲前就被診斷出大腸直腸癌，則建議於其診斷年齡的 2~5 歲前就進行大腸鏡篩檢；大腸鏡篩檢及息肉切除可以有效降低 Lynch syndrome 家族的大腸直腸癌發生率，因此不一定需進行預防性大腸切除手術，但極度慮病、無法配合或無法忍受大腸鏡篩檢者仍可考慮預防性手術",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-52_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-52_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-53",
@@ -9695,9 +9699,11 @@
       "D": "在超過 1,000 名患者的實證醫學證據分析（cochrane review）中，TAPP 與 TEP 修補的疝氣復發率沒有差異"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "TEP 與 TAPP 主要區別在於進入腹膜前間隙 (preperitoneal space) 的順序，二者差異比較如下表：\n\n| | TEP | TAPP |\n| :--- | :--- | :--- |\n| 方法 | 使用特製氣球 (balloon dissector) 在腹壁肌肉層與腹膜外層間擴張出手術操作空間（即腹膜前間隙）→ 將疝脫的腸子拉回腹腔 → 鋪設人工網膜於疝氣缺口處 | 切開腹膜 → 處理疝囊 (hernia sac) → 分離出腹膜前間隙以便鋪設網膜 → 鋪設人工網膜於疝氣缺口處 |\n| 優點 | • 完全在腹膜外，不進入腹腔內操作，少有腸沾黏或腸道組織損傷的風險<br>• 腹膜前分離 (preperitoneal dissection) 較快，且將腹膜內臟損害的潛在風險降到最低 | • 手術操作空間較大，可較清楚辨別解剖構造，相對容易操作 |\n| 缺點 | • 手術操作空間較小，手術難度較高；若術中造成腹膜撕裂，則可能需轉為 TAPP 進行手術<br>• 特製氣球 (balloon dissector) 為昂貴耗材 | • 進入腹腔內操作，故可能造成腸沾黏或傷及腸道組織 |\n\n(D) 在 Sabiston 中內文寫道，在一個收錄 8 個非隨機對照試驗、超過 1000 名患者的 cochrane review 中，得出 TAPP 與 TEP 修補的疝氣復發率沒有差異的結論",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-53_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-53_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-54",
@@ -9712,9 +9718,11 @@
       "D": "僅"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "限制性手術的主要原理為限制胃容量以減少食物攝取；吸收不良手術的主要原理為縮短小腸或透過繞道使得養分的吸收無法正常進行；常見的減肥手術以及其相應的機制列於下表：\n\n| 手術名稱 | 手術方法 | 機制 | 特徵 |\n| :--- | :--- | :--- | :--- |\n| LAGB (laparoscopic adjustable gastric band)<br>腹腔鏡可調節式胃束帶手術 | 將環形束帶套在食道 - 胃接口處下方形成一小囊，可調節其出口大小以限制病人的進食量 | 完全為限制性手術 | 手術風險低，但減重效果相對差 |\n| Gastric sleeve surgery<br>袖狀胃切除術 | 將囊狀胃裁切掉胃大彎側的一部分，形成香蕉形的管狀胃 | • 限制性：並非主要預防過量進食的機制<br>• 吸收不良性：影響多種腸道荷爾蒙分泌與能量消耗，達到減重的目的 | 手術方法較簡單，且較不會有營養及維生素缺乏的風險，但較易導致胃酸逆流 |\n| Biliopancreatic diversion (BPD) (with duodenal switch and gastric bypass)<br>膽胰分流術（合併十二指腸轉位與胃繞道手術） | 切除部分胃後，再截斷十二指腸，將遠端空腸與胃出口吻合 | • 限制性：非主要機制<br>• 吸收不良性：繞過大部分負責吸收小分子養分的小腸 | BPD 搭配 duodenal switch 後，可減少 BPD 手術後邊緣性潰瘍 (marginal ulcer) 的發生 |\n| RYGB (Roux-en-Y gastric bypass)<br>胃繞道手術 | 將胃裁成小囊後，用空腸與其接合來重建，其中會繞過一段長段的小腸 | • 限制性：主要機制<br>• 吸收不良性：影響多種腸道荷爾蒙分泌與能量消耗 | 最常施行的術式，減重效果快且佳，但長期營養及維生素缺乏風險增加、可能發生傾倒症候群 (dumping syndrome) |\n| Vertical banded gastroplasy<br>垂直帶狀胃成形術 / 垂直胃束帶間隔術 | 將胃隔出兩個大小不同的隔間，並在隔間之間用束帶加以限制 | 限制性手術 | 目前已可被 LAGB 取代，故而鮮少實行 |\n| Gastric plication<br>胃折疊術 | 將胃向內折疊並縫合，以減少胃容積 | 主要為限制性手術 | 為可逆性手術，但長期較可能出現復胖的情形 |\n| Intra-gastric balloon<br>胃內水球 | 經由胃鏡將水球置入胃內，再往水球內注入生理食鹽水，限縮胃容量及使病人達飽足感 | 主要為限制性手術 | 為免開刀的減肥手術，但因水球的置入期限為 6 個月而為暫時性的減重方法，且復胖機會較高 |\n\n① 胃袖狀切除手術 (gastric sleeve surgery) 雖起初被認為屬於限制性手術，但後來證實主要達到減重的機制為影響腸道荷爾蒙的分泌與能量的消耗，故此選項錯誤\n② 胃繞道引流手術屬於合併限制性與吸收不良性的減重手術\n③ BPD 主要的減重機制為影響腸道荷爾蒙的分泌與能量的消耗（似胃袖狀切除手術），但也同時為輕度的限制性減肥手術\n④ 垂直帶狀胃成形術已可被 LAGB 取代，故鮮少實行，並非因為手術死亡率高而被放棄\n⑤ 應該相反，是 duodenal switch 有助於減少 BPD 手術後邊緣性潰瘍的發生",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-54_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-54_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-55",
@@ -9729,9 +9737,11 @@
       "D": "單一切口傷口縫合應使用不可吸收線材進行連續或間斷縫合法"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(D) 單一切口傷口一般會位於肚臍處，可使用可吸收線材進行縫合，亦可使用不可吸收線材縫合並於 7 天後傷口狀況良好時拆線",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-55_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-55_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-56",
@@ -9746,9 +9756,11 @@
       "D": "骨軟骨瘤（osteochondroma）的 cartilage cap 若追蹤時發現厚度＞2cm，需注意評估 secondary chondrosarcoma"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 惡性軟骨肉瘤好發於超過 40 歲的男性；常見於骨盆、肩膀及肋骨處\n(B) mesenchymal chondrosarcoma 好發於較年輕的族群（二十幾～五十幾歲），且常見於脊椎、肋骨、顎骨處\n(C) 手術切除為首要治療方法；惡性軟骨肉瘤對化療及放療均不敏感",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-56_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-56_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-57",
@@ -9763,9 +9775,11 @@
       "D": "應立即放置導尿管（Foley catheter），確保並有效監控靜脈輸液量及電解質平衡"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(D) 尿道損傷為放置導尿管的禁忌症，此時應先執行生殖器及直腸的相關檢查（如身體檢查、影像學檢查），若貿然放置導尿管可能惡化尿道損傷",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-57_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-57_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-58",
@@ -9780,9 +9794,11 @@
       "D": "外斜位照（external oblique view / iliac view）可展現前柱（anterior column）及髖臼後緣（posterior lip of theacetabulum）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 髖臼 (acetabulum) 位於坐骨、恥骨、髂骨之間，此三個骨頭最後匯集在三角輻射軟骨 (triradiate cartilage) 的位置，相連而形成了髖臼\n(B) 骨盆斜位照應為傾斜 45 度\n(C) 內斜位照可展現骨盆前柱 (iliopectineal line) 和髖臼後壁\n(D) 外斜位照可展現骨盆後柱 (ilioischial line) 和髖臼前壁",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-58_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-58_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-59",
@@ -9797,9 +9813,11 @@
       "D": "髂腰肌（iliopsoas）與股骨小轉子（lesser trochanter of thefemur）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "當斷骨處連著肌肉或肌腱時，此種類型的骨折稱為 avulsion fracture\n\n(B) Sartorius muscle 對應 anterior superior iliac spine；Rectus femoris 對應的是 anterior inferior iliac spine",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-59_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-59_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-60",
@@ -9814,9 +9832,11 @@
       "D": "Ortolani 氏檢查（Ortolani test）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "111-1 考過相同的概念；新生兒大腿內側不對稱的皮膚皺摺可能是髖關節發育不良 (developmental dysplasia of hip, DDH) 的標誌，可在新生兒出生後藉由以下身體檢查及早發現（以下檢查建議觀看影片以更直觀地了解檢查內容）：\n(A) Galeazzi sign：請病人平躺後屈膝，若兩側膝蓋不同高則為 positive，且膝蓋較矮的一側為先天性髖關節脫臼 (hip dislocation) 側\n(B) Barlow test：將新生兒的膝蓋和髖關節屈曲往中線集中後，握著新生兒的膝蓋，將整個大腿前屈下壓，若新生兒有 DDH 則股骨頭會滑脫到髖關節以外\n(D) Ortolani test：做完 Barlow test 後，再將新生兒的整個大腿往外往前拉，若新生兒有 DDH 則在做 Barlow test 時滑脫的股骨頭會滑回髖關節中\n除了身體檢查外，也可搭配影像檢查，4~6 個月大前的嬰兒由於關節組織多為軟骨而適合以超音波評估髖關節的結構及穩定度（篩檢），4~6 個月大後以 X 光為主要的診斷工具（因有微量輻射故不適合用以篩檢）\n(C) Patrick test：為檢查 hip lesion 的身體檢查；請患者平躺，將患者膝關節屈曲 90 度後，將髖關節外轉並外展使受測肢之外踝平置於對側肢的膝關節上，並將患側膝蓋下壓，若腹股溝處產生疼痛，則為 positive",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-60_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-60_merged.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-61",
