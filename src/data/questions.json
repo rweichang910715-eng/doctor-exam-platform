@@ -10801,9 +10801,11 @@
       "D": "臍動脈的血流速度測量顯示終端血管舒張時血流逆行（reversed end-diastolicflow）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "胎兒臍動脈超音波的正常表現包含：沒有看到 AEDV 或 REDV、收縮 - 舒張值比率 (S/D ratio) 應 <3，故 (B) 為正確選項，若忘記 S/D ratio 確切數值，仍可以簡單推論：舒張期血流 (Diastolic flow) 消失甚至逆流都是不正常的狀態（即 AEDV、REDV），而 D 值下降會增加 ratio 值，故 S/D ratio 越大越不好\n\n[ 補充 ] S/D ratio 主要評估胎盤血管阻力，阻力較大其 Diastolic flow 會較低，功能也不佳",
+    "explanation_image": "/explanations/cropped/111-2_6_31.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_31.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-32",
@@ -10818,9 +10820,11 @@
       "D": "passage：pelvis 太窄或軟組織過多"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "一般描述影響生產的 3 要素時，用的是 3P：Passage（即產道）、Passenger（即胎兒狀態）、Power（即母親狀態），(A) 選項描述的 symphysis shape 異常，應改為 Passage 因素，以下補充生產 3 要素的重點：\n\n| 要素 | 重點 |\n| :--- | :--- |\n| Passage | 4 種骨盆形狀（整理見 111-2(六)28 題整理表格）、骨盆前後徑 |\n| Passenger | 胎位與先露部位、姿勢 |\n| Power | 子宮收縮力、腹部壓力與子宮頸阻力 |",
+    "explanation_image": "/explanations/cropped/111-2_6_32.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_32.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-33",
@@ -10835,9 +10839,11 @@
       "D": "無腦症（anencephaly）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "看似一個用背的題目，但其實用內科知識「水腫」也可以輔助解題：水份太多（心衰竭 / 過多血液）、低膠體滲透壓（肝臟衰竭）與淋巴水腫，(A) 透納氏症常伴隨先天性心臟病與頸部淋巴循環異常、(B) 先天巨細胞病毒感染導致肝臟衰竭、(C) 雙胞胎輸血症候群中的接受者皆可能導致胎兒水腫，故剩下與胎兒水腫較沒有因果關聯的 (D)\n\n以下整理常見胎兒水腫原因，主要分成免疫性與非免疫性：\n* 免疫性胎兒水腫 (immune hydrops) [REF. 醫學（三）血液科，醫學（四）小兒科]\n  - Rh(-) 母親產生 Anti-D IgG 抗體，穿過胎盤攻擊 Rh(+) 胎兒；通常第一胎還好，但隨著產次越多越嚴重\n  - 造成 alloimmune hemolysis anemia，嚴重者會有明顯的缺氧，引發髓外造血外，也造成心臟、肝臟受損 ⇒ 心肝衰竭都會導致水腫\n  - 預防：母親 Rh 血型篩檢、給予 RhIg（約 GA 28 週時）\n* 非免疫性胎兒水腫 (non-immune hydrops) 常見原因\n  - 心血管缺陷 (21%)：先天性心臟病、心律不整、心衰竭\n  - 染色體異常 (13%)：Turner Syndrome、Down Syndrome\n  - 血液疾病 (10%)：α-thalassemia 的 Hb Bart disease\n  - 感染：梅毒、弓漿蟲、德國麻疹、Parvovirus B19、CMV、HSV、腸病毒\n  - 泌尿系統缺陷：腎臟發育異常、膀胱出口阻塞\n  - 雙胞胎的 Twin-Twin Transfusion Syndrome (TTTS)",
+    "explanation_image": "/explanations/cropped/111-2_6_33.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_33.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-34",
@@ -10852,9 +10858,11 @@
       "D": "得分 2 分者建議生產"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題與【111-1(六)31】考點一樣，就是判讀 BPP 的結果，(C) 得分 4 分應高度懷疑胎兒窘迫，建議立即生產，沒時間再等隔日評估了，故為錯誤選項，以下再次整理 BPP 結果判讀與後續處置：\n\n| 算分數 | Normal | Equivocal | Abnormal |\n| :--- | :--- | :--- | :--- |\n| 羊水量正常 | 8-10 分 | 6 分 | 0-4 |\n| 羊水量異常 | X | 8 分（單純羊水不足） | 6 |\n| 處置 | • Normal：考慮規則進行 BPP 即可，約每週一次，因 BPP 對 72-96 hr 後寶寶的存活率有較高的陰性預測值<br>• Equivocal：若 GA>36 週則建議分娩；GA<36 週者，於 24 hr 後再做一次 BPP，若分數未進步則須考慮分娩<br>• Abnormal：考慮分娩 | | |\n\n※ 幾個小重點：羊水量很重要、週數很重要（>36 週與否）；還 OK 就觀察，不 OK 就分娩",
+    "explanation_image": "/explanations/cropped/111-2_6_34.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_34.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-35",
@@ -10869,9 +10877,11 @@
       "D": "合併妊娠糖尿病（pregnancy complicated by gestational diabetes）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題就是考絨毛膜羊膜炎的致病機轉，絨毛膜羊膜炎是一種生殖道的上升性感染 (ascending infection)，最常見發生於延長破水與生產時，故選 (B)，(A)、(D) 並不是感染的原因，但抽菸是可能的風險因子之一，血行性感染很少見，因此 (C) 母體免疫抑制而造成的感染並不是主要的原因",
+    "explanation_image": "/explanations/cropped/111-2_6_35.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_35.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-36",
@@ -10886,9 +10896,11 @@
       "D": "胎兒生長受限（fetal growth restriction）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "在 fetal death 與 stillbirth（中文譯為死胎）的定義上，目前仍有各方說法：\n* William 中（定義參考 National Center for Health Statistics 與 CDC）將 fetal death or stillbirth 共同定義為「嬰兒出生的當下沒有生命徵象」\n* CDC 中有更詳細地提到，fetal death 指的是懷孕過程中任何時間點的子宮內胎兒自發死亡 (spontaneous intrauterine death of a fetus)，而 stillbirth 通常指的是孕期晚期（通常指 20 週或 28 週後）的 fetal death\n* WHO 將 fetal death 定義為無論孕期幾週、娩出前的死產；將 stillbirth 定義為孕期 28 週後且娩出前或娩出過程中的死產\n* ACOG 上發表的 Management of Stillbirth 中提到：尚無統一的規章定義 fetal death 的胎兒體重及孕期的標準\n\n由上述可知，在不同單位統計下的 fetal death 之成因，也有可能因為定義上有所差異而有不同的結果\n\n再來看看不同參考資料中對於胎兒死亡成因的統計：\n* William 中引註自 Stillbirth Collaborative Research Network Study 的表格中統計到，stillbirth 有 29% 乃產科併發症 (obstetrical complications，例如胎盤早期剝離、多產、孕期 20~24 週的早期破水）所致，其次 24% 由胎盤異常 (placental abnormalities) 所致，另有 24% 無法歸因 (undetermined)\n⇒由此看來似乎沒有單一原因為胎兒死亡過半的成因\n* ACOG 上發表的 Management of Stillbirth 中寫道：有一部分的胎兒死亡即便經過一番評估仍無法找到確切成因，而現今胎兒死亡的評估尚無統一的流程訂立且驗屍率低都是造成胎兒死亡原因無法順利進行與統計的原因\n\n有人主張在「懷孕過程中任何時間點的子宮內胎兒自發死亡」的定義下，William 中有提到早期流產（孕期 12 週前）佔自然流產的 80%，在此論述下答案應選 (C) 較為合理，然翻閱各種文獻並無確切提到 (D) 為導致一半胎兒死亡的主因，且 ACOG 上的 Management of Stillbirth 中雖然提及胎兒生長受限會顯著增加胎兒死亡的風險，但也未明列統計數據，故此題不太確定出題老師的參考資料來源為何，也不清楚為何申覆後並未送分",
+    "explanation_image": "/explanations/cropped/111-2_6_36.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_36.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-37",
@@ -10903,9 +10915,11 @@
       "D": "飯後升糖激素（glucagon）更不受抑制"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "完全來自 Williams Obstetrics 的一段文字，懷孕的血糖調控特徵包含：輕微空腹低血糖 (mild fasting hypoglycemia)、餐後高血糖 (post-prandial hyperglycemia) 與高胰島素血症 (hyperinsulinemia)；而 (D) 並不是懷孕時的變化，以下文字幫助記憶：母親因要提供大量糖分給予胎兒使用，因此增加 insulin resistence，減少飯後血糖被自己利用，因此相關後續變化為：飯後血糖用不掉所以高血糖 ⇒ 持續刺激胰島素分泌（高胰島素血症）⇒ 終於降下來後，因高胰島素緣故，可能會降得比平常稍低（空腹低血糖），也因此，評估妊娠糖尿病並非使用空腹血糖值，而是要做口服糖水測試",
+    "explanation_image": "/explanations/cropped/111-2_6_37.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_37.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-38",
@@ -10920,9 +10934,11 @@
       "D": "肝功能高於正常值上限的兩倍"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題考點頗難，為「早期早產（GA 28-34 週）」發生「重度子癇前症 (preeclampsia with severe features)」的處置，針對此狀況，ACOG (2020) 建議：\n1. 建議期待性治療 (expectant management)，對胎兒有較好的預後\n2. 若有以下情況則建議在穩定母親後，立即生產：\n\n| 評估對象 | 立即生產條件 |\n| :--- | :--- |\n| 母親不好 | 重度範圍的高血壓 (>160/110) 仍無法控制、持續頭痛、視覺 / 運動障礙、中風、心肌梗塞、HELLP 症候群、腎功能下降、肺水腫、子癇症、胎盤剝離 |\n| 胎兒不好 | 胎兒監測異常、胎兒死亡、不預期胎兒存活的狀況（如：極度早產 / 嚴重致命畸形）、臍動脈超音波異常 |\n\n3. 早期早產者（GA <34 週）生產前給予足量類固醇，以利肺部成熟\n4. 若是母親、胎兒狀況都持續不好時，則不應因為類固醇而延遲生產\n\n故僅 (A) 為需要立即生產，忽略足量類固醇作用的條件",
+    "explanation_image": "/explanations/cropped/111-2_6_38.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_38.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-39",
@@ -10937,9 +10953,11 @@
       "D": "充血性病變"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Williams Obstetrics 列出了子癇前症相關內皮受損的後果，即為：\n(A) 內皮受損後無法正常分泌 prostacyclin 與 NO，無法使血管正常舒張，而發生血管痙攣\n(B) 內皮受損後，彼此間隙會變疏鬆、甚至喪失原本障蔽功能，所以會血漿外洩\n(C) 內皮受損後，暴露底下的膠原蛋白誘發血小板活化，另外也無法正常分泌 prostacyclin 抑制血小板活化，因而容易誘發血栓形成\n\n此題其實單純想「血管內皮損傷」的後果也可以解題，答案 (D) 不論是 hyperemia 或 congestion，皆與內皮受損並無直接關聯",
+    "explanation_image": "/explanations/cropped/111-2_6_39.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_39.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-40",
@@ -10954,9 +10972,11 @@
       "D": "治療需補充類固醇（如 hydrocortisone）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題考點也出現在【醫學（四）小兒科】，先天性腎上腺增生起因於製造固醇激素的酵素缺失，因而欠缺負回饋抑制腦垂腺，使過量 ACTH 促進腎上腺增生，故得其名，最常見缺失的酵素為 21-Hydroxylase，常有的臨床表現為：\n* 為新生兒篩檢項目之一，檢測 17α-Hydroxyprogesterone (17-OH progesterone)\n* 因無法製造 Cortisol 與 Aldosterone，表現腎上腺低下症（鈉低鉀高）\n  ⇒嚴重者需要補充類固醇\n* 因 Androgen 過量製造，導致女嬰的外生殖器男性化，發生性器混淆 (ambiguous genitalia) 的情形\n\n而子宮發育並不受到 Androgen 影響（而是會受到 AMH 影響），因此 (B) 並不是常見合併的特徵\n\n[ 補充 ] 先天性腎上腺增生的另一種常見酵素缺失為 17α-hydroxylase，代謝無法產生 androgen，而製造過量 cortisol 與 aldosterone，臨床表現為：低腎素性次發性高血壓（高醛固酮血症）、男嬰性器混淆（缺乏 androgen 刺激），這個反而可能出現在【醫學（三）】的考點",
+    "explanation_image": "/explanations/cropped/111-2_6_40.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_40.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-41",
