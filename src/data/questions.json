@@ -10421,9 +10421,11 @@
       "D": "急性後玻璃體剝離（acute posterior vitreous detachment）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "牽引性視網膜剝離（tractional retinal detachment）的成因為視網膜 - 玻璃體交界面血管增生、纖維化，容易形成牽扯後產生剝離，因此 (A)、(B) 造成的血管新生，及 (C) 因創傷導致的纖維化，皆為此類視網膜剝離常見成因。(D) 急性後玻璃體剝離會導致視網膜產生裂孔，使液狀玻璃體滲入造成裂孔性視網膜剝離（rhegmatogenous retinal detachment, RRD），故選 (D)\n\n【補充】視網膜剝離按照成因分成三種，除上述兩種外，第三種為滲出型視網膜剝離（secondary retinal detachment to exudates, ERD），主要來自脈絡膜的血管新生，破壞色素性視網膜上皮（RPE）障壁，使得來自脈絡膜的滲出液累積產生剝離，與脈絡膜腫瘤、惡性高血壓相關",
+    "explanation_image": "/explanations/cropped/111-2_6_11.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_11.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-12",
@@ -10438,9 +10440,11 @@
       "D": "水性（watery）分泌物與病毒感染較有關"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "黏液性分泌物通常代表發炎後 exudation，在細菌性或淋病性結膜炎會有較大量分泌，而病毒或過敏性結膜炎則相對較少見，故 (C) 敘述較不恰當。以下附上結膜炎常見的並依與各自臨床表現的整理（改自 Vaughan & Asbury's Clinical Ophthalmology, 19/e）：\n\n| 臨床表現 | 病毒性 | 細菌性 | 披衣菌 | 過敏性 |\n| :--- | :--- | :--- | :--- | :--- |\n| 癢 | 些微 | 些微 | 些微 | 嚴重搔癢 |\n| 流淚 / 水性分泌物 | 大量 | 中等 | 中等 | 中等 |\n| 滲出液 / 黏液分泌物 | 些微 | 大量 | 大量 | 些微 |\n| 耳前淋巴結腫大 | 常伴隨 | 少見 | 僅常見於包涵體結膜炎 | 罕見 |\n| 滲出物染色後鏡檢 | 單核球 | 細菌、嗜中性球 | 嗜中性球、漿細胞、包涵體 | 嗜酸性球 |",
+    "explanation_image": "/explanations/cropped/111-2_6_12.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_12.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-13",
@@ -10455,9 +10459,11 @@
       "D": "裸視 0.5：表示該眼不會是遠視眼"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "傳統上以 Snellen 視力表（表上有各種大小、開口方向不同的 C 或 E）測量視力，會請受試者站在距離表 6 公尺的位置分別遮住單眼進行視力的量測，其中的意義為「正常人在 X 公尺能看到受試者 6 公尺看到的物品」，記錄為 6/X，相除得到的數字即為該眼視力，如題所述的「裸視 1.5 (= 6/4)」代表「受試者眼睛不加任何輔助工具的情況下，站在 6 公尺處即可看清楚正常視力者站在 4 公尺才可看清楚的物品」；而近視代表遠處物體成像於視網膜之前造成看不清楚的狀況，因此簡單判斷裸視 1.5 不太可能是近視眼，故 (B) 較為正確\n\n(A)(C)(D) 遠視眼在定義上為遠處物體成像於視網膜之後，常常是看遠、看近都看不太清楚，因此「裸視 1.5」並不代表一定是遠視眼，「裸視 0.5」則可能是近視眼或遠視眼",
+    "explanation_image": "/explanations/cropped/111-2_6_13.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_13.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-14",
@@ -10472,9 +10478,11 @@
       "D": "手術後容易有續發性青光眼"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "一部分的兒童的弱視來自發育時光線刺激不足導致，又雙眼刺激程度不同時會更明顯，因此單側先天白內障（特別是在中央、>2 mm）產生弱視的機會較高，一般需要在出生後 2 個月內手術，若未及早治療可能造成永久剝奪性弱視 (permanent deprivation amblyopia)；而雙側的白內障在避免造成弱視的緊急程度較低，故 (C) 選項錯誤",
+    "explanation_image": "/explanations/cropped/111-2_6_14.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_14.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-15",
@@ -10489,9 +10497,11 @@
       "D": "弱視在關鍵期（critical period）內及早發現，治療效果較好；因此學齡前的兒童應做視力和立體感的篩檢以及早發現與治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 在雙眼同時有異常時，如：高度遠視（hypermetropia）或散光（astigmatism）可能造成雙眼弱視（bilateral amblyopia）\n\n(B) 斜視（strabismus）為最常見弱視的原因，不論是內斜視或外斜視，皆可因代償性阻斷視覺訊號，導致弱視的產生。但比較起來，內斜視較容易產生弱視\n\n(C) 弱視在定義上為「現有眼部器質性疾病不足以解釋的視力障礙」，因此老年性白內障導致的視力不佳，乃受到水晶體透光影響，並不屬於弱視\n\n故僅 (D) 選項敘述正確",
+    "explanation_image": "/explanations/cropped/111-2_6_15.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_15.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-16",
@@ -10506,9 +10516,11 @@
       "D": "輕微或初期性中心視網膜靜脈阻塞（central retinal vein occlusion）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "正常眼壓性青光眼與其他類型青光眼一樣是造成視神經盤的變化，包括：Cup/Disk ratio 變大（因神經纖維損失）、視神經盤出血（較原發隅角開放性青光眼常見）、視神經盤血管變化（往鼻側移位 / 剃刀狀血管）。與視神經盤水腫比較沒有相關，故答案為 (C)。以下簡單補充視神經盤水腫的鑑別診斷：\n* 視乳突水腫 (papilledema)：雙側，因腦壓高導致\n* 發炎性疾病，如：視神經炎 (optic neuritis)、神經性視網膜炎 (neuroretinitis)\n* 血管性疾病，如：中心視網膜靜脈阻塞 (CRVO)、高血壓性視網膜病變、糖尿病視網膜病變等",
+    "explanation_image": "/explanations/cropped/111-2_6_16.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_16.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-17",
@@ -10523,9 +10535,11 @@
       "D": "巨細胞病毒（Cytomegalovirus）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "HIV 屬於反轉錄病毒，含有兩條負股 RNA，並不屬於疱疹病毒科，故選 (C)",
+    "explanation_image": "/explanations/cropped/111-2_6_17.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_17.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-18",
@@ -10540,9 +10554,11 @@
       "D": "其特徵為眼球往下看時上眼瞼隨之下落時間延遲"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A)(B)(C) lid retraction 指的是當患者直視前方時，上眼瞼或下眼瞼攣縮導致瞼裂 (palpebral fissure) 縱向加大的情況；當病人因甲狀腺亢進而同時有凸眼及上眼瞼攣縮的問題時，會使鞏膜露出的部分變多而使人誤以為在翻白眼\n\n(D) 選項描述的是 von Graefe sign (=lid lag)，為甲狀腺眼病變眼瞼攣縮的特徵之一，其他包含：\n* Dalrymple sign：在眼球一般運動 (primary gaze) 下，即可觀察到眼瞼攣縮情況\n* Kocher sign：眼瞼攣縮表現的很像雙眼凝視 (staring) 或受驚嚇 (frightened) 時的樣子，特別是雙眼聚焦在某物上時\n\n筆者認為這個選項錯誤，可能是 von Graefe sign 雖然常伴隨 lid retraction 出現，但並不完全等同 lid retraction，故相較起來 (A)(B)(C) 的敘述較沒有錯誤",
+    "explanation_image": "/explanations/cropped/111-2_6_18.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_18.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-19",
@@ -10557,9 +10573,11 @@
       "D": "膽脂瘤"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "首先從題幹獲得「左耳聽損」＋「偶爾流膿」，推測此病人應該是個慢性的問題，故可以先排除 (A)。再來看圖片，為一張左耳耳鏡的圖（因為 light reflex 所在圖片左下側，為耳膜的前下象限）。可以見到耳膜前側區域有破損 (perforation) 且周圍硬化 (myringosclerosis)，後側耳膜不透明，但沒有明顯的積液，因此診斷以 (C) 慢性中耳炎最為合適",
+    "explanation_image": "/explanations/cropped/111-2_6_19.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_19.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-20",
@@ -10574,9 +10592,11 @@
       "D": "通常從低頻處先開始退化"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "老年型聽力退化的特色包含：雙側漸進的聽損，從「高頻」音開始退化，語音辨識能力也會變差，故 (D) 選項敘述錯誤。以下補充可能造成 / 加劇老年型聽力退化的因子：小血管疾病、飲食中的自由基、噪音、藥物（如：aminoglycoside 類抗生素）、抽菸",
+    "explanation_image": "/explanations/cropped/111-2_6_20.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_20.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-21",
