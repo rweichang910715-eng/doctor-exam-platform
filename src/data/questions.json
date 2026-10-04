@@ -10041,9 +10041,11 @@
       "D": "儘早施行輸尿管重建手術，以減少尿路感染的發生"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "脊髓膜膨出症（meningomyelocele）為一種先天性疾病，又稱為開放性脊柱裂。病童的脊椎骨上會有一節或多節背部缺孔，缺損處有囊狀物膨出且囊狀物內有神經組織。常見臨床表現包括下肢萎縮無力、步態不穩、尿失禁、便秘、足部畸形等。若脊髓膜膨出處位於較上段，甚至可能會有癱瘓的情形。這些病人通常也會有水腦及 Chiari II malformation（小腦及腦幹向下疝脫出枕骨大孔）。病童須在出生後儘早手術，以修補皮膚及脊髓膜缺損，降低中樞神經系統感染的風險\n\n* 手術修復皮膚及脊髓膜缺損\n* 若合併水腦症，須進行腦室腹腔引流流管手術\n* 早期導尿排空膀胱，以免長久造成反覆泌尿道感染、腎臟或輸尿管水腫，或甚至引起尿毒症\n* 給予抗膽鹼藥物，減少尿失禁情況\n* 給予預防性抗生素避免腦膜炎或泌尿道感染\n* 使用輔具、進行復健以改善肌肉骨骼症狀\n* 後續追蹤泌尿道、骨骼肌肉、神經學功能\n\n(D) 欲避免尿路感染的發生，可先進行導尿排空膀胱及給予預防性抗生素，不需儘早施行輸尿管重建手術",
+    "explanation_image": "/explanations/cropped/111-2_5_71.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_5_71.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-72",
@@ -10058,9 +10060,11 @@
       "D": "如果不做適當處置，病患接下來可能會有呼吸困難的症狀"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 如上圖所示，此病人乃因深層靜脈栓塞（deep vein thrombosis, DVT）所造成的下肢腫脹，患肢應在左側\n\n(B) DVT 的急性治療包括注射血栓溶解劑或抗凝血劑，急性症狀消除後再改以口服抗凝血劑預防血栓再形成，且至少須服用 3 個月以上。其中，血栓溶解劑在 DVT 的治療中雖可保有靜脈瓣膜功能，且後續進展為慢性靜脈功能不全（chronic venous insufficiency, CVI）的機會較小，但除了在下肢急性廣泛靜脈血栓（phlegmasia cerulea dolens）的病人中可明顯舒緩靜脈阻塞的情況外，其餘族群都尚無充足的證據支持血栓溶解劑的使用\n（*phlegmasia cerulea dolens：為嚴重型的 DVT，當腿部靜脈被阻塞而使得腿部發紺、發紫、疼痛、難以行走所致，需立即評估並給予緊急處置）\n\n(C) DVT 的首選診斷工具為結合了都卜勒超音波及彩色血流顯像（color flow imaging）功能的雙功能超音波（duplex ultrasound）\n\n(D) DVT 若未經過當處理，血栓可能被打到肺動脈而造成肺栓塞，嚴重情況下會有呼吸困難、血氧降低、胸口不適等症狀\n\n【補充】\n在臨床上，可用 modified Wells score 評估病人發生 DVT 的風險：\n\n| 項目 | 得分 |\n| :--- | :--- |\n| 活動性癌症（active cancer），或六個月內經治療的癌症 | 1 |\n| 下肢癱瘓無法移動 | 1 |\n| 近期臥床 3 天以上，或 12 週內動過需麻醉的大手術 | 1 |\n| 沿深層靜脈分部走向區域有壓痛情形 | 1 |\n| 患肢腫脹，比健側小腿圍超出 3 公分以上（於 tibial tuberosity 下方 10cm 處測量） | 1 |\n| 患肢有壓迫性水腫（pitting edema） | 1 |\n| 形成淺層靜脈側枝循環（非靜脈曲張） | 1 |\n| 過去有 DVT 病史 | 1 |\n| 其他診斷可能性高 | -2 |\n| >2 分：高度可能性 / 1~2 分：中度可能性 / <1 分：低度可能性<br>* 若雙腳都有症狀，以症狀嚴重側為主進行計分 | |",
+    "explanation_image": "/explanations/cropped/111-2_5_72.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_5_72.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-73",
@@ -10075,9 +10079,11 @@
       "D": "相較於Ｘ光影像，電腦斷層影像較容易辨識鈣化"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "參考資料：Essentials of Radiology, 3rd edition, 2014\n\n慢性胰臟炎的影像中，常見斑駁鈣化（spotted or mottled calcification），且通常位於腰椎第一節和第二節的高度並以水平方向往左分佈。X 光不一定能看到鈣化，相較之下電腦斷層較容易辨識鈣化，但不能僅以影像判定慢性胰臟炎，需搭配臨床表徵及抽血檢查進行診斷\n\n另外在所有影像中，以 EUS（endoscopic ultrasound 內視鏡超音波）最能準確協助早期胰臟炎的診斷。以 EUS 為基礎的慢性胰臟炎診斷標準如下：\n\n**Rosemont Criteria for chronic pancreatitis**\n\n| 影像特徵 | 分類 | 準則 |\n| :--- | :--- | :--- |\n| Parenchymal features<br>胰臟實質特徵 | Major A | • hyperechoic foci with post-acoustic shadowing |\n| | Major B | • honeycombing lobularity |\n| | Minor | • hyperechoic, non-shadowing foci ≥3 mm in length and width<br>• lobularity including ≥3 non-contiguous lobules in the body or tail<br>• pancreatic cysts ≥2 mm in short axis<br>• ≥3 strands (strand = hyperechoic lines ≥3 mm in length seen in different directions in pancreatic body or tail) |\n| Ductal features<br>胰管特徵 | Major A | • main pancreatic duct calculi（主胰管結石） |\n| | Minor | • irregular main pancreatic duct contour<br>• dilated side branches<br>• main pancreatic duct dilation (≥3.5 mm in the body or ≥1.5 mm in the tail)<br>• hyperechoic main pancreatic duct margin >50% of the main pancreatic duct in the body and tail |\n\n| 診斷準則 | 條件 |\n| :--- | :--- |\n| 可診斷為慢性胰臟炎 | • 1 major A + ≥3 minor<br>• 1 major A + major B<br>• 2 major A |\n| 懷疑為慢性胰臟炎 | • 1 major A + <3 minor<br>• major B + ≥3 minor<br>• ≥5 minor |\n| 無法確定為慢性胰臟炎 | • 0 major + 3~4 minor<br>• major B + <3 minor |\n| 正常 | • <3 minor |",
+    "explanation_image": "/explanations/cropped/111-2_5_73.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_5_73.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-74",
@@ -10092,9 +10098,11 @@
       "D": "攝護腺癌轉移至肋骨可為成骨性病灶（osteoblastic lesion）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 肺部轉移性腫瘤多半位於肺周邊處，不一定會合併縱隔及肺門淋巴結轉移且腫大\n\n(B) 胸腔轉移性惡性腫瘤的影像特徵，包括：多個病灶、呈球型且邊緣平滑、與原發病灶間具有時間上的緊密性（temporal proximity）\n\n(C) 肋膜轉移大部分為多發病灶，且可能產生惡性肋膜積液（malignant pleural effusion）\n\n(D) 癌症的骨轉移，可分為成骨性病灶（osteoblastic）、蝕骨性病灶（osteolytic）及混合性病灶（mixed type）：\n\n| 骨轉移類型 | 常見癌症 |\n| :--- | :--- |\n| 成骨性病灶<br>(osteoblastic) | • prostate cancer<br>• carcinoid<br>• small cell lung cancer<br>• Hodgkin lymphoma<br>• medulloblastoma |\n| 蝕骨性病灶<br>(osteolytic) | • multiple myeloma<br>• renal cell carcinoma<br>• melanoma<br>• non-small cell lung cancer<br>• non-Hodgkin lymphoma<br>• thyroid cancer<br>• Langerhans-cell histiocytosis |\n| 混合性病灶<br>(mixed type) | • breast cancer<br>• GI cancer |",
+    "explanation_image": "/explanations/cropped/111-2_5_74.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_5_74.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-75",
@@ -10109,9 +10117,11 @@
       "D": "腹腔鏡手術所造成的腹壁小傷口，不會造成腹壁或切口疝氣（incisional hernia）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(D) 腹腔鏡手術所造成的腹壁小傷口，是有可能導致疝氣的，尤其容易發生於較大的切口、側切孔的傷口及較瘦的病人",
+    "explanation_image": "/explanations/cropped/111-2_5_75.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_5_75.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-76",
@@ -10126,9 +10136,11 @@
       "D": "呼吸商數（respiratory quotient）會下降"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "(A) 術後病人的能量消耗通常會比基礎代謝率高 10~20%（Schwartz's p.68 table 2-9），筆者認為此選項也是錯誤的選項\n\n(B) 手術壓力（surgical stress）會刺激 CRH（corticotrophin-releasing hormone）釋放，促進 ACTH 的釋放，進而使得 cortisol 分泌增加；手術壓力亦會刺激交感神經系統，使得 epinephrine 分泌增加；術後身體會處在高代謝狀態，身體會分泌 glucagon 將肝醣轉變為血糖，作為組織修復的能量來源\n\n(C) alanine 作為 glutamine, glutamate, aspartate 降解之後的重要含氮物質，alanine transaminase 在小腸黏膜中扮演合成 alanine 的重要角色。被合成的 alanine 會透過腸肝循環進一步到肝臟被利用。肝臟的確有酵素可以代謝 alanine，但是並不會逆著腸肝循環把能量回去給腸道，故此選項錯誤\n\n(D) 接受部分肝切除手術（partial hepatectomy）後，呼吸商數約會減少 3 成左右",
+    "explanation_image": "/explanations/cropped/111-2_5_76.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_5_76.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-77",
@@ -10143,9 +10155,11 @@
       "D": "手術部位感染"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "Schwartz's Principles of Surgery (2019, 11ed.) Chapter 30 中提到，闌尾切除手術（appendectomy）術後最常見的併發症為軟組織感染，包含表淺感染或深層感染（如 abscess），故此題最佳的選項為 (D)",
+    "explanation_image": "/explanations/cropped/111-2_5_77.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_5_77.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-78",
@@ -10160,9 +10174,11 @@
       "D": "應該。情況緊急者，以病人生命為優先考量"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "根據醫療法第 63 條規定，「醫療機構實施手術，應向病人或其法定代理人、配偶、親屬或關係人說明手術原因、手術成功率或可能發生之併發症及危險，並經其同意，簽具手術同意書及麻醉同意書，始得為之。但情況緊急者，不在此限。」本題中病人情況危急須立即進行緊急手術才有機會存活，在找不到其家屬的情況之下，應優先考慮病人的狀況立即進行手術，故選擇 (D)",
+    "explanation_image": "/explanations/cropped/111-2_5_78.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_5_78.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-79",
@@ -10177,9 +10193,11 @@
       "D": "盡一切力量救治，但不施行輸血治療"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "在這樣的情況下，應以病人個人意願為第一優先，雖題幹中病人已無清楚的意識可進行表達，但有明確證據顯示病人是極度拒絕輸血的，故即便情況危急，仍應尊重病人的自主權",
+    "explanation_image": "/explanations/cropped/111-2_5_79.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_5_79.png"
+    ]
   },
   {
     "id": "111-2-醫學(五)-80",
@@ -10194,9 +10212,11 @@
       "D": "臨床教學時，只能觸摸有病變的那一側"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "即使目的是進行臨床教學，仍須經過病人同意後才能進行",
+    "explanation_image": "/explanations/cropped/111-2_5_80.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_5_80.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-1",
