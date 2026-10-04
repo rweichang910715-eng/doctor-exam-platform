@@ -3030,5 +3030,75 @@
     "images": [
       "/explanations/cropped/111-2_5_80.png"
     ]
+  },
+  "111-2-醫學(六)-1": {
+    "id": "111-2-醫學(六)-1",
+    "explanation": "因為誘發嘔吐是口咽人工氣道的潛在風險（即 (B) 正確敘述），所以口咽人工氣道較適合使用在意識不清楚的病人，故 (A) 為錯誤選項。以下補充口咽與鼻咽人工氣道的重點：\n\n| 特性比較 | 口咽人工氣道 | 鼻咽人工氣道 |\n| :--- | :--- | :--- |\n| 潛在問題 | 較具刺激性 → 誘發嘔吐、咳嗽、氣管痙攣；造成創傷 | 鼻子創傷 → 流鼻血（因鼻腔窄且血流豐富） |\n| 適合用於 | 昏迷病人 | 清醒或昏迷病人皆可 |\n| 禁忌 | 清醒病人 | 凝血異常、鼻變形、顱底骨折 |",
+    "images": [
+      "/explanations/cropped/111-2_6_1.png"
+    ]
+  },
+  "111-2-醫學(六)-2": {
+    "id": "111-2-醫學(六)-2",
+    "explanation": "此題與【111-1(六)2】考點相同，出自 Miller's Anesthesia, 9/e Ch.36 的 Key Points。自肺動脈導管取得的 SvO₂ 數值，即生理學上氧和曲線裡減氧血的氧和濃度，正常應介於 65-75%，故 (A) 選項最後一句是錯誤的。(D) 選項用「後遺症」翻譯著實奇怪（也有送申覆不過沒給分），但書中提及的核心應是指不要一味地盡信數據而誤用或誤判，是臨床上很重要的觀念",
+    "images": [
+      "/explanations/cropped/111-2_6_2.png"
+    ]
+  },
+  "111-2-醫學(六)-3": {
+    "id": "111-2-醫學(六)-3",
+    "explanation": "(A) 監測排尿量為早期術中監測常用的方式之一（那時 Lab data 檢測仍不方便），但術中常常受到多重因素影響而減少，且研究發現排尿量降低並不一定與腎功能下降相關，也不一定代表異常。用來監測 GFR 較佳的方式是血漿 Creatinine 推測換算\n\n(B) 目前最廣泛使用來計算 eGFR (estimated GFR) 的公式為美國 MDRD 所歸納出的：eGFR = 186 × 血清肌酸酐⁻¹·¹⁵⁴ ×（年齡）⁻⁰·²⁰³（女性再乘以 0.742）。由此可知，血漿 Creatinine 濃度與 GFR 的關係呈現反向指數 (inverse exponential) 關係，兩者的關係並不會是線性的\n\n(D) 尿液中的 IL-18 是腎小管細胞壓力反應相關的 Biomarker 之一，其餘包含：KIM-1、IGFBP7、TIMP2 等等\n\n故刪去錯誤選項後，僅剩 (C) 較為正確",
+    "images": [
+      "/explanations/cropped/111-2_6_3.png"
+    ]
+  },
+  "111-2-醫學(六)-4": {
+    "id": "111-2-醫學(六)-4",
+    "explanation": "此題就是考麻醉常用的解毒劑，針對鴉片類藥物過量 / 中毒，選用 Naloxone（IV 短效）或 Naltrexone（PO 中長效），故 (A) 為答案\n\n(B) Flumazenil 會與 BZD 類藥物競爭 GABA 受體結合位，故可短暫達到解毒效果，做 BZD 中毒的診斷用\n\n(C)、(D) 為麻醉藥物，並不做解毒劑",
+    "images": [
+      "/explanations/cropped/111-2_6_4.png"
+    ]
+  },
+  "111-2-醫學(六)-5": {
+    "id": "111-2-醫學(六)-5",
+    "explanation": "這題考藥理學。Barbiturate 作用於 GABA_A 受體，延長通道開啟時間，故 (D) 選項錯誤。常用麻醉藥物中，作用於 NMDA 受體的只有 Ketamine（也常考）\n\n(A) 呼吸抑制為 benzodiazepine 藥物的副作用之一，其他常見副作用包括噁心嘔吐、記憶力障礙等\n\n(B) Propofol 因為含有大豆、蛋的成分，須保存於攝氏 25 度以下，避免細菌滋生\n\n(C) 因增進抑制腦幹網狀激活系統 (reticular activating system) 產生嗜睡，但也會造成明顯呼吸抑制、氣管痙攣、血壓腦壓下降，並減少大腦耗氧代謝率",
+    "images": [
+      "/explanations/cropped/111-2_6_5.png"
+    ]
+  },
+  "111-2-醫學(六)-6": {
+    "id": "111-2-醫學(六)-6",
+    "explanation": "面罩通氣有兩個關鍵重點：\n1. 病人的臉與面罩要保持密合，無縫隙\n   ⇒ 3C 手勢：拇指＋食指形成 C 型固定面罩向下施力，其餘三指扣住下頜骨往上抬（形同抬下巴，打開呼吸道）\n2. 維持上呼吸道通暢\n   ⇒ Sniffing Position（即 head tilt）＋抬下巴 (Chin lift)\n   ⇒ 若改善效果有限，可使用 Oral airway 或 Nasal airway 改善\n\n按照 (A) 選項敘述，面罩重點是密合，而不是一味的「用力往下壓」，有可能會因此把上呼吸道較軟的構造壓扁，反而無法維持通暢\n（筆者 OS：所以應該要「技巧性」的扣緊面罩，就會是正確的選項了 ...）",
+    "images": [
+      "/explanations/cropped/111-2_6_6.png"
+    ]
+  },
+  "111-2-醫學(六)-7": {
+    "id": "111-2-醫學(六)-7",
+    "explanation": "考心臟超音波可以得到的資訊。(D) 冠狀動脈狹窄程度，一般使用心導管做冠狀動脈攝影 (coronary angiography) 評估，並無法透過心臟超音波觀察，故選 (D)\n\n(A)、(B)、(C) 皆為術中經食道超音波評估的重點，特別是在心臟外科手術時，同時也是一般胸前心臟超音波觀察的重點",
+    "images": [
+      "/explanations/cropped/111-2_6_7.png"
+    ]
+  },
+  "111-2-醫學(六)-8": {
+    "id": "111-2-醫學(六)-8",
+    "explanation": "硬膜外止痛可以應用於各段脊椎，腰椎施行容易且不太傷到脊髓，而胸椎與頸椎部分可能會有傷到脊髓風險，且打藥後可能影響心臟、呼吸系統的功能，故風險較高。但臨床上是有在使用頸椎的硬膜外止痛，廣泛應用於頸神經叢與臂神經軸疼痛（cervical-brachial neuraxial pain）的患者，故 (D) 不太正確",
+    "images": [
+      "/explanations/cropped/111-2_6_8.png"
+    ]
+  },
+  "111-2-醫學(六)-9": {
+    "id": "111-2-醫學(六)-9",
+    "explanation": "胰島素抗性本身，會導致高血糖的狀況（因為周邊細胞不太利用血糖），因此 (A) 敘述本來就錯誤；又敗血性休克為一種身體壓力狀態，會因為壓力類激素（如：Cortisol）與反向調控激素（如：升糖素）造成高血糖，故 (A) 錯誤",
+    "images": [
+      "/explanations/cropped/111-2_6_9.png"
+    ]
+  },
+  "111-2-醫學(六)-10": {
+    "id": "111-2-醫學(六)-10",
+    "explanation": "眼科使用 Anti-VEGF agents 的時機，不外乎血管新生 (neovascularization) 的發生，因此 (C) 為最適合使用此種治療的狀況；而 (D) 雖然是血管新生後期的表現之一，但因為其已經纖維化（是個疤痕啊！），對於 Anti-VEGF 的治療並沒有效果。其餘選項皆為年齡相關黃斑部退化 (AMD) 的特徵，以下簡單補充：\n\n* 傳統 AMD 分類 - 分乾 / 溼\n\n| 比較 | Dry AMD | Wet AMD |\n| :--- | :--- | :--- |\n| 特徵 | Non-exudative, Non-neovascular | Exudative, Neovascular |\n| 流病 | 最常見（佔診斷的 90%） | 少見，但惡化快速，可能失明 |\n| 病變 | 視網膜色素性上皮的地圖狀萎縮 (geographic atrophy) | 脈絡膜血管新生 (CNV)、息肉狀脈絡膜血管病變 (polypoidal choroidal vasculopathy)、視網膜色素性上皮剝離 (pigment epithelial detachment)、視網膜血管新生 |\n| 治療 | 以抗氧化劑（Vit. C 或 E）預防惡化 | Anti-VEGF 眼內注射 |\n\n專家共識的 AMD 臨床分類（改自 Kanski's 教科書的 Table 14.2）\n\n| 分類 | 定義 |\n| :--- | :--- |\n| 沒有明顯老化變化<br>(no apparent aging changes) | 沒有隱結 (drusen)、沒有 AMD 色素性上皮異常 |\n| 正常老化（60 歲後） | 只有看到 Drupelets（即較小的 Drusen） |\n| 早期 AMD | 中等大小 Drusen (63~125 μm) |\n| 中期 AMD | 大 Drusen (>125 μm) ＋ 任何 AMD 色素性上皮異常 |\n| 晚期 AMD | neovascular AMD 伴隨 / 或任何 geographic atrophy |\n\n【補充】Drusen：位在 Bruch membrane 與 RPE 之間的細胞外沉積物",
+    "images": [
+      "/explanations/cropped/111-2_6_10.png"
+    ]
   }
 }
