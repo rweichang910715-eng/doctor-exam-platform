@@ -1828,8 +1828,10 @@ function App() {
                       </div>
                     )}
 
-                    {/* Personal User Note */}
-                    <UserNoteBox questionId={q.id} userNotes={userNotes} onSaveNote={handleSaveUserNote} />
+                    {/* Personal User Note - Only show after answering */}
+                    {answered && (
+                      <UserNoteBox questionId={q.id} userNotes={userNotes} onSaveNote={handleSaveUserNote} />
+                    )}
                   </div>
                 )
               })}
@@ -2047,8 +2049,10 @@ function App() {
                       </div>
                     )}
 
-                    {/* Personal User Note */}
-                    <UserNoteBox questionId={q.id} userNotes={userNotes} onSaveNote={handleSaveUserNote} />
+                    {/* Personal User Note - Only show after answering */}
+                    {answered && (
+                      <UserNoteBox questionId={q.id} userNotes={userNotes} onSaveNote={handleSaveUserNote} />
+                    )}
                   </div>
                 )
               })}
