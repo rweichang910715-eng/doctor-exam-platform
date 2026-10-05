@@ -22,149 +22,30 @@ const escapeRegExp = (string) => {
 }
 
 // Map questions to medical subspecialties (腎臟內科, 胸腔內科, 心臟內科, etc.)
+// Map questions to medical subspecialties (32 Chapters across 4 Sections)
 const getQuestionSubspecialty = (q) => {
-  if (!q) return '一般臨床醫學'
-  const sub = q.subject || ''
-  const num = q.number || 0
-  const fullText = [
-    q.text || '',
-    ...Object.values(q.options || {}),
-    q.explanation || '',
-    q.note || ''
-  ].join(' ')
-
-  if (sub === '醫學(三)') {
-    if (num >= 69 || /倫理|自主權|病情告知|安寧|隱私|病人自主|同意書|beauchamp|倫理原則|安寧緩和/i.test(fullText)) {
-      return '醫學倫理與法規'
-    }
-    if (num >= 56 && num <= 68 && /家醫|預防保健|疫苗|篩檢|社區|老人/i.test(fullText)) {
-      return '家庭醫學科'
-    }
-    if (/腎|腎臟|kidney|renal|dialysis|透析|蛋白尿|egfr|creatinine|肌酸酐|尿毒|電解質|glomerular|腎小球|腎絲球/i.test(fullText)) {
-      return '腎臟內科'
-    }
-    if (/胸腔|氣管|肺|copd|asthma|氣喘|肺炎|pneumonia|呼吸|cough|咳嗽|pleural|胸水|氣胸|abg|pao2/i.test(fullText)) {
-      return '胸腔內科'
-    }
-    if (/心臟|心肌|心律|ecg|st段|高血壓|hypertension|心衰竭|cardiac|heart|murmur|心雜音|冠狀動脈|troponin|af|心房顫動/i.test(fullText)) {
-      return '心臟內科'
-    }
-    if (/肝|胃|腸|膽|胰|hepatitis|cirrhosis|肝硬化|潰瘍|ulcer|ascites|腹水|黃疸|jaundice|內視鏡|gastro/i.test(fullText)) {
-      return '腸胃肝膽科'
-    }
-    if (/糖尿病|diabetes|甲狀腺|thyroid|腎上腺|adrenal|副甲狀腺|hba1c|胰島素|insulin|cushing|aldosterone/i.test(fullText)) {
-      return '內分泌新陳代謝科'
-    }
-    if (/貧血|anemia|白血病|leukemia|淋巴瘤|lymphoma|化療|chemotherapy|血小板|platelet|neutropenia/i.test(fullText)) {
-      return '血液腫瘤科'
-    }
-    if (/sle|紅斑性狼瘡|類風濕|rheumatoid|lupus|痛風|gout|血管炎|vasculitis|scleroderma|硬皮症|ana|anti-dsdna/i.test(fullText)) {
-      return '風濕免疫科'
-    }
-    if (/感染|敗血症|sepsis|發燒|fever|抗生素|antibiotic|hiv|愛滋|結核|tb|tuberculosis|fungal/i.test(fullText)) {
-      return '感染科'
-    }
-
-    if (num <= 10) return '心臟內科'
-    if (num <= 18) return '胸腔內科'
-    if (num <= 26) return '腸胃肝膽科'
-    if (num <= 34) return '腎臟內科'
-    if (num <= 40) return '內分泌新陳代謝科'
-    if (num <= 46) return '血液腫瘤科'
-    if (num <= 50) return '風濕免疫科'
-    if (num <= 55) return '感染科'
-    if (num <= 68) return '家庭醫學科'
-    return '醫學倫理與法規'
-  }
-
-  if (sub === '醫學(四)') {
-    if (/皮|皮疹|蕁麻疹|濕疹|癬|derma|rash|melanoma|psoriasis|乾癬|天疱瘡/i.test(fullText)) {
-      return '皮膚科'
-    }
-    if (/小兒|兒童|新生兒|早產兒|pediatric|infant|newborn|川崎|kawasaki|腸病毒/i.test(fullText)) {
-      return '小兒科'
-    }
-    if (/精神|憂鬱|思覺失調|躁鬱|schizophrenia|depression|bipolar|phobia|強迫症|dementia|失智/i.test(fullText)) {
-      return '精神科'
-    }
-    if (/神經|中風|stroke|癲癇|seizure|parkinson|巴金森|腦膜炎|頭痛|neuropathy|als/i.test(fullText)) {
-      return '神經科'
-    }
-
-    if (num <= 30) return '小兒科'
-    if (num <= 42) return '皮膚科'
-    if (num <= 62) return '神經科'
-    return '精神科'
-  }
-
-  if (sub === '醫學(五)') {
-    if (/骨|骨折|fracture|脫臼|dislocation|韌帶|ligament|膝|髖|關節鏡|ortho|scoliosis/i.test(fullText)) {
-      return '骨科'
-    }
-    if (/泌尿|攝護腺|prostate|腎結石|膀胱|bladder|血尿|hematuria|包莖|睾丸|testis/i.test(fullText)) {
-      return '泌尿科'
-    }
-    if (/一般外科|疝氣|hernia|闌尾炎|appendicitis|乳癌|breast|膽囊|cholecystitis|胃切除/i.test(fullText)) {
-      return '一般外科'
-    }
-
-    if (num <= 40) return '一般外科'
-    if (num <= 60) return '骨科'
-    return '泌尿科'
-  }
-
-  if (sub === '醫學(六)') {
-    if (/眼|視力|青光眼|glaucoma|白內障|cataract|視網膜|retina|角膜|結膜/i.test(fullText)) {
-      return '眼科'
-    }
-    if (/耳|鼻|喉|聽力|hearing|眩暈|vertigo|鼻竇|sinus|會厭|epiglottitis|中耳/i.test(fullText)) {
-      return '耳鼻喉科'
-    }
-    if (/婦|產|懷孕|pregnancy|胎兒|fetal|子宮|uterus|卵巢|ovary|陰道|產檢|避孕/i.test(fullText)) {
-      return '婦產科'
-    }
-    if (/麻醉|anesthesia|插管|intubation|鎮靜|sedation|肌肉鬆弛/i.test(fullText)) {
-      return '麻醉科'
-    }
-    if (/復健|rehabilitation|巴氏量表|barthel|輔具|關節活動度|物理治療/i.test(fullText)) {
-      return '復健科'
-    }
-
-    if (num <= 15) return '婦產科'
-    if (num <= 30) return '眼科'
-    if (num <= 45) return '耳鼻喉科'
-    if (num <= 65) return '婦產科'
-    if (num <= 75) return '復健科'
-    return '醫學倫理與法規'
-  }
-
-  return '一般臨床醫學'
+  if (!q) return '一般外科'
+  if (q.chapter) return q.chapter
+  if (q.category) return q.category
+  return '一般外科'
 }
 
 const SUBSPECIALTY_GROUPS = [
   {
-    category: '🫀 內科系',
-    items: ['腎臟內科', '胸腔內科', '心臟內科', '腸胃肝膽科', '內分泌新陳代謝科', '血液腫瘤科', '風濕免疫科', '感染科', '家庭醫學科']
+    category: '📖 第一篇 內科學',
+    items: ['心臟內科', '胸腔內科', '肝膽腸胃科', '腎臟科', '血液腫瘤科', '新陳代謝科', '感染科', '免疫風濕科', '神經內科', '急診內科']
   },
   {
-    category: '👶 兒神皮精',
-    items: ['小兒科', '皮膚科', '神經科', '精神科']
+    category: '🔪 第二篇 外科學',
+    items: ['外科概論', '一般外科', '心臟外科', '大腸直腸科', '整形外科', '胸腔外科', '神經外科', '小兒外科', '急診外傷科', '移植科']
   },
   {
-    category: '🔪 外科系',
-    items: ['一般外科', '骨科', '泌尿科']
+    category: '👶 第三篇 婦兒科',
+    items: ['小兒科', '婦產科']
   },
   {
-    category: '🤰 婦產科',
-    items: ['婦產科']
-  },
-  {
-    category: '🩺 專科醫學',
-    items: ['麻醉科', '眼科', '耳鼻喉科', '復健科']
-  },
-  {
-    category: '⚖️ 醫學倫理與法規',
-    items: ['醫學倫理與法規']
+    category: '🩺 第四篇 其他科',
+    items: ['家庭醫學科', '皮膚科', '精神科', '骨科', '泌尿科', '麻醉科', '眼科', '耳鼻喉科', '復健科', '醫學倫理與醫療決策']
   }
 ]
 
