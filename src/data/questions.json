@@ -11371,9 +11371,11 @@
       "D": "脊椎神經根病變（radiculopathy）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "肌肉顫動 (fasciculation) 為非自主性、自發性的肌肉放電，源自於前角運動神經元本體或軸突的異常放電 容易出現肌肉顫動，也是最嚴重的為運動神經元疾病 (motor neuron disease)，如：肌萎縮側索硬化症 (amyotrophic lateral sclerosis, ALS) 另外也可見於甲狀腺毒症、使用膽鹼酶抑制劑者、脊椎神經根病變與慢性神經病變\n\n(A) (C) 主要影響神經的髓鞘，導致運動、感覺神經傳導異常的多發性神經病變，肌肉顫動情況並不是其主要特徵",
+    "explanation_image": "/explanations/cropped/111-2_6_61.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_61.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-62",
@@ -11388,9 +11390,11 @@
       "D": "最常侵犯的是橈側伸腕短肌（extensor carpi radialis brevis）肌腱"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "網球肘較為正式名稱為「肱骨外側上髁病變 (lateral epicondylopathy)」，因過度使用前臂伸側肌群，造成連接肱骨外上髁處的肌腱顯微撕裂傷，最常影響的肌肉是橈側伸腕短肌 (ECRB)，進而影響手腕的伸展 (extension) 動作 綜合上述，僅有 (D) 敘述較為正確\n\n(A) 網球肘應是長期過度使用導致微小的肌腱撕裂傷所引發的一種「退化 (degenerative process)」，而組織學與病理學的相關特徵包括：\n• 微小撕裂傷 (micro-rupture)\n• 肉芽組織 (granulation tissue)\n• 肥大或增多的纖維母細胞 (fibroblast)\n• 膠原蛋白結構紊亂 (collagen disorganization)\n• 血管增生 (vascular hyperplasia)\n• 發炎細胞缺乏\n\n以往認為網球肘為一種肌腱發炎 (tendinitis)，但後來在組織學上看到發炎細胞的缺乏，因而認為其應該被歸類為肌腱退化 (tendinosis)，故 (A) 不正確",
+    "explanation_image": "/explanations/cropped/111-2_6_62.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_62.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-63",
@@ -11405,9 +11409,11 @@
       "D": "坐姿上半身直立不前傾"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "腰椎所承受的壓力，以平躺最少，站姿次之，坐姿最高；又當站姿或坐姿時往前傾會額外增加內部壓力 故 (C) 為具有最高內部壓力的姿勢",
+    "explanation_image": "/explanations/cropped/111-2_6_63.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_63.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-64",
@@ -11422,9 +11428,11 @@
       "D": "膕肌肌腱（hamstring tendon）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "PTB 為全接觸式套筒，與其他懸吊式的套筒不同處在於要注意不可受壓的區域，整理如下：\n\n| 可受壓力區 | 不可受壓力區 |\n| :--- | :--- |\n| 股骨上髁 (epicondyle)、脛骨內側面、小腿前側 / 後側肌肉區 | 脛骨嵴 (tibial crest)、脛骨斷端 (tibial distal end)、腓骨頭 (fibular head)、股二頭肌肌腱 |\n\n故 (C) 為較合適選項",
+    "explanation_image": "/explanations/cropped/111-2_6_64.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_64.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-65",
@@ -11439,9 +11447,11 @@
       "D": "比較科學的認定是指短時間、有節奏、會令心率上升的小肌肉運動"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題用刪去法作答比較容易\n(A) 無氧閾 ( ㄩ ˋ) 值定義為：當供應能量來源主要來自無氧呼吸時的運動程度，此時血中乳酸濃度會急遽增加 故在 AT (anaerobic threshold) 以下的強度運動才為有氧運動\n(C) 運動強度可以簡單透過最大心率百分比定義 一般而言中強度的運動約為最大心率的 50-70%，此時期大概是有氧運動，提升至 70-85% 則為高強度運動，如：重量訓練等；<50% 與休息狀態無異，因此選項敘述的比例可能無法作為運動的認定標準\n(D) 根據美國運動醫學學會 (ACSM) 針對有氧運動的定義：任何有節奏的、持續的大肌肉群的運動；選項所敘述的比較像是爆發性的運動，如：百米賽跑",
+    "explanation_image": "/explanations/cropped/111-2_6_65.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_65.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-66",
@@ -11456,9 +11466,11 @@
       "D": "65 歲以上的老年人"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "因為這題是復建科考題，推測出題老師想問的是在 cardiac rehabilitation 過程中高危險性的病人群（不然也不知道他所謂的高危險是什麼東西高危險……）\n\n| 心臟復健高風險族群 | |\n| :--- | :--- |\n| ischemia | 1. 手術後 angina<br>2. LVEF <35%<br>3. NYHA Gr 3~4<br>4. 術後 VT/VF<br>5. 運動時 SBP 掉超過 10<br>6. 運動時出現心肌缺血 |\n| arrhythmia | 1. 6 週內有 acute infarction<br>2. 運動測試出現胸痛<br>3. LVEF <30%<br>4. sustained VT/SVT 病史<br>5. 有猝死病史，且尚未以藥物穩定控制<br>6. 剛開始使用 automatic ICD<br>7. 剛開始使用 rate adaptive pacemaker |",
+    "explanation_image": "/explanations/cropped/111-2_6_66.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_66.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-67",
@@ -11473,9 +11485,11 @@
       "D": "不管是 Erb 氏麻痺或 Klumpke 氏麻痺，大多數患者日後皆復原良好"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題考兩種臂神經叢受損：Erb's palsy 與 Klumpke's palsy 的比較 [REF. 醫學（五）骨科]\n(A) Erb's palsy 傷及臂神經叢上部的 C5-6\n(B) Klumpke's palsy 傷及臂神經叢下部的 C8-T1\n(C) Erb's palsy 的受損機轉較為常見，而 Klumpke's palsy 的受損機轉很罕見\n\n故僅 (D) 選項是正確敘述，大多數臂神經叢受損者先保守治療觀察 3-6 個月 以下補充常見的臂神經叢病變 (Brachial plexopathy)：\n\n| 種類 | 原因 | 臨床表現 |\n| :--- | :--- | :--- |\n| Thoracic outlet syndrome [REF. 醫學（五）胸外近年考題] | 斜角肌病變或先天頸椎肋骨壓迫所致 | 手掌疼痛、無力 |\n| Erb's palsy | 手臂下拉的撕裂傷，如：肩難產新生兒 | 上部受損，影響 C5-6<br>• Deltoid m. 無力，肩關節無法 Abduction<br>• Biceps m. 無力，肘關節無法 flexion |\n| Klumpke's palsy | 手臂上扯的撕裂傷（想像吊單槓的姿勢），此受傷機轉較 Erb's palsy 少見 | 下部受損，影響 C8-T1<br>• 手掌內在肌、手指伸 / 屈肌無力 |\n| Pancoast syndrome | 肺尖處腫瘤壓迫臂神經叢 | • 可能伴隨 Horner syndrome（壓 T1） |",
+    "explanation_image": "/explanations/cropped/111-2_6_67.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_67.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-68",
@@ -11490,9 +11504,11 @@
       "D": "失調型（ataxictype）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "本題考的觀念為：慢性新生兒黃疸可能併發核黃疸 (kernicterus / kernictus)，因 Bilirubin 沉積在基底核稱之，造成椎體外運動障礙的症狀，故 (B) 徐動型為最合適的選項 以下補充腦性麻痺可能成因與臨床表現：\n\n| 腦性麻痺：一種後天性的腦損傷造成，可能發生在產前 / 生產時 / 生產後 | |\n| :--- | :--- |\n| 痙攣型 (Spastic type) | 椎體路徑 (pyramidal tract) 受損，可再依照影響肢體分類，常見度為 Diplegia（雙手 / 雙腳）> Hemiplegia（半側上下肢）> Quadriplegia（四肢） |\n| 運動不良 (Dyskinetic type) | • 錐體外路徑 (extrapyramidal tract) 受損<br>• 可再分成：徐動型 (athetoid) 或張力失調型 (dystonic)<br>• 常見成因：窒息 (birth asphyxia)、核黃疸、粒線體疾病 |\n| 共濟失調 (Ataxic type) | 很罕見，小腦功能受損，影響協調、平衡 |\n| 低張型 (Hypotonic type) | 很罕見 |",
+    "explanation_image": "/explanations/cropped/111-2_6_68.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_68.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-69",
@@ -11507,9 +11523,11 @@
       "D": "蹠神經（plantar nerve）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題其實就是考「哪條神經受損造成垂足」 垂足是因脛前肌 (tibialis anterior) 無力，導致腳掌無法進行背屈 (dorsiflexion)，此肌肉為深腓神經支配，故答案為 (B) 以下整理下肢神經與支配肌肉群：\n\n| 下肢神經（的運動支） | 支配肌肉 | 產生動作 |\n| :--- | :--- | :--- |\n| 股神經 (femoral n.) | 大腿前側肌群：Psoas major、Quadriceps femoris、Sartorius | 髖關節 Flexion、膝關節 Extension |\n| 閉孔神經 (obturator n.) | 大腿內側肌群：Adductor groups、Gracilis、Obturator externus | 髖關節 Adduction、大腿 Medial Rotation |\n| 坐骨神經 (sciatic n.) | 大腿後側肌群：Biceps femoris、Adductor magnus、Semimembranous、Semitendinosus | 髖關節 Extension、膝關節 Flexion |\n| 脛神經 (tibial n.) | 小腿後側肌群：Gastrocnemius、Soleus、Plantaris、Flexor digitorum longus、Flexor hallucis longus、Tibialis posterior | 腳掌 Plantar flexion、腳趾 Flexion |\n| 深腓神經 (deep peroneal n.) | 小腿前側肌群：Tibialis anterior、extensor digitorum longus、extensor hallucis longus、fibularis tertius | 腳掌 Dorsiflexion、腳趾 Extension |\n| 蹠神經 (plantar n.) | 腳掌肌肉群 | 腳掌 inversion 或 eversion、腳趾 Adduction 或 Abduction |\n\n※ 考試愛考的應該就是兩種垂：Foot drop - 深腓神經；Wrist drop - 橈神經",
+    "explanation_image": "/explanations/cropped/111-2_6_69.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_69.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-70",
@@ -11524,9 +11542,11 @@
       "D": "顳葉（temporal lobe）"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "失用症 (apraxia) 為頂葉受損時（一般發生於左側優勢腦），影響「動作的空間 - 時間形式圖像 (space-time from picture)」造成動作障礙，如：知道牙刷但不會刷牙，或無法進行穿衣服或吃飯等連續性動作，故選 (A) 以下補充大腦功能區受損可能產生的症狀：\n\n[ 補充 ] 大腦功能分區與症狀\n\n| 皮質分葉 | 主要功能 | 受損症狀 |\n| :--- | :--- | :--- |\n| 額葉 Frontal Lobe | 初級運動皮質 | 運動受損，視分布影響無力部位 |\n| | Broca's area（優勢腦） | 失語症 (Broca's dysphasia) |\n| | 前額區：掌管個性與動機 | • 影響情緒、動機與抽象思考<br>• 出現原始反射：grasp reflex、pout reflex<br>• 步態失用 (gait apraxia) |\n| 頂葉 Parietal Lobe | 初級感覺皮質 | • 觸壓溫痛感覺喪失<br>• 感知競爭 (perceptual rivalry)：因一側輸入訊號喪失，導致半側忽略 (neglect syndrome) |\n| | Wernicke's area（優勢腦） | 失語症 (Wernicke's dysphasia) |\n| | 非優勢腦：建立身體 / 物體形象 | • 病覺缺失症 (anosognosia)<br>• 建構失用症 (constructional apraxia)：無法進行仿畫<br>• 穿衣失用症 (dressing apraxia)：無法順利穿衣<br>• 失認症 (agnosia)：在房間找不到自己的床 |\n| | 優勢腦：數字運算技能 | Gerstmann's Syndrome，包含：<br>• 手指失認症 (finger agnosia)：無法分辨手指與手掌、左右手<br>• 算術障礙 (acalculia)<br>• 失寫症 (agraphia) |\n| 顳葉 Temporal Lobe | 聽覺皮質 (Heschl's gyrus)<br>• 優勢腦：聽語言<br>• 非優勢腦：聽聲、韻律與旋律 | 皮質聽損、聽幻覺 |\n| | 中下顳葉腦迴：學習記憶 | 學習 / 記憶障礙、癲癇 + 發作後的記憶障礙（如：似曾相似 Deja vu） |\n| | 邊緣皮質（顳葉內下側）：嗅覺、情緒、記憶 | 嗅幻覺 + 癲癇、激躁行為、無法建立新的記憶 |\n| 枕葉 Occipital Lobe | 視覺皮質 | • 皮質性失明：無法感知光線，但仍有 light reflex<br>• 視幻覺<br>• 視覺錯覺，如：看物顯大 (macropsia) 或看物顯小 (micropsia)<br>• 臉盲 (prosopagnosia) |",
+    "explanation_image": "/explanations/cropped/111-2_6_70.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_70.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-71",
