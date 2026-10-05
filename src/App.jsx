@@ -527,6 +527,7 @@ function App() {
   // Wrong questions practice state
   const [wrongAnswers, setWrongAnswers] = useState({}) // { questionId: selectedOption }
   const [wrongFilterSubject, setWrongFilterSubject] = useState('all')
+  const [wrongFilterYear, setWrongFilterYear] = useState('all')
 
   // Result page filter state ('all' | 'wrong' | 'correct' | specific chapter name)
   const [resultFilter, setResultFilter] = useState('all')
@@ -1845,9 +1846,21 @@ function App() {
   // Wrong Questions (錯題本) Renderer
   const renderReview = () => {
     const wrongList = questionsData.filter(q => wrongQuestions.includes(q.id))
-    const filteredWrong = wrongFilterSubject === 'all' 
-      ? wrongList 
-      : wrongList.filter(q => q.subject === wrongFilterSubject || getQuestionSubspecialty(q) === wrongFilterSubject)
+    
+    // Filter by both Year and Subject/Subspecialty
+    const filteredWrong = wrongList.filter(q => {
+      if (wrongFilterYear !== 'all' && q.year !== wrongFilterYear) {
+        return false
+      }
+      if (wrongFilterSubject !== 'all') {
+        const isSubjectMatch = q.subject === wrongFilterSubject
+        const isSubspecMatch = (q.chapter === wrongFilterSubject) || (getQuestionSubspecialty(q) === wrongFilterSubject)
+        if (!isSubjectMatch && !isSubspecMatch) {
+          return false
+        }
+      }
+      return true
+    })
 
     // Handle Wrong Question Retry
     const handleRetryWrong = (questionId, letter, correctAnswer) => {
@@ -1863,6 +1876,8 @@ function App() {
       }))
     }
 
+    const isFiltered = wrongFilterYear !== 'all' || wrongFilterSubject !== 'all'
+
     return (
       <div className="wrong-questions-layout animate-fade-in">
         {/* Filter Sidebar */}
@@ -1871,41 +1886,102 @@ function App() {
             <div>
               <h4 className="filter-section-title" style={{ marginBottom: '0.5rem' }}>錯題分類篩選</h4>
               <button 
-                className={`filter-btn ${wrongFilterSubject === 'all' ? 'active' : ''}`}
+                className={`filter-btn ${!isFiltered ? 'active' : ''}`}
                 style={{ width: '100%', marginBottom: '0.5rem', fontWeight: 'bold' }}
-                onClick={() => setWrongFilterSubject('all')}
+                onClick={() => {
+                  setWrongFilterYear('all')
+                  setWrongFilterSubject('all')
+                }}
               >
                 全部錯題 ({wrongList.length})
               </button>
             </div>
 
-            {/* Filter by Exam Subject */}
+            {/* 1. Filter by Exam Year */}
             <div>
-              <h5 style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginBottom: '0.4rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '0.2rem' }}>
-                📋 國考大科
-              </h5>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.4rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '0.2rem' }}>
+                <h5 style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', margin: 0 }}>
+                  📅 考試年份
+                </h5>
+                {wrongFilterYear !== 'all' && (
+                  <button
+                    style={{ background: 'none', border: 'none', color: 'var(--accent-color)', fontSize: '0.72rem', cursor: 'pointer', padding: 0 }}
+                    onClick={() => setWrongFilterYear('all')}
+                  >
+                    全部年份
+                  </button>
+                )}
+              </div>
               <div className="filter-list" style={{ gap: '0.25rem' }}>
-                {subjectsList.map(subject => {
-                  const count = wrongList.filter(q => q.subject === subject).length
+                <button
+                  className={`filter-btn ${wrongFilterYear === 'all' ? 'active' : ''}`}
+                  style={{ fontSize: '0.82rem', padding: '0.35rem 0.6rem' }}
+                  onClick={() => setWrongFilterYear('all')}
+                >
+                  不限年份 ({wrongList.length})
+                </button>
+                {yearsList.map(year => {
+                  const count = wrongList.filter(q => q.year === year).length
                   if (count === 0) return null
                   return (
                     <button
-                      key={subject}
-                      className={`filter-btn ${wrongFilterSubject === subject ? 'active' : ''}`}
-                      style={{ fontSize: '0.82rem', padding: '0.35rem 0.6rem' }}
-                      onClick={() => setWrongFilterSubject(subject)}
+                      key={year}
+                      className={`filter-btn ${wrongFilterYear === year ? 'active' : ''}`}
+                      style={{ fontSize: '0.82rem', padding: '0.35rem 0.6rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
+                      onClick={() => setWrongFilterYear(wrongFilterYear === year ? 'all' : year)}
                     >
-                      {subject} ({count})
+                      <span>{year}年</span>
+                      <span style={{ fontSize: '0.75rem', opacity: 0.8 }}>({count})</span>
                     </button>
                   )
                 })}
               </div>
             </div>
 
-            {/* Filter by Subspecialty / Department */}
+            {/* 2. Filter by Exam Subject */}
+            <div>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.4rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '0.2rem' }}>
+                <h5 style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', margin: 0 }}>
+                  📋 國考大科
+                </h5>
+                {subjectsList.includes(wrongFilterSubject) && (
+                  <button
+                    style={{ background: 'none', border: 'none', color: 'var(--accent-color)', fontSize: '0.72rem', cursor: 'pointer', padding: 0 }}
+                    onClick={() => setWrongFilterSubject('all')}
+                  >
+                    全部科目
+                  </button>
+                )}
+              </div>
+              <div className="filter-list" style={{ gap: '0.25rem' }}>
+                {subjectsList.map(subject => {
+                  const count = wrongList.filter(q => {
+                    const yearMatch = wrongFilterYear === 'all' || q.year === wrongFilterYear
+                    return yearMatch && q.subject === subject
+                  }).length
+                  if (count === 0 && wrongFilterYear === 'all') return null
+                  return (
+                    <button
+                      key={subject}
+                      className={`filter-btn ${wrongFilterSubject === subject ? 'active' : ''}`}
+                      style={{ fontSize: '0.82rem', padding: '0.35rem 0.6rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
+                      onClick={() => setWrongFilterSubject(wrongFilterSubject === subject ? 'all' : subject)}
+                    >
+                      <span>{subject}</span>
+                      <span style={{ fontSize: '0.75rem', opacity: 0.8 }}>({count})</span>
+                    </button>
+                  )
+                })}
+              </div>
+            </div>
+
+            {/* 3. Filter by Subspecialty / Department */}
             {SUBSPECIALTY_GROUPS.map(group => {
               const availableItems = group.items.filter(item => {
-                return wrongList.some(q => getQuestionSubspecialty(q) === item)
+                return wrongList.some(q => {
+                  const yearMatch = wrongFilterYear === 'all' || q.year === wrongFilterYear
+                  return yearMatch && getQuestionSubspecialty(q) === item
+                })
               })
 
               if (availableItems.length === 0) return null
@@ -1917,13 +1993,16 @@ function App() {
                   </h5>
                   <div className="filter-list" style={{ gap: '0.25rem' }}>
                     {availableItems.map(item => {
-                      const count = wrongList.filter(q => getQuestionSubspecialty(q) === item).length
+                      const count = wrongList.filter(q => {
+                        const yearMatch = wrongFilterYear === 'all' || q.year === wrongFilterYear
+                        return yearMatch && getQuestionSubspecialty(q) === item
+                      }).length
                       return (
                         <button
                           key={item}
                           className={`filter-btn ${wrongFilterSubject === item ? 'active' : ''}`}
                           style={{ fontSize: '0.82rem', padding: '0.35rem 0.6rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
-                          onClick={() => setWrongFilterSubject(item)}
+                          onClick={() => setWrongFilterSubject(wrongFilterSubject === item ? 'all' : item)}
                         >
                           <span>{item}</span>
                           <span style={{ fontSize: '0.75rem', opacity: 0.8 }}>({count})</span>
@@ -1942,23 +2021,28 @@ function App() {
           <div className="card" style={{ padding: '1rem 1.5rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem' }}>
             <div>
               <h3 style={{ margin: 0, fontSize: '1.1rem' }}>
-                錯題清單 - {wrongFilterSubject === 'all' ? '全部科別' : wrongFilterSubject} ({filteredWrong.length} 題)
+                錯題清單 - {wrongFilterYear === 'all' ? '全部年份' : `${wrongFilterYear}年`} / {wrongFilterSubject === 'all' ? '全部科別' : wrongFilterSubject} ({filteredWrong.length} 題)
               </h3>
               <span style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>答對後題目會繼續保留在錯題本中，需要時可點選「移出錯題本」</span>
             </div>
-            {wrongFilterSubject !== 'all' && (
+            {isFiltered && (
               <button 
                 className="btn btn-secondary btn-sm"
-                onClick={() => setWrongFilterSubject('all')}
+                onClick={() => {
+                  setWrongFilterYear('all')
+                  setWrongFilterSubject('all')
+                }}
               >
-                顯示全部錯題
+                ✕ 清除篩選（顯示全部錯題）
               </button>
             )}
           </div>
 
           {filteredWrong.length === 0 ? (
             <div className="card" style={{ textAlign: 'center', padding: '3rem', marginTop: '1rem' }}>
-              <p style={{ color: 'var(--text-tertiary)', fontSize: '1.1rem' }}>🎉 太棒了！【{wrongFilterSubject}】目前沒有錯題</p>
+              <p style={{ color: 'var(--text-tertiary)', fontSize: '1.1rem' }}>
+                🎉 太棒了！【{wrongFilterYear === 'all' ? '' : `${wrongFilterYear}年 `}{wrongFilterSubject === 'all' ? '此條件' : wrongFilterSubject}】目前沒有錯題
+              </p>
             </div>
           ) : (
             <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem', marginTop: '1rem' }}>
