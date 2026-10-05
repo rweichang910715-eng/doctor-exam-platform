@@ -3380,5 +3380,115 @@
     "images": [
       "/explanations/cropped/111-2_6_50.png"
     ]
+  },
+  "111-2-6-51": {
+    "text": "塗抹 3-5% 醋酸後，會造成可逆的蛋白質變性，導致癌化的上皮層發生白化 (acetowhitening)，但教科書特別提到「重要的是，惡性癌症通常不會有白化的表現，因為其富含血管的緣故 (Importantly, malignancy often is not acetowhite due to its vascularity)」題目所述「侵犯性病灶 (invasive lesion)」指的是病灶已侵犯超過基底膜的癌症（大多數上皮癌都是這樣定義的），而非尚未超過基底膜的子宮頸上皮內腫瘤 (cervical intraepithelial neoplasia, CIN)，因此 (C) 選項錯誤 上一次類似考題已經是超過 5 年前了，以下為子宮頸陰道鏡檢查與染色的簡單整理（改寫自 William's Gynecology Table 29-7），通常區分成 low-grade、high-grade 與 invasive cancer：\n\n| 特徵 | Low-Grade | High-Grade | Invasive Cancer |\n| :--- | :--- | :--- | :--- |\n| 病灶邊緣 / 形狀 | 疣狀、乳突狀、邊緣不規則、扁平 | 邊緣清楚、脫皮 (peeling)、internal margin、ridge sign | 外生性 (exophytic) 病灶、表面不規則 / 壞死 / 潰瘍 |\n| 醋酸白化 | 薄層半透明、消退快速、邊緣較模糊 | 後層且至密、快速產生且緩慢消退、邊緣清楚 | 通常不會白化 |\n| 血管病灶 | 有 Punctation、Mosaicism 特徵<br>Fine patterns | 有 Punctation、Mosaicism 特徵<br>Coarse patterns | 有 Atypical vessles |\n| Lugol 碘液染色 | Positive (紫) / Partial | Negative (棕) | Negative (棕) |\n\n※ 補充：碘液染色原理與國中澱粉變色實驗相同 正常育齡女性的子宮頸上皮組織富含肝醣，因此會染色成深紫色；但惡性病變的上皮分化並不完全，肝糖含量較低，因此呈現棕色",
+    "image": "/explanations/cropped/111-2_6_51.png"
+  },
+  "111-2-6-52": {
+    "text": "GTD 是婦癌數一數二愛考的，今年暑考甚至也考在【醫學（三）】！？\n\nhCG 是 GTD 特異性最高的 marker，主要由融合滋養母細胞 (syncytiotrophoblast) 產生，在診斷前評估、後續處置都是很重要的輔助資訊 正常懷孕下的 hCG 在懷孕初期上升至 50,000~100,000 mIU/mL，並在後續下降維持在一定濃度約 10,000-20,000 mIU/mL（可以參考【111-2(六)29】詳解整理）\n\n葡萄胎 (hydatidiform mole) 與絨毛膜細胞癌 (choriocarcinoma) 通常會有異常高的 hCG 數值，是懷孕期間 hCG 異常上升的鑑別診斷；但胎盤部位滋養層細胞腫瘤 (placental-site trophoblastic tumor, PSTT) 及類上皮滋養層細胞腫瘤 (epithelioid trophoblastic tumor, ETT) 一般 hCG 數值則偏低 (<2,000 mIU/mL)，故 (B) 敘述「都會」是錯誤的 以下簡單整理 GTD 的考點：\n\n* 葡萄胎 (hydatidiform mole)\n  - 臨床表現：子宮擴大速度不正常、陰道出血、過期流產、嚴重孕吐 (hyperemesis gravidarum，因高量 hCG)、甲狀腺亢進（因高量 hCG 刺激）\n  - 風險因子：懷孕年紀太小 (<20 歲) 或太老 (>45 歲)、葡萄胎病史、異位妊娠病史\n  - 2 種葡萄胎的比較\n\n| 特性 | Complete Mole | Partial Mole |\n| :--- | :--- | :--- |\n| 子宮大小 | 比正常大 | 比正常小 |\n| hCG(mIU/mL) | 超高 (>100,000) | 高（較 Complete 低） |\n| GTN 風險 | 15-20% | 1-5%（較 Complete 低） |\n| 病理 | 滋養層明顯增生 + 絨毛水腫 (hydropic villi)；無胎兒 | 局部滋養層增生；通常可見胎兒 |\n| 經陰道超音波 | 顆粒狀 (snow-storm appearance) | 可見胚胎，並多以 missed abortion 狀態下發現 |\n\n  - 若絨毛水腫組織侵犯子宮肌層、血管或子宮以外的組織，稱侵犯性葡萄胎 (invasive mole)\n  - 治療追蹤：進行 D&C，並追蹤 β-hCG 下降幅度\n* 妊娠滋養體腫瘤 (gestational trophoblastic neoplasia, GTN)\n  - 種類：絨毛膜細胞癌 (choriocarcinoma) 最常見，化療效果較好；PSTT 與 ETT 較少見也較難治療\n  - FIGO Stage：I 在子宮內 ⇒ II 在生殖道其他構造內 ⇒ III 肺轉移 ⇒ IV 其他轉移\n  - 預後計分系統 (Prognostic Scoring System) 依照年紀、先前懷孕狀況（葡萄胎 / 流產 / 足月產）、發現時機點、hCG 濃度、腫瘤大小、轉移位置與數目（可參考【111-2(三)36】詳解），簡單來說：\n    • <40 歲、肺轉移（新的被拿掉了）、懷孕早期發現 (<4 個月) 風險較低\n    • 肝、腦轉移預後較差\n    • Choriocarcinoma 的治療\n      - 第一線為化療，低風險者可以用單方 (MTX 或 Actinomycin-D)；若高風險者會用複方化療 (EMA/CO 或 EMA/EP)\n      - 若化療效果不彰者，考慮子宮切除\n      - 腦部轉移病灶：放射治療合併化療\n    • 預後：GTN 完治後仍可以正常懷孕，但還是有提早停經、不孕、葡萄胎的可能\n  - PSTT 與 ETT 化療反應不佳，主要是手術切除",
+    "image": "/explanations/cropped/111-2_6_52.png"
+  },
+  "111-2-6-53": {
+    "text": "Type I 與 II 子宮內膜癌為婦癌超級愛考的觀念比較（如寒考【111-1(六)52】） 子宮內膜癌同時併發原發性卵巢上皮癌 (Synchronus Endometrial and Ovairan Cancer, SEOC)，意指兩個癌症是獨立的，並非指子宮內膜癌的卵巢轉移\n\n此類癌症最常見的病理型態是同時在子宮內膜及卵巢觀察到 endometrioid type 組織學，又 type I 子宮內膜癌的病理型態原型即是 endometrioid，故 (C) 選項錯誤 由於 (C) 本身頗難，可以透過刪去正確選項 (A) (B) (D) 得到答案 以下再次整理 Type I & II Endometrial Carcinoma 的比較表格：\n\n| 比較特性 | Type I | Type II |\n| :--- | :--- | :--- |\n| 流行病學 | 較常見，發生於停經前（年紀較輕） | 發生於停經後（年紀較大） |\n| 雌激素風險 | 非對抗性雌激素 (unopposed estrogen)#、肥胖 | 相關性較低 |\n| 前驅病灶 | Endometrial hyperplasia ⇒ Atypical hyperplasia | Endometrial atrophy ⇒ Endometrial intraepithelial carcinoma |\n| 病理型態原型 | Endometrioid | Serous |\n| 其他病理型態 | Mucinous, Endometrioid with squamous differentiation | Clear cell (部分) |\n| 腫瘤分級 | Low Grade | High Grade |\n| 基因變異 | • PTEN 與 PIK3CA 突變<br>• 微衛星不穩定 (microsatellite instability)*<br>• KRAS 突變 | • P53 突變，佔此 type 約 90%<br>• 部分觀察到 HER-2/neu、CMYC 的過量表現 |\n\n# 非對抗性雌激素：指使用 HRT 時，並未使用 Progestin 對抗雌激素在子宮內膜的作用\n* 部分 Type I 的病理機制來自 microsatellite instability(MSI)，其中一群為遺傳性的 Lynch syndrome，其機制與相關癌症是醫學（三）腫瘤科、醫學（五）大腸直腸科考點！",
+    "image": "/explanations/cropped/111-2_6_53.png"
+  },
+  "111-2-6-54": {
+    "text": "（寒考【111-1(六)54】也考了 ovarian reserve 的觀念！）\n\n卵巢存量 (ovarian reserve) 是不孕症評估的其中一環（即評估懷孕的本錢） 常用評估卵巢存量下降 (diminished ovarian reserve, DOR) 指標包含：\n* 月經第 3 天 FSH 與 E2 上升（∵ inhibin 分泌量下降，無法抑制 FSH 分泌，進而使 E2 製造增加）\n* Anti-Müllerian Hormone 下降（∵ 由 Preantral follicles 的 granulosa cell 製造，濃度下降可以反應濾泡存量下降），一般 25 歲 AMH 約 3 ng/mL，而 35-37 歲約 1 ng/mL\n* 卵巢竇濾泡數目 <3-6（antral follicle count，可以預測後續卵巢刺激後的反應用）\n\n故僅 (C) 反應卵巢中卵泡的庫存量下降，其餘皆反應良好卵巢功能",
+    "image": "/explanations/cropped/111-2_6_54.png"
+  },
+  "111-2-6-55": {
+    "text": "此題考 PCOS 的致病機制 PCOS 病人的 SHBG 通常會下降，因為其製造被過量 insulin 與 androgen 抑制；此外 SHBG 的下降會增進 androgen 呈現非結合狀態 (free form)，更容易與受體結合產生後續激素效應，故 (C) 敘述不正確 以下簡單整理 PCOS 致病機制的核心精神：\n1. 雄性素過多\n   a. GnRH 脈動性 (pulsatile) 分泌異常導致 LH/FSH ratio ↑，增加卵巢 theca cell 分泌雄性素 (testosterone 與 androstenedione)\n   [REF. 生理] LH 刺激 theca cell 產生 androgen；LH + FSH 刺激 granulosa cell 將 androgen 轉變成 estrogen\n   b. 腎上腺分泌過多 DHEAS\n   c. 過多的雄性素於脂肪細胞轉換成 estrogen（∵ 肥胖為 PCOS 機制的輔助病症），可造成子宮內膜增生\n   d. 過多的雄性素可造成多毛 (hirsutism)、面皰 (acne)，並減少 SHBG 製造\n2. 胰島素抗性\n   a. 造成卵巢濾泡萎縮 ⇒ 無排卵 (anovulation) 與無月經 (amenorrhea)\n   b. 與黑色棘皮症 (acanthosis nigricans) 相關\n   c. 造成高胰島素血症，抑制 SHBG 製造",
+    "image": "/explanations/cropped/111-2_6_55.png"
+  },
+  "111-2-6-56": {
+    "text": "過往考題考過「試管嬰兒療程的取卵時機是在打排卵針後多久？」，與本題「正常女性生理週期 LH surge 後多久排卵」有異曲同工之妙，就是大約 36 小時，因此選 (C)\n以下簡單補充幾個 LH surge 的數字：\n* LH surge~ 排卵：約 36-40 hr\n* LH peak（LH surge 達到最高峰的時間）~ 排卵：約 9 hr\n* LH surge 平均時間約 48 hr",
+    "image": "/explanations/cropped/111-2_6_56.png"
+  },
+  "111-2-6-57": {
+    "text": "寒考【111-1(六)57】一樣考尿失禁手術，考點完全一樣 TVT 屬於 Midurethral slings 的一種，吊帶放置在中段尿道，而非膀胱頸處，故 (B) 錯誤 以下簡單整理常見婦女應力性尿失禁 (SUI) 常用的手術：\n\n| 術式 | 進行方式 | 比較 |\n| :--- | :--- | :--- |\n| Pubovaginal Sling（傳統的吊帶手術） | 以自體組織作為吊帶，懸吊於膀胱頸處，而吊帶兩端固定在腹壁前側 | 長期改善效果佳，但可能造成排尿困難、泌尿道感染、網膜侵蝕 (mesh erosion) 與急迫性尿失禁 |\n| Retropubic Colposuspension (=Urethropexy) | Burch procedure：將尿道旁的組織固定在 Cooper ligament 上 | 相較於 Pubovaginal Sling 手術，有較低術後排尿困難風險；但有較高骨盆腔器官脫垂風險 |\n| Mid-urethral Slings | Tension-free Vaginal Tape (TVT)：將吊帶於尿道中段處懸吊，但並不將吊帶固定（因此無張力）<br><br>Transobturator Tape (TOT)：同 TVT，只是將吊帶兩端穿過閉孔內膜懸吊 | • 相較於 Pubovaginal Sling 手術，長期效果較差；但副作用較少<br>• TVT 相較於 TOT 有較高膀胱、腸道或血管受傷風險<br>• TOT 相較於 TVT 有較高 mesh erosion、術後鼠蹊/小腿疼痛風險 |",
+    "image": "/explanations/cropped/111-2_6_57.png"
+  },
+  "111-2-6-58": {
+    "text": "如果沒有記哪條大腦動脈中風有什麼症狀，可以用兩階段解題 首先，中大腦動脈供應區域包含額葉外側、頂葉與顳葉外側，另外也有小分支供應基底核的蒼白球與被核 接著，考慮對應的腦區與受損症狀，(A)、(B) 為頂葉受損症狀 而 (D) 主要是前大腦動脈 (ACA) 中風，額葉內側受損導致，為原始答案\n\n以下簡單補充 4 條供應大腦的血管中風常見的臨床表現：\n\n| 血管 | 主要供應區 | 症狀表現 |\n| :--- | :--- | :--- |\n| 內頸動脈 ICA | 眼動脈 | 同側暫時性黑矇症 (fugax amaurosis) |\n| 中大腦動脈 MCA | 額葉（外）、頂葉、顳葉（外） | • 半側偏癱或感覺缺失，一般而言，上肢比下肢嚴重<br>• 失語症：Broca's（額葉）、Wernicke's（頂葉）<br>• 半側 (hemianopia) 或 1/4 側 (quadrantanopia) 視覺缺失<br>• 半側忽視 (hemineglect)：頂葉受損導致半側感覺喪失 |\n| 前大腦動脈 ACA | 額葉（內） | • 對側感覺、運動缺失，下肢比上肢嚴重<br>• 執行功能缺失，產生意志缺失 (abulia)、動作不能性緘默 (akinetic mutism) 症狀<br>• 步態失用症、意念運動型失用症 (ideomotor apraxia) |\n| 後大腦動脈 PCA | 枕葉 | • Hemianopia、Quadrantanopia<br>• 顏色命名失能 (color anomia)<br>• 臉盲 (prosopagnosia) |\n\n※ 小補充：Akinetic mutism 即不動 + 不說話，但病人是清醒的、可以接受感覺刺激 最早被描述是一種精神狀態（想到精神狀態就可以聯想到前額葉功能），簡單來說就是「awake（清醒）unresponsiveness（但無反應）」，可以是前大腦動脈中風或是退化性疾病（如：額顳葉失智症）的表現\n\n[ 爭議點 ]\n情感失認症 (affective agnosia) 在神經學指定教科書並未明確的被說明與 MCA 中風後的症狀相關，據筆者所查，此一名詞應是新創的，試圖納入述情障礙 (Alexithymia) 光譜中 關於神經路徑仍在研究中，可能與外界刺激後，無法進入情緒認知中心處理，使得人無法產生相對應的情緒反應 筆者猜測 (C) 也給分的理由為：\n• 此詞本身仍帶有爭議，有興趣可以查 2015 年 Richard D. Lane 提出的文章，以及 Graeme J. Taylor 在 2016 年對其回應（近年 Richard D. Lane 研究團隊也有新的文章發表，試圖證明這個新詞彙的重要性）\n• 根據功能性影像研究發現主要功能區位於扣帶皮質 (cingulate cortex) 或內側額葉，並非 MCA 主要供應範圍",
+    "image": "/explanations/cropped/111-2_6_58.png"
+  },
+  "111-2-6-59": {
+    "text": "神經截斷 (neurotmesis)，為周邊神經完全截斷分離，幾乎不可能自行恢復，除非進行神經修補 (neurorrhaphy)，但手術後也常有連結錯誤 (misconnection)、不完全再神經化 (incomplete reinnervation) 的狀況，故 (C) 錯誤 常見的 3 種周邊神經病變以 Seddon Classification 整理如下（整理自 DeLisa 教科書 Table 24-1）：\n\n| 分類 | 常見原因 | 病理狀態 | 常受損神經 | 預後 |\n| :--- | :--- | :--- | :--- | :--- |\n| 神經失用症 Neurapraxia | 長期壓迫 (compression) | 傳導阻滯 | 帶有較厚髓鞘的運動神經 | 自行恢復，1-2 個月 |\n| 軸突截斷 (Axonotmesis) | 牽扯 (traction)、嚴重壓迫 | 神經軸突進行 Wallerian degeneration ⇒ 許旺細胞輔助軸突再生 | 帶有髓鞘的感覺、運動神經 | 若未傷及神經內膜，會自行恢復大部分功能，預後較好；反之則需要手術修復 |\n| 神經截斷 (Neurotmesis) | 創傷、橫向截斷 (transection) | 完全阻斷神經連結 | 任何神經 | 即使手術修復後仍很差 |\n\n[ 題外話 ] 其實 (D) 的翻譯也拼錯了，是 neur『a』praxia",
+    "image": "/explanations/cropped/111-2_6_59.png"
+  },
+  "111-2-6-60": {
+    "text": "題目有誤，應是考「Froment's sign」 Froment's sign 是針對尺神經做的檢查，透過用力掐紙評估內收拇指肌 (Adductor pollicis) 的力量，故原始答案為 (A)，後一律給分\n\n[ 題外話 ] 如果上網硬是查「Formet's sign」還是可以查到 ulnar nerve palsy 的資訊……",
+    "image": "/explanations/cropped/111-2_6_60.png"
+  },
+  "111-2-醫學(六)-51": {
+    "id": "111-2-醫學(六)-51",
+    "explanation": "塗抹 3-5% 醋酸後，會造成可逆的蛋白質變性，導致癌化的上皮層發生白化 (acetowhitening)，但教科書特別提到「重要的是，惡性癌症通常不會有白化的表現，因為其富含血管的緣故 (Importantly, malignancy often is not acetowhite due to its vascularity)」題目所述「侵犯性病灶 (invasive lesion)」指的是病灶已侵犯超過基底膜的癌症（大多數上皮癌都是這樣定義的），而非尚未超過基底膜的子宮頸上皮內腫瘤 (cervical intraepithelial neoplasia, CIN)，因此 (C) 選項錯誤 上一次類似考題已經是超過 5 年前了，以下為子宮頸陰道鏡檢查與染色的簡單整理（改寫自 William's Gynecology Table 29-7），通常區分成 low-grade、high-grade 與 invasive cancer：\n\n| 特徵 | Low-Grade | High-Grade | Invasive Cancer |\n| :--- | :--- | :--- | :--- |\n| 病灶邊緣 / 形狀 | 疣狀、乳突狀、邊緣不規則、扁平 | 邊緣清楚、脫皮 (peeling)、internal margin、ridge sign | 外生性 (exophytic) 病灶、表面不規則 / 壞死 / 潰瘍 |\n| 醋酸白化 | 薄層半透明、消退快速、邊緣較模糊 | 後層且至密、快速產生且緩慢消退、邊緣清楚 | 通常不會白化 |\n| 血管病灶 | 有 Punctation、Mosaicism 特徵<br>Fine patterns | 有 Punctation、Mosaicism 特徵<br>Coarse patterns | 有 Atypical vessles |\n| Lugol 碘液染色 | Positive (紫) / Partial | Negative (棕) | Negative (棕) |\n\n※ 補充：碘液染色原理與國中澱粉變色實驗相同 正常育齡女性的子宮頸上皮組織富含肝醣，因此會染色成深紫色；但惡性病變的上皮分化並不完全，肝糖含量較低，因此呈現棕色",
+    "images": [
+      "/explanations/cropped/111-2_6_51.png"
+    ]
+  },
+  "111-2-醫學(六)-52": {
+    "id": "111-2-醫學(六)-52",
+    "explanation": "GTD 是婦癌數一數二愛考的，今年暑考甚至也考在【醫學（三）】！？\n\nhCG 是 GTD 特異性最高的 marker，主要由融合滋養母細胞 (syncytiotrophoblast) 產生，在診斷前評估、後續處置都是很重要的輔助資訊 正常懷孕下的 hCG 在懷孕初期上升至 50,000~100,000 mIU/mL，並在後續下降維持在一定濃度約 10,000-20,000 mIU/mL（可以參考【111-2(六)29】詳解整理）\n\n葡萄胎 (hydatidiform mole) 與絨毛膜細胞癌 (choriocarcinoma) 通常會有異常高的 hCG 數值，是懷孕期間 hCG 異常上升的鑑別診斷；但胎盤部位滋養層細胞腫瘤 (placental-site trophoblastic tumor, PSTT) 及類上皮滋養層細胞腫瘤 (epithelioid trophoblastic tumor, ETT) 一般 hCG 數值則偏低 (<2,000 mIU/mL)，故 (B) 敘述「都會」是錯誤的 以下簡單整理 GTD 的考點：\n\n* 葡萄胎 (hydatidiform mole)\n  - 臨床表現：子宮擴大速度不正常、陰道出血、過期流產、嚴重孕吐 (hyperemesis gravidarum，因高量 hCG)、甲狀腺亢進（因高量 hCG 刺激）\n  - 風險因子：懷孕年紀太小 (<20 歲) 或太老 (>45 歲)、葡萄胎病史、異位妊娠病史\n  - 2 種葡萄胎的比較\n\n| 特性 | Complete Mole | Partial Mole |\n| :--- | :--- | :--- |\n| 子宮大小 | 比正常大 | 比正常小 |\n| hCG(mIU/mL) | 超高 (>100,000) | 高（較 Complete 低） |\n| GTN 風險 | 15-20% | 1-5%（較 Complete 低） |\n| 病理 | 滋養層明顯增生 + 絨毛水腫 (hydropic villi)；無胎兒 | 局部滋養層增生；通常可見胎兒 |\n| 經陰道超音波 | 顆粒狀 (snow-storm appearance) | 可見胚胎，並多以 missed abortion 狀態下發現 |\n\n  - 若絨毛水腫組織侵犯子宮肌層、血管或子宮以外的組織，稱侵犯性葡萄胎 (invasive mole)\n  - 治療追蹤：進行 D&C，並追蹤 β-hCG 下降幅度\n* 妊娠滋養體腫瘤 (gestational trophoblastic neoplasia, GTN)\n  - 種類：絨毛膜細胞癌 (choriocarcinoma) 最常見，化療效果較好；PSTT 與 ETT 較少見也較難治療\n  - FIGO Stage：I 在子宮內 ⇒ II 在生殖道其他構造內 ⇒ III 肺轉移 ⇒ IV 其他轉移\n  - 預後計分系統 (Prognostic Scoring System) 依照年紀、先前懷孕狀況（葡萄胎 / 流產 / 足月產）、發現時機點、hCG 濃度、腫瘤大小、轉移位置與數目（可參考【111-2(三)36】詳解），簡單來說：\n    • <40 歲、肺轉移（新的被拿掉了）、懷孕早期發現 (<4 個月) 風險較低\n    • 肝、腦轉移預後較差\n    • Choriocarcinoma 的治療\n      - 第一線為化療，低風險者可以用單方 (MTX 或 Actinomycin-D)；若高風險者會用複方化療 (EMA/CO 或 EMA/EP)\n      - 若化療效果不彰者，考慮子宮切除\n      - 腦部轉移病灶：放射治療合併化療\n    • 預後：GTN 完治後仍可以正常懷孕，但還是有提早停經、不孕、葡萄胎的可能\n  - PSTT 與 ETT 化療反應不佳，主要是手術切除",
+    "images": [
+      "/explanations/cropped/111-2_6_52.png"
+    ]
+  },
+  "111-2-醫學(六)-53": {
+    "id": "111-2-醫學(六)-53",
+    "explanation": "Type I 與 II 子宮內膜癌為婦癌超級愛考的觀念比較（如寒考【111-1(六)52】） 子宮內膜癌同時併發原發性卵巢上皮癌 (Synchronus Endometrial and Ovairan Cancer, SEOC)，意指兩個癌症是獨立的，並非指子宮內膜癌的卵巢轉移\n\n此類癌症最常見的病理型態是同時在子宮內膜及卵巢觀察到 endometrioid type 組織學，又 type I 子宮內膜癌的病理型態原型即是 endometrioid，故 (C) 選項錯誤 由於 (C) 本身頗難，可以透過刪去正確選項 (A) (B) (D) 得到答案 以下再次整理 Type I & II Endometrial Carcinoma 的比較表格：\n\n| 比較特性 | Type I | Type II |\n| :--- | :--- | :--- |\n| 流行病學 | 較常見，發生於停經前（年紀較輕） | 發生於停經後（年紀較大） |\n| 雌激素風險 | 非對抗性雌激素 (unopposed estrogen)#、肥胖 | 相關性較低 |\n| 前驅病灶 | Endometrial hyperplasia ⇒ Atypical hyperplasia | Endometrial atrophy ⇒ Endometrial intraepithelial carcinoma |\n| 病理型態原型 | Endometrioid | Serous |\n| 其他病理型態 | Mucinous, Endometrioid with squamous differentiation | Clear cell (部分) |\n| 腫瘤分級 | Low Grade | High Grade |\n| 基因變異 | • PTEN 與 PIK3CA 突變<br>• 微衛星不穩定 (microsatellite instability)*<br>• KRAS 突變 | • P53 突變，佔此 type 約 90%<br>• 部分觀察到 HER-2/neu、CMYC 的過量表現 |\n\n# 非對抗性雌激素：指使用 HRT 時，並未使用 Progestin 對抗雌激素在子宮內膜的作用\n* 部分 Type I 的病理機制來自 microsatellite instability(MSI)，其中一群為遺傳性的 Lynch syndrome，其機制與相關癌症是醫學（三）腫瘤科、醫學（五）大腸直腸科考點！",
+    "images": [
+      "/explanations/cropped/111-2_6_53.png"
+    ]
+  },
+  "111-2-醫學(六)-54": {
+    "id": "111-2-醫學(六)-54",
+    "explanation": "（寒考【111-1(六)54】也考了 ovarian reserve 的觀念！）\n\n卵巢存量 (ovarian reserve) 是不孕症評估的其中一環（即評估懷孕的本錢） 常用評估卵巢存量下降 (diminished ovarian reserve, DOR) 指標包含：\n* 月經第 3 天 FSH 與 E2 上升（∵ inhibin 分泌量下降，無法抑制 FSH 分泌，進而使 E2 製造增加）\n* Anti-Müllerian Hormone 下降（∵ 由 Preantral follicles 的 granulosa cell 製造，濃度下降可以反應濾泡存量下降），一般 25 歲 AMH 約 3 ng/mL，而 35-37 歲約 1 ng/mL\n* 卵巢竇濾泡數目 <3-6（antral follicle count，可以預測後續卵巢刺激後的反應用）\n\n故僅 (C) 反應卵巢中卵泡的庫存量下降，其餘皆反應良好卵巢功能",
+    "images": [
+      "/explanations/cropped/111-2_6_54.png"
+    ]
+  },
+  "111-2-醫學(六)-55": {
+    "id": "111-2-醫學(六)-55",
+    "explanation": "此題考 PCOS 的致病機制 PCOS 病人的 SHBG 通常會下降，因為其製造被過量 insulin 與 androgen 抑制；此外 SHBG 的下降會增進 androgen 呈現非結合狀態 (free form)，更容易與受體結合產生後續激素效應，故 (C) 敘述不正確 以下簡單整理 PCOS 致病機制的核心精神：\n1. 雄性素過多\n   a. GnRH 脈動性 (pulsatile) 分泌異常導致 LH/FSH ratio ↑，增加卵巢 theca cell 分泌雄性素 (testosterone 與 androstenedione)\n   [REF. 生理] LH 刺激 theca cell 產生 androgen；LH + FSH 刺激 granulosa cell 將 androgen 轉變成 estrogen\n   b. 腎上腺分泌過多 DHEAS\n   c. 過多的雄性素於脂肪細胞轉換成 estrogen（∵ 肥胖為 PCOS 機制的輔助病症），可造成子宮內膜增生\n   d. 過多的雄性素可造成多毛 (hirsutism)、面皰 (acne)，並減少 SHBG 製造\n2. 胰島素抗性\n   a. 造成卵巢濾泡萎縮 ⇒ 無排卵 (anovulation) 與無月經 (amenorrhea)\n   b. 與黑色棘皮症 (acanthosis nigricans) 相關\n   c. 造成高胰島素血症，抑制 SHBG 製造",
+    "images": [
+      "/explanations/cropped/111-2_6_55.png"
+    ]
+  },
+  "111-2-醫學(六)-56": {
+    "id": "111-2-醫學(六)-56",
+    "explanation": "過往考題考過「試管嬰兒療程的取卵時機是在打排卵針後多久？」，與本題「正常女性生理週期 LH surge 後多久排卵」有異曲同工之妙，就是大約 36 小時，因此選 (C)\n以下簡單補充幾個 LH surge 的數字：\n* LH surge~ 排卵：約 36-40 hr\n* LH peak（LH surge 達到最高峰的時間）~ 排卵：約 9 hr\n* LH surge 平均時間約 48 hr",
+    "images": [
+      "/explanations/cropped/111-2_6_56.png"
+    ]
+  },
+  "111-2-醫學(六)-57": {
+    "id": "111-2-醫學(六)-57",
+    "explanation": "寒考【111-1(六)57】一樣考尿失禁手術，考點完全一樣 TVT 屬於 Midurethral slings 的一種，吊帶放置在中段尿道，而非膀胱頸處，故 (B) 錯誤 以下簡單整理常見婦女應力性尿失禁 (SUI) 常用的手術：\n\n| 術式 | 進行方式 | 比較 |\n| :--- | :--- | :--- |\n| Pubovaginal Sling（傳統的吊帶手術） | 以自體組織作為吊帶，懸吊於膀胱頸處，而吊帶兩端固定在腹壁前側 | 長期改善效果佳，但可能造成排尿困難、泌尿道感染、網膜侵蝕 (mesh erosion) 與急迫性尿失禁 |\n| Retropubic Colposuspension (=Urethropexy) | Burch procedure：將尿道旁的組織固定在 Cooper ligament 上 | 相較於 Pubovaginal Sling 手術，有較低術後排尿困難風險；但有較高骨盆腔器官脫垂風險 |\n| Mid-urethral Slings | Tension-free Vaginal Tape (TVT)：將吊帶於尿道中段處懸吊，但並不將吊帶固定（因此無張力）<br><br>Transobturator Tape (TOT)：同 TVT，只是將吊帶兩端穿過閉孔內膜懸吊 | • 相較於 Pubovaginal Sling 手術，長期效果較差；但副作用較少<br>• TVT 相較於 TOT 有較高膀胱、腸道或血管受傷風險<br>• TOT 相較於 TVT 有較高 mesh erosion、術後鼠蹊/小腿疼痛風險 |",
+    "images": [
+      "/explanations/cropped/111-2_6_57.png"
+    ]
+  },
+  "111-2-醫學(六)-58": {
+    "id": "111-2-醫學(六)-58",
+    "explanation": "如果沒有記哪條大腦動脈中風有什麼症狀，可以用兩階段解題 首先，中大腦動脈供應區域包含額葉外側、頂葉與顳葉外側，另外也有小分支供應基底核的蒼白球與被核 接著，考慮對應的腦區與受損症狀，(A)、(B) 為頂葉受損症狀 而 (D) 主要是前大腦動脈 (ACA) 中風，額葉內側受損導致，為原始答案\n\n以下簡單補充 4 條供應大腦的血管中風常見的臨床表現：\n\n| 血管 | 主要供應區 | 症狀表現 |\n| :--- | :--- | :--- |\n| 內頸動脈 ICA | 眼動脈 | 同側暫時性黑矇症 (fugax amaurosis) |\n| 中大腦動脈 MCA | 額葉（外）、頂葉、顳葉（外） | • 半側偏癱或感覺缺失，一般而言，上肢比下肢嚴重<br>• 失語症：Broca's（額葉）、Wernicke's（頂葉）<br>• 半側 (hemianopia) 或 1/4 側 (quadrantanopia) 視覺缺失<br>• 半側忽視 (hemineglect)：頂葉受損導致半側感覺喪失 |\n| 前大腦動脈 ACA | 額葉（內） | • 對側感覺、運動缺失，下肢比上肢嚴重<br>• 執行功能缺失，產生意志缺失 (abulia)、動作不能性緘默 (akinetic mutism) 症狀<br>• 步態失用症、意念運動型失用症 (ideomotor apraxia) |\n| 後大腦動脈 PCA | 枕葉 | • Hemianopia、Quadrantanopia<br>• 顏色命名失能 (color anomia)<br>• 臉盲 (prosopagnosia) |\n\n※ 小補充：Akinetic mutism 即不動 + 不說話，但病人是清醒的、可以接受感覺刺激 最早被描述是一種精神狀態（想到精神狀態就可以聯想到前額葉功能），簡單來說就是「awake（清醒）unresponsiveness（但無反應）」，可以是前大腦動脈中風或是退化性疾病（如：額顳葉失智症）的表現\n\n[ 爭議點 ]\n情感失認症 (affective agnosia) 在神經學指定教科書並未明確的被說明與 MCA 中風後的症狀相關，據筆者所查，此一名詞應是新創的，試圖納入述情障礙 (Alexithymia) 光譜中 關於神經路徑仍在研究中，可能與外界刺激後，無法進入情緒認知中心處理，使得人無法產生相對應的情緒反應 筆者猜測 (C) 也給分的理由為：\n• 此詞本身仍帶有爭議，有興趣可以查 2015 年 Richard D. Lane 提出的文章，以及 Graeme J. Taylor 在 2016 年對其回應（近年 Richard D. Lane 研究團隊也有新的文章發表，試圖證明這個新詞彙的重要性）\n• 根據功能性影像研究發現主要功能區位於扣帶皮質 (cingulate cortex) 或內側額葉，並非 MCA 主要供應範圍",
+    "images": [
+      "/explanations/cropped/111-2_6_58.png"
+    ]
+  },
+  "111-2-醫學(六)-59": {
+    "id": "111-2-醫學(六)-59",
+    "explanation": "神經截斷 (neurotmesis)，為周邊神經完全截斷分離，幾乎不可能自行恢復，除非進行神經修補 (neurorrhaphy)，但手術後也常有連結錯誤 (misconnection)、不完全再神經化 (incomplete reinnervation) 的狀況，故 (C) 錯誤 常見的 3 種周邊神經病變以 Seddon Classification 整理如下（整理自 DeLisa 教科書 Table 24-1）：\n\n| 分類 | 常見原因 | 病理狀態 | 常受損神經 | 預後 |\n| :--- | :--- | :--- | :--- | :--- |\n| 神經失用症 Neurapraxia | 長期壓迫 (compression) | 傳導阻滯 | 帶有較厚髓鞘的運動神經 | 自行恢復，1-2 個月 |\n| 軸突截斷 (Axonotmesis) | 牽扯 (traction)、嚴重壓迫 | 神經軸突進行 Wallerian degeneration ⇒ 許旺細胞輔助軸突再生 | 帶有髓鞘的感覺、運動神經 | 若未傷及神經內膜，會自行恢復大部分功能，預後較好；反之則需要手術修復 |\n| 神經截斷 (Neurotmesis) | 創傷、橫向截斷 (transection) | 完全阻斷神經連結 | 任何神經 | 即使手術修復後仍很差 |\n\n[ 題外話 ] 其實 (D) 的翻譯也拼錯了，是 neur『a』praxia",
+    "images": [
+      "/explanations/cropped/111-2_6_59.png"
+    ]
+  },
+  "111-2-醫學(六)-60": {
+    "id": "111-2-醫學(六)-60",
+    "explanation": "題目有誤，應是考「Froment's sign」 Froment's sign 是針對尺神經做的檢查，透過用力掐紙評估內收拇指肌 (Adductor pollicis) 的力量，故原始答案為 (A)，後一律給分\n\n[ 題外話 ] 如果上網硬是查「Formet's sign」還是可以查到 ulnar nerve palsy 的資訊……",
+    "images": [
+      "/explanations/cropped/111-2_6_60.png"
+    ]
   }
 }
