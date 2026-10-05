@@ -369,6 +369,34 @@ function UserNoteBox({ questionId, userNotes, onSaveNote }) {
     setEditingText(note)
   }, [note])
 
+  // When there is no note and not editing, only show "+ 新增筆記" button
+  if (!note && !isEditing) {
+    return (
+      <div style={{ marginTop: '0.75rem', display: 'flex', justifyContent: 'flex-start' }}>
+        <button 
+          className="btn btn-secondary btn-sm"
+          style={{ 
+            padding: '0.3rem 0.7rem', 
+            fontSize: '0.8rem', 
+            borderRadius: '6px',
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: '0.35rem',
+            color: 'var(--text-secondary)',
+            border: '1px dashed var(--border-color)',
+            background: 'var(--bg-tertiary)'
+          }}
+          onClick={() => {
+            setEditingText('')
+            setIsEditing(true)
+          }}
+        >
+          ➕ 新增筆記
+        </button>
+      </div>
+    )
+  }
+
   return (
     <div className="user-note-box" style={{ marginTop: '0.75rem', background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)', borderRadius: '6px', padding: '0.75rem' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.4rem' }}>
@@ -381,7 +409,7 @@ function UserNoteBox({ questionId, userNotes, onSaveNote }) {
             style={{ padding: '0.15rem 0.45rem', fontSize: '0.75rem' }}
             onClick={() => setIsEditing(true)}
           >
-            {note ? '✏️ 編輯筆記' : '➕ 新增筆記'}
+            ✏️ 編輯筆記
           </button>
         )}
       </div>
@@ -389,6 +417,7 @@ function UserNoteBox({ questionId, userNotes, onSaveNote }) {
       {isEditing ? (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
           <textarea
+            autoFocus
             style={{ 
               width: '100%', 
               minHeight: '75px', 
@@ -402,11 +431,21 @@ function UserNoteBox({ questionId, userNotes, onSaveNote }) {
               resize: 'vertical',
               fontFamily: 'inherit'
             }}
-            placeholder="點擊在此輸入您個人的重點筆記、記憶口訣或觀念補充..."
+            placeholder="在此輸入您個人的重點筆記、記憶口訣或觀念補充..."
             value={editingText}
             onChange={(e) => setEditingText(e.target.value)}
           />
           <div style={{ display: 'flex', justifyContent: 'flex-end', gap: '0.4rem' }}>
+            <button 
+              className="btn btn-secondary btn-sm"
+              style={{ padding: '0.2rem 0.5rem', fontSize: '0.75rem' }}
+              onClick={() => {
+                setEditingText(note)
+                setIsEditing(false)
+              }}
+            >
+              取消
+            </button>
             {note && (
               <button 
                 className="btn btn-secondary btn-sm"
@@ -424,7 +463,7 @@ function UserNoteBox({ questionId, userNotes, onSaveNote }) {
               className="btn btn-primary btn-sm"
               style={{ padding: '0.2rem 0.6rem', fontSize: '0.75rem' }}
               onClick={() => {
-                onSaveNote(questionId, editingText)
+                onSaveNote(questionId, editingText.trim())
                 setIsEditing(false)
               }}
             >
@@ -433,28 +472,19 @@ function UserNoteBox({ questionId, userNotes, onSaveNote }) {
           </div>
         </div>
       ) : (
-        note ? (
-          <div 
-            style={{ 
-              fontSize: '0.9rem', 
-              color: 'var(--text-primary)', 
-              whiteSpace: 'pre-line', 
-              lineHeight: '1.6',
-              cursor: 'pointer',
-              padding: '0.2rem 0'
-            }}
-            onClick={() => setIsEditing(true)}
-          >
-            {note}
-          </div>
-        ) : (
-          <div 
-            style={{ fontSize: '0.8rem', color: 'var(--text-tertiary)', fontStyle: 'italic', cursor: 'pointer' }}
-            onClick={() => setIsEditing(true)}
-          >
-            尚無筆記，點擊「➕ 新增筆記」紀錄這題的重點口訣與檢討...
-          </div>
-        )
+        <div 
+          style={{ 
+            fontSize: '0.9rem', 
+            color: 'var(--text-primary)', 
+            whiteSpace: 'pre-line', 
+            lineHeight: '1.6',
+            cursor: 'pointer',
+            padding: '0.2rem 0'
+          }}
+          onClick={() => setIsEditing(true)}
+        >
+          {note}
+        </div>
       )}
     </div>
   )
