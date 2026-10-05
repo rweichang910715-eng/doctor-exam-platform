@@ -10231,7 +10231,7 @@
       "D": "鼻出血是鼻咽人工氣道的潛在性併發症"
     },
     "answer": "A",
-    "explanation": "因為誘發嘔吐是口咽人工氣道的潛在風險（即 (B) 正確敘述），所以口咽人工氣道較適合使用在意識不清楚的病人，故 (A) 為錯誤選項。以下補充口咽與鼻咽人工氣道的重點：\n\n| 特性比較 | 口咽人工氣道 | 鼻咽人工氣道 |\n| :--- | :--- | :--- |\n| 潛在問題 | 較具刺激性 → 誘發嘔吐、咳嗽、氣管痙攣；造成創傷 | 鼻子創傷 → 流鼻血（因鼻腔窄且血流豐富） |\n| 適合用於 | 昏迷病人 | 清醒或昏迷病人皆可 |\n| 禁忌 | 清醒病人 | 凝血異常、鼻變形、顱底骨折 |",
+    "explanation": "因為誘發嘔吐是口咽人工氣道的潛在風險（即 (B) 正確敘述），所以口咽人工氣道較適合使用在意識不清楚的病人，故 (A) 為錯誤選項以下補充口咽與鼻咽人工氣道的重點：\n\n| 特性比較 | 口咽人工氣道 | 鼻咽人工氣道 |\n| :--- | :--- | :--- |\n| 潛在問題 | 較具刺激性 → 誘發嘔吐、咳嗽、氣管痙攣；造成創傷 | 鼻子創傷 → 流鼻血（因鼻腔窄且血流豐富） |\n| 適合用於 | 昏迷病人 | 清醒或昏迷病人皆可 |\n| 禁忌 | 清醒病人 | 凝血異常、鼻變形、顱底骨折 |",
     "explanation_image": "/explanations/cropped/111-2_6_1.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_1.png"
@@ -10250,7 +10250,7 @@
       "D": "使用 CVP（central venous pressure）和肺動脈導管監測最常見的後遺症是對數值的誤用與誤判"
     },
     "answer": "A",
-    "explanation": "此題與【111-1(六)2】考點相同，出自 Miller's Anesthesia, 9/e Ch.36 的 Key Points。自肺動脈導管取得的 SvO₂ 數值，即生理學上氧和曲線裡減氧血的氧和濃度，正常應介於 65-75%，故 (A) 選項最後一句是錯誤的。(D) 選項用「後遺症」翻譯著實奇怪（也有送申覆不過沒給分），但書中提及的核心應是指不要一味地盡信數據而誤用或誤判，是臨床上很重要的觀念",
+    "explanation": "此題與【111-1(六)2】考點相同，出自 Miller's Anesthesia, 9/e Ch.36 的 Key Points自肺動脈導管取得的 SvO₂ 數值，即生理學上氧和曲線裡減氧血的氧和濃度，正常應介於 65-75%，故 (A) 選項最後一句是錯誤的(D) 選項用「後遺症」翻譯著實奇怪（也有送申覆不過沒給分），但書中提及的核心應是指不要一味地盡信數據而誤用或誤判，是臨床上很重要的觀念",
     "explanation_image": "/explanations/cropped/111-2_6_2.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_2.png"
@@ -10269,7 +10269,7 @@
       "D": "腎功能受損的 biomarker 介白素（interleukin-18）與腎小管壓力反應並無相關"
     },
     "answer": "C",
-    "explanation": "(A) 監測排尿量為早期術中監測常用的方式之一（那時 Lab data 檢測仍不方便），但術中常常受到多重因素影響而減少，且研究發現排尿量降低並不一定與腎功能下降相關，也不一定代表異常。用來監測 GFR 較佳的方式是血漿 Creatinine 推測換算\n\n(B) 目前最廣泛使用來計算 eGFR (estimated GFR) 的公式為美國 MDRD 所歸納出的：eGFR = 186 × 血清肌酸酐⁻¹·¹⁵⁴ ×（年齡）⁻⁰·²⁰³（女性再乘以 0.742）。由此可知，血漿 Creatinine 濃度與 GFR 的關係呈現反向指數 (inverse exponential) 關係，兩者的關係並不會是線性的\n\n(D) 尿液中的 IL-18 是腎小管細胞壓力反應相關的 Biomarker 之一，其餘包含：KIM-1、IGFBP7、TIMP2 等等\n\n故刪去錯誤選項後，僅剩 (C) 較為正確",
+    "explanation": "(A) 監測排尿量為早期術中監測常用的方式之一（那時 Lab data 檢測仍不方便），但術中常常受到多重因素影響而減少，且研究發現排尿量降低並不一定與腎功能下降相關，也不一定代表異常用來監測 GFR 較佳的方式是血漿 Creatinine 推測換算\n\n(B) 目前最廣泛使用來計算 eGFR (estimated GFR) 的公式為美國 MDRD 所歸納出的：eGFR = 186 × 血清肌酸酐⁻¹·¹⁵⁴ ×（年齡）⁻⁰·²⁰³（女性再乘以 0.742）由此可知，血漿 Creatinine 濃度與 GFR 的關係呈現反向指數 (inverse exponential) 關係，兩者的關係並不會是線性的\n\n(D) 尿液中的 IL-18 是腎小管細胞壓力反應相關的 Biomarker 之一，其餘包含：KIM-1、IGFBP7、TIMP2 等等\n\n故刪去錯誤選項後，僅剩 (C) 較為正確",
     "explanation_image": "/explanations/cropped/111-2_6_3.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_3.png"
@@ -10307,7 +10307,7 @@
       "D": "barbiturate 經由與 NMDA 受體結合而起作用"
     },
     "answer": "D",
-    "explanation": "這題考藥理學。Barbiturate 作用於 GABA_A 受體，延長通道開啟時間，故 (D) 選項錯誤。常用麻醉藥物中，作用於 NMDA 受體的只有 Ketamine（也常考）\n\n(A) 呼吸抑制為 benzodiazepine 藥物的副作用之一，其他常見副作用包括噁心嘔吐、記憶力障礙等\n\n(B) Propofol 因為含有大豆、蛋的成分，須保存於攝氏 25 度以下，避免細菌滋生\n\n(C) 因增進抑制腦幹網狀激活系統 (reticular activating system) 產生嗜睡，但也會造成明顯呼吸抑制、氣管痙攣、血壓腦壓下降，並減少大腦耗氧代謝率",
+    "explanation": "這題考藥理學Barbiturate 作用於 GABA_A 受體，延長通道開啟時間，故 (D) 選項錯誤常用麻醉藥物中，作用於 NMDA 受體的只有 Ketamine（也常考）\n\n(A) 呼吸抑制為 benzodiazepine 藥物的副作用之一，其他常見副作用包括噁心嘔吐、記憶力障礙等\n\n(B) Propofol 因為含有大豆、蛋的成分，須保存於攝氏 25 度以下，避免細菌滋生\n\n(C) 因增進抑制腦幹網狀激活系統 (reticular activating system) 產生嗜睡，但也會造成明顯呼吸抑制、氣管痙攣、血壓腦壓下降，並減少大腦耗氧代謝率",
     "explanation_image": "/explanations/cropped/111-2_6_5.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_5.png"
@@ -10345,7 +10345,7 @@
       "D": "冠狀動脈狹窄程度"
     },
     "answer": "D",
-    "explanation": "考心臟超音波可以得到的資訊。(D) 冠狀動脈狹窄程度，一般使用心導管做冠狀動脈攝影 (coronary angiography) 評估，並無法透過心臟超音波觀察，故選 (D)\n\n(A)、(B)、(C) 皆為術中經食道超音波評估的重點，特別是在心臟外科手術時，同時也是一般胸前心臟超音波觀察的重點",
+    "explanation": "考心臟超音波可以得到的資訊(D) 冠狀動脈狹窄程度，一般使用心導管做冠狀動脈攝影 (coronary angiography) 評估，並無法透過心臟超音波觀察，故選 (D)\n\n(A)、(B)、(C) 皆為術中經食道超音波評估的重點，特別是在心臟外科手術時，同時也是一般胸前心臟超音波觀察的重點",
     "explanation_image": "/explanations/cropped/111-2_6_7.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_7.png"
@@ -10364,7 +10364,7 @@
       "D": "頸椎 epidural injection 的風險太高，臨床上並未使用"
     },
     "answer": "D",
-    "explanation": "硬膜外止痛可以應用於各段脊椎，腰椎施行容易且不太傷到脊髓，而胸椎與頸椎部分可能會有傷到脊髓風險，且打藥後可能影響心臟、呼吸系統的功能，故風險較高。但臨床上是有在使用頸椎的硬膜外止痛，廣泛應用於頸神經叢與臂神經軸疼痛（cervical-brachial neuraxial pain）的患者，故 (D) 不太正確",
+    "explanation": "硬膜外止痛可以應用於各段脊椎，腰椎施行容易且不太傷到脊髓，而胸椎與頸椎部分可能會有傷到脊髓風險，且打藥後可能影響心臟、呼吸系統的功能，故風險較高但臨床上是有在使用頸椎的硬膜外止痛，廣泛應用於頸神經叢與臂神經軸疼痛（cervical-brachial neuraxial pain）的患者，故 (D) 不太正確",
     "explanation_image": "/explanations/cropped/111-2_6_8.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_8.png"
@@ -10402,7 +10402,7 @@
       "D": "纖維性盤狀結疤（disciform scarring）"
     },
     "answer": "C",
-    "explanation": "眼科使用 Anti-VEGF agents 的時機，不外乎血管新生 (neovascularization) 的發生，因此 (C) 為最適合使用此種治療的狀況；而 (D) 雖然是血管新生後期的表現之一，但因為其已經纖維化（是個疤痕啊！），對於 Anti-VEGF 的治療並沒有效果。其餘選項皆為年齡相關黃斑部退化 (AMD) 的特徵，以下簡單補充：\n\n* 傳統 AMD 分類 - 分乾 / 溼\n\n| 比較 | Dry AMD | Wet AMD |\n| :--- | :--- | :--- |\n| 特徵 | Non-exudative, Non-neovascular | Exudative, Neovascular |\n| 流病 | 最常見（佔診斷的 90%） | 少見，但惡化快速，可能失明 |\n| 病變 | 視網膜色素性上皮的地圖狀萎縮 (geographic atrophy) | 脈絡膜血管新生 (CNV)、息肉狀脈絡膜血管病變 (polypoidal choroidal vasculopathy)、視網膜色素性上皮剝離 (pigment epithelial detachment)、視網膜血管新生 |\n| 治療 | 以抗氧化劑（Vit. C 或 E）預防惡化 | Anti-VEGF 眼內注射 |\n\n專家共識的 AMD 臨床分類（改自 Kanski's 教科書的 Table 14.2）\n\n| 分類 | 定義 |\n| :--- | :--- |\n| 沒有明顯老化變化<br>(no apparent aging changes) | 沒有隱結 (drusen)、沒有 AMD 色素性上皮異常 |\n| 正常老化（60 歲後） | 只有看到 Drupelets（即較小的 Drusen） |\n| 早期 AMD | 中等大小 Drusen (63~125 μm) |\n| 中期 AMD | 大 Drusen (>125 μm) ＋ 任何 AMD 色素性上皮異常 |\n| 晚期 AMD | neovascular AMD 伴隨 / 或任何 geographic atrophy |\n\n【補充】Drusen：位在 Bruch membrane 與 RPE 之間的細胞外沉積物",
+    "explanation": "眼科使用 Anti-VEGF agents 的時機，不外乎血管新生 (neovascularization) 的發生，因此 (C) 為最適合使用此種治療的狀況；而 (D) 雖然是血管新生後期的表現之一，但因為其已經纖維化（是個疤痕啊！），對於 Anti-VEGF 的治療並沒有效果其餘選項皆為年齡相關黃斑部退化 (AMD) 的特徵，以下簡單補充：\n\n* 傳統 AMD 分類 - 分乾 / 溼\n\n| 比較 | Dry AMD | Wet AMD |\n| :--- | :--- | :--- |\n| 特徵 | Non-exudative, Non-neovascular | Exudative, Neovascular |\n| 流病 | 最常見（佔診斷的 90%） | 少見，但惡化快速，可能失明 |\n| 病變 | 視網膜色素性上皮的地圖狀萎縮 (geographic atrophy) | 脈絡膜血管新生 (CNV)、息肉狀脈絡膜血管病變 (polypoidal choroidal vasculopathy)、視網膜色素性上皮剝離 (pigment epithelial detachment)、視網膜血管新生 |\n| 治療 | 以抗氧化劑（Vit. C 或 E）預防惡化 | Anti-VEGF 眼內注射 |\n\n專家共識的 AMD 臨床分類（改自 Kanski's 教科書的 Table 14.2）\n\n| 分類 | 定義 |\n| :--- | :--- |\n| 沒有明顯老化變化<br>(no apparent aging changes) | 沒有隱結 (drusen)、沒有 AMD 色素性上皮異常 |\n| 正常老化（60 歲後） | 只有看到 Drupelets（即較小的 Drusen） |\n| 早期 AMD | 中等大小 Drusen (63~125 μm) |\n| 中期 AMD | 大 Drusen (>125 μm) ＋ 任何 AMD 色素性上皮異常 |\n| 晚期 AMD | neovascular AMD 伴隨 / 或任何 geographic atrophy |\n\n【補充】Drusen：位在 Bruch membrane 與 RPE 之間的細胞外沉積物",
     "explanation_image": "/explanations/cropped/111-2_6_10.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_10.png"
@@ -10421,7 +10421,7 @@
       "D": "急性後玻璃體剝離（acute posterior vitreous detachment）"
     },
     "answer": "D",
-    "explanation": "牽引性視網膜剝離（tractional retinal detachment）的成因為視網膜 - 玻璃體交界面血管增生、纖維化，容易形成牽扯後產生剝離，因此 (A)、(B) 造成的血管新生，及 (C) 因創傷導致的纖維化，皆為此類視網膜剝離常見成因。(D) 急性後玻璃體剝離會導致視網膜產生裂孔，使液狀玻璃體滲入造成裂孔性視網膜剝離（rhegmatogenous retinal detachment, RRD），故選 (D)\n\n【補充】視網膜剝離按照成因分成三種，除上述兩種外，第三種為滲出型視網膜剝離（secondary retinal detachment to exudates, ERD），主要來自脈絡膜的血管新生，破壞色素性視網膜上皮（RPE）障壁，使得來自脈絡膜的滲出液累積產生剝離，與脈絡膜腫瘤、惡性高血壓相關",
+    "explanation": "牽引性視網膜剝離（tractional retinal detachment）的成因為視網膜 - 玻璃體交界面血管增生、纖維化，容易形成牽扯後產生剝離，因此 (A)、(B) 造成的血管新生，及 (C) 因創傷導致的纖維化，皆為此類視網膜剝離常見成因(D) 急性後玻璃體剝離會導致視網膜產生裂孔，使液狀玻璃體滲入造成裂孔性視網膜剝離（rhegmatogenous retinal detachment, RRD），故選 (D)\n\n【補充】視網膜剝離按照成因分成三種，除上述兩種外，第三種為滲出型視網膜剝離（secondary retinal detachment to exudates, ERD），主要來自脈絡膜的血管新生，破壞色素性視網膜上皮（RPE）障壁，使得來自脈絡膜的滲出液累積產生剝離，與脈絡膜腫瘤、惡性高血壓相關",
     "explanation_image": "/explanations/cropped/111-2_6_11.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_11.png"
@@ -10440,7 +10440,7 @@
       "D": "水性（watery）分泌物與病毒感染較有關"
     },
     "answer": "C",
-    "explanation": "黏液性分泌物通常代表發炎後 exudation，在細菌性或淋病性結膜炎會有較大量分泌，而病毒或過敏性結膜炎則相對較少見，故 (C) 敘述較不恰當。以下附上結膜炎常見的並依與各自臨床表現的整理（改自 Vaughan & Asbury's Clinical Ophthalmology, 19/e）：\n\n| 臨床表現 | 病毒性 | 細菌性 | 披衣菌 | 過敏性 |\n| :--- | :--- | :--- | :--- | :--- |\n| 癢 | 些微 | 些微 | 些微 | 嚴重搔癢 |\n| 流淚 / 水性分泌物 | 大量 | 中等 | 中等 | 中等 |\n| 滲出液 / 黏液分泌物 | 些微 | 大量 | 大量 | 些微 |\n| 耳前淋巴結腫大 | 常伴隨 | 少見 | 僅常見於包涵體結膜炎 | 罕見 |\n| 滲出物染色後鏡檢 | 單核球 | 細菌、嗜中性球 | 嗜中性球、漿細胞、包涵體 | 嗜酸性球 |",
+    "explanation": "黏液性分泌物通常代表發炎後 exudation，在細菌性或淋病性結膜炎會有較大量分泌，而病毒或過敏性結膜炎則相對較少見，故 (C) 敘述較不恰當以下附上結膜炎常見的並依與各自臨床表現的整理（改自 Vaughan & Asbury's Clinical Ophthalmology, 19/e）：\n\n| 臨床表現 | 病毒性 | 細菌性 | 披衣菌 | 過敏性 |\n| :--- | :--- | :--- | :--- | :--- |\n| 癢 | 些微 | 些微 | 些微 | 嚴重搔癢 |\n| 流淚 / 水性分泌物 | 大量 | 中等 | 中等 | 中等 |\n| 滲出液 / 黏液分泌物 | 些微 | 大量 | 大量 | 些微 |\n| 耳前淋巴結腫大 | 常伴隨 | 少見 | 僅常見於包涵體結膜炎 | 罕見 |\n| 滲出物染色後鏡檢 | 單核球 | 細菌、嗜中性球 | 嗜中性球、漿細胞、包涵體 | 嗜酸性球 |",
     "explanation_image": "/explanations/cropped/111-2_6_12.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_12.png"
@@ -10497,7 +10497,7 @@
       "D": "弱視在關鍵期（critical period）內及早發現，治療效果較好；因此學齡前的兒童應做視力和立體感的篩檢以及早發現與治療"
     },
     "answer": "D",
-    "explanation": "(A) 在雙眼同時有異常時，如：高度遠視（hypermetropia）或散光（astigmatism）可能造成雙眼弱視（bilateral amblyopia）\n\n(B) 斜視（strabismus）為最常見弱視的原因，不論是內斜視或外斜視，皆可因代償性阻斷視覺訊號，導致弱視的產生。但比較起來，內斜視較容易產生弱視\n\n(C) 弱視在定義上為「現有眼部器質性疾病不足以解釋的視力障礙」，因此老年性白內障導致的視力不佳，乃受到水晶體透光影響，並不屬於弱視\n\n故僅 (D) 選項敘述正確",
+    "explanation": "(A) 在雙眼同時有異常時，如：高度遠視（hypermetropia）或散光（astigmatism）可能造成雙眼弱視（bilateral amblyopia）\n\n(B) 斜視（strabismus）為最常見弱視的原因，不論是內斜視或外斜視，皆可因代償性阻斷視覺訊號，導致弱視的產生但比較起來，內斜視較容易產生弱視\n\n(C) 弱視在定義上為「現有眼部器質性疾病不足以解釋的視力障礙」，因此老年性白內障導致的視力不佳，乃受到水晶體透光影響，並不屬於弱視\n\n故僅 (D) 選項敘述正確",
     "explanation_image": "/explanations/cropped/111-2_6_15.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_15.png"
@@ -10516,7 +10516,7 @@
       "D": "輕微或初期性中心視網膜靜脈阻塞（central retinal vein occlusion）"
     },
     "answer": "C",
-    "explanation": "正常眼壓性青光眼與其他類型青光眼一樣是造成視神經盤的變化，包括：Cup/Disk ratio 變大（因神經纖維損失）、視神經盤出血（較原發隅角開放性青光眼常見）、視神經盤血管變化（往鼻側移位 / 剃刀狀血管）。與視神經盤水腫比較沒有相關，故答案為 (C)。以下簡單補充視神經盤水腫的鑑別診斷：\n* 視乳突水腫 (papilledema)：雙側，因腦壓高導致\n* 發炎性疾病，如：視神經炎 (optic neuritis)、神經性視網膜炎 (neuroretinitis)\n* 血管性疾病，如：中心視網膜靜脈阻塞 (CRVO)、高血壓性視網膜病變、糖尿病視網膜病變等",
+    "explanation": "正常眼壓性青光眼與其他類型青光眼一樣是造成視神經盤的變化，包括：Cup/Disk ratio 變大（因神經纖維損失）、視神經盤出血（較原發隅角開放性青光眼常見）、視神經盤血管變化（往鼻側移位 / 剃刀狀血管）與視神經盤水腫比較沒有相關，故答案為 (C)以下簡單補充視神經盤水腫的鑑別診斷：\n* 視乳突水腫 (papilledema)：雙側，因腦壓高導致\n* 發炎性疾病，如：視神經炎 (optic neuritis)、神經性視網膜炎 (neuroretinitis)\n* 血管性疾病，如：中心視網膜靜脈阻塞 (CRVO)、高血壓性視網膜病變、糖尿病視網膜病變等",
     "explanation_image": "/explanations/cropped/111-2_6_16.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_16.png"
@@ -10573,7 +10573,7 @@
       "D": "膽脂瘤"
     },
     "answer": "C",
-    "explanation": "首先從題幹獲得「左耳聽損」＋「偶爾流膿」，推測此病人應該是個慢性的問題，故可以先排除 (A)。再來看圖片，為一張左耳耳鏡的圖（因為 light reflex 所在圖片左下側，為耳膜的前下象限）。可以見到耳膜前側區域有破損 (perforation) 且周圍硬化 (myringosclerosis)，後側耳膜不透明，但沒有明顯的積液，因此診斷以 (C) 慢性中耳炎最為合適",
+    "explanation": "首先從題幹獲得「左耳聽損」＋「偶爾流膿」，推測此病人應該是個慢性的問題，故可以先排除 (A)再來看圖片，為一張左耳耳鏡的圖（因為 light reflex 所在圖片左下側，為耳膜的前下象限）可以見到耳膜前側區域有破損 (perforation) 且周圍硬化 (myringosclerosis)，後側耳膜不透明，但沒有明顯的積液，因此診斷以 (C) 慢性中耳炎最為合適",
     "explanation_image": "/explanations/cropped/111-2_6_19.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_19.png"
@@ -10592,7 +10592,7 @@
       "D": "通常從低頻處先開始退化"
     },
     "answer": "D",
-    "explanation": "老年型聽力退化的特色包含：雙側漸進的聽損，從「高頻」音開始退化，語音辨識能力也會變差，故 (D) 選項敘述錯誤。以下補充可能造成 / 加劇老年型聽力退化的因子：小血管疾病、飲食中的自由基、噪音、藥物（如：aminoglycoside 類抗生素）、抽菸",
+    "explanation": "老年型聽力退化的特色包含：雙側漸進的聽損，從「高頻」音開始退化，語音辨識能力也會變差，故 (D) 選項敘述錯誤以下補充可能造成 / 加劇老年型聽力退化的因子：小血管疾病、飲食中的自由基、噪音、藥物（如：aminoglycoside 類抗生素）、抽菸",
     "explanation_image": "/explanations/cropped/111-2_6_20.png",
     "explanation_images": [
       "/explanations/cropped/111-2_6_20.png"
@@ -11561,9 +11561,11 @@
       "D": ""
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "De Quervain's 肌腱腱鞘炎（媽媽手）就是發生在手腕深肌第一區間的 APL 與 EPB，故選 (C) 以下簡單整理手腕背側處的肌腱分成 6 個群 (Wrist Extensor 6 Compartments)：\n\n| 橈側 ------------------------------------------------------------- 尺側 | | | | | |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| 第一區間 | 第二區間 | 第三區間 | 第四區間 | 第五區間 | 第六區間 |\n| Extensor pollicis brevis (EPB)、Abductor pollicis longus (APL) | Extensor carpi radialis longus (ECRL)、ECRB | Extensor pollicis longus (EPL) | Extensor indicis (EI)、Extensor digitorum (ED) | Extensor digiti minimi (EDM) | Extensor carpi ulnaris (ECU) |\n\n[ 補充 ] De Quervain's 肌腱腱鞘炎\n• 為頻繁使用造成的發炎，也常見於孕婦\n• 理學檢查：Finkelstein test (+)\n• 處置：NSAID/ 類固醇注射止痛、Thumb spica splint",
+    "explanation_image": "/explanations/cropped/111-2_6_71.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_71.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-72",
@@ -11578,9 +11580,11 @@
       "D": "甲狀腺眼病（thyroid eye disease）不會造成眼眶內脂肪變大或水腫"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "題幹看似考影像，但其實不會影像也完全可以解題 甲狀腺眼病 (thyroid eye disease) 的病理機制：常起因於 Graves' disease，其自體抗體也針對眼眶內 fibroblast 表面抗原刺激其活化，使之增生、分化成 lipofibroblast 與 myofibroblast；細胞外基質增加吸收水份、纖維化、脂肪組織增生，使眼球凸出 (proptosis)，故 (D) 錯誤\n\n[ 補充 ] 眼球凸出的鑑別診斷\n• 甲狀腺眼病\n• 腫瘤：最常見是血管腫瘤，其他：淋巴癌、神經母細胞癌轉移、視神經腫瘤\n• 發炎性疾病：篩竇 / 上頜竇的鼻竇炎擴散（造成眼眶內感染）、Wegener's 肉芽腫血管炎 (=GPA)、特發性眼眶發炎",
+    "explanation_image": "/explanations/cropped/111-2_6_72.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_72.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-73",
@@ -11595,9 +11599,11 @@
       "D": "tuberculous spondylodiskitis"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題其實抓到關鍵字後不難解題：題幹說「第 3 與第 4 頸椎有一鈣化病灶」，看圖發現鈣化在第 3 與第 4 椎體的後方 解剖上，此處為後縱韌帶 (posterior longitudinal ligament) 所在位置，因此 (B) 為最合適的診斷 以下為此題補充的影像判讀：\n\n頸椎影像不論 X-ray 或是 CT 都可以用「ABCD」方式判讀\n\n| Alignment 看椎體排列狀況 | 頸椎排列整齊，並無前後相對滑脫狀況 |\n| :--- | :--- |\n| Body 看椎體 | 頸椎體皆無看到明顯塌陷痕跡，也沒有骨折後新生鈣化的痕跡 |\n| Curve 看 C spine 本身曲度 | 此個案曲度 Loss of C-spine lordosis |\n| Disc/Degeneration 看椎間盤與退化 | 每節椎體間距都差不多，沒有明顯椎間盤塌陷；在 C2, 5, 6, 7 椎體前有骨刺生成；在 C3-4 後側有後縱韌帶鈣化 |\n\n(A) Old fracture 可能見到相關變化，如：Schmorl nodes（椎間盤往椎體凸出形成）、Bridging callus（斷裂處新生骨質）\n(B) 後縱韌帶骨化 (Ossification of Posterior Longitudinal Ligament, OPLL) 為老年人常見造成頸椎神經管狹窄的原因；而在腰椎則是黃韌帶肥大 (ligamentum flavum hypertrophy) 為常見神經管狹窄的原因 [REF. 醫學（五）神外]\n(C) 僵直性脊椎炎 (AS) 典型特徵為：Loss of C-spine lordosis、Syndesmophyte（椎體前側新生骨將其連在一起）、Romanus lesion（=shiny corner，椎體四角處骨硬化）\n(D) Spondylodiskitis 為成人最常見血行性感染的骨髓炎，細菌透過 segmental vessels 進入椎體後，在椎體終板 (endplate) 處沉積，慢慢侵蝕椎體 + 椎間盤，所以影像上應可見到終板被侵蝕 (endplate erosion)、椎間盤塌陷 (disc collapse)，甚至嚴重到變成 Vertebra plana（椎體扁平成紙片） 而 TB 與其他細菌感染最不同的是，會有 relatively disc preservation 的現象 不過不論哪種感染，影像特徵皆與此題不相符",
+    "explanation_image": "/explanations/cropped/111-2_6_73.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_73.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-74",
@@ -11612,9 +11618,11 @@
       "D": "薦骨骨折（sacral bone fracture）"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題頗特別 四個選項中，應該只有 (D) 適合用 X 光評估，但很明顯答案不是它（圖中薦椎邊緣完整並無 incontinuous cortical bone）\n• 首先想「18 歲少女、下腹痛」的可能鑑別診斷方向：皮膚 / 骨骼問題、腸胃道問題、婦產科問題與泌尿科問題；(B)、(C)、(D) 的確可以急性下腹痛表現；而 (A) 則似乎不太像（見後文）\n• 再來看影像，KUB 主要有幾個點\n  - Gas：可見到腸氣，沒有很多，也沒有很脹，也沒有跑到腹腔外\n  - Bone：肋骨有 central calcification 但無斷裂、脊椎排列正常沒有塌陷 / 侵蝕、薦椎與骨盆皆無看到斷裂情形，因此也不像 (D) 薦骨骨折\n  - Calcification：沒有看到明顯血管壁鈣化（理論上年紀越大者才越容易看到）；但在骨盆腔右側有看到 2 個不透射線 (radiopaque) 的類牙齒物\n  - Soft Tissue：左右兩側的腎臟邊緣依稀可見（但周圍沒有氣體）、兩側的腰大肌也依稀可見；沒有看到明顯軟組織病灶\n• 就以上線索：可能唯一符合的選項就是 (C) 卵巢畸胎瘤，因可能內含三胚層分化可能可以看到牙齒；又畸胎瘤是造成卵巢扭轉 (ovarian torsion) 常見的原因之一，因此我猜測此個案之所以下腹痛的原因為此\n\n(A) 除非女孩有 Marfan syndrome 類的結締組織疾病、先天脂肪膽固醇代謝問題、大血管炎（如：Takayasu arteritis），否則一般不太會在 18 歲長出動脈瘤（就題幹而言我們無法得知）；再者，動脈瘤理應使用血管攝影或是 CT 影像評估，難以 KUB 做判斷\n(B) 骨盆腔發炎性疾病的確是重要的鑑別診斷之一，只是一樣難以從 KUB 做判斷",
+    "explanation_image": "/explanations/cropped/111-2_6_74.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_74.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-75",
@@ -11629,9 +11637,11 @@
       "D": "病人如眼球破裂（ruptured globe），一般都有明顯視力受損"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "前房出血可能造成小樑組織 (trabecular meshwork) 阻塞，影響眼房水液回收，故 (B) 敘述正確 其他選項錯誤的點：\n(A) CN III 損傷可能導致使眼球往上、內、下的肌肉無力，因此眼球在正位向應看下外下方 在眼睛鈍傷後單純無法往上看，也可能是因為眼眶底骨折 (orbital floor fracture) 卡住下直肌、眼外肌斷裂或血腫卡住\n(C) 不論哪裡的腔室症候群 (compartment syndrome)，最重要的原因就是筋膜包圍成的「封閉腔室」 眼眶中膈 (orbital septum) 區隔眼眶內構造與眼瞼部分，因此膈後 (postseptal) 為一封閉的腔室，出血、發炎造成的腫脹都可能形成 compartment syndrome\n(D) 一般在評估眼球破裂病人的視力是透過 Snellen chart 視力表，若嚴重受損則可透過 count fingers、hand-moving 或 light perception 評估 在名詞定義上，open globe injury 中的 ruptured globe 指的是「眼睛鈍傷導致眼內壓上升，進而使得角膜或鞏膜破裂」的狀況 在 Rahman, S. , Hossain, A., Alam, S., Rahman, A., Sultana, C., Islam, S., Khan, Y. and Amiruzzaman, M. (2021) Mechanical Eye Trauma Epidemiology, Prognostic Factors, and Management Controversies—An Update. Open Journal of Ophthalmology, 11, 348-363. 中提到兩種預測眼睛損傷後視力預後的系統：\n\nOcular trauma score (OTS) :\n\n| 項目 | Raw points |\n| :--- | :--- |\n| Initial visual acuity 初始視敏度（未經校正） | no light perception: 60<br>light perception/hand-movement: 70<br>1/200~19/200: 80<br>20/200~20/50: 90<br>>20/40: 100 |\n| Rupture globe 眼球破裂 | -23 |\n| Endophthalmitis 眼內炎 | -17 |\n| Perforating ocular injury 眼球穿刺傷 | -14 |\n| Retinal detachment (RD) 視網膜剝離 | -11 |\n| Relative afferent pupillary defect (RAPD) 相對性瞳孔傳入障礙 | -10 |\n\n• CART classification tree : RAPD 的存在與初始視敏度為最能預測視力損失的因子；有無眼瞼撕裂傷 (laceration) 及落在後方的傷口 (posterior wound) 為進一步預測視力預後差的因子\n\n綜合上述可大略得知，眼球破裂很有可能會導致視力預後差，但也須考量病人初始的視敏度 又一篇 2021 年的研究 (Puodžiuvienė E, Valeišaitė G, Žemaitienė R. Clinical Characteristics, Visual Outcomes, and Prognostic Factors of Open Globe Injuries. Medicina (Kaunas). 2021 Nov 3;57(11):1198.) 中提到，Open globe injury 在初步評估病人視力時，超過半數的尚介於 light perception~0.02 間\n\n此題其中一個爭議在於確定題目所說「明顯視力受損」並沒有明確指出是什麼程度，此題申覆並沒有成功 不過比較下來，(B) 選項更為正確",
+    "explanation_image": "/explanations/cropped/111-2_6_75.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_75.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-76",
@@ -11646,9 +11656,11 @@
       "D": "消化道癌轉移"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題考點為「甲狀腺舌管囊腫是中線構造腫塊的鑑別診斷」，所以 (C) 是側頸部腫塊的罕見原因 這個考點不算少見，只是以前都是考「甲狀腺舌管囊腫」的相關內容\n\n[ 補充 ] 頸部腫塊的兩個考點\n皆是胚胎發育殘跡所形成的，也可能考在醫學（五）兒童外科\n\n| 疾病 | 形成原因 | 臨床表現 |\n| :--- | :--- | :--- |\n| 甲狀腺舌管囊腫 (thyroglossal duct cyst) | 甲狀腺發育時下降路徑未正常關閉，並有積液形成囊腫 | • 位於頸部中線<br>• 與舌骨相連：伸舌時會向上移動<br>• 可見甲狀腺組織，有可能惡性轉變 (1%) |\n| 腮裂囊腫 (branchial cyst) | 腮弓、腮裂發育時未正常癒合，並有積液形成囊腫 | • 頸部兩側，好發位置沿著胸鎖乳突肌（過往考過 CT 影像圖）<br>• 較常見於年輕人<br>• 內含淋巴組織與黏液 |\n\n(A) 淋巴瘤出現在側頸部淋巴結，的確有可能\n(B)、(D) 皆可能出現在側頸部腫塊，主要是淋巴轉移\n（※ 註：左鎖骨下淋巴結為腸胃道腫瘤可能轉移處，與下身淋巴回流走胸管路徑有關）",
+    "explanation_image": "/explanations/cropped/111-2_6_76.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_76.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-77",
@@ -11663,9 +11675,11 @@
       "D": "propofol"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "此題考點為「Ketamine 會增加腦壓，針對腦外傷 / 出血 / 顱內壓升高者病人使用要小心或禁用」，也算是考古考點 以下整理選項藥物常見考點：\n\n| 選項 | 種類 | 常見考點 |\n| :--- | :--- | :--- |\n| (A) Lidocaine | 局部麻醉劑（可參照【111-1(六)4】） | • 以官能基分兩類：酯類 (Ester) 與醯胺類 (Amide)<br>• 使用於局部麻醉、脊髓麻醉或硬膜外止痛<br>• Na 離子通道阻斷劑，影響 B fiber（交感）、C fiber（溫痛覺）與 A fiber（觸壓本體覺）<br>• 中毒：CNS 毒性（耳鳴 / 頭暈 / 噁心嘔吐）、心臟毒性（如：心律不整）、過敏（Ester 類較容易發生） |\n| (B) Ketamine | 靜脈麻醉劑 | • NMDA 受體阻斷劑 ⇒ 產生解離感 (dissociation)<br>• 優點：具有支氣管擴張效果，適用於氣喘；不易造成發紺，適用於小兒先天性心臟病手術<br>• 副作用：腦壓 ↑、眼壓 ↑、血壓 ↑、心跳 ↑<br>• 禁忌：IICP、眼壓高、缺血性心臟病、動脈瘤 |\n| (C) Etomidate | 靜脈麻醉劑 | • GABA A 受體調節劑<br>• 優點：不會抑制心臟、呼吸，血液動力學平穩<br>• 副作用：術後噁心嘔吐 (PONV)、注射處疼痛、腎上腺低下（因會抑制 11-β hydroxylase） |\n| (D) Propofol | 靜脈麻醉劑 | • GABA A 受體促進劑<br>• 藥劑成分含有大豆、卵磷脂，因此保存於攝氏 25 度以下，對蛋豆類過敏者禁用<br>• 優點：作用快、代謝快，且較少發生 PONV<br>• 缺點：降低交感活性、血液動力下降、短暫呼吸中止、Propofol infusion syndrome |",
+    "explanation_image": "/explanations/cropped/111-2_6_77.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_77.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-78",
@@ -11680,9 +11694,11 @@
       "D": "不承諾林太太保密，因為對此資訊，她先生有重大的知的權利"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "我國法律對於洩漏業務上知悉他人秘密與隱私權的相關規定，包括：\n• 《刑法》第 316 條：「醫師、藥師、藥商、助產士、心理師、宗教師、律師、辯護人、公證人、會計師或其業務上佐理人，或曾任此等職務之人，無故洩漏因業務知悉或持有之他人秘密者，處一年以下有期徒刑、拘役或五萬元以下罰金」\n• 《民法》第 195 條第 1 項：「不法侵害他人之身體、健康、名譽、自由、信用、隱私、貞操，或不法侵害其他人格法益而情節重大者，被害人雖非財產上之損害，亦得請求賠償相當之金額 其名譽被侵害者，並得請求回復名譽之適當處分」（醫療契約成立後，保密應視為附隨義務）\n\n而法律上亦有規定，在特定情況下，醫師得以揭露病人隱私：\n• 經過當事人書面同意，如經病人書面同意後可將病人資料用於醫療研究\n• 醫療場域之病情告知\n  - 《醫療法》第 81 條與《醫師法》第 12-1 條，皆課予醫療機構與醫師告知病情相關資訊之義務，可對病人或法定代理人、配偶、親屬或關係人為之\n  - 《病人自主權利法》第 5 條第 1 項則規定，醫療機構或醫師應將病人之病情、診斷、治療方案等資訊「告知本人」；病人未明示反對時，亦得告知其關係人（法定代理人、配偶、親屬、醫療委任代理人或與病人有特別密切關係之人）\n• 以專家證人或鑑定人身份提供意見時\n  - 《醫師法》第 22 條，醫師受有關機關詢問或委託鑑定時，不得為虛偽之陳述或報告\n  - 承上，上述「有關機關」根據《醫師法施行細則》第 6 條，意旨衛生、司法或司法警察機關\n• 依法具有通報義務\n  - 基於防疫目的\n    • 《傳染病防治法》第 39 條：「醫師診治病人或醫師、法醫師檢驗、解剖屍體，發現傳染病或疑似傳染病時，應立即採行必要之感染管制措施，並報告當地主管機關」\n    • 《人類免疫缺乏病毒傳染防治及感染者權益保障條例》：知悉有病人感染有 HIV 需依法通報地方主管機關\n  - 基於保護目的\n    • 《精神衛生法》第 29：「經專科醫師診斷或鑑定屬嚴重病人者，醫療機構應將其資料通報直轄市、縣（市）主管機關」\n    • 《老人福利法》第 43 條：「醫事人員、社會工作人員、村（里）長與村（里）幹事、警察人員、司法人員及其他執行老人福利業務之相關人員，於執行職務時知悉老人有疑似第四十一條第一項或第四十二條之情況者，應通報當地直轄市、縣（市）主管機關」\n    • 《兒童及少年福利與權益保障法》第 14、53 條：胎兒出生 7 日內通報出生資料、知悉兒童及少年使用毒品或管制藥品等情況時通報\n  - 基於保護被害人與犯罪防治目的\n    • 《性侵害犯罪防治法》第 8 條：「醫事人員、社工人員、教育人員、保育人員、警察人員、勞政人員、司法人員、移民業務人員、矯正人員、村（里）幹事人員，於執行職務時知有疑似性侵害犯罪情事者，應立即向當地直轄市、縣（市）主管機關通報，至遲不得超過二十四小時」\n    • 《家庭暴力防治法》第 50 條：「醫事人員、社會工作人員、教育人員、保育人員、警察人員、移民業務人員及其他執行家庭暴力防治人員，在執行職務時知有疑似家庭暴力，應立即通報當地主管機關，至遲不得逾二十四小時」\n\n題幹所述情境皆不符合上述幾點，因此在法律上醫師應該予以保密，但病歷記載上應實事求是，否則將有可能影響臨床處置，且病歷記載的內容亦屬於保密範疇的一部分，照理來說並不會因為將此資訊記載於病歷上就被丈夫所知悉，故最適合的答案應為 (A)",
+    "explanation_image": "/explanations/cropped/111-2_6_78.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_78.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-79",
@@ -11697,9 +11713,11 @@
       "D": "正義原則（justice）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "醫療倫理題\n\n| 行善 | 尊重自主 | 不傷害 | 正義 |\n| :--- | :--- | :--- | :--- |\n| 引導或協助病人達到恢復健康、維持功能，或減少痛苦等最佳益處 | 意識清楚之病人有自行選擇、決定醫療規劃，應給予尊重 | 避免非必要的「醫療上」或「非醫療上」的傷害；如：疏忽 | 不因病人的地位或價值，作為醫療資源分配的依據 |\n\n故依照題幹所敘，病人本人有權利知道自己的健康狀況，不應受到他人干預，是考量尊重自主原則",
+    "explanation_image": "/explanations/cropped/111-2_6_79.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_79.png"
+    ]
   },
   {
     "id": "111-2-醫學(六)-80",
@@ -11714,9 +11732,11 @@
       "D": "→ →"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null
+    "explanation": "如果臨床上有遇到相關經驗，應該不難答題 首先要確定 (1) 有沒有簽過 DNR；如果沒有則需要找人簽，理論上順序為「配偶 ⇒ 直系卑親屬（兒女）⇒ 直系尊親屬（父母）」，但若 (3) 有特定醫療委任代理人則更為優先；再無，則向家屬說明完整 DNR 病解後 (2) 徵求同意並簽署同意書 故較恰當的優先順序為 (A) 選項 (1) → (3) → (2)",
+    "explanation_image": "/explanations/cropped/111-2_6_80.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2_6_80.png"
+    ]
   },
   {
     "id": "112-1-醫學(三)-1",
