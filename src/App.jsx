@@ -501,7 +501,7 @@ function App() {
   const [theme, setTheme] = useState(() => getLocalStorage('med-exam-theme', 'light'))
   
   // Bookmarks state (cleared)
-  const [bookmarks, setBookmarks] = useState([])
+  const [bookmarks, setBookmarks] = useState(() => getLocalStorage('med-exam-bookmarks', []))
   
   // Wrong questions state (array of question IDs)
   const [wrongQuestions, setWrongQuestions] = useState(() => getLocalStorage('med-exam-wrong', []))
@@ -531,6 +531,16 @@ function App() {
 
   // Result page filter state ('all' | 'wrong' | 'correct' | specific chapter name)
   const [resultFilter, setResultFilter] = useState('all')
+
+  // Clear usage records modal and toast state
+  const [showClearModal, setShowClearModal] = useState(false)
+  const [clearOptions, setClearOptions] = useState({
+    history: true,
+    wrong: true,
+    notes: true,
+    bookmarks: true
+  })
+  const [toastMessage, setToastMessage] = useState('')
 
   // Apply theme to document element
   useEffect(() => {
@@ -569,6 +579,37 @@ function App() {
 
   const toggleTheme = () => {
     setTheme(prev => prev === 'light' ? 'dark' : 'light')
+  }
+
+  // Clear usage records handler
+  const handleClearRecords = () => {
+    const hasSelected = clearOptions.history || clearOptions.wrong || clearOptions.notes || clearOptions.bookmarks
+    if (!hasSelected) return
+
+    if (clearOptions.history) {
+      setHistory([])
+      localStorage.removeItem('med-exam-history')
+    }
+    if (clearOptions.wrong) {
+      setWrongQuestions([])
+      setWrongAnswers({})
+      localStorage.removeItem('med-exam-wrong')
+    }
+    if (clearOptions.notes) {
+      setUserNotes({})
+      localStorage.removeItem('med-exam-user-notes')
+    }
+    if (clearOptions.bookmarks) {
+      setBookmarks([])
+      setBookmarkAnswers({})
+      localStorage.removeItem('med-exam-bookmarks')
+    }
+
+    setShowClearModal(false)
+    setToastMessage('已成功清除所選使用紀錄')
+    setTimeout(() => {
+      setToastMessage('')
+    }, 3000)
   }
 
   // Check if user answer is correct (handles ALL and multiple answers like B,D)
@@ -908,7 +949,16 @@ function App() {
 
           {/* History */}
           <div className="card">
-            <h3 className="section-card-title">近期測驗記錄</h3>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem', marginBottom: '0.5rem' }}>
+              <h3 className="section-card-title" style={{ margin: 0 }}>近期測驗記錄</h3>
+              <button 
+                className="btn btn-secondary btn-sm"
+                style={{ color: 'var(--danger)', fontSize: '0.8rem', padding: '0.25rem 0.6rem', display: 'inline-flex', alignItems: 'center', gap: '0.35rem' }}
+                onClick={() => setShowClearModal(true)}
+              >
+                🗑️ 一鍵清除紀錄
+              </button>
+            </div>
             {history.length === 0 ? (
               <p style={{ color: 'var(--text-tertiary)', textAlign: 'center', margin: '2rem 0', fontSize: '0.9rem' }}>尚無測驗記錄</p>
             ) : (
@@ -2189,6 +2239,22 @@ function App() {
           >
             錯題本 ({wrongQuestions.length})
           </button>
+          <button 
+            className="btn btn-secondary btn-sm"
+            onClick={() => setShowClearModal(true)}
+            style={{ 
+              color: 'var(--danger)', 
+              borderColor: 'rgba(239, 68, 68, 0.35)', 
+              padding: '0.25rem 0.6rem', 
+              fontSize: '0.8rem',
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '0.3rem'
+            }}
+            title="一鍵清除使用紀錄"
+          >
+            🗑️ 清除紀錄
+          </button>
           <button className="theme-toggle-btn" onClick={toggleTheme} aria-label="切換主題" style={{ background: 'none', border: 'none', cursor: 'pointer', fontSize: '1.2rem', padding: '0 0.5rem' }}>
             {theme === 'light' ? '🌙' : '☀️'}
           </button>
@@ -2249,6 +2315,146 @@ function App() {
               })}
             </div>
           </div>
+        </div>
+      )}
+
+      {/* Modal for clearing usage records */}
+      {showClearModal && (
+        <div className="modal-overlay animate-fade-in" onClick={() => setShowClearModal(false)}>
+          <div className="card modal-content" onClick={e => e.stopPropagation()} style={{ maxWidth: '500px', width: '100%', padding: '1.5rem' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '0.75rem' }}>
+              <h3 style={{ fontSize: '1.2rem', margin: 0, color: 'var(--danger)', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                🗑️ 一鍵清除使用紀錄
+              </h3>
+              <button 
+                className="btn btn-secondary btn-sm" 
+                style={{ padding: '0.2rem 0.5rem', fontSize: '0.85rem' }} 
+                onClick={() => setShowClearModal(false)}
+              >
+                ✕
+              </button>
+            </div>
+
+            <p style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', marginBottom: '1rem', lineHeight: '1.5' }}>
+              請勾選您想要清除的使用紀錄項目。請注意：<strong>資料清除後無法復原</strong>，請確認後再執行！
+            </p>
+
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', marginBottom: '1.25rem' }}>
+              {/* Option: History */}
+              <label style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '0.65rem 0.85rem', background: 'var(--bg-tertiary)', borderRadius: '6px', cursor: 'pointer' }}>
+                <span style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', fontSize: '0.9rem' }}>
+                  <input 
+                    type="checkbox" 
+                    checked={clearOptions.history} 
+                    onChange={e => setClearOptions(prev => ({ ...prev, history: e.target.checked }))} 
+                  />
+                  <span>📊 歷次測驗歷史紀錄</span>
+                </span>
+                <span style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>{history.length} 筆</span>
+              </label>
+
+              {/* Option: Wrong Questions */}
+              <label style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '0.65rem 0.85rem', background: 'var(--bg-tertiary)', borderRadius: '6px', cursor: 'pointer' }}>
+                <span style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', fontSize: '0.9rem' }}>
+                  <input 
+                    type="checkbox" 
+                    checked={clearOptions.wrong} 
+                    onChange={e => setClearOptions(prev => ({ ...prev, wrong: e.target.checked }))} 
+                  />
+                  <span>❌ 錯題本累積題庫</span>
+                </span>
+                <span style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>{wrongQuestions.length} 題</span>
+              </label>
+
+              {/* Option: User Notes */}
+              <label style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '0.65rem 0.85rem', background: 'var(--bg-tertiary)', borderRadius: '6px', cursor: 'pointer' }}>
+                <span style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', fontSize: '0.9rem' }}>
+                  <input 
+                    type="checkbox" 
+                    checked={clearOptions.notes} 
+                    onChange={e => setClearOptions(prev => ({ ...prev, notes: e.target.checked }))} 
+                  />
+                  <span>📝 個人重點備註與筆記</span>
+                </span>
+                <span style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>{Object.keys(userNotes).length} 則</span>
+              </label>
+
+              {/* Option: Bookmarks */}
+              <label style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '0.65rem 0.85rem', background: 'var(--bg-tertiary)', borderRadius: '6px', cursor: 'pointer' }}>
+                <span style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', fontSize: '0.9rem' }}>
+                  <input 
+                    type="checkbox" 
+                    checked={clearOptions.bookmarks} 
+                    onChange={e => setClearOptions(prev => ({ ...prev, bookmarks: e.target.checked }))} 
+                  />
+                  <span>⭐️ 題目收藏清單</span>
+                </span>
+                <span style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>{bookmarks.length} 題</span>
+              </label>
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '0.5rem', borderTop: '1px solid var(--border-color)', paddingTop: '1rem', flexWrap: 'wrap' }}>
+              <div style={{ display: 'flex', gap: '0.4rem' }}>
+                <button
+                  type="button"
+                  className="btn btn-secondary btn-sm"
+                  style={{ fontSize: '0.75rem', padding: '0.2rem 0.5rem' }}
+                  onClick={() => setClearOptions({ history: true, wrong: true, notes: true, bookmarks: true })}
+                >
+                  全選
+                </button>
+                <button
+                  type="button"
+                  className="btn btn-secondary btn-sm"
+                  style={{ fontSize: '0.75rem', padding: '0.2rem 0.5rem' }}
+                  onClick={() => setClearOptions({ history: false, wrong: false, notes: false, bookmarks: false })}
+                >
+                  全不選
+                </button>
+              </div>
+
+              <div style={{ display: 'flex', gap: '0.5rem' }}>
+                <button 
+                  className="btn btn-secondary" 
+                  onClick={() => setShowClearModal(false)}
+                >
+                  取消
+                </button>
+                <button 
+                  className="btn btn-primary"
+                  style={{ background: 'var(--danger)', borderColor: 'var(--danger)', color: '#fff' }}
+                  disabled={!clearOptions.history && !clearOptions.wrong && !clearOptions.notes && !clearOptions.bookmarks}
+                  onClick={handleClearRecords}
+                >
+                  確認一鍵清除
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Toast Notification */}
+      {toastMessage && (
+        <div style={{
+          position: 'fixed',
+          top: '20px',
+          left: '50%',
+          transform: 'translateX(-50%)',
+          background: 'var(--success)',
+          color: '#fff',
+          padding: '0.65rem 1.25rem',
+          borderRadius: '8px',
+          boxShadow: '0 4px 12px rgba(0,0,0,0.25)',
+          zIndex: 3000,
+          fontWeight: 600,
+          fontSize: '0.9rem',
+          display: 'flex',
+          alignItems: 'center',
+          gap: '0.5rem',
+          pointerEvents: 'none'
+        }}>
+          <span>✓</span> {toastMessage}
         </div>
       )}
     </div>
