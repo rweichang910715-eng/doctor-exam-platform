@@ -652,32 +652,6 @@ function App() {
     setCurrentPage('exam')
   }
 
-  // Quick Random Quiz
-  const startQuickQuiz = (numQuestions, subjectFilter, mode) => {
-    let pool = [...questionsData]
-    if (subjectFilter !== 'all') {
-      pool = pool.filter(q => q.subject === subjectFilter)
-    }
-    
-    // Shuffle and pick
-    const shuffled = pool.sort(() => Math.random() - 0.5).slice(0, numQuestions)
-    
-    setCurrentExam({
-      name: `快速隨機測驗 - ${subjectFilter === 'all' ? '不限考科' : subjectFilter} (${numQuestions}題)`,
-      year: '隨機',
-      subject: subjectFilter === 'all' ? '混合' : subjectFilter,
-      questions: shuffled,
-      currentIndex: 0,
-      answers: {},
-      flagged: {},
-      timeLeft: mode === 'exam' ? numQuestions * 90 : null, // 90 seconds per question for exam mode
-      totalQuestions: shuffled.length,
-      mode: mode
-    })
-    
-    setCurrentPage('exam')
-  }
-
   // Timer logic for exam mode
   useEffect(() => {
     if (currentPage !== 'exam' || !currentExam || currentExam.mode !== 'exam') return
@@ -885,44 +859,6 @@ function App() {
               <h3>{avgScore} 分</h3>
             </div>
             <div className="stat-icon icon-green">★</div>
-          </div>
-        </div>
-
-        {/* Quick Quiz Card */}
-        <div className="card">
-          <h3 className="section-card-title">快速隨機練習</h3>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '1rem', marginTop: '1rem' }}>
-            <div>
-              <label style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', display: 'block', marginBottom: '0.5rem' }}>設定題數</label>
-              <select id="quick-num" className="option-button" style={{ padding: '0.5rem', background: 'var(--bg-tertiary)' }} defaultValue="20">
-                <option value="10">10 題</option>
-                <option value="20">20 題</option>
-                <option value="40">40 題</option>
-                <option value="80">80 題</option>
-              </select>
-            </div>
-            <div>
-              <label style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', display: 'block', marginBottom: '0.5rem' }}>選擇考科</label>
-              <select id="quick-sub" className="option-button" style={{ padding: '0.5rem', background: 'var(--bg-tertiary)' }} defaultValue="all">
-                <option value="all">混合全部</option>
-                <option value="醫學(三)">醫學(三) - 內科/家醫/倫理</option>
-                <option value="醫學(四)">醫學(四) - 小兒/皮/神/精</option>
-                <option value="醫學(五)">醫學(五) - 外科/骨科/泌尿</option>
-                <option value="醫學(六)">醫學(六) - 麻醉/眼/耳鼻喉/婦產/復健</option>
-              </select>
-            </div>
-            <div style={{ display: 'flex', alignItems: 'flex-end', gap: '0.5rem' }}>
-              <button className="btn btn-primary" style={{ flex: 1, padding: '0.6rem' }} onClick={() => {
-                const num = parseInt(document.getElementById('quick-num').value)
-                const sub = document.getElementById('quick-sub').value
-                startQuickQuiz(num, sub, 'practice')
-              }}>循序練習</button>
-              <button className="btn btn-outline" style={{ flex: 1, padding: '0.6rem' }} onClick={() => {
-                const num = parseInt(document.getElementById('quick-num').value)
-                const sub = document.getElementById('quick-sub').value
-                startQuickQuiz(num, sub, 'exam')
-              }}>模擬考試</button>
-            </div>
           </div>
         </div>
 
