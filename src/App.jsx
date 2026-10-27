@@ -624,8 +624,8 @@ function App() {
   const yearsList = [...new Set(questionsData.map(q => q.year))].sort().reverse()
   const subjectsList = ['醫學(三)', '醫學(四)', '醫學(五)', '醫學(六)']
 
-  // Start new test or practice session
-  const startSession = (year, subject, mode) => {
+  // Start new exam session
+  const startSession = (year, subject, mode = 'exam') => {
     const filtered = questionsData.filter(q => q.year === year && q.subject === subject)
     
     // Sort by question number sequentially
@@ -644,9 +644,9 @@ function App() {
       currentIndex: 0,
       answers: {}, // { questionId: selectedOption }
       flagged: {}, // { questionId: boolean }
-      timeLeft: mode === 'exam' ? 120 * 60 : null, // 120 minutes for exam mode
+      timeLeft: 120 * 60, // 120 minutes for exam mode
       totalQuestions: sorted.length,
-      mode: mode // 'exam' | 'practice'
+      mode: 'exam'
     })
     
     setCurrentPage('exam')
@@ -866,7 +866,7 @@ function App() {
         <div className="dashboard-sections">
           <div className="card">
             <h3 className="section-card-title">歷屆試題庫</h3>
-            <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: '1rem' }}>選擇您要挑戰的年度考期，點選進入後可進一步選擇科目進行練習或模擬考</p>
+            <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: '1rem' }}>選擇您要挑戰的年度考期，點選進入後可進一步選擇科目進行模擬考試</p>
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '1rem' }}>
               {yearsList.map(year => (
                 <div 
@@ -930,9 +930,6 @@ function App() {
     const isFlagged = currentExam.flagged[q.id]
     const isBookmarked = bookmarks.includes(q.id)
 
-    // In practice mode, we can show immediate answer check
-    const answered = userSelected !== undefined
-
     return (
       <div className="exam-layout animate-fade-in">
         <div className="card question-card">
@@ -949,15 +946,13 @@ function App() {
               >
                 {isBookmarked ? '★ 已收藏' : '☆ 收藏題目'}
               </button>
-              {currentExam.mode === 'exam' && (
-                <button 
-                  className={`btn ${isFlagged ? 'btn-primary' : 'btn-secondary'}`} 
-                  style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem', backgroundColor: isFlagged ? 'var(--warning)' : '' }}
-                  onClick={() => handleToggleFlag(q.id)}
-                >
-                  {isFlagged ? '★ 已標記' : '☆ 標記此題'}
-                </button>
-              )}
+              <button 
+                className={`btn ${isFlagged ? 'btn-primary' : 'btn-secondary'}`} 
+                style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem', backgroundColor: isFlagged ? 'var(--warning)' : '' }}
+                onClick={() => handleToggleFlag(q.id)}
+              >
+                {isFlagged ? '★ 已標記' : '☆ 標記此題'}
+              </button>
             </div>
           </div>
 
@@ -984,27 +979,12 @@ function App() {
             {/* Options List */}
             <div className="options-list">
               {Object.entries(q.options).map(([letter, text]) => {
-                let optClass = ''
-                if (currentExam.mode === 'practice' && answered) {
-                  // In practice mode, show correct/incorrect styles immediately
-                  const isCorrectOpt = isAnswerCorrect(q, letter)
-                  if (letter === userSelected) {
-                    optClass = isCorrectOpt ? 'correct' : 'incorrect'
-                  } else if (isCorrectOpt) {
-                    optClass = 'correct' // Highlight the correct option
-                  }
-                } else {
-                  // In exam mode, just show selected state
-                  if (userSelected === letter) {
-                    optClass = 'selected'
-                  }
-                }
+                const isSelected = userSelected === letter
 
                 return (
                   <button
                     key={letter}
-                    className={`option-button ${optClass}`}
-                    disabled={currentExam.mode === 'practice' && answered} // Disable option changing in practice mode
+                    className={`option-button ${isSelected ? 'selected' : ''}`}
                     onClick={() => handleSelectOption(q.id, letter)}
                   >
                     <strong style={{ marginRight: '0.5rem' }}>({letter})</strong> {text}
@@ -1012,25 +992,6 @@ function App() {
                 )
               })}
             </div>
-
-            {/* Note & Remarks shown immediately in practice mode */}
-            {currentExam.mode === 'practice' && answered && (
-              <div className="explanation-box animate-fade-in" style={{ marginTop: '1.5rem' }}>
-                <div className="explanation-title" style={{ display: 'flex', justifyContent: 'space-between' }}>
-                  <span>💡 答案與更正說明</span>
-                  <span style={{ color: isAnswerCorrect(q, userSelected) ? 'var(--success)' : 'var(--danger)' }}>
-                    {isAnswerCorrect(q, userSelected) ? '答對了！' : '答錯了！'} 正確答案：{q.answer.replace('ALL', '一律給分')}
-                  </span>
-                </div>
-                {q.note && (
-                  <div className="explanation-text" style={{ color: 'var(--warning)', fontWeight: 600 }}>備註：{q.note}</div>
-                )}
-                {!q.note && !q.explanation && !q.explanation_image && !q.explanation_images && (
-                  <div className="explanation-text" style={{ color: 'var(--text-secondary)' }}>此題目前尚無詳細解析對照，請溫習相關臨床講義</div>
-                )}
-                <BookExplanation q={q} />
-              </div>
-            )}
           </div>
 
           <div className="question-footer">
@@ -1042,39 +1003,18 @@ function App() {
               上一題
             </button>
             
-            {currentExam.mode === 'exam' ? (
-              <button className="btn btn-danger" onClick={() => {
-                if (window.confirm('確定要退出考試交卷嗎？')) {
-                  handleSubmitExam()
-                }
-              }}>
-                交卷
-              </button>
-            ) : (
-              <button className="btn btn-secondary" onClick={() => {
-                if (window.confirm('確定要退出練習回首頁嗎？')) {
-                  setCurrentPage('dashboard')
-                  setCurrentExam(null)
-                }
-              }}>
-                退出練習
-              </button>
-            )}
+            <button className="btn btn-danger" onClick={() => {
+              if (window.confirm('確定要退出考試交卷嗎？')) {
+                handleSubmitExam()
+              }
+            }}>
+              交卷
+            </button>
 
             {currentExam.currentIndex === currentExam.totalQuestions - 1 ? (
-              currentExam.mode === 'exam' ? (
-                <button className="btn btn-primary" onClick={() => handleSubmitExam()}>
-                  交卷
-                </button>
-              ) : (
-                <button className="btn btn-primary" onClick={() => {
-                  alert('練習完成！')
-                  setCurrentPage('dashboard')
-                  setCurrentExam(null)
-                }}>
-                  結束練習
-                </button>
-              )
+              <button className="btn btn-primary" onClick={() => handleSubmitExam()}>
+                交卷
+              </button>
             ) : (
               <button
                 className="btn btn-primary"
@@ -1088,15 +1028,13 @@ function App() {
 
         {/* Sidebar */}
         <div className="exam-sidebar">
-          {currentExam.mode === 'exam' && (
-            <div className="card timer-card glass-card">
-              <h4>剩餘時間</h4>
-              <div className="timer-display" style={{ color: currentExam.timeLeft < 180 ? 'var(--danger)' : 'var(--text-primary)' }}>
-                {formatTime(currentExam.timeLeft)}
-              </div>
-              <p style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>考試進行中</p>
+          <div className="card timer-card glass-card">
+            <h4>剩餘時間</h4>
+            <div className="timer-display" style={{ color: currentExam.timeLeft < 180 ? 'var(--danger)' : 'var(--text-primary)' }}>
+              {formatTime(currentExam.timeLeft)}
             </div>
-          )}
+            <p style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>考試進行中</p>
+          </div>
 
           <div className="card" style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
             <h4 style={{ marginBottom: '0.75rem', fontSize: '0.95rem' }}>題目導覽</h4>
@@ -2237,10 +2175,6 @@ function App() {
                       <span className="question-meta-badge" style={{ marginTop: '0.5rem', display: 'inline-block', fontSize: '0.75rem' }}>共 {count} 題</span>
                     </div>
                     <div style={{ display: 'flex', gap: '0.5rem', flexShrink: 0 }}>
-                      <button className="btn btn-secondary btn-sm" onClick={() => {
-                        startSession(selectedYearTerm, subject, 'practice')
-                        setSelectedYearTerm(null)
-                      }}>循序練習</button>
                       <button className="btn btn-primary btn-sm" onClick={() => {
                         startSession(selectedYearTerm, subject, 'exam')
                         setSelectedYearTerm(null)
