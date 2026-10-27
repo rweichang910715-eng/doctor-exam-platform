@@ -49,6 +49,22 @@ const SUBSPECIALTY_GROUPS = [
   }
 ]
 
+// Marker / Flag types for exam navigation
+const FLAG_TYPES = [
+  { key: 'flag', icon: '🚩', label: '待確認', color: '#ef4444', bg: 'rgba(239, 68, 68, 0.12)', border: '#ef4444' },
+  { key: 'doubt', icon: '❓', label: '不確定', color: '#f59e0b', bg: 'rgba(245, 158, 11, 0.12)', border: '#f59e0b' },
+  { key: 'star', icon: '⭐', label: '重要題', color: '#eab308', bg: 'rgba(234, 179, 8, 0.12)', border: '#eab308' },
+  { key: 'trap', icon: '⚠️', label: '陷阱題', color: '#8b5cf6', bg: 'rgba(139, 92, 246, 0.12)', border: '#8b5cf6' },
+]
+
+const FLAG_MAP = {
+  flag: FLAG_TYPES[0],
+  doubt: FLAG_TYPES[1],
+  star: FLAG_TYPES[2],
+  trap: FLAG_TYPES[3],
+  true: FLAG_TYPES[0]
+}
+
 // Helper function to get data from local storage
 const getLocalStorage = (key, defaultValue) => {
   const stored = localStorage.getItem(key)
@@ -690,14 +706,30 @@ function App() {
     }))
   }
 
-  const handleToggleFlag = (questionId) => {
-    setCurrentExam(prev => ({
-      ...prev,
-      flagged: {
-        ...prev.flagged,
-        [questionId]: !prev.flagged[questionId]
+  const handleSetFlag = (questionId, flagKey) => {
+    setCurrentExam(prev => {
+      if (!prev) return null
+      const currentFlag = prev.flagged?.[questionId]
+      const newFlagged = { ...(prev.flagged || {}) }
+      
+      // If clicking the same flag, toggle it off
+      if (currentFlag === flagKey || (flagKey === 'flag' && currentFlag === true)) {
+        delete newFlagged[questionId]
+      } else if (flagKey) {
+        newFlagged[questionId] = flagKey
+      } else {
+        delete newFlagged[questionId]
       }
-    }))
+      
+      return {
+        ...prev,
+        flagged: newFlagged
+      }
+    })
+  }
+
+  const handleToggleFlag = (questionId, flagKey = 'flag') => {
+    handleSetFlag(questionId, flagKey)
   }
 
   const toggleBookmark = (questionId) => {
@@ -736,7 +768,8 @@ function App() {
       correctCount: correctCount,
       totalQuestions: examToSubmit.totalQuestions,
       answers: examToSubmit.answers,
-      questions: examToSubmit.questions
+      questions: examToSubmit.questions,
+      flagged: examToSubmit.flagged || {}
     }
 
     setHistory(prev => [newRecord, ...prev])
@@ -927,7 +960,7 @@ function App() {
 
     const q = currentExam.questions[currentExam.currentIndex]
     const userSelected = currentExam.answers[q.id]
-    const isFlagged = currentExam.flagged[q.id]
+    const currentFlagKey = currentExam.flagged?.[q.id]
     const isBookmarked = bookmarks.includes(q.id)
 
     return (
@@ -938,7 +971,7 @@ function App() {
               <span className="question-meta-badge" style={{ marginRight: '0.5rem' }}>{currentExam.name}</span>
               <span className="question-meta-badge">第 {currentExam.currentIndex + 1} / {currentExam.totalQuestions} 題</span>
             </div>
-            <div style={{ display: 'flex', gap: '0.5rem' }}>
+            <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }}>
               <button 
                 className={`btn btn-secondary`} 
                 style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem', color: isBookmarked ? 'var(--success)' : '' }}
@@ -946,13 +979,40 @@ function App() {
               >
                 {isBookmarked ? '★ 已收藏' : '☆ 收藏題目'}
               </button>
-              <button 
-                className={`btn ${isFlagged ? 'btn-primary' : 'btn-secondary'}`} 
-                style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem', backgroundColor: isFlagged ? 'var(--warning)' : '' }}
-                onClick={() => handleToggleFlag(q.id)}
-              >
-                {isFlagged ? '★ 已標記' : '☆ 標記此題'}
-              </button>
+
+              <div className="flag-toolbar">
+                <span className="flag-toolbar-label">標記:</span>
+                {FLAG_TYPES.map(f => {
+                  const isSelected = currentFlagKey === f.key || (f.key === 'flag' && currentFlagKey === true)
+                  return (
+                    <button
+                      key={f.key}
+                      type="button"
+                      className={`flag-toolbar-btn ${isSelected ? 'active' : ''}`}
+                      style={isSelected ? {
+                        backgroundColor: f.bg,
+                        borderColor: f.color,
+                        color: f.color
+                      } : {}}
+                      onClick={() => handleSetFlag(q.id, f.key)}
+                      title={isSelected ? `點擊取消 ${f.label} 標記` : `標記為 ${f.label}`}
+                    >
+                      <span>{f.icon}</span>
+                      <span className="flag-label-text">{f.label}</span>
+                    </button>
+                  )
+                })}
+                {currentFlagKey && (
+                  <button
+                    type="button"
+                    className="flag-toolbar-clear"
+                    onClick={() => handleSetFlag(q.id, null)}
+                    title="清除此題標記"
+                  >
+                    ✕
+                  </button>
+                )}
+              </div>
             </div>
           </div>
 
@@ -1037,39 +1097,84 @@ function App() {
           </div>
 
           <div className="card" style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
-            <h4 style={{ marginBottom: '0.75rem', fontSize: '0.95rem' }}>題目導覽</h4>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.75rem' }}>
+              <h4 style={{ margin: 0, fontSize: '0.95rem' }}>題目導覽</h4>
+              <span style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>
+                {Object.keys(currentExam.answers).length} / {currentExam.totalQuestions} 已答
+              </span>
+            </div>
+
             <div className="question-nav-grid" style={{ gridTemplateColumns: 'repeat(5, 1fr)' }}>
               {currentExam.questions.map((question, idx) => {
                 const answered = currentExam.answers[question.id] !== undefined
-                const flagged = currentExam.flagged[question.id]
+                const flagKey = currentExam.flagged?.[question.id]
+                const flagInfo = flagKey ? (FLAG_MAP[flagKey] || FLAG_MAP['flag']) : null
                 const current = currentExam.currentIndex === idx
                 
                 let btnClass = ''
-                if (flagged) btnClass = 'flagged'
-                else if (answered) btnClass = 'answered'
+                if (answered) btnClass += ' answered'
+                if (flagInfo) btnClass += ' has-flag'
                 if (current) btnClass += ' current'
 
                 return (
                   <button
                     key={question.id}
                     className={`nav-grid-btn ${btnClass}`}
+                    style={flagInfo ? { borderColor: flagInfo.color } : {}}
                     onClick={() => setCurrentExam(prev => ({ ...prev, currentIndex: idx }))}
+                    title={`第 ${idx + 1} 題${answered ? ' (已作答)' : ' (未作答)'}${flagInfo ? ` [${flagInfo.icon} ${flagInfo.label}]` : ''}`}
                   >
-                    {idx + 1}
+                    <span className="nav-btn-num">{idx + 1}</span>
+                    {flagInfo && (
+                      <span className="nav-btn-flag">
+                        {flagInfo.icon}
+                      </span>
+                    )}
                   </button>
                 )
               })}
             </div>
-            <div style={{ marginTop: '1rem', display: 'flex', gap: '0.5rem', flexWrap: 'wrap', fontSize: '0.75rem', color: 'var(--text-secondary)' }}>
-              <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
-                <span style={{ width: '10px', height: '10px', backgroundColor: 'var(--accent-color)', borderRadius: '2px' }}></span> 已答
-              </span>
-              <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
-                <span style={{ width: '10px', height: '10px', backgroundColor: 'var(--warning)', borderRadius: '2px' }}></span> 標記
-              </span>
-              <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
-                <span style={{ width: '10px', height: '10px', backgroundColor: 'var(--bg-tertiary)', border: '1px solid var(--border-color)', borderRadius: '2px' }}></span> 未答
-              </span>
+
+            {/* Status Legend & Flag Breakdown */}
+            <div style={{ marginTop: '1rem', borderTop: '1px solid var(--border-color)', paddingTop: '0.75rem', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+              <div style={{ display: 'flex', gap: '0.6rem', flexWrap: 'wrap', fontSize: '0.75rem', color: 'var(--text-secondary)' }}>
+                <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
+                  <span style={{ width: '10px', height: '10px', backgroundColor: 'var(--accent-color)', borderRadius: '2px' }}></span> 已答
+                </span>
+                <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
+                  <span style={{ width: '10px', height: '10px', backgroundColor: 'var(--bg-tertiary)', border: '1px solid var(--border-color)', borderRadius: '2px' }}></span> 未答
+                </span>
+              </div>
+              
+              <div style={{ display: 'flex', gap: '0.4rem', flexWrap: 'wrap', fontSize: '0.75rem' }}>
+                {FLAG_TYPES.map(f => {
+                  const count = currentExam.questions.filter(q => {
+                    const fl = currentExam.flagged?.[q.id]
+                    return fl === f.key || (f.key === 'flag' && fl === true)
+                  }).length
+                  return (
+                    <span 
+                      key={f.key} 
+                      style={{ 
+                        display: 'inline-flex', 
+                        alignItems: 'center', 
+                        gap: '0.2rem',
+                        backgroundColor: count > 0 ? f.bg : 'var(--bg-tertiary)',
+                        padding: '0.15rem 0.35rem',
+                        borderRadius: '4px',
+                        border: count > 0 ? `1px solid ${f.color}` : '1px solid var(--border-color)',
+                        color: count > 0 ? f.color : 'var(--text-tertiary)',
+                        fontWeight: count > 0 ? 600 : 'normal'
+                      }}
+                      title={`${f.label} 題數: ${count}`}
+                    >
+                      <span>{f.icon}</span>
+                      <span>{f.label}</span>
+                      <strong>{count}</strong>
+                    </span>
+                  )
+                })}
+              </div>
             </div>
           </div>
         </div>
@@ -1378,6 +1483,25 @@ function App() {
                         <span className="tag tag-blue" style={{ fontSize: '0.75rem' }}>
                           {q.year}年 / {q.subject}
                         </span>
+                        {(() => {
+                          const fKey = currentExam.flagged?.[q.id]
+                          const fInfo = fKey ? (FLAG_MAP[fKey] || FLAG_MAP['flag']) : null
+                          if (!fInfo) return null
+                          return (
+                            <span 
+                              className="tag" 
+                              style={{ 
+                                backgroundColor: fInfo.bg, 
+                                color: fInfo.color, 
+                                border: `1px solid ${fInfo.color}`,
+                                fontWeight: 600,
+                                fontSize: '0.75rem'
+                              }}
+                            >
+                              {fInfo.icon} {fInfo.label}
+                            </span>
+                          )
+                        })()}
                       </div>
 
                       <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
