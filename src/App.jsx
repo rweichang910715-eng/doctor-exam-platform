@@ -1049,7 +1049,6 @@ function App() {
               </button>
 
               <div className="flag-toolbar">
-                <span className="flag-toolbar-label">標記:</span>
                 {FLAG_TYPES.map(f => {
                   const isSelected = currentFlagKey === f.key || (f.key === 'triangle' && (currentFlagKey === 'flag' || currentFlagKey === true))
                   return (
@@ -1063,10 +1062,9 @@ function App() {
                         color: f.color
                       } : {}}
                       onClick={() => handleSetFlag(q.id, f.key)}
-                      title={isSelected ? `點擊取消 ${f.label} 標記` : `標記為 ${f.label}`}
+                      title={isSelected ? `取消標記` : `標記 ${f.icon}`}
                     >
-                      <span style={{ fontSize: '0.85rem' }}>{f.icon}</span>
-                      <span className="flag-label-text">{f.label}</span>
+                      <span style={{ fontSize: '0.95rem' }}>{f.icon}</span>
                     </button>
                   )
                 })}
@@ -1075,7 +1073,7 @@ function App() {
                     type="button"
                     className="flag-toolbar-clear"
                     onClick={() => handleSetFlag(q.id, null)}
-                    title="清除此題標記"
+                    title="清除標記"
                   >
                     ✕
                   </button>
@@ -1226,18 +1224,17 @@ function App() {
                       style={{ 
                         display: 'inline-flex', 
                         alignItems: 'center', 
-                        gap: '0.2rem',
+                        gap: '0.25rem',
                         backgroundColor: count > 0 ? f.bg : 'var(--bg-tertiary)',
-                        padding: '0.15rem 0.35rem',
+                        padding: '0.15rem 0.4rem',
                         borderRadius: '4px',
                         border: count > 0 ? `1px solid ${f.color}` : '1px solid var(--border-color)',
                         color: count > 0 ? f.color : 'var(--text-tertiary)',
                         fontWeight: count > 0 ? 600 : 'normal'
                       }}
-                      title={`${f.label} 題數: ${count}`}
+                      title={`${f.icon} 題數: ${count}`}
                     >
-                      <span>{f.icon}</span>
-                      <span>{f.label}</span>
+                      <span style={{ fontSize: '0.85rem' }}>{f.icon}</span>
                       <strong>{count}</strong>
                     </span>
                   )
@@ -1577,11 +1574,11 @@ function App() {
                                 backgroundColor: fInfo.bg, 
                                 color: fInfo.color, 
                                 border: `1px solid ${fInfo.color}`,
-                                fontWeight: 600,
-                                fontSize: '0.75rem'
+                                fontWeight: 700,
+                                fontSize: '0.8rem'
                               }}
                             >
-                              {fInfo.icon} {fInfo.label}
+                              {fInfo.icon}
                             </span>
                           )
                         })()}
