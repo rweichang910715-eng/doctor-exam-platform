@@ -1029,7 +1029,6 @@ function App() {
     const q = currentExam.questions[currentExam.currentIndex]
     const userSelected = currentExam.answers[q.id]
     const currentFlagKey = currentExam.flagged?.[q.id]
-    const isBookmarked = bookmarks.includes(q.id)
 
     return (
       <div className="exam-layout animate-fade-in">
@@ -1040,14 +1039,6 @@ function App() {
               <span className="question-meta-badge">第 {currentExam.currentIndex + 1} / {currentExam.totalQuestions} 題</span>
             </div>
             <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }}>
-              <button 
-                className={`btn btn-secondary`} 
-                style={{ padding: '0.4rem 0.8rem', fontSize: '0.85rem', color: isBookmarked ? 'var(--success)' : '' }}
-                onClick={() => toggleBookmark(q.id)}
-              >
-                {isBookmarked ? '★ 已收藏' : '☆ 收藏題目'}
-              </button>
-
               <div className="flag-toolbar">
                 {FLAG_TYPES.map(f => {
                   const isSelected = currentFlagKey === f.key || (f.key === 'triangle' && (currentFlagKey === 'flag' || currentFlagKey === true))
