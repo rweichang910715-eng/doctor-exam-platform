@@ -832,3 +832,293 @@ h1, h2, h3, h4 {
     grid-template-columns: 1fr;
   }
 }
+
+/* ========================================================
+   試卷 PDF 匯出與列印專用樣式 (National Exam Paper Style)
+   ======================================================== */
+
+.pdf-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+}
+
+.pdf-modal-toolbar {
+  background-color: var(--card-bg);
+  border-bottom: 1px solid var(--border-color);
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.pdf-modal-scroll-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 2rem 1rem;
+  display: flex;
+  justify-content: center;
+  background-color: #525659;
+}
+
+.pdf-paper-sheet {
+  background-color: #ffffff;
+  color: #111111;
+  width: 100%;
+  max-width: 840px;
+  min-height: 1100px;
+  padding: 45px 50px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+  font-family: "Times New Roman", "DFKai-SB", "BiauKai", "標楷體", "PMingLiU", "新細明體", serif;
+  box-sizing: border-box;
+}
+
+/* 試卷頂部標頭 */
+.pdf-exam-header {
+  border-bottom: 1.5px solid #222222;
+  padding-bottom: 12px;
+  margin-bottom: 16px;
+}
+
+.pdf-exam-title {
+  font-size: 13.5pt;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.45;
+  margin: 0 0 10px 0;
+  letter-spacing: 0.5px;
+}
+
+.pdf-header-body {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  position: relative;
+}
+
+.pdf-header-left {
+  flex: 1;
+  font-size: 10pt;
+  line-height: 1.6;
+}
+
+.pdf-meta-line {
+  margin: 1px 0;
+}
+
+.pdf-header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-left: 1.5rem;
+  min-width: 140px;
+}
+
+.pdf-score-badge {
+  color: #d32f2f;
+  font-size: 26pt;
+  font-weight: 800;
+  line-height: 1;
+  margin-bottom: 6px;
+  font-family: "Times New Roman", sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.pdf-flag-stat-row {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11pt;
+  font-weight: bold;
+  line-height: 1.35;
+}
+
+/* 試題本體 */
+.pdf-questions-container {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.pdf-question-item {
+  display: flex;
+  align-items: flex-start;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  line-height: 1.55;
+}
+
+/* 左側作答標籤欄 */
+.pdf-answer-col {
+  width: 48px;
+  flex-shrink: 0;
+  padding-right: 8px;
+  text-align: left;
+  box-sizing: border-box;
+  padding-top: 1px;
+}
+
+.pdf-ans-row {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  line-height: 1.2;
+}
+
+.pdf-ans-letter {
+  font-size: 11pt;
+  font-weight: bold;
+  color: #111111;
+  display: inline-block;
+  min-width: 12px;
+}
+
+/* 答錯時的劃線效果 */
+.pdf-ans-letter.wrong-slashed {
+  position: relative;
+  display: inline-block;
+}
+
+.pdf-ans-letter.wrong-slashed::after {
+  content: '';
+  position: absolute;
+  left: -2px;
+  top: 50%;
+  width: calc(100% + 4px);
+  height: 2px;
+  background-color: #d32f2f;
+  transform: rotate(-35deg);
+  transform-origin: center;
+}
+
+.pdf-ans-flag {
+  font-size: 9.5pt;
+  line-height: 1;
+  display: inline-block;
+}
+
+.pdf-correct-letter {
+  color: #d32f2f;
+  font-size: 10.5pt;
+  font-weight: bold;
+  line-height: 1.1;
+  margin-top: 2px;
+}
+
+/* 右側題目文字與選項 */
+.pdf-question-body {
+  flex: 1;
+  font-size: 10.5pt;
+}
+
+.pdf-q-title {
+  color: #111111;
+  font-weight: normal;
+  text-align: justify;
+}
+
+.pdf-q-num {
+  font-weight: bold;
+  margin-right: 4px;
+}
+
+.pdf-q-images {
+  margin: 8px 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.pdf-inline-img {
+  max-height: 190px;
+  max-width: 100%;
+  object-fit: contain;
+  border: 1px solid #cccccc;
+  background-color: #ffffff;
+}
+
+.pdf-q-options {
+  margin-top: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.pdf-option-line {
+  display: flex;
+  align-items: flex-start;
+  gap: 4px;
+  padding-left: 8px;
+}
+
+.pdf-opt-label {
+  font-weight: bold;
+  flex-shrink: 0;
+}
+
+.pdf-opt-content {
+  flex: 1;
+}
+
+/* ========================================================
+   列印專屬規則 (@media print)
+   ======================================================== */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  /* 隱藏主應用程式的所有介面與頂部工具列 */
+  .app-header,
+  .main-content,
+  .pdf-modal-toolbar,
+  .modal-overlay:not(.pdf-modal-overlay),
+  .no-print {
+    display: none !important;
+  }
+
+  .pdf-modal-overlay {
+    position: static !important;
+    background: transparent !important;
+    padding: 0 !important;
+    display: block !important;
+    inset: auto !important;
+    z-index: auto !important;
+  }
+
+  .pdf-modal-scroll-area {
+    background: transparent !important;
+    padding: 0 !important;
+    display: block !important;
+    overflow: visible !important;
+  }
+
+  .pdf-paper-sheet {
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 100% !important;
+    min-height: auto !important;
+    background: transparent !important;
+  }
+
+  .pdf-question-item {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  .pdf-exam-header {
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+  }
+
+  @page {
+    size: A4 portrait;
+    margin: 15mm 15mm 15mm 15mm;
+  }
+}

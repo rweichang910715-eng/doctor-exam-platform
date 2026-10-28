@@ -68,6 +68,50 @@ const FLAG_MAP = {
   true: FLAG_TYPES[0]
 }
 
+// Helper to extract official exam title and meta for PDF export
+const getExamTitleMeta = (exam) => {
+  const yearStr = exam?.year || '113-2'
+  const parts = yearStr.split('-')
+  const yearNum = parts[0] || '113'
+  const termNum = parts[1] === '1' ? '一' : '二'
+  
+  const title = `${yearNum}年第${termNum}次專門職業及技術人員高等考試醫師牙醫師中醫師藥師考試分階段考試、醫事檢驗師、醫事放射師、物理治療師考試`
+  
+  const subject = exam?.subject || '醫學(三)'
+  
+  let code = '1301'
+  let category = '醫師(二)'
+  let fullSubjectName = `${subject}`
+  
+  if (subject.includes('醫學(一)')) {
+    code = '1101'
+    category = '醫師(一)'
+    fullSubjectName = '醫學（一）（包括解剖學、胚胎學、組織學、生理學、生物化學等科目知識及其臨床之應用）'
+  } else if (subject.includes('醫學(二)')) {
+    code = '1102'
+    category = '醫師(一)'
+    fullSubjectName = '醫學（二）（包括微生物學、免疫學、寄生蟲學、藥理學、病理學、公共衛生學等科目知識及其臨床之應用）'
+  } else if (subject.includes('醫學(三)')) {
+    code = '1301'
+    category = '醫師(二)'
+    fullSubjectName = '醫學（三）（包括內科、家庭醫學科等科目知識及其臨床之應用）'
+  } else if (subject.includes('醫學(四)')) {
+    code = '1302'
+    category = '醫師(二)'
+    fullSubjectName = '醫學（四）（包括小兒科、皮膚科、神經科、精神科等科目知識及其臨床之應用）'
+  } else if (subject.includes('醫學(五)')) {
+    code = '1303'
+    category = '醫師(二)'
+    fullSubjectName = '醫學（五）（包括外科、骨科、泌尿科等科目知識及其臨床之應用）'
+  } else if (subject.includes('醫學(六)')) {
+    code = '1304'
+    category = '醫師(二)'
+    fullSubjectName = '醫學（六）（包括麻醉科、眼科、耳鼻喉科、婦產科、復健科等科目知識及其臨床之應用）'
+  }
+  
+  return { title, code, category, fullSubjectName }
+}
+
 // Helper function to get data from local storage
 const getLocalStorage = (key, defaultValue) => {
   const stored = localStorage.getItem(key)
@@ -561,6 +605,16 @@ function App() {
   })
   const [toastMessage, setToastMessage] = useState('')
 
+  // PDF Export Modal State
+  const [showPdfExport, setShowPdfExport] = useState(false)
+  const [pdfExamData, setPdfExamData] = useState(null)
+
+  const handleOpenPdfExport = (examRecord = currentExam) => {
+    if (!examRecord) return
+    setPdfExamData(examRecord)
+    setShowPdfExport(true)
+  }
+
   // Apply theme to document element
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme)
@@ -941,11 +995,22 @@ function App() {
                       <p style={{ fontSize: '0.85rem' }}>{record.name}</p>
                       <p style={{ fontSize: '0.75rem' }}>{record.date}</p>
                     </div>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
                       <span className="history-score" style={{ color: record.score >= 60 ? 'var(--success)' : 'var(--danger)', fontSize: '0.9rem' }}>
                         {record.score}分
                       </span>
-                      <button className="btn btn-secondary btn-sm" style={{ padding: '0.2' }} onClick={() => viewHistoryDetail(record)}>詳解</button>
+                      <button className="btn btn-secondary btn-sm" style={{ padding: '0.2rem 0.5rem', fontSize: '0.8rem' }} onClick={() => viewHistoryDetail(record)}>詳解</button>
+                      <button 
+                        className="btn btn-secondary btn-sm" 
+                        style={{ padding: '0.2rem 0.5rem', fontSize: '0.8rem' }} 
+                        onClick={(e) => {
+                          e.stopPropagation()
+                          handleOpenPdfExport(record)
+                        }}
+                        title="匯出此份試卷 PDF"
+                      >
+                        匯出PDF
+                      </button>
                     </div>
                   </div>
                 ))}
@@ -1271,7 +1336,7 @@ function App() {
         </div>
 
         {/* Action Buttons */}
-        <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem' }}>
+        <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
           <button className="btn btn-primary" onClick={() => {
             setCurrentPage('dashboard')
             setCurrentExam(null)
@@ -1281,6 +1346,21 @@ function App() {
           </button>
           <button className="btn btn-outline" onClick={() => startSession(currentExam.year || '113-2', currentExam.subject || '醫學(三)', 'exam')}>
             重新挑戰
+          </button>
+          <button 
+            className="btn btn-secondary"
+            style={{ 
+              backgroundColor: 'var(--card-bg)', 
+              borderColor: 'var(--accent-color)', 
+              color: 'var(--accent-color)', 
+              fontWeight: 600,
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '0.4rem'
+            }}
+            onClick={() => handleOpenPdfExport(currentExam)}
+          >
+            <span>📄</span> 一鍵匯出 PDF
           </button>
         </div>
 
@@ -2454,6 +2534,191 @@ function App() {
           <span>✓</span> {toastMessage}
         </div>
       )}
+
+      {/* PDF Export & Print Modal */}
+      {showPdfExport && pdfExamData && (() => {
+        const meta = getExamTitleMeta(pdfExamData)
+        const score = pdfExamData.score !== undefined
+          ? pdfExamData.score 
+          : Math.round(((pdfExamData.correctCount || 0) / (pdfExamData.totalQuestions || 80)) * 100)
+        
+        const triangleCount = (pdfExamData.questions || []).filter(q => {
+          const f = pdfExamData.flagged?.[q.id]
+          return f === 'triangle' || f === 'flag' || f === true
+        }).length
+
+        const squareCount = (pdfExamData.questions || []).filter(q => {
+          const f = pdfExamData.flagged?.[q.id]
+          return f === 'square' || f === 'trap'
+        }).length
+
+        const circleCount = (pdfExamData.questions || []).filter(q => {
+          const f = pdfExamData.flagged?.[q.id]
+          return f === 'circle' || f === 'star'
+        }).length
+
+        const sortedQuestions = [...(pdfExamData.questions || [])].sort((a, b) => a.number - b.number)
+
+        return (
+          <div className="pdf-modal-overlay">
+            {/* Top Toolbar (Hidden when printing) */}
+            <div className="pdf-modal-toolbar no-print">
+              <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap' }}>
+                <h3 style={{ margin: 0, fontSize: '1.1rem', display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                  <span>📄</span> 考卷預覽與匯出 PDF
+                </h3>
+                <span style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
+                  ({pdfExamData.name} · 得分：{score} 分)
+                </span>
+              </div>
+              <div style={{ display: 'flex', gap: '0.75rem', alignItems: 'center' }}>
+                <button
+                  type="button"
+                  className="btn btn-primary"
+                  style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', padding: '0.45rem 1.1rem', fontSize: '0.9rem', fontWeight: 600 }}
+                  onClick={() => window.print()}
+                >
+                  <span>🖨️</span> 列印 / 儲存為 PDF
+                </button>
+                <button
+                  type="button"
+                  className="btn btn-secondary"
+                  style={{ padding: '0.45rem 1rem', fontSize: '0.9rem' }}
+                  onClick={() => setShowPdfExport(false)}
+                >
+                  ✕ 關閉預覽
+                </button>
+              </div>
+            </div>
+
+            {/* Scroll Area showing realistic A4 Paper */}
+            <div className="pdf-modal-scroll-area">
+              <div id="pdf-printable-doc" className="pdf-paper-sheet">
+                {/* Exam Official Header */}
+                <div className="pdf-exam-header">
+                  <h1 className="pdf-exam-title">
+                    {meta.title}
+                  </h1>
+
+                  <div className="pdf-header-body">
+                    <div className="pdf-header-left">
+                      <div className="pdf-meta-line">
+                        <strong>代&emsp;&emsp;號：</strong>{meta.code}
+                      </div>
+                      <div className="pdf-meta-line">
+                        <strong>類科名稱：</strong>{meta.category}
+                      </div>
+                      <div className="pdf-meta-line">
+                        <strong>科目名稱：</strong>{meta.fullSubjectName}
+                      </div>
+                      <div className="pdf-meta-line" style={{ display: 'flex', justifyContent: 'space-between', maxWidth: '480px' }}>
+                        <span><strong>考試時間：</strong>2小時</span>
+                        <span><strong>座號：</strong>_______________</span>
+                      </div>
+                      <div className="pdf-meta-line" style={{ color: '#444', fontSize: '9pt', marginTop: '4px' }}>
+                        ※注意：本試題禁止使用電子計算器
+                      </div>
+                      <div className="pdf-meta-line" style={{ color: '#444', fontSize: '9pt' }}>
+                        ※本試題為單一選擇題，請選出一個正確或最適當答案。
+                      </div>
+                    </div>
+
+                    {/* Score & Flag Summary (Right side) */}
+                    <div className="pdf-header-right">
+                      <div className="pdf-score-badge">
+                        {score}/100
+                      </div>
+                      <div className="pdf-flag-stat-row">
+                        <span style={{ color: '#f59e0b' }}>▲</span>
+                        <span style={{ color: '#d32f2f' }}>{triangleCount}</span>
+                      </div>
+                      <div className="pdf-flag-stat-row">
+                        <span style={{ color: '#10b981' }}>●</span>
+                        <span style={{ color: '#d32f2f' }}>{circleCount}</span>
+                      </div>
+                      <div className="pdf-flag-stat-row">
+                        <span style={{ color: '#ec4899' }}>■</span>
+                        <span style={{ color: '#2563eb' }}>{squareCount}</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Questions List */}
+                <div className="pdf-questions-container">
+                  {sortedQuestions.map((q, idx) => {
+                    const userAns = pdfExamData.answers?.[q.id]
+                    const isCorrect = isAnswerCorrect(q, userAns)
+                    const flagKey = pdfExamData.flagged?.[q.id]
+                    const flagInfo = flagKey ? (FLAG_MAP[flagKey] || FLAG_MAP['triangle']) : null
+
+                    return (
+                      <div key={q.id} className="pdf-question-item">
+                        {/* Left Margin Answer Column */}
+                        <div className="pdf-answer-col">
+                          {isCorrect ? (
+                            <div className="pdf-ans-row">
+                              <span className="pdf-ans-letter">
+                                {userAns || q.answer}
+                              </span>
+                              {flagInfo && (
+                                <span className="pdf-ans-flag" style={{ color: flagInfo.color }}>
+                                  {flagInfo.icon}
+                                </span>
+                              )}
+                            </div>
+                          ) : (
+                            <div className="pdf-ans-wrong-block">
+                              <div className="pdf-ans-row">
+                                <span className="pdf-ans-letter wrong-slashed">
+                                  {userAns || '—'}
+                                </span>
+                                {flagInfo && (
+                                  <span className="pdf-ans-flag" style={{ color: flagInfo.color }}>
+                                    {flagInfo.icon}
+                                  </span>
+                                )}
+                              </div>
+                              <div className="pdf-correct-letter">
+                                {q.answer ? q.answer.replace('ALL', '一律給分') : ''}
+                              </div>
+                            </div>
+                          )}
+                        </div>
+
+                        {/* Right Question Text & Options */}
+                        <div className="pdf-question-body">
+                          <div className="pdf-q-title">
+                            <span className="pdf-q-num">{idx + 1}.</span>
+                            <span>{q.text}</span>
+                          </div>
+
+                          {q.images && q.images.length > 0 && (
+                            <div className="pdf-q-images">
+                              {q.images.map((imgSrc, imgIdx) => (
+                                <img key={imgIdx} src={imgSrc} alt={`題目附圖 ${imgIdx + 1}`} className="pdf-inline-img" />
+                              ))}
+                            </div>
+                          )}
+
+                          <div className="pdf-q-options">
+                            {Object.entries(q.options || {}).map(([optLetter, optText]) => (
+                              <div key={optLetter} className="pdf-option-line">
+                                <span className="pdf-opt-label">{optLetter}.</span>
+                                <span className="pdf-opt-content">{optText}</span>
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      </div>
+                    )
+                  })}
+                </div>
+              </div>
+            </div>
+          </div>
+        )
+      })()}
     </div>
   )
 }
