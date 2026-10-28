@@ -49,19 +49,22 @@ const SUBSPECIALTY_GROUPS = [
   }
 ]
 
-// Marker / Flag types for exam navigation
+// Marker / Flag types for exam navigation (三角形、正方形、圓形)
 const FLAG_TYPES = [
-  { key: 'flag', icon: '🚩', label: '待確認', color: '#ef4444', bg: 'rgba(239, 68, 68, 0.12)', border: '#ef4444' },
-  { key: 'doubt', icon: '❓', label: '不確定', color: '#f59e0b', bg: 'rgba(245, 158, 11, 0.12)', border: '#f59e0b' },
-  { key: 'star', icon: '⭐', label: '重要題', color: '#eab308', bg: 'rgba(234, 179, 8, 0.12)', border: '#eab308' },
-  { key: 'trap', icon: '⚠️', label: '陷阱題', color: '#8b5cf6', bg: 'rgba(139, 92, 246, 0.12)', border: '#8b5cf6' },
+  { key: 'triangle', icon: '▲', label: '三角形', color: '#f59e0b', bg: 'rgba(245, 158, 11, 0.12)', border: '#f59e0b' },
+  { key: 'square', icon: '■', label: '正方形', color: '#ec4899', bg: 'rgba(236, 72, 153, 0.12)', border: '#ec4899' },
+  { key: 'circle', icon: '●', label: '圓形', color: '#10b981', bg: 'rgba(16, 185, 129, 0.12)', border: '#10b981' },
 ]
 
 const FLAG_MAP = {
+  triangle: FLAG_TYPES[0],
+  square: FLAG_TYPES[1],
+  circle: FLAG_TYPES[2],
+  // Backward compatibility
   flag: FLAG_TYPES[0],
-  doubt: FLAG_TYPES[1],
+  doubt: FLAG_TYPES[0],
+  trap: FLAG_TYPES[1],
   star: FLAG_TYPES[2],
-  trap: FLAG_TYPES[3],
   true: FLAG_TYPES[0]
 }
 
@@ -713,7 +716,7 @@ function App() {
       const newFlagged = { ...(prev.flagged || {}) }
       
       // If clicking the same flag, toggle it off
-      if (currentFlag === flagKey || (flagKey === 'flag' && currentFlag === true)) {
+      if (currentFlag === flagKey || (flagKey === 'triangle' && (currentFlag === 'flag' || currentFlag === true))) {
         delete newFlagged[questionId]
       } else if (flagKey) {
         newFlagged[questionId] = flagKey
@@ -728,7 +731,7 @@ function App() {
     })
   }
 
-  const handleToggleFlag = (questionId, flagKey = 'flag') => {
+  const handleToggleFlag = (questionId, flagKey = 'triangle') => {
     handleSetFlag(questionId, flagKey)
   }
 
@@ -983,7 +986,7 @@ function App() {
               <div className="flag-toolbar">
                 <span className="flag-toolbar-label">標記:</span>
                 {FLAG_TYPES.map(f => {
-                  const isSelected = currentFlagKey === f.key || (f.key === 'flag' && currentFlagKey === true)
+                  const isSelected = currentFlagKey === f.key || (f.key === 'triangle' && (currentFlagKey === 'flag' || currentFlagKey === true))
                   return (
                     <button
                       key={f.key}
@@ -997,7 +1000,7 @@ function App() {
                       onClick={() => handleSetFlag(q.id, f.key)}
                       title={isSelected ? `點擊取消 ${f.label} 標記` : `標記為 ${f.label}`}
                     >
-                      <span>{f.icon}</span>
+                      <span style={{ fontSize: '0.85rem' }}>{f.icon}</span>
                       <span className="flag-label-text">{f.label}</span>
                     </button>
                   )
@@ -1126,7 +1129,7 @@ function App() {
                   >
                     <span className="nav-btn-num">{idx + 1}</span>
                     {flagInfo && (
-                      <span className="nav-btn-flag">
+                      <span className="nav-btn-flag" style={{ color: flagInfo.color }}>
                         {flagInfo.icon}
                       </span>
                     )}
@@ -1150,7 +1153,7 @@ function App() {
                 {FLAG_TYPES.map(f => {
                   const count = currentExam.questions.filter(q => {
                     const fl = currentExam.flagged?.[q.id]
-                    return fl === f.key || (f.key === 'flag' && fl === true)
+                    return fl === f.key || (f.key === 'triangle' && (fl === 'flag' || fl === true))
                   }).length
                   return (
                     <span 

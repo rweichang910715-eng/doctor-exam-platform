@@ -534,12 +534,12 @@ h1, h2, h3, h4 {
 
 .nav-grid-btn .nav-btn-flag {
   position: absolute;
-  top: 1px;
+  top: 2px;
   right: 2px;
-  font-size: 0.72rem;
+  font-size: 0.65rem;
   line-height: 1;
   pointer-events: none;
-  filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.35));
+  filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.4));
 }
 
 /* Flag Toolbar */
