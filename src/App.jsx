@@ -615,6 +615,28 @@ function App() {
     setShowPdfExport(true)
   }
 
+  // 考選部 CBT 模式狀態
+  const [cbtMode, setCbtMode] = useState(() => getLocalStorage('med-exam-cbt-mode', false))
+  const [cbtFontSize, setCbtFontSize] = useState(() => getLocalStorage('med-exam-cbt-fontsize', 'md'))
+  const [eliminatedOptions, setEliminatedOptions] = useState({}) // { [questionId]: ['A', 'B'] }
+  const [isFullscreen, setIsFullscreen] = useState(false)
+
+  useEffect(() => {
+    localStorage.setItem('med-exam-cbt-mode', JSON.stringify(cbtMode))
+  }, [cbtMode])
+
+  useEffect(() => {
+    localStorage.setItem('med-exam-cbt-fontsize', JSON.stringify(cbtFontSize))
+  }, [cbtFontSize])
+
+  useEffect(() => {
+    const handleFsChange = () => {
+      setIsFullscreen(Boolean(document.fullscreenElement))
+    }
+    document.addEventListener('fullscreenchange', handleFsChange)
+    return () => document.removeEventListener('fullscreenchange', handleFsChange)
+  }, [])
+
   // Apply theme to document element
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme)
@@ -709,6 +731,8 @@ function App() {
       return
     }
 
+    setEliminatedOptions({})
+
     setCurrentExam({
       name: `${year}年 ${subject} 測驗`,
       year: year,
@@ -753,7 +777,49 @@ function App() {
     return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`
   }
 
+  // Keyboard navigation & shortcuts for CBT & Modern Exam (A/B/C/D, 1/2/3/4, Arrow keys)
+  useEffect(() => {
+    if (currentPage !== 'exam' || !currentExam) return
+
+    const handleKeyDown = (e) => {
+      if (['INPUT', 'TEXTAREA'].includes(e.target.tagName)) return
+
+      const q = currentExam.questions?.[currentExam.currentIndex]
+      if (!q) return
+
+      const key = e.key.toUpperCase()
+      const keyMap = { '1': 'A', '2': 'B', '3': 'C', '4': 'D', 'A': 'A', 'B': 'B', 'C': 'C', 'D': 'D' }
+
+      if (keyMap[key] && q.options && q.options[keyMap[key]]) {
+        handleSelectOption(q.id, keyMap[key])
+        return
+      }
+
+      if (e.key === 'ArrowLeft') {
+        if (currentExam.currentIndex > 0) {
+          setCurrentExam(prev => ({ ...prev, currentIndex: prev.currentIndex - 1 }))
+        }
+      } else if (e.key === 'ArrowRight') {
+        if (currentExam.currentIndex < currentExam.totalQuestions - 1) {
+          setCurrentExam(prev => ({ ...prev, currentIndex: prev.currentIndex + 1 }))
+        }
+      }
+    }
+
+    window.addEventListener('keydown', handleKeyDown)
+    return () => window.removeEventListener('keydown', handleKeyDown)
+  }, [currentPage, currentExam?.currentIndex, currentExam?.questions])
+
   const handleSelectOption = (questionId, optionLetter) => {
+    // Un-eliminate when selected
+    setEliminatedOptions(prev => {
+      const list = prev[questionId]
+      if (list && list.includes(optionLetter)) {
+        return { ...prev, [questionId]: list.filter(l => l !== optionLetter) }
+      }
+      return prev
+    })
+
     setCurrentExam(prev => ({
       ...prev,
       answers: {
@@ -761,6 +827,31 @@ function App() {
         [questionId]: optionLetter
       }
     }))
+  }
+
+  const handleToggleEliminate = (questionId, letter, e) => {
+    if (e) {
+      e.stopPropagation()
+      e.preventDefault()
+    }
+    setEliminatedOptions(prev => {
+      const list = prev[questionId] || []
+      if (list.includes(letter)) {
+        return { ...prev, [questionId]: list.filter(l => l !== letter) }
+      } else {
+        return { ...prev, [questionId]: [...list, letter] }
+      }
+    })
+  }
+
+  const handleToggleFullscreen = () => {
+    if (!document.fullscreenElement) {
+      document.documentElement.requestFullscreen().then(() => setIsFullscreen(true)).catch(() => {})
+    } else {
+      if (document.exitFullscreen) {
+        document.exitFullscreen().then(() => setIsFullscreen(false)).catch(() => {})
+      }
+    }
   }
 
   const handleSetFlag = (questionId, flagKey) => {
@@ -1022,14 +1113,338 @@ function App() {
     )
   }
 
-  // Active Session Renderer (Exam Mode or Practice Mode)
-  const renderExam = () => {
-    if (!currentExam) return null
+  // 考選部 CBT 擬真畫面渲染
+  const renderCbtExam = (q, userSelected, currentFlagKey, qEliminated) => {
+    const answeredCount = Object.keys(currentExam.answers).length
+    const unansweredCount = currentExam.totalQuestions - answeredCount
+    
+    const fontSizes = {
+      sm: { text: '1rem', option: '0.95rem', title: '1.05rem' },
+      md: { text: '1.12rem', option: '1.05rem', title: '1.15rem' },
+      lg: { text: '1.25rem', option: '1.15rem', title: '1.28rem' }
+    }
+    const currentFont = fontSizes[cbtFontSize] || fontSizes.md
 
-    const q = currentExam.questions[currentExam.currentIndex]
-    const userSelected = currentExam.answers[q.id]
-    const currentFlagKey = currentExam.flagged?.[q.id]
+    return (
+      <div className="cbt-fullscreen-wrapper animate-fade-in">
+        {/* 考選部經典頂部資訊列 */}
+        <div className="cbt-topbar">
+          <div className="cbt-topbar-left">
+            <span className="cbt-topbar-badge">🏛️ 考選部國家考試電腦化測驗 (CBT)</span>
+            <span className="cbt-topbar-info">
+              <strong>科目：</strong>{currentExam.subject}
+            </span>
+            <span className="cbt-topbar-info">
+              <strong>題號：</strong>第 {currentExam.currentIndex + 1} / {currentExam.totalQuestions} 題
+            </span>
+          </div>
 
+          {/* 倒數計時器 */}
+          <div className="cbt-topbar-center">
+            <div className="cbt-timer-block">
+              <span className="cbt-timer-label">剩餘時間</span>
+              <span className="cbt-timer-digits" style={{ color: currentExam.timeLeft < 300 ? '#ef4444' : '#22c55e' }}>
+                {formatTime(currentExam.timeLeft)}
+              </span>
+            </div>
+          </div>
+
+          {/* 右側操作工具 */}
+          <div className="cbt-topbar-right">
+            {/* 字體大小切換 */}
+            <div className="cbt-font-controls">
+              <span style={{ fontSize: '0.75rem', color: '#94a3b8' }}>字級:</span>
+              <button 
+                type="button"
+                className={`cbt-font-btn ${cbtFontSize === 'sm' ? 'active' : ''}`}
+                onClick={() => setCbtFontSize('sm')}
+              >
+                小
+              </button>
+              <button 
+                type="button"
+                className={`cbt-font-btn ${cbtFontSize === 'md' ? 'active' : ''}`}
+                onClick={() => setCbtFontSize('md')}
+              >
+                中
+              </button>
+              <button 
+                type="button"
+                className={`cbt-font-btn ${cbtFontSize === 'lg' ? 'active' : ''}`}
+                onClick={() => setCbtFontSize('lg')}
+              >
+                大
+              </button>
+            </div>
+
+            {/* 全螢幕切換 */}
+            <button 
+              type="button"
+              className="cbt-action-btn"
+              onClick={handleToggleFullscreen}
+              title={isFullscreen ? '結束全螢幕' : '全螢幕切換'}
+            >
+              {isFullscreen ? '⛶ 視窗' : '⛶ 全螢幕'}
+            </button>
+
+            {/* 切換現代模式 */}
+            <button 
+              type="button"
+              className="cbt-action-btn"
+              onClick={() => setCbtMode(false)}
+              title="切換回現代版面"
+            >
+              🎨 現代版
+            </button>
+
+            {/* 離開測驗 */}
+            <button 
+              type="button"
+              className="cbt-action-btn"
+              onClick={() => {
+                if (window.confirm('確定要中途離開測驗並返回儀表板嗎？（未交卷將不記錄成績）')) {
+                  setCurrentPage('dashboard')
+                  setCurrentExam(null)
+                  setSelectedYearTerm(null)
+                }
+              }}
+              title="中途結束測驗返回儀表板"
+              style={{ color: '#cbd5e1' }}
+            >
+              ✕ 離開
+            </button>
+
+            {/* 提前交卷按鈕 */}
+            <button 
+              type="button"
+              className="cbt-submit-btn"
+              onClick={() => {
+                if (window.confirm('確定要提前交卷結束考試嗎？')) {
+                  handleSubmitExam()
+                }
+              }}
+            >
+              提前交卷
+            </button>
+          </div>
+        </div>
+
+        {/* 考選部主畫面佈局：左側作答區、右側 80 題試題導覽 */}
+        <div className="cbt-body-layout">
+          {/* 左側題目卡片 */}
+          <div className="cbt-question-panel">
+            <div className="cbt-panel-header">
+              <div className="cbt-q-number-title" style={{ fontSize: currentFont.title }}>
+                【題號 {currentExam.currentIndex + 1}】 (單選題)
+              </div>
+
+              {/* 標記此題工具 */}
+              <div className="cbt-flag-selector">
+                <span style={{ fontSize: '0.8rem', color: '#475569', fontWeight: 600 }}>標記:</span>
+                {FLAG_TYPES.map(f => {
+                  const isSelected = currentFlagKey === f.key || (f.key === 'triangle' && (currentFlagKey === 'flag' || currentFlagKey === true))
+                  return (
+                    <button
+                      key={f.key}
+                      type="button"
+                      className={`cbt-flag-btn ${isSelected ? 'active' : ''}`}
+                      style={isSelected ? {
+                        backgroundColor: f.bg,
+                        borderColor: f.color,
+                        color: f.color
+                      } : {}}
+                      onClick={() => handleSetFlag(q.id, f.key)}
+                      title={isSelected ? `取消標記` : `標記 ${f.icon}`}
+                    >
+                      <span>{f.icon}</span>
+                    </button>
+                  )
+                })}
+                {currentFlagKey && (
+                  <button
+                    type="button"
+                    className="cbt-flag-clear"
+                    onClick={() => handleSetFlag(q.id, null)}
+                    title="清除標記"
+                  >
+                    ✕
+                  </button>
+                )}
+              </div>
+            </div>
+
+            {/* 題目內文 */}
+            <div className="cbt-question-content" style={{ fontSize: currentFont.text }}>
+              <div className="cbt-question-stem">
+                {q.text}
+              </div>
+
+              {/* 題目圖片 */}
+              {q.images && q.images.length > 0 && (
+                <div className="cbt-question-images">
+                  {q.images.map((imgSrc, idx) => (
+                    <img 
+                      key={idx}
+                      src={imgSrc}
+                      alt={`題目附圖 ${idx + 1}`}
+                      className="cbt-img-preview"
+                    />
+                  ))}
+                </div>
+              )}
+
+              {/* 選項列表 (CBT Radio Style with Strikethrough) */}
+              <div className="cbt-options-list">
+                {Object.entries(q.options).map(([letter, text]) => {
+                  const isSelected = userSelected === letter
+                  const isEliminated = qEliminated.includes(letter)
+
+                  return (
+                    <div
+                      key={letter}
+                      className={`cbt-option-row ${isSelected ? 'selected' : ''} ${isEliminated ? 'eliminated' : ''}`}
+                      onClick={() => handleSelectOption(q.id, letter)}
+                      onContextMenu={(e) => handleToggleEliminate(q.id, letter, e)}
+                    >
+                      <div className="cbt-radio-icon">
+                        {isSelected ? '●' : '○'}
+                      </div>
+                      <div className="cbt-option-text" style={{ fontSize: currentFont.option }}>
+                        <span className="cbt-option-letter">({letter})</span>
+                        <span className="cbt-option-body">{text}</span>
+                      </div>
+                      <button
+                        type="button"
+                        className={`cbt-eliminate-btn ${isEliminated ? 'active' : ''}`}
+                        onClick={(e) => handleToggleEliminate(q.id, letter, e)}
+                        title={isEliminated ? '復原此選項' : '刪去此選項 (亦可右鍵點選)'}
+                      >
+                        {isEliminated ? '復原' : '✕'}
+                      </button>
+                    </div>
+                  )
+                })}
+              </div>
+
+              {/* 鍵盤操作指引提示 */}
+              <div className="cbt-keyboard-hint">
+                💡 快速鍵提示：鍵盤按 <strong>A / B / C / D</strong> 或 <strong>1 / 2 / 3 / 4</strong> 選答；<strong>← / →</strong> 切換題號；對選項點右鍵或點 ✕ 可劃掉刪去選項
+              </div>
+            </div>
+
+            {/* 底部導覽控制列 */}
+            <div className="cbt-panel-footer">
+              <button
+                type="button"
+                className="cbt-nav-btn"
+                disabled={currentExam.currentIndex === 0}
+                onClick={() => setCurrentExam(prev => ({ ...prev, currentIndex: prev.currentIndex - 1 }))}
+              >
+                ◀ 上一題
+              </button>
+
+              <button
+                type="button"
+                className="cbt-nav-btn cbt-submit-footer-btn"
+                onClick={() => {
+                  if (window.confirm('確定要提前交卷嗎？')) {
+                    handleSubmitExam()
+                  }
+                }}
+              >
+                交卷
+              </button>
+
+              {currentExam.currentIndex === currentExam.totalQuestions - 1 ? (
+                <button 
+                  type="button"
+                  className="cbt-nav-btn cbt-primary-nav" 
+                  onClick={() => handleSubmitExam()}
+                >
+                  交卷
+                </button>
+              ) : (
+                <button
+                  type="button"
+                  className="cbt-nav-btn cbt-primary-nav"
+                  onClick={() => setCurrentExam(prev => ({ ...prev, currentIndex: prev.currentIndex + 1 }))}
+                >
+                  下一題 ▶
+                </button>
+              )}
+            </div>
+          </div>
+
+          {/* 右側 80 題快速導覽面板 */}
+          <div className="cbt-sidebar-panel">
+            <div className="cbt-sidebar-header">
+              <h4>試題總覽 ({currentExam.totalQuestions}題)</h4>
+              <div className="cbt-status-summary">
+                <span className="cbt-stat-tag answered">已答: {answeredCount}</span>
+                <span className="cbt-stat-tag unanswered">未答: {unansweredCount}</span>
+              </div>
+            </div>
+
+            <div className="cbt-palette-grid">
+              {currentExam.questions.map((question, idx) => {
+                const answered = currentExam.answers[question.id] !== undefined
+                const flagKey = currentExam.flagged?.[question.id]
+                const flagInfo = flagKey ? (FLAG_MAP[flagKey] || FLAG_MAP['triangle']) : null
+                const current = currentExam.currentIndex === idx
+
+                let btnClass = ''
+                if (answered) btnClass += ' answered'
+                if (flagInfo) btnClass += ' has-flag'
+                if (current) btnClass += ' current'
+
+                return (
+                  <button
+                    key={question.id}
+                    className={`cbt-palette-btn ${btnClass}`}
+                    style={flagInfo ? { borderColor: flagInfo.color } : {}}
+                    onClick={() => setCurrentExam(prev => ({ ...prev, currentIndex: idx }))}
+                    title={`第 ${idx + 1} 題${answered ? ' (已答)' : ' (未答)'}${flagInfo ? ` [${flagInfo.icon}]` : ''}`}
+                  >
+                    <span className="cbt-palette-num">{idx + 1}</span>
+                    {flagInfo && (
+                      <span className="cbt-palette-flag" style={{ color: flagInfo.color }}>
+                        {flagInfo.icon}
+                      </span>
+                    )}
+                  </button>
+                )
+              })}
+            </div>
+
+            {/* 標記統計圖例 */}
+            <div className="cbt-sidebar-legend">
+              <div style={{ display: 'flex', gap: '0.4rem', flexWrap: 'wrap', marginBottom: '0.5rem' }}>
+                <span className="cbt-legend-item"><span className="cbt-legend-box answered"></span> 已作答</span>
+                <span className="cbt-legend-item"><span className="cbt-legend-box unanswered"></span> 未作答</span>
+                <span className="cbt-legend-item"><span className="cbt-legend-box current"></span> 目前題</span>
+              </div>
+              <div style={{ display: 'flex', gap: '0.4rem', flexWrap: 'wrap' }}>
+                {FLAG_TYPES.map(f => {
+                  const count = currentExam.questions.filter(q => {
+                    const fl = currentExam.flagged?.[q.id]
+                    return fl === f.key || (f.key === 'triangle' && (fl === 'flag' || fl === true))
+                  }).length
+                  return (
+                    <span key={f.key} className="cbt-legend-flag" style={{ color: f.color }}>
+                      {f.icon} {count}
+                    </span>
+                  )
+                })}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    )
+  }
+
+  // 現代簡潔模式渲染
+  const renderModernExam = (q, userSelected, currentFlagKey, qEliminated) => {
     return (
       <div className="exam-layout animate-fade-in">
         <div className="card question-card">
@@ -1039,6 +1454,16 @@ function App() {
               <span className="question-meta-badge">第 {currentExam.currentIndex + 1} / {currentExam.totalQuestions} 題</span>
             </div>
             <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }}>
+              <button
+                type="button"
+                className="btn btn-secondary btn-sm"
+                style={{ display: 'inline-flex', alignItems: 'center', gap: '0.3rem', fontSize: '0.8rem', padding: '0.35rem 0.65rem' }}
+                onClick={() => setCbtMode(true)}
+                title="切換為考選部電腦化測驗 (CBT) 擬真介面"
+              >
+                <span>🏛️</span> 考選部模式
+              </button>
+
               <div className="flag-toolbar">
                 {FLAG_TYPES.map(f => {
                   const isSelected = currentFlagKey === f.key || (f.key === 'triangle' && (currentFlagKey === 'flag' || currentFlagKey === true))
@@ -1097,17 +1522,43 @@ function App() {
             <div className="options-list">
               {Object.entries(q.options).map(([letter, text]) => {
                 const isSelected = userSelected === letter
+                const isEliminated = qEliminated.includes(letter)
 
                 return (
-                  <button
-                    key={letter}
-                    className={`option-button ${isSelected ? 'selected' : ''}`}
-                    onClick={() => handleSelectOption(q.id, letter)}
-                  >
-                    <strong style={{ marginRight: '0.5rem' }}>({letter})</strong> {text}
-                  </button>
+                  <div key={letter} style={{ position: 'relative', display: 'flex', alignItems: 'center' }}>
+                    <button
+                      className={`option-button ${isSelected ? 'selected' : ''}`}
+                      style={isEliminated ? { textDecoration: 'line-through', opacity: 0.45 } : {}}
+                      onClick={() => handleSelectOption(q.id, letter)}
+                      onContextMenu={(e) => handleToggleEliminate(q.id, letter, e)}
+                    >
+                      <strong style={{ marginRight: '0.5rem' }}>({letter})</strong> {text}
+                    </button>
+                    <button
+                      type="button"
+                      onClick={(e) => handleToggleEliminate(q.id, letter, e)}
+                      style={{
+                        position: 'absolute',
+                        right: '12px',
+                        background: 'transparent',
+                        border: 'none',
+                        color: isEliminated ? 'var(--danger)' : 'var(--text-tertiary)',
+                        cursor: 'pointer',
+                        fontSize: '0.75rem',
+                        padding: '4px',
+                        zIndex: 2
+                      }}
+                      title={isEliminated ? '復原此選項' : '刪去此選項 (亦可右鍵點選)'}
+                    >
+                      {isEliminated ? '復原' : '✕'}
+                    </button>
+                  </div>
                 )
               })}
+            </div>
+
+            <div style={{ fontSize: '0.75rem', color: 'var(--text-tertiary)', marginTop: '0.5rem', textAlign: 'right' }}>
+              💡 提示：按鍵盤 A/B/C/D 選答、←/→ 換題，對選項右鍵可劃線刪去
             </div>
           </div>
 
@@ -1165,7 +1616,7 @@ function App() {
               {currentExam.questions.map((question, idx) => {
                 const answered = currentExam.answers[question.id] !== undefined
                 const flagKey = currentExam.flagged?.[question.id]
-                const flagInfo = flagKey ? (FLAG_MAP[flagKey] || FLAG_MAP['flag']) : null
+                const flagInfo = flagKey ? (FLAG_MAP[flagKey] || FLAG_MAP['triangle']) : null
                 const current = currentExam.currentIndex === idx
                 
                 let btnClass = ''
@@ -1236,6 +1687,22 @@ function App() {
         </div>
       </div>
     )
+  }
+
+  // Active Session Renderer (Exam Mode or Practice Mode)
+  const renderExam = () => {
+    if (!currentExam) return null
+
+    const q = currentExam.questions[currentExam.currentIndex]
+    const userSelected = currentExam.answers[q.id]
+    const currentFlagKey = currentExam.flagged?.[q.id]
+    const qEliminated = eliminatedOptions[q.id] || []
+
+    if (cbtMode) {
+      return renderCbtExam(q, userSelected, currentFlagKey, qEliminated)
+    }
+
+    return renderModernExam(q, userSelected, currentFlagKey, qEliminated)
   }
 
   // Result Summary Renderer with Specialty Breakdown
@@ -2266,71 +2733,75 @@ function App() {
     )
   }
 
-  return (
-    <div className="app-container">
-      <header className="app-navbar">
-        <div className="brand" onClick={() => {
-          setCurrentPage('dashboard')
-          setCurrentExam(null)
-          setSelectedYearTerm(null)
-        }}>
-          🩺 醫師二階國考模擬平台
-        </div>
-        <nav className="nav-links">
-          <button 
-            className={`nav-item ${currentPage === 'dashboard' ? 'active' : ''}`}
-            onClick={() => {
-              setCurrentPage('dashboard')
-              setCurrentExam(null)
-              setSelectedYearTerm(null)
-            }}
-          >
-            儀表板
-          </button>
-          <button 
-            className={`nav-item ${currentPage === 'search' ? 'active' : ''}`}
-            onClick={() => {
-              setCurrentPage('search')
-              setCurrentExam(null)
-              setSelectedYearTerm(null)
-            }}
-          >
-            題庫搜尋
-          </button>
-          <button 
-            className={`nav-item ${currentPage === 'review' ? 'active' : ''}`}
-            onClick={() => {
-              setWrongAnswers({})
-              setCurrentPage('review')
-              setCurrentExam(null)
-              setSelectedYearTerm(null)
-            }}
-          >
-            錯題本 ({wrongQuestions.length})
-          </button>
-          <button 
-            className="btn btn-secondary btn-sm"
-            onClick={() => setShowClearModal(true)}
-            style={{ 
-              color: 'var(--danger)', 
-              borderColor: 'rgba(239, 68, 68, 0.35)', 
-              padding: '0.25rem 0.6rem', 
-              fontSize: '0.8rem',
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: '0.3rem'
-            }}
-            title="一鍵清除使用紀錄"
-          >
-            🗑️ 清除紀錄
-          </button>
-          <button className="theme-toggle-btn" onClick={toggleTheme} aria-label="切換主題" style={{ background: 'none', border: 'none', cursor: 'pointer', fontSize: '1.2rem', padding: '0 0.5rem' }}>
-            {theme === 'light' ? '🌙' : '☀️'}
-          </button>
-        </nav>
-      </header>
+  const isCbtActive = currentPage === 'exam' && cbtMode
 
-      <main className="main-content">
+  return (
+    <div className={`app-container ${isCbtActive ? 'cbt-active-view' : ''}`}>
+      {!isCbtActive && (
+        <header className="app-navbar">
+          <div className="brand" onClick={() => {
+            setCurrentPage('dashboard')
+            setCurrentExam(null)
+            setSelectedYearTerm(null)
+          }}>
+            🩺 醫師二階國考模擬平台
+          </div>
+          <nav className="nav-links">
+            <button 
+              className={`nav-item ${currentPage === 'dashboard' ? 'active' : ''}`}
+              onClick={() => {
+                setCurrentPage('dashboard')
+                setCurrentExam(null)
+                setSelectedYearTerm(null)
+              }}
+            >
+              儀表板
+            </button>
+            <button 
+              className={`nav-item ${currentPage === 'search' ? 'active' : ''}`}
+              onClick={() => {
+                setCurrentPage('search')
+                setCurrentExam(null)
+                setSelectedYearTerm(null)
+              }}
+            >
+              題庫搜尋
+            </button>
+            <button 
+              className={`nav-item ${currentPage === 'review' ? 'active' : ''}`}
+              onClick={() => {
+                setWrongAnswers({})
+                setCurrentPage('review')
+                setCurrentExam(null)
+                setSelectedYearTerm(null)
+              }}
+            >
+              錯題本 ({wrongQuestions.length})
+            </button>
+            <button 
+              className="btn btn-secondary btn-sm"
+              onClick={() => setShowClearModal(true)}
+              style={{ 
+                color: 'var(--danger)', 
+                borderColor: 'rgba(239, 68, 68, 0.35)', 
+                padding: '0.25rem 0.6rem', 
+                fontSize: '0.8rem',
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '0.3rem'
+              }}
+              title="一鍵清除使用紀錄"
+            >
+              🗑️ 清除紀錄
+            </button>
+            <button className="theme-toggle-btn" onClick={toggleTheme} aria-label="切換主題" style={{ background: 'none', border: 'none', cursor: 'pointer', fontSize: '1.2rem', padding: '0 0.5rem' }}>
+              {theme === 'light' ? '🌙' : '☀️'}
+            </button>
+          </nav>
+        </header>
+      )}
+
+      <main className={`main-content ${isCbtActive ? 'cbt-main-content' : ''}`}>
         {currentPage === 'dashboard' && renderDashboard()}
         {currentPage === 'exam' && renderExam()}
         {currentPage === 'result' && renderResult()}
@@ -2369,11 +2840,30 @@ function App() {
                       </p>
                       <span className="question-meta-badge" style={{ marginTop: '0.5rem', display: 'inline-block', fontSize: '0.75rem' }}>共 {count} 題</span>
                     </div>
-                    <div style={{ display: 'flex', gap: '0.5rem', flexShrink: 0 }}>
-                      <button className="btn btn-primary btn-sm" onClick={() => {
-                        startSession(selectedYearTerm, subject, 'exam')
-                        setSelectedYearTerm(null)
-                      }}>模擬考試</button>
+                    <div style={{ display: 'flex', gap: '0.5rem', flexShrink: 0, flexWrap: 'wrap', justifyContent: 'flex-end' }}>
+                      <button 
+                        className="btn btn-secondary btn-sm"
+                        style={{ display: 'inline-flex', alignItems: 'center', gap: '0.3rem' }}
+                        onClick={() => {
+                          setCbtMode(true)
+                          startSession(selectedYearTerm, subject, 'exam')
+                          setSelectedYearTerm(null)
+                        }}
+                        title="以考選部電腦化測驗擬真介面進行考試"
+                      >
+                        🏛️ 考選部模式
+                      </button>
+                      <button 
+                        className="btn btn-primary btn-sm" 
+                        onClick={() => {
+                          setCbtMode(false)
+                          startSession(selectedYearTerm, subject, 'exam')
+                          setSelectedYearTerm(null)
+                        }}
+                        title="以現代版卡片介面進行考試"
+                      >
+                        模擬考試
+                      </button>
                     </div>
                   </div>
                 )
