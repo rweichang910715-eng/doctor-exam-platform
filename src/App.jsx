@@ -1390,7 +1390,7 @@ function App() {
               onClick={() => setResultViewMode('single')}
               style={{ display: 'inline-flex', alignItems: 'center', gap: '0.35rem', fontWeight: 600, fontSize: '0.85rem' }}
             >
-              <span>🔍</span> 逐題檢視 (模擬介面)
+              <span>🔍</span> 逐題檢視
             </button>
             <button 
               className={`btn btn-sm ${resultViewMode === 'list' ? 'btn-primary' : 'btn-secondary'}`}
@@ -1653,7 +1653,7 @@ function App() {
                   </div>
                 </div>
 
-                <div className="question-nav-grid" style={{ gridTemplateColumns: 'repeat(5, 1fr)', maxHeight: '420px', overflowY: 'auto', paddingRight: '2px' }}>
+                <div className="question-nav-grid" style={{ gridTemplateColumns: 'repeat(5, 1fr)', maxHeight: '460px', overflowY: 'auto', overflowX: 'hidden', padding: '0.25rem 0.25rem 0.25rem 0.15rem' }}>
                   {currentExam.questions.map((question, idx) => {
                     const userAns = currentExam.answers[question.id]
                     const isCorrect = isAnswerCorrect(question, userAns)
@@ -1666,35 +1666,25 @@ function App() {
                     return (
                       <button
                         key={question.id}
+                        className={`nav-grid-btn ${isCurrent ? 'current' : ''}`}
                         style={{
-                          position: 'relative',
-                          aspectRatio: '1',
-                          borderRadius: '6px',
-                          border: isCurrent ? '2px solid var(--accent-color)' : (isCorrect ? '1px solid rgba(34, 197, 94, 0.4)' : '1px solid rgba(239, 68, 68, 0.4)'),
+                          border: isCurrent ? '2.5px solid var(--accent-color)' : (isCorrect ? '1.5px solid rgba(34, 197, 94, 0.45)' : '1.5px solid rgba(239, 68, 68, 0.45)'),
                           backgroundColor: isCorrect ? 'var(--success-light)' : 'var(--danger-light)',
                           color: isCorrect ? 'var(--success)' : 'var(--danger)',
-                          fontWeight: 700,
-                          fontSize: '0.85rem',
-                          cursor: 'pointer',
                           opacity: isDimmed ? 0.35 : 1,
-                          transform: isCurrent ? 'scale(1.06)' : 'scale(1)',
-                          transition: 'all 0.15s ease',
-                          display: 'flex',
-                          alignItems: 'center',
-                          justifyContent: 'center',
                           boxShadow: isCurrent ? '0 0 0 2px var(--accent-color)' : 'none'
                         }}
                         onClick={() => setResultQuestionIndex(idx)}
-                        title={`第 ${idx + 1} 題：${isCorrect ? '答對' : '答錯'}${isInWrong ? ' (已在錯題本)' : ''}`}
+                        title={`第 ${idx + 1} 題：${isCorrect ? '答對' : '答錯'}${isInWrong ? ' (已在錯題本)' : ''}${flagInfo ? ` [${flagInfo.icon}]` : ''}`}
                       >
-                        <span>{idx + 1}</span>
+                        <span className="nav-btn-num">{idx + 1}</span>
                         {flagInfo && (
-                          <span style={{ position: 'absolute', top: '1px', right: '2px', fontSize: '0.65rem', color: flagInfo.color }}>
+                          <span className="nav-btn-flag" style={{ color: flagInfo.color }}>
                             {flagInfo.icon}
                           </span>
                         )}
                         {isInWrong && (
-                          <span style={{ position: 'absolute', bottom: '1px', left: '2px', fontSize: '0.55rem' }}>
+                          <span className="nav-btn-wrongbook">
                             📕
                           </span>
                         )}
