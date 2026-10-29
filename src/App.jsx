@@ -594,6 +594,9 @@ function App() {
 
   // Result page filter state ('all' | 'wrong' | 'correct' | specific chapter name)
   const [resultFilter, setResultFilter] = useState('all')
+  const [resultViewMode, setResultViewMode] = useState('single') // 'single' (逐題檢視) | 'list' (一頁式清單)
+  const [resultQuestionIndex, setResultQuestionIndex] = useState(0)
+  const [pendingWrongPrompt, setPendingWrongPrompt] = useState(null) // { question, questionIndex, targetIndex, isLast }
 
   // Clear usage records modal and toast state
   const [showClearModal, setShowClearModal] = useState(false)
@@ -831,24 +834,89 @@ function App() {
 
     setHistory(prev => [newRecord, ...prev])
     
-    // Add wrong question IDs to wrongQuestions list
-    setWrongQuestions(prev => {
-      const updated = [...prev]
-      incorrectIds.forEach(id => {
-        if (!updated.includes(id)) {
-          updated.push(id)
-        }
-      })
-      return updated
-    })
+    // NOTE: Per user request, wrong questions are no longer automatically added to wrongQuestions.
+    // Instead, the user is prompted when reviewing questions one by one.
 
     setCurrentExam(newRecord) // Store result in currentExam to display in results page
+    setResultQuestionIndex(0)
+    setResultViewMode('single')
+    setResultFilter('all')
+    setPendingWrongPrompt(null)
     setCurrentPage('result')
   }
 
   const viewHistoryDetail = (record) => {
     setCurrentExam(record)
+    setResultQuestionIndex(0)
+    setResultViewMode('single')
+    setResultFilter('all')
+    setPendingWrongPrompt(null)
     setCurrentPage('result')
+  }
+
+  // Toggle question inclusion in Wrong Questions book
+  const toggleWrongQuestion = (questionId) => {
+    setWrongQuestions(prev => {
+      if (prev.includes(questionId)) {
+        return prev.filter(id => id !== questionId)
+      } else {
+        return [...prev, questionId]
+      }
+    })
+  }
+
+  // Next Question in Question-by-Question Review Mode
+  const handleResultNext = () => {
+    if (!currentExam || !currentExam.questions) return
+    const currentQ = currentExam.questions[resultQuestionIndex]
+    if (!currentQ) return
+
+    const userAns = currentExam.answers[currentQ.id]
+    const isCorrect = isAnswerCorrect(currentQ, userAns)
+    const isAlreadyInWrong = wrongQuestions.includes(currentQ.id)
+
+    const isLast = resultQuestionIndex === currentExam.totalQuestions - 1
+    const targetIndex = isLast ? resultQuestionIndex : resultQuestionIndex + 1
+
+    // If current question is wrong and NOT yet in wrong questions book, prompt user!
+    if (!isCorrect && !isAlreadyInWrong) {
+      setPendingWrongPrompt({
+        question: currentQ,
+        questionIndex: resultQuestionIndex,
+        targetIndex: targetIndex,
+        isLast: isLast
+      })
+      return
+    }
+
+    if (!isLast) {
+      setResultQuestionIndex(targetIndex)
+    } else {
+      setResultViewMode('list')
+    }
+  }
+
+  // Handle wrong questions prompt confirmation / refusal
+  const handleResolveWrongPrompt = (addToWrong) => {
+    if (!pendingWrongPrompt) return
+    const { question, targetIndex, isLast } = pendingWrongPrompt
+
+    if (addToWrong) {
+      setWrongQuestions(prev => {
+        if (!prev.includes(question.id)) {
+          return [...prev, question.id]
+        }
+        return prev
+      })
+    }
+
+    setPendingWrongPrompt(null)
+
+    if (isLast) {
+      setResultViewMode('list')
+    } else if (targetIndex !== undefined) {
+      setResultQuestionIndex(targetIndex)
+    }
   }
 
   // Handle Search Input with Disease/Medical Term Filter
@@ -1238,7 +1306,7 @@ function App() {
     )
   }
 
-  // Result Summary Renderer with Specialty Breakdown
+  // Result Summary Renderer with Question-by-Question Review Mode
   const renderResult = () => {
     if (!currentExam) return null
 
@@ -1286,7 +1354,7 @@ function App() {
       return b.total - a.total
     })
 
-    // Filter questions to render in review list
+    // Filter questions to render in list view
     const filteredQuestions = currentExam.questions.map((q, idx) => ({ q, idx })).filter(({ q }) => {
       const userAns = currentExam.answers[q.id]
       const isCorrect = isAnswerCorrect(q, userAns)
@@ -1298,365 +1366,804 @@ function App() {
       return chap === resultFilter
     })
 
+    // Current question data for single question review mode
+    const currentQ = currentExam.questions[resultQuestionIndex] || currentExam.questions[0]
+    const currentUserAns = currentExam.answers[currentQ.id]
+    const currentIsCorrect = isAnswerCorrect(currentQ, currentUserAns)
+    const currentBookmarked = bookmarks.includes(currentQ.id)
+    const currentInWrong = wrongQuestions.includes(currentQ.id)
+    const currentFlagKey = currentExam.flagged?.[currentQ.id]
+    const currentFlagInfo = currentFlagKey ? (FLAG_MAP[currentFlagKey] || FLAG_MAP['triangle']) : null
+    const currentChap = currentQ.chapter || getQuestionSubspecialty(currentQ) || '一般外科'
+    const currentSec = currentQ.section || '專科'
+
     return (
-      <div className="result-container animate-fade-in" style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
-        {/* Main Score Card */}
-        <div className="card result-header-card" style={{ textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1rem' }}>
-          <h2>測驗結果報告</h2>
-          <div className="result-score-circle">
-            <span>{currentExam.score}</span>
-            <span>得分</span>
+      <div className="result-container animate-fade-in" style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
+        {/* Top Control & Mode Switcher Bar */}
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.75rem', paddingBottom: '0.75rem', borderBottom: '1px solid var(--border-color)' }}>
+          <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }}>
+            <span style={{ fontWeight: 700, fontSize: '1.05rem', color: 'var(--text-primary)', marginRight: '0.25rem' }}>
+              📊 測驗檢視：
+            </span>
+            <button 
+              className={`btn btn-sm ${resultViewMode === 'single' ? 'btn-primary' : 'btn-secondary'}`}
+              onClick={() => setResultViewMode('single')}
+              style={{ display: 'inline-flex', alignItems: 'center', gap: '0.35rem', fontWeight: 600, fontSize: '0.85rem' }}
+            >
+              <span>🔍</span> 逐題檢視 (模擬介面)
+            </button>
+            <button 
+              className={`btn btn-sm ${resultViewMode === 'list' ? 'btn-primary' : 'btn-secondary'}`}
+              onClick={() => setResultViewMode('list')}
+              style={{ display: 'inline-flex', alignItems: 'center', gap: '0.35rem', fontWeight: 600, fontSize: '0.85rem' }}
+            >
+              <span>📜</span> 成績報告與一頁式清單
+            </button>
           </div>
-          <div className="result-meta-grid" style={{ display: 'flex', gap: '2rem', justifyContent: 'center', width: '100%', maxWidth: '600px', marginTop: '1rem' }}>
-            <div className="result-meta-item" style={{ flex: 1 }}>
-              <p style={{ fontSize: '1.5rem', fontWeight: 'bold', color: 'var(--success)' }}>{currentExam.correctCount} / {currentExam.totalQuestions}</p>
-              <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>答對題數</p>
-            </div>
-            <div className="result-meta-item" style={{ flex: 1 }}>
-              <p style={{ fontSize: '1.5rem', fontWeight: 'bold', color: totalWrongCount > 0 ? 'var(--danger)' : 'var(--success)' }}>{totalWrongCount}</p>
-              <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>答錯題數</p>
-            </div>
-            <div className="result-meta-item" style={{ flex: 1 }}>
-              <p style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>{Math.round((currentExam.correctCount / currentExam.totalQuestions) * 100)}%</p>
-              <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>正確率</p>
-            </div>
+
+          <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }}>
+            <button 
+              className="btn btn-secondary btn-sm"
+              style={{ 
+                backgroundColor: 'var(--card-bg)', 
+                borderColor: 'var(--accent-color)', 
+                color: 'var(--accent-color)', 
+                fontWeight: 600,
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '0.35rem'
+              }}
+              onClick={() => handleOpenPdfExport(currentExam)}
+            >
+              <span>📄</span> 匯出 PDF
+            </button>
+            <button 
+              className="btn btn-secondary btn-sm" 
+              onClick={() => {
+                setCurrentPage('dashboard')
+                setCurrentExam(null)
+                setResultFilter('all')
+              }}
+            >
+              回首頁
+            </button>
           </div>
         </div>
 
-        {/* Action Buttons */}
-        <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
-          <button className="btn btn-primary" onClick={() => {
-            setCurrentPage('dashboard')
-            setCurrentExam(null)
-            setResultFilter('all')
-          }}>
-            回首頁
-          </button>
-          <button className="btn btn-outline" onClick={() => startSession(currentExam.year || '113-2', currentExam.subject || '醫學(三)', 'exam')}>
-            重新挑戰
-          </button>
-          <button 
-            className="btn btn-secondary"
-            style={{ 
-              backgroundColor: 'var(--card-bg)', 
-              borderColor: 'var(--accent-color)', 
-              color: 'var(--accent-color)', 
-              fontWeight: 600,
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: '0.4rem'
-            }}
-            onClick={() => handleOpenPdfExport(currentExam)}
-          >
-            <span>📄</span> 一鍵匯出 PDF
-          </button>
-        </div>
+        {/* Mode 1: 逐題檢視 (跟模擬考試介面一樣) */}
+        {resultViewMode === 'single' && (
+          <div className="exam-layout animate-fade-in">
+            {/* Left: Question Card */}
+            <div className="card question-card">
+              <div className="question-header">
+                <div>
+                  <span className="question-meta-badge" style={{ marginRight: '0.5rem' }}>{currentExam.name}</span>
+                  <span className="question-meta-badge">第 {resultQuestionIndex + 1} / {currentExam.totalQuestions} 題</span>
+                  <span className="tag tag-green" style={{ backgroundColor: 'var(--success-light)', color: 'var(--success)', fontWeight: 600, fontSize: '0.8rem', marginLeft: '0.5rem' }}>
+                    🩺 {currentChap}
+                  </span>
+                  <span className="tag" style={{ background: 'var(--bg-tertiary)', color: 'var(--text-secondary)', fontSize: '0.75rem', marginLeft: '0.3rem' }}>
+                    {currentSec}
+                  </span>
+                </div>
 
-        {/* Specialty Breakdown Card */}
-        <div className="card" style={{ padding: '1.5rem' }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem', marginBottom: '1.25rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '0.75rem' }}>
-            <div>
-              <h3 style={{ margin: 0, fontSize: '1.2rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                <span>📊 各專科錯題與落點分析</span>
-                <span style={{ fontSize: '0.85rem', fontWeight: 'normal', color: 'var(--text-secondary)' }}>
-                  (共涵蓋 {specialtyList.length} 個專科)
-                </span>
-              </h3>
-              <p style={{ margin: '0.35rem 0 0 0', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-                點擊專科卡片或題號標籤，可直接過濾下方題目進行精準弱點檢討
-              </p>
-            </div>
+                <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }}>
+                  {/* Flag indicator if present */}
+                  {currentFlagInfo && (
+                    <span 
+                      className="tag" 
+                      style={{ 
+                        backgroundColor: currentFlagInfo.bg, 
+                        color: currentFlagInfo.color, 
+                        border: `1px solid ${currentFlagInfo.color}`,
+                        fontWeight: 700,
+                        fontSize: '0.85rem'
+                      }}
+                    >
+                      {currentFlagInfo.icon}
+                    </span>
+                  )}
 
-            {resultFilter !== 'all' && (
-              <button 
-                className="btn btn-secondary btn-sm" 
-                style={{ fontSize: '0.8rem', padding: '0.3rem 0.6rem' }}
-                onClick={() => setResultFilter('all')}
-              >
-                ✕ 清除篩選（顯示全部）
-              </button>
-            )}
-          </div>
+                  {/* Bookmark button */}
+                  <button 
+                    className="btn btn-secondary btn-sm" 
+                    style={{ padding: '0.25rem 0.5rem', fontSize: '0.8rem', color: currentBookmarked ? 'var(--success)' : '' }}
+                    onClick={() => toggleBookmark(currentQ.id)}
+                  >
+                    {currentBookmarked ? '★ 已收藏' : '☆ 收藏'}
+                  </button>
 
-          {/* Specialty Grid */}
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '1rem' }}>
-            {specialtyList.map(spec => {
-              const accuracy = Math.round((spec.correct / spec.total) * 100)
-              const isSelected = resultFilter === spec.chapter
-              const progressColor = accuracy >= 80 ? 'var(--success)' : (accuracy >= 60 ? 'var(--warning)' : 'var(--danger)')
+                  {/* Wrong question book toggle button */}
+                  <button 
+                    className="btn btn-secondary btn-sm" 
+                    style={{ 
+                      padding: '0.25rem 0.5rem', 
+                      fontSize: '0.8rem', 
+                      color: currentInWrong ? 'var(--danger)' : 'var(--text-secondary)',
+                      borderColor: currentInWrong ? 'var(--danger)' : 'var(--border-color)'
+                    }}
+                    onClick={() => toggleWrongQuestion(currentQ.id)}
+                    title={currentInWrong ? '從錯題本移除' : '加入錯題本'}
+                  >
+                    {currentInWrong ? '📕 已在錯題本' : '➕ 加入錯題本'}
+                  </button>
 
-              return (
-                <div 
-                  key={spec.chapter} 
-                  className="card"
-                  style={{
-                    padding: '1rem',
-                    background: isSelected ? 'var(--bg-tertiary)' : 'var(--bg-secondary)',
-                    border: isSelected ? '2px solid var(--accent-color)' : '1px solid var(--border-color)',
-                    borderRadius: 'var(--radius-md)',
-                    cursor: 'pointer',
-                    transition: 'all 0.2s ease',
-                    display: 'flex',
-                    flexDirection: 'column',
-                    justifyContent: 'space-between',
-                    gap: '0.75rem',
-                    boxShadow: isSelected ? 'var(--shadow-md)' : 'none'
-                  }}
-                  onClick={() => setResultFilter(isSelected ? 'all' : spec.chapter)}
-                >
-                  {/* Card Header */}
-                  <div>
-                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '0.4rem' }}>
-                      <span style={{ fontWeight: 700, fontSize: '1.05rem', color: 'var(--text-primary)' }}>
-                        🩺 {spec.chapter}
-                      </span>
-                      <span className="tag" style={{ fontSize: '0.72rem', background: 'var(--bg-tertiary)', color: 'var(--text-secondary)', padding: '0.15rem 0.4rem' }}>
-                        {spec.section}
-                      </span>
-                    </div>
+                  {/* Answer Correct/Wrong status badge */}
+                  <span 
+                    className={`tag ${currentIsCorrect ? 'tag-green' : 'tag-red'}`} 
+                    style={{ 
+                      backgroundColor: currentIsCorrect ? 'var(--success-light)' : 'var(--danger-light)', 
+                      color: currentIsCorrect ? 'var(--success)' : 'var(--danger)', 
+                      padding: '0.25rem 0.6rem', 
+                      borderRadius: '4px', 
+                      fontSize: '0.85rem', 
+                      fontWeight: 'bold' 
+                    }}
+                  >
+                    {currentIsCorrect ? '✓ 答對' : '✗ 答錯'}
+                  </span>
+                </div>
+              </div>
 
-                    {/* Wrong vs Total Display */}
-                    <div style={{ display: 'flex', alignItems: 'baseline', gap: '0.5rem', marginBottom: '0.5rem' }}>
-                      {spec.wrong > 0 ? (
-                        <span style={{ color: 'var(--danger)', fontWeight: 800, fontSize: '1.2rem' }}>
-                          ❌ 錯 {spec.wrong} 題
-                        </span>
-                      ) : (
-                        <span style={{ color: 'var(--success)', fontWeight: 800, fontSize: '1.2rem' }}>
-                          🎉 全對 0 錯
-                        </span>
-                      )}
-                      <span style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-                        / 共 {spec.total} 題
-                      </span>
-                    </div>
+              <div className="question-body">
+                <div className="question-text">
+                  <span style={{ color: 'var(--accent-color)', marginRight: '0.5rem' }}>Q{currentQ.number || (resultQuestionIndex + 1)}.</span>
+                  {currentQ.text}
+                </div>
 
-                    {/* Accuracy Bar */}
-                    <div style={{ marginBottom: '0.5rem' }}>
-                      <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.78rem', color: 'var(--text-secondary)', marginBottom: '0.2rem' }}>
-                        <span>正確率</span>
-                        <span style={{ fontWeight: 600, color: progressColor }}>{accuracy}% ({spec.correct}/{spec.total})</span>
-                      </div>
-                      <div style={{ width: '100%', height: '6px', background: 'var(--bg-tertiary)', borderRadius: '3px', overflow: 'hidden' }}>
-                        <div style={{ width: `${accuracy}%`, height: '100%', background: progressColor, borderRadius: '3px', transition: 'width 0.4s ease' }} />
-                      </div>
-                    </div>
+                {/* Question Images */}
+                {currentQ.images && currentQ.images.length > 0 && (
+                  <div style={{ marginBottom: '1.5rem', display: 'flex', flexWrap: 'wrap', gap: '1rem' }}>
+                    {currentQ.images.map((imgSrc, imgIdx) => (
+                      <img 
+                        key={imgIdx}
+                        src={imgSrc}
+                        alt={`題目附圖 ${imgIdx + 1}`}
+                        style={{ maxWidth: '100%', maxHeight: '280px', objectFit: 'contain', borderRadius: '4px', border: '1px solid var(--border-color)' }}
+                      />
+                    ))}
                   </div>
+                )}
 
-                  {/* Question Number Badges */}
-                  <div>
-                    <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginBottom: '0.3rem' }}>
-                      題號分佈（紅標為錯題）：
-                    </div>
-                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.3rem' }}>
-                      {spec.items.map(item => (
-                        <span
-                          key={item.idx}
-                          style={{
-                            fontSize: '0.72rem',
-                            fontWeight: 600,
-                            padding: '0.15rem 0.35rem',
-                            borderRadius: '4px',
-                            background: item.isCorrect ? 'var(--success-light)' : 'var(--danger-light)',
-                            color: item.isCorrect ? 'var(--success)' : 'var(--danger)',
-                            border: item.isCorrect ? '1px solid transparent' : '1px solid var(--danger)'
-                          }}
-                          onClick={(e) => {
-                            e.stopPropagation()
-                            setResultFilter(spec.chapter)
-                            setTimeout(() => {
-                              const el = document.getElementById(`result-q-${item.question.id}`)
-                              if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' })
-                            }, 50)
-                          }}
-                        >
-                          Q{item.idx} {item.isCorrect ? '✓' : '✗'}
-                        </span>
-                      ))}
-                    </div>
+                {/* Options List */}
+                <div className="options-list" style={{ pointerEvents: 'none' }}>
+                  {Object.entries(currentQ.options).map(([letter, text]) => {
+                    let optClass = ''
+                    const isCorrectOpt = isAnswerCorrect(currentQ, letter)
+                    if (letter === currentUserAns) {
+                      optClass = isCorrectOpt ? 'correct' : 'incorrect'
+                    } else if (isCorrectOpt) {
+                      optClass = 'correct'
+                    }
+
+                    return (
+                      <div key={letter} className={`option-button ${optClass}`} style={{ marginBottom: '0.5rem', padding: '0.75rem 1rem' }}>
+                        <strong style={{ marginRight: '0.5rem' }}>({letter})</strong> {text}
+                        {letter === currentUserAns && (
+                          <span style={{ marginLeft: '0.5rem', fontSize: '0.85rem', fontWeight: 600, opacity: 0.95 }}>
+                            {isCorrectOpt ? '（您的作答 ✓）' : '（您的作答 ✗）'}
+                          </span>
+                        )}
+                        {letter !== currentUserAns && isCorrectOpt && (
+                          <span style={{ marginLeft: '0.5rem', fontSize: '0.85rem', fontWeight: 600, color: 'var(--success)' }}>
+                            （正確答案）
+                          </span>
+                        )}
+                      </div>
+                    )
+                  })}
+                </div>
+
+                {/* Correction Note if any */}
+                {currentQ.note && (
+                  <div className="explanation-box" style={{ marginTop: '0.75rem' }}>
+                    <div className="explanation-title">💡 更正備註</div>
+                    <div className="explanation-text" style={{ color: 'var(--warning)', fontWeight: 600 }}>{currentQ.note}</div>
+                  </div>
+                )}
+
+                {/* Book Explanation */}
+                <BookExplanation q={currentQ} />
+
+                {/* User Personal Note */}
+                <UserNoteBox questionId={currentQ.id} userNotes={userNotes} onSaveNote={handleSaveUserNote} />
+              </div>
+
+              {/* Navigation Footer */}
+              <div className="question-footer">
+                <button
+                  className="btn btn-secondary"
+                  disabled={resultQuestionIndex === 0}
+                  onClick={() => setResultQuestionIndex(prev => prev - 1)}
+                >
+                  ◀ 上一題
+                </button>
+
+                <div style={{ display: 'flex', gap: '0.5rem' }}>
+                  <button 
+                    className="btn btn-outline btn-sm"
+                    onClick={() => setResultViewMode('list')}
+                    title="切換為一頁式清單檢視"
+                  >
+                    📜 一頁式總覽
+                  </button>
+                  <button 
+                    className="btn btn-secondary btn-sm"
+                    onClick={() => {
+                      setCurrentPage('dashboard')
+                      setCurrentExam(null)
+                    }}
+                  >
+                    回首頁
+                  </button>
+                </div>
+
+                {resultQuestionIndex === currentExam.totalQuestions - 1 ? (
+                  <button 
+                    className="btn btn-primary" 
+                    onClick={handleResultNext}
+                  >
+                    完成檢視 ✔
+                  </button>
+                ) : (
+                  <button
+                    className="btn btn-primary"
+                    onClick={handleResultNext}
+                  >
+                    下一題 ▶
+                  </button>
+                )}
+              </div>
+            </div>
+
+            {/* Right: Review Sidebar with 80-Question Grid */}
+            <div className="exam-sidebar">
+              {/* Score Widget */}
+              <div className="card glass-card" style={{ padding: '1rem', textAlign: 'center' }}>
+                <h4 style={{ margin: '0 0 0.5rem 0', fontSize: '0.95rem' }}>測驗成績</h4>
+                <div style={{ fontSize: '2rem', fontWeight: 800, color: currentExam.score >= 60 ? 'var(--success)' : 'var(--danger)' }}>
+                  {currentExam.score} 分
+                </div>
+                <div style={{ display: 'flex', justifyContent: 'space-around', fontSize: '0.8rem', color: 'var(--text-secondary)', marginTop: '0.5rem' }}>
+                  <span>答對: <strong style={{ color: 'var(--success)' }}>{currentExam.correctCount}</strong></span>
+                  <span>答錯: <strong style={{ color: 'var(--danger)' }}>{totalWrongCount}</strong></span>
+                  <span>正確率: <strong>{Math.round((currentExam.correctCount / currentExam.totalQuestions) * 100)}%</strong></span>
+                </div>
+              </div>
+
+              {/* Question Navigation Grid */}
+              <div className="card" style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.75rem' }}>
+                  <h4 style={{ margin: 0, fontSize: '0.95rem' }}>逐題導覽</h4>
+                  <div style={{ display: 'flex', gap: '0.25rem' }}>
+                    <button 
+                      className={`btn btn-sm ${resultFilter === 'all' ? 'btn-primary' : 'btn-secondary'}`}
+                      style={{ fontSize: '0.72rem', padding: '0.15rem 0.4rem' }}
+                      onClick={() => setResultFilter('all')}
+                    >
+                      全部 ({currentExam.totalQuestions})
+                    </button>
+                    <button 
+                      className={`btn btn-sm ${resultFilter === 'wrong' ? 'btn-primary' : 'btn-secondary'}`}
+                      style={{ fontSize: '0.72rem', padding: '0.15rem 0.4rem', color: resultFilter === 'wrong' ? '#fff' : 'var(--danger)' }}
+                      onClick={() => setResultFilter('wrong')}
+                    >
+                      僅看錯題 ({totalWrongCount})
+                    </button>
                   </div>
                 </div>
-              )
-            })}
-          </div>
-        </div>
 
-        {/* Question Review Section with Filter Tabs */}
-        <div className="card">
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.75rem', marginBottom: '1.5rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '1rem' }}>
-            <div>
-              <h3 style={{ margin: 0, fontSize: '1.2rem' }}>
-                答題明細與檢討
-                {resultFilter !== 'all' && (
-                  <span style={{ fontSize: '0.9rem', color: 'var(--accent-color)', marginLeft: '0.5rem' }}>
-                    （已篩選：{resultFilter === 'wrong' ? '僅看錯題' : (resultFilter === 'correct' ? '僅看答對' : `專科 - ${resultFilter}`)}，共 {filteredQuestions.length} 題）
+                <div className="question-nav-grid" style={{ gridTemplateColumns: 'repeat(5, 1fr)', maxHeight: '420px', overflowY: 'auto', paddingRight: '2px' }}>
+                  {currentExam.questions.map((question, idx) => {
+                    const userAns = currentExam.answers[question.id]
+                    const isCorrect = isAnswerCorrect(question, userAns)
+                    const flagKey = currentExam.flagged?.[question.id]
+                    const flagInfo = flagKey ? (FLAG_MAP[flagKey] || FLAG_MAP['triangle']) : null
+                    const isCurrent = resultQuestionIndex === idx
+                    const isInWrong = wrongQuestions.includes(question.id)
+                    const isDimmed = resultFilter === 'wrong' && isCorrect
+
+                    return (
+                      <button
+                        key={question.id}
+                        style={{
+                          position: 'relative',
+                          aspectRatio: '1',
+                          borderRadius: '6px',
+                          border: isCurrent ? '2px solid var(--accent-color)' : (isCorrect ? '1px solid rgba(34, 197, 94, 0.4)' : '1px solid rgba(239, 68, 68, 0.4)'),
+                          backgroundColor: isCorrect ? 'var(--success-light)' : 'var(--danger-light)',
+                          color: isCorrect ? 'var(--success)' : 'var(--danger)',
+                          fontWeight: 700,
+                          fontSize: '0.85rem',
+                          cursor: 'pointer',
+                          opacity: isDimmed ? 0.35 : 1,
+                          transform: isCurrent ? 'scale(1.06)' : 'scale(1)',
+                          transition: 'all 0.15s ease',
+                          display: 'flex',
+                          alignItems: 'center',
+                          justifyContent: 'center',
+                          boxShadow: isCurrent ? '0 0 0 2px var(--accent-color)' : 'none'
+                        }}
+                        onClick={() => setResultQuestionIndex(idx)}
+                        title={`第 ${idx + 1} 題：${isCorrect ? '答對' : '答錯'}${isInWrong ? ' (已在錯題本)' : ''}`}
+                      >
+                        <span>{idx + 1}</span>
+                        {flagInfo && (
+                          <span style={{ position: 'absolute', top: '1px', right: '2px', fontSize: '0.65rem', color: flagInfo.color }}>
+                            {flagInfo.icon}
+                          </span>
+                        )}
+                        {isInWrong && (
+                          <span style={{ position: 'absolute', bottom: '1px', left: '2px', fontSize: '0.55rem' }}>
+                            📕
+                          </span>
+                        )}
+                      </button>
+                    )
+                  })}
+                </div>
+
+                {/* Grid Legend */}
+                <div style={{ marginTop: '0.75rem', paddingTop: '0.5rem', borderTop: '1px solid var(--border-color)', display: 'flex', justifyContent: 'space-between', fontSize: '0.75rem', color: 'var(--text-secondary)' }}>
+                  <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
+                    <span style={{ width: 10, height: 10, borderRadius: 2, backgroundColor: 'var(--success-light)', border: '1px solid var(--success)' }}></span> 答對
                   </span>
-                )}
-              </h3>
-            </div>
-
-            {/* Filter Buttons */}
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.4rem' }}>
-              <button 
-                className={`btn btn-sm ${resultFilter === 'all' ? 'btn-primary' : 'btn-secondary'}`}
-                style={{ fontSize: '0.8rem', padding: '0.3rem 0.6rem' }}
-                onClick={() => setResultFilter('all')}
-              >
-                全部 ({currentExam.totalQuestions})
-              </button>
-              <button 
-                className={`btn btn-sm ${resultFilter === 'wrong' ? 'btn-primary' : 'btn-secondary'}`}
-                style={{ fontSize: '0.8rem', padding: '0.3rem 0.6rem', color: resultFilter === 'wrong' ? '#fff' : 'var(--danger)' }}
-                onClick={() => setResultFilter('wrong')}
-              >
-                ❌ 僅看錯題 ({totalWrongCount})
-              </button>
-              <button 
-                className={`btn btn-sm ${resultFilter === 'correct' ? 'btn-primary' : 'btn-secondary'}`}
-                style={{ fontSize: '0.8rem', padding: '0.3rem 0.6rem', color: resultFilter === 'correct' ? '#fff' : 'var(--success)' }}
-                onClick={() => setResultFilter('correct')}
-              >
-                ✨ 僅看答對 ({currentExam.correctCount})
-              </button>
+                  <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
+                    <span style={{ width: 10, height: 10, borderRadius: 2, backgroundColor: 'var(--danger-light)', border: '1px solid var(--danger)' }}></span> 答錯
+                  </span>
+                  <span style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
+                    <span>📕</span> 錯題本
+                  </span>
+                </div>
+              </div>
             </div>
           </div>
+        )}
 
-          {/* Questions List */}
-          {filteredQuestions.length === 0 ? (
-            <div style={{ textAlign: 'center', padding: '3rem 1rem', color: 'var(--text-secondary)' }}>
-              <p style={{ fontSize: '1.1rem' }}>🎉 此篩選條件下沒有題目</p>
-              <button className="btn btn-secondary btn-sm" style={{ marginTop: '0.5rem' }} onClick={() => setResultFilter('all')}>
-                顯示全部題目
+        {/* Mode 2: 一頁式清單報告 (原始總覽與專科分析) */}
+        {resultViewMode === 'list' && (
+          <>
+            {/* Main Score Card */}
+            <div className="card result-header-card" style={{ textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1rem' }}>
+              <h2>測驗結果報告</h2>
+              <div className="result-score-circle">
+                <span>{currentExam.score}</span>
+                <span>得分</span>
+              </div>
+              <div className="result-meta-grid" style={{ display: 'flex', gap: '2rem', justifyContent: 'center', width: '100%', maxWidth: '600px', marginTop: '1rem' }}>
+                <div className="result-meta-item" style={{ flex: 1 }}>
+                  <p style={{ fontSize: '1.5rem', fontWeight: 'bold', color: 'var(--success)' }}>{currentExam.correctCount} / {currentExam.totalQuestions}</p>
+                  <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>答對題數</p>
+                </div>
+                <div className="result-meta-item" style={{ flex: 1 }}>
+                  <p style={{ fontSize: '1.5rem', fontWeight: 'bold', color: totalWrongCount > 0 ? 'var(--danger)' : 'var(--success)' }}>{totalWrongCount}</p>
+                  <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>答錯題數</p>
+                </div>
+                <div className="result-meta-item" style={{ flex: 1 }}>
+                  <p style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>{Math.round((currentExam.correctCount / currentExam.totalQuestions) * 100)}%</p>
+                  <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>正確率</p>
+                </div>
+              </div>
+            </div>
+
+            {/* Action Buttons */}
+            <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
+              <button 
+                className="btn btn-primary" 
+                onClick={() => {
+                  setResultQuestionIndex(0)
+                  setResultViewMode('single')
+                }}
+              >
+                🔍 開始逐題檢視
+              </button>
+              <button className="btn btn-outline" onClick={() => {
+                setCurrentPage('dashboard')
+                setCurrentExam(null)
+                setResultFilter('all')
+              }}>
+                回首頁
+              </button>
+              <button className="btn btn-outline" onClick={() => startSession(currentExam.year || '113-2', currentExam.subject || '醫學(三)', 'exam')}>
+                重新挑戰
+              </button>
+              <button 
+                className="btn btn-secondary"
+                style={{ 
+                  backgroundColor: 'var(--card-bg)', 
+                  borderColor: 'var(--accent-color)', 
+                  color: 'var(--accent-color)', 
+                  fontWeight: 600,
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  gap: '0.4rem'
+                }}
+                onClick={() => handleOpenPdfExport(currentExam)}
+              >
+                <span>📄</span> 一鍵匯出 PDF
               </button>
             </div>
-          ) : (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
-              {filteredQuestions.map(({ q, idx }) => {
-                const userAns = currentExam.answers[q.id]
-                const isCorrect = isAnswerCorrect(q, userAns)
-                const bookmarked = bookmarks.includes(q.id)
-                const chap = q.chapter || getQuestionSubspecialty(q) || '一般外科'
-                const sec = q.section || '專科'
-                
-                return (
-                  <div key={q.id} id={`result-q-${q.id}`} style={{ borderBottom: '1px solid var(--border-color)', paddingBottom: '1.5rem' }}>
-                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '0.75rem', flexWrap: 'wrap', gap: '0.5rem' }}>
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap' }}>
-                        <span style={{ fontSize: '1.1rem', fontWeight: 'bold', color: 'var(--accent-color)' }}>
-                          Q{idx + 1}.
-                        </span>
-                        <span className="tag tag-green" style={{ backgroundColor: 'var(--success-light)', color: 'var(--success)', fontWeight: 600, fontSize: '0.8rem' }}>
-                          🩺 {chap}
-                        </span>
-                        <span className="tag" style={{ background: 'var(--bg-tertiary)', color: 'var(--text-secondary)', fontSize: '0.75rem' }}>
-                          {sec}
-                        </span>
-                        <span className="tag tag-blue" style={{ fontSize: '0.75rem' }}>
-                          {q.year}年 / {q.subject}
-                        </span>
-                        {(() => {
-                          const fKey = currentExam.flagged?.[q.id]
-                          const fInfo = fKey ? (FLAG_MAP[fKey] || FLAG_MAP['flag']) : null
-                          if (!fInfo) return null
-                          return (
-                            <span 
-                              className="tag" 
+
+            {/* Specialty Breakdown Card */}
+            <div className="card" style={{ padding: '1.5rem' }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem', marginBottom: '1.25rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '0.75rem' }}>
+                <div>
+                  <h3 style={{ margin: 0, fontSize: '1.2rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                    <span>📊 各專科錯題與落點分析</span>
+                    <span style={{ fontSize: '0.85rem', fontWeight: 'normal', color: 'var(--text-secondary)' }}>
+                      (共涵蓋 {specialtyList.length} 個專科)
+                    </span>
+                  </h3>
+                  <p style={{ margin: '0.35rem 0 0 0', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
+                    點擊專科卡片或題號標籤，可直接過濾下方題目或跳至逐題檢視
+                  </p>
+                </div>
+
+                {resultFilter !== 'all' && (
+                  <button 
+                    className="btn btn-secondary btn-sm" 
+                    style={{ fontSize: '0.8rem', padding: '0.3rem 0.6rem' }}
+                    onClick={() => setResultFilter('all')}
+                  >
+                    ✕ 清除篩選（顯示全部）
+                  </button>
+                )}
+              </div>
+
+              {/* Specialty Grid */}
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '1rem' }}>
+                {specialtyList.map(spec => {
+                  const accuracy = Math.round((spec.correct / spec.total) * 100)
+                  const isSelected = resultFilter === spec.chapter
+                  const progressColor = accuracy >= 80 ? 'var(--success)' : (accuracy >= 60 ? 'var(--warning)' : 'var(--danger)')
+
+                  return (
+                    <div 
+                      key={spec.chapter} 
+                      className="card"
+                      style={{
+                        padding: '1rem',
+                        background: isSelected ? 'var(--bg-tertiary)' : 'var(--bg-secondary)',
+                        border: isSelected ? '2px solid var(--accent-color)' : '1px solid var(--border-color)',
+                        borderRadius: 'var(--radius-md)',
+                        cursor: 'pointer',
+                        transition: 'all 0.2s ease',
+                        display: 'flex',
+                        flexDirection: 'column',
+                        justifyContent: 'space-between',
+                        gap: '0.75rem',
+                        boxShadow: isSelected ? 'var(--shadow-md)' : 'none'
+                      }}
+                      onClick={() => setResultFilter(isSelected ? 'all' : spec.chapter)}
+                    >
+                      {/* Card Header */}
+                      <div>
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '0.4rem' }}>
+                          <span style={{ fontWeight: 700, fontSize: '1.05rem', color: 'var(--text-primary)' }}>
+                            🩺 {spec.chapter}
+                          </span>
+                          <span className="tag" style={{ fontSize: '0.72rem', background: 'var(--bg-tertiary)', color: 'var(--text-secondary)', padding: '0.15rem 0.4rem' }}>
+                            {spec.section}
+                          </span>
+                        </div>
+
+                        {/* Wrong vs Total Display */}
+                        <div style={{ display: 'flex', alignItems: 'baseline', gap: '0.5rem', marginBottom: '0.5rem' }}>
+                          {spec.wrong > 0 ? (
+                            <span style={{ color: 'var(--danger)', fontWeight: 800, fontSize: '1.2rem' }}>
+                              ❌ 錯 {spec.wrong} 題
+                            </span>
+                          ) : (
+                            <span style={{ color: 'var(--success)', fontWeight: 800, fontSize: '1.2rem' }}>
+                              🎉 全對 0 錯
+                            </span>
+                          )}
+                          <span style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
+                            / 共 {spec.total} 題
+                          </span>
+                        </div>
+
+                        {/* Accuracy Bar */}
+                        <div style={{ marginBottom: '0.5rem' }}>
+                          <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.78rem', color: 'var(--text-secondary)', marginBottom: '0.2rem' }}>
+                            <span>正確率</span>
+                            <span style={{ fontWeight: 600, color: progressColor }}>{accuracy}% ({spec.correct}/{spec.total})</span>
+                          </div>
+                          <div style={{ width: '100%', height: '6px', background: 'var(--bg-tertiary)', borderRadius: '3px', overflow: 'hidden' }}>
+                            <div style={{ width: `${accuracy}%`, height: '100%', background: progressColor, borderRadius: '3px', transition: 'width 0.4s ease' }} />
+                          </div>
+                        </div>
+                      </div>
+
+                      {/* Question Number Badges */}
+                      <div>
+                        <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginBottom: '0.3rem' }}>
+                          題號分佈（點擊進入該題逐題檢視）：
+                        </div>
+                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.3rem' }}>
+                          {spec.items.map(item => (
+                            <span
+                              key={item.idx}
+                              style={{
+                                fontSize: '0.72rem',
+                                fontWeight: 600,
+                                padding: '0.15rem 0.35rem',
+                                borderRadius: '4px',
+                                background: item.isCorrect ? 'var(--success-light)' : 'var(--danger-light)',
+                                color: item.isCorrect ? 'var(--success)' : 'var(--danger)',
+                                border: item.isCorrect ? '1px solid transparent' : '1px solid var(--danger)',
+                                cursor: 'pointer'
+                              }}
+                              onClick={(e) => {
+                                e.stopPropagation()
+                                setResultQuestionIndex(item.idx - 1)
+                                setResultViewMode('single')
+                              }}
+                              title={`點擊直接檢視第 ${item.idx} 題`}
+                            >
+                              Q{item.idx} {item.isCorrect ? '✓' : '✗'}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+
+            {/* Question Review Section with Filter Tabs */}
+            <div className="card">
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.75rem', marginBottom: '1.5rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '1rem' }}>
+                <div>
+                  <h3 style={{ margin: 0, fontSize: '1.2rem' }}>
+                    答題明細與檢討
+                    {resultFilter !== 'all' && (
+                      <span style={{ fontSize: '0.9rem', color: 'var(--accent-color)', marginLeft: '0.5rem' }}>
+                        （已篩選：{resultFilter === 'wrong' ? '僅看錯題' : (resultFilter === 'correct' ? '僅看答對' : `專科 - ${resultFilter}`)}，共 {filteredQuestions.length} 題）
+                      </span>
+                    )}
+                  </h3>
+                </div>
+
+                {/* Filter Buttons */}
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.4rem' }}>
+                  <button 
+                    className={`btn btn-sm ${resultFilter === 'all' ? 'btn-primary' : 'btn-secondary'}`}
+                    style={{ fontSize: '0.8rem', padding: '0.3rem 0.6rem' }}
+                    onClick={() => setResultFilter('all')}
+                  >
+                    全部 ({currentExam.totalQuestions})
+                  </button>
+                  <button 
+                    className={`btn btn-sm ${resultFilter === 'wrong' ? 'btn-primary' : 'btn-secondary'}`}
+                    style={{ fontSize: '0.8rem', padding: '0.3rem 0.6rem', color: resultFilter === 'wrong' ? '#fff' : 'var(--danger)' }}
+                    onClick={() => setResultFilter('wrong')}
+                  >
+                    ❌ 僅看錯題 ({totalWrongCount})
+                  </button>
+                  <button 
+                    className={`btn btn-sm ${resultFilter === 'correct' ? 'btn-primary' : 'btn-secondary'}`}
+                    style={{ fontSize: '0.8rem', padding: '0.3rem 0.6rem', color: resultFilter === 'correct' ? '#fff' : 'var(--success)' }}
+                    onClick={() => setResultFilter('correct')}
+                  >
+                    ✨ 僅看答對 ({currentExam.correctCount})
+                  </button>
+                </div>
+              </div>
+
+              {/* Questions List */}
+              {filteredQuestions.length === 0 ? (
+                <div style={{ textAlign: 'center', padding: '3rem 1rem', color: 'var(--text-secondary)' }}>
+                  <p style={{ fontSize: '1.1rem' }}>🎉 此篩選條件下沒有題目</p>
+                  <button className="btn btn-secondary btn-sm" style={{ marginTop: '0.5rem' }} onClick={() => setResultFilter('all')}>
+                    顯示全部題目
+                  </button>
+                </div>
+              ) : (
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
+                  {filteredQuestions.map(({ q, idx }) => {
+                    const userAns = currentExam.answers[q.id]
+                    const isCorrect = isAnswerCorrect(q, userAns)
+                    const bookmarked = bookmarks.includes(q.id)
+                    const inWrong = wrongQuestions.includes(q.id)
+                    const chap = q.chapter || getQuestionSubspecialty(q) || '一般外科'
+                    const sec = q.section || '專科'
+                    
+                    return (
+                      <div key={q.id} id={`result-q-${q.id}`} style={{ borderBottom: '1px solid var(--border-color)', paddingBottom: '1.5rem' }}>
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '0.75rem', flexWrap: 'wrap', gap: '0.5rem' }}>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap' }}>
+                            <span style={{ fontSize: '1.1rem', fontWeight: 'bold', color: 'var(--accent-color)' }}>
+                              Q{idx + 1}.
+                            </span>
+                            <span className="tag tag-green" style={{ backgroundColor: 'var(--success-light)', color: 'var(--success)', fontWeight: 600, fontSize: '0.8rem' }}>
+                              🩺 {chap}
+                            </span>
+                            <span className="tag" style={{ background: 'var(--bg-tertiary)', color: 'var(--text-secondary)', fontSize: '0.75rem' }}>
+                              {sec}
+                            </span>
+                            <span className="tag tag-blue" style={{ fontSize: '0.75rem' }}>
+                              {q.year}年 / {q.subject}
+                            </span>
+                            {(() => {
+                              const fKey = currentExam.flagged?.[q.id]
+                              const fInfo = fKey ? (FLAG_MAP[fKey] || FLAG_MAP['flag']) : null
+                              if (!fInfo) return null
+                              return (
+                                <span 
+                                  className="tag" 
+                                  style={{ 
+                                    backgroundColor: fInfo.bg, 
+                                    color: fInfo.color, 
+                                    border: `1px solid ${fInfo.color}`,
+                                    fontWeight: 700,
+                                    fontSize: '0.8rem'
+                                  }}
+                                >
+                                  {fInfo.icon}
+                                </span>
+                              )
+                            })()}
+                          </div>
+
+                          <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
+                            <button 
+                              className="btn btn-secondary btn-sm" 
+                              style={{ padding: '0.2rem 0.4rem', fontSize: '0.75rem', color: bookmarked ? 'var(--success)' : '' }}
+                              onClick={() => toggleBookmark(q.id)}
+                            >
+                              {bookmarked ? '★ 已收藏' : '☆ 收藏'}
+                            </button>
+                            <button 
+                              className="btn btn-secondary btn-sm" 
                               style={{ 
-                                backgroundColor: fInfo.bg, 
-                                color: fInfo.color, 
-                                border: `1px solid ${fInfo.color}`,
-                                fontWeight: 700,
-                                fontSize: '0.8rem'
+                                padding: '0.2rem 0.4rem', 
+                                fontSize: '0.75rem', 
+                                color: inWrong ? 'var(--danger)' : '',
+                                borderColor: inWrong ? 'var(--danger)' : ''
+                              }}
+                              onClick={() => toggleWrongQuestion(q.id)}
+                              title={inWrong ? '從錯題本移除' : '加入錯題本'}
+                            >
+                              {inWrong ? '📕 已在錯題本' : '➕ 加入錯題本'}
+                            </button>
+                            <button 
+                              className="btn btn-outline btn-sm" 
+                              style={{ padding: '0.2rem 0.4rem', fontSize: '0.75rem' }}
+                              onClick={() => {
+                                setResultQuestionIndex(idx)
+                                setResultViewMode('single')
+                              }}
+                              title="以卡片模式檢視此題"
+                            >
+                              🔍 逐題檢視
+                            </button>
+                            <span 
+                              className={`tag ${isCorrect ? 'tag-green' : 'tag-red'}`} 
+                              style={{ 
+                                backgroundColor: isCorrect ? 'var(--success-light)' : 'var(--danger-light)', 
+                                color: isCorrect ? 'var(--success)' : 'var(--danger)', 
+                                padding: '0.2rem 0.5rem', 
+                                borderRadius: '4px', 
+                                fontSize: '0.8rem', 
+                                fontWeight: 'bold' 
                               }}
                             >
-                              {fInfo.icon}
+                              {isCorrect ? '✓ 答對' : '✗ 答錯'}
                             </span>
-                          )
-                        })()}
-                      </div>
-
-                      <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
-                        <button 
-                          className="btn btn-secondary btn-sm" 
-                          style={{ padding: '0.2rem 0.4rem', fontSize: '0.75rem', color: bookmarked ? 'var(--success)' : '' }}
-                          onClick={() => toggleBookmark(q.id)}
-                        >
-                          {bookmarked ? '★ 已收藏' : '☆ 收藏'}
-                        </button>
-                        <span 
-                          className={`tag ${isCorrect ? 'tag-green' : 'tag-red'}`} 
-                          style={{ 
-                            backgroundColor: isCorrect ? 'var(--success-light)' : 'var(--danger-light)', 
-                            color: isCorrect ? 'var(--success)' : 'var(--danger)', 
-                            padding: '0.2rem 0.5rem', 
-                            borderRadius: '4px', 
-                            fontSize: '0.8rem', 
-                            fontWeight: 'bold' 
-                          }}
-                        >
-                          {isCorrect ? '✓ 答對' : '✗ 答錯'}
-                        </span>
-                      </div>
-                    </div>
-
-                    <h4 style={{ fontSize: '1rem', fontWeight: 500, lineHeight: 1.6, marginBottom: '0.75rem', color: 'var(--text-primary)' }}>
-                      {q.text}
-                    </h4>
-
-                    {q.images && q.images.length > 0 && (
-                      <div style={{ marginBottom: '1rem', display: 'flex', gap: '0.5rem', flexWrap: 'wrap' }}>
-                        {q.images.map((imgSrc, imgIdx) => (
-                          <img 
-                            key={imgIdx}
-                            src={imgSrc}
-                            alt={`附圖 ${imgIdx + 1}`}
-                            style={{ maxWidth: '100%', maxHeight: '240px', objectFit: 'contain', borderRadius: '4px', border: '1px solid var(--border-color)' }}
-                          />
-                        ))}
-                      </div>
-                    )}
-
-                    <div className="options-list" style={{ pointerEvents: 'none' }}>
-                      {Object.entries(q.options).map(([letter, text]) => {
-                        let optClass = ''
-                        const isCorrectOpt = isAnswerCorrect(q, letter)
-                        if (letter === userAns) {
-                          optClass = isCorrectOpt ? 'correct' : 'incorrect'
-                        } else if (isCorrectOpt) {
-                          optClass = 'correct'
-                        }
-
-                        return (
-                          <div key={letter} className={`option-button ${optClass}`} style={{ marginBottom: '0.25rem', padding: '0.6rem 1rem', fontSize: '0.9rem' }}>
-                            <strong>({letter})</strong> {text}
-                            {letter === userAns && (
-                              <span style={{ marginLeft: '0.5rem', fontSize: '0.8rem', opacity: 0.9 }}>
-                                {isCorrectOpt ? '（您的作答 ✓）' : '（您的作答 ✗）'}
-                              </span>
-                            )}
-                            {letter !== userAns && isCorrectOpt && (
-                              <span style={{ marginLeft: '0.5rem', fontSize: '0.8rem', color: 'var(--success)' }}>
-                                （正確答案）
-                              </span>
-                            )}
                           </div>
-                        )
-                      })}
-                    </div>
+                        </div>
 
-                    {q.note && (
-                      <div className="explanation-box" style={{ marginTop: '0.75rem' }}>
-                        <div className="explanation-title">💡 更正備註</div>
-                        <div className="explanation-text" style={{ color: 'var(--warning)', fontWeight: 600 }}>{q.note}</div>
+                        <h4 style={{ fontSize: '1rem', fontWeight: 500, lineHeight: 1.6, marginBottom: '0.75rem', color: 'var(--text-primary)' }}>
+                          {q.text}
+                        </h4>
+
+                        {q.images && q.images.length > 0 && (
+                          <div style={{ marginBottom: '1rem', display: 'flex', gap: '0.5rem', flexWrap: 'wrap' }}>
+                            {q.images.map((imgSrc, imgIdx) => (
+                              <img 
+                                key={imgIdx}
+                                src={imgSrc}
+                                alt={`附圖 ${imgIdx + 1}`}
+                                style={{ maxWidth: '100%', maxHeight: '240px', objectFit: 'contain', borderRadius: '4px', border: '1px solid var(--border-color)' }}
+                              />
+                            ))}
+                          </div>
+                        )}
+
+                        <div className="options-list" style={{ pointerEvents: 'none' }}>
+                          {Object.entries(q.options).map(([letter, text]) => {
+                            let optClass = ''
+                            const isCorrectOpt = isAnswerCorrect(q, letter)
+                            if (letter === userAns) {
+                              optClass = isCorrectOpt ? 'correct' : 'incorrect'
+                            } else if (isCorrectOpt) {
+                              optClass = 'correct'
+                            }
+
+                            return (
+                              <div key={letter} className={`option-button ${optClass}`} style={{ marginBottom: '0.25rem', padding: '0.6rem 1rem', fontSize: '0.9rem' }}>
+                                <strong>({letter})</strong> {text}
+                                {letter === userAns && (
+                                  <span style={{ marginLeft: '0.5rem', fontSize: '0.8rem', opacity: 0.9 }}>
+                                    {isCorrectOpt ? '（您的作答 ✓）' : '（您的作答 ✗）'}
+                                  </span>
+                                )}
+                                {letter !== userAns && isCorrectOpt && (
+                                  <span style={{ marginLeft: '0.5rem', fontSize: '0.8rem', color: 'var(--success)' }}>
+                                    （正確答案）
+                                  </span>
+                                )}
+                              </div>
+                            )
+                          })}
+                        </div>
+
+                        {q.note && (
+                          <div className="explanation-box" style={{ marginTop: '0.75rem' }}>
+                            <div className="explanation-title">💡 更正備註</div>
+                            <div className="explanation-text" style={{ color: 'var(--warning)', fontWeight: 600 }}>{q.note}</div>
+                          </div>
+                        )}
+                        <BookExplanation q={q} />
                       </div>
-                    )}
-                    <BookExplanation q={q} />
-                  </div>
-                )
-              })}
+                    )
+                  })}
+                </div>
+              )}
             </div>
-          )}
-        </div>
+          </>
+        )}
+
+        {/* Modal: Confirm Add to Wrong Questions Book */}
+        {pendingWrongPrompt && (
+          <div 
+            className="modal-overlay animate-fade-in" 
+            style={{ zIndex: 1100, display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+            onClick={() => handleResolveWrongPrompt(false)}
+          >
+            <div 
+              className="card modal-content" 
+              onClick={e => e.stopPropagation()} 
+              style={{ maxWidth: '420px', width: '92%', padding: '1.75rem', textAlign: 'center', boxShadow: '0 8px 30px rgba(0, 0, 0, 0.25)' }}
+            >
+              <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: '-0.75rem', marginRight: '-0.75rem' }}>
+                <button 
+                  style={{ background: 'none', border: 'none', cursor: 'pointer', fontSize: '1.1rem', color: 'var(--text-secondary)' }}
+                  onClick={() => setPendingWrongPrompt(null)}
+                  title="關閉"
+                >
+                  ✕
+                </button>
+              </div>
+              <div style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>📕</div>
+              <h3 style={{ margin: '0 0 0.5rem 0', fontSize: '1.25rem', color: 'var(--text-primary)' }}>
+                是否將此題加入錯題本？
+              </h3>
+              <p style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', lineHeight: '1.5', margin: '0 0 1.5rem 0' }}>
+                第 <strong>{pendingWrongPrompt.questionIndex + 1}</strong> 題作答錯誤，加入後可隨時在「錯題本」中獨立重測與加強複習
+              </p>
+              <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center' }}>
+                <button 
+                  className="btn btn-secondary" 
+                  style={{ flex: 1, padding: '0.65rem 1rem', fontSize: '0.9rem' }}
+                  onClick={() => handleResolveWrongPrompt(false)}
+                >
+                  不加入
+                </button>
+                <button 
+                  className="btn btn-primary" 
+                  style={{ flex: 1, padding: '0.65rem 1rem', fontSize: '0.9rem', fontWeight: 600 }}
+                  onClick={() => handleResolveWrongPrompt(true)}
+                  autoFocus
+                >
+                  加入錯題本
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
       </div>
     )
   }
