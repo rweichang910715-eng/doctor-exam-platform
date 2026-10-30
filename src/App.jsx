@@ -175,12 +175,12 @@ function FormattedExplanation({ text }) {
           const rows = contentLines.map(r => r.split('|').slice(1, -1).map(c => c.trim()))
 
           return (
-            <div key={bIdx} style={{ overflowX: 'auto', margin: '0.75rem 0' }}>
-              <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.88rem', border: '1px solid var(--border-color)' }}>
+            <div key={bIdx} style={{ overflowX: 'auto', margin: '0.85rem 0', width: '100%', WebkitOverflowScrolling: 'touch' }}>
+              <table style={{ width: '100%', minWidth: '100%', borderCollapse: 'collapse', fontSize: '0.9rem', border: '1px solid var(--border-color)', background: 'var(--card-bg)' }}>
                 <thead>
                   <tr style={{ background: 'var(--bg-secondary)', borderBottom: '2px solid var(--border-color)' }}>
                     {headers.map((h, i) => (
-                      <th key={i} style={{ padding: '0.5rem 0.75rem', textAlign: 'left', fontWeight: 600 }}>
+                      <th key={i} style={{ padding: '0.65rem 0.9rem', textAlign: 'left', fontWeight: 700, borderRight: i < headers.length - 1 ? '1px solid var(--border-color)' : 'none', whiteSpace: 'nowrap' }}>
                         {formatInlineMarkdown(h)}
                       </th>
                     ))}
@@ -194,7 +194,7 @@ function FormattedExplanation({ text }) {
                         {row.map((cell, cIdx) => {
                           const colSpan = cIdx === row.length - 1 ? colSpanForLast : 1
                           return (
-                            <td key={cIdx} colSpan={colSpan} style={{ padding: '0.5rem 0.75rem' }}>
+                            <td key={cIdx} colSpan={colSpan} style={{ padding: '0.6rem 0.9rem', verticalAlign: 'top', lineHeight: '1.6', borderRight: cIdx < row.length - 1 ? '1px solid var(--border-color)' : 'none' }}>
                               {formatInlineMarkdown(cell)}
                             </td>
                           )
@@ -227,11 +227,13 @@ function FormattedExplanation({ text }) {
 function BookExplanation({ q }) {
   const [activePageIdx, setActivePageIdx] = useState(0)
   const [isFullScreen, setIsFullScreen] = useState(false)
+  const [isTextFullScreen, setIsTextFullScreen] = useState(false)
   const [imgError, setImgError] = useState(false)
 
   useEffect(() => {
     setImgError(false)
     setActivePageIdx(0)
+    setIsTextFullScreen(false)
   }, [q?.id, q?.explanation_image, q?.explanation_images])
   
   const hasTextExplanation = !!q.explanation
@@ -263,23 +265,65 @@ function BookExplanation({ q }) {
       {/* 1. OCR Text Explanation */}
       {hasTextExplanation && (
         <div className="text-explanation-box" style={{ marginBottom: showImageContainer ? '1rem' : '0' }}>
-          <div style={{ fontWeight: 'bold', display: 'flex', alignItems: 'center', gap: '0.35rem', color: 'var(--accent-color)', fontSize: '0.95rem' }}>
-            📖 完整解說文字
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.35rem' }}>
+            <div style={{ fontWeight: 'bold', display: 'flex', alignItems: 'center', gap: '0.35rem', color: 'var(--accent-color)', fontSize: '0.95rem' }}>
+              📖 完整解說文字
+            </div>
+            <button
+              type="button"
+              className="btn btn-secondary btn-sm"
+              style={{ fontSize: '0.78rem', padding: '0.2rem 0.55rem', display: 'inline-flex', alignItems: 'center', gap: '0.3rem' }}
+              onClick={() => setIsTextFullScreen(true)}
+              title="以超寬全螢幕彈窗檢視詳解表格"
+            >
+              <span>⛶</span> 放大詳解表格
+            </button>
           </div>
           <div 
             style={{ 
               marginTop: '0.5rem', 
-              fontSize: '0.92rem', 
+              fontSize: '0.94rem', 
               color: 'var(--text-primary)',
               background: 'var(--bg-tertiary)',
-              padding: '1rem',
+              padding: '1.25rem',
               borderRadius: '6px',
               border: '1px solid var(--border-color)',
-              maxHeight: '450px',
+              maxHeight: '650px',
               overflowY: 'auto'
             }}
           >
             <FormattedExplanation text={q.explanation} />
+          </div>
+        </div>
+      )}
+
+      {/* Fullscreen Modal for Text Explanation with Wide Tables */}
+      {isTextFullScreen && hasTextExplanation && (
+        <div 
+          className="modal-overlay animate-fade-in" 
+          style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: 'rgba(0,0,0,0.75)', display: 'flex', justifyContent: 'center', alignItems: 'center', zIndex: 1200, padding: '1.5rem' }}
+          onClick={() => setIsTextFullScreen(false)}
+        >
+          <div 
+            className="card modal-content" 
+            style={{ position: 'relative', maxWidth: '1400px', width: '96%', maxHeight: '92vh', overflowY: 'auto', background: 'var(--bg-secondary)', padding: '2rem', borderRadius: '8px', boxShadow: '0 12px 40px rgba(0,0,0,0.5)' }}
+            onClick={e => e.stopPropagation()}
+          >
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.25rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '0.75rem' }}>
+              <div style={{ fontWeight: 'bold', fontSize: '1.2rem', color: 'var(--accent-color)', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                📖 詳解與對照表格全覽
+              </div>
+              <button 
+                className="btn btn-secondary btn-sm"
+                style={{ fontSize: '0.85rem', padding: '0.25rem 0.6rem' }}
+                onClick={() => setIsTextFullScreen(false)}
+              >
+                ✕ 關閉
+              </button>
+            </div>
+            <div style={{ fontSize: '0.96rem', lineHeight: '1.8' }}>
+              <FormattedExplanation text={q.explanation} />
+            </div>
           </div>
         </div>
       )}
@@ -597,6 +641,7 @@ function App() {
   const [resultViewMode, setResultViewMode] = useState('single') // 'single' (逐題檢視) | 'list' (一頁式清單)
   const [resultQuestionIndex, setResultQuestionIndex] = useState(0)
   const [pendingWrongPrompt, setPendingWrongPrompt] = useState(null) // { question, questionIndex, targetIndex, isLast }
+  const [showReviewSidebar, setShowReviewSidebar] = useState(true)
 
   // Clear usage records modal and toast state
   const [showClearModal, setShowClearModal] = useState(false)
@@ -1399,6 +1444,18 @@ function App() {
             >
               <span>📜</span> 成績報告與一頁式清單
             </button>
+
+            {/* Wide Reading Toggle Button */}
+            {resultViewMode === 'single' && (
+              <button
+                className={`btn btn-sm ${!showReviewSidebar ? 'btn-primary' : 'btn-outline'}`}
+                onClick={() => setShowReviewSidebar(prev => !prev)}
+                style={{ display: 'inline-flex', alignItems: 'center', gap: '0.35rem', fontSize: '0.85rem', fontWeight: 600 }}
+                title={showReviewSidebar ? '收合題號側欄，最大化展開題目與詳解表格' : '展開題號導覽側欄'}
+              >
+                <span>{showReviewSidebar ? '◫ 寬螢幕看詳解 (收合題號)' : '◫ 展開題號導覽'}</span>
+              </button>
+            )}
           </div>
 
           <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }}>
@@ -1430,9 +1487,9 @@ function App() {
           </div>
         </div>
 
-        {/* Mode 1: 逐題檢視 (跟模擬考試介面一樣) */}
+        {/* Mode 1: 逐題檢視 */}
         {resultViewMode === 'single' && (
-          <div className="exam-layout animate-fade-in">
+          <div className={`exam-layout animate-fade-in ${!showReviewSidebar ? 'sidebar-collapsed' : ''}`}>
             {/* Left: Question Card */}
             <div className="card question-card">
               <div className="question-header">
@@ -1579,7 +1636,14 @@ function App() {
                   ◀ 上一題
                 </button>
 
-                <div style={{ display: 'flex', gap: '0.5rem' }}>
+                <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
+                  <button
+                    className="btn btn-outline btn-sm"
+                    onClick={() => setShowReviewSidebar(prev => !prev)}
+                    title={showReviewSidebar ? '收合題號側欄以寬螢幕看詳解' : '展開題號導覽'}
+                  >
+                    {showReviewSidebar ? '◫ 寬螢幕模式' : '◫ 顯示題號'}
+                  </button>
                   <button 
                     className="btn btn-outline btn-sm"
                     onClick={() => setResultViewMode('list')}
@@ -1617,7 +1681,8 @@ function App() {
             </div>
 
             {/* Right: Review Sidebar with 80-Question Grid */}
-            <div className="exam-sidebar">
+            {showReviewSidebar && (
+              <div className="exam-sidebar">
               {/* Score Widget */}
               <div className="card glass-card" style={{ padding: '1rem', textAlign: 'center' }}>
                 <h4 style={{ margin: '0 0 0.5rem 0', fontSize: '0.95rem' }}>測驗成績</h4>
@@ -1707,6 +1772,7 @@ function App() {
                 </div>
               </div>
             </div>
+            )}
           </div>
         )}
 
