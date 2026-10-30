@@ -227,13 +227,11 @@ function FormattedExplanation({ text }) {
 function BookExplanation({ q }) {
   const [activePageIdx, setActivePageIdx] = useState(0)
   const [isFullScreen, setIsFullScreen] = useState(false)
-  const [isTextFullScreen, setIsTextFullScreen] = useState(false)
   const [imgError, setImgError] = useState(false)
 
   useEffect(() => {
     setImgError(false)
     setActivePageIdx(0)
-    setIsTextFullScreen(false)
   }, [q?.id, q?.explanation_image, q?.explanation_images])
   
   const hasTextExplanation = !!q.explanation
@@ -265,19 +263,8 @@ function BookExplanation({ q }) {
       {/* 1. OCR Text Explanation */}
       {hasTextExplanation && (
         <div className="text-explanation-box" style={{ marginBottom: showImageContainer ? '1rem' : '0' }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.35rem' }}>
-            <div style={{ fontWeight: 'bold', display: 'flex', alignItems: 'center', gap: '0.35rem', color: 'var(--accent-color)', fontSize: '0.95rem' }}>
-              📖 完整解說文字
-            </div>
-            <button
-              type="button"
-              className="btn btn-secondary btn-sm"
-              style={{ fontSize: '0.78rem', padding: '0.2rem 0.55rem', display: 'inline-flex', alignItems: 'center', gap: '0.3rem' }}
-              onClick={() => setIsTextFullScreen(true)}
-              title="以超寬全螢幕彈窗檢視詳解表格"
-            >
-              <span>⛶</span> 放大詳解表格
-            </button>
+          <div style={{ fontWeight: 'bold', display: 'flex', alignItems: 'center', gap: '0.35rem', color: 'var(--accent-color)', fontSize: '0.95rem', marginBottom: '0.35rem' }}>
+            📖 完整解說文字
           </div>
           <div 
             style={{ 
@@ -293,37 +280,6 @@ function BookExplanation({ q }) {
             }}
           >
             <FormattedExplanation text={q.explanation} />
-          </div>
-        </div>
-      )}
-
-      {/* Fullscreen Modal for Text Explanation with Wide Tables */}
-      {isTextFullScreen && hasTextExplanation && (
-        <div 
-          className="modal-overlay animate-fade-in" 
-          style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: 'rgba(0,0,0,0.75)', display: 'flex', justifyContent: 'center', alignItems: 'center', zIndex: 1200, padding: '1.5rem' }}
-          onClick={() => setIsTextFullScreen(false)}
-        >
-          <div 
-            className="card modal-content" 
-            style={{ position: 'relative', maxWidth: '1400px', width: '96%', maxHeight: '92vh', overflowY: 'auto', background: 'var(--bg-secondary)', padding: '2rem', borderRadius: '8px', boxShadow: '0 12px 40px rgba(0,0,0,0.5)' }}
-            onClick={e => e.stopPropagation()}
-          >
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.25rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '0.75rem' }}>
-              <div style={{ fontWeight: 'bold', fontSize: '1.2rem', color: 'var(--accent-color)', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                📖 詳解與對照表格全覽
-              </div>
-              <button 
-                className="btn btn-secondary btn-sm"
-                style={{ fontSize: '0.85rem', padding: '0.25rem 0.6rem' }}
-                onClick={() => setIsTextFullScreen(false)}
-              >
-                ✕ 關閉
-              </button>
-            </div>
-            <div style={{ fontSize: '0.96rem', lineHeight: '1.8' }}>
-              <FormattedExplanation text={q.explanation} />
-            </div>
           </div>
         </div>
       )}
@@ -1521,14 +1477,7 @@ function App() {
                     </span>
                   )}
 
-                  {/* Bookmark button */}
-                  <button 
-                    className="btn btn-secondary btn-sm" 
-                    style={{ padding: '0.25rem 0.5rem', fontSize: '0.8rem', color: currentBookmarked ? 'var(--success)' : '' }}
-                    onClick={() => toggleBookmark(currentQ.id)}
-                  >
-                    {currentBookmarked ? '★ 已收藏' : '☆ 收藏'}
-                  </button>
+
 
                   {/* Wrong question book toggle button */}
                   <button 
@@ -2064,13 +2013,7 @@ function App() {
                           </div>
 
                           <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
-                            <button 
-                              className="btn btn-secondary btn-sm" 
-                              style={{ padding: '0.2rem 0.4rem', fontSize: '0.75rem', color: bookmarked ? 'var(--success)' : '' }}
-                              onClick={() => toggleBookmark(q.id)}
-                            >
-                              {bookmarked ? '★ 已收藏' : '☆ 收藏'}
-                            </button>
+
                             <button 
                               className="btn btn-secondary btn-sm" 
                               style={{ 
@@ -2334,13 +2277,7 @@ function App() {
                           </span>
                         )}
                       </div>
-                      <button 
-                        className="btn btn-secondary btn-sm" 
-                        style={{ padding: '0.2rem 0.4rem', fontSize: '0.75rem', color: bookmarked ? 'var(--success)' : '' }}
-                        onClick={() => toggleBookmark(q.id)}
-                      >
-                        {bookmarked ? '★ 已收藏' : '☆ 收藏'}
-                      </button>
+
                     </div>
 
                     <div className="question-text" style={{ fontSize: '1.05rem', fontWeight: 600 }}>{q.text}</div>
