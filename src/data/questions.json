@@ -10435,9 +10435,11 @@
       "D": "治療 renal cell carcinoma 可針對 vascular endothelial growth factor（VEGF）"
     },
     "answer": "A",
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": [],
+    "explanation": "新興癌症分子生物標靶治療（Target therapy）之作用機轉與臨床應用：\n\n* 各選項深入解析：\n  * (A) 敘述錯誤（選 A）：**Bcr-Abl 融合基因**（由 t(9;22)(q34;q11) 費城染色體 Philadelphia chromosome 轉位產生，導致持續活化之酪胺酸激酶 tyrosine kinase）為**慢性骨髓性白血病（Chronic Myeloid Leukemia, CML）**的核心致病機轉與治療標靶，標準標靶藥物為酪胺酸激酶抑制劑（TKI 如 Imatinib、Dasatinib、Nilotinib）；而多發性骨髓瘤（Multiple Myeloma）主要標靶治療藥物為蛋白酶體抑制劑（Proteasome inhibitors 如 Bortezomib/Velcade、Carfilzomib）、免疫調節劑（IMiDs 如 Lenalidomide、Pomalidomide）以及抗 CD38 單株抗體（如 Daratumumab），Bcr-Abl 基因在骨髓瘤中極為罕見且非其治療標靶，故 (A) 錯誤\n  * (B) 敘述正確：大腸直腸癌（Colorectal cancer, CRC）在確認腫瘤為野生型 RAS（RAS wild-type，無 KRAS 或 NRAS 突變）時，常規使用針對表皮生長因子受體（EGFR）之單株抗體，如 Cetuximab（Erbitux）或 Panitumumab（Vectibix），阻斷細胞增生訊息傳遞路徑\n  * (C) 敘述正確：乳癌（Breast cancer）中約 15~20% 腫瘤呈現第二型人類表皮生長因子受體（HER2）過度表現或基因擴增，可使用針對 HER2 受體結構域之單株抗體（如 Trastuzumab/Herceptin、Pertuzumab）或抗體藥物複合體（ADC 如 T-DM1、T-DXd）進行專一性標靶治療\n  * (D) 敘述正確：腎細胞癌（Renal cell carcinoma, RCC，特別是透明細胞型 clear-cell RCC）常因 VHL 抑癌基因突變失活導致 HIF-1α 累積，進而過度表現血管內皮生長因子（VEGF）促進腫瘤血管新生；其第一線重要標靶藥物即為針對 VEGF/VEGFR 訊息傳遞路徑之酪胺酸激酶抑制劑（如 Sunitinib、Pazopanib、Cabozantinib、Lenvatinib）或抗 VEGF 單株抗體（Bevacizumab）",
+    "explanation_image": "/explanations/cropped/111-2-醫學(五)-3_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(五)-3_merged.png"
+    ],
     "section": "第二篇 外科學",
     "chapter": "大腸直腸科",
     "category": "大腸直腸科"
