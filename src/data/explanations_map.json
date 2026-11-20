@@ -312,29 +312,29 @@
     "book_page": 118
   },
   "111-1-醫學(三)-61": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "這題在考 primary vs. secondary bacterial peritonitis，整理於下表，發生原發細菌性腹膜炎 (PBP) 的病人狀況大多不好，因此症狀可能不典型，所以在高風險的病人身上出現「不明原因疲倦、肝腦病變」，就要考慮 PBP，要注意的是，雖然幾乎都是因為有腹水而產生（腹水是很適合養細菌的 medium），但實際上肝硬化的病人中發生 PBP 的比例不超過 10%，因此算「不常見」的併發症，另外也有因為癌症轉移、肝炎、心衰竭、SLE、淋巴水腫等原因導致 PBP 的例子，所以只能說絕大部分是因為肝硬化導致，但如果題目說「全部都是、一定是」就不對囉\n\n| 細菌性腹膜炎 (bacterial peritonitis) | 原發性 (primary, PBP) | 次發性 (secondary) |\n| --- | --- | --- |\n| 成因 | 大多因肝硬化產生腹水 + 肝門循環異常或小腸菌過度繁殖 (SIBO) → 細菌在腹水中複製，但數量不多 | 化學刺激：胃潰瘍破掉<br>細菌污染：腹腔臟器破掉灑出 |\n| 致病菌 | 單一菌，GNB (E.coli) > GPC | 多種菌，GNB 跟厭氧菌為主<br>* 若為術後導致的，可能長 GPC |\n| 症狀 | 疲倦、80% 會發燒、腹痛 | 因疼痛而蜷縮不動、sepsis 症狀 |\n| 診斷 | 腹水中 PMN > 250 /uL<br>* Gram stain、Cx 不易 positive | 主要靠臨床診斷或影像<br>* 較容易 Cx 出細菌，但很少因此 tapping |\n| 手術 | 不需要 | 通常要 debride（以免變 abscess） |\n| 經驗性抗生素 | 同時 cover GNB + GPC：Tazocin、ceftriaxone、zavicefta<br>* 可不加厭氧 = 不需要使用 metronidazole | 要 cover GNB + anaerobes：Tazocin、metronidazole + FQ 或 3 代 cefa<br>* 嚴重的要加 pseudomonas |\n| 預後 | 不佳，因為代表肝狀況不好<br>（死亡率：30 天 23%、90 天 37%） | 取決於當初是什麼破掉、怎麼破的 |\n\n（參考 Harrison 21/e Ch.132）\n\n＜其他考點＞\n1. PBP 好發於 serum bilirubin 高、ascites albumin 低的人身上\n2. PBP 有時無典型腹膜炎症狀，也未必會發燒\n3. 70% PBP 會在一年內復發，預防性抗生素可以降低復發率（至 < 20%）和短期死亡率，但長期使用會增加嚴重 Staphylococcal 感染率\n4. 腹膜透析相關腹膜炎的診斷，一般需要符合下列條件至少兩個：腹痛 / 混濁的腹膜透析藥水、WBC > 100/uL 且嗜中性球 > 50%、細菌培養 (+)，相比起來較 PBP 嚴格許多",
+    "image": "/explanations/cropped/111-1-醫學(三)-61_merged.png",
+    "book_page": 119
   },
   "111-1-醫學(三)-62": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "(A) 正確，HIV 病人出現發燒、乾咳 (nonproductive)、低血氧、吸氣時胸骨後方灼燒痛 (burning retrosternal chest pain)、不明原因掉體重 → 強烈懷疑肺囊蟲肺炎 (Pneumocystis jirovecii pneumonia, PjP、PCP)\n(B) 正確，標準治療是 TMP-SMX，可能會出現皮膚紅疹、骨髓抑制的副作用，如果病情比較不嚴重的可以使用 dapsone/TMP、clindamycin/primaquine、atovaquone，如果使用 TMP-SMX 控制不住的嚴重患者，應使用 iv. pentamidine\n(C) 錯誤，如果患者出現 PaO2 < 70 mmHg 或 A-a gradient > 35 mmHg 的情況，就「應該要」搭配抗生素給 glucocorticoid\n(D) 正確，治療應至少持續 21 天，並要接著進行 secondary prophylaxis，HIV 感染患者符合以下情況均應進行預防性投藥 (TMP-SMX)：曾經感染過 PjP、CD4+ < 200、CD4 < 15%、不明原因發燒超過兩週、最近剛有口咽念珠菌感染者",
+    "image": "/explanations/cropped/111-1-醫學(三)-62_merged.png",
+    "book_page": 121
   },
   "111-1-醫學(三)-63": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "| 皮膚軟組織感染之經驗性治療 | | |\n| --- | --- | --- |\n| 感染 | 第一線治療 | 其他治療選擇 |\n| 帶狀皰疹 | Acyclovir | Famciclovir / valacyclovir |\n| 桿菌性血管瘤病 | Erythromycin | Doxycycline |\n| 被動物咬（預防） | Amoxicillin-clavulanate | Doxycycline |\n| 被動物咬（嚴重） | Ampicillin-sulbactam | Clindamycin+Ciprofloxacin |\n| cellulitis | Oxacillin | Ampicillin-sulbactam |\n| MRSA 感染 | Vancomycin | Linezolid |\n| 壞死性筋膜炎 (GAS) | Clindamycin+Penicillin G | Clindamycin+1/2 代 cepha |\n| 壞死性筋膜炎（好氧 + 厭氧混合） | Ampicillin+clindamycin+ciprofloxacin | Vancomycin+metronidazole+ciprofloxacin |\n| gas gangrene | Clindamycin+Penicillin G | Clindamycin+cefoxitin |\n\n（參考 Harrison 21/e Table 129-2）\n\n(C) 蜂窩組織炎 (cellulitis) 的一線治療應該使用 oxacillin，二線是 Unasyn，不會一開始就押 MRSA 而上 vancomycin",
+    "image": "/explanations/cropped/111-1-醫學(三)-63_merged.png",
+    "book_page": 122
   },
   "111-1-醫學(三)-64": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "(A) 錯誤，痰液抹片品質合格標準：> 25 neutrophils、< 10 squamous epithelial cells per low-power field\n(B) 正確，即便是在給抗生素前抽血，也只有 5～14% 的社區肺炎住院病患血液培養會是陽性的，最常培養出來的細菌是 Streptococcus pneumonia\n(C)(D) 尿液抗原檢測可協助診斷肺炎鏈球菌 (Pneumococcal) 或退伍軍人桿菌 (Legionella) 所引起之肺炎，肺炎鏈球菌尿液抗原檢測敏感性有 52～78%，病情嚴重（菌血症）的敏感度可達 85%、特異性甚至超過 90%；尿液抗原篩檢是退伍軍人桿菌的主要方法，針對血清型第一型 mAb 3/1 敏感度約 80～90%（Harrison 寫 70%），特異性高達 99%，其他血清型的敏感性就沒有這麼高了\n\n＜其他考點＞\n1. 社區型肺炎嚴重度評估：CURB-65 (confusion、BUN > 20、RR ≥ 30、BP < 90/60、年齡 ≥ 65)，2～3 分住院、4～5 分住加護病房【108-1】\n2. 在已證實出現 bacteremia 的 pneumococcal pneumonia 病人中，只有 ≤ 50% 的病人痰液培養是陽性的",
+    "image": "/explanations/cropped/111-1-醫學(三)-64_merged.png",
+    "book_page": 124
   },
   "111-1-醫學(三)-65": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "同一份考卷考了兩題皮膚軟組織感染，整理一些從名字看不太出來的配對給大家：\n\n| 疾病 / 症狀 | 病原體 | 疾病 / 症狀 | 病原體 |\n| --- | --- | --- | --- |\n| swimmer's itch | Schistosoma spp. | cold sores | HSV |\n| hot-tub folliculitis | P. aeruginosa | sore mouth | Orf virus (parapox) |\n| swimming pool / fish tank granuloma | Mycobacterium marinum | chancre（堅硬、無痛） | Treponema pallidum（初期梅毒感染） |\n| cat-scratch disease | Bartonella henselae | chancroid | Haemophilus ducreyi |\n\n(B) Streptococcus pyogenes 會導致 necrotizing fasciitis、impetigo contagiosa（不起水泡，佔 impetigo 70%）、erysipelas、streptococcal gangrene、streptococcal necrotizing myositis、lymphangitis 等\n(C) 「玫瑰花瓣上的露珠」是指水痘 (chickenpox, varicella)，Treponema pallidum 導致的皮膚表現為潰瘍、尖狀濕疣 (condyloma lata)、結節梅毒腫 (nodular gummatous lesions)\n(D) HSV-1 的唇邊水泡就是 cold sores（唇皰疹），HSV 感染還可能導致手指皰疹 (herpetic whitlow)、格鬥者皰疹 (herpes gladiatorum) 等",
+    "image": "/explanations/cropped/111-1-醫學(三)-65_merged.png",
+    "book_page": 124
   },
   "111-1-醫學(三)-66": {
     "explanation": "### 題目解析\n\n42 歲女性無慢性病史，健檢數據：身高 158 cm、體重 64 kg、腰圍 88 cm、血壓 136/88 mmHg、空腹血糖 106 mg/dL、總膽固醇 198 mg/dL、三酸甘油酯 325 mg/dL、高密度脂蛋白膽固醇 52 mg/dL\n\n- **(A) 錯誤（本題選 A）**：BMI 計算公式為 體重(kg) ÷ 身高(m)² = 64 ÷ (1.58)² ≈ **25.63 kg/m²**。依臺灣衛福部成人體位標準，**過重為 24 ≤ BMI < 27**，**肥胖為 BMI ≥ 27**（輕度肥胖 27～30、中度肥胖 30～35、重度肥胖 ≥ 35），因此該女性屬於「過重」，尚未達到「肥胖」標準\n- **(B) 正確**：正常空腹血糖 < 100 mg/dL，此個案為 106 mg/dL，符合空腹血糖偏高（Impaired fasting glucose, IFG: 100～125 mg/dL）\n- **(C) 正確**：正常三酸甘油酯 < 150 mg/dL，此個案為 325 mg/dL，符合高三酸甘油脂血症\n- **(D) 正確**：臺灣代謝症候群判定標準 5 項指標中符合 ≥ 3 項即可確診：\n  1. **腹部肥胖（腰圍）**：女性 ≥ 80 cm（此個案 88 cm，**符合**）\n  2. **血壓偏高**：收縮壓 ≥ 130 mmHg 或舒張壓 ≥ 85 mmHg（此個案 136/88 mmHg，**符合**）\n  3. **空腹血糖偏高**：≥ 100 mg/dL（此個案 106 mg/dL，**符合**）\n  4. **三酸甘油酯偏高**：≥ 150 mg/dL（此個案 325 mg/dL，**符合**）\n  5. **HDL-C 偏低**：女性 < 50 mg/dL（此個案 52 mg/dL，未符合）\n  - 5 項中符合 4 項，明確診斷為代謝症候群\n\n---\n\n### 代謝症候群與 BMI 判定標準\n\n| 臺灣代謝症候群診斷標準（5 項符合 ≥ 3 項） | 異常切點 | 個案數值與判定 |\n| :--- | :--- | :--- |\n| **1. 腹部肥胖 (腰圍)** | 男 ≥ 90 cm，**女 ≥ 80 cm** | 88 cm (**符合**) |\n| **2. 血壓偏高** | **收縮壓 ≥ 130 mmHg** 或 **舒張壓 ≥ 85 mmHg** | 136/88 mmHg (**符合**) |\n| **3. 空腹血糖偏高** | **空腹血糖 ≥ 100 mg/dL** | 106 mg/dL (**符合**) |\n| **4. 三酸甘油酯偏高** | **TG ≥ 150 mg/dL** | 325 mg/dL (**符合**) |\n| **5. HDL-C 偏低** | 男 < 40 mg/dL，女 < 50 mg/dL | 52 mg/dL (未符合) |\n\n| 臺灣成人 BMI 分級標準 | BMI 範圍 (kg/m²) |\n| :--- | :--- |\n| **體重過輕** | BMI < 18.5 |\n| **正常範圍** | 18.5 ≤ BMI < 24 |\n| **過重** | **24 ≤ BMI < 27**（個案 BMI = 25.63） |\n| **輕度肥胖** | 27 ≤ BMI < 30 |\n| **中度肥胖** | 30 ≤ BMI < 35 |\n| **重度肥胖** | BMI ≥ 35 |",
@@ -472,14 +472,14 @@
     ]
   },
   "111-1-醫學(三)-77": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "(A) 正確，與妊娠相關的心臟驟停原因包括：\n\n| 各種心血管疾病 | 主動脈剝離、心肌梗塞、瓣膜性心臟病、肺動脈高壓、Eisenmenger、慢性心臟衰竭 |\n| --- | --- |\n| 妊娠併發症 | 子癇前症 / 子癇症、妊娠高血壓 |\n| 生產過程併發症 | 羊水栓塞、陣痛、麻醉併發症、肺栓塞、藥物毒性 |\n\n(B) 正確，維持孕婦的生命徵象穩定才有機會保住小孩，尤其是氧氣的給予、呼吸道處理特別重要（否則可能因為低血氧而造成胎兒腦損傷），如果 5 分鐘內沒有 ROSC，要剖腹產，另外，2020 版的 ACLS 有明確寫到，在搶救期間不應進行胎兒監測，以免干擾復甦術的施行\n(C) 正確，懷孕時期的血液量會增加，急救時輸液要增加至少 50%\n(D) 錯誤，孕婦的急救用藥劑量、電擊去顫電壓都跟一般成人一樣\n\n| 孕婦急救特殊考量 | | | |\n| --- | --- | --- | --- |\n| 項目 | 與正常人比較 | 項目 | 特殊考量 |\n| 輸液量 | 增加 (+50%) | 通氣頻率 | 一樣 (10 次 /min) |\n| 急救藥劑量 | 一樣 | 氣管內管 | 選較小尺寸 |\n| 去顫電壓 | 一樣 | 姿勢 | 肚子往左推（不用左躺） |",
+    "image": "/explanations/cropped/111-1-醫學(三)-77_merged.png",
+    "book_page": 175
   },
   "111-1-醫學(三)-78": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "(A) 正確，血鈣用 Albumin 校正公式為：血鈣 + 0.8 * (4 - albumin)，這位病人校正後的血鈣為 16 + 0.8 * (4 - 2.9) = 16 + 0.8 * 1.1 = 16.88\n(B) 正確，高血鈣會出現 bradycardia、AV block、QT 縮短等異常\n(C) 錯誤，血液透析雖然通常不是一線治療，但對高血鈣是有效的治療方式，治療原則：高血鈣會使病人脫水，因此需要先 volume expansion，後續開始使用降血鈣藥，用藥都沒有效果而且有嚴重症狀者，可考慮進行透析\n\n| 機制 | 高血鈣治療 | 說明 |\n| --- | --- | --- |\n| 補充水分 | 4～6 L iv. saline 輸液 | 脫水需要 volume expansion |\n| 促進腎臟排除 | loop diuretics | 要先把體液補足後才可以開始用 |\n| 抑制骨骼釋出 | salmon calcitonin | 有時會使用 |\n| | bisphosphonate | zoledronic acid、pamidronate 常用於治療癌症導致的高血鈣 |\n| | denosumab | 用 bisphosphonate 無效者適用 |\n| | gallium | 連 denosumab 都沒效可考慮，但有腎毒性 |\n| 減少活性 vitamin D 合成 | glucocorticoids | 活性 vitamin D 過多者適用（如：sarcoidosis） |\n| 直接洗掉 | 血液透析 | 如果都沒效，最後的大招 |\n\n(D) 正確，calcitonin onset 比較快 (12～24 hr)，Bisphosphonates onset 時間約 1～3 天，可以讓 60～90% 病人血鈣恢復正常",
+    "image": "/explanations/cropped/111-1-醫學(三)-78_merged.png",
+    "book_page": 176
   },
   "111-1-醫學(三)-79": {
     "explanation": "背起來，代理簽署的優先順序：配偶 → 成年直系血親卑親屬（兒女 → 孫子女）→ 父母 → 兄弟姐妹 → 祖父母 → 曾祖父母或三親等旁系血親 → 一親等直系姻親",
