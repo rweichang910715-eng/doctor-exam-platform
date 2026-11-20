@@ -70,29 +70,29 @@
     ]
   },
   "111-1-醫學(三)-31": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "| 痛風 (gout) 與高尿酸血症 (hyperuricemia) 藥物治療 | | |\n| 機轉 | 藥物 | 注意事項 |\n| --- | --- | --- |\n| 急性期（控制發炎） | 抑制中性球趨化 | colchicine | 易腹瀉、用久了會骨髓抑制 |\n| 急性期（控制發炎） | 抗發炎 | NSAID | 腎功能差的不適合 |\n| 急性期（控制發炎） | 抗發炎 | corticosteroid | 腎差、胃潰瘍的可用 |\n| 慢性期（控制尿酸） | 抑制尿酸生成 (XO-i)<br>* AZA 與之併用可能會累積 → 骨髓抑制 | allopurinol | 有 HLA-B*5801 易 SJS |\n| 慢性期（控制尿酸） | 抑制尿酸生成 (XO-i)<br>* AZA 與之併用可能會累積 → 骨髓抑制 | febuxostat | 腎功能差也不用調劑量 |\n| 慢性期（控制尿酸） | 抑制尿酸再吸收（促排） | benzbromarone | 肝腎功能異常者不適合 |\n\n* 可直接分解尿酸的 rasburicase 用於治療及預防 tumor lysis syndrome，不是拿來當痛風的控制藥，且有 G6PD deficiency 者禁用（同樣是 uricase 的 pegloticase 台灣沒有）\n\n(A) 錯誤，痛風好發於中老年男性以及「停經後」女性，男女比為 9:1\n(B) 正確，痛風急性發作與血中尿酸值的波動有關，所以不論是快速升高或快速降低，都有可能會導致急性發作，因此可以在尿酸濃度正常時發作\n(C) 錯誤，慢性痛風在 X 光檢查可以看到 cystic change、侵蝕性 (erosive) 病灶伴隨邊緣骨化 (sclerotic change)，但早期通常不明顯，反而是 ultrasound 可以更早看到關節軟骨的 double contour sign\n(D) 錯誤，急性期除了冰敷止痛外，可以搭配 NSAID、colchicine、steroids，但腎功能不好的病人再用 NSAID 止痛會惡化腎功能，因此使用 steroids 比較適合（可以口服、IM 注射、關節腔內注射）\n\n＜其他考點＞\n1. 痛風可能在新加降尿酸藥 (allopurinol、febuxostat) 的時候發作，但 colchicine 不會影響尿酸濃度，所以不會引起痛風發作【110 內專】\n2. 剛要開始使用降尿酸藥時，可搭配 colchicine 預防發作【108 內專】\n3. 預防 tumor lysis syndrome 不會用 benzbromarone，應選用 allopurinol 或依健保規定申請 rasburicase 針劑【108-1】\n4. 痛風與 CPPD 的比較：\n\n| 痛風 (gout) vs. 假性痛風 (pseudogout) | | | | |\n| 結晶 | 偏光鏡 | X 光 | 好發位置 | 治療 |\n| --- | --- | --- | --- | --- |\n| 痛風 | MSU | 負偏光：平行黃、垂直藍 | 骨侵蝕、痛風石 | 大腳趾 > 腳踝 > 膝蓋 > 手腕 | 急性期抗發炎、慢性期控制 UA |\n| 假性痛風 | CPPD | 正偏光：平行藍、垂直黃 | 軟骨可見線狀鈣化 | 膝蓋 > 手腕、肩膀（大關節） | 急性期同痛風、慢性無特殊治療 |",
+    "image": "/explanations/cropped/111-1-醫學(三)-31_merged.png",
+    "book_page": 135
   },
   "111-1-醫學(三)-32": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "| 懷孕時風濕免疫科的藥物選擇 | |\n| --- | --- |\n| 懷孕時可用 | hydroxychloroquine、azathioprine、sulfasalazine、(prednisone) |\n| 懷孕時禁用 | cyclophosphamide、methotrexate、leflunomide、mycophenolate |\n\n記法：HAS (HCQ、AZA、Sulfasalazine) 證實在懷孕時使用是安全的\n（參考 2020 ACR guideline）\n\n(A) 錯誤，根據 2020 美國風濕病醫學會 (ACR) 的 guideline，methotrexate 建議受孕前就要停止使用；leflunomide 更要在懷孕前 24 個月就停用，如果不小心懷孕了要用 cholestyramine washout 以避免流產\n(B) 錯誤，目前許多生物製劑在孕婦身上的影響還不明確，雖然大部分會建議先停用，但如果疾病控制不下來會造成更不利的影響，則還是需要醫師評估選用，目前建議如下：\n\n| 建議 | 生物製劑名稱 |\n| --- | --- |\n| 整個孕期都可用 | certolizumab |\n| 第三孕期禁用 | infliximab、etanercept、adalimumab、golimumab |\n| 整個孕期禁用 | anakinra、belimumab、abatacept、tocilizumab、secukinumab、ustekinumab |\n\n備註：整體而言 TNF-i 比較安全，全部的 TNF-i 在哺乳期間均可使用；近年很夯的 JAK inhibitors、apremilast 這類小分子藥物目前均不建議於懷孕期間使用\n\n(C) 正確，hydroxychloroquine 跟 sulfasalazine 是目前被認為在懷孕期間使用最安全的 DMARDs，連哺乳期間都可以用\n(D) 錯誤，根據 Harrison 21/e Ch.358，在懷孕期間如果症狀有 flare up，治療首選是低劑量 prednisone，但 2022 年歐洲風濕病醫學會 (EULAR) 發出了一篇聲明表示在懷孕期間使用 steroids 還是對胎兒有不利影響；ACR 2020 的 guideline 也強烈建議使用 steroid-sparing therapy，可理解為 flare-up 時還是可以用 steroids，但建議平常能不用就不用，以其他更安全的藥物來控制疾病活動度為主，雖然 guideline 會走在教科書前面，但出題、爭取分數的圭臬依舊是課本，所以考試還是請以課本寫的為主喔（考前可以再確認一下有沒有更新）\n\n＜其他考點＞\n1. 有 75% 的 RA 女性在懷孕期間症狀會改善，但在產後又會發作\n2. 年紀較大的 RA 患者、腎功能不佳的：少開 NSAID 跟 MTX（Cr > 2 mg/dL 的人不建議使用）",
+    "image": "/explanations/cropped/111-1-醫學(三)-32_merged.png",
+    "book_page": 137
   },
   "111-1-醫學(三)-33": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "急性風濕熱 (acute rheumatic fever, ARF) 是一種因為 Group A Streptococcus (S. pyogenes) 感染（URI 或皮膚感染）引起的自體免疫反應，主要盛行族群為開發中國家的 5～14 歲小孩，會影響多個器官系統，產生自體免疫的機轉是透過 molecular mimicry：免疫系統產生抗 M protein 跟 N-acetylglucosamine 的抗體攻擊人體自己的組織\n\n雖然多數症狀會緩解，但可能會對心臟瓣膜造成永久性的破壞，也就是變成風溼性心臟病 (rheumatic heart disease, RHD)，幾乎都會影響 mitral valve，有時會一起影響主動脈瓣，但很少單獨影響主動脈瓣\n\n整理一些比較有可考性的症狀（參考本題出處的 Harrison 21/e Ch. 359）\n\n| 較晚出現的症狀 | 1. 1.5 個月：無痛性皮下結節 (subcutaneous nodule)<br>2. 6 個月後：舞蹈症 (Sydenham chorea)、心臟炎 (carditis) |\n| --- | --- |\n| 與心臟炎相關的症狀 | chorea（可考慮做 ECHO）、無痛性皮下結節 |\n| 常見症狀 (~ 75%) | 多關節炎 (60～75%)、心臟炎 (50～75%) |\n| 罕見症狀 (< 5%) | 邊緣性紅斑 (erythema marginatum)、無痛性皮下結節 |\n\n(B) 從感染到出現關節炎約 3 週，通常不對稱地影響大關節（膝蓋、腳踝、髖部、手肘等），ARF 的關節炎會超痛，不過對水楊酸消炎藥、NSAID 非常有反應，所以如果用藥 2 天候還在痛就很可能不是 ARF 引起的\n(C) 邊緣性紅斑 (erythema marginatum) 屬於較罕見臨床表現，比例小於 5%，好發於軀幹，偶而會長在四肢近端，但幾乎不會出現在臉上\n(D) 心臟炎是最常見的症狀之一，約 50～75% 的病人會出現（明顯不只 10%）\n\n＜相關考點＞\n1. RHD 的病理特徵：Aschoff body\n2. 隨著風溼性心臟病盛行率的減少，感染性心內膜炎的病人偏向老齡化",
+    "image": "/explanations/cropped/111-1-醫學(三)-33_merged.png",
+    "book_page": 138
   },
   "111-1-醫學(三)-34": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "病人在使用 TNF-a-inhibitor 後，臉上、手臂伸側、上背部及頸部後側出現紅疹 (lupus-like syndrome)，並且驗到以前沒出現過的 ANA 以及 anti-dsDNA (new-onset lupus antibodies)：此為 anti-TNF-α-induced lupus (ATIL)\n\n(A)(B)(D) adalimumab、etanercept、跟 infliximab 都是 TNF-α inhibitors（其他還包含 certolizumab pegol 跟 golimumab），已經產生 anti-TNF-α-induced lupus 就要停用 TNF-α inhibitors，通常停藥後抗體會慢慢消失，但目前沒有足夠證據支持在恢復後進行 re-challenge 或換別種 TNF-α inhibitor，故 (A)(B)(D) 都錯\n(C) rituximab 在 RA 治療的角色為 refractory RA，也就是使用 TNF-α inhibitors 治療失敗者可以使用，這位病患使用 TNF-α inhibitors 後出現不良反應需停藥，下一線治療就是 rituximab+methotrexate 合併使用，此組合對 seropositive RA 的治療效果較佳",
+    "image": "/explanations/cropped/111-1-醫學(三)-34_merged.png",
+    "book_page": 140
   },
   "111-1-醫學(三)-35": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "目前已有許多研究認為肌腱附著點、接骨點 (enthesis) 是 AS 以及其他 SpA（如：乾癬性關節炎 PsA）最初開始病變的地方，本題選 (B)，若接骨點發炎 (enthesitis) 會使附近的骨髓出現水腫並伴隨 erosive 病灶，長期下來會出現骨化現象\n\n＜其他考點＞\n1. enthesitis：僵直性脊椎炎 (AS)、乾癬性關節炎 (PsA)、反應性關節炎 (ReA)\n2. synovitis：類風濕性關節炎 (RA)\n3. capsulitis：五十肩（frozen shoulder，正式名稱就是 adhesive capsulitis）",
+    "image": "/explanations/cropped/111-1-醫學(三)-35_merged.png",
+    "book_page": 140
   },
   "111-1-醫學(三)-36": {
     "explanation": "【答案】(A) 或 (D)\n【解析】\n\n原始公告答案為 (A)，經試題疑義申覆後，考選部公告 (A) 或 (D) 均給分\n\n(A) 錯誤，**Interferon-γ（IFN-γ）** 是促進發炎、促進細胞免疫的主要細胞激素（由 Th1、CD8+ CTL 與 NK 細胞分泌），具有活化巨噬細胞、上調 MHC 分子表現及促進抗腫瘤（anti-tumor）免疫反應之功能；腫瘤細胞主要分泌 **TGF-β、IL-10、VEGF** 等免疫抑制性細胞激素來壓制免疫系統\n\n(B) 正確，腫瘤細胞常透過突變或下調（downregulate）**MHC class I** 分子（如 β2-microglobulin 突變），減少腫瘤相關抗原呈現，使 CD8+ 毒殺性 T 細胞無法有效辨識與殺傷腫瘤細胞\n\n(C) 正確，腫瘤微環境會分泌趨化因子募集並活化 **調節性 T 細胞（Tregs，CD4+ CD25+ FoxP3+）** 及骨髓衍生抑制細胞（MDSC），釋放免疫抑制因子阻斷效應 T 細胞之功能\n\n(D) 錯誤/爭議（故開放給分），**CTLA-4** 是表現於 **T 細胞（T cells）表面** 的免疫檢查點抑制性受體，而非由腫瘤細胞產生；腫瘤細胞主要表現的是 **PD-L1（結合 T 細胞的 PD-1）** 或透過表現 B7 家族分子與 T 細胞上的 CTLA-4 結合發送信號選項敘述「腫瘤細胞產生 CTLA-4」在免疫學定義上不正確，因此考選部開放 (D) 亦給分\n\n### 腫瘤免疫逃脫主要機制（Tumor Immune Evasion Mechanisms）\n\n| 逃脫機制類別 | 具體細胞或分子變化 | 免疫學效應與結果 |\n| :--- | :--- | :--- |\n| **抗原呈現缺失** | • 下調或喪失 MHC class I 表現<br>• 抗原處理機制缺陷（TAP 轉運蛋白、β2-microglobulin 突變） | CD8+ 毒殺性 T 細胞無法辨識腫瘤細胞抗原 |\n| **免疫檢查點途徑活化** | • 腫瘤細胞表面過度表現 **PD-L1**（結合 T 細胞之 PD-1）<br>• APC 或腫瘤表現 B7 結合 T 細胞之 **CTLA-4** | 直接傳遞抑制信號，造成效應 T 細胞功能耗竭（exhaustion）與無反應性（anergy） |\n| **免疫抑制性微環境建立** | • 分泌抑制性細胞激素（**TGF-β、IL-10、VEGF**）<br>• 募集免疫抑制性細胞（**Tregs、MDSCs、M2 巨噬細胞**） | 抑制 Th1/CTL 活化與增殖，阻斷樹突細胞抗原呈現 |\n| **代謝途徑重塑** | • 腫瘤微環境高表現 **IDO（吲哚胺 2,3-雙加氧酶）**，消耗色胺酸並產生犬尿氨酸<br>• 局部乳酸蓄積、酸中毒與低氧環境 | 抑制 T 細胞增殖與殺傷活性，誘導 T 細胞凋亡 |",
@@ -151,9 +151,9 @@
     ]
   },
   "111-1-醫學(三)-44": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "動脈性血栓 (arterial thrombi) 的組成主要是血小板、纖維蛋白 (fibrin)、紅血球以及降解中的白血球，因為血小板比例較高、顏色較白，故稱 white thrombi，通常會造成阻塞性 (occlusive) 問題，最常出現受影響的位置依序為：冠狀動脈（可造成急性心肌梗塞）> 腦動脈 > 股動脈，靜脈血栓 (venous thrombi) 的組成通常血小板比例比較低、紅血球佔比較高，在巨觀下顏色比較紅，故又稱 red thrombi\n\n(C) 急性周邊動脈血栓的主要治療是 iv. thrombolytics，可考慮導管引導 (catheter-guided thrombolytics therapy) 或手術取栓 (thrombectomy)、血管繞道等以避免缺血過久，主要治療方式並非全身性溶栓 (iv. fibrinolysis)",
+    "image": "/explanations/cropped/111-1-醫學(三)-44_merged.png",
+    "book_page": 91
   },
   "111-1-醫學(三)-45": {
     "explanation": "【答案】(B)\n【解析】\n\n氣喘（Asthma）的慢性氣道發炎主要分為**第二型發炎（Type 2 inflammation，約佔 50~70%）** 與**非第二型發炎（Non-Type 2 inflammation）**：\n\n(A) 錯誤，過敏原刺激樹突細胞（DC）釋放趨化因子 CCL17 與 CCL22，吸引並誘發的是 **Th2 lymphocytes（第二型輔助 T 細胞）** 而非 Th1；Th2 細胞分泌 **IL-5** 吸引嗜酸性球，分泌 **IL-4 / IL-13** 促進 B 細胞合成 IgE\n\n(B) 正確，病毒感染或空氣污染物刺激呼吸道上皮細胞釋放警報素（alarmins：**IL-25、IL-33 及 TSLP**），活化**第二型先天淋巴細胞（ILC2）**，促使 ILC2 大量分泌 **IL-5**（吸引與活化嗜酸性球 eosinophils）及 **IL-13**（誘發杯狀細胞增生與黏液過度分泌），此為非過敏原誘發 Type 2 發炎之重要途徑\n\n(C) 錯誤，呼氣一氧化氮濃度（FeNO）主要由氣道上皮細胞中的誘導型一氧化氮合成酶（iNOS）在 IL-4 / IL-13 刺激下產生，其數值主要直接反映氣道內 **嗜酸性球發炎（Eosinophilic airway inflammation）** 之活性程度，而非與 DC 或淋巴球呈直接正相關\n\n(D) 錯誤，**IL-10 是重要的抗發炎細胞激素（Anti-inflammatory cytokine）**，由 Treg 細胞分泌以抑制氣道發炎反應；而 IL-12 則主要促進 Th1 分化並抑制 Th2 免疫反應\n\n### 氣喘免疫發炎分型（Type 2 vs Non-Type 2）路徑比較\n\n| 免疫發炎型別 | 啟動刺激因子 | 關鍵啟動細胞與介質 | 效應細胞與臨床表型 |\n| :--- | :--- | :--- | :--- |\n| **Type 2 發炎（過敏型）** | 吸入性過敏原（塵蟎、花粉、動物皮屑） | 樹突細胞（DC）釋放 CCL17/22 → 活化 **Th2 細胞** 分泌 **IL-4, IL-5, IL-13** | **嗜酸性球（Eosinophil）增多**、血清 IgE 升高、FeNO 升高、對吸入性類固醇（ICS）反應佳 |\n| **Type 2 發炎（非過敏型）** | 呼吸道病毒感染、空氣污染、香菸煙霧 | 氣道上皮細胞釋放 **IL-25, IL-33, TSLP** → 活化 **ILC2 細胞** 分泌 **IL-5, IL-13** | 嗜酸性球性氣喘、成人發病、常合併慢性鼻竇炎合併鼻息肉（CRSwNP） |\n| **Non-Type 2 發炎** | 結核菌等細胞內病原、嚴重抽菸、肥胖 | 巨噬細胞與上皮釋放 IL-1β, IL-6, IL-23 → 活化 **Th1 / Th17 細胞** 分泌 **IFN-γ, IL-17** | **嗜中性球（Neutrophil）性氣喘**、對類固醇反應較差（Steroid-resistant） |",
@@ -203,9 +203,9 @@
     ]
   },
   "111-1-醫學(三)-2": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "骨鬆性骨折 (osteoporotic fracture) 好發於脊椎骨與髖骨，約 2/3 的脊椎骨壓迫性骨折沒有症狀，或只會導致身高減少、輕微脊椎側彎，如果有高於 T4 的單一骨折 (solitary fracture)，伴隨發燒、體重減輕者，要懷疑有其他 underlying disease，如：癌症相關的骨質異常，急性期治療除了止痛外可能還需要手術；後續還要改善風險因子以及接受藥物治療來預防再次發生骨折，藥物治療主要分為抗再吸收 (anti-resorptive) 與促生成 (anabolic) 兩大類，抗再吸收的藥包含：estrogen、SERM、雙磷酸鹽、denosumab、calcitonin 等；促生成類藥物則包含：teriparatide、abaloparatide 以及 romosozumab，綜上所述，疼痛緩解應為 NSAID、acetaminophen、narcotic agents 的作用而不是抗再吸收藥物的作用，且抗再吸收藥物可以預防脊椎骨骨折的再發生，故選 (C)\n\n<reference> Recognizing and reporting vertebral fractures: reducing the risk of future osteoporotic fractures. Lentle BC, Brown JP, Khan A, et al. Can Assoc Radiol J. 2007;58:27–36",
+    "image": "/explanations/cropped/111-1-醫學(三)-2_merged.png",
+    "book_page": 101
   },
   "111-1-醫學(三)-3": {
     "explanation": "端坐時比平躺時更覺得胸悶吸不到氣 → 躺臥呼吸（platypnea），可伴隨 orthodeoxia（因坐立時動脈血氧分壓降低而出現症狀）\n躺臥呼吸與肝肺症候群（hepatopulmonary syndrome, HPS）、PFO、myxoma 等有關。肝肺症候群的病人因為肝硬化合併門脈高壓 → 肺部血管擴張 → 出現肺內 shunting → V/Q mismatch\n\n(A) Castell's test 是 splenomegaly 的 PE，透過叩診左腋下第八或九肋間判斷是否有脾腫大，若叩診為 dullness 則可能有脾腫大，進一步暗示可能有門脈高壓\n(B) 可偵測肝硬化產生的腹水\n(C) diastolic rumbling heart murmur 為主動脈瓣逆流的聽診特徵\n(D) right ventricular heave 代表右心室肥大，與本題最無關",
@@ -215,14 +215,14 @@
     ]
   },
   "111-1-醫學(三)-4": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "有機磷會與 ACh 水解酶 (AChE) 進行不可逆的結合，抑制水解酶活性導致 ACh 累積，因此中毒會表現副交感的 muscarinic effects，常見症狀包含：分泌物增加（B 錯誤）、瞳孔縮小、肌肉無力 (A)、肌肉震顫、排尿排便失禁、急性腹瀉 (D)\n\n(C) 選項：有機磷對 CNS 的影響包含焦慮、躁動不安、意識混亂、震顫、癲癇，若過量導致 coma 均為可能症狀\n\n＜記法＞\n1. 口訣派：副交感症狀 SLUDGE = Salivation、Lacrimation、Urination、Diarrhea、GI upset、Emesis\n2. 故事派：交感 = 打架、逃跑；副交感 = 耍廢、休息\n\n| | 交感 | 副交感 |\n| --- | --- | --- |\n| 瞳孔 | α1 radial m. 收縮 → 散瞳<br>（進光好，才能看清楚逃跑路線） | M3 circular m. 收縮 → 縮瞳<br>（進光少一點，比較好睡覺） |\n| 氣管 | β2 氣管舒張<br>（活動量大，需要大量進氣） | M3 氣管收縮 |\n| 消化 | β2 抑制蠕動、α1 肛門括約肌收縮<br>（打架沒空消化或大便） | M3 促進蠕動、M3 肛門括約肌舒張<br>（休息時趕快消化一下食物） |\n| 泌尿 | β2 放鬆逼尿肌、α1 收縮括約肌<br>（沒人打架還一邊在尿尿的） | M3 逼尿肌收縮、M3 括約肌放鬆<br>（到定點休息的時候解放） |\n| 肌肉 | - | 無力、震顫<br>（打完架很累，肌肉沒力） |",
+    "image": "/explanations/cropped/111-1-醫學(三)-4_merged.png",
+    "book_page": 171
   },
   "111-1-醫學(三)-5": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "(A)(C) 大部分研究指出活性碳並無解毒有機磷的效果，但相較之下 physostigmine 會抑制水解酶的活性，使 ACh 濃度變高，整體作用會提高副交感 → 中毒症狀加劇，所以若要選最不適當的治療，應選 (C)\n(B)(D) 正確，atropine 為常用的有機磷解毒劑，若中毒會造成交感過於活躍，解毒劑為 physostigmine；2-PAM 也是常用的有機磷解毒劑，但因為是帶正電荷的四級銨，無法通過 BBB，所以不能有效改善 CNS 症狀，這點跟 atropine 不同要記一下\n\n＜補充＞\n1. ACLS symptomatic bradycardia 使用 atropine：1 mg，每 3～5 分鐘可給一次，最多 3 mg\n2. 其他解毒配對：\n\n| 藥物與解毒劑配對 | |\n| 藥物 | 解毒劑 (antidote) |\n| --- | --- |\n| opioid | naloxone（速效）、naltrexone |\n| benzodiazepine | flumazenil（診斷用，BZD 中毒治療為支持性療法） |\n| cyanide | vitamin B12 (hydroxocobalamin)<br>* 以前：amyl nitrite + sodium nitrite + sodium thiosulfate |\n| methanol | ethanol |\n| kanamycin | calcium gluconate、neostigmine |\n| methotrexate | folinic acid (5-formyl-THF) |\n| heparin / LMWH | protamine sulfate |\n| warfarin | vitamin K |\n| dabigatran | idarucizumab |\n| rivaroxaban | andexanet |\n| acetaminophen | N-acetylcysteine |\n| propranolol | Isoprenaline、glucagon |\n| caffeine | esmolol |\n| digoxin | DSFab（專門的抗體） |",
+    "image": "/explanations/cropped/111-1-醫學(三)-5_merged.png",
+    "book_page": 172
   },
   "111-1-醫學(三)-6": {
     "explanation": "主動脈瘤（aortic aneurysm）的成因主要可分為以下幾類：\n\n| 主動脈瘤成因 | 舉例 / 說明 |\n| --- | --- |\n| 退化性 | 老化、抽菸、高膽固醇血症、高血壓、粥狀動脈硬化 |\n| 基因異常 | BAV、Marfan's、Loeys-Dietz、Ehlers-Danlos type IV、aneurysm-osteoarthritis syndrome、Turner's、fibromuscular dysplasia |\n| 動脈炎 | - 血管炎：Takayasu、giant cell arteritis<br>- 風濕性：HLA-B27 相關、Behçet's、Cogan's、IgG4-RD<br>- 感染性：梅毒（升主動脈～主動脈弓）、結核（胸主動脈）、mycotic（沙門氏菌 / 葡萄球菌 / 鏈球菌 / 真菌，多在粥狀硬化斑塊處） |\n| 慢性剝離 | 久了導致動脈壁變脆弱 |\n| 創傷性 | 多傷到降胸主動脈（在 ligamentum arteriosum insertion 處之後） |\n\n而依照發生的位置又可分胸主動脈瘤、腹主動脈瘤\n\n| 主動脈瘤分佈 | 成因 | 症狀 | 預後 | 治療 |\n| --- | --- | --- | --- | --- |\n| 胸主動脈瘤 | 升主動脈：medial degeneration<br>下主動脈：粥狀動脈硬化（atherosclerosis） | 大多無症狀，若有：<br>- 壓迫或侵蝕：胸痛、喘、咳嗽、沙啞、吞嚥困難<br>- 影響升主動脈：AR、壓到 SVC → congestive HF | 進展較快：Marfan's、體積大、出現症狀者<br>* 破裂率：< 4 cm 每年 2~3%、> 6 cm 每年 7% | 藥物：β-blockers、控制血壓、ACE-i/ARB<br>手術：升主動脈瘤 ≥ 5.5 cm 或每年增加 > 0.5 cm；降主動脈 ≥ 6 cm 或每年增加 > 1 cm 時可考慮介入 |\n| 腹主動脈瘤 | > 4 cm 的有 90% 與粥狀動脈硬化有關，大多出現在比 renal artery 低的地方 | 大多無症狀，若有：腹痛、強烈搏動感、胸痛、下背痛、陰囊痛。會痛要小心是不是動脈瘤（要）破了 | 破裂率：< 5 cm 五年 1~2%、> 5 cm 五年 20~40% | 藥物：statins<br>手術：有任何症狀、快速擴大、≥ 5.5 cm 者 |",
@@ -397,9 +397,9 @@
     ]
   },
   "111-1-醫學(三)-16": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "從肚臍周圍往右下腹部移動的疼痛，是急性闌尾炎所會表現的特殊症狀，因為一開始是屬於悶悶的臟器痛，後來發炎越來越嚴重就會導致腹膜刺激而出現局限性、位置明確的疼痛\n(A) 正確，育齡年紀的女性出現下腹痛一定要考慮泌尿道及婦產科方面的問題，包含：卵巢囊腫扭轉、子宮內膜異位、子宮外孕、黃體囊腫破裂等\n(B) 錯誤，在 McBurney's point 上出現壓痛的確是急性闌尾炎的症狀，不過 Rovsing's sign 是指在左下腹 (LLQ) 輕壓會導致右下腹 (RLQ) 疼痛，急性闌尾炎的 PE 還有 obturator sign（內轉髖部會疼痛）與 psoas sign（伸展髖部會疼痛）\n(C) 正確，急性闌尾炎在 CT 的表現為闌尾擴張 > 6 mm 且出現闌尾壁變厚、周圍有發炎、fat stranding 或有積氣，不是所有急性闌尾炎都與糞石有關，在 CT 上也並非一定會看到糞石\n(D) 正確，急性闌尾炎若出現局部膿瘍、組織炎 (phlegmon) 等，則屬複雜型闌尾炎 (complicated appendicitis)，初始治療應投予廣效抗生素，膿瘍 > 3 cm 則安排引流，如果保守治療後有改善，就等 6～12 週後再進行 laparoscopic appendectomy，目前主流均採腹腔鏡手術，和傳統手術比起來優點包含：術後疼痛較少、住院天數減少、較快回歸日常生活、比較少淺層傷口併發症等；但腹腔鏡切除的 intra-abdominal abscess 生成機率較傳統手術高",
+    "image": "/explanations/cropped/111-1-醫學(三)-16_merged.png",
+    "book_page": 174
   },
   "111-1-醫學(三)-17": {
     "explanation": "家族遺傳性大腸癌（以下三者都是 AD）\n\n| syndrome | 突變的基因 | 腸胃道腫瘤 | 其他異常 |\n| --- | --- | --- | --- |\n| FAP | APC（chr. 5q21） | 上百顆 adenoma、intestinal type 胃癌 | 視網膜色素上皮肥厚（CHRPE） |\n| Lynch（HNPCC） | MSH2, MLH1 | 大腸直腸癌 | 子宮內膜癌、卵巢癌 |\n| Peutz-Jeghers | STK11 = LKB1（chr. 19） | hamartoma、胃癌、小腸癌、大腸癌、胰臟癌 | 口腔黏膜色素斑、乳癌、卵巢癌、胰臟癌、肺癌 |\n\n(A) 正確，adenoma/adenomatous polyp 是 adenocarcinoma 的癌前病變（但大部分不會癌化），而 hyperplastic polyp 則不是癌前病變\n(B) 錯誤，一般而言相較於 pedunculated, adenomatous polyp，侵犯癌更容易從 sessile, serrated polyp 中長出。另外 sessile, serrated polyp 大多數帶有 MSI 的變異，常侵犯周圍的淋巴血管組織\n(C) 正確，在沒有預防性切除的情況下，FAP 患者發生大腸癌的機率幾乎 100%\n(D) 正確，Lynch syndrome 就是 HNPCC（hereditary nonpolyposis colorectal cancer），是因為 mismatch repair 功能受到影響，導致有 microsatellite instability（MSI），因此不只是會發生大腸癌，得到子宮內膜癌（Lynch 最常見的腸道外腫瘤）、卵巢癌等機率也比一般人高\n\n＜其他考點＞\n1. 家族遺傳性的大腸癌，發生年紀通常較早\n2. APC 突變系列的還有：\n   a. Gardner：polyposis + osteoma / epidermoid cyst / thyroid tumor\n   b. Turcot：polyposis + medulloblastoma / glioblastoma\n3. Lynch 的大腸癌主要發生在近端大腸（ascending colon）\n   < 記法 > Lynch 唸起來像「鄰居」，所以是「近」端大腸\n4. Peutz Jeghers 病患的過誤瘤（hamartoma）可能會造成出血、腸阻塞、腸套疊等，雖然本身不是癌前病變，但患者罹癌的風險仍比一般人高。可能合併卵巢癌、胰臟癌、乳癌等，但與口腔腫瘤無關【110 內專】\n5. 大腸息肉經切除後，多數人 3 年後再追蹤大腸鏡檢查即可",
