@@ -1286,9 +1286,8 @@
     ]
   },
   "111-1-醫學(五)-1": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "(A) 大量流失鹼性的碳酸氫鹽，會造成的是酸血症 (acidemia)\n(B) 氣管插管後若發生呼吸器過度機械性通氣，過度換氣使 CO2 被大量排出，血中的碳酸濃度會下降，而導致呼吸性鹼中毒\n(C) 敗血性休克發生時，代謝的過程中因缺氧而產生乳酸，乳酸堆積會導致代謝性酸中毒 (metabolic acidosis)\n(D) 大量輸注等張氯化鈉溶液時，可能產生 hyperchloremic acidosis\n\n答案：(D)",
+    "image": "/explanations/cropped/111-1-醫學(五)-1_merged.png"
   },
   "111-1-醫學(五)-2": {
     "explanation": "當頸部高度向後伸展 (hyperextension)，導致第二頸椎椎弓脫位骨折，此種骨折就稱為絞刑骨折。大多病人會以頸部劇烈疼痛為臨床表現，若未及時察覺、加以固定與治療，可能損及脊髓，導致嚴重癱瘓甚至呼吸停止\n\n#### 脊柱骨折 Fractures of Vertebral Column\n| 骨折類型 | 描述 | 處置方法 |\n| :--- | :--- | :--- |\n| C1 Jefferson fracture | (A) disruption of C1 ring in multiple locations；blow-out ring (第一頸椎的粉碎性骨折) | • 橫韌帶 (transverse ligament) 穩定：硬頸圈 (hard collar)<br>• 橫韌帶不穩定：頸椎牽引 (traction) 或手術 |\n| Odontoid fracture I | (C) tip of odontoid | 硬頸圈 (hard collar) |\n| Odontoid fracture II | (B) through base | 頸椎外固定器 (halo vest) 或手術 |\n| Odontoid fracture III | involves C2 body | 頸椎外固定器 (halo vest) |\n| C2 hangman fracture | (D) bilateral C2 pedicles with spondylolisthesis | 頸椎外固定器 (halo vest) 或手術 (脫位嚴重時) |\n| Cervical vertebral body fractures | Compression or burst of vertebral body with or without retropulsion into canal | • 高度略減：硬頸圈<br>• 影響多節脊柱或往後壓迫至脊髓管 (retropulsion into canal)：手術穩定 |\n| Thoracic vertebral body fractures | Compression or burst of vertebral body with or without retropulsion into canal | • 僅前柱：TLSO<br>• 前柱 + 後柱：手術穩定 |\n| Lumbar vertebral body fractures | Compression or burst of vertebral body with or without retropulsion into canal | • 僅前柱：TLSO<br>• 前柱 + 後柱：手術穩定 |\n| Chance fracture | Avulsion of posterior elements of lumbar vertebrae seen with high seat belt use (脊椎骨前後完全撕裂，常見於加速後急減速的緊急煞車) | 手術穩定 |\n\n*(整理自 2021 Sabiston Chapter 16)",
@@ -1319,9 +1318,8 @@
     ]
   },
   "111-1-醫學(五)-6": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "**低血鈉常見的臨床症狀**\n\n| 急性低血鈉 | 慢性低血鈉 |\n| :--- | :--- |\n| • 頭痛<br>• 噁心、嘔吐、食慾不振<br>• 疲勞<br>• 癲癇發作<br>• 腦幹疝脫<br>• 呼吸衰竭<br>• 意識不清、昏迷<br>• 死亡 | • 噁心、嘔吐<br>• 疲勞<br>• 癲癇發作<br>• 步態干擾、易跌倒<br>• 認知障礙<br>• 骨折風險增加 |\n\n(整理自 Harrison 20th ed. Chapter 49 及 2020 內科學誌——低血鈉的診斷與治療)\n\n答案：(B)",
+    "image": "/explanations/cropped/111-1-醫學(五)-6_merged.png"
   },
   "111-1-醫學(五)-7": {
     "explanation": "#### ATLS 出血性休克分級\n| | Class I | Class II | Class III | Class IV |\n| :--- | :--- | :--- | :--- | :--- |\n| 失血量 (%) | 0~15 | 15~30 | 30~40 | >40 |\n| 失血量 (mL) | <750 | 750~1500 | 1500~2000 | >2000 |\n| 中樞神經系統 | 微焦慮 (slightly anxious) | 輕度焦慮 | 焦慮或混亂 (confused) | 混亂或昏睡 (lethargic) |\n| 心跳 (bpm) | <100 | >100 | >120 | >140 |\n| 血壓 | 正常 | 正常 | ↓ | ↓ |\n| 脈壓 | 正常 | ↓ | ↓ | ↓ |\n| 呼吸速率 | 14~20/min | 20~30/min | 5~15/min (↓) | 幾乎沒有 |\n| 尿量 (mL/hr) | >30 | 20-30 | 5-15 | 幾乎沒有 |\n| 輸液 | crystalloid | crystalloid | crystalloid + blood | crystalloid + blood |\n\n*(整理自 Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 4 及 Emergent Medicine Journal, 2012;0:1-8)*\n\n題幹中病人的狀況應該落在 Class III (心跳落在 120 bpm~140bpm 間、脈搏微弱、血壓下降)，故選擇 1500~2000 mL 區間內的失血量較為適合",
@@ -1356,16 +1354,16 @@
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-11_merged.png"
   },
   "111-1-醫學(五)-12": {
-    "explanation": "缺頁",
-    "explanation_image": null
+    "text": "依題述此病人的狀態，應接近於出血性休克 class III\n\n在病人意識清楚、給予維持 vital sign 的處置後，還是應詢問病人相關病史與近期用藥，以便快速掌握病人狀況並且協助診斷。其中，由於病人主訴為解血便，因此需詢問血便顏色與量、近期有無腸胃道內視鏡檢查結果等，而抗凝血劑的使用對於之後可能需做侵入性檢查或處置的病人是非常重要的。理學檢查方面，肛門檢查可協助鑑別血便可能來源\n\n由於病人已經處於 shock 狀態，故應盡快建立管路輸液並備血輸血以維持生命徵象\n\n解血便可能為上消化道或下消化道出血所致，可安排上消化道鏡或大腸鏡進行鑑別；若懷疑為上消化道出血，可先放置鼻胃管進行抽吸引流及監測出血量、給予 PPI 減少潰瘍處急性出血的風險 (high-risk ulcer stigmata)（但無法改善死亡率）、給予經驗性抗生素預防感染等，並且根據病人狀況通常大部分會安排 24 小時內進行胃鏡檢查尋找出血點；若懷疑為下消化道出血，可安排大腸鏡及 CT 尋找出血點；在出血十分嚴重的情況下，應盡快安排 angiography 進行止血，若仍無法順利止血則可能須考慮進行手術\n\n(D) 承 (C)，手術通常是最後手段，一開始應先維持病人生存徵象以及快速找到出血原因並加以處置\n\n答案：(D)",
+    "image": "/explanations/cropped/111-1-醫學(五)-12_merged.png"
   },
   "111-1-醫學(五)-13": {
-    "explanation": "缺頁",
-    "explanation_image": null
+    "text": "在 Fan SM, Grigorian A, Smith BR, Kuza CM, Lekawa M, Schubl SD, Nguyen NT, Nahmias J. Geriatric patients undergoing appendectomy have increased risk of intraoperative perforation and/or abscess. Surgery. 2020 Aug;168(2):322-327. 這篇文章中的結論提到，年長病患比年輕病患「有較高的比例改為開腹手術」、「有較高機會最後發現腫瘤或癌症的病理表現」、「有較高風險發生術中穿孔或膿瘍 (intraoperative perforation or abscess) 及術後腹內膿瘍」，但死亡率沒有差異\n\n→根據此文章的論述，(A) (B) (D) 為相對相符的選項，(C) 所提及的感染相關併發症則沒有被直接提及\n\n答案：(C)",
+    "image": "/explanations/cropped/111-1-醫學(五)-13_merged.png"
   },
   "111-1-醫學(五)-14": {
-    "explanation": "缺頁",
-    "explanation_image": null
+    "text": "NOTES 由於經由身體的自然孔洞進行手術，無論操作空間或器械角度等都會受到更大的影響，在操作上的難度更勝於傳統內視鏡手術，故會增加醫師的心理壓力且其學習曲線較長\n\nPOEM 為食道弛緩不能 (achalasia) 的新興術式，雖手術門檻高，但成功率也高，且研究顯示可避免腹部創傷、減少對食道胃接合處的破壞並且大幅改善症狀\n\n承 (A)，NOTES 雖然操作難度較高，但相較於其他術式，其明顯的優勢在於手術傷口較少、疼痛較少及失能較少\n\n最適合進行 TEMS 的腫瘤須位於肛門距離 8~18 公分處\n\n參考資料：Schwartz's Principles of Surgery (2019, 11ed.) Chapter 14\n\n答案：(D)",
+    "image": "/explanations/cropped/111-1-醫學(五)-14_merged.png"
   },
   "111-1-醫學(五)-15": {
     "explanation": "腦血管痙攣 (cerebral vasospasm) 通常發生於血管暴露於血液之中，可能和血塊溶解時產生的血管收縮物質相關，常發生於腦動脈瘤破裂出血後造成的 SAH，腦血管痙攣後可能導致腦部缺氧\n\n(A) 發生 SAH 後數分鐘到數小時就可能發生早期 vasospasm，延遲性 vasospasm 通常發生於 4~14 天後，其中最多會發生於 SAH 的 6~10 天後\n\n(B) 腦動脈瘤破裂出血後造成之 SAH 的嚴重程度，可用 Hunt and Hess clinical grading scale 描述之，並且可藉由此 grading scale 預測病人預後：\n\n| Hunt & Hess | 臨床特徵 | 存活率 |\n| :--- | :--- | :--- |\n| Grade 0 | • 動脈瘤未破裂，且無症狀 | |\n| Grade 1 | • 無症狀或輕微頭痛，且伴有輕微頸部僵硬 | 70% |\n| Grade 2 | • 中度到重度頭痛且伴有頸部僵硬<br>• 除顱神經麻痺 (cranial nerve palsy) 外，無其他神經學異常 | 60% |\n| Grade 3 | • 嗜睡 (drowsy)<br>• 輕微神經學異常 | 50% |\n| Grade 4 | • 木僵無反應 (stupor)<br>• 中度到重度半癱 (hemiparesis)<br>• 可能有早期去大腦性僵直、瀕臨植物人狀態的情況 (early decerebrate rigidity and vegetative disturbance) | 20% |\n| Grade 5 | • 昏迷 (deep coma)、去大腦性僵直、垂死 (moribund) | 10% |\n\n另有 Fisher Grade 藉由在 CT 上看到的出血量預測 symptomatic cerebral vasospasm 的風險並加以分級：\n\n#### Modified Fisher Grade\n| | 臨床特徵 | 有症狀的腦血管痙攣發生率 |\n| :--- | :--- | :--- |\n| Grade 1 | 無 SAH 或 IVH | 21% |\n| Grade 2 | 廣泛性 <1 mm 的 SAH、無血塊 | 25% |\n| Grade 3 | 有局部血塊或 >1 mm 厚的 SAH；無 IVH | 37% |\n| Grade 4 | 有廣泛性 SAH 或無 SAH；有 IVH 或 ICH | 31% |\n\n*\\*SAH: subarachnoid hemorrhage 蜘蛛網膜下出血*<br>*\\*IVH: intraventricular hemorrhage 腦室內出血*<br>*\\*ICH: intracerebral hemorrhage 腦實質出血*\n\n相較之下，Fisher Grade 以 CT 下看到的出血量進行分級，故可較直接地預測腦血管痙攣發生的機率；Hunt and Hess 主要為 SAH 嚴重程度的分級，而 SAH 越嚴重其發生後續併發症的機率較高也算是合理的敘述\n\n(C) 由於腦血管痙攣為血管暴露於血液中所致，因此可推知基底腦池出血量越多，發生腦血管痙攣的機會也就會越高\n\n(D) 腦血管痙攣的預防及處置方法：\n\n| 類別 | 內容 |\n| :--- | :--- |\n| 預防 | • 稍微提高血壓以及適度補充體液 (mild hypervolemia)，以維持足夠灌流量<br>• 給予 nimodipine (為一種可降低血管痙攣發生率與發生程度的 CCB 藥物，但其作用機制仍有爭議) |\n| 處置 | • 給予 papaverine (罌粟鹼) 或 nicardipine<br>• 以氣球擴張術 (balloon angioplasty) 維持較大的血管管徑<br>• hemodynamic augmentation: 增加腦內灌流量<br>\\*以往以 HHH therapy (hypertension, hypervolemia, hemodilution) 為治療首選，藉由維持灌流充足避免腦血管痙攣後的腦部缺氧，但 hemodilution 治療仍存有些許爭議 |",
@@ -1460,8 +1458,8 @@
     "explanation_image": null
   },
   "111-1-醫學(五)-38": {
-    "explanation": "缺頁",
-    "explanation_image": null
+    "text": "Plavix 及 Aspirin 都會增加術中出血的風險，因此會停止 7-10 天後再安排手術。而在機制上，Plavix 及 Aspirin 皆為血小板凝集抑制劑，並不會對 PT 或 aPTT 有直接影響，因此在要進行大手術前，即使 PT 及 aPTT 在正常範圍內，只要 Plavix 或 Aspirin 停藥不夠久，都還是需要暫緩手術排程，以免術中發生危險\n\n答案：(D)",
+    "image": "/explanations/cropped/111-1-醫學(五)-38_merged.png"
   },
   "111-1-醫學(五)-39": {
     "explanation": "缺頁",
@@ -1532,8 +1530,8 @@
     "image": "/explanations/cropped/111-1-醫學(五)-55_merged.png"
   },
   "111-1-醫學(五)-56": {
-    "text": "缺頁",
-    "image": null
+    "text": "(A) 硬纖維瘤 (desmoid tumor) 又稱為侵襲性纖維瘤病 (aggressive fibromatosis)，其中約 20% 與 FAP (familial adenomatous polyposis) 有關\n\n(B) 多發性神經纖維瘤 (neurofibromatosis)，又稱 von Recklinghausen disease，為體染色體顯性遺傳疾病\n\n(C) 除去 Karposi's sarcoma 外，最常見於成人的軟組織肉瘤為惡性纖維性組織細胞瘤 (malignant fibrous histiocytoma, 28%)，其次為脂肪肉瘤 (liposarcoma, 15%)、平滑肌肉瘤 (leiomyosarcoma, 12)、滑肉膜瘤 (synovial sarcoma, 10%)\n\n(D) 惡性周圍神經鞘瘤 (malignant peripheral nerve sheath tumor) 源自多病灶的第 1 型多發性神經纖維瘤 (neurofibromatosis type 1)，約 25~50% 有惡性周圍神經鞘瘤的人也有 NF1，而約 10% 有 NF1 者在一生中會得到惡性周圍神經鞘瘤\n\n答案：(C)",
+    "image": "/explanations/cropped/111-1-醫學(五)-56_merged.png"
   },
   "111-1-醫學(五)-57": {
     "text": "(A) 骨盆穩定骨折指的是骨盆環 (pelvic ring) 僅有一處斷裂，且斷面可以接得起來；大多骨盆骨折屬於此類，且通常給予止痛藥、抗凝血藥、使用助行器等保守治療即可\n\n(B) 可能伴隨骨盆骨折的神經損傷包括 L4~S5 神經根損傷，因此骨盆骨折病人也須留意其有無會陰部麻木感、大小便失禁、肛門張力下降等問題\n\n(C) 骨盆骨折較可能造成骨盆腔或腹腔的腔室症候群\n\n(D) 不穩定骨折指的是骨盆環上有多處斷裂，且骨頭發生位移 (displacement)；此類通常需外固定手術、骨骼牽引、開放性復位及內固定手術；手術過程中若傷及周圍神經，有可能出現下背痛的後遺症",
