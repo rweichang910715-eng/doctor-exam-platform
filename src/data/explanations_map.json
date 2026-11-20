@@ -2736,39 +2736,53 @@
     ]
   },
   "111-2-醫學(四)-52": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "巴金森氏病（Parkinson's disease）之臨床表徵與鑑別診斷：\n\n* 四大核心運動症狀（TRAP 原則）：\n  1. 靜止性顫抖（Rest tremor，T）：最常見之首發症狀，約 70% 患者由單側肢體遠端開始（如題幹右手拇指與食指之 4~6 Hz 搓藥丸式顫抖 pill-rolling tremor）\n  2. 肢體僵硬（Rigidity，R）：被動伸屈肢體時呈現齒輪狀（cogwheel）或鉛管狀（lead-pipe）阻力，近半年逐漸延伸至同側下肢（右腳僵硬）\n  3. 動作遲緩（Bradykinesia，A）：精細動作困難、字越寫越小（小字症 micrographia）、步行時患側手臂擺動幅度減少（decreased arm swing）、臉部表情減少（面具臉 masked face）\n  4. 姿勢反射障礙（Postural instability，P）：通常於疾病中後期出現\n* 不對稱起病（Asymmetric onset）：特發性巴金森氏病極具代表性之特徵為由單側肢體起始，數年後才波及對側，故本題臨床表現最符合巴金森氏病，選 (C)\n* 各選項解析：\n  * (A) 半身肌張力不全：主要為持續性肌肉收縮導致肢體扭曲變形與異常姿勢，無靜止性顫抖與小字症\n  * (B) 脊髓小腦共濟失調症：主要表現為廣基步態（醉漢步態 broad-based gait）、辨距不良（dysmetria）、意向性顫抖（intention tremor）與眼球震顫\n  * (D) 本態性顫抖：主要為雙側對稱之「姿勢性或動作性顫抖（action/postural tremor）」，在端杯子、寫字或使用工具時加劇，安靜休息時消失，不具動作遲緩、僵硬、小字症或面具臉特徵",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-52_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-52_merged.png"
+    ]
   },
   "111-2-醫學(四)-53": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "肉毒桿菌中毒（Botulism）與重症肌無力（Myasthenia gravis, MG）之比較：\n\n* 核心病理生理學差異：\n  * 肉毒桿菌中毒：肉毒桿菌神經毒素（BoNT）切割 SNARE 蛋白複合體，抑制運動神經末梢突觸前（Presynaptic）乙醯膽鹼（ACh）之囊泡胞吐釋放；同時毒素亦強烈抑制副交感神經節後膽鹼能纖維釋放 ACh，因而**極常合併自律神經失調（Autonomic dysfunction）**，如瞳孔放大固定（mydriasis）、調節麻痺、嚴重口乾、便祕、排尿困難與心搏過緩/低血壓\n  * 重症肌無力（MG）：為自體抗體（如 anti-AChR、anti-MuSK）專一性破壞骨骼肌運動終板突觸後（Postsynaptic）之 ACh 受體，僅侵犯隨意肌（橫紋肌），**絕對不會侵犯自主神經系統（無自律神經異常）**，故 (C) 敘述錯誤，選 (C)\n* 各選項解析：\n  * (A) 正確：肉毒桿菌為突觸前 ACh 釋放障礙，MG 為突觸後 AChR 數量減少與功能受損\n  * (B) 正確：重覆神經電刺激測驗（RNS）中，突觸後病變（MG）於低頻刺激（2~3 Hz）呈現波幅遞減（decremental response > 10%）；突觸前病變（肉毒桿菌中毒、LEMS）於高頻刺激（20~50 Hz）或用力收縮後呈現波幅顯著遞增（incremental response / post-exercise facilitation）\n  * (C) 錯誤（選 C）：肉毒桿菌中毒常合併自律神經異常，但重症肌無力無自律神經異常\n  * (D) 正確：兩者皆常由腦神經支配肌肉首發；肉毒桿菌中毒典型表現為對稱性「下行性麻痺（descending paralysis）」，由眼肌、吞嚥肌向下延展至四肢與呼吸肌；重症肌無力最常見首發亦為眼肌型無力（眼瞼下垂 ptosis、複視 diplopia）",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-53_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-53_merged.png"
+    ]
   },
   "111-2-醫學(四)-54": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "近端肢體無力（Proximal weakness）之鑑別診斷：\n\n* 神經病變（Neuropathy）vs 肌肉病變（Myopathy）之核心鑑別概念：\n  * 肌肉病變（Myopathy）：如多發性肌炎（Polymyositis）、皮肌炎（Dermatomyositis）、肌肉失養症等，主要特徵為**對稱性近端肢體無力（Proximal weakness）**，初期常表現為上梳頭髮困難、由椅子站起或爬樓梯困難（骨盆帶與肩胛帶肌肉無力），肌束顫動少見，深層肌腱反射多半正常，無感覺異常\n  * 周邊神經病變（Peripheral neuropathy）：如糖尿病多發性神經病變、神經壓迫症候群（如肘隧道症候群），通常呈現**遠端肢體無力（Distal weakness）**與手套襪套樣感覺喪失（glove-stocking sensory loss），深層肌腱反射早期即減弱或消失\n  * 運動神經元疾病（如 ALS）：早期多為非對稱性遠端肌肉萎縮與無力（如手部小肌肉萎縮），常合併明顯肌束顫動（fasciculation）\n* 各選項解析：\n  * (A) 最常以近端無力為初期表現（選 A）：多發性肌炎（Polymyositis）為發炎性肌肉病變，核心特徵即為近端肌肉（大腿與上臂）進行性無力\n  * (B) 糖尿病多發性神經病變：以遠端感覺異常與遠端肌無力為主\n  * (C) 肌萎縮性側索硬化：多以單側遠端手部笨拙、手部小肌肉萎縮起病\n  * (D) 肘隧道症候群：為尺神經（ulnar nerve）於手肘處受壓迫，表現為尺神經支配區（第四五指）感覺麻木與手部小肌肉無力萎縮",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-54_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-54_merged.png"
+    ]
   },
   "111-2-醫學(四)-55": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "維生素 B12 缺乏與亞急性合併退化症（Subacute combined degeneration, SCD）：\n\n* 致病原因：長年嚴格純素食者未適當補充維生素 B12，導致體內維生素 B12 嚴重耗竭，影響髓磷脂（myelin）合成代謝，引發脊髓與周邊神經廣泛性脫髓鞘病變\n* 受損解剖部位與臨床特徵：\n  1. 脊髓後柱（Posterior columns）：受損導致振動覺（vibration sense）與本體關節位置覺（joint position sense）喪失，引起感覺性運動失調（sensory ataxia）與 Romberg 徵象陽性\n  2. 脊髓側索皮質脊髓束（Lateral corticospinal tracts）：受損導致上運動神經元徵象，表現為痙攣步態（spastic gait）、下肢僵硬、病理性 Babinski 反射陽性及兩側膝反射（knee jerk）增強\n  3. 周邊神經病變（Peripheral neuropathy）：合併下運動神經元損傷，導致遠端下肢腳踝深層肌腱反射（ankle jerk）減弱或消失，此即臨床上經典之「膝反射增強但踝反射減弱」特徵\n  4. 脊髓前側索（Spinothalamic tract）相對不受侵犯，因此病患之痛覺與溫覺維持正常\n* 各選項解析：\n  * (A) 肌萎縮性側索硬化（ALS）：為純運動神經元疾病，不侵犯感覺神經（感覺功能正常且無振動覺/位置覺喪失）\n  * (B) 後脊髓動脈症候群：後脊髓動脈為雙側成對血管，中風多為急性突發且常為「單側」後柱受損，非慢性對稱漸進性\n  * (C) 正確：亞急性合併退化症（SCD）完全吻合全素食、後柱與側索合併受損及膝反射亢進/踝反射消失之臨床表現，故選 (C)\n  * (D) 慢性發炎性脫髓鞘多發性神經病變（CIDP）：主要表現為四肢近端與遠端對稱性進行性無力，深層肌腱反射廣泛普遍消失，非脊髓後柱解離性感覺受損",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-55_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-55_merged.png"
+    ]
   },
   "111-2-醫學(四)-56": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "單純疱疹病毒腦炎（Herpes simplex encephalitis, HSE）之臨床與影像學特點：\n\n* 病原體：絕大多數成人 HSE 由 **第 1 型單純疱疹病毒（HSV-1）** 引起，經由嗅神經或三叉神經逆行侵入中樞神經系統\n* 經典侵犯部位：\n  * HSV-1 具有高度嗜神經性，特異性攻擊**大腦前顳葉（Anterior temporal lobe）**、**內側顳葉（Medial temporal lobe，包括海馬迴、杏仁核）**與**額葉眶額面（Orbitofrontal cortex）**等邊緣系統結構，常呈現非對稱性、壞死性與出血性腦炎\n* 影像學與實驗室檢查：\n  * 腦部磁振造影（MRI）：T2 與 FLAIR 序列顯示單側或非對稱性雙側顳葉與額葉底面顯著高訊號水腫病灶，常伴隨腦迴狀對比增強或微小出血\n  * 腦波（EEG）：顳葉區域出現特徵性「週期性偏側癲癇樣放電（PLEODs）」\n  * 腦脊髓液（CSF）：淋巴球增多、紅血球增多（出血性），CSF HSV PCR 為診斷黃金標準\n* 臨床處置：高度懷疑時應立即經驗性給予靜脈注射 **Acyclovir**（10 mg/kg q8h）治療，以大幅降低死亡率與永久性神經後遺症，故選 (A)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-56_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-56_merged.png"
+    ]
   },
   "111-2-醫學(四)-57": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "高惡性度神經膠質瘤 vs 低惡性度神經膠質瘤之臨床表徵比較：\n\n* 疾病特徵與生長生物學差異：\n  * 低惡性度神經膠質瘤（Low-grade glioma，WHO Grade 2）：腫瘤生長緩慢，好發於大腦皮質與皮質下邊緣區（如顳葉、額葉及腦島 insular cortex），神經元微環境長期受慢性刺激與神經傳導失衡，因此**癲癇發作（Seizures）**發生率極高（約 60~85% 患者以此為初始症狀）\n  * 高惡性度神經膠質瘤（High-grade glioma，WHO Grade 3~4，如膠質母細胞瘤 Glioblastoma, GBM）：生長極為迅速、具強烈侵襲性與破壞性，伴隨大範圍血管源性腦水腫與顱內壓增高，更常直接破壞深部白質神經傳導束與實質，因此更常表現為**局部神經功能缺損（Focal deficits，如偏癱 hemiparesis、失語症 aphasia）**、**認知功能障礙**與**顱內壓升高症狀**；其癲癇發生率（約 30~50%）顯著低於低惡性度膠質瘤\n* 各選項解析：\n  * (A)、(B)、(C) 正確：高惡性度神經膠質瘤生長迅速且侵襲大腦實質與白質徑，病人顯著較易發生認知功能障礙、單側偏癱及失語症\n  * (D) 錯誤（選 D）：低惡性度神經膠質瘤因好發於皮質且生長緩慢，癲癇發作之發生率（60~85%）顯著高於高惡性度膠質瘤（30~50%），故 (D) 敘述錯誤",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-57_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-57_merged.png"
+    ]
   },
   "111-2-醫學(四)-58": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "多發性硬化症（Multiple sclerosis, MS）急性發作腦脊髓液（CSF）檢查特徵：\n\n* 腦脊髓液（CSF）分析核心數值：\n  1. 總蛋白濃度（Total protein）：MS 為中樞神經發炎性脫髓鞘疾病，CSF 總蛋白濃度通常正常或僅輕微升高（通常 < 100 mg/dL，約在 50~100 mg/dL 之間）；若 CSF 總蛋白顯著 > 100 mg/dL，臨床上應強烈懷疑其他疾病（如視神經脊髓炎 NMOSD、急性感染、Guillain-Barré 症候群或脊髓蛛網膜下腔阻塞等），故 (A) 敘述「常大於 100 mg/dL」錯誤，選 (A)\n  2. 白血球計數（WBC count）：急性發作時約三分之一至半數病患出現輕度白血球增加（淋巴球單核球增多），但通常 < 50 cells/μL（多數 < 20 cells/μL）\n  3. 寡株落免疫球蛋白帶（Oligoclonal bands, OCB）：利用等電位聚焦電泳分析（IEF），超過 85~95% 之 MS 患者可在 CSF 中檢測到 2 條以上特異性 OCB，且配對之血清樣本中無相對應條帶，代表中樞神經鞘內特異性 IgG 合成（Intrathecal synthesis），伴隨 IgG index 升高（> 0.7）\n  4. 葡萄糖濃度（Glucose）：MS 不破壞血腦屏障之葡萄糖轉運蛋白，CSF 葡萄糖濃度完全正常（CSF/血清葡萄糖比值 > 0.6）",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-58_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-58_merged.png"
+    ]
   },
   "111-2-醫學(四)-59": 469,
   "111-2-醫學(四)-60": 470,
@@ -2785,7 +2799,13 @@
   "111-2-醫學(四)-71": 476,
   "111-2-醫學(四)-72": 477,
   "111-2-醫學(四)-73": 478,
-  "111-2-醫學(四)-74": 169,
+  "111-2-醫學(四)-74": {
+    "explanation": "血管性失智症（Vascular dementia, VaD）之影像學表現與鑑別診斷：\n\n* 影像學判讀（Brain MRI）：\n  * 題幹附圖 T2/FLAIR 序列可見：雙側基底核（basal ganglia）與丘腦區域呈現多發性小洞性腦梗塞（lacunar infarcts / lacunes），伴隨廣泛性腦室周圍及深部大腦白質高訊號病變（white matter hyperintensities, WMH），符合皮質下缺血性微血管病變（Binswanger disease / subcortical ischemic vascular dementia）之典型特徵，故選 (D)\n* 臨床表徵：多發性小動脈梗塞造成額葉-皮質下神經迴路中斷，臨床上常表現為執行功能障礙、注意力減退、處理速度變慢、步態不穩及病程呈現階梯狀惡化（stepwise deterioration）\n* 各主要失智症在腦部 MRI 上之特徵比較：\n  * (A) 阿茲海默症（AD）：以海馬迴（hippocampus）與內側顳葉（medial temporal lobe）萎縮為核心特徵，早期無廣泛多發性小洞性梗塞\n  * (B) 額顳葉失智症（FTD）：以非對稱性額葉與顳葉皮質顯著萎縮為特徵（Knife-edge atrophy）\n  * (C) 路易氏體失智症（DLB）：整體皮質萎縮相對輕微，海馬迴體積多半維持完好，主要以波動性認知障礙、生動視幻覺與巴金森症候群為表現\n  * (D) 血管性失智症（VaD）：核心影像標記為多發性腔隙梗塞（lacunes）、關鍵功能區中風（strategic infarct）及廣泛深部白質缺血性高訊號病變",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-74_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-74_merged.png"
+    ]
+  },
   "111-2-醫學(四)-75": 361,
   "111-2-醫學(四)-76": 361,
   "111-2-醫學(四)-77": 361,
