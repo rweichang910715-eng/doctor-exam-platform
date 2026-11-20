@@ -8564,8 +8564,8 @@
       "D": "嚴重低血鈉病人，補充血中鈉離子時，其上升速度不可超過每 24 小時 6 mEq"
     },
     "answer": "C",
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
+    "explanation": "75 歲女性食慾不振、全身虛弱，有高血壓與糖尿病史，急診抽血發現低血鈉 (hyponatremia)\n\n各選項解析：\n* (A) 正確：評估低血鈉前需先排除高血糖引起之高滲透壓性假性低血鈉 (hyperglycemic pseudohyponatremia)；血糖每上升 100 mg/dL，血鈉值約假性下降 1.6~2.4 mEq/L，需計算校正後血鈉值\n* (B) 正確：若病患合併全身水腫（代表體液容積過多 hypervolemic hyponatremia），需檢測尿鈉 (UNa)；若 UNa < 20 mEq/L 提示有效循環容積不足（如心臟衰竭、肝硬化、腎病症候群）；若 UNa > 20 mEq/L 提示急性或慢性腎衰竭\n* (C) 錯誤：緊急靜脈滴注高張食鹽水（3% NaCl，含 513 mEq/L Na+）之適應症為「急性且合併嚴重神經學症狀（如癲癇、昏迷、腦水腫）」之低血鈉，其治療目的是在數小時內提升血鈉 4~6 mEq/L 以迅速緩解致命症狀，而非單純依照特定血鈉數值切點（如 < 130 mEq/L）就常規給予 3% NaCl，故選 (C)\n* (D) 正確：慢性低血鈉之校正速度不可過快，前 24 小時血鈉上升幅度應限制在 6~8 mEq/L 以內，且每 24 小時不可超過 8~10 mEq/L（高風險患者如營養不良、酗酒、肝病者應 < 6 mEq/L/24hr），以避免發生不可逆之滲透性去髓鞘症候群 (osmotic demyelination syndrome, ODS / central pontine myelinolysis)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(三)-76_merged.png",
     "explanation_images": [],
     "section": "第四篇 其他科",
     "chapter": "醫學倫理與醫療決策",
@@ -8584,8 +8584,8 @@
       "D": "低溫療法病人，在維持溫度為 32 oC 時，產生高血鉀比產生低血鉀之機會較高"
     },
     "answer": "A",
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
+    "explanation": "心跳停止病患經急救恢復自發性血液循環 (ROSC) 後之復甦後照護 (post-cardiac arrest care) 原則：\n\n各選項解析：\n* (A) 正確：依據 2015 AHA 心肺復甦指引，對於院外心跳停止 (OHCA) 經急救 ROSC 後仍處於昏迷狀態的成年患者，建議施行目標體溫管理 (Targeted Temperature Management, TTM)，將中心體溫控制在 32~36°C 之間並維持至少 24 小時，以改善神經學預後與存活率，選 (A)（註：2021 年 NEJM 發表之大型 TTM2 試驗顯示 33°C 與預防發燒控制在 ≤ 37.5°C 相比，6 個月死亡率與神經功能無顯著差異，但本題題目明確依據 2015 AHA 指引出題）\n* (B) 錯誤：ROSC 後 6 小時內的神經學反射（如瞳孔光反射、角膜反射）受到鎮靜麻醉藥物與低體溫影響甚鉅，無法準確預測預後，標準預後評估應在復溫完成且無殘留鎮靜藥物作用下，至少等待 ROSC 後 72 小時再行綜合評估\n* (C) 錯誤：低溫療法僅適用於 ROSC 後「仍處於昏迷狀態 (comatose)」之病患；若病患意識清醒能遵循口令，則不需亦不應實施低溫療法\n* (D) 錯誤：低體溫時會促使細胞外鉀離子移入細胞內 (intracellular shifting)，因此在維持低溫階段（32~36°C）常出現「低血鉀」而非高血鉀；需每 4~6 小時監測血鉀，且在開始回溫 (re-warming) 前數小時應停止積極補鉀，以避免回溫時細胞內鉀離子釋出造成致命的高血鉀",
+    "explanation_image": "/explanations/cropped/111-2-醫學(三)-77_merged.png",
     "explanation_images": [],
     "section": "第一篇 內科學",
     "chapter": "急診內科",
@@ -8604,8 +8604,8 @@
       "D": "DKA 病人的血清鉀離子濃度大多為低下"
     },
     "answer": "D",
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
+    "explanation": "糖尿病酮酸中毒 (Diabetic ketoacidosis, DKA) 為內科常見之急性代謝急症\n\n各選項解析：\n* (A) 正確：DKA 主要好發於第 1 型糖尿病患者（體內絕對缺乏胰島素），但亦可發生於新診斷之第 2 型糖尿病病患或遭遇重大生理壓力（如嚴重感染、心肌梗塞、中風）時\n* (B) 正確：典型 DKA 診斷三要素包含：高血糖（血糖通常 > 250 mg/dL）、代謝性酸中毒（動脈血 pH < 7.30，血清重碳酸鹽 HCO3- < 15~18 mEq/L）以及陰離子間隙升高 (high anion gap > 10~12 mEq/L)，伴隨尿液或血液酮體陽性\n* (C) 正確：約 10% DKA 病患就診時血糖僅輕微升高甚至 < 200~250 mg/dL，稱為正常血糖型糖尿病酮酸中毒 (euglycemic DKA)，常見於使用 SGLT-2 抑制劑之糖尿病患者、嚴重厭食飢餓或懷孕狀態\n* (D) 錯誤：DKA 病患因高血糖引起滲透性利尿 (osmotic diuresis)，體內總鉀存量 (total body potassium deficit) 實質上是嚴重缺乏的（平均缺鉀 3~5 mEq/kg）；然而在就診抽血時，因嚴重酸中毒促使鉀離子自細胞內移至細胞外 (acidemia-induced shift) 以及胰島素缺乏，血清鉀離子濃度通常呈現「正常甚至偏高」，極少在初始抽血時呈現低血鉀，故選 (D)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(三)-78_merged.png",
     "explanation_images": [],
     "section": "第一篇 內科學",
     "chapter": "急診內科",
