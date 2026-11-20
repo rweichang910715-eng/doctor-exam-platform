@@ -1009,53 +1009,39 @@
     "book_page": 152
   },
   "111-1-醫學(四)-52": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "2022 年才被爆出來有一篇 2006 年的阿茲海默症論文疑似造假，但那篇論文在探討 amyloid β-56，即便真的造假也不影響本題作答\n\n(A) 錯誤，一般認為 amyloid β-42 會在腦中堆積成有毒性的斑塊，因此在 CSF 中的含量會「下降」，而反應神經退化的 tau protein 則會上升\n(B) 正確，阿茲海默症疾病早期就可以觀察到海馬迴神經細胞損失，因此病人的記憶會受到影響\n(C) 正確，amyloid PET 可估算 amyloid plaque 密度，進而協助診斷阿茲海默症\n(D) 正確，阿茲海默症影響最主要的地方就是 temporoparietal lobes，做 PET 可見該腦區的細胞代謝活性降低",
+    "image": "/explanations/cropped/111-1-醫學(四)-52_merged.png",
+    "book_page": 153
   },
   "111-1-醫學(四)-53": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "週期性麻痺可分為低鉀性、高鉀性，及正常鉀性，其中「低鉀性週期性麻痺」的患者較常見，可能因攝食了大量的碳水化合物或鈉鹽、情緒激動或運動後休息而誘發（記憶：輸球超不爽，打完後很累，去爆吃麥 X 勞舒壓就發作了）\n\n(A) 錯誤，低鉀性週期性麻痺最常見\n(B) 錯誤，主要症狀是四肢近端肌肉無力，通常吞嚥功能和呼吸肌不受影響，病患過一段時間可自行恢復\n(C) 錯誤，主要是因為離子通道異常造成細胞膜電位異常，影響肌肉的收縮\n(D) 正確，在低鉀性週期性麻痺患者中，acetazolamide 很早就被用來預防發作，但機轉不明，部分患者在使用 acetazolamide 後可能會更糟，如：SCN4A、CACNA1S 突變者，近年有研究提出是因為此藥物可以打開肌肉的 BK channel（voltage-gated 鉀離子通道），進而平衡鉀離子濃度",
+    "image": "/explanations/cropped/111-1-醫學(四)-53_merged.png",
+    "book_page": 154
   },
   "111-1-醫學(四)-54": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "一側肌肉無力、本體感覺障礙；對側溫度及疼痛感知異常 → Brown-Séquard 症候群，而肚臍對應到的神經節即是 T10，故選 (D)，預後由好到差：Brown-Séquard > central cord syndrome > anterior cord syndrome；最罕見的是 posterior cord syndrome\n\n| 各種 spinal syndromes | | |\n| --- | --- | --- |\n| 損傷類型 | 主要機轉 | 症狀 |\n| 前脊髓損傷 (ant. cord syndrome) | flexion、前脊椎動脈缺血 | 受傷處以下肌肉無力、失去痛覺溫覺 |\n| 中脊髓損傷 (central cord syndrome) | cervical extension | 雙上肢的肌力、感覺比雙下肢較差 |\n| 後脊髓損傷 (post. cord syndrome) | 缺 B12、多發性硬化、梅毒 | 失去振動、本體感覺 → sensory ataxia，痛覺溫覺不受影響 |\n| 馬尾症候群 (cauda equina syndrome) | HIVD、各種 mass 壓迫 | 尿液滯留、大小便失禁、下背痛、下肢反射變弱、馬鞍區感覺喪失 |\n| Brown-Séquard syndrome | 穿刺傷害 | 一側：肌肉無力、本體感覺障礙<br>對側：痛覺、溫覺異常 |",
+    "image": "/explanations/cropped/111-1-醫學(四)-54_merged.png",
+    "book_page": 155
   },
   "111-1-醫學(四)-55": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "(A) 正確，鉛中毒會導致 axonal degeneration，而且主要影響的是運動神經，對感覺及自主神經的影響較小\n(B) 錯誤，類澱粉沉積主要影響感覺或自主神經，較少影響運動神經\n(C) 錯誤，Guillain-Barré syndrome 是影響髓鞘，不是影響神經軸突本身\n(D) 錯誤，monoclonal gammopathy 造成的周邊神經病變，主要是影響髓鞘，只有少部分會出現 axonal degeneration",
+    "image": "/explanations/cropped/111-1-醫學(四)-55_merged.png",
+    "book_page": 154
   },
   "111-1-醫學(四)-56": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "基本題，肌肉痙攣 (spasticity) 是上運動神經元病灶表徵（題目問的是 not lower motor neuron signs），故選 (B)\n\n| 受損位置 | Signs | Symptoms |\n| --- | --- | --- |\n| 上運動神經元 (upper motor neuron, UMN) | Babinski sign (+)<br>DTR 增強 | 協調變差、平衡感差、上下肢體運動僵硬 |\n| 下運動神經元 (lower motor neuron, LMN) | 蹲踞困難、垂足、肌肉萎縮、搖擺步態 (waddling gait)、肌束顫動 (fasciculation) | 肌肉痙攣 (muscle cramps)、肌束顫動 (fasciculation)、肌肉無力 |",
+    "image": "/explanations/cropped/111-1-醫學(四)-56_merged.png",
+    "book_page": 156
   },
   "111-1-醫學(四)-57": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "(A) 錯誤，去髓鞘會讓傳導變慢，但神經元突觸本身沒有受到影響，而且肌肉要萎縮到一定程度需要時間，故較少在早期就造成肌肉萎縮\n(B) 錯誤，周邊神經病變主要由遠到近出現異常，並非以近端肌肉無力來表現\n(C) 正確，糖尿病周邊神經病變通常是對稱地影響遠端，是造成 length-dependent axonal polyneuropathy 最常見的原因，但少部分病人也可能出現 demyelination\n(D) 錯誤，急性軸突缺失神經病變與去髓鞘的病理變化通常會先後出現，不一定能同時觀察到",
+    "image": "/explanations/cropped/111-1-醫學(四)-57_merged.png",
+    "book_page": 156
   },
   "111-1-醫學(四)-58": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "NMOSD、MS vs. NMO 是近年國考愛考的出題範圍，建議考生要詳讀\n\n視神經脊髓炎 (neuromyelitis optica, NMO)，又稱為 Devic's syndrome，是一種罕見的自體免疫疾病，其主要損傷為中樞神經系統發炎去髓鞘，造成神經傳導不良，越來越多研究指出 NMO 可能是導因於 AQP4 抗體與中樞神經系統星狀細胞上的水通道蛋白 4 結合，引起一連串免疫反應，而近年為了統合出一套可適用於和 AQP4 自體免疫相關的視神經炎 (optic neuritis)、急性脊髓炎 (acute myelitis) 和腦部病灶 (brain lesion) 的診斷標準，因此提出了 NMOSD 一詞，其相關診斷標準如下：\n\n1. 下列六種核心症狀符合一項：\n(1) Optic neuritis\n(2) Acute myelitis\n(3) Area postrema syndrome：不明原因打嗝、噁心和嘔吐\n(4) Acute brainstem syndrome\n(5) Symptomatic narcolepsy or acute diencephalic clinical syndrome with NMOSD-typical diencephalic MRI lesions: 影響視丘功能造成猝睡\n(6) Symptomatic cerebral syndrome with NMOSD-typical brain lesions\n2. 血清 AQP4 IgG 陽性：重要的診斷標準，一定要有\n3. 合理排除其他疾病\n\n＜其他考點＞\n1. Miller Fisher：anti-GQ1b\n2. Myasthenia Gravis：anti-MuSK",
+    "image": "/explanations/cropped/111-1-醫學(四)-58_merged.png",
+    "book_page": 157
   },
   "111-1-醫學(四)-59": {
     "explanation": "(A) 錯誤，思覺失調症急性期以正性症狀為主，慢性期則以負性症狀為主\n(B) 錯誤，haloperidol 屬於第一代抗精神病藥物 dopamine antagonist\n(C) 正確，聯想 (association) 障礙、自閉 (autism)、情感 (affect) 冷漠及情感矛盾 (ambivalence) 是思覺失調症的四個 A 代表的四個層面障礙\n(D) 錯誤，非典型（第二代）抗精神病藥物之作用除了對多巴胺接受器之阻斷作用，亦可阻斷血清素 (Serotonin) 的接受器",
