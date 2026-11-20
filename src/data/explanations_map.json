@@ -191,9 +191,9 @@
     ]
   },
   "111-1-醫學(三)-50": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "這種 acute onset 的劇烈頭痛要小心是蜘蛛膜下出血 (SAH)，SAH 的頭痛會在五分鐘內達到最大值、持續超過五分鐘，並出現頸部僵硬（不會發燒），SAH 最常見的原因是頭部外傷，如果沒有頭部外傷，則最常見的原因是顱內動脈瘤破裂，故選 (C)\n\n(A) 腦膜炎的 triad：發燒 + 頭痛 + 頸部僵硬，有 > 75% 的人會有意識狀態改變，即便是 fulminant disease 也需要幾小時惡化，不會突然間出現無法忍受的頭痛\n(B) 梗塞性中風可能出現輕～中度頭痛，但較少出現頸部僵硬、噁心嘔吐等症狀\n(D) 偏頭痛是第二常見的頭痛類型，會反覆出現 episodic 頭痛並常伴隨噁心嘔吐，與題目敘述不符，發作主要有以下階段：aura（僅 20～25% 有）→ prodrome → headache → postdrome",
+    "image": "/explanations/cropped/111-1-醫學(三)-50_merged.png",
+    "book_page": 174
   },
   "111-1-醫學(三)-1": {
     "explanation": "昏厥（syncope）是一種因為大腦血流減少所造成暫時性的意識喪失，能自行恢復。發作時間短、恢復速度快，在發生前可能有所謂前兆（prodrome），稱作 presyncope。一般發作原因可分為三大類：神經性（neurogenic）、姿勢性低血壓（orthostatic hypotension）、心因性（cardiac）。其中神經性最常見，除了會有頭暈疲倦症狀外，還會有自主神經系統活化的症狀，如：冒汗、暈眩、蒼白、心悸、噁心、過度換氣、打哈欠等\n\n| 昏厥（syncope）類型 | 舉例 |\n| --- | --- |\n| 神經性（反射性） | **血管迷走神經性**：害怕、焦慮、看到或聞到令人不舒服的東西<br>**情境式反射（有明確刺激）**：咳嗽、排尿後、DRE、頸動脈竇按摩、眼睛檢查或手術、Bezold-Jarisch reflex |\n| 姿勢性低血壓 | **原發性 ANS 失調**：Lewy body disease、Parkinson's、multiple system atrophy（舊稱 Shy-Drager）<br>**續發性 ANS 失調**：DM、amyloidosis、Sjögren's、HIV<br>**其他**：剛吃飽、醫源性（如：prazosin）、體液不足 |\n| 心因性 | **心律不整**：sick sinus syndrome、AV block、心跳過快（SVT 或 VT）、離子通道異常<br>**結構問題**：瓣膜異常、心肌缺血、myxoma、心包積液 |\n\n(C) 姿勢性低血壓：在站立 3 分鐘時出現 SBP 掉 ≥ 20 mmHg 或 DBP 掉 ≥ 10 mmHg 者。如果自主神經只有部分受損，可能會出現代償性的心跳上升，但所增加的心跳仍不足以供應所需的心輸出量\n\n(D) 傾斜床測試（tilt table test）可檢測交感神經功能，不只能看出姿勢性低血壓，vasovagal 也有其典型表現，整理如下：\n\n| Syncope 類型 | Tilt table 結果 |\n| --- | --- |\n| 神經性 | 陣發性的「低血壓－心跳慢」表現 |\n| 姿勢性低血壓 | 血壓逐漸往下掉，心跳無足夠的代償性增加 |\n| psychogenic | 無血行動力學不穩定，但在檢測過程中出現不適 |\n\n＜相關考點＞\n1. syncope 是嚴重主動脈瓣狹窄開刀 indication，出現 syncope 不處理平均餘命剩 3 年（胸痛 5 年、心衰竭 2 年）\n2. 會引起姿勢性低血壓的藥：TCA（imipramine > amitriptyline > nortriptyline）、α-1 blocker（-zosin）、teriparatide、nitrate、phenothiazine",
@@ -267,49 +267,49 @@
     ]
   },
   "111-1-醫學(三)-52": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "甲狀腺癌是內分泌系統最常見的癌症，可分為四型：乳突型 (PTC)、濾泡型 (FTC)、髓質型 (MTC)、未分化型 (ATC)，懷疑有甲狀腺癌的病人，術前都應使用超音波評估中央及側邊頸部淋巴結，並針對可疑的地方做細針穿刺細胞學檢查 (FNA)，手術切除是分化良好甲狀腺癌的治療方法，除了可以移除病灶外，檢體組織可送病理、確認分期，細胞分化良好之甲狀腺癌（PTC 與 FTC）如果進行全甲狀腺切除，可用甲狀腺球蛋白 (thyroglobulin, Tg) 追蹤是否復發，選項 (C) 錯誤，此外，進行 near-total thyroidectomy 的病人（殘留 < 1g）若有較高風險，可於術後進行 I-131 放射同位素療法（半衰期約 8 天），以根除殘餘的甲狀腺、降低復發率",
+    "image": "/explanations/cropped/111-1-醫學(三)-52_merged.png",
+    "book_page": 102
   },
   "111-1-醫學(三)-53": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "第一型糖尿病為自體免疫疾病，胰島 beta 細胞被自體免疫抗體攻擊，導致無法做出足夠的胰島素，為胰島素依賴型糖尿病，可能與病毒感染相關（可導致急性發作的 fulminant diabetes）；第二型糖尿病則與胰島素阻抗有關；醫源性糖尿病則與使用類固醇或 calcineurin/mTOR inhibitors 有關；其他型糖尿病還包含 MODY、單基因遺傳自體顯性糖尿病、妊娠糖尿病等\n\n(D) 大家耳熟能詳的 metformin 就是雙胍類 (biguanide) 降血糖藥，請選它",
+    "image": "/explanations/cropped/111-1-醫學(三)-53_merged.png",
+    "book_page": 103
   },
   "111-1-醫學(三)-54": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "肥胖 (obesity) 與熱量攝取過多、運動太少、基因異常等多種因素有關，最初的定義是脂肪組織過多導致對健康有負面影響，但臨床上很難量脂肪的重量，因此在台灣的定義是身體質量指數 (body mass index, BMI) ≥ 27，BMI 越小應該越瘦，此題選 (B)\n\n(A) 肥胖病人血中的高 TG（主要）以及低 HDL 會導致胰島素阻抗（不是高 LDL 喔），進而引起 type 2 DM，除了糖尿病外，胰島素阻抗還可能導致女性的多囊性卵巢症候群 (PCOS) 以及男性的中樞性腺低下症 (central hypogonadism)\n(D) 脂肪細胞會分泌一群與肥胖相關的激素，稱為 adipokine，如：瘦素 (leptin)、脂聯素 (adiponectin)、跟抗胰島素激素 (resistin) 等；此外，脂肪細胞也會分泌促進發炎的 TNF-α 以及 IL-6，導致肥胖患者長期處於慢性發炎的狀態",
+    "image": "/explanations/cropped/111-1-醫學(三)-54_merged.png",
+    "book_page": 103
   },
   "111-1-醫學(三)-55": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "本題出處是 Harrison 21/e Ch.404 \"Special considerations in DM\"\n\n(A) 第一型糖尿病病人如果接受 TPN 治療，應該要打 long-acting insulin (0.1～0.2 U/kg/day)，並在出現高血糖時搭配 iv. insulin infusion 治療\n(B) 類固醇會增加胰島素阻抗、降低葡萄糖利用率、增加肝臟糖質新生、降低胰島素分泌等，因此使用類固醇之糖尿病病人，若空腹血糖超過 200 mg/dL 以上時，單吃口服藥通常效果不好，需要搭配胰島素控制血糖（尤其是飯後血糖）\n(C) lipodystrophic DM 的病人有 leptin deficiency 以及嚴重胰島素阻抗，治療方法是 recombinant human leptin，如：metreleptin\n(D) 錯誤，太低了，年長糖尿病病患如果把關太嚴格，容易出現低血糖，highly functional 的長者之 HbA1c 控制目標為 7.0～7.5%；整體身體機能比較差、有認知障礙的長者，HbA1c 控制目標為 8.0～8.5%，血糖控制可以比較寬鬆的條件包含：罹病時間久、預期壽命短、共病嚴重、配合度消極、醫療資源與支持系統薄弱者",
+    "image": "/explanations/cropped/111-1-醫學(三)-55_merged.png",
+    "book_page": 104
   },
   "111-1-醫學(三)-56": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "次發性高血壓佔所有高血壓患者的 5～20%，最常造成次發性高血壓的原因是腎實質病變 (renal parenchymal disease)、最常見的內分泌疾病則是原發性醛固酮過高 (primary aldosteronism)，佔高血壓病人的 ~15%，所有頑固性高血壓 (refractory hypertension) 的病人都委將原發性醛固酮過高列入鑑別診斷：腎上腺皮質 zona glomerulosa 製造過多 aldosterone 且不受 RAAS 系統的控制 → Na 與水滯留 → 高血壓，其中雙側腎上腺皮質增生 (bilateral micronodular hyperplasia, 60%) 又比單側腎上腺皮質腺瘤 (unilateral adrenal adenoma, 40%) 更常見\n\n(B) 嗜鉻細胞瘤 (pheochromocytoma) 約佔高血壓病人的 ~0.05%\n(C)(D) Cushing's syndrome 跟 acromegaly 都是罕見疾病，所佔比例較少\n\n＜其他考點＞\n1. 慢性腎衰竭 > 80% 有高血壓、睡眠呼吸中止症 > 50% 有高血壓\n2. 大多數良性的 aldosterone-producing adenoma 小於 2 cm，年輕人有大的腫瘤要懷疑是否為罕見的 adrenal cortical carcinoma (ACC)【110 內專】\n3. 原發性醛固酮過高的病人若使用 thiazide 可能惡化低血鉀\n4. 如果懷疑是次發性高血壓的病人，在檢查 renin、aldosterone 前可使用的血壓藥為：α-blocker、CCB；並避免使用 β-blocker、ACE-i、spironolactone 以免影響判讀【108、109 內專】",
+    "image": "/explanations/cropped/111-1-醫學(三)-56_merged.png",
+    "book_page": 105
   },
   "111-1-醫學(三)-57": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "甲狀腺低下的臨床症狀與表現包含：容易疲倦、怕冷、便秘、掉髮、聲音沙啞、食慾不佳但體重增加、月經變少、水腫、腕隧道症候群等，與這位病人的症狀符合，甲狀腺低下的鑑別診斷步驟：測 TSH → free T4 → anti-TPO antibody，抽血數值 TSH 高於正常值、free T4 低於正常值 → 原發性甲狀腺功能低下 (primary hypothyroidism)，問題出在 thyroid 本身，應進行頸部觸診、詢問病史與家族史、可做超音波、抽 anti-TPO antibody（若有測得則可能是 Hashimoto's disease）等，如果 TSH 抽出來是正常的或偏低才會去懷疑是不是腦下垂體的問題，故本題選 (D)",
+    "image": "/explanations/cropped/111-1-醫學(三)-57_merged.png",
+    "book_page": 107
   },
   "111-1-醫學(三)-58": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "「月亮臉、水牛肩、中心肥胖、瘀青、紫條紋」→ 懷疑 Cushing syndrome (glucocorticoids 過多)，其他臨床症狀包含：近端肌肉萎縮、無月經、多毛症、舒張性高血壓、骨質疏鬆等，診斷的第一步：一定要先確認他是真的有 Cushing syndrome 而不是先進行 DDx 的那些測試，故本題選 (A)，臨床上要看 cortisol 到底有沒有高，通常會抽早上 8 點和下午 4 點的 cortisol，以遵循 diurnal change 觀察兩個時間點數值的高低\n\n| 疑似 Cushing syndrome 診斷過程 | | | | |\n| --- | --- | --- | --- | --- |\n| 問題一 | cortisol 真的有高嗎？ | | | |\n| 步驟一 | 1. 24 hr 尿液 free cortisol ≥ 2x<br>2. 過夜 dexamethasone (DEX) 測試<br>3. low dose DEX 測試<br>4. 半夜的唾液 cortisol ≥ 2x（失去 diurnal change） | | | |\n| 問題二 | ACTH 高嗎？（分原發、續發） | | | |\n| 步驟二 | 抽 ACTH | | | |\n| | ACTH > 15 pg/mL 或正常 | | ACTH < 5 pg/mL | |\n| 問題三 | 用 CRH 壓得住嗎？負回饋情形？ | | 是誰在分泌？ | |\n| 步驟三 | CRH test + high dose DEX test | | 腎上腺 CT | |\n| | 都低 | 一高一低 | 都高 | 雙側病灶 | 單側病灶 |\n| | Cushing disease | 下岩竇採血 | 異位分泌 (ectopic) | 增生 | 腫瘤 |\n\n（參考 Harrison 21/e Ch. 386）\n\n有不同種 dexamethasone test，各自的劑量跟給法有所不同，整理於下表：\n\n| DEX | dose 給法 | positive 結果 |\n| --- | --- | --- |\n| overnight | 1 mg ONCE（11 PM 給） | 8 AM > 2 |\n| low dose | 0.5 mg Q6H × 2 天（2 mg × 2 天） | 8 AM > 5<br>24 hr > 10 |\n| high dose | 2 mg Q6H × 2 天（8 mg × 2 天） | 30～200：pituitary tumor<br>> 200：ectopic |",
+    "image": "/explanations/cropped/111-1-醫學(三)-58_merged.png",
+    "book_page": 106
   },
   "111-1-醫學(三)-59": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "這題本來答案給 (A)，申覆後多開放了 ③，查了當時申覆的理由是因為消毒後還是要穿戴無菌手套，而不是用酒精進行乾洗手後就可以直接放導尿管，所以不算是「單獨」使用酒精乾洗手液執行手部衛生，不過如果之後考「需要濕洗手而不能乾洗手」的話，就不該選 on Foley 喔！以下整理內容來自 WHO 手部衛生 guideline 以及歷年考古，執行秒數二階醫師國考還沒考過，值得留意一下\n\n| | 情況 | 原因 |\n| --- | --- | --- |\n| 可乾洗手 (20～30 秒) | 大部分情況 | 不論是清潔效果、對皮膚影響、乖乖洗手的遵從性都比使用肥皂濕洗手好 |\n| 可乾洗手 (20～30 秒) | 照顧 COVID-19 病人 | coronavirus 是套膜病毒，酒精可殺 |\n| 應該濕洗手 (40～60 秒) | 有明顯髒污 | 有明顯髒污當然要沖掉 |\n| 應該濕洗手 (40～60 秒) | 照顧 C. difficile 病人後 | 酒精無法殺掉 spore |\n| 應該濕洗手 (40～60 秒) | 照顧感染 HAV、norovirus、rotavirus、腸病毒的人後 | 這些無套膜病毒用酒精殺不死 |",
+    "image": "/explanations/cropped/111-1-醫學(三)-59_merged.png",
+    "book_page": 117
   },
   "111-1-醫學(三)-60": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "text": "| 進行性多發性白質腦病變 (progressive multifocal leukoencephalopathy, PML) | |\n| --- | --- |\n| 成因 | 通常因為免疫低下導致 JC virus 感染神經膠細胞 → 慢性脫髓鞘腦炎 |\n| 病理特徵 | 1. 不同腦區有 multifocal 的去髓鞘化，但較不影響脊髓跟視神經<br>2. 星狀細胞：變大並出現濃染、形狀怪異的細胞核<br>3. 寡突細胞：細胞核變大、出現 JC virus 的 inclusion particles |\n| 風險因子 | AIDS (80%) > 血液腫瘤 (13%) > 移植患者 (5%) > 慢性發炎疾病 (2%)<br>* 5% 的 AIDS 病人會發展出 PML |\n| 影像 | 1. MRI：多發不對稱病灶、多位在腦室附近、parietal-occipital 區、小腦；在 T1 是低訊號，T2 跟 FLAIR 是高訊號<br>2. CT：hypodense、non-enhancing 白質病灶 |\n| CSF | 通常是正常的，有些人會有輕微的蛋白質上升，PCR 特異度高但敏感度變化大，因此 PCR negative 也無法排除診斷 |\n| 治療 | 目前無有效的標準治療<br>少部分研究發現 mirtazapine、IFN-α 有效，目前主要努力方向是提升免疫力，如：pembrolizumab、JCV-specific cytotoxic T、針對 HIV 病人給 HAART |\n\n(C) 錯誤，在 CT 上不會有明顯水腫或腫塊效應，而且 PML 病灶通常是多發、non-enhancing 的，可與通常單顆、有 enhancing 且常伴隨腫塊效應（= 壓迫腦組織）的膿瘍、腫瘤做區別（另外，PML 為白質疾病，用 MRI 看遠比 CT 清楚）\n\n＜其他考點＞\n1. 人類多瘤病毒 (human polyomavirus) 除了 JC virus 外，另個愛考的是 BK virus，兩者都沒有 envelope、基因體均為環狀雙股 DNA【107, 109 醫學二】\n2. BK virus：通常感染腎細胞，可以從尿液中培養，雖然一般感染無症狀，但免疫比較差的可能會有出血性膀胱炎，若出現在腎臟移植後的病人身上，腎病變出現的時間中位數約在移植後 300 天，屬 late-onset disease【108 內專】\n＜記法＞ BK virus 感染 Kidney\n＜比較＞ 腺病毒感染、使用 cyclophosphamide 也會有出血性膀胱炎",
+    "image": "/explanations/cropped/111-1-醫學(三)-60_merged.png",
+    "book_page": 118
   },
   "111-1-醫學(三)-61": {
     "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
