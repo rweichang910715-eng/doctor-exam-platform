@@ -2680,44 +2680,60 @@
   "111-2-醫學(四)-42": 451,
   "111-2-醫學(四)-43": 453,
   "111-2-醫學(四)-44": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "小血管中風（small-vessel stroke，又稱腔隙性腦梗塞 lacunar infarct）臨床特徵：\n\n* 致病機轉：主要由於穿透性小動脈（penetrating arterioles）長期受高血壓或糖尿病影響，發生脂質玻璃樣變性（lipohyalinosis）或微小粥狀硬化造成血管閉塞\n* 好發部位：大腦深層構造如基底核（basal ganglia）、內囊（internal capsule）、視丘（thalamus）、腦幹（特別是橋腦 pons）及深部大腦白質，梗塞病灶範圍小（直徑通常 < 15~20 mm）\n* 五大典型腔隙症候群（Classical lacunar syndromes）：\n  1. 純運動性輕偏癱（Pure motor hemiparesis）：最常見，病灶位於內囊後肢或橋腦基底\n  2. 純感覺性中風（Pure sensory stroke）：病灶位於視丘腹後外側核 (VPL)\n  3. 共濟失調性輕偏癱（Ataxic hemiparesis）：同側肢體無力伴隨明顯肢體共濟失調，病灶常見於內囊前肢、內囊膝部或橋腦基底，即本題 (D) 之表現\n  4. 構音障礙-手笨拙症候群（Dysarthria-clumsy hand syndrome）：病灶位於橋腦基底或內囊膝部\n  5. 感覺運動性中風（Sensorimotor stroke）：丘腦與內囊交界區\n* 各選項解析：\n  * (A)、(B)、(C) 均包含大腦皮質受損特徵（Cortical signs，如失語症 aphasia、半邊忽略 hemineglect、額葉眼野受損引起之雙眼共同偏向 conjugated eye deviation），提示大血管或大腦皮質梗塞，非典型小血管中風\n  * (D) 正確：左側無力合併左側肢體共濟失調符合共濟失調性輕偏癱（ataxic hemiparesis），為典型腔隙性小血管中風表現，故選 (D)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-44_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-44_merged.png"
+    ]
   },
   "111-2-醫學(四)-45": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "惡性大腦中動脈梗塞（Malignant MCA infarction）之評估與急性處置：\n\n* 影像學判讀：\n  * 圖① (Day 1 non-contrast CT)：右側中大腦動脈（MCA）供血區顯示早期缺血性變化（腦溝變平、灰白質交界模糊），伴隨右側 MCA 高密度徵象（dense MCA sign），提示主幹急性血栓閉塞\n  * 圖② (Day 3 non-contrast CT)：右側大面積 MCA 梗塞惡化，腦實質嚴重水腫伴隨大面積低密度壞死，造成側腦室受壓變形與明顯中線偏移（midline shift），具有極高天幕切跡腦疝（uncal herniation）致命風險\n* 臨床處置與實證治療：\n  * 惡性 MCA 梗塞好發於較年輕患者（因大腦尚未萎縮，缺乏容積緩衝空間），發病後 2~5 天腦水腫達到高峰，傳統內科保守治療死亡率高達 70~80%\n  * 減壓性顱骨切除術（Decompressive hemicraniectomy）：多項大型隨機對照試驗（如 DECIMAL、DESTINY、HAMLET）證實，於發病 48 小時內對年齡 ≤ 60 歲之大面積 MCA 腦梗塞且合併意識變化的病患實施減壓開顱手術，可有效降低顱內壓、防止腦疝，將死亡率從 70~80% 顯著降至 20~30%，顯著增進存活機會，故選 (C)\n* 各選項解析：\n  * (A) 錯誤：大面積腦梗塞急性期禁止常規使用抗凝血劑，因會大幅增加出血性轉化（hemorrhagic transformation）風險\n  * (B) 錯誤：常規預防性抗癲癇藥物無法降低腦水腫或改善大面積梗塞病患存活率\n  * (C) 正確：減壓性顱骨切除術為增進此類病患存活機會最關鍵之有效手術處置\n  * (D) 錯誤：急性腦中風合併顱內壓增高時，需維持適當腦灌流壓（CPP = MAP - ICP），不可過度積極降壓，以免加劇缺血半影區（penumbra）缺血壞死",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-45_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-45_merged.png"
+    ]
   },
   "111-2-醫學(四)-46": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "心因性缺血性腦中風（Cardioembolic stroke）抗凝血劑之使用考量：\n\n* 核心原則：心因性栓塞性中風通常以抗凝血劑作為二級預防，但在感染性心內膜炎中，抗凝血劑的使用存在高度腦出血風險，需特別謹慎\n* 各選項解析：\n  * (A) 建議使用：非瓣膜性心房顫動（Non-valvular AF）合併 CHA2DS2-VASc 分數 ≥ 2 分（男性）或 ≥ 3 分（女性）屬於高栓塞風險，強烈建議長期使用口服抗凝血劑（DOAC 或 Warfarin）預防中風\n  * (B) 建議使用：接受機械性心臟瓣膜置換術後之患者具有極高之瓣膜血栓栓塞風險，必須終身服用 Warfarin 維持目標 INR 2.5~3.5\n  * (C) 最不建議使用（選 C）：感染性心內膜炎（IE）所造成之中風主要來自贅生物脫落引起之敗血性栓塞（septic emboli），常合併微小菌性動脈瘤（mycotic aneurysm）或感染性血管炎，給予抗凝血劑會大幅增加腦出血轉化與致命性顱內出血機率；若病患無其他絕對抗凝適應症（如機械瓣膜），IE 急性期不建議使用抗凝血劑，治療核心為適當抗生素治療與必要時瓣膜手術，故選 (C)\n  * (D) 建議使用：非細菌性血栓性心內膜炎（NBTE，又稱 Marantic endocarditis）常伴隨晚期惡性腫瘤或自體免疫疾病（如 SLE、抗磷脂症候群），贅生物由無菌血小板與纖維蛋白組成，極易反覆脫落引發多發性動脈栓塞，臨床指引建議使用全身性抗凝血劑（首選低分子量肝素 LMWH 或 UFH）進行抗凝治療",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-46_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-46_merged.png"
+    ]
   },
   "111-2-醫學(四)-47": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "顳葉癲癇（Temporal lobe epilepsy）之抗癲癇藥物治療原則與考量：\n\n* 各選項解析：\n  * (A) 最不適當（選 A）：在開立 Phenytoin 或 Carbamazepine 之前，台灣健保給付與臨床指引建議檢驗之基因型為 **HLA-B*1502**（與嚴重皮膚不良反應史帝芬強生症候群 SJS / 毒性表皮溶解症 TEN 強烈相關），而非題幹所述之 HLA-B*1500，故選項基因標註錯誤\n  * (B) 適當：Valproic acid (Depakine) 具有明確致畸胎風險，特別是造成神經管缺損（neural tube defect，如脊柱裂 spina bifida，風險約 1~2%）及降低胎兒未來認知智商，適婚且有懷孕可能之女性應盡量避免使用\n  * (C) 適當：Phenytoin、Carbamazepine、Phenobarbital 等為肝臟微粒體酵素誘導劑（Enzyme-inducing AEDs），會加速口服避孕藥中雌激素與黃體素之代謝降解，顯著降低避孕效果，因此服用避孕藥的女性需被明確告知有意外懷孕風險並考慮替代避孕措施\n  * (D) 適當：顳葉癲癇常由海馬迴硬化（hippocampal sclerosis）引起，若經過兩種適當之抗癲癇藥物治療仍無法有效控制發作，即屬於難治型癲癇（Drug-resistant epilepsy），前顳葉切除手術（Anterior temporal lobectomy）可使 70~80% 患者達到發作完全緩解，改善生活品質",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-47_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-47_merged.png"
+    ]
   },
   "111-2-醫學(四)-48": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "快速動眼期睡眠行為障礙（REM sleep behavior disorder, RBD）之臨床特點與處置：\n\n* 疾病特徵：好發於後半夜（REM 睡眠集中的時段），患者在快速動眼期失去正常的肌肉張力消失現象（loss of normal muscle atonia），伴隨夢境內容做出肢體揮動、謾罵、踢打或跌落床下等暴力行為（dream enactment behavior），發作醒來時能清晰生動描述剛才的夢境且意識清楚\n* 各選項解析：\n  * (A) 適當：特發性 RBD 主要好發於 50 歲以上之中老年男性，男女比例約為 9:1\n  * (B) 適當：多項睡眠生理檢查（PSG）為診斷黃金標準，其核心特徵即為在 REM 睡眠期無法維持正常的肌肉張力低下狀態（REM sleep without atonia, RWA），肌電圖（EMG）呈現持續或間歇性異常放電活動\n  * (C) 最不適當（選 C）：大多數抗憂鬱藥物（如 SSRI、SNRI、三環抗憂鬱劑 TCA 等）會干擾腦幹下行運動抑制路徑，反而會**誘發或顯著加重** RBD 症狀；RBD 的第一線標準治療藥物為低劑量 **Clonazepam**（0.5~2 mg 睡前）或高劑量 **Melatonin**（3~12 mg 睡前），故 (C) 錯誤\n  * (D) 適當：RBD 為 α-突觸核蛋白神經退化疾病（α-synucleinopathy）極為重要之前驅症狀，追蹤 10~15 年後有超過 70~80% 之 RBD 患者會進一步轉變發展為巴金森氏病（Parkinson's disease）、路易氏體失智症（DLB）或多發性系統萎縮症（MSA）",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-48_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-48_merged.png"
+    ]
   },
   "111-2-醫學(四)-49": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "慢性緊縮性頭痛（Chronic tension-type headache, CTTH）之治療：\n\n* 疾病定義：頭痛發作頻率每個月 ≥ 15 天且持續超過 3 個月，常呈現雙側壓迫感或緊縮感（像緊箍咒帶）、輕中度疼痛，不因日常活動加重，通常不伴隨噁心嘔吐或怕光怕吵\n* 各選項解析：\n  * (A) Verapamil：為叢發性頭痛（Cluster headache）之首選第一線預防用藥，非緊縮性頭痛之常規首選\n  * (B) 最具有療效（選 B）：三環抗憂鬱劑（TCA）中的 **Amitriptyline**（阿米替林）是目前經多項隨機對照試驗證實針對慢性緊縮性頭痛預防效果最佳、實證等級最高之第一線藥物（劑量通常由 10~25 mg 睡前開始逐漸滴定），故選 (B)\n  * (C) Alprazolam：為短中效苯二氮平類（BZD）鎮靜劑，長期使用具有成癮性、耐受性與停藥反彈頭痛風險，不建議用於慢性頭痛長期治療\n  * (D) Onabotulinum toxin type A（肉毒桿菌素 A 型）：經實證證實對「慢性偏頭痛（Chronic Migraine）」具有預防療效，但大型臨床試驗已確認對「慢性緊縮性頭痛」無顯著預防療效，不建議使用",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-49_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-49_merged.png"
+    ]
   },
   "111-2-醫學(四)-50": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "失語症（Aphasia）分類與臨床表徵：\n\n* 評估核心：評估失語症需綜合考量口語流暢度（Fluency）、聽覺理解力（Comprehension）以及**覆誦能力（Repetition）**\n* 各選項解析：\n  * (A) 傳導性失語症（Conduction aphasia）：病灶多位於弓狀束（arcuate fasciculus），病患口語流暢且聽覺理解佳，但**覆誦能力嚴重受損**，無法重複字句\n  * (B) 渥尼克氏失語症（Wernicke's aphasia）：感覺性失語症，病灶位於優勢半球顳上回後部，口語流暢但缺乏實質意義（多贅字與錯語 neologism），聽覺理解差且**覆誦能力受損**\n  * (C) 純字聾（Pure word deafness）：雙側或左側顳葉聽覺聯合皮質受損，病患能正常聽見聲音，自行說話、閱讀與書寫均正常，但完全無法聽懂口語字句且**無法覆誦**\n  * (D) 最可能診斷（選 D）：跨皮質失語症（Transcortical aphasia）病灶位於主要語言區（Broca 與 Wernicke 區）周圍的邊緣分水嶺區（watershed area），語言核心區與弓狀束維持完整，最突出且關鍵之臨床特徵即為**覆誦能力相對良好或完整保存（Preserved repetition）**，患者能清晰重複短句甚至出現模仿言行（echolalia），完全吻合題幹「測驗時還可以重複簡短字句」，故選 (D)",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-50_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-50_merged.png"
+    ]
   },
   "111-2-醫學(四)-51": {
-    "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
-    "explanation_image": null,
-    "explanation_images": []
+    "explanation": "CADASIL 症候群之遺傳學與臨床影像學特徵：\n\n* 疾病全名：體染色體顯性腦動脈血管病變合併皮質下腦梗塞及腦白質病變（Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy, CADASIL）\n* 臨床特點：\n  1. 體染色體顯性遺傳，多數患者有明顯家族中風與早發失智史（如題幹父親、叔叔、哥哥皆有中風與失智）\n  2. 青年至中年（30~50 歲）即反覆發生缺血性中風或暫時性腦缺血發作（TIA）\n  3. 逐步發展為以執行功能障礙為主的皮質下血管性失智症（Vascular dementia）\n* 影像學特徵：MRI T2/FLAIR 影像顯示瀰漫性大腦深部白質高訊號病變（leukoencephalopathy），其中最具診斷專一性的特徵為侵犯**顳葉前極（anterior temporal pole）**以及**外囊（external capsule）**\n* 遺傳學診斷（致病基因）：第 19 號染色體上的 **NOTCH3 基因** 發生顯性突變，導致小動脈血管平滑肌細胞周圍沉積嗜鋨顆粒狀物質（GOM, granular osmiophilic material），故選 (A)\n* 各選項解析：\n  * (A) 正確：NOTCH3 基因突變為 CADASIL 之致病原因\n  * (B) 錯誤：MTHFR 變異影響葉酸代謝，與高同半胱胺酸血症相關，非典型單基因顯性中風遺傳病因\n  * (C) 錯誤：SOD1 基因突變與家族性肌萎縮性脊髓側索硬化症（ALS）相關\n  * (D) 錯誤：PSEN-1（早老素-1）基因突變與早發性家族性阿茲海默症（Early-onset FAD）相關，以記憶退化為主，無年輕反覆中風及顳極白質病變病史",
+    "explanation_image": "/explanations/cropped/111-2-醫學(四)-51_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/111-2-醫學(四)-51_merged.png"
+    ]
   },
   "111-2-醫學(四)-52": {
     "explanation": "> ⚠️ **原書掃描缺頁**\n>\n> 本題原書對應頁碼於電子掃描檔中缺失，暫無收錄原書詳解",
