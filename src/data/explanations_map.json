@@ -969,60 +969,44 @@
     ]
   },
   "111-1-醫學(四)-44": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "MLF、PPRF 路徑的題目時不時就會出現，建議考生可熟記下圖，PPRF 接收來自視覺皮質的訊息，並控制同側外旋神經核 (CN6)，而外旋神經核可直接支配同側外直肌，或是經由 MLF 到對側動眼神經核 (CN3) 調控對側內直肌，而本題病人是在右眼共軛左看的最後一步出錯，故選 (B)\n\n以共軛向右看為例：\n左側大腦皮質會先傳給右側 PPRF 之後分兩路到外旋神經核，一邊往下支配右眼外直肌，另一邊跨到左側 MLF 後到動眼神經核支配左眼內直肌",
+    "image": "/explanations/cropped/111-1-醫學(四)-44_merged.png",
+    "book_page": 147
   },
   "111-1-醫學(四)-45": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "diffusion-weighted imaging (DWI) 主要針對水分的擴散程度顯影，對於 acute cerebral infarction 相當敏感，在中風之後兩小時就會有明顯的訊號，在腦梗死的早期階段，腦細胞出現腫脹並從細胞外間隙吸收水分，因此細胞內、外的水分子彌散受限，局部組織的 apparent diffusion coefficient (ADC) 值降低，所以造成 DWI 訊號增強\n\n＜補充＞依照腦梗塞後的時間分野，分成 acute、subacute、late 影像上變化如下表：\n\n| MRI sequence | Function |\n| --- | --- |\n| T2* | 可偵測鐵質沉積與出血，訊號弱表示出血，出血後數年仍能夠偵測到訊號 |\n| T2 | 水腫 (edema)、去髓鞘 (demyelination)、硬化 (sclerosis) 皆會造成訊號增強 |\n| DWI | 早期梗塞兩個小時後就可見到訊號增強，敏感度高，而老舊的梗塞會使訊號減弱 |\n| ADC | 若是 cytotoxic edema，則訊號會變弱，若是 vasogenic edema，則訊號會變強 |\n| T2 flair | 早期梗塞不會增強訊號，約在三天後開始增強（通常在一週內可見高訊號，持續兩周之後消失，若是持續存在則要考慮腫瘤） |",
+    "image": "/explanations/cropped/111-1-醫學(四)-45_merged.png",
+    "book_page": 148
   },
   "111-1-醫學(四)-46": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "影像上可明顯看到左側中大腦動脈支配區域有大片的 ICH、無法言語以及右側肢體無力，是典型左中大腦動脈中風的特色，本題選 (C)",
+    "image": "/explanations/cropped/111-1-醫學(四)-46_merged.png",
+    "book_page": 149
   },
   "111-1-醫學(四)-47": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "此題應該可以從語氣選出正解\n(A) 錯誤，雖然可安排 MRI 排除因局部病灶引起的癲癇，但不表示看起來正常的腦部磁振造影就可排除癲癇\n(B) 錯誤，並非出現棘波 (spike) 都是癲癇發作，也不是所有癲癇患者都可檢測到 spike（只有 50% 癲癇患者的腦波圖會出現異常，經由重複記錄和或 PSG 的腦波圖，診斷率可提高到 70%）\n(C) 錯誤，雖然嬰幼兒時期曾發生熱痙攣者發生癲癇的風險較高，但比例也不高（約 2-5%）\n(D) 正確，vasovagal syncope 也可能出現短暫肌肉強直的症狀",
+    "image": "/explanations/cropped/111-1-醫學(四)-47_merged.png",
+    "book_page": 150
   },
   "111-1-醫學(四)-48": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "偏頭痛急性治療以 Triptans & Ergots 為主，預防的藥物可用 ABCD 記憶\n\n(A) 正確，triptan 類藥物作用機轉為 5-HT1B/1D receptor agonist，會有血管收縮的效果，心血管疾病的風險是其主要的副作用，孕婦和冠心病患者禁用\n(B) 正確，預防性藥物的使用時機為：平均每週發作 1 次以上，或慢性頭痛（每月 ≥ 15 天頭痛）；發作時間超過 48 小時、頭痛發作程度嚴重、急性處理無法完全減輕頭痛等等\n(C) 錯誤，詳見下表\n(D) 正確，同時有偏頭痛及高血壓的患者可以優先考慮 beta-blockers；bipolar 患者使用 TCA、beta-blockers 可能會使 mania 惡化，須慎用\n\n| 分類 | 偏頭痛預防用藥 |\n| --- | --- |\n| A | (1) Antiepileptic: Topiramate, Gabapentin, Valproate<br>(2) ACE-i/ARB: Lisinopril, Candesartan |\n| B | (1) Beta-blocker: Propranolol, Atenolol, Metoprolol, Nadolol |\n| C | (1) CCB: Flunarizine, Verapamil |\n| D | (1) Anti-Depressant: Amitriptyline, Venlafaxine |",
+    "image": "/explanations/cropped/111-1-醫學(四)-48_merged.png",
+    "book_page": 150
   },
   "111-1-醫學(四)-49": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "一翻兩瞪眼的記憶題，青少年肌躍性癲癇最適合的藥物是 valproate，若使用 carbamazepine、oxcarbazepine、或 phenytoin 治療，有可能會加重症狀\n\n＜其他考點＞\n1. 青少年肌躍性癲癇、青少年失神性癲癇：通常對單一抗癲癇藥的反應良好\n2. Lennox-Gastaut syndrome 對單一抗癲癇藥反應不佳，難以用藥控制\n3. 青少年肌躍性癲癇：myoclonic seizure 常發生於剛睡醒的時候，EEG 特徵為 4～6 Hz 不規則 polyspikes，雖然大多無法痊癒，但屬於良性的 generalized epilepsy",
+    "image": "/explanations/cropped/111-1-醫學(四)-49_merged.png",
+    "book_page": 151
   },
   "111-1-醫學(四)-50": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "一氧化碳中毒影響大腦的部位主要是白質以及蒼白球 (globus pallidus)，且通常為雙側影響，在 T2-weighted MRI 影像上會看到 eye of the tiger sign（很少會影響到黑質，與典型的巴金森氏症不同）",
+    "image": "/explanations/cropped/111-1-醫學(四)-50_merged.png",
+    "book_page": 152
   },
   "111-1-醫學(四)-51": {
-    "explanation": "缺頁",
-    "explanation_image": null,
-    "explanation_images": [],
-    "image": null,
-    "images": []
+    "text": "原發性巴金森氏症由發病到死亡可分為五階段，一般發病的前兩年為前期（第一、第二階段），症狀通常是輕微的靜止震顫，或是面部表情減少等；三到四年為中期（第三階段），其特徵為失去平衡且步態受到影響，會開始容易跌倒、生活功能開始受影響；五年之後為後期（第四、第五階段）則是日常生活逐漸無法自理，且需要輪椅或助行器才可行動，因此此題應選 (B)，所述為中期（兩年以後）才會出現的症狀\n\n| 階段 | 特徵 |\n| --- | --- |\n| 階段一 | 症狀輕微，僅發生在單側，不會干擾個人的生活品質 |\n| 階段二 | 症狀發生在兩側，日常活動變得更加困難，需要更多的時間來完成日常工作 |\n| 階段三 | 巴金森氏症的中期，個人失去平衡，移動更慢、容易跌倒，症狀會損害日常生活活動，如：難以穿衣、進食和刷牙 |\n| 階段四 | 症狀變得嚴重，需要協助完成日常活動，行走時需要輔具協助 |\n| 階段五 | 巴金森氏症的最後階段，需要臥床或無法行走，幾乎需要全日依賴輪椅及生活照顧 |",
+    "image": "/explanations/cropped/111-1-醫學(四)-51_merged.png",
+    "book_page": 152
   },
   "111-1-醫學(四)-52": {
     "explanation": "缺頁",
