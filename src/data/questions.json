@@ -39790,9 +39790,11 @@
       "D": "口服patiromer，屬陽離子交換樹脂（cation exchange resin），此藥較常見的副作用是便秘與高鎂血症 （hypermagnesemia）"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null,
+    "explanation": "高鉀血症（Hyperkalemia）之緊急處置與藥物作用機轉：\n\n* 治療策略三大核心步驟：\n  1. 保護心肌膜電位（Membrane stabilization）：提高動作電位閾值，對抗致命性心律不整\n  2. 促進細胞外鉀離子移入細胞內（Shifting K+ into cells）：暫時性降低血清鉀離子濃度\n  3. 實質移除體內多餘鉀離子（Removal of potassium from the body）：經腸道或腎臟排除，或經血液透析移除\n* 各選項藥物劑量與機轉深入解析：\n  * (A) 敘述正確：10% Calcium gluconate 10 mL 靜脈注射 2~3 分鐘（若病況極危急可用 Calcium chloride 5~10 mL），1~3 分鐘內迅速起效，維持約 30~60 分鐘，可穩定心肌細胞膜電位，但注意高血鈣會增強 Digoxin 心臟毒性\n  * (B) 敘述正確：Regular Insulin (RI) 10 U IV 併用 50% 葡萄糖水（D50W）50 mL 靜脈注射，促進細胞膜 Na+/K+-ATPase 活化將鉀離子打入細胞內；10~20 分鐘起效，30~60 分鐘達最高峰，可持續 4~6 小時；若病患基準血糖已 > 200~250 mg/dL，可避免單純使用高張糖水，但需密切監測血糖以防低血糖發生\n  * (C) 敘述正確：吸入型 β2-agonist（如 Albuterol 10~20 mg 溶於 4 mL 生理食鹽水中霧化吸入），約 30 分鐘起效，與胰島素具有加乘降鉀效果；約 20% 末期腎病患者效果欠佳，常見副作用包括心悸、心搏過速與暫時性血糖上升\n  * (D) 敘述錯誤（選 D）：**Patiromer（Veltassa）** 為非吸收型陽離子交換聚合物，主要於結腸以鈣離子交換鉀離子結合後隨糞便排出；因其非專一性結合特性，亦會結合腸道中的鎂離子，故臨床上最常見之電解質異常為**低鎂血症（Hypomagnesemia）**而非高鎂血症，常見腸胃道副作用為便祕、腹瀉與噁心，故 (D) 敘述錯誤",
+    "explanation_image": "/explanations/cropped/114-1-醫學(三)-1_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/114-1-醫學(三)-1_merged.png"
+    ],
     "section": "第一篇 內科學",
     "chapter": "肝膽腸胃科",
     "category": "肝膽腸胃科"
@@ -39810,9 +39812,11 @@
       "D": "腎臟超音波（renal ultrasonography），必要時考慮腎臟切片（renal biopsy）檢查"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null,
+    "explanation": "腎絲球性血尿（Glomerular hematuria）與次發性腎絲球腎炎之鑑別診斷：\n\n* 尿液分析判讀核心：\n  * 尿液檢查呈現：顯著蛋白尿（1500 mg/day > 500 mg/day）、異形紅血球（dysmorphic RBC +）以及最具診斷專一性之**紅血球圓柱體（RBC cast +）**\n  * 臨床定位：確立血尿源自**腎絲球實質病變（Glomerular disease）**，而非腎後性泌尿道結構病變（Postrenal cause）\n* 各選項評估合理性解析：\n  * (A) 適當：腎絲球腎炎需鑑別自體免疫與感染後疾病，必測補體水準（C3、C4 下降提示感後腎炎 PSGN、狼瘡性腎炎 LN、膜增生性腎炎 MPGN）、Anti-GBM（Goodpasture 症候群）、ANCA（小血管炎 MPA/GPA/EGPA）、Cryoglobulins（冷凍球蛋白血症腎炎）、ASLO、梅毒血清 VDRL 與 HIV\n  * (B) 適當：B 型肝炎常引發膜性腎病變（Membranous nephropathy, MN）或 MPGN；C 型肝炎與第 II 型混合型冷凍球蛋白血症及 MPGN 高度相關，病毒性肝炎血清學為常規必驗項目\n  * (C) 最不適當（選 C）：靜脈腎盂造影（IVP）或逆行性腎盂攝影（RP）為評估輸尿管結石、泌尿上皮腫瘤等結構性梗阻之檢查，對診斷腎絲球病變毫無助益；且 IVP 所使用之含碘對比顯影劑具有高度腎毒性（Contrast-induced nephropathy），在已有急性腎實質受損之病患應盡量避免，故選 (C)\n  * (D) 適當：腎臟超音波可評估腎臟大小、皮質回音性並排除尿路阻塞；腎臟切片（Renal biopsy）為確立各類型原發或次發性腎絲球腎炎病理診斷之黃金標準",
+    "explanation_image": "/explanations/cropped/114-1-醫學(三)-2_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/114-1-醫學(三)-2_merged.png"
+    ],
     "section": "第一篇 內科學",
     "chapter": "腎臟科",
     "category": "腎臟科"
@@ -39830,9 +39834,11 @@
       "D": "溶血（hemolysis）"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null,
+    "explanation": "術後黃疸與遺傳性高膽紅素血症之鑑別診斷：\n\n* 遺傳性未結合型高膽紅素血症對比分析：\n  * **Crigler-Najjar 症候群第 I 型（CN-I）**：\n    * 致病機轉：體染色體隱性遺傳，UDP-glucuronosyltransferase (UGT1A1) 基因嚴重突變，導致酵素活性**完全缺乏（0%）**\n    * 臨床特點：**新生兒出生數天內即發生致死性高膽紅素血症（Total bilirubin 常高達 20~45 mg/dL）**，對 Phenobarbital 無反應，易引發致命性核黃疸（Kernicterus），不可能存活至 30 歲成年時才因疝氣手術首次發病且數值僅 4.1 mg/dL，故 (B) 最不可能\n  * **Gilbert 症候群（GS）**：\n    * 致病機轉：UGT1A1 啟動子 TATA box 突變導致酵素活性降至正常之 10~33%\n    * 臨床特點：最常見之良性體質性高膽紅素血症，平時無症狀，在禁食、疲勞、發燒、感染或**手術生理壓力**下誘發輕微黃疸，Total bilirubin 通常在 1.5~4 mg/dL 之間（極少超過 4~5 mg/dL），完全符合題幹表現\n* 其他可能病因：\n  * (C) 腹腔內感染：嚴重感染或敗血症釋放細胞激素抑制毛細膽管排泄功能，可引起感染相關膽汁滯留性黃疸\n  * (D) 溶血（Hemolysis）：手術創傷後血腫吸收、藥物誘發免疫性溶血可大量生成間接型膽紅素",
+    "explanation_image": "/explanations/cropped/114-1-醫學(三)-3_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/114-1-醫學(三)-3_merged.png"
+    ],
     "section": "第一篇 內科學",
     "chapter": "腎臟科",
     "category": "腎臟科"
@@ -39850,9 +39856,11 @@
       "D": "吐氣期腹部向內凹陷，考慮橫膈膜無力"
     },
     "answer": "C",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null,
+    "explanation": "呼吸困難（Dyspnea）之身體診察與病態生理學對應：\n\n* 各理學檢查現象機轉解析：\n  * (A) 配對錯誤：第二心音肺動脈瓣成分（P2）由肺動脈瓣關閉產生；當右心室收縮壓力或肺動脈壓力顯著增高（如肺高壓、肺栓塞）時，肺動脈瓣閉合力量增強，理學檢查特徵為 **P2 增強亢進（accentuated P2）**而非消失；P2 消失多見於極度嚴重之肺動脈瓣狹窄（Pulmonic stenosis）\n  * (B) 配對錯誤：支氣管呼吸音（Bronchial breath sound）為大氣道高頻粗糙呼吸音，若在周邊肺野聽診聞及，代表下方肺泡實質化（Consolidation，如大葉性肺炎、重度肺水腫）；而肋膜積水（Pleural effusion）因積液阻隔聲波傳導，典型表現為病灶處**呼吸音減弱或消失（decreased/absent breath sounds）**與叩診濁音\n  * (C) 配對最適當（選 C）：**奇脈（Pulsus paradoxus）** 定義為吸氣時動脈收縮壓下降幅度超過 10 mmHg；其經典病態生理為心包腔受限（如**心包填塞 Cardiac tamponade** 或縮窄性心包炎），吸氣時右心回流血量增加但心室受外在心包限制無法向外擴張，迫使室中隔向左心室側凸出，顯著壓縮左心室舒張容積導致心輸出量驟減、血壓顯著下降，故選 (C)\n  * (D) 配對錯誤：正常生理呼吸中，吸氣期橫膈膜下降收縮使腹部向外隆起，吐氣期橫膈膜回彈放鬆使腹部自然向內回縮，因此「吐氣期腹部向內凹陷」純屬正常呼吸生理；橫膈膜無力或麻痺之病理徵候為**吸氣期**腹壁反而向內凹陷之「矛盾呼吸（Paradoxical breathing）」",
+    "explanation_image": "/explanations/cropped/114-1-醫學(三)-4_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/114-1-醫學(三)-4_merged.png"
+    ],
     "section": "第一篇 內科學",
     "chapter": "心臟內科",
     "category": "心臟內科"
@@ -39870,9 +39878,11 @@
       "D": "可能同時伴有急性心肌梗塞"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null,
+    "explanation": "急性主動脈剝離（Acute Aortic Dissection, AoD）之臨床特徵與危險評估：\n\n* 核心解剖分類與危險度對比：\n  * (A) 敘述最不適當（選 A）：急性主動脈剝離的危險度與侵犯範圍解剖位置直接相關；**Stanford Type A（侵犯升主動脈）** 主要表現為**前胸撕裂性劇痛**，因極易引發致命性併發症（心包填塞、急性主動脈瓣逆流、冠狀動脈阻塞與主動脈破裂），每延遲一小時死亡率增加 1~2%，早期死亡率高達 20~40%，需急診緊急開胸手術；而後背肩胛間疼痛主要見於 **Stanford Type B（僅侷限於降主動脈）**，無併發症時多以積極藥物降壓控制，早期死亡率約 6~10%，因此並非背痛比前胸痛更危險，故 (A) 錯誤\n* 各併發症與臨床徵象解析：\n  * (B) 敘述適當：剝離內膜假腔若壓迫或撕裂波及頭臂動脈幹（brachiocephalic trunk）或左鎖骨下動脈，會導致單側橈動脈血流中斷，引起單側脈搏消失或減弱（Pulse deficit），雙手收縮壓相差 > 20 mmHg\n  * (C) 敘述適當：Type A 剝離若逆向滲漏破入心包腔會形成急性心包填塞（Cardiac tamponade），呈現頸靜脈怒張、低血壓與心音微弱之 Beck's triad，為快速致死之極危急併發症\n  * (D) 敘述適當：剝離若延伸壓迫右冠狀動脈開口（RCA ostium），會導致急性透壁性心肌缺血，心電圖呈現下壁 ST 段上升之急性心肌梗塞（Inferior STEMI）",
+    "explanation_image": "/explanations/cropped/114-1-醫學(三)-5_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/114-1-醫學(三)-5_merged.png"
+    ],
     "section": "第一篇 內科學",
     "chapter": "心臟內科",
     "category": "心臟內科"
@@ -39890,9 +39900,11 @@
       "D": "經導管二尖瓣緣對緣（edge-to-edge）修補術可治療嚴重二尖瓣閉鎖不全，特別適合用於因腱索斷裂 （chordae rupture）造成瓣膜逆流之病患"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null,
+    "explanation": "結構性心臟病（Structural Heart Disease）經導管介入治療：\n\n* 經導管二尖瓣緣對緣修補術（TEER, 如 MitraClip）適應症剖析：\n  * (D) 敘述錯誤（選 D）：TEER 目前最主要之指引首選適應症為**次發性/功能性二尖瓣逆流（Secondary/Functional MR）**，即左心室擴大收縮功能不全（HFrEF，LVEF 20~50%、LVESD < 70 mm）在最佳藥物治療（GDMT）下仍有嚴重症狀者（COAPT 臨床試驗證實可顯著改善存活率）；而**腱索斷裂（Chordae rupture）** 屬於原發性/退化性二尖瓣逆流（Primary/Degenerative MR，二尖瓣脫垂合併連枷瓣葉 flail leaflet），外科微創修補手術（Surgical mitral repair）可重建腱索與加裝瓣膜成形環，耐久度與療效遠優於 TEER，外科手術為第一線首選；TEER 僅保留於高齡、極高外科手術風險或無法耐受開胸手術者之替代備案，非「特別適合」，故 (D) 錯誤\n* 其他結構性介入治療技術：\n  * (A) 敘述正確：經皮阻塞器（Amplatzer occluder）可有效關閉第二型心房中隔缺損（Secundum ASD，需邊界足夠）、開放性卵圓孔（PFO）及開放性動脈導管（PDA）\n  * (B) 敘述正確：經皮二尖瓣氣球擴張術（PTMC / Inoue balloon）由股靜脈穿刺向上，經下腔靜脈進入右心房，穿透心房中隔（transseptal approach）進入左心房與二尖瓣口進行交界擴張，為無嚴重鈣化或逆流之風濕性 MS 首選處置\n  * (C) 敘述正確：經導管主動脈瓣置換術（TAVR）已獲指引全面核准用於高度及中度外科手術風險之嚴重有症狀主動脈瓣狹窄（Severe AS）病患",
+    "explanation_image": "/explanations/cropped/114-1-醫學(三)-6_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/114-1-醫學(三)-6_merged.png"
+    ],
     "section": "第一篇 內科學",
     "chapter": "心臟內科",
     "category": "心臟內科"
@@ -39910,9 +39922,11 @@
       "D": "經皮冠狀動脈介入治療（PCI）後的早期，核醫心肌灌流造影仍可能觀察到輕微可逆性的心肌灌流缺損"
     },
     "answer": "A",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null,
+    "explanation": "核醫心肌灌流造影（Myocardial Perfusion Imaging, MPI）臨床應用指引：\n\n* 核心評估適應症與指引規範（ACC/AHA Appropriate Use Criteria）：\n  * (A) 敘述錯誤（選 A）：冠狀動脈繞道手術（CABG）後前 5 年內，乳內動脈（LIMA）與隱靜脈移植血管整體通暢率良好；在**無症狀（Asymptomatic）**之病患身上，常規進行心肌灌流造影篩檢並無改善臨床硬預後（死亡或心肌梗塞）之實證，反而大幅增加假陽性率、輻射暴露與後續不必要之侵入性心導管檢查；國際指引明確將其列為不適當（Rarely Appropriate / Inappropriate），故選 (A)\n  * (B) 敘述正確：經皮冠狀動脈介入治療（PCI）後 2 年內，若病患持續無症狀，常規進行負荷心肌灌流造影同樣屬於過度醫療，不建議例行實施\n  * (C) 敘述正確：CABG 術後若病患再次出現復發性胸痛或心衰竭症狀，MPI 可精確評估是否有可逆性心肌缺血（Reversible ischemia）、定位缺血血管區域與評估心肌存活度（Viability），作為再次血運重建（Revascularization）之決策依據\n  * (D) 敘述正確：PCI 術後早期（數週至數月），微血管內皮功能受損、微小遠端血栓或心肌暫時性失能（Myocardial stunning），可能在造影上呈現輕微可逆性灌流缺損，隨時間多能自行恢復改善",
+    "explanation_image": "/explanations/cropped/114-1-醫學(三)-7_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/114-1-醫學(三)-7_merged.png"
+    ],
     "section": "第一篇 內科學",
     "chapter": "心臟內科",
     "category": "心臟內科"
@@ -39930,9 +39944,11 @@
       "D": "心肌水腫時在MRI 的T1 訊號會增加，與LGE 分別代表不同的組織變化，此與疾病的不同時期有關"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null,
+    "explanation": "心臟磁振造影（Cardiac MRI）延遲顯影增強（LGE）之判讀與臨床意義：\n\n* MRI 物理訊號特性鑑別：\n  * (D) 敘述錯誤（選 D）：水分子之氫質子具有長 T1 與長 T2 弛豫特性；當組織發生急性炎症或缺血導致心肌水腫（Myocardial edema）時，在**常規 T1 加權影像（T1WI）上呈現低訊號至等訊號（不會呈高訊號）**，心肌水腫之特徵性高訊號主要見於 **T2 加權影像（T2WI）**、T2 mapping 或 STIR 序列中；而釓顯影劑延遲增強（LGE）則是因顯影劑滯留於擴大之細胞外間隙（心肌壞死、纖維化結疤），呈現延遲高訊號，兩者病理本質不同，故 (D) 敘述錯誤\n* 各心肌病變之 LGE 分佈表型解析：\n  * (A) 敘述正確：本題附圖 LGE 位於左心室下壁與下外側壁的心壁中層（midwall）及心外膜下（subepicardial），呈現典型非缺血性浸潤斑塊；心臟類肉瘤病（Cardiac sarcoidosis）好發於此區域，導引切片可顯著提高組織切片陽性診斷率\n  * (B) 敘述正確：擴張型心肌病變（DCM）之纖維化 LGE 多呈心壁中層線狀（midwall linear）或斑塊狀，最常見好發於基底室間隔（basal septum）\n  * (C) 敘述正確：缺血性心肌梗塞之纖維化由心內膜下（subendocardium）起始，依嚴重度向外穿透心外膜呈透壁性，完全吻合冠狀動脈解剖血流供應區域",
+    "explanation_image": "/explanations/cropped/114-1-醫學(三)-8_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/114-1-醫學(三)-8_merged.png"
+    ],
     "section": "第一篇 內科學",
     "chapter": "心臟內科",
     "category": "心臟內科",
@@ -39953,9 +39969,11 @@
       "D": "鎂離子（Mg"
     },
     "answer": "D",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null,
+    "explanation": "心臟心肌細胞動作電位（Action Potential）與離子通道調控：\n\n* 動作電位各時相離子流調控機制：\n  * Phase 0（快速去極化期）：電壓門控快鈉通道開放，**Na+ 瞬間大量快速內流（INa）**，電位迅速上升至 +20 mV\n  * Phase 1（初期快速再極化期）：快鈉通道失活，暫態外向鉀通道開放，**K+ 外流（Ito）** 造成電位短暫回降\n  * Phase 2（高原期 Plateau）：L 型鈣通道開放，**Ca2+ 緩慢內流（ICa-L）** 與延遲整流鉀通道之 **K+ 外流（IK）** 達到動態跨膜電流平衡，維持心肌長時間不反應期\n  * Phase 3（終末再極化期）：鈣通道完全失活關閉，延遲整流鉀通道全力開放，**K+ 大量快速外流（IKr, IKs）**，使膜電位迅速回復至靜止水準\n  * Phase 4（靜止期）：由內向整流鉀通道（IK1，**K+ 電流**）穩定維持靜止膜電位在約 -90 mV\n* 各選項離子角色解析：\n  * (A)、(B)、(C)：Na+、K+ 與 Ca2+ 均為直接穿越細胞膜產生跨膜電流、決定動作電位上升與復極的核心電荷載體離子\n  * (D) 不直接參與（選 D）：**鎂離子（Mg2+）** 主要在細胞內擔任輔酶（Cofactor，如維持 Na+/K+-ATPase 活性與調節特定通道內向整流阻斷），其本身並不直接作為動作電位中穿透膜產生跨膜電位變化的主要載流離子，故選 (D)",
+    "explanation_image": "/explanations/cropped/114-1-醫學(三)-9_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/114-1-醫學(三)-9_merged.png"
+    ],
     "section": "第一篇 內科學",
     "chapter": "心臟內科",
     "category": "心臟內科"
@@ -39973,9 +39991,11 @@
       "D": "sotalol"
     },
     "answer": "B",
-    "explanation": "",
-    "explanation_image": null,
-    "explanation_images": null,
+    "explanation": "心電圖 QT 間期延長（QT prolongation）與抗心律不整藥物分類：\n\n* 藥物機轉與 QT 效應深入解析：\n  * (B) 不會造成 QT 延長（選 B）：**Digoxin（毛地黃）** 抑制心肌細胞膜 Na+/K+-ATPase 幫浦，增加細胞內鈣離子濃度並增強迷走神經活性，加速心室再極化並縮短心室動作電位時間（APD）；其在心電圖上典型表現為**縮短 QT 間期（QT shortening）**，並呈現特徵性下垂型 ST 段下凹（Salvador Dali mustache sign）、T 波平坦或倒置，絕不會造成 QT 延長，故選 (B)\n* 各引發 QT 延長（具誘發 TdP 風險）之藥物分類：\n  * (A) Quinidine：屬 **Class Ia 抗心律不整藥**，同時阻斷快鈉通道與快速延遲整流鉀通道（IKr），顯著延長動作電位時程與 QT 間期\n  * (C) Ibutilide：屬 **Class III 抗心律不整藥**，強效阻斷 IKr 鉀電流並促進緩慢內向鈉電流，顯著延長心房與心室復極化及 QT 間期，使用時需連續監控預防 TdP\n  * (D) Sotalol：屬兼具非選擇性 β 阻斷作用之 **Class III 藥物**，主要藉由阻斷 IKr 延長心室復極與 QT 間期，具劑量相關性之 QT 延長效應",
+    "explanation_image": "/explanations/cropped/114-1-醫學(三)-10_merged.png",
+    "explanation_images": [
+      "/explanations/cropped/114-1-醫學(三)-10_merged.png"
+    ],
     "section": "第一篇 內科學",
     "chapter": "心臟內科",
     "category": "心臟內科"
