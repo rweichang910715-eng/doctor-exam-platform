@@ -40360,7 +40360,7 @@
       "D": "tumor necrosis factor（TNF）在致病機轉扮演重要角色，因此anti-TNF 藥物對OA 的治療效果很好"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。\n\n(A) 錯誤。OA 常見的受影響關節有：髖關節、膝關節、第一蹠趾關節（MTP）、頸椎、腰椎；手部則是遠端指間關節（DIP）、近端指間關節（PIP）、拇指根部。腕關節、肘關節、踝關節通常不受影響。Harrison 提到，從演化角度看，人類關節原本不是為直立行走與精細操作而設計，所以膝、髖、拇指基部容易受 OA 影響；踝關節的軟骨可能對負重壓力有特殊抵抗力而較少受累。\n\n(B) 正確。三者都是 OA 的全身性危險因子。\n\n(C) 錯誤。OA 的 X 光表現包括關節邊緣骨刺（marginal osteophytes）、局部關節間隙變窄、骨下硬化（subchondral sclerosis）、囊腫（cysts）。關節間隙變窄合併骨侵蝕（bone erosion）是類風濕性關節炎（RA）的影像特徵。\n\n(D) 錯誤。OA 的藥物治療以 NSAIDs、關節內注射（類固醇、玻尿酸）為主，都只是症狀治療，無法改變病程。anti-TNF 是 RA 的治療。\n\n**退化性關節炎（osteoarthritis, OA）**\n\n| 項目 | 細項 | 重點 |\n| --- | --- | --- |\n| 危險因子 | 局部關節脆弱性 | 先前損傷（例如半月板切除術）、跨關節肌肉無力、骨密度增加、關節排列不正、本體感覺缺陷 |\n| 危險因子 | 全身性因素 | 高齡、女性、種族／族群因素、基因易感性、營養因素 |\n| 危險因子 | 負重因素 | 肥胖、容易造成關節損傷的活動 |\n| 治療 | 口服 NSAIDs 與 COX-2 inhibitors（naproxen、salsalate、ibuprofen、celecoxib） | 應與食物併用<br>部分 NSAIDs 會增加心肌梗塞與中風風險<br>常見腸胃道副作用（潰瘍、出血）：高風險者併用 PPI 或 misoprostol<br>可造成水腫與腎功能不全 |\n| 治療 | 外用 NSAIDs（diclofenac） | 局部塗抹；全身性副作用少，常見皮膚刺激 |\n| 治療 | Acetaminophen | 效果有限，只在特定情況下建議使用 |\n| 治療 | Opiates | 常見副作用：頭暈、鎮靜、噁心嘔吐、口乾、便秘、尿滯留、搔癢<br>有成癮風險<br>效果比口服 NSAIDs 差 |\n| 治療 | Capsaicin | 可能刺激黏膜 |\n| 治療 | 關節內注射：類固醇 | |\n| 治療 | 關節內注射：玻尿酸（hyaluronans） | 注射部位常有輕中度疼痛；療效有爭議 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40380,7 +40380,7 @@
       "D": "血中的interleukin-1（IL-1）濃度會上升，但IL-1 抑制劑的治療效果通常不好而需要使用 glucocorticoid 來治療"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "答案 (A)。遺傳性 autoinflammatory disease 包括 Familial Mediterranean fever（FMF）、TNF receptor-associated periodic syndrome（TRAPS）、Muckle-Wells syndrome（MWS）等，症狀有發燒、多器官發炎等。這類疾病臨床上罕見，也不是熱門考點。\n\n(A) 正確。FMF 對應 pyrin、TRAPS 對應 p55 TNF receptor、MWS 對應 NLRP3 基因突變。\n\n(B) 錯誤。FMF 可為隱性或顯性遺傳；TRAPS、MWS 都是顯性遺傳（見下表）。\n\n(C) 錯誤。FMF 基因編碼的 pyrin 蛋白透過 PYRIN domain 與 adaptor protein 交互作用，組成 pyrin inflammasome → 活化 caspase-1（IL-1β converting enzyme）→ 促進 IL-1β、IL-18 分泌，以及 gasdermin D 介導的 pyroptosis。造成強烈發炎的是 IL-1；IL-2 則與 TH1 及 T 細胞增生有關。\n\n(D) 錯誤。FMF 的第一線治療是每日口服 colchicine，可減少發作頻率與強度，並預防類澱粉沉積（amyloidosis）；約 2/3 病人症狀大幅改善，>90% 有一定療效。第二線治療是 IL-1 抑制劑，包括 canakinumab、rilonacept、anakinra，效果良好。\n\n**遺傳性反覆發燒症候群（The Hereditary Recurrent Fever Syndromes，依 Harrison 簡化）**\n\n| 項目 | FMF | TRAPS | HIDS／MKD | MWS |\n| --- | --- | --- | --- | --- |\n| 遺傳方式 | 隱性 | 顯性 | 隱性 | 顯性 |\n| 基因／機轉 | MEFV／Pyrin | TNFRSF1A／p55 TNF receptor | MVK／Mevalonate kinase | NLRP3／Cryopyrin |\n| 發作週期 | 1–3 天 | >7 天 | 3–7 天 | 1–2 天 |\n| 主要臨床表現 | 腹膜炎、胸膜炎、關節痛 | 腹膜炎、關節痛、眼周水腫 | 關節痛、腹痛 | 關節痛、結膜炎、聽力喪失 |\n| 皮疹型態 | 類丹毒（erysipelas-like） | 遊走性皮疹 | 斑丘疹 | 蕁麻疹樣皮疹 |\n| 併發症 | 類澱粉沉積 | 類澱粉沉積 | 少見 | 類澱粉沉積 |\n| 治療 | Colchicine、IL-1 抑制劑 | 類固醇、IL-1 抑制劑 | NSAID、IL-1 抑制劑 | IL-1 抑制劑（canakinumab 等） |\n\nFMF：Familial Mediterranean fever；TRAPS：TNF receptor-associated periodic syndrome；HIDS／MKD：Hyperimmunoglobulinemia D／Mevalonate kinase deficiency；MWS：Muckle-Wells syndrome。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40400,7 +40400,7 @@
       "D": "tocilizumab"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。\n\n(A) Secukinumab 是 IL-17 抑制劑（其他還有 ixekizumab、brodalumab、bimekizumab），用於僵直性脊椎炎、axial SpA、乾癬性關節炎。\n(B) Ustekinumab 是針對 IL-12 與 IL-23 的單株抗體，干擾自然殺手細胞活化與 CD4⁺ T 細胞分化，用於乾癬性關節炎、克隆氏症、IBD。\n(C) Ixekizumab 同樣是 IL-17 抑制劑，用於僵直性脊椎炎、axial SpA、乾癬性關節炎。\n(D) 正確。Tocilizumab 與 sarilumab 是 IL-6 抑制劑，可與 methotrexate 併用，或單獨用於對其他生物製劑（包括 TNF 抑制劑）反應不佳的病人；適應症包括類風濕性關節炎、巨細胞動脈炎。\n\n**RA 治療**\n\n| 分類 | 藥物 | 副作用／注意事項 |\n| --- | --- | --- |\n| 傳統 DMARDs | Methotrexate（MTX） | 腸胃不適、口腔炎、間質性肺病（ILD）、骨髓抑制、肝毒性<br>MTX ± SSZ → 需補充葉酸 |\n| 傳統 DMARDs | Sulfasalazine（SSZ） | 使用前需檢查 G6PD |\n| 傳統 DMARDs | Leflunomide | |\n| 生物製劑 DMARDs | 各種 anti-TNF 效果相近；anti-TNF 效果不佳時可換另一種 anti-TNF；不可同時使用兩種生物製劑 | 細菌／黴菌／病毒感染風險增加<br>使用前篩檢 TB、HBV、HCV；接種 VZV 與肺炎鏈球菌疫苗 |\n| 生物製劑 DMARDs | Anti-TNF：etanercept、infliximab、adalimumab、certolizumab、golimumab | 心臟衰竭風險；中樞神經脫髓鞘疾病風險 |\n| 生物製劑 DMARDs | CTLA4-Ig：abatacept | |\n| 生物製劑 DMARDs | Anti-IL-6R：tocilizumab、sarilumab | 腸胃穿孔風險 |\n| 生物製劑 DMARDs | Anti-CD20：rituximab | 輸注反應：發燒、寒顫、皮疹、低血壓 |\n| 生物製劑 DMARDs | Anti-IL-1R：anakinra | |\n| 其他 | Hydroxychloroquine（HCQ） | 視網膜病變、皮疹 |\n| 其他 | JAK 抑制劑：tofacitinib、baricitinib、upadacitinib | 感染、肝指數上升、靜脈栓塞、心血管事件、惡性腫瘤 |\n| 其他 | 少用：cyclosporine、azathioprine、gold | Cyclosporine：肌酸酐上升（腎毒性）、高血壓、牙齦增生 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40420,7 +40420,7 @@
       "D": "檢驗serum albumin、prealbumin 及transferrin"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。梨形鞭毛蟲（Giardia lamblia）常見於抗體缺陷（例如 IgA deficiency、CVID）的病人，這類病人特別容易反覆感染。再加上反覆鼻竇炎、慢性腹瀉，符合體液性免疫缺陷（humoral immunodeficiency）的表現。\n\n(A) Allergen-specific IgE 用來檢查過敏體質（例如氣喘、蕁麻疹、過敏性鼻炎），無法解釋反覆感染與 Giardia。\n(B) 正確。檢驗血中 IgG、IgA、IgM 最有助於確認病因，可確認是否有低免疫球蛋白血症，例如 CVID 或 selective IgA deficiency。\n(C) 過敏原皮膚測試同樣屬於過敏檢查。\n(D) 主要用來評估營養狀態或慢性發炎，無法確認免疫功能問題。\n\n**B 淋巴球缺陷（B-cell deficiencies）**\n\n| 項目 | 重點 |\n| --- | --- |\n| 流行病學 | 占所有原發性免疫缺陷（PIDs）的 60–70%，是最常見的類型 |\n| B 細胞功能 | 產生抗體：<br>IgM（五聚體）：血管內、黏膜表面<br>IgG：可擴散到血管外<br>IgA：由黏膜相關淋巴組織分泌 |\n| 臨床表現 | 容易發生侵入性化膿性細菌感染<br>常見病原：S. pneumoniae、H. influenzae、M. catarrhalis<br>可見 Giardia lamblia、Helicobacter、Campylobacter 腸道感染<br>完全缺乏抗體（agammaglobulinemia）→ 易發生嚴重腸病毒感染（腦膜腦炎、肝炎、皮肌炎樣病） |\n| 嬰幼兒期 | B 細胞缺陷在 6 個月前很少感染（有經胎盤的母體 IgG 保護）<br>若母親有低免疫球蛋白血症，嬰兒沒有保護 → 容易感染 |\n| 診斷 | 血清免疫球蛋白濃度（IgG、IgA、IgM）<br>疫苗抗體反應（tetanus toxoid、pneumococcal polysaccharide）<br>B 細胞表型：switched μ⁻δ⁻CD27⁺；non-switched μ⁺δ⁺CD27⁺<br>Agammaglobulinemia：檢查骨髓 B 細胞前驅細胞，輔助基因診斷 |\n\n**B 淋巴球缺陷疾病**\n\n| 疾病 | 特徵 | 基因／病因 | 臨床表現 |\n| --- | --- | --- | --- |\n| Agammaglobulinemia | B 細胞 <1% 正常；血清免疫球蛋白嚴重缺乏 | 85% 為 BTK 基因突變（X-linked） | 反覆化膿性感染、腸病毒感染（腦膜腦炎、肝炎、皮肌炎樣病） |\n| Hyper-IgM（HIGM）syndrome | 類別轉換缺陷 → IgG、IgA 低，IgM 正常或升高 | X-linked CD40L 缺陷、AR CD40 缺陷（B + T 缺陷）；單純 B 細胞缺陷：AID 突變 | 感染類似 agammaglobulinemia；腸病毒感染少見；淋巴器官腫大；可能併發自體免疫、淋巴瘤 |\n| Common variable immunodeficiency（CVID） | 一種或多種免疫球蛋白下降；B 細胞數正常或偏低 | ICOS、NF-κB1、BAFF receptor、PIK3CD、PIK3R1 突變 | 感染、淋巴增生（脾腫大）、肉芽腫、結腸炎、自體免疫、淋巴瘤 |\n| IgA deficiency | 最常見的原發性免疫缺陷 | 多基因缺陷，部分與 CVID 同源 | 多數沒有症狀；有症狀者：呼吸道感染增加、支氣管擴張；過敏、藥物過敏、自體免疫增加；部分可進展成 CVID |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40440,7 +40440,7 @@
       "D": "Libman-Sacks endocarditis"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "答案 (A)。深部靜脈栓塞（DVT）是最常見的臨床表現。依 Harrison：DVT 約 39%、心臟瓣膜病變 ± Libman-Sacks vegetations 約 14%、子癲前症約 10%、視網膜動脈栓塞／黑矇（amaurosis fugax）約 7%。\n\n**抗磷脂症候群（Antiphospholipid Syndrome, APS）**\n\n| 項目 | 重點 |\n| --- | --- |\n| 定義 | 自體抗體造成的後天性高凝血狀態（acquired thrombophilia）<br>特徵：反覆動脈／靜脈血栓 + 妊娠異常<br>類型：Primary APS（單獨發生）、Secondary APS（合併 SLE 等自體免疫疾病）、Catastrophic APS（CAPS，快速影響 ≥3 個器官） |\n| 自體抗體 | 抗磷脂（PL）抗體：針對 cardiolipin、phosphocholine、phosphatidylserine<br>抗 β2-glycoprotein I（β2GPI）抗體：43 kDa 蛋白；Domain I 抗體與血栓風險增加有關<br>Lupus anticoagulant（LA）：延長凝血時間<br>VDRL 偽陽性（BFP-STS）<br>Seronegative APS：有典型臨床表現但沒有典型抗體，可檢測 antiphosphatidylserine／prothrombin 抗體 |\n| 臨床表現 | 靜脈血栓：下肢 DVT、PE、腦靜脈血栓、視網膜靜脈血栓<br>動脈血栓：腦動脈（偏頭痛、TIA、中風）、視網膜動脈阻塞、MI、腎動脈狹窄、脾／胰／腎上腺梗塞<br>皮膚：網狀紫斑（livedo reticularis）<br>心臟：Libman-Sacks endocarditis<br>腎臟：蛋白尿／血尿、高血壓、TMA、纖維性狹窄<br>妊娠異常：胎盤梗塞 → 反覆流產、胎兒生長遲滯、子癲前症／子癲症、早產<br>其他：早發動脈粥狀硬化、骨壞死、骨髓壞死、肌肉梗塞、骨質疏鬆<br>檢驗：Coombs 陽性溶血性貧血、血小板減少 |\n| 診斷標準 | 懷疑情境：<55 歲的血栓或腦血管意外、妊娠異常（流產、早產、胎盤功能不全）、合併網狀紫斑或血小板減少<br>診斷條件：至少符合 1 項臨床標準 + 1 項實驗室標準，並排除其他血栓傾向<br>臨床標準：<br>1. 血管血栓：動脈／靜脈／小血管血栓 ≥1 次<br>2. 妊娠異常：(a) ≥1 次 ≥10 週的正常胎兒死亡；(b) ≥1 次 34 週前早產（因嚴重子癲前症或胎盤功能不全）；(c) ≥3 次連續早期流產（<10 週）<br>實驗室標準：<br>1. Lupus anticoagulant<br>2. 抗 cardiolipin 抗體（aCL）<br>3. 抗 β2GPI 抗體（需中等或高濃度，且間隔 ≥12 週兩次陽性） |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40460,7 +40460,7 @@
       "D": "最常轉移的地方是肺部和其他骨頭區域"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。\n\n(A) 正確。Ewing 氏肉瘤好發於長骨的 diaphysis 與扁骨。\n(B) 錯誤。Ewing 氏肉瘤最常見的是 t(11;22)(q24;q12) 易位，產生 EWSR1-FLI1 融合基因。PDGFRA 基因異常與胃腸道基質瘤（GIST）有關。\n(C) 正確。Onion peel 可見於 Ewing 氏肉瘤的 X 光、CT、MRI 影像。Osteosarcoma 的典型影像特徵則是 moth-eaten、sunburst、Codman's triangle。\n(D) 正確。Ewing 氏肉瘤侵犯性高、容易轉移，最常轉移到肺、骨、骨髓。\n\n| 特徵 | Osteosarcoma | Chondrosarcoma | Ewing's Sarcoma |\n| --- | --- | --- | --- |\n| 比例 | 最常見，約占骨肉瘤 45% | 第二常見，約 20–25% | 10–15% |\n| 流行病學 | 60% 發生在 10–20 歲 | 成人與老年人，高峰 40–60 歲 | 青少年，10–20 歲 |\n| 好發部位 | 長骨 metaphysis（遠端股骨、近端脛骨、近端肱骨） | 扁骨（肩胛、骨盆）；長骨 diaphysis | 長骨 diaphysis、扁骨 |\n| 臨床表現 | 疼痛、腫脹 | 疼痛、腫塊，進展慢；高惡性度者多轉移到肺 | 疼痛、腫塊；發燒、體重下降；容易轉移到肺、骨、骨髓 |\n| 影像 | Moth-eaten、sunburst、Codman's triangle | 分葉狀，斑點／環狀鈣化 | Onion peel 骨膜反應，軟組織腫塊 |\n| 病理 | Spindle cell 產生 osteoid | 軟骨細胞，惡性軟骨基質 | 小圓藍細胞腫瘤，PAS⁺；t(11;22) → EWS-FLI1 融合基因；MIC2（CD99）⁺ |\n| 治療 | 術前化療 → 保肢手術（>80% 可達成）→ 術後化療；藥物：doxorubicin、cisplatin、ifosfamide、HD-MTX | 手術切除（對化療／放療不敏感） | 全身性化療（VDC/IE regimen），局部手術或放療 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40480,7 +40480,7 @@
       "D": "aromatase inhibitor"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。停經前女性可以用卵巢切除（oophorectomy），或 GnRH superagonist（例如 goserelin、leuprolide）抑制 LH／FSH 分泌、進而抑制排卵，或用 GnRH antagonist（例如 triptorelin）來降低雌激素。停經後女性即使卵巢功能已停止（自然停經或藥物抑制），腎上腺仍會產生少量雄激素前驅物（testosterone、DHEA），再經 aromatase 轉成 estradiol 與 estrone；aromatase inhibitors（anastrozole、letrozole、exemestane）可把循環中的雌激素降到幾乎測不到的程度。\n\n(D) 停經前病人單獨使用 AI 會造成負回饋，使卵巢雌激素反彈，所以停經前不可單獨使用 AI；若要使用，必須合併卵巢功能抑制，例如卵巢切除或 GnRH agonist 誘導停經。\n\n**乳癌荷爾蒙治療**\n\n| 項目 | SERM：Tamoxifen | 卵巢切除、GnRH agonist／antagonist | Aromatase Inhibitors |\n| --- | --- | --- | --- |\n| 適用族群 | 停經前與停經後女性（ER⁺） | 停經前女性（常與 tamoxifen 或 AI 合併） | 停經後女性（停經前卵巢功能正常者禁用） |\n| 作用機制 | ER 拮抗（乳房、大腦）；ER 致效（骨骼、肝臟、子宮） | 抑制或移除卵巢功能，降低雌激素 | 抑制 aromatase，阻斷雄激素轉換成雌激素 |\n| 臨床效果 | 降低 DCIS 局部復發，以及遠端轉移與死亡（10 年約降 40%） | 單用可減少復發，常與 AI 或 tamoxifen 合併 | 降低循環雌激素的效果略優於 tamoxifen |\n| 常見副作用 | 潮熱、陰道不適／性功能障礙、肌肉骨骼痠痛 | 潮熱、陰道乾澀、性功能障礙 | 潮熱、肌肉骨骼症狀、陰道萎縮／性功能障礙、骨質疏鬆與骨折 |\n| 注意事項 | 骨質疏鬆減少；血栓與子宮內膜癌增加 | 高風險病人（淋巴結陽性）優先使用 | 可合併 bisphosphonate 或 denosumab 預防骨質流失 |\n| 治療時間 | 傳統建議至少 5 年，可降低復發風險，停藥後數年仍有效；但之後 15 年每年仍有 0.5–3% 遠端復發風險（依 T、N 分期而定）<br>延長治療（tamoxifen 或 AI 額外 5 年以上）可進一步降低晚期復發風險 | | |\n\n**補充**\n\n本例是停經前、ER 陽性、HER2 陰性、只有骨轉移的乳癌，荷爾蒙治療是主要選擇：卵巢切除 (A) 或 GnRH agonist (C) 都能抑制卵巢功能，tamoxifen (B) 停經前後都可用，所以 (A)(B)(C) 都適宜；只有單用 AI 不適宜。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40500,7 +40500,7 @@
       "D": "根據NET 腫瘤細胞的分化程度可分成low grade（G1）、intermediate grade（G2）及high grade（G3）。 一般將G1 稱為well-differentiated NET，G2 及G3 稱為poorly-differentiated NET"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "答案 (A)。\n\n(A)(B) Chromogranin A 與 synaptophysin 呈陽性是典型的 NET 標誌，有助於 NET 的診斷，所以 synaptophysin 陽性不能用來排除 NET。\n\n(C) 錯誤。神經內分泌腫瘤的組織學無法預測其生物行為（biologic behavior），所以無法從切片得知臨床症候群。事實上，任何 NET 都無法靠病理切片判斷是否具分泌性，而要從臨床表現的症候群來診斷。\n\n(D) 錯誤。新版 WHO 已把分化與分級分開：分化良好者稱為 NET，可以是低到高度（G1–G3）；分化不良者稱為 NEC（carcinoma），必為高度。\n\n**消化道神經內分泌腫瘤（Gastrointestinal Neuroendocrine Tumors, GI NETs）**\n\n| 項目 | 重點 |\n| --- | --- |\n| 分類 | 胰臟外 NETs（傳統稱 carcinoid tumor）<br>胰臟 NETs |\n| 臨床特徵 | 病程通常比多數惡性腫瘤緩慢<br>能合成／分泌胜肽類、生長因子、生物胺 → 造成特有的臨床症候群 |\n| 遺傳相關 | MEN 1 → 胰臟 NET、副甲狀腺機能亢進、腦下垂體腺瘤；偶見支氣管／胸腺 NET<br>VHL：小腦血管母細胞瘤、腎癌、嗜鉻細胞瘤；偶見胰臟 NET<br>NF1：神經纖維瘤病 → 胰臟／胰臟外 NET 增加<br>TSC1／TSC2：抑制 PI3K–mTOR；可見胰臟 NET<br>家族性小腸 NET：偶有報告，但多數未找到特定突變 |\n| 組織學分類 | 依分化與分級（Grade 1–3）：<br>NET（分化良好）G1：低度，核分裂數 <2／10 HPF，Ki-67 <3%<br>NET（分化良好）G2：中度，核分裂數 2–20／10 HPF，Ki-67 3–20%<br>NET（分化良好）G3：高度，核分裂數 >20／10 HPF，Ki-67 >20%<br>NEC（分化不良）：高度 |\n| 典型 NET 表現 | 小圓細胞、單調核、核分裂少<br>免疫染色：Chromogranin（+）、Synaptophysin（+）<br>電子顯微鏡：神經分泌顆粒 |\n| 分子異常 | 胰臟 NET：MEN1（44%）、DAXX／ATRX（43%）、mTOR pathway（15%）<br>小腸 NET：CDKN1B（p27Kip1）突變（約 8%）、18 號染色體缺失<br>小腸 carcinoid：常見表觀遺傳異常（臨床意義不明） |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40520,7 +40520,7 @@
       "D": "肢端小痣型（acral lentiginous）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。肢端小痣型是亞洲人與黑人最常見的類型。\n\n**惡性黑色素細胞癌流行病學**\n\n| 分型 | 發病年齡 | 性別 | 種族 | 發生率 |\n| --- | --- | --- | --- | --- |\n| 惡性小痣型 | 中位數 65 歲 | 男女相同 | 白人發生率最高 | 約占原發性皮膚黑色素瘤的 10–15% |\n| 表淺擴散型 | 中位數 37 歲 | 女性略多於男性 | 主要發生在白人 | 約占所有黑色素瘤的 70% |\n| 結節型 | 中年 | 男女相同 | 白人較常見 | 約占美國黑色素瘤的 15–30% |\n| 肢端小痣型 | 中位數 63 歲 | 男女相同 | 占黑人黑色素瘤 60–72%；占亞洲人黑色素瘤 29–46% | 白人少見；在黑人與亞洲人最常見 |\n\n**惡性黑色素細胞癌組織學分類**\n\n| 類型 | 好發部位 | 外觀特徵 | 相關突變 |\n| --- | --- | --- | --- |\n| Lentigo maligna（惡性小痣型） | 日曬部位，特別是額部與太陽穴 | 平坦病灶，以棕色與褐色為主，但常見灰白色；若出現結節則呈紅褐色、藍灰色或藍黑色 | BRAF 28%、NRAS 15% |\n| Superficial spreading（表淺擴散型） | 任何部位（女性常見於上背與小腿） | 棕色混合藍紅色、藍黑色、紅褐色，且常帶粉紅色；邊界不規則，肉眼可見或可觸及隆起 | BRAF 57%、NRAS 18% |\n| Nodular（結節型） | 任何部位 | 紅藍色、紫色或藍黑色，可均勻或與棕黑色混雜 | BRAF 47%、NRAS 33% |\n| Acral lentiginous（肢端小痣型） | 手掌、腳底、甲床、黏膜 | 平坦病灶呈深褐色；隆起病灶（斑塊）呈棕黑色或藍黑色 | NRAS 25%、c-KIT 5–10%、BRAF 10% |\n| Desmoplastic（硬化型） | 任何部位（常見於頭頸部） | 外觀變化大，常缺乏色素；可模仿結節型基底細胞癌 | MAPK 與 PI3K 73%；腫瘤突變負荷高 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40540,7 +40540,7 @@
       "D": "對於第一期、第二期病人如果腎功能不佳或只有一顆腎臟，根據腎細胞癌的大小、位置，可以考慮腎元保留 （nephron-sparing）手術"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "答案 (A)。\n\n(A) 錯誤。Clear cell carcinoma 占腎細胞癌約 70%、轉移病例的 80%，是最常見的組織型；papillary tumor 是第二常見，約 10–15%。\n\n(B) 正確。腎細胞癌病人高血鈣的發生率可達 15%，機轉包括溶骨性骨轉移、paraneoplastic 症候群的 PTHrP 過度分泌，以及前列腺素增加。\n\n(C)(D) 正確。I、II 期及部分 III 期的侷限性腫瘤，標準治療首選根除性或局部腎切除術。根除性腎切除會切除 Gerota's fascia 與其中組織（包括腎臟），通常也切除同側腎上腺，以及影像學或術中判斷異常的區域淋巴結。腎元保留手術（nephron-sparing surgery，partial nephrectomy）特別適用於單腎、雙側腫瘤或慢性腎功能不全的病人，以及腎功能正常但腫瘤較小者。\n\n**腎細胞癌（Renal Cell Carcinoma, RCC）**\n\n| 項目 | 重點 |\n| --- | --- |\n| 遺傳與家族性腫瘤 | VHL syndrome：體染色體顯性，一生 RCC 風險 70%；合併視網膜血管瘤、嗜鉻細胞瘤<br>Birt–Hogg–Dubé syndrome：體染色體顯性，FLCN 基因突變；臨床有毛囊纖維瘤、肺囊腫，約 1/3 出現 RCC（以 chromophobe type 為主） |\n| 臨床表現 | 常見：血尿、腰痛、可觸及腫塊<br>其他：發燒、體重減輕、貧血、精索靜脈曲張（varicocele）<br>三聯症（血尿 + 腰痛 + 腫塊）現在少見，多為影像偶然發現<br>Paraneoplastic 症候群：紅血球增多症、高血鈣、Stauffer's syndrome（非轉移性肝功能異常）、後天性纖維蛋白原異常<br>好發轉移部位：肺、淋巴結、肝、骨、腦 |\n| 治療：侷限性腫瘤 | 標準：I、II 期及部分 III 期 → 根除性或部分腎切除<br>Radical nephrectomy：整塊切除 Gerota's fascia 與腎臟 ± 腎上腺、異常淋巴結<br>Partial nephrectomy（腎元保留）：單腎、雙側腫瘤、慢性腎功能不全或小腫瘤病人<br>Adjuvant therapy：荷爾蒙、標靶治療沒有明顯助益 → 標準為術後監測 |\n| 治療：轉移性疾病 | 手術：可切除單一轉移病灶（metastasectomy）；cytoreductive nephrectomy（少數 IV 期，緩解疼痛或出血）<br>放射治療：骨／腦轉移的緩解治療；立體定位放射外科、影像導引放療<br>全身治療：傳統化療無效；標靶：VEGF TKI、mTOR 抑制劑；免疫：nivolumab、ipilimumab、pembrolizumab |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
