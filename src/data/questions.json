@@ -40961,7 +40961,7 @@
       "D": "卡波西氏肉瘤疱疹病毒（Kaposi's sarcoma-associated herpesvirus, human herpesvirus 8）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。急性腦炎常見的病毒性病因包括疱疹病毒（HSV-1、HSV-2、HHV-6、VZV、EBV、CMV）、蟲媒病毒（La Crosse、West Nile、St. Louis encephalitis virus、Zika）與腸病毒；HHV-8（卡波西氏肉瘤疱疹病毒）不在其中。\n\n**腦炎（Encephalitis）**\n\n| 項目 | 重點 |\n| --- | --- |\n| 定義 | 腦實質發炎，造成腦功能受損（意識改變、神經學缺損），常由原發性病毒感染或病毒感染後的發炎反應引起 |\n| 常見病毒（找得到特定病因的不到 20%） | HSV-1：各年齡、全年都有，是最常見的散發性腦炎病因；治療後症狀復發要考慮病毒再發或自體免疫腦炎<br>VZV：初次感染或再活化，可有或沒有水泡疹；全年皆有，老年人較多<br>腸病毒（coxsackie、echo）：常先有上呼吸道或腸胃前驅症狀；夏末、初秋為高峰<br>蟲媒病毒：依病媒與地理分布而定；蚊子傳播的有 West Nile（最常見的流行性腦炎）、Eastern／Western equine、St. Louis、La Crosse；Ixodes 蜱傳播的有 Powassan |\n| 其他感染 | CMV、EBV、HIV、JC virus、麻疹、腮腺炎、狂犬病、腺病毒、流感、萊姆病 |\n| 非感染性病因 | 自體免疫／副腫瘤性：anti-NMDAR、anti-Hu、anti-Ma2、anti-CRMP5、anti-mGluR5<br>感染後去髓鞘：急性瀰漫性腦脊髓炎（ADEM） |\n| 臨床表現 | 發燒 + 意識改變（輕度到昏迷）、癲癇、局部神經學缺損、頭痛（腦膜腦炎） |\n| 診斷檢查 | 腦脊髓液：淋巴球增多；HSV PCR（敏感度與特異度約 95%）；依情況加驗 CMV／EBV、HIV、JC、腺病毒／腸病毒、West Nile<br>腦脊髓液找不到病因、經驗性治療也沒改善 → 考慮自體免疫病因、做血清學檢查<br>MRI：HSV 侵犯顳葉；West Nile 與 Powassan 可見視丘高訊號<br>腦波：排除癲癇；HSV 常見顳葉病灶 |\n| 治療 | 經驗性 acyclovir 10 mg/kg IV q8h（針對 HSV／VZV）<br>VZV 可額外考慮抗病毒治療 ± 支持性治療<br>自體免疫腦炎 → 考慮免疫治療（類固醇、IVIG、血漿置換） |\n\n**補充**\n\nHHV-8 主要與卡波西氏肉瘤、原發性滲出性淋巴瘤（primary effusion lymphoma）及多中心型 Castleman 病有關，不是腦炎的病因。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40981,7 +40981,7 @@
       "D": "可以採用三週erythromycin base（500 mg 每日口服四次）治療"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。\n\n(A)(B) 淋病性肉芽腫（lymphogranuloma venereum，LGV）是由 Chlamydia **trachomatis** serovars L1、L2、L3 引起的侵襲性全身性性病，不是 C. psittaci（C. psittaci 造成的是鸚鵡熱，經由鳥類傳染）。\n\n(C)(D) 正確。LGV 建議至少治療 3 週：doxycycline 100 mg 口服一天兩次，或 erythromycin base 500 mg 口服一天四次。\n\n**淋病性肉芽腫（Lymphogranuloma venereum）**\n\n| 項目 | 細項 | 重點 |\n| --- | --- | --- |\n| 病原體 | | C. trachomatis serovars L1、L2、L3 |\n| 流行病學 | | 侵襲性全身性性病；好發於 20–30 歲（性活動最頻繁的時期） |\n| 臨床表現 | 初期病灶 | 小型無痛丘疹，常潰瘍化；不易察覺，數日後自癒、不留疤；通常事後才被回想起 |\n| 臨床表現 | 腹股溝症候群 | 異性戀者較常見<br>感染後 2–6 週（偶爾數月）出現<br>疼痛的單側腹股溝淋巴結腫大（約 2/3）<br>髂骨與股部淋巴結常同側腫大 → 逐漸融合成波動性膿腫 → 皮膚固定、變薄、紅腫 → 形成多發性引流瘻管<br>Groove sign 偶見，但不具專一性 |\n| 臨床表現 | 直腸炎／直腸結腸炎 | 男男間性行為者常見<br>症狀：肛門直腸痛、黏液膿性或血性分泌物<br>乙狀結腸鏡：潰瘍性直腸炎／直腸結腸炎，伴膿性滲出與黏膜出血<br>組織學：含巨細胞的肉芽腫、隱窩膿瘍、廣泛發炎<br>可與克隆氏症的直腸病變相似 |\n| 臨床表現 | 全身症狀 | 常在淋巴結腫大期或直腸炎時出現：發燒、寒顫、頭痛、腦膜刺激症狀、食慾差、肌肉痛、關節痛 |\n| 臨床表現 | 併發症 | 未治療的肛門直腸感染：直腸周圍膿瘍，肛門／直腸陰道／直腸膀胱／坐骨直腸瘻管<br>直腸狹窄：常在肛門口上方 2–6 cm（肛門指診可摸到）<br>少數男性：慢性浸潤／潰瘍／瘻管病灶，侵犯陰莖、尿道、陰囊 → 淋巴阻塞、象皮病<br>尿道狹窄：多在後尿道 → 尿失禁、排尿困難 |\n| 診斷 | | 過去：卵黃囊、組織培養<br>現在：以非培養檢測為主；核酸增幅檢測（NAATs）是 CDC 推薦首選；床邊檢測逐漸普及 |\n| 治療 | | Doxycycline 100 mg PO bid ≥21 天<br>Erythromycin 500 mg PO qid ≥21 天 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -41001,7 +41001,7 @@
       "D": "cryptococcal meningitis — amphotericin B + flucytosine"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "答案 (C)。\n\n(A) 正確。HIV 感染者容易發生反覆或侵襲性的非傷寒沙門氏菌菌血症，首選治療包括 ceftriaxone、ciprofloxacin。\n\n(B) 正確。口咽念珠菌感染（鵝口瘡）在 HIV 很常見。可用局部 azoles（clotrimazole 口含錠、nystatin 懸液），但全身性 fluconazole 效果最好，用於中重度病人。\n\n(C) 錯誤。CMV 視網膜炎是 HIV 晚期常見的伺機性感染，不治療會失明。第一線治療是 ganciclovir、valganciclovir、foscarnet、cidofovir。Valacyclovir 是 acyclovir 的前驅藥，用於 HSV-1、HSV-2、VZV，不能用來治療 CMV。\n\n(D) 正確。隱球菌腦膜炎第一線治療：誘導期用 amphotericin B（liposomal 或 deoxycholate）+ flucytosine 2 週，之後以 fluconazole 做鞏固與維持治療。\n\n**HIV 感染者常見併發症**\n\n| CD4 數 | 併發症 |\n| --- | --- |\n| 任何數值 | 肺炎鏈球菌、結核、VZV、HPV 相關疾病、卡波西氏肉瘤、淋巴瘤、心血管疾病風險上升、骨密度下降 |\n| <500 | 全身症狀；黏膜皮膚病變：脂漏性皮膚炎、乾癬、口腔毛狀白斑；HSV；反覆細菌感染 |\n| <200 | PCP、弓漿蟲、PML、隱球菌、念珠菌、組織胞漿菌／球孢子菌（地方性流行區） |\n| <50–100 | CMV、MAC、中樞神經淋巴瘤、侵襲性麴菌症、桿菌性血管瘤病（播散性 Bartonella）、死亡（CD4 <50 屬醫療急症） |\n\n**補充**\n\nValganciclovir 是 ganciclovir 的口服前驅藥，名字和 valacyclovir 很像，是常見的混淆陷阱：valganciclovir 治療 CMV，valacyclovir 治療 HSV／VZV。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -41021,7 +41021,7 @@
       "D": "若後續胸部X 光追蹤又再次發現病灶在相同地方（relapse or recurrence），須懷疑是否有癌症的可能性"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。本題出自 Harrison 社區型肺炎（CAP）的追蹤章節。\n\n1. 預後取決於病人年齡、共病，以及治療場所（住院或門診）。\n2. 年輕、沒有共病的病人通常恢復良好，約 2 週可完全康復；年長或有共病的病人，可能要數週以上才完全康復。\n3. 死亡率：門診病人整體死亡率 <5%；住院病人 12–40%，取決於病人類別與照護過程，尤其是是否及時給予適當抗生素。所以 (C) 正確。\n4. 健康的 CAP 病人，發燒與白血球增多通常在 2–4 天內消退（(A) 正確），但理學檢查的異常可能持續更久。\n5. 胸部 X 光異常恢復最慢，約需 **4–12 週**，與病人年齡及原有肺部疾病有關。所以 (B)「7 天內完全消失」是錯的。\n6. 住院病人可在臨床狀況（包括共病）穩定後出院；高齡病人要特別考慮出院後的居住安排（養護機構、與家人同住或獨居）。\n7. 住院病人通常建議 4–6 週後追蹤胸部 X 光；若復發或再發，尤其在同一肺段，要考慮潛在腫瘤的可能（(D) 正確）。門診病人若不吸菸、其他狀況良好，且症狀在 5–7 天內消退，則不需要常規追蹤胸部 X 光。\n\n**Harrison 住院 CAP 的初始治療（依是否有 MRSA 或 P. aeruginosa 危險因子）**\n\n| 嚴重度 | 風險狀態 | 治療方案 |\n| --- | --- | --- |\n| 非嚴重型 | 沒有危險因子 | β-lactam(a) + macrolide(b)；或呼吸道 fluoroquinolone(c) |\n| 非嚴重型 | 曾有呼吸道分離出該菌 | 加上 MRSA(d) 或 P. aeruginosa(e) 的抗菌範圍 |\n| 非嚴重型 | 近期住院且使用過抗生素 | 只在培養陽性時加上 MRSA 或 P. aeruginosa 抗菌範圍；依當地抗藥性與危險因子評估 |\n| 嚴重型 | 沒有危險因子 | β-lactam + macrolide；或 β-lactam + 呼吸道 fluoroquinolone |\n| 嚴重型 | 曾有呼吸道分離出該菌 | 加上 MRSA 或 P. aeruginosa 抗菌範圍 |\n| 嚴重型 | 近期住院且使用過抗生素 | 加上 MRSA 或 P. aeruginosa 抗菌範圍；依當地抗藥性與危險因子評估 |\n\n(a) Ampicillin-sulbactam 1.5–3 g q6h；(b) Azithromycin 500 mg/d 或 clarithromycin 500 mg bid；(c) Levofloxacin 750 mg/d、moxifloxacin 400 mg/d、gemifloxacin 320 mg/d；(d) Vancomycin 15 mg/kg q12h（依血中濃度調整）或 linezolid 600 mg q12h；(e) Piperacillin-tazobactam 4.5 g q6h、cefepime 2 g q8h、ceftazidime 2 g q8h、imipenem 500 mg q6h、meropenem 1 g q8h、aztreonam 2 g q8h。\n\n書中另提到可參考台灣肺炎診治指引的經驗性抗生素使用。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -41041,7 +41041,7 @@
       "D": "未修復之發紺性先天性心臟病（cyanotic congenital heart disease）"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "答案 (C)。牙科手術前需要預防性抗生素以避免心內膜炎的高風險族群：\n\n1. 心臟裝有人工瓣膜或其他人工材料\n2. 植入左心室輔助裝置或人工心臟\n3. 曾罹患感染性心內膜炎\n4. 未經矯正手術（包括只做過姑息性分流／引流手術）的發紺性先天性心臟病\n5. 先天性心臟結構異常完全矯正後的 6 個月內\n6. 已矯正的先天性心臟病，但人工材料周圍仍有殘餘結構異常\n7. 曾接受外科手術或導管置入肺動脈瓣或導管\n8. 心臟移植後出現瓣膜病變\n\n(C) 先天性心臟病經完整修復，只有術後 6 個月內需要預防性抗生素；6 個月以後就不需要。\n\n書中註明心內膜炎與 Duke criteria 可參考 114-2 醫學(三) 第 61 題。\n\n**補充**\n\n為什麼是 6 個月？人工材料或修補處需要約 6 個月才會完全內皮化（endothelialization），之後感染風險就回到一般程度。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -41061,7 +41061,7 @@
       "D": "後天因素胎兒營養失調（fetal malnutrition）之低出生體重者，較不易導致代謝症候群"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。\n\n(A) 錯誤。根據 Harrison 代謝症候群危險因子章節，目前雖然沒有單一基因可以明確對應代謝症候群，但研究顯示多種基因變異與它的發生有關，例如與體重體態、胰島素阻抗、脂質與脂蛋白代謝有關的基因位點。\n\n(B) 正確。許多研究證實，精神疾病會增加多種全身性疾病的機率，例如心血管疾病、高血脂、腹部肥胖、高血壓、高血糖，進而導致代謝症候群。可能的機轉很多：精神科藥物的副作用、病人不健康的生活型態、因精神疾病不易獲得周全及時的醫療照護、基因與病生理上的先天易感性等。\n\n(C) 錯誤。社經地位較低的人經濟基礎較差，面臨許多不健康的生活條件，例如工作過度、飲食不均衡、醫療保健的可近性與篩檢意識不足，長期反而**容易**發生代謝相關疾病與代謝症候群。\n\n(D) 錯誤。胎兒營養失調是子宮內生長遲滯（IUGR）的原因之一。Nelson 提到 IUGR 與胰島素生產減少、IGF 作用下降有關，與 IGF-1 受體缺乏、胰臟發育不全或暫時性新生兒糖尿病造成的 IUGR 機轉類似。因此可推知胎兒營養失調造成的低出生體重者，**較容易**產生血糖代謝問題，長期增加代謝症候群的機率。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -41081,7 +41081,7 @@
       "D": "評估工具可使用混亂評估方法（Confusion Assessment Method, CAM）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。描述譫妄的術語很多，包括腦病變（encephalopathy）、急性腦功能衰竭、急性混亂狀態、術後／加護病房精神病等，可見譫妄的臨床表現相當多樣。\n\n(A) 錯誤。依 DSM-5，譫妄是一種**急性**發作的注意力與意識障礙，症狀通常在短時間內出現，一天中可能有所波動。睡眠週期改變、知覺障礙（幻覺或妄想）、情感變化、自主神經症狀（心跳與血壓不穩定）也可能伴隨出現。\n\n(B) 錯誤。譫妄的發病機轉與解剖學基礎尚未完全明瞭，推測神經傳導物質（乙醯膽鹼、多巴胺等）異常、發炎因子、特定基因、感染或藥物、外在環境刺激等都可能扮演角色。例如使用具抗膽鹼作用的藥物常會誘發譫妄；接受多巴胺促進劑治療的巴金森病人也可能出現視幻覺、意識波動與混亂等類似譫妄的狀態。\n\n(C) 錯誤。要控制譫妄的精神症狀時，常用抗精神病藥物，但仍須治療前述的潛在原因，才能從根本緩解譫妄。\n\n(D) 正確。混亂評估方法（CAM）是簡易的標準篩檢工具，敏感度 94–100%、特異度 90–95%。\n\n| CAM 項目 | 評估內容 |\n| --- | --- |\n| 1. 急性發作且病程波動 | 透過家屬或護理人員提供資訊確認：<br>和病人平常的狀況相比，精神狀態有沒有急性改變？<br>異常行為在過去 24 小時內有沒有變動？嚴重度有增加或減少？ |\n| 2. 注意力不集中 | 病人是否容易分心，或難以持續聽懂談話內容？ |\n| 3. 思考混亂 | 病人的思考是否混亂或不連貫，例如談話內容跳躍、東拉西扯、沒有組織或邏輯不清？ |\n| 4. 意識程度改變 | 整體而言，病人的意識程度如何？只要不是「清醒（alert）」就屬異常：<br>Hyperalert = vigilant<br>Drowsy, easily aroused = lethargic<br>Difficult to arouse = stupor<br>Unarousable = coma |\n| 診斷標準 | 需同時具備第 1 項與第 2 項，再加上第 3 項或第 4 項，才能診斷為譫妄 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -41101,7 +41101,7 @@
       "D": "如果父母或兄長吸菸，青少年吸菸的機會增加兩倍"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。\n\n(A) 正確。研究證實，家庭環境與父母的生活習慣、行為模式會影響子女的健康行為，例如吸菸、飲酒、運動與飲食習慣。除了家庭功能，健康的社會決定因素還有收入與社經地位、族裔／語言／性別族群、居住與通勤條件、教育程度等。\n\n(B)(C) 正確。WHO 仍強調家庭在健康促進中的主要角色。健全的家庭功能與環境營造，會在子女成長過程中從經濟、教育、居住與飲食習慣等各方面產生廣泛影響，即使外在環境改變（例如外食增加），這些影響仍然存在。\n\n(D) 錯誤。依國民健康署 110 年青少年吸菸行為調查，「父親或母親有吸菸」的國中生與高中職生吸菸率分別是 4.4% 與 11.7%；「雙親都不吸菸」的國中生與高中職生吸菸率分別是 0.8% 與 4.2%。吸菸風險比分別約 5.5 倍與 2.8 倍，不是題目所說的兩倍。這也再次說明家庭環境對子女不健康行為的重大影響。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -41121,7 +41121,7 @@
       "D": "500"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "答案 (C)。NNS（number needed to screen）是指需要篩檢多少人，才能避免 1 人因該疾病死亡。\n\nNNS = 1 ÷ ARR，其中 ARR（絕對風險降低）= 未篩檢組死亡率 − 篩檢組死亡率。\n\n1. 未篩檢組死亡率 = 8 ÷ 1000 = 0.008\n2. 篩檢組死亡率 = 4 ÷ 1000 = 0.004\n3. ARR = 0.008 − 0.004 = 0.004\n4. NNS = 1 ÷ 0.004 = 250\n\n結論：必須篩檢 250 人，才能避免 1 人死亡。\n\n**補充**\n\n題目給的 RR = 0.5（相對風險降低 RRR = 50%）是陷阱：NNS 要用絕對風險差（ARR）計算，不能用相對風險。同樣是 50% 的 RRR，如果疾病本身很少見，ARR 會很小，NNS 就會很大。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -41141,7 +41141,7 @@
       "D": "對於50 歲（不含）以下所有男性或女性，均不建議篩檢"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "答案 (A)。美國預防醫學工作小組（USPSTF）是由初級保健與預防領域專家組成的獨立小組，把各項預防醫學服務依證據強度分成 A、B、C、D 或 I 級建議，供初級保健醫師與病人做醫療決策參考。\n\nUSPSTF 2025 年更新的骨質疏鬆症篩檢建議：\n* 65 歲（含）以上婦女，或未滿 65 歲但已停經、且臨床評估有骨質疏鬆風險的婦女，建議篩檢，等級為 **B 級**。骨質疏鬆風險是指有一個以上危險因子，例如低體重、父母曾髖部骨折、抽菸、過度飲酒。\n* 男性：目前證據不足以證明篩檢能有效預防男性的骨鬆性骨折，建議等級為 **I 級**。\n\n所以 (A) 正確；(B)(D) 應改為「未滿 65 歲已停經、且臨床評估有骨鬆風險的婦女才建議篩檢」；(C) 目前沒有建議所有男性篩檢。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
