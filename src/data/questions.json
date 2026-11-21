@@ -46643,7 +46643,7 @@
       "D": "血液透析患者，接種B 型肝炎疫苗後，需要每年監測anti-HBs 效價"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "答案 (A)。保護力的門檻應為 **10 mIU/mL**，不是 100 mIU/mL。這題的選項都是從 Harrison 翻譯而來。\n\n| 項目 | 說明 |\n| --- | --- |\n| 保護力持續時間 | 免疫正常的成人中：<br>約 80–90% 在接種後至少 5 年仍有保護性抗體（anti-HBs）<br>約 60–80% 在 10 年內仍有抗體<br>嬰兒期接種者可維持 20 年以上的保護性免疫<br>即使抗體消失，多數人仍保有免疫記憶，可防止感染與發病 |\n| 保護性抗體門檻 | anti-HBs ≥10 mIU/mL 被視為具有保護力 |\n| 是否需要常規加強劑 | 免疫正常者：不建議常規追加<br>以下族群例外，建議追加疫苗：免疫抑制者若 anti-HBs 消失；曾接觸 HBsAg 陽性血液者（針扎）且體內沒有抗體 |\n| 特殊高風險族群建議 | 血液透析病人：建議每年監測 anti-HBs 抗體效價；抗體 <10 mIU/mL 時補打追加劑 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -46663,7 +46663,7 @@
       "D": "血中白蛋白（albumin）值2.8 g/dL，腹水的白蛋白（albumin）值1.2 g/dL，腹水的總蛋白（total protein）值2.0 g/dL"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。SAAG（血清腹水白蛋白梯度）= 血中白蛋白 − 腹水白蛋白。SAAG ≥1.1 g/dL 表示有門脈高壓；再依腹水總蛋白，區分肝硬化與心臟性腹水。\n\n| SAAG | 腹水蛋白濃度 | 可能診斷 |\n| --- | --- | --- |\n| ≥1.1 g/dL | <2.5 g/dL | 肝硬化<br>晚期布–奇亞瑞症候群（Budd-Chiari syndrome）<br>大量肝轉移 |\n| ≥1.1 g/dL | ≥2.5 g/dL（心臟性） | 心衰竭／縮窄性心包炎<br>早期布–奇亞瑞症候群<br>下腔靜脈阻塞<br>竇狀阻塞症候群（sinusoidal obstruction syndrome） |\n| <1.1 g/dL | 不需判讀蛋白濃度 | 膽汁滲漏、腎病症候群、胰臟炎、腹膜癌轉移、結核 |\n\n(A) SAAG = 3.1 − 2.1 = 1.0 <1.1 g/dL\n(B) SAAG = 4.3 − 2.6 = 1.7，符合門脈高壓；但腹水總蛋白 3.0 g/dL 偏高，較像心臟性腹水\n(C) SAAG = 2.8 − 2.0 = 0.8 <1.1 g/dL\n(D) SAAG = 2.8 − 1.2 = 1.6 >1.1 g/dL，且腹水總蛋白 <2.5 g/dL，是最符合的選項",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -46683,7 +46683,7 @@
       "D": "gastroesophageal reflux disease 為相當盛行的文明病，其致病機轉包括transient lower esophageal sphincter（LES）relaxation、LES hypotension、anatomical distortion"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。\n\n(A) 錯誤。Achalasia 的確是食道肌間神經叢的神經節細胞喪失，造成下食道括約肌（LES）鬆弛障礙與蠕動消失。但它的發生率約 1–3/100,000，好發年齡是 25–60 歲，並非主要見於 60–80 歲的老年族群。\n\n(B) 錯誤。這是瀰漫性食道痙攣（DES）的敘述。\n\n(C) 錯誤。這是嗜酸性食道炎（EoE）的敘述。EoE 的臨床表現是間歇性吞嚥困難、食物阻塞，尤其與過敏體質有關，是一種免疫相關疾病，主要誘發因子是食物過敏原。診斷依賴臨床症狀與切片中以嗜酸性白血球為主的發炎反應。近年因疾病發生率與診斷率上升，盛行率增加。第一線治療是 PPI，搭配排除飲食法（elimination diet）以及吞服型局部類固醇。\n\nDES 則是食道出現不正常收縮，造成間歇性吞嚥困難與胸痛，但下食道括約肌正常放鬆。鋇劑攝影特徵為 corkscrew esophagus、rosary bead esophagus。\n\n(D) 正確。\n\n**補充**\n\n(B)(C) 是把兩種疾病的敘述對調了，整理如下：\n\n| 疾病 | 典型表現 | 檢查特徵 | 治療 |\n| --- | --- | --- | --- |\n| 瀰漫性食道痙攣（DES） | 間歇性吞嚥困難、胸痛 | 鋇劑：corkscrew／rosary bead esophagus、假性憩室<br>壓力測量：提早出現的收縮（premature contractions），LES 放鬆正常 | 鈣離子阻斷劑、硝化物、PDE5 抑制劑；嚴重者考慮 POEM |\n| 嗜酸性食道炎（EoE） | 年輕男性、過敏體質；吞嚥困難、食物卡住 | 內視鏡：環狀溝（rings）、縱走溝、白色滲出物<br>切片：每高倍視野嗜酸性白血球 ≥15 個 | PPI、排除飲食、吞服型局部類固醇（budesonide、fluticasone）；生物製劑 dupilumab |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -46703,7 +46703,7 @@
       "D": "暫時性腎小管阻塞"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "答案 (C)。(A)(B)(D) 都是顯影劑造成急性腎損傷（contrast-induced AKI）的機轉；腎小球微血管系統阻塞則不是。\n\n**顯影劑誘發的急性腎損傷（Contrast-Induced AKI）**\n\n| 項目 | 細項 | 內容 |\n| --- | --- | --- |\n| 高風險族群 | | CKD，特別是糖尿病腎病變<br>多發性骨髓瘤<br>合併心衰竭或其他缺血性腎損傷者 |\n| 典型臨床表現 | | SCr 在 24–48 小時上升<br>第 3–5 天達高峰<br>約 1 週內恢復<br>少見需要透析，除非原本就是重度 CKD |\n| 尿液檢查特徵 | | FeNa 偏低<br>尿液沉渣沒有腎小管壞死表現 |\n| 病理機轉 | | 1. 腎臟外髓質部微循環缺氧：微循環失調、小血管阻塞<br>2. 小管細胞毒性：氧自由基、顯影劑濃縮傷害小管<br>3. 暫時性腎小管阻塞：顯影劑沉澱物造成堵塞 |\n| Gadolinium | | 與 NSF（腎源性系統性纖維化）有關，尤其是 group I 類 gadolinium（多數國家已停用）<br>Group II gadolinium 在標準劑量下造成 AKI 的風險非常低 |\n| 預防措施 | 建議預防對象 | eGFR <60 mL/min/1.73 m²<br>合併蛋白尿、糖尿病、心肌梗塞、低血壓 |\n| 預防措施 | 靜脈輸液（等張） | 適用高風險病人，可明顯降低 AKI 發生率<br>門診病人：攝影前 1 小時 3 mL/kg/h，攝影後 6 小時 1–1.5 mL/kg/h<br>住院病人：1 mL/kg/h，在攝影前後各給 6–12 小時 |\n| 預防措施 | 停用藥物 | ACEi／ARB、NSAIDs、利尿劑 |\n| 預防措施 | 顯影劑建議 | 使用最小劑量<br>優先使用等滲透壓（iso-osmolar）顯影劑 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -46723,7 +46723,7 @@
       "D": "急性呼吸性酸中毒"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "答案 (A)。\n\n**1. 初步判讀**\n\n| 項目 | 數值 | 正常範圍 | 解釋 |\n| --- | --- | --- | --- |\n| pH | 7.30 | 7.35–7.45 | 酸血症（acidemia） |\n| PaCO₂ | 32 mmHg | 35–45 mmHg | 偏低，有呼吸性鹼中毒傾向（下一步：計算代償） |\n| HCO₃⁻ | 16 mEq/L | 22–26 mEq/L | 明顯下降，代謝性酸中毒 |\n\n初步判斷：以 HCO₃⁻ 下降為主，屬於代謝性酸中毒；PaCO₂ 下降是呼吸性代償。\n\n**2. 用 Winter's formula 檢查是否為單純代償**\n\n預期 PaCO₂ = 1.5 × HCO₃⁻ + 8 ± 2 = 1.5 × 16 + 8 ± 2 = 32 ± 2，也就是 30–34 mmHg。實測 32 mmHg 在範圍內，屬於適當代償，所以是單純的代謝性酸中毒，沒有合併呼吸性鹼中毒（排除 (C)）。\n\n**3. 計算陰離子間隙（AG）**\n\nAG = Na⁺ −（Cl⁻ + HCO₃⁻）= 136 −（100 + 16）= 20，屬於高陰離子間隙。\n\n**補充**\n\n題目也給了尿液電解質，可以計算尿陰離子間隙（UAG）= 尿 Na⁺ + 尿 K⁺ − 尿 Cl⁻ = 60 + 40 − 115 = −15，為負值，表示腎臟排酸（NH₄⁺）正常。UAG 主要用來鑑別**正常**陰離子間隙代謝性酸中毒的病因（腸胃道流失 vs 腎小管酸中毒）；本題 AG 已經升高，所以尿液數據不影響答案。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -46743,7 +46743,7 @@
       "D": "含有鋁的磷結合劑因為效果較差，不建議使用"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。\n\n(A) 錯誤。CKD 病人血磷升高的主要原因是腎臟排磷功能下降，而不是腸道吸收能力上升。\n\n(B) 正確。Adynamic bone disease 是 CKD-MBD（慢性腎臟病–礦物質與骨骼異常）的一種表現，由骨轉換過低造成。常見原因是過度抑制 PTH，例如使用活性維生素 D、高鈣飲食或含鈣磷結合劑過量，導致骨代謝被抑制，骨頭無法適當地吸收與釋放鈣磷，進而增加血管鈣化的風險。\n\n(C) 錯誤。CKD 病人的腎臟無法把維生素 D 轉化成活性的 1,25(OH)₂D（calcitriol），所以應補充活性維生素 D（例如 calcitriol），而不是 25(OH) vitamin D。\n\n(D) 錯誤。不建議使用含鋁的磷結合劑，是因為長期使用會造成鋁中毒、神經毒性與骨軟化症，而不是因為效果較差。第五期 CKD 病人也要避免透析液被鋁污染，預防鋁中毒。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -46763,7 +46763,7 @@
       "D": "鹽皮質素過多（mineralocorticoid excess）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。依題幹，病人有高血壓、低血鉀、代謝性鹼中毒傾向（雖然 pH 在正常上限，但 HCO₃⁻ 偏高），腎功能正常，也沒有明顯症狀。\n\n(A) 牛奶–鹼症候群：主要表現是高血鈣、代謝性鹼中毒、腎衰竭。此病人沒有高血鈣，腎功能也正常。\n\n(B) Gitelman's 症候群：類似 thiazide 利尿劑的作用（遠曲小管 NaCl 共同運輸蛋白缺陷），特徵是低血鉀、血壓偏低、低血鎂、代謝性鹼中毒。病人有明顯高血壓，不符合。\n\n(C) 大型的大腸絨毛狀腺瘤（villous adenoma）可能造成分泌型腹瀉，進而導致低血鉀；但題目沒有提到腹瀉等腸胃道症狀。\n\n(D) 鹽皮質素過多：同時符合高血壓、低血鉀、代謝性鹼中毒。\n\n**高醛固酮症（Hyperaldosteronism）**\n\n| 項目 | 細項 | 內容 |\n| --- | --- | --- |\n| 類型分類 | 原發性 | 腎上腺疾病，不依賴 renin 的醛固酮上升：<br>腎上腺增生（60–70%）<br>腺瘤 Conn's syndrome（30–40%）<br>腎上腺皮質癌<br>GRA：Glucocorticoid-remediable aldosteronism（依賴 ACTH） |\n| 類型分類 | 次發性 | 依賴 renin：<br>腎血管性（腎動脈狹窄、惡性高血壓）<br>有效循環量下降（心衰竭、肝硬化、腎病症候群）<br>低血容量、利尿劑、第二型糖尿病<br>Bartter's／Gitelman's 症候群 |\n| 類型分類 | 非醛固酮性鹽皮質素過多症 | 11β-HSD 缺乏：無法使 cortisol 失去活性，cortisol 刺激鹽皮質素受體<br>黑甘草（抑制 11β-HSD）<br>Cushing's syndrome<br>Liddle's syndrome：ENaC 過度活化 |\n| 臨床表現 | 典型症狀 | 高血壓（占全部高血壓的 16–22%）<br>低血鉀（但血鉀正常也常見）<br>代謝性鹼中毒<br>輕度高血鈉 |\n| 臨床表現 | 其他症狀 | 頭痛、肌無力、頻尿、多渴<br>沒有水腫 |\n| 篩檢指標 | 建議篩檢對象 | 高血壓 + 低血鉀<br>年輕型或難治型高血壓<br>腎上腺腫瘤 |\n| 篩檢指標 | 初步篩檢 | 血漿醛固酮濃度（PAC）>15–20 ng/dL<br>PAC／血漿腎素活性（PRA）比值 >20：原發性高醛固酮症<br>需停用 spironolactone、eplerenone 至少 6 週 |\n| 篩檢指標 | 藥物干擾 | ACEi／ARB、利尿劑、CCB：使 renin 上升 → 低估 PAC/PRA 比值<br>β-blocker：高估比值<br>α-blocker：較不干擾，測試期間可使用 |\n| 診斷確認 | 抑制測試 | 口服鹽負荷測試（+KCl）3 天，24 小時尿液：尿醛固酮 >12 μg/d 且 Na >200 mEq/d 為陽性<br>生理食鹽水灌注（4 小時內 2 L）：血漿醛固酮 >5 ng/dL 為陽性 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -46783,7 +46783,7 @@
       "D": "plasma renin activity 下降，plasma aldosterone concentration 下降"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。題幹顯示病人有高血壓、低血鉀、代謝性鹼中毒，以及尿鉀偏高（腎臟流失鉀）。參考 114-2 醫學(三) 第 27 題的高醛固酮症分類，可分別對應：\n\n* (A) PRA ↑、PAC ↑：次發性高醛固酮症（例如腎動脈狹窄）\n* (C) PRA ↓、PAC ↑：原發性高醛固酮症\n* (D) PRA ↓、PAC ↓：非醛固酮性鹽皮質素過多症（例如 Liddle's syndrome）\n\n以上三種都是合理的表現。(B) PRA ↑、PAC ↓ 傾向醛固酮缺乏（aldosterone deficiency），通常會造成高血鉀、低血壓，與題目的高醛固酮表現不符合。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -46803,7 +46803,7 @@
       "D": "使用生物相容性較高的人工腎臟"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "答案 (A)。這是相當冷僻的題目，內容藏在 Harrison 的角落裡。\n\n(A) 正確。\n(B) 錯誤。應該先超過濾、後透析，才能避免低血壓。\n(C) 錯誤。應降低透析液的溫度（約 35–36°C），才能避免透析中低血壓。\n(D) 生物相容性較高的人工腎臟與減少過敏反應較有關；不過其中的 type A reaction 可能發展成過敏性休克，因此書中認為此選項有爭議。\n\n**透析中低血壓（Intradialytic hypotension, IDH）**\n\n| 項目 | 內容 |\n| --- | --- |\n| 原因與危險因子 | 糖尿病（自律神經功能異常）<br>過度超過濾<br>心臟儲備功能下降、血管收縮反應不良<br>使用降壓藥<br>滲透壓變化 |\n| 處理方式 | 立即停止超過濾<br>給予 100–250 mL 等張生理食鹽水<br>必要時使用低鹽白蛋白 |\n| 預防措施 | 設定合適的乾體重<br>把大部分體液移除安排在透析初期<br>避免過快的體液移除（>13 mL/kg/hr）<br>序列式超過濾 → 透析<br>冷卻透析液（增加周邊血管阻力與交感神經張力）<br>避免透析中進食<br>Midodrine（α₁ agonist，臨床常用，但效果與安全性仍有爭議） |\n\n**補充**\n\n為什麼透析中進食會造成低血壓？進食後血液大量分流到內臟循環（postprandial splanchnic vasodilation），全身血管阻力下降；透析時同時移除體液，回心血量不足，就容易發生低血壓。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -46823,7 +46823,7 @@
       "D": "應檢測血鉀、血鈉、血磷，並評估用藥史"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "答案 (A)。FeNa <1% 不等於可以確定是脫水造成的腎衰竭。\n\nFeNa <1% 雖然常見於腎前性 AKI，表示腎臟仍然有保留鈉的能力，但有以下例外：\n1. 慢性腎臟病合併腎前性原因時，FeNa 仍可能 >1%\n2. 使用利尿劑造成體液不足時，FeNa 可能 >1%\n3. 一些腎因性 AKI（早期敗血症、橫紋肌溶解、顯影劑腎損傷）也可能 FeNa <1%\n\n本例馬拉松後肌肉痠痛、CK 58,000 U/L，屬於橫紋肌溶解，即使 FeNa <1% 也不能斷定只是脫水。\n\n**橫紋肌溶解症（Rhabdomyolysis）**\n\n| 項目 | 說明 |\n| --- | --- |\n| 病理機轉 | 肌紅蛋白引起的氧化傷害<br>腎血管收縮（肌溶解會引發血管收縮因子釋放，使腎臟灌流量下降）<br>肌紅蛋白沉澱造成腎小管阻塞（在酸性尿液中，肌紅蛋白容易沉澱、阻塞腎小管）<br>血管外滲（腎前性原因：肌肉損傷後體液進入受損肌肉組織間隙，有效循環血量下降） |\n| 電解質異常 | 低鈣（初期）、高鉀、高磷 |\n| 診斷 | 尿液檢驗呈現 heme 陽性，但沒有紅血球 → 暗示肌紅蛋白尿 |\n| AKI 風險 | CK >20,000 U/L 時，AKI 風險明顯上升 |\n| 治療原則 | 積極靜脈輸液，目標尿量 3 mL/kg/hr<br>若尿液 pH <6.5，可考慮給予碳酸氫鈉鹼化尿液 |\n| 監測項目 | 頻繁監測血鉀、血鈣<br>追蹤 CK 數值趨勢<br>注意腔室症候群（compartment syndrome）的發生 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
