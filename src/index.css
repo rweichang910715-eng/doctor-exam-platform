@@ -154,12 +154,43 @@ h1, h2, h3, h4 {
   background-color: var(--accent-light);
 }
 
+/* 手機版：標題與選單分兩行，選單不再逐字直排 */
+@media (max-width: 640px) {
+  .app-navbar {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0.75rem 1rem;
+  }
+
+  .brand {
+    font-size: 1.1rem;
+    white-space: nowrap;
+  }
+
+  .nav-links {
+    flex-wrap: wrap;
+    gap: 0.25rem 0.5rem;
+  }
+
+  .nav-item {
+    padding: 0.4rem 0.6rem;
+    font-size: 0.9rem;
+    white-space: nowrap;
+  }
+}
+
 .main-content {
   flex: 1;
   max-width: 1520px;
   width: 100%;
   margin: 0 auto;
   padding: 1.5rem 2rem;
+}
+
+@media (max-width: 640px) {
+  .main-content {
+    padding: 1rem;
+  }
 }
 
 /* 按鈕樣式 */
@@ -375,7 +406,12 @@ h1, h2, h3, h4 {
 }
 
 .exam-layout.sidebar-collapsed {
-  grid-template-columns: 1fr;
+  grid-template-columns: minmax(0, 1fr);
+}
+
+/* 讓題目卡片與題號側欄可以縮到螢幕寬度，避免手機版被內容撐寬 */
+.exam-layout > * {
+  min-width: 0;
 }
 
 @media (max-width: 1100px) {
@@ -384,7 +420,7 @@ h1, h2, h3, h4 {
     gap: 1rem;
   }
   .exam-layout.sidebar-collapsed {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 }
 
@@ -396,6 +432,8 @@ h1, h2, h3, h4 {
 
 .question-header {
   display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 1.5rem;
@@ -472,6 +510,8 @@ h1, h2, h3, h4 {
 
 .question-footer {
   display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
   justify-content: space-between;
   margin-top: 1.5rem;
   border-top: 1px solid var(--border-color);
@@ -867,7 +907,7 @@ h1, h2, h3, h4 {
   }
   
   .exam-layout {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
   
   .wrong-questions-layout {
