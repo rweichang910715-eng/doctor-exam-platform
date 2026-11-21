@@ -1379,7 +1379,7 @@ function App() {
     const currentSec = currentQ.section || '專科'
 
     return (
-      <div className="result-container animate-fade-in" style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
+      <div className={`result-container animate-fade-in ${resultViewMode === 'single' ? 'review-wide' : ''}`} style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
         {/* Top Control & Mode Switcher Bar */}
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.75rem', paddingBottom: '0.75rem', borderBottom: '1px solid var(--border-color)' }}>
           <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }}>

@@ -647,6 +647,16 @@ h1, h2, h3, h4 {
   gap: 2rem;
 }
 
+/* 逐題檢視：題目與詳解接近滿版 */
+.result-container.review-wide {
+  max-width: none;
+  width: 100%;
+}
+
+.main-content:has(.review-wide) {
+  max-width: none;
+}
+
 .result-header-card {
   text-align: center;
   background: var(--accent-gradient);
