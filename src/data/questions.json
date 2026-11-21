@@ -39959,7 +39959,7 @@
       "D": "ventricular tachycardia（VT）with structural heart disease"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。結構性心臟病造成的 VT（例如心肌梗塞後的疤痕、心肌病變）屬於「次發性」心律不整，不算遺傳性心律不整症候群。(A)(B)(C) 都是離子通道或鈣調控基因異常造成的遺傳性心律不整。\n\n| 症候群 | 主要基因 | 心電圖特徵 | 長期治療 |\n| --- | --- | --- | --- |\n| Long QT syndrome（LQTS） | KCNQ1（LQT1）、KCNH2（LQT2）、SCN5A（LQT3） | QTc 延長、TdP | 以 β 阻斷劑為主；避免會延長 QT 的藥物，並矯正低鉀、低鎂；LQT3 可加 mexiletine；重症考慮左心交感神經切除或 ICD |\n| Short QT syndrome（SQTS） | KCNH2、KCNQ1、KCNJ2（多為 AD） | QTc 短（約 <330–360 ms）、T 波高尖 | Quinidine 可延長 QT；多數需要放 ICD |\n| Brugada syndrome | SCN5A（約 20–30%，AD） | V1–V3 coved 型 ST 上升（type 1） | 避免誘發因子，發燒要積極退燒；高危者以 ICD 為首選；部分病人可做 RVOT 心外膜基質消融 |\n| Catecholaminergic polymorphic VT（CPVT） | RYR2（AD）、CASQ2（AR）、CALM 等 | 靜止心電圖常正常；運動時出現雙向或多形性 VT | 非選擇性 β 阻斷劑（nadolol）+ flecainide；重症做左心交感神經切除；ICD 不是首選（電擊可能誘發 electrical storm） |\n| 早期再極化症候群（ERS）／特發性 VF | 多基因、外顯不完全 | 下壁／外側導程 J 波、早期再極化 | 高危者可用 quinidine、ICD；可消融誘發 VF 的 PVC 源頭 |\n| 進行性傳導系統疾病（PCCD／Lenègre） | SCN5A、LMNA、NKX2-5 等 | PR、QRS 逐漸延長，AV block | 多數需要永久心律調節器；LMNA 族群合併心肌病時考慮 ICD |\n| 家族性病竇症候群（familial sick sinus syndrome） | HCN4、SCN5A | 竇性心搏過緩 | 依症狀裝永久心律調節器 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -39979,7 +39979,7 @@
       "D": "常見於病毒性心肌炎的急性期"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "答案 (C)。HFpEF 的危險因子包括年紀增加、女性、糖尿病、心房顫動。常見病因有老化、心臟缺血、曾經心肌梗塞、左心室肥厚、肥厚性／浸潤性／限制性心肌病變、甲狀腺低下，這些都會讓心臟舒張受阻，並可能伴隨心肌的被動僵硬（passive stiffness）。\n\n(A) 錯誤。HFpEF 不是發生在急性期。\n(B) 錯誤。HFpEF 較常見於甲狀腺低下晚期的病人，而不是甲狀腺亢進早期。\n(C) 正確。年紀大本身就是 HFpEF 的成因之一，加上長期高血壓造成左心室肥厚，使心臟舒張受阻，進而形成 HFpEF。\n(D) 錯誤。同樣不是發生在急性期。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -39999,7 +39999,7 @@
       "D": "如果atrial fibrillation 的持續時間超過48 小時或未知，但中風風險較低（CHA2DS2-VASc 為0 或1）的病 人中，在未給抗凝血劑的狀況下，將心臟電擊回正常心律應是安全而被建議的"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。心房顫動持續超過 48 小時或時間不明時，**不論 CHA₂DS₂-VASc 分數高低**，電擊整流前都必須先抗凝血：\n\n* 一般做法是先使用抗凝血劑至少 3 週，再做電擊整流（cardioversion）\n* 或用經食道心臟超音波（TEE）排除左心房血栓後，立即電擊整流\n* 不論哪種方式，整流後都要再持續抗凝血至少 4 週\n\n所以 (D)「中風風險低就可以不抗凝直接電擊」是錯的。其餘選項都正確。\n\n**補充**\n\n整流後至少 4 週的抗凝血很重要：心房在恢復竇性節律後仍有一段「心房暈眩（atrial stunning）」期，收縮功能還沒恢復，這段時間最容易形成血栓。4 週後要不要繼續抗凝血，再依 CHA₂DS₂-VASc 分數決定。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40019,7 +40019,7 @@
       "D": "在Framingham 心臟研究中，心肌梗塞病史、右束支傳導阻滯（RBBB）、無症狀左心室收縮功能障礙、總血 紅蛋白濃度升高都與HF 風險增加顯著相關"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。\n\n(A) 正確。SGLT2 抑制劑（empagliflozin、dapagliflozin 等）在第二型糖尿病病人中能明顯減少 HF 住院，而且這個效益和降血糖的幅度沒有明顯關係；不論有沒有糖尿病，HFrEF 與 HFpEF 病人都能獲益。\n\n(B) 正確。較高的身體活動量可降低 HF 發生風險。大型世代研究顯示，每週達到或超過中等強度活動 150–300 分鐘的族群，HF 風險明顯較低。\n\n(C) 正確。中年與老年人吸菸都和 HF 風險增加有關；持續吸菸者的風險高於從不吸菸者，戒菸後風險會隨時間下降。\n\n(D) 錯誤。Framingham 研究 1996 年的世代分析指出，HF 的獨立危險因子包括年齡、男性、肥胖、高血壓（影響最大）、冠狀動脈疾病或心肌梗塞病史、糖尿病、左心室肥厚（心電圖）或心臟擴大（胸部 X 光）；較弱的危險因子還有吸菸、肺活量較低、總膽固醇／HDL 比值較高。\n* 當時 HF 的診斷主要靠臨床症狀與徵象，還沒有普遍用超音波評估左心室收縮功能。\n* RBBB 當時並沒有被證實是獨立的 HF 預測因子，目前也只知道 HF 病人合併 RBBB 時死亡率較高。\n* 「血紅素升高」更和已知事實相反：貧血才和 HF 病人較差的預後有關。看到這一點就可以判斷本選項錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40039,7 +40039,7 @@
       "D": "isoniazid 引起肝炎的風險較ethambutol 為高"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。\n\n(A) 錯誤。依台灣結核病診治指引，沒有症狀且 AST/ALT 未超過正常上限 5 倍，或有輕微肝炎症狀但 AST/ALT 未超過正常上限 3 倍時，可以密切觀察或症狀治療，不必立即停藥。\n\n(B) 錯誤。Isoniazid（INH）在治療初期（約用藥 10 週內）有 10–20% 的病人會出現暫時性、可恢復的 AST/ALT 上升。嚴重肝炎的發生率約 0.1–0.15%，多出現在用藥後三個月內，並隨年齡增加（35 歲以下約 0.3%、35–49 歲約 1.2%、50–64 歲約 2.3%），通常停藥後可恢復。INH 的肝毒性不像 acetaminophen 那樣單純依劑量而定。\n\n(C) 錯誤。類固醇不是藥物性肝炎的常規用藥，只有在嚴重過敏反應（例如 SJS／TEN、嚴重皮疹）時才考慮短期使用，並不是用來降低肝臟發炎或改善肝指數。\n\n(D) 正確。如 (B) 所述，INH 會引起肝炎；ethambutol（EMB）的主要副作用是視神經炎，對肝臟影響極小，因此在肝炎後重新試藥時常作為最先加回的藥物。\n\n另外，(B) 選項其實仍有爭議：多項研究顯示 INH 血中濃度過高（例如超過 3.69 mg/L）時，肝炎風險會明顯上升；但 INH 仍會造成少數與劑量無關的特異性（idiosyncratic）藥物性肝損傷。\n\n**補充**\n\n本題病人是慢性 B 型肝炎帶原者，肝指數上升時除了藥物性肝炎，還要考慮 **B 型肝炎再活化**，應檢驗 HBV DNA 來鑑別。B 肝帶原者使用抗結核藥物時，藥物性肝炎的風險也比較高，需要更密切追蹤肝功能。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40059,7 +40059,7 @@
       "D": "②④"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "答案 (C)。年輕人出現神經學症狀（流涎、肢體僵硬、震顫）合併肝功能異常，又已排除病毒性肝炎，最應優先考慮 Wilson's disease。\n\n① 錯誤。Wilson's disease 是肝細胞的銅運輸缺陷，銅在肝臟與其他組織（包括大腦）中堆積；血清銅離子濃度偏低。（膽汁銅與猛爆性肝炎時的血清銅變化，見下方補充。）\n\n② 錯誤。懷孕期間需要繼續銅螯合治療，以降低流產風險。Trientine 可以用，但通常會減量以降低對胎兒的影響；鋅鹽則可持續使用、不需特別減量。這些藥物不建議用於哺乳期婦女。\n\n③ 正確。Kayser-Fleischer ring 是銅沉積在角膜 Descemet 膜，可用裂隙燈檢查看到。以神經學症狀為主的病人約 95% 可見；以肝臟症狀為主的病人約 65%。\n\n④ 正確。Hepato-lenticular degeneration 指「肝臟」與「豆狀核」的病變，是 Wilson's disease 的別名。\n\n**Wilson disease（= hepatolenticular degeneration）**\n\n| 項目 | 重點 |\n| --- | --- |\n| 背景 | 肝細胞銅運輸缺陷，銅在肝臟與其他組織（包括腦部）累積，長期造成肝臟與神經系統損傷 |\n| 致病機轉 | ATP7B 基因缺陷 → 銅運輸異常 → 銅無法排入膽汁、也無法結合到 ceruloplasmin → 銅在體內（肝、腦、角膜等）累積<br>過量的銅造成肝細胞損傷 → 銅釋放到血液中，游離銅（未與 ceruloplasmin 結合）上升 → 在腦部與其他組織沉積造成毒性 |\n| 肝外表現 | 神經／精神症狀：個性改變、易怒、認知下降<br>巴金森症候群、動作障礙<br>Kayser-Fleischer ring：神經精神型幾乎都有，純肝病型較少<br>Coombs 陰性溶血性貧血<br>腎臟病變 |\n| 診斷檢查 | 24 小時尿銅上升<br>血清 ceruloplasmin 降低（敏感度約 90%）<br>ATP7B 基因檢測<br>肝臟切片：肝組織銅含量上升；免疫組織染色可用 metallothionein 輔助辨識肝細胞內的銅－蛋白分布<br>急性肝衰竭時：ALP／總膽紅素 <4 且 AST/ALT >2.2，敏感度與特異度都優於尿銅或 ceruloplasmin |\n| 治療 | D-penicillamine（需補充 vitamin B6）<br>Trientine：毒性較低、療效相近、價格較高<br>Tetrathiomolybdate（研究中）：神經症狀惡化的風險較低<br>Zinc：抑制腸道吸收銅，需與螯合劑間隔 5 小時使用<br>飲食限銅：避免內臟、貝類、堅果、可可、蘑菇等<br>肝臟移植：急性肝衰竭或藥物治療無效時 |\n\n**補充**\n\n合記書中寫「膽汁銅離子濃度高」，但這和 Wilson's disease 的機轉不符。本病的根本問題就是 ATP7B 缺陷讓銅**無法排入膽汁**，膽汁中的銅應該是減少的。\n\n① 真正錯的地方在血清銅：發生猛爆性肝炎時，大量肝細胞壞死會把肝內的銅釋放到血液中，血清（游離）銅反而**明顯上升**，還可能引起 Coombs 陰性溶血。所以「猛爆性肝炎時血清銅減少」是錯的。平常未發作時，因為 ceruloplasmin 減少，血清總銅才會偏低。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40079,7 +40079,7 @@
       "D": "可以利用電腦斷層合併血管攝影來協助診斷，治療上應給與針對革蘭氏陰性菌及厭氧菌的抗生素。若有腹膜 炎的徵象時，需要考慮剖腹探查"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。病人高齡、有高血壓與高血脂等動脈粥狀硬化危險因子、心律不整，近期又做過心導管，都是急性腸繫膜缺血的危險因子。劇烈腹痛但腹部觸診沒有腹膜炎徵象、腸音變慢，是典型表現。再加上低血壓、心跳快（105 bpm），系統性灌流不足可能讓腸道灌流更差。\n\n(A) 正確。這些都是缺血性腸炎的危險因子。\n\n(B) 錯誤。缺血性腸炎的初步處置包括腸胃道減壓、輸液復甦（fluid resuscitation）、抗凝血治療與廣效性抗生素。常規使用血管收縮劑（vasoconstrictors）或 digitalis（例如 digoxin）反而可能讓腸道灌流更差，在非阻塞型（NOMI）更容易誘發。若休克到不得不用升壓劑，也應以最低有效劑量使用，並同時積極矯正造成低灌流的原因。\n\n(C) 正確。這些檢查可協助鑑別診斷並評估器官灌流：WBC、lactate（會上升）、ABG（可能有代謝性酸中毒）、心電圖（看有沒有心律不整）、胰臟酵素（鑑別胰臟炎）。\n\n(D) 正確。CT angiography 是診斷首選；治療初期就要給涵蓋革蘭氏陰性菌與厭氧菌的廣效抗生素，出現腹膜炎時應考慮剖腹探查。\n\n| 項目 | 急性腸繫膜缺血（Acute Mesenteric Ischemia） | 慢性腸繫膜缺血（Chronic Mesenteric Ischemia） |\n| --- | --- | --- |\n| 定義與病因 | 小腸血流急性中斷，主要原因：<br>動脈栓塞（AFib、瓣膜疾病、IE）<br>SMA 血栓（多為動脈硬化）<br>非阻塞型（暫時性灌流不足，如敗血症、使用升壓劑）<br>腸繫膜靜脈血栓（高凝血狀態、癌症、門靜脈高壓）<br>局部小腸缺血 | 腸繫膜動脈粥狀硬化造成腸道慢性血流不足 |\n| 臨床表現 | 動脈阻塞：腹痛劇烈但觸診輕微或正常（pain out of proportion）<br>靜脈阻塞：腹痛較緩、間歇，有高低起伏<br>非阻塞型：腹脹、腹痛、噁心嘔吐、下消化道出血，常在休克或低灌流事件後發生<br>糞便潛血陽性約 75% | 進食後腹痛（intestinal angina）<br>食慾減退、體重減輕<br>若出現持續疼痛，可能代表合併急性血栓 |\n| 診斷工具 | 需高度懷疑，越早診斷預後越好（腸壞死後死亡率 >70%）<br>實驗室：WBC、D-dimer 上升，LDH／磷酸酶／胺酶可能上升，乳酸上升是晚期指標<br>KUB：早期正常，晚期可見 pneumatosis、thumbprinting<br>血管攝影：首選，可同時診斷與治療 | Duplex 超音波、CT angiography<br>血管攝影（黃金標準）<br>Gastric tonometry |\n| 治療方式 | 輸液、禁食、穩定生命徵象（避免使用升壓劑）、廣效抗生素、抗凝血劑 ± tPA（阻塞型）<br>非阻塞型：血管擴張劑，並治療根本原因<br>有腹膜炎：手術剖腹探查與腸道切除<br>SMA 栓塞：栓塞切除術<br>SMA 血栓：血管重建<br>靜脈血栓：heparin，之後口服抗凝 3–6 個月；血行不穩時考慮血栓溶解或血栓移除<br>局部小腸缺血：手術 | 第一線為血管重建手術<br>血管成形術 ± 支架<br>可考慮全靜脈營養（TPN） |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40099,7 +40099,7 @@
       "D": "高解析度食道壓力測量（manometry）為一食道功能性疾病之診斷工具"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "答案 (C)。\n\n(A) 正確。第一型是滑脫型裂孔疝氣（sliding hiatal hernia），是最常見的類型，至少占所有裂孔疝氣的 95%。這型是胃食道交界處（GEJ）與賁門往上（頭側）移位。第二型是 rolling hernia，第三型則是 sliding 與 rolling 的混合型。\n\n(B) 正確。Zenker's diverticulum 是一種假性憩室（pseudodiverticulum），因為食道內壓力上升，黏膜與黏膜下層向外突出、穿過肌肉層。最常發生在 Killian's triangle，也就是上食道括約肌上方、食道壁天然的弱點。\n\n(C) 錯誤。食道遲緩不能（achalasia）是食道肌間神經叢的神經節細胞退化或消失，導致**下食道括約肌（LES）**吞嚥時無法正常放鬆，並伴隨食道蠕動消失，不是近端括約肌。鋇劑攝影的典型表現是「鳥嘴狀（beak-like）狹窄」；高解析度食道壓力測量是最敏感的診斷方式。\n\n(D) 正確。食道壓力測量是把壓力感測導管放進食道，觀察吞嚥後食道肌肉收縮與括約肌放鬆的情形。上、下食道括約肌是高壓區，吞嚥時會放鬆；兩者之間的食道則出現蠕動性收縮。它可用來診斷運動障礙（例如 achalasia、diffuse esophageal spasm），也用於 GERD 手術前評估蠕動功能。高解析度食道壓力地形圖提高了準確度，還能把 achalasia 分成三種亞型（經典型、食道壓迫型、痙攣型）。\n\n| 類型 | 名稱 | GEJ 位置 | 進入胸腔的部分 | 特徵 | 常見併發症 | 治療建議 |\n| --- | --- | --- | --- | --- | --- | --- |\n| I 型 | Sliding hiatal hernia | 上移 | 賁門 ± 一小部分胃底 | 最常見（>95%）；phrenoesophageal ligament 鬆弛造成，與肥胖、懷孕、年齡有關 | 最容易合併 GERD | 以藥物與生活型態調整為主；反覆難治的 GERD 才考慮抗逆流手術 |\n| II 型 | Rolling hernia | 多半維持原位 | 胃底 | 逆流症狀較不明顯，但有絞扼、胃扭轉風險；與 III、IV 型同屬 paraesophageal hernia | 出血、缺血、穿孔、急性胃扭轉 | 建議手術修補以預防胃扭轉（即使沒有症狀也常考慮） |\n| III 型 | Mixed hernia（I + II） | 上移 | 賁門 + 胃底 | 兼具 I 型與 II 型特徵，重症風險比 II 型高 | 同 II 型，嚴重度更高 | 建議手術 |\n| IV 型 | Giant／complex paraesophageal hernia | 多半上移 | 胃以外還有其他器官（腸、脾等） | 疝囊巨大，有縱膈腔壓迫症狀，併發症最多 | 呼吸困難、腸胃道壓迫或絞扼 | 多需手術修補，並以網片補強 |\n\n**補充**\n\n吞嚥時「上」食道括約肌無法放鬆的情況稱為 cricopharyngeal dysfunction（環咽肌功能障礙），會讓咽部壓力上升，正是 Zenker's diverticulum 形成的原因之一。題目 (C) 把 achalasia 寫成近端括約肌，等於把這兩種疾病混在一起。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40119,7 +40119,7 @@
       "D": "尿素呼氣測試（urea breath test）的原理為胃幽門螺旋桿菌存在下，會抑制同位素標定尿素水解的反應， 減少呼氣中標定碳13 的含量"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "答案 (C)。\n\n(A) 錯誤。幽門螺旋桿菌（H. pylori）的檢測包括內視鏡切片與非侵入性檢查。如果沒有必要用內視鏡排除胃癌，常規會選非侵入性檢查，例如尿素呼氣試驗、糞便抗原檢測、血清 IgG 抗體檢測。\n\n(B) 錯誤。切片組織培養的專一性高但敏感度較低，因為 H. pylori 不容易培養。培養成功後可用 Gram stain、oxidase、catalase、urease 等測試確認菌種，並做抗生素敏感性試驗；但培養失敗不能用來排除感染。\n\n(C) 正確。H. pylori 是消化性潰瘍的主要危險因子，也和胃腺癌（gastric adenocarcinoma）及胃黏膜相關淋巴組織（MALT）淋巴瘤密切相關。\n\n(D) 錯誤。尿素呼氣試驗是讓病人喝下含 ¹³C 標記的尿素，如果體內有 H. pylori，它的尿素酶會**分解**尿素，呼出的氣體中就能測到 ¹³CO₂，所以標記碳是增加而不是減少。這項檢查準確度高、操作簡單。\n\n**Helicobacter pylori 檢測方式**\n\n| 檢測方式 | 原理與優點 | 限制與注意事項 |\n| --- | --- | --- |\n| 快速尿素酶試驗（侵入性） | 胃黏膜切片放入含尿素與指示劑的凝膠；H. pylori 分解尿素使 pH 上升 | 近 24 小時內使用 PPI、抗生素或鉍劑會造成偽陰性 |\n| 組織切片染色（侵入性） | 可直接看到 H. pylori 形態，並評估發炎、萎縮、化生或異型增生等組織變化 | 需要專業病理處理與判讀；成本與時間較高 |\n| 細菌培養（侵入性） | 培養成功後可做抗生素敏感性試驗 | 培養困難，對技術與設備要求高；費時、成本高 |\n| 血清學檢查（非侵入性） | 偵測 H. pylori IgG 抗體，簡便便宜 | 無法區分過去感染與現在感染；治療後抗體下降很慢，不適合評估治療成效 |\n| 尿素呼氣試驗（非侵入性） | 口服 ¹³C 尿素，有感染時會產生標記的 CO₂ 被呼出；快速、安全、準確度高 | 近期使用 PPI、抗生素或鉍劑會造成偽陰性；¹⁴C 試劑有輕微輻射暴露（現在多用 ¹³C） |\n| 糞便抗原檢測（非侵入性） | 用單株抗體偵測 H. pylori 抗原；費用相對便宜、準確度佳 | 需要糞便檢體，病人接受度較低 |\n| 治療後評估（UBT、糞便抗原、內視鏡切片） | 以下情況不應檢查，以免偽陰性：治療結束未滿 4 週、最近用過抗生素或鉍劑、停用 PPI 未滿 2 週 | 胃潰瘍病人應重複內視鏡，確認潰瘍癒合並排除胃癌；血清學不適合用來追蹤療效 |\n\n**H. pylori 治療方案**\n\n| 項目 | 重點 |\n| --- | --- |\n| 一線治療 | 四合一療法（14 天）：<br>① Metronidazole + Tetracycline + Bismuth + PPI<br>② Metronidazole + Amoxicillin + Clarithromycin + PPI |\n| 療效評估（test of cure） | 治療結束 4 週後進行，且停用 PPI 至少 1–2 週<br>可用尿素呼氣試驗、糞便抗原，或胃鏡加快速尿素酶試驗 |\n| 生活型態 | 建議戒菸、戒酒；目前沒有證據顯示飲食會影響治療成效 |\n| 考慮手術的時機 | 藥物治療失敗（應先排除 NSAID 使用）<br>發生併發症：出血、穿孔、幽門狹窄 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -40139,7 +40139,7 @@
       "D": "抗腫瘤壞死因子（anti-TNF）製劑於中重度Crohn's disease 之治療效果不佳"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。\n\n(A) 正確。克隆氏症（Crohn's disease，CD）是可以影響整個消化道的慢性復發性腸病，病灶可從口腔延伸到肛門。不同病人的侵犯範圍不同：約 30–40% 只有小腸病變，40–55% 同時影響小腸與大腸，15–25% 只侷限於結腸。\n\n(B) 正確。小腸受侵犯的病人中，高達 90% 有末端迴腸病變，所以末端迴腸是 CD 最常侵犯的部位。\n\nCD 的腸道病變呈「節段性分布」，也就是跳躍病變（skip lesions）。這點和潰瘍性結腸炎（UC）不同：UC 幾乎都會波及直腸，CD 的直腸反而多半不受影響。此外約三分之一病人（特別是結腸受侵犯者）會合併肛門周圍疾病，例如肛周瘻管、裂傷、膿瘍與肛門狹窄，顯示 CD 的侵犯深度與臨床表現差異很大。\n\n(C) 正確。發炎若廣泛侵犯空腸與迴腸，會讓腸道吸收面積減少，造成吸收不良，常見表現是脂肪便（steatorrhea）。病人也可能因為進食減少與腸道流失蛋白質而營養不良；吸收不良還會引起貧血、低白蛋白、低鈣、低鎂、凝血異常，甚至因草酸尿增加而形成腎結石。\n\n(D) 錯誤。目前有四種抗 TNF 製劑核准用於 CD：Infliximab、Adalimumab、Certolizumab pegol、Golimumab。對於沒用過免疫調節劑與生物製劑的中重度 CD 病人，Infliximab 合併 Azathioprine 效果最好，一年內無類固醇緩解率約 46%；單用 Infliximab 約 35%，單用 Azathioprine 約 24%。這證實了抗 TNF 製劑在中重度 CD 的療效。\n\n**補充**\n\n書中提到 CD 與 UC 的比較另見 114-2 醫學(三) 第 15 題，這裡先整理重點：\n\n| 特徵 | 克隆氏症（CD） | 潰瘍性結腸炎（UC） |\n| --- | --- | --- |\n| 侵犯範圍 | 口腔到肛門都可能，最常見末端迴腸 | 只侵犯大腸，幾乎都從直腸開始 |\n| 分布 | 跳躍病變（skip lesions） | 由直腸往近端連續分布 |\n| 發炎深度 | 全層（transmural） | 黏膜與黏膜下層 |\n| 典型病理 | 非乾酪性肉芽腫 | 隱窩膿瘍（crypt abscess） |\n| 內視鏡／影像 | 鵝卵石狀（cobblestone）、縱走潰瘍、string sign | 黏膜瀰漫性發炎、偽息肉；慢性期鉛管狀（lead pipe） |\n| 常見併發症 | 瘻管、狹窄、膿瘍、肛周病變、吸收不良 | 出血、毒性巨結腸；原發性硬化性膽管炎較常見 |\n| 吸菸 | 加重病情 | 有保護作用 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
