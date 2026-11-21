@@ -248,7 +248,7 @@ function BookExplanation({ q }) {
 
   // Show image container if cropped images exist, or fallback page scans for legacy exams
   const isExcludedSubject = 
-    ['111-1', '111-2', '112-1', '112-2', '113-1', '113-2'].includes(q.year)
+    ['111-1', '111-2', '112-1', '112-2', '113-1', '113-2', '114-1', '114-2', '115-1', '115-2'].includes(q.year)
   const showImageContainer = hasCroppedImage || (!isExcludedSubject && pagesToRender.length > 0)
   
   if (!hasTextExplanation && !showImageContainer) return null
