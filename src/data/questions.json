@@ -30145,7 +30145,7 @@
       "D": "沒有肝外轉移病灶"
     },
     "answer": "A",
-    "explanation": "HCC 換肝的準則最先為 1996 年 Milan criteria 所提出：\n• 單一肝腫瘤 ≤ 5 cm → (A) 錯誤\n• 2~3 顆肝腫瘤，其最大徑不超過 3 cm → (B) 正確\n• 沒有血管侵犯及肝外轉移 → (C)、(D) 正確\n\n後來發現 Milan criteria 要求過於嚴格，2001 年衍生 UCSF criteria：\n• 單一肝腫瘤 ≤ 6.5 cm\n• 2~3 顆肝腫瘤，其最大徑不超過 4.5 cm，以及個別腫瘤直徑加總不超過 8 cm\n• 沒有血管侵犯及肝外轉移",
+    "explanation": "答案 (A)。\n\n肝細胞癌換肝的準則最早為 1996 年提出的米蘭準則（Milan criteria）：\n- 單一肝腫瘤 ≤ 5 公分 → (A) 錯誤（不是 6.5 公分）。\n- 2–3 顆肝腫瘤，其最大徑不超過 3 公分 → (B) 正確。\n- 沒有血管侵犯及肝外轉移 → (C)(D) 正確。\n\n後來發現米蘭準則要求過於嚴格，2001 年衍生出 UCSF 準則：\n- 單一肝腫瘤 ≤ 6.5 公分。\n- 2–3 顆肝腫瘤，其最大徑不超過 4.5 公分，且個別腫瘤直徑加總不超過 8 公分。\n- 沒有血管侵犯及肝外轉移。\n\n**補充**：超過米蘭準則者，可先用局部治療（TACE、射頻燒灼）降期（down-staging），成功後再考慮移植。符合米蘭準則者移植後 5 年存活率約 70–75%，與非癌症適應症相當。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -30165,12 +30165,12 @@
       "D": "胰臟移植後最常見的長期死亡原因為糖尿病復發"
     },
     "answer": "C",
-    "explanation": "(A) 錯誤，胰臟移植通常是用來治療 type 1 DM 的患者，及部分低死亡風險的 type 2 DM 病人，台灣胰臟移植的適應症羅列如下：\n\n| Type 1 DM | Type 2 DM |\n| :--- | :--- |\n| • 併有糖尿病合併症產生，如：視網膜病變、腎病變、神經病變、心腦血管病變<br>• 常因血糖過低或過高引發生命威脅者<br>• 因血糖控制不易產生求學、就業、日常生活困難者 | • 已使用胰島素注射治療，且合併有腎衰竭現象者，但胰島素注射量須少於 1.5 U/kg/day，且無其他器官嚴重疾病 |\n\n(B) 錯誤，胰臟移植的內分泌同樣由血液供給全身，而外分泌可選擇引流至膀胱及腸道，目前傾向使用腸道引流，以下比較膀胱引流及腸道引流的優缺點：\n\n| 比較項目 | 膀胱引流 | 腸道引流 |\n| :--- | :--- | :--- |\n| **優點** | • 減少腸道細菌移生感染移植胰臟<br>• 可偵測尿液中 amylase 的濃度，作為發生排斥的早期偵測工具 | • 較符合正常生理<br>• 當膀胱引流出現併發症時，可再次手術轉換成腸道引流 |\n| **缺點** | • 富含 HCO3- 的胰液無法由腸道再吸收，導致嚴重的代謝性酸中毒<br>• 泌尿道感染、排尿疼痛 | • 有細菌感染的風險，但大規模研究證實其實感染風險沒有顯著上升 |\n\n(C) 正確，胰臟移植的併發症包含腸吻合滲漏、出血、血管栓塞、感染、胰臟炎、腸阻塞，其中移植物的血管栓塞（graft thrombosis）為最常見的移植失敗原因，因此會考慮在術後短暫給低劑量的 heparin 減少栓塞風險\n\n(D) 錯誤，常見考點！洗腎、胰臟或腎臟移植病人最常見的死因為心血管疾病，因此在移植前須審慎評估病人心血管狀況，移植後也要定期追蹤",
+    "explanation": "答案 (C)。\n\n(A) 錯誤。胰臟移植通常用來治療第 1 型糖尿病病人，以及部分低死亡風險的第 2 型糖尿病病人。台灣胰臟移植的適應症：\n\n| 第 1 型糖尿病 | 第 2 型糖尿病 |\n| --- | --- |\n| 併有糖尿病合併症（視網膜病變、腎病變、神經病變、心臟血管病變）；常因血糖過低或過高引發生命威脅者；因血糖控制不易產生求學、就業、日常生活困難者 | 已使用胰島素注射治療，且合併有腎衰竭現象者；但胰島素注射量須少於 1.5 U/kg/天，且無其他器官嚴重疾病 |\n\n(B) 錯誤。胰臟移植的內分泌同樣由血液供給全身，而外分泌可選擇引流至膀胱或腸道；目前傾向使用腸道引流：\n\n| 項目 | 膀胱引流 | 腸道引流 |\n| --- | --- | --- |\n| 優點 | 減少腸道細菌移生感染移植胰臟；可偵測尿液中澱粉酶濃度，作為排斥的早期偵測工具 | 較符合正常生理；當膀胱引流出現併發症時，可再次手術轉換成腸道引流 |\n| 缺點 | 富含 HCO₃⁻ 的胰液無法由腸道再吸收，導致嚴重的代謝性酸中毒、脫水；泌尿道感染、排尿疼痛、血尿 | 有細菌感染的風險，但大規模研究證實其感染風險沒有顯著上升 |\n\n(C) 正確。胰臟移植的併發症包括腸吻合滲漏、出血、血管栓塞、感染、胰臟炎、腸阻塞；其中移植物的血管栓塞為最常見的（早期）移植失敗原因，所以會考慮在術後短暫給低劑量 heparin 減少栓塞風險。\n(D) 錯誤，常見考點！洗腎、胰臟或腎臟移植病人最常見的死因為心血管疾病，所以在移植前須審慎評估病人心血管狀況，移植後也要定期追蹤。\n\n**補充**：胰臟移植三種類型——胰腎同時移植（SPK，最常見，成效最好）、腎後胰臟移植（PAK）、單獨胰臟移植（PTA）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "整形外科",
-    "category": "整形外科"
+    "chapter": "移植科",
+    "category": "移植科"
   },
   {
     "id": "113-1-醫學(五)-7",
@@ -30925,15 +30925,15 @@
       "D": "腸道旋轉不良併扭轉（malrotation with volvulus）"
     },
     "answer": "A",
-    "explanation": "此為 Double bubble sign，兩個被空氣撐開的器官分別為胃、近端十二指腸，暗示病人有十二指腸阻塞，(A) Gastric web 主要出現在胃的竇部 (Antrum)，靠近幽門 (Pylorus) 處，會造成 Gastric outlet obstruction，於腹部 X 光只有胃部漲大 (single bubble)\n\nDuodenal atresia 有各種不同的型態，包含薄膜阻塞管腔（最常見，若此膜具有延展性稱為 windsock web）、十二指腸中間有一段變成 Fibrous cord、十二指腸中間直接斷開等，約 50% Duodenal atresia 的病人為早產兒，常同時伴隨的先天異常包含先天性心臟病 (30%)、腸道扭轉不良 (20-30%)、環狀胰 (30%)、腎臟異常 (5-15%)、食道閉鎖 (5-10%)、骨骼異常 (5%)、直腸肛門異常 (5%)，以上所有的異常中，只有複雜的先天性心臟病 (complex congenital heart disease) 會增加死亡率，而環狀胰則是會增加晚期併發症的發生率（如 GERD、peptic ulcer disease、胰臟炎、胃部出口阻塞或反覆十二指腸阻塞）",
+    "explanation": "答案 (A)。\n\n腹部 X 光為雙泡徵象（double bubble sign）：兩個被空氣撐開的器官分別為胃與近端十二指腸，暗示病人有十二指腸阻塞。(A) 胃蹼主要出現在胃的竇部、靠近幽門處，造成胃出口阻塞，腹部 X 光只會有胃部漲大（單泡），所以最不可能。\n\n(B)(C)(D) 都可能造成雙泡徵象：十二指腸蹼、環狀胰、腸道旋轉不良併扭轉（中腸扭轉，是外科急症）。\n\n十二指腸閉鎖有各種不同的型態，包含薄膜阻塞管腔（最常見，若此膜具延展性稱為 windsock 蹼）、十二指腸中間有一段變成纖維索、十二指腸中間直接斷開等。約 50% 十二指腸閉鎖的病人為早產兒，常同時伴隨的先天異常包含：先天性心臟病（約 30%）、腸道旋轉不良（20–30%）、環狀胰（約 30%）、腎臟異常（5–15%）、食道閉鎖（5–10%）、骨骼異常（約 5%）、直腸肛門異常（約 5%）；約 30% 合併唐氏症。以上所有異常中，只有複雜的先天性心臟病會增加死亡率；環狀胰則會增加晚期併發症的發生率（如胃食道逆流、消化性潰瘍、胰臟炎、胃出口阻塞或反覆十二指腸阻塞）。\n\n**補充**\n- 新生兒膽汁性嘔吐要先排除腸道旋轉不良併中腸扭轉（上消化道攝影可見十二指腸螺旋狀，超音波可見漩渦徵象），需緊急手術（Ladd 手術）。\n- 十二指腸閉鎖的治療是十二指腸–十二指腸吻合術（菱形吻合）。",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
       "/images/113-1/醫學(五)/page_9_img_1.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "大腸直腸科",
-    "category": "大腸直腸科"
+    "chapter": "小兒外科",
+    "category": "小兒外科"
   },
   {
     "id": "113-1-醫學(五)-45",
@@ -30948,12 +30948,12 @@
       "D": "睪丸動脈（testicular artery）源自內髂動脈（internal iliac artery）"
     },
     "answer": "C",
-    "explanation": "(A) 錯誤，應為直接型鼠蹊疝氣 (Direct inguinal hernia)，Inferior epigastric vessels（上外界）、Rectus sheath（內界）、Inguinal ligament（下界）共同構成 Hesselbach triangle，直接型鼠蹊疝氣發生於 Hesselbach triangle 之內，而間接型鼠蹊疝氣則發生於 Hesselbach triangle 外側\n\n(B) 錯誤，此敘述為 Ilioinguinal nerve，Iliohypogastric nerve 則是穿透腹內斜肌、腹外斜肌至體表，Inguinal canal 的內容物有：Spermatic cord（男）、Round ligament of the uterus（女）、Ilioinguinal nerve，Spermatic cord 的內容物包含：Cremaster muscle fibers、Testicular artery and vein、Genital branch of the genitofemoral nerve、Vas deferens、Cremasteric vessels、Lymphatics、Processus vaginalis，Iliohypogastric nerve 與 Ilioinguinal nerve 共同支配鼠蹊部、陰莖底部、同側大腿內側上方的感覺，Genital branch of genitofemoral nerve 支配 Cremaster muscle 以及陰囊或陰唇外側皮膚的感覺\n\n(C) 正確，腹壁與陰囊結構對應如下表：\n\n| 腹壁結構（淺至深） | 陰囊結構 |\n| :--- | :--- |\n| **Skin** | Skin |\n| **Camper fascia** | Dartos muscle/fascia |\n| **Scarpa fascia** | Dartos muscle/fascia |\n| **External oblique muscle** | External spermatic fascia |\n| **Internal oblique muscle** | Cremaster muscle |\n| **Transversus abdominis muscle** | 無 |\n| **Transversalis fascia** | Internal spermatic fascia |\n| **Extraperitoneal fat** | 無 |\n| **Parietal peritoneum** | Processus vaginalis |\n\n(D) 錯誤，Testicular artery 直接源自腹主動脈，位於腎動脈分支處下方，另外，Testicular vein 左側回流至左側腎靜脈，右側則是直接回流至下腔靜脈",
+    "explanation": "答案 (C)。\n\n(A) 錯誤，這是直接型鼠蹊疝氣的描述。下腹壁血管（上外界）、腹直肌鞘（內界）、鼠蹊韌帶（下界）共同構成 Hesselbach 三角；直接型鼠蹊疝氣發生於 Hesselbach 三角之內（下腹壁動脈內側），而間接型鼠蹊疝氣則發生於 Hesselbach 三角外側（經深鼠蹊環，下腹壁動脈外側），多發生於兒童（鞘狀突未閉合）。\n(B) 錯誤，這是髂腹股溝神經（ilioinguinal nerve）的敘述。髂腹下神經則是穿透腹內斜肌、腹外斜肌至體表。鼠蹊管的內容物有：精索（男）、子宮圓韌帶（女）、髂腹股溝神經。精索的內容物包含：提睪肌纖維、睪丸動靜脈、生殖股神經的生殖支、輸精管、提睪血管、淋巴、鞘狀突。髂腹下神經與髂腹股溝神經共同支配鼠蹊部、陰莖底部、同側大腿內側上方的感覺；生殖股神經的生殖支支配提睪肌以及陰囊或陰唇外側皮膚的感覺。\n(C) 正確。腹壁與陰囊結構對應如下：\n\n| 腹壁（淺到深） | 陰囊結構 |\n| --- | --- |\n| 皮膚 | 皮膚 |\n| Camper 筋膜、Scarpa 筋膜 | 肉膜（dartos） |\n| 腹外斜肌 | 精索外筋膜 |\n| 腹內斜肌 | 提睪肌 |\n| 腹橫肌 | 無 |\n| 腹橫筋膜 | 精索內筋膜 |\n| 腹膜外脂肪 | 無 |\n| 壁層腹膜 | 鞘狀突（睪丸鞘膜） |\n\n(D) 錯誤。睪丸動脈直接源自腹主動脈，位於腎動脈分支處下方。另外，睪丸靜脈左側回流至左腎靜脈，右側則直接回流至下腔靜脈（所以精索靜脈曲張多在左側；右側或突發者要懷疑腹腔腫瘤）。\n\n**補充**：兒童鼠蹊疝氣幾乎都是間接型，治療為高位結紮疝氣囊（不需補強腹壁）；早產兒與嬰兒容易嵌頓，診斷後應盡早手術。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "小兒外科",
+    "category": "小兒外科"
   },
   {
     "id": "113-1-醫學(五)-46",
@@ -30968,15 +30968,15 @@
       "D": "淋巴管瘤併淋巴外漏（lymphangioma with lymphorrhea）"
     },
     "answer": "B",
-    "explanation": "由題幹與圖片可知此病灶為與外界有連通的廔管，故先刪除 (C)，而由其位置（前方側邊）可推測為 (B)\n\n兒童頸部病灶（尤其是腫塊）的鑑別診斷如下：\n\n| 疾病 | 位置 | 說明 |\n| :--- | :--- | :--- |\n| **Lymphadenopathy** | 中線或側邊都有可能 | • 兒童頸部腫塊最常見原因<br>• 若會壓痛通常是細菌感染引起，如果為慢性淋巴結腫大則須考慮非典型感染源（如非典型分枝桿菌、貓抓病）<br>• 如果淋巴結堅硬、不可移動、其他部位（腋下、鼠蹊部）也有腫大、有懷疑 Lymphoma 的病史等，則需做切除性切片 (Excisional biopsy) 進一步診斷 |\n| **Thyroglossal duct remnant** | 頸部中線，隨著吞嚥動作移動 | 胎兒發育的過程中，甲狀腺原本在舌根 (Foramen cecum)，隨著成長慢慢下降至正常的甲狀腺位置，若下降路徑有殘餘甲狀腺則可能形成異常腫塊，常以囊腫 (Cyst) 表現，但也可能形成瘻管 (Fistula)，大多無症狀，但若有與咽部連通則可能感染，以手術 (Sistrunk operation) 治療，切除囊腫、舌骨 Central portion、連接至咽部的通道、結紮 Foramen cecum |\n| **Branchial cleft anomaly** | 頸部側邊<br>• 1：耳朵前方、後方或上頸部（靠近下頜）<br>• 2：SCM 下 1/3 的前方<br>• 3：Suprasternal notch 或鎖骨區域 | 頭頸部構造是由胚胎時期的咽裂、咽囊、咽弓發展而成，若退化不完全則會形成異常病灶，其中以第二咽裂異常最常見，可以囊腫、瘻管、竇 (Sinus) 表現，以手術切除治療 |\n| **Lymphatic malformation**<br>(cystic hygroma 或 lymphangioma) | 頸部後方、腋下、鼠蹊部、縱隔腔 | 淋巴管發育異常而形成囊腫，囊腫由內皮細胞構成，內部充滿淋巴液，通常會形成多個囊腫並且浸潤、扭曲周圍構造（不過其本質為良性病灶），第一線治療為 Image-guided sclerotherapy |\n| **Torticollis** | 頸部側邊，頭會看向健側、傾向患側 | SCM 纖維化導致，治療以物理治療、復健為主 |",
+    "explanation": "答案 (B)。\n\n由題幹與圖片可知此病灶為與外界有連通的廔管，所以先刪除 (C)；由其位置（胸鎖乳突肌前緣側邊）可推測為 (B) 第二對鰓裂遺跡廔管。\n\n**兒童頸部病灶（尤其腫塊）的鑑別診斷**\n\n| 疾病 | 位置 | 說明 |\n| --- | --- | --- |\n| 淋巴結腫大 | 中線或側邊都有可能 | 兒童頸部腫塊最常見原因；若會壓痛通常是細菌感染引起；若為慢性淋巴結腫大要考慮非典型感染源（非典型分枝桿菌、貓抓病）；如果淋巴結堅硬、不可移動、其他部位（腋下、鼠蹊部）也有腫大、有懷疑淋巴瘤的病史，需做切除性切片 |\n| 甲狀舌管遺跡 | 頸部中線，隨著吞嚥或伸舌動作移動 | 胚胎發育時甲狀腺原本在舌根（盲孔），隨著成長慢慢下降至正常位置；若下降路徑有殘餘甲狀腺組織，可能形成異常構造，常以囊腫表現，也可能形成廔管；大多無症狀，若與咽部連通則可能感染。以 Sistrunk 手術治療：切除囊腫、舌骨中段、連接至咽部的通道並結紮盲孔 |\n| 鰓裂異常 | 頸部側邊：第一鰓裂在耳朵前方、後方或上頸部（靠近下頷）；第二鰓裂在胸鎖乳突肌下 1/3 的前緣；第三、四鰓裂在胸骨上切跡或鎖骨區域 | 頭頸部構造由胚胎時期的咽裂、咽囊、咽弓發展而成，退化不完全則會形成異常病灶，其中以第二咽裂異常最常見；可以囊腫、廔管、竇道表現；以手術切除治療 |\n| 淋巴管畸形（囊狀水瘤、淋巴管瘤） | 頸部後方、腋下、鼠蹊部、縱膈腔 | 淋巴管發育異常形成的囊腫，內含淋巴液；通常是多個囊腫且浸潤、扭曲周圍構造（本質仍為良性）；第一線治療為影像導引硬化治療 |\n| 斜頸 | 頸部側邊，頭會看向健側、傾向患側 | 胸鎖乳突肌纖維化導致，治療以物理治療與復健為主 |\n| 皮樣囊腫 | 頸部中線，不隨吞嚥移動 | 手術切除 |",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
       "/images/113-1/醫學(五)/page_10_img_1.jpeg"
     ],
     "section": "第二篇 外科學",
-    "chapter": "胸腔外科",
-    "category": "胸腔外科"
+    "chapter": "小兒外科",
+    "category": "小兒外科"
   },
   {
     "id": "113-1-醫學(五)-47",
@@ -31034,12 +31034,12 @@
       "D": "靜水壓力復位術（hydrostatic reduction）對於大部分單純性的腸套疊都適用"
     },
     "answer": "D",
-    "explanation": "除了 (D) 以外的選項都是在描述 Meckel diverticulum\n\n| 項目 | 腸套疊 (Intussusception) 說明 |\n| :--- | :--- |\n| **流病** | 好發 3 個月到 3 歲的小孩，大多發生在 1 歲前 |\n| **致病機轉** | 近端腸子套進遠端腸子，常見於 Ileocecal junction（即迴腸遠端套進盲腸） |\n| **病因** | • 通常為 Idiopathic，若有 Lead point，最常見的為 Meckel diverticulum，其他如腸道息肉、闌尾發炎、Henoch-Schönlein purpura 引起的黏膜下出血、吞入異物、Ectopic pancreatic/gastric tissue、Intestinal duplication 等也須考慮<br>• 小腸手術後也可能引起腸套疊，佔腸套疊病人 5% |\n| **臨床表現** | • 間歇性嚴重腹絞痛（病人腳會往腹部彎曲），兩次發作之間通常沒有症狀<br>• 其他症狀包含：嘔吐、帶血黏液便 (Currant jelly stool)、可摸到的腹部腫塊 |\n| **檢查** | • **腹部 X 光**：看到腫塊、大腸氣體減少、遠端小腸完全阻塞<br>• **腹部超音波**：第一線檢查方式，可見 Target sign (Transverse view)、Pseudokidney sign (Longitudinal view) |\n| **治療** | • **Hydrostatic reduction**：以顯影劑、生理食鹽水或空氣灌腸，80% 病人可復位成功，但有 11% 復發率（大多發生在復位後 24 小時內），此時可再做一次 Hydrostatic reduction，復發第三次則為手術適應症<br>• **手術**：適應症包含腹膜炎、就診時即腸阻塞、Hydrostatic reduction 失敗、多次復發，手術方式為打開腹部後把腫塊往近端推，並且評估復位後的腸子是否還有功能，若無法復位、無法確定腸子是否還有功能或有找到 Lead point，則需要做 Ileocolectomy with primary anastomosis，手術後的復發率非常低 |",
+    "explanation": "答案 (D)。\n\n除了 (D) 以外的選項都是在描述 Meckel 憩室（2 的法則：約 2% 人口、男女比 2:1、距迴盲瓣約 2 英尺、長約 2 英寸、多在 2 歲前出現症狀、常含 2 種異位組織——胃或胰臟；可用 Tc-99m pertechnetate 掃描偵測異位胃黏膜；是最常見的先天性胃腸道畸形）。\n\n**腸套疊**\n\n| 項目 | 內容 |\n| --- | --- |\n| 流行病學 | 好發 3 個月到 3 歲的小孩，大多發生在 1 歲前 |\n| 致病機轉 | 近端腸子套進遠端腸子，常見於迴盲交界處（即迴腸套進盲腸） |\n| 病因 | 通常為特發性（病毒感染後淋巴組織增生）；若有前導點（lead point），最常見的為 Meckel 憩室，其他如腸道息肉、闌尾發炎、Henoch-Schönlein 紫斑引起的黏膜下出血、吞入異物、異位胰臟或胃組織、腸道重複畸形等也須考慮；小腸手術後也可能引起腸套疊，約佔 5% |\n| 臨床表現 | 間歇性嚴重腹部絞痛（病人腳會往腹部彎曲），兩次發作之間通常沒有症狀；其他症狀包含嘔吐、帶血黏液便（紅醋栗果醬便）、可摸到的腹部腫塊（香腸狀） |\n| 檢查 | 腹部 X 光：看到腫塊、大腸氣體減少、遠端小腸完全阻塞；腹部超音波：第一線檢查，可見標靶徵象（橫切面）、偽腎徵象（縱切面） |\n| 治療 | 水壓或氣壓復位：以顯影劑、生理食鹽水或空氣灌腸，約 80% 病人可復位成功，但有約 11% 復發率（大多在復位後 24 小時內），此時可再做一次；復發第三次則為手術適應症。手術適應症：腹膜炎、就診時即腸阻塞（或休克）、復位失敗、多次復發；手術方式為打開腹部後把腫塊往近端推，並評估復位後腸子是否有功能；若無法復位、無法確定腸子是否有功能或找到前導點，則需做迴盲腸切除並一期吻合。手術後的復發率非常低 |\n\n(D) 正確，水壓（或氣壓）復位對大部分單純性腸套疊都適用。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "小兒外科",
+    "category": "小兒外科"
   },
   {
     "id": "113-1-醫學(五)-50",
@@ -31054,7 +31054,7 @@
       "D": "觀察即可"
     },
     "answer": "A",
-    "explanation": "| 大腸鏡檢查結果分類 | 處置與追蹤方式 |\n| :--- | :--- |\n| **異常黏膜** | 切片檢查 |\n| **突起息肉** | 息肉切除（只作切片不夠） |\n\n**息肉依病理組織分類與追蹤：**\n\n| 息肉病理組織分類 | 細項與特徵 | 追蹤方式 |\n| :--- | :--- | :--- |\n| **增生性息肉**<br>(hyperplastic polyp) | 直腸及乙狀結腸、多發 | 難以確保不混有腺瘤，故仍需密切追蹤 |\n| **腺瘤**<br>(adenoma，最常見) | • 組織型態：管狀瘤 (tubular)、絨毛腺瘤 (villous)、管狀絨毛腺瘤 (tubulovillous)<br>• 基部型態：莖性 (pedunculated)、粗短莖性 (thick stalk)、廣基性 (sessile) | • 莖性管狀 (pedunculated tubular) 息肉一般作內視鏡息肉切除後密切追蹤即可<br>• 廣基性絨毛腺瘤 (sessile villous) 建議病人進一步接受腸段切除 |\n| **腺瘤性息肉症** | • Adenomatosis: familial polyposis (FAP), Gardner's syndrome（合併 osteoma、epidermoid cyst）<br>• Turcot's syndrome（合併 CNS tumor：FAP variant 為 medulloblastoma；Lynch variant 為 glioblastoma） | 密切追蹤或預防性腸切除 |\n| **缺陷瘤**<br>(hamartoma) | • Peutz-Jeghers syndrome（合併嘴唇色素沉澱）<br>• Juvenile polyps or polyposis<br>• Neurofibromas and ganglioneuromas | 產生癌化機率高，須定期檢查追蹤 |\n| **發炎性息肉**<br>(inflammatory polyp) | • Crohn's disease or ulcerative colitis<br>• Lymphoid polyp<br>• Lipoid or barium granuloma | 治療原發腸道發炎疾病 |\n| **其他** | 非黏膜性腫瘤（leiomyoma, hemangioma, lipoma 等） | 視臨床症狀評估 |\n\n**補充：CRS 良性小刀歷年常見考點（建議搭配網路上示意圖）**\n\n| 疾病 | 臨床機轉與特徵 | 處置與分類 |\n| :--- | :--- | :--- |\n| **肛門膿瘍**<br>(abscess) | 肛門有 8~10 個開口於齒狀線的腺體，出口阻塞導致發炎／膿瘍，擴散向下至肛緣成 perianal (80%)、向外過外括約肌成 ischiorectal (15%，再擴散至雙側成馬蹄膿瘍)、intersphincteric、supralevator；40% 進展形成瘻管 | 治療：切開引流，但可能傷及括約肌導致大便失禁 |\n| **肛圍瘻管**<br>(perianal fistula) | Goodsall's rule 以 transverse anal line 為界：<br>1. 後側中線處有 posterior anal space (potential space) → 後側 fistula 延伸至此、匯入直腸<br>2. 前側中線處沒有 potential space，3 cm 內的 abscess 會直接注入直腸；3 cm 以上的 abscess 仍會沿著 ischial spine 走向 posterior anal space（呈馬蹄狀） | 依位置分四種，依照發生率排列：intersphincteric > transsphincteric > suprasphincteric > extrasphincteric |",
+    "explanation": "答案 (A)。\n\n大腸鏡檢查時，異常的平坦黏膜做切片檢查；突起的息肉則應做息肉切除（只做切片不夠，需要完整切除才能評估整顆息肉的病理）。本題 1 公分的莖性息肉，最適當的處理是內視鏡息肉切除。\n\n**大腸息肉依病理分類**\n\n| 分類 | 內容 | 追蹤方式 |\n| --- | --- | --- |\n| 增生性息肉 | 常見於直腸及乙狀結腸、多發 | 難以確保不混有腺瘤（尤其近端大的無蒂鋸齒狀病灶），仍需密切追蹤 |\n| 腺瘤（最常見） | 依組織型態：管狀、絨毛狀、管狀絨毛狀；依基部型態：莖性、粗短莖性、廣基性；多發腺瘤症候群：家族性腺瘤性息肉症（FAP）、Gardner 症候群（合併骨瘤、表皮樣囊腫）、Turcot 症候群（合併中樞神經腫瘤：FAP 型為髓母細胞瘤，Lynch 型為膠質母細胞瘤） | 莖性管狀腺瘤一般做內視鏡癌切除後密切追蹤即可；廣基性絨毛腺瘤（癌化風險高）建議進一步接受腸段切除 |\n| 錯構瘤 | Peutz-Jeghers 症候群（合併嘴唇色素沉澱）；幼年性息肉或息肉症；神經纖維瘤與神經節瘤 | 息肉症產生癌化機率高 |\n| 發炎性息肉 | 克隆氏症或潰瘍性結腸炎（偽息肉）、淋巴樣息肉、脂質或鋇劑肉芽腫 | — |\n| 其他 | 非黏膜性腫瘤（平滑肌瘤、血管瘤、脂肪瘤等） | — |\n\n**補充：大腸直腸良性小刀歷年常考**\n\n| 疾病 | 重點 |\n| --- | --- |\n| 肛門膿瘍 | 肛門有 8–10 個開口於齒狀線的肛門腺，出口阻塞導致發炎或膿瘍，擴散向下至肛緣形成肛門周圍膿瘍（約 80%），向外穿過外括約肌形成坐骨直腸窩膿瘍（約 15%，再擴散至雙側成馬蹄膿瘍），另有括約肌間、提肛肌上膿瘍；約 40% 會進展成廔管 |\n| 肛門廔管 | Goodsall 規則以肛門橫線為界：後側（及距肛門 > 3 公分）的外口，廔管呈彎曲狀走向後側中線開口；前側 3 公分內的外口，廔管直接放射狀進入直腸。依位置分四種，依發生率排列：括約肌間 > 經括約肌 > 括約肌上 > 括約肌外。治療：切開引流（或廔管切開術、掛線 seton），但可能傷及括約肌導致大便失禁 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -31074,12 +31074,12 @@
       "D": "gluteus maximus muscle"
     },
     "answer": "D",
-    "explanation": "| 骨盆底 (Pelvic floor) 肌肉組成 | 細項 |\n| :--- | :--- |\n| **提肛肌 (Levator ani)** | • puborectalis (PR)<br>• pubococcygeus (PC)<br>• iliococcygeus (IC) |\n\n如果很常搞混，附上口訣：PRP CIC（實際上斷句是 PR PC IC）",
+    "explanation": "答案 (D)。\n\n骨盆底（提肛肌）的肌肉組成：\n\n| 肌肉 |\n| --- |\n| 恥骨直腸肌（puborectalis，PR） |\n| 恥骨尾骨肌（pubococcygeus，PC） |\n| 髂骨尾骨肌（iliococcygeus，IC） |\n\n（有些分類另加坐骨尾骨肌 coccygeus。）如果很常搞混，附上口訣：PRP CIC（實際上斷句是 PR PC IC）。臀大肌是髖部的伸肌，不屬於骨盆底。\n\n**補充**：恥骨直腸肌在直腸後方形成 U 型吊帶，維持肛直角，是排便控制的重要構造；排便時放鬆使肛直角變直。骨盆底肌受損（生產）與骨盆器官脫垂、應力性尿失禁、大便失禁相關。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "大腸直腸科",
+    "category": "大腸直腸科"
   },
   {
     "id": "113-1-醫學(五)-52",
@@ -31094,12 +31094,12 @@
       "D": "主動脈撕裂"
     },
     "answer": "A",
-    "explanation": "降結腸癌通常術式為左側大腸切除術 (left hemicolectomy, = left hemi)，切除範圍包含：遠端橫結腸、脾彎曲、降結腸，以及近端乙狀結腸\n\n脾臟周圍和幾個組織藉網膜相連：胃大彎、左腎、胰尾、脾彎曲的大腸，在降結腸手術移動大腸時，若沒有事先將結腸－脾臟間的網膜分離，容易扯到脾臟和脾彎曲大腸，造成大出血\n\nSMA 在腹腔內，供應大多數的小腸及升結腸、橫結腸的前三分之二，與降結腸手術無關，主動脈及下腔靜脈的位置在身體中線偏右，距離也較遠",
+    "explanation": "答案 (A)。\n\n降結腸癌通常的術式為左側大腸切除術，切除範圍包含：遠端橫結腸、脾彎曲、降結腸，以及近端乙狀結腸。\n\n脾臟周圍與幾個組織藉網膜相連：胃大彎、左腎、胰尾、脾彎曲的大腸。在降結腸手術移動大腸時，若沒有事先把結腸–脾臟間的網膜分離，容易扯到脾臟和脾彎曲大腸，造成大出血（醫源性脾臟損傷）。\n\n上腸繫膜動脈（SMA）在腹腔內，供應大多數的小腸及升結腸、橫結腸的前三分之二，與降結腸手術無關（降結腸由下腸繫膜動脈的左結腸動脈供應）。主動脈與下腔靜脈的位置在身體中線偏右，距離也較遠。\n\n**補充**：左側結腸手術另一個要注意的構造是左側輸尿管與生殖血管（在後腹膜跨過髂動脈處）。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "大腸直腸科",
+    "category": "大腸直腸科"
   },
   {
     "id": "113-1-醫學(五)-53",
@@ -31114,12 +31114,12 @@
       "D": "僅"
     },
     "answer": "D",
-    "explanation": "| 比較項目 | 腹腔鏡闌尾切除手術 (laparoscopic appendectomy) | 開放式闌尾切除手術 (open appendectomy) |\n| :--- | :--- | :--- |\n| **併發症發生率** | 較低 | 較高 |\n| **手術視野** | 較小 | 可彈性調整，適合複雜性闌尾炎 (complicated appendicitis) |\n\n② 即便開放式闌尾切除的視野較大，但仍以右下腹為主，無法檢查整個腹膜腔\n\n④ 闌尾炎延遲發作 (delayed presentation of appendicitis) 會導致較高的併發症及死亡率，可能發展為穿孔、壞疽、化膿以及局部腹膜炎，一般來說，對於有化膿的穿孔性闌尾炎，不建議在急性期開刀，原因是急性期沾黏嚴重，無法清楚辨認解剖構造，有較高機率產生併發症，此時，非手術介入（引流、抗生素治療）是合適的選擇，其中，引流以電腦斷層協助引流 (CT guide drainage) 優先，若無法進行亦可考慮腹腔鏡引流手術",
+    "explanation": "答案 (D)。\n\n| 項目 | 腹腔鏡闌尾切除術 | 開放式闌尾切除術 |\n| --- | --- | --- |\n| 併發症發生率 | 較低（傷口感染少） | 較高 |\n| 手術視野 | 可檢查整個腹腔 | 以右下腹為主，可彈性調整，適合部分複雜性闌尾炎 |\n\n① 正確。總體來說，腹腔鏡手術的併發症發生率較低。\n② 錯誤。即便開放式闌尾切除的切口可擴大，但視野仍以右下腹為主，無法檢查整個腹膜腔；能探查整個腹腔、排除其他急症（如憩室炎、卵巢腫瘤）的是腹腔鏡。\n③ 正確。不管採用何種方法，最重要的是安全地進行手術以維持病人安全。\n④ 錯誤。闌尾炎延遲發作（delayed presentation）會導致較高的併發症與死亡率，可能發展為穿孔、壞疽、化膿以及局部腹膜炎。一般來說，對於已形成膿瘍的穿孔性闌尾炎，不建議在急性期開刀：急性期沾黏嚴重，無法清楚辨認解剖構造，較高機率產生併發症。此時非手術介入（引流、抗生素治療）是合適的選擇，引流以電腦斷層導引引流優先；若無法進行，亦可考慮腹腔鏡引流手術。所以「腹腔鏡引流因沒有助益而不應施行」是錯的。\n\n錯誤的是 ②④。\n\n**補充**：非複雜性闌尾炎也可考慮先以抗生素保守治療（約 70% 一年內不需手術），但有糞石者失敗率較高。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "大腸直腸科",
+    "category": "大腸直腸科"
   },
   {
     "id": "113-1-醫學(五)-54",
@@ -36627,7 +36627,7 @@
       "D": "tacrolimus比cyclosporine有較高的移植後糖尿病發生率"
     },
     "answer": "B",
-    "explanation": "免疫抑制劑的副作用很重要，關乎移植病人是否停藥及換藥。tacrolimus 及 cyclosporine 皆為鈣調磷酸酶抑制劑 (calcineurin inhibitors)，分別結合 FKBP12 及 cyclophilin，抑制 calcineurin phosphatase，影響 T 細胞活化。\n兩者皆有腎毒性、神經毒性、溶血性尿毒症 (hemolytic uremic syndrome)、高血壓、高血脂、牙齦過度增生、多毛、移植後糖尿病 (post-transplant diabetes mellitus, PTDM) 等副作用，但發生率在兩種藥物不同：\n\n| Tacrolimus 較多 | Cyclosporine 較多 |\n| :--- | :--- |\n| PTDM、神經毒性 | 高血壓、高血脂、多毛、牙齦增生 |",
+    "explanation": "答案 (B)。\n\n免疫抑制劑的副作用很重要，關乎移植病人是否停藥及換藥。Tacrolimus 與 cyclosporine 皆為鈣調磷酸酶抑制劑，分別結合 FKBP12 與 cyclophilin，抑制 calcineurin 磷酸酶，影響 T 細胞活化（IL-2 製造）。\n\n兩者皆有腎毒性、神經毒性、溶血性尿毒症（血栓性微血管病變）、高血壓、高血脂、牙齦過度增生、多毛、移植後糖尿病（PTDM）等副作用，但發生率在兩種藥物不同：\n\n| Tacrolimus 較多 | Cyclosporine 較多 |\n| --- | --- |\n| 移植後糖尿病、神經毒性（顫抖、頭痛）、禿髮 | 高血壓、高血脂、多毛、牙齦增生 |\n\n(A) 正確，tacrolimus 較可能導致禿髮（cyclosporine 反而多毛）。\n(B) 錯誤，牙齦肥厚以 cyclosporine 較常見。\n(C) 正確，tacrolimus 有較高的神經毒性。\n(D) 正確，tacrolimus 有較高的移植後糖尿病發生率。\n\n其他抗排斥藥物的副作用見 113-2 醫學（三）第 30 題。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -37407,15 +37407,15 @@
       "D": "下消化道攝影後隔日再加照一張如附圖左圖範圍之腹部Ｘ光"
     },
     "answer": "B",
-    "explanation": "左邊的腹部 X 光顯示許多腸氣，可能有消化道阻塞，右邊的下消化道攝影可見乙狀結腸狹窄，降結腸脹大，懷疑為 Hirschsprung's disease。\n(A) Hirschsprung's disease 病人在尚未治療前可能會出現 Hirschsprung's disease-associated enterocolitis，為死亡的主要原因。處置原則包含補水、減壓 (Nasogastric Salem Sump、留置肛管、直腸灌洗)、使用廣效性抗生素。留置肛管與直腸灌洗建議在完成下消化道攝影 (Barium enema) 之後再做，以確保在影像上能明確看出近端與遠端腸道的管徑差異。\n(B) 電腦斷層檢查於 Hirschsprung's disease 較無角色。（筆者是覺得這個選項有點為了考而考，CT 確實不會用來診斷 Hirschsprung's disease，但以題目給的臨床情境來說，到底要不要做 CT 可能就見仁見智）。\n(C) 直腸切片 (Rectal biopsy) 為 Hirschsprung's disease 診斷之 Gold standard，取 Dentate line 以上 1cm、2cm、3cm 的腸道組織並染色，病理特徵為 Myenteric plexuses 無 Ganglion cells、Acetylcholinesterase staining 增加以及看到 Hypertrophied nerve bundles、calretinin stain 陰性。\n(D) 24-hour delayed film 若看到顯影劑殘留，則 Hirschsprung's disease 的可能性增加，在沒有明顯 Transition zone 的狀況下（如整個腸道都沒有 Ganglion) 可輔助診斷。\nHirschsprung's disease 寒考考在小兒科，請參考【113-1(四)9】。",
+    "explanation": "答案 (B)。\n\n左邊的腹部 X 光顯示許多腸氣，可能有消化道阻塞；右邊的下消化道攝影可見乙狀結腸（直腸）狹窄、降結腸膨大，懷疑先天性巨結腸症（Hirschsprung 病）。\n\n(A) 有幫助。巨結腸症病人在尚未治療前可能出現巨結腸症相關小腸結腸炎，是死亡的主要原因；處置原則包括補水、減壓（鼻胃管、留置肛管、直腸灌洗）、使用廣效抗生素。留置肛管與直腸灌洗建議在完成下消化道攝影之後再做，以確保影像上能明確看出近端與遠端腸道的管徑差異。\n(B) 較無幫助。電腦斷層在巨結腸症的診斷較無角色（書中作者也覺得這個選項有點為考而考：CT 確實不會用來診斷巨結腸症，但就本題臨床情境，到底要不要做 CT 可能見仁見智）。\n(C) 有幫助。直腸切片是巨結腸症診斷的黃金標準：取齒狀線以上約 1、2、3 公分的腸道組織並染色，病理特徵為肌間神經叢無神經節細胞、乙醯膽鹼酯酶染色增加、可見肥大的神經束、calretinin 染色陰性。\n(D) 有幫助。24 小時延遲照影若看到顯影劑殘留，巨結腸症的可能性增加；在沒有明顯過渡區的狀況下（如全大腸都沒有神經節），可輔助診斷。\n\n巨結腸症的其他重點見 113-1 醫學（四）第 9 題。",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
       "/images/113-2/醫學(五)/page_9_img_1.jpeg"
     ],
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "小兒外科",
+    "category": "小兒外科"
   },
   {
     "id": "113-2-醫學(五)-46",
@@ -37430,7 +37430,7 @@
       "D": "膽道閉鎖經葛西氏（Kasai）手術後，九成以上病人皆可以治癒"
     },
     "answer": "C",
-    "explanation": "(A) 錯誤。膽道閉鎖的超音波會發現肝內膽管消失，可能看到 Triangular cord sign (portal vein 分岔處的頭端 (cranial side) 出現等回音的纖維化膽管病灶)，另外膽囊也可能變小或消失。\n(B) 錯誤，Endoscopic retrograde cholangiopancreatography (ERCP) 以及 Magnetic resonance cholangiopancreatography (MRCP) 對於膽道閉鎖尚無明確診斷價值。目前沒有單一工具可以確診膽道閉鎖，通常會需要使用多種方式來確認診斷，其中最有價值的檢查為肝臟切片，會看到膽管增生、Bile plugs、Portal or perilobular edema and fibrosis，而其他肝臟基本結構為完整的（如果是新生兒肝炎則肝臟結構會被破壞而變形）。當切片懷疑是膽道閉鎖時，下一步需進行剖腹探查並且於術中做直接膽道造影 (Direct cholangiography) 來確定是否有阻塞以及阻塞位置。\n(C) 正確。需要排除的診斷包含 TORCH infection (Toxoplasmosis、Rubella、CMV、Herpes)、HBV infection、HCV infection、\u0007lpha 1-antitrypsin、Cystic fibrosis、代謝性疾病 (Galactosemia、Tyrosinemia)、內分泌疾病等。\n(D) 錯誤。超過 70% 接受 Kasai procedure 的病人疾病仍會持續進展，最終需要肝臟移植。但 80% 成功接受 Kasai procedure 的病人可能可以存活到 10 年才需要換肝。",
+    "explanation": "答案 (C)。\n\n(A) 錯誤。膽道閉鎖的超音波會發現肝內膽管消失，可能看到三角索徵象（門靜脈分岔處的頭端出現高回音的纖維化膽管病灶）；另外膽囊也可能變小或消失（進食前後膽囊大小沒有變化）。\n(B) 錯誤。ERCP 與 MRCP 對膽道閉鎖尚無明確診斷價值。目前沒有單一工具可以確診膽道閉鎖，通常需要使用多種方式確認，其中最有價值的檢查為肝臟切片：會看到膽管增生、膽栓、門脈周圍或小葉周圍水腫與纖維化，而肝臟基本結構仍完整（新生兒肝炎則會看到肝臟結構被破壞而變形，有巨細胞形成）。當切片懷疑是膽道閉鎖時，下一步需進行剖腹探查，並於術中做膽道攝影來確定是否有阻塞與阻塞位置。\n(C) 正確。需要排除的診斷包含 TORCH 感染（弓蟲、德國麻疹、CMV、疱疹）、B 肝、C 肝、α1 抗胰蛋白酶缺乏症、囊性纖維化、代謝性疾病（半乳糖血症、酪胺酸血症）、內分泌疾病（甲狀腺低下、腦下垂體功能不全）等；最需要鑑別的是新生兒肝炎。\n(D) 錯誤。超過 70% 接受葛西手術的病人疾病仍會持續進展，最終需要肝臟移植；但約 80% 成功接受葛西手術的病人可能可以存活到 10 年後才需要換肝。\n\n**補充**\n- 典型表現：出生 2 週後黃疸持續、直接型膽紅素上升、灰白色大便（台灣有嬰兒大便卡篩檢）、深色尿、肝腫大。\n- 葛西手術（肝門腸吻合術）最好在 60 天內完成，越早預後越好。\n- 膽道閉鎖是兒童肝臟移植最常見的適應症。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -37513,7 +37513,7 @@
       "D": "在乙狀結腸腸扭轉中，腹部X光攝影可能有琴鍵徵象（keyboard sign）"
     },
     "answer": "C",
-    "explanation": "腸扭轉於各段消化道的發生機率：結腸（乙狀結腸 > 盲腸 > 橫結腸）> 其他消化道，(A) 錯誤。\n\n| 分類 | 類型 | 詳細特徵與說明 |\n| :--- | :--- | :--- |\n| **結腸扭轉**<br>(可上網查看照片，加深印象) | **乙狀結腸扭轉**<br>(sigmoid volvulus) | **好發因子**：懷孕、年老、慢性便秘、高纖維食物、男女差不多。<br>**症狀**：嚴重嘔吐腹瀉、無排便排氣、心跳加速、腹脹明顯。嚴重時若造成腸壞死或破裂，會有反彈痛及 muscle guarding。<br>**檢查**：KUB 出現 Coffee bean sign (Bent inner tube sign)，為左下腹突出且漲大的乙狀結腸。<br>**處置**：若腸道尚未壞死，乙狀結腸鏡或肛管減壓。若懷疑腸壞死或破裂，則緊急手術 (Hartmann's operation)，將壞死的大腸段切除。 |\n| **結腸扭轉** | **盲腸扭轉**<br>(cecal volvulus) | **好發因子**：女 > 男、先前腹部手術、先天粘連、懷孕、盲腸固定不足等。<br>**檢查**：KUB 出現 comma shape，凹面向相右下腹。<br>**處置**：盲腸固定術、盲腸切除術。 |\n\n(B) 好發於慢性便秘的年老女性，且高纖飲食會加速扭轉的發生。\n(D) 琴鍵徵象 (keyboard sign) 是小腸皺褶被清楚分開所呈現的影像，會出現在小腸阻塞 (small bowel obstruction)。",
+    "explanation": "答案 (C)。\n\n腸扭轉在各段消化道的發生機率：結腸（乙狀結腸 > 盲腸 > 橫結腸）> 其他消化道，所以 (A) 錯誤。\n\n| 類型 | 項目 | 內容 |\n| --- | --- | --- |\n| 乙狀結腸扭轉 | 好發因子 | 懷孕、年老、慢性便秘、高纖維飲食、男女差不多（書中說法；國外多為老年男性、神經精神疾病、長期臥床） |\n| | 症狀 | 嚴重噁心嘔吐、無排便排氣、心跳加速、腹脹明顯；嚴重時若造成腸壞死或破裂，會有反彈痛與肌肉僵直 |\n| | 檢查 | 腹部 X 光出現咖啡豆徵象（彎曲內胎徵象），為左下腹突出且漲大的乙狀結腸 |\n| | 處置 | 若腸道尚未壞死，以乙狀結腸鏡或肛管減壓（之後再擇期手術以防復發）；若懷疑腸壞死或破裂，緊急手術（Hartmann 手術），把壞死的大腸段切除 |\n| 盲腸扭轉 | 好發因子 | 女性多於男性、先前腹部手術、先天沾黏、懷孕、盲腸固定不足等 |\n| | 檢查 | 腹部 X 光出現逗號形狀，凹陷面朝向右下腹 |\n| | 處置 | 盲腸固定術、盲腸（右半結腸）切除術；內視鏡減壓成功率低 |\n\n(B) 錯誤。好發於慢性便秘的年老族群，且高纖維飲食反而會增加扭轉的發生（腸道冗長、重量增加）。\n(C) 正確。未固定於後腹腔、且腸繫膜較長（基部較窄）的結腸較易發生腸扭轉。\n(D) 錯誤。琴鍵徵象（keyboard sign）是小腸皺褶被清楚分開所呈現的影像，出現在小腸阻塞。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -37533,7 +37533,7 @@
       "D": "magnesium citrate solution"
     },
     "answer": "B,D",
-    "explanation": "| 備腸 protocol | |\n| :--- | :--- |\n| **前兩天：低渣飲食** | 稀飯、麵包等，避免高纖維食物。 |\n| **前一天：清流飲食** | 大部分可以透光見底的流質，如：運動飲料、米湯、清湯，不可喝牛奶、酒。 |\n| **前一天下午：瀉藥右列幾種常見配方** | **(A) 口服 Dulcolax 6-8 粒，配 1000-1500c.c. 水**。錠劑需整粒吞服，不可咬碎。<br>* 腸阻塞病人禁用。<br><br>**(B) 口服 polyethylene glycol (GI Klean powder)**<br>每包加水至 1000cc 服用，每 15 分鐘喝 250 ml，60~90 分鐘後會開始腹瀉，重複服用 2-4 包或至排出液澄清為止。<br>* 解不乾淨可加 Dulcolax 2-3 粒或檢查前 EVAC 灌腸<br>* PEG 發生腎功能不良的機率約為 1~2%，而腎功能不佳者使用須注意是否出現體液或離子失衡的問題。<br><br>**(D) 口服鎂、磷酸滲透壓性緩瀉劑（鎂福、BowKlean powder）**。<br>Bowklean Powder：每包含有散劑粉末 16.2 g。一次一包，加入 150 毫升水中，攪拌後服用。分兩次服用，前一天下午及檢查當天早上。<br>* 腎功能不佳（肌酸酐廓清率小於 30 mL/ 分鐘）、胃腸道阻塞、穿孔禁用。 |",
+    "explanation": "答案 (B)、(D)（原答案 D，申覆後 B、D 都給分）。\n\n**大腸鏡腸道準備流程**\n\n| 時間 | 內容 |\n| --- | --- |\n| 前兩天：低渣飲食 | 稀飯、麵包等，避免高纖維食物 |\n| 前一天：清流飲食 | 大部分可以透光見底的流質（運動飲料、米湯、清湯），不可喝牛奶、酒 |\n| 前一天下午：瀉藥 | 以下幾種常見配方 |\n\n| 瀉藥 | 使用方式與注意 |\n| --- | --- |\n| (A) Bisacodyl（Dulcolax）口服 | 6–8 粒配 1,000–1,500 mL 水，錠劑需整粒吞服；腸阻塞病人禁用 |\n| (B) Polyethylene glycol（PEG，如 GI Klean） | 每包加水至 1,000 mL，每 15 分鐘喝 250 mL，60–90 分鐘後開始腹瀉，重複服用 2–4 包或至排出液澄清為止；解不乾淨可加 Dulcolax 或檢查前灌腸。PEG 發生腎功能不良的機率約 1–2%，腎功能不佳者使用須注意是否出現體液或離子失衡 |\n| (D) 口服鎂、磷酸鹽滲透壓性緩瀉劑（如 Bowklean，含檸檬酸鎂） | 分兩次服用，前一天下午及檢查當天早上；腎功能不佳（肌酸酐清除率 < 30 mL/min）、胃腸道阻塞、穿孔禁用 |\n\n腎功能不佳者最不適合用含鎂或磷酸鹽的瀉劑（高血鎂、急性磷酸鹽腎病變），所以原答案為 (D)。申覆後 (B) 也給分，因為 PEG 在腎功能不良者仍有少數發生腎功能惡化或電解質失衡的報告。（臨床上 PEG 通常被視為腎病病人較安全的選擇。）\n\n**補充**：腸道準備品質以 Boston 腸道準備量表評估；分次服用（split-dose）效果最好。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -37553,7 +37553,7 @@
       "D": "T4"
     },
     "answer": "B",
-    "explanation": "大原則可以先記 0-IV 期如何區分（表格最左欄），以及 T 的分期即可。\n* 大腸分層（內到外）：黏膜層、黏膜下層、肌肉固有層、漿膜層。\n* 美國聯合癌症委員會 (AJCC) 將大腸癌依照 TNM stage 分成第零期至第四期：\n\n| 期別 | T (原發腫瘤侵犯深度) | N (近端淋巴結轉移) | M (遠端器官／淋巴結轉移) |\n| :--- | :--- | :--- | :--- |\n| **第 0 期**<br>(尚未吃穿黏膜層) | 原位癌 (Carcinoma in situ) 或黏膜內癌 (Intramucosal carcinoma, Tis)，尚未吃穿黏膜層或擴散到附近的淋巴結 (N0) 或遠處 (M0) | N0 | M0 |\n| **第 I 期**<br>(尚未吃穿肌肉層) | **T1**：侵犯到黏膜下層 (Submucosa)<br>**T2**：侵犯到肌肉層 (Muscularis propria) | N0 | M0 |\n| **第 II 期**<br>(吃到漿膜層) | **IIa**：T3（侵犯到漿膜層，但尚未吃穿）<br>**IIb**：T4a（吃穿漿膜層，但尚未擴散到鄰近組織）<br>**IIc**：T4b（吃穿漿膜層，且侵犯到鄰近組織） | N0 | M0 |\n| **第 III 期**<br>(有淋巴轉移) | **IIIa**：T1/T2 (1-3 個 LN (N1)) 或 T1 (4-6 個 LN (N2a))<br>**IIIb**：T3/T4a (N1) 或 T2/T3 (N2a) 或 T1/T2 (>7 個 LN (N2b))<br>**IIIc**：T4a (N2a) 或 T3/T4a (N2b) 或 T4b (N1/N2) | N1/N2 | M0 |\n| **第 IV 期**<br>(有遠端轉移) | **IVa**：不論腫瘤深度 (擴散到遠處一個器官 (M1a))<br>**IVb**：不論腫瘤深度 (擴散到超過一個遠處器官（肝、肺…）(M1b))<br>**IVc**：不論腫瘤深度 (腹膜轉移，有惡性腹水 (M1c)) | 不論淋巴結轉移數目 | M1a/M1b/M1c |\n\n由上表可知，侵犯至腸壁肌肉層 (muscularis propria) 為 T2。",
+    "explanation": "答案 (B)。\n\n大原則記得 0–IV 期如何區分，以及 T 的分期即可。大腸分層（由內到外）：黏膜層、黏膜下層、固有肌層、漿膜層。\n\n**大腸癌 AJCC TNM 分期**\n\n| 分期 | T | N | M |\n| --- | --- | --- | --- |\n| 0 期（尚未吃穿黏膜層） | Tis：原位癌或黏膜內癌 | N0 | M0 |\n| I 期（尚未吃穿肌肉層） | T1：侵犯到黏膜下層；T2：侵犯到固有肌層 | N0 | M0 |\n| IIA | T3：侵犯到漿膜下層（穿過肌肉層），但尚未吃穿漿膜 | N0 | M0 |\n| IIB | T4a：吃穿漿膜層，但尚未擴散到鄰近組織 | N0 | M0 |\n| IIC | T4b：吃穿漿膜層，且侵犯到鄰近組織 | N0 | M0 |\n| III 期（有淋巴結轉移） | 任何 T | N1：1–3 顆；N2a：4–6 顆；N2b：≥ 7 顆 | M0 |\n| IVA | 任何 T | 任何 N | M1a：擴散到單一遠處器官 |\n| IVB | 任何 T | 任何 N | M1b：擴散到 2 個以上遠處器官 |\n| IVC | 任何 T | 任何 N | M1c：腹膜轉移 |\n\n由上表可知，侵犯至固有肌層但未穿越，為 T2。\n\n**補充**：第 III 期術後建議輔助化療（FOLFOX 或 CAPOX）；高風險第 II 期（T4、淋巴結取樣 < 12 顆、穿孔、阻塞、淋巴血管侵犯）可考慮化療。直腸癌局部晚期（T3–4 或 N+）先做術前同步化放療再手術。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
