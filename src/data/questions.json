@@ -30205,12 +30205,12 @@
       "D": "不管復發或原發腫瘤，radiation therapy 都沒有治療的角色"
     },
     "answer": "B",
-    "explanation": "| 腦膜瘤（meningioma） | |\n| :--- | :--- |\n| **流行病學** | 佔腦／脊髓腫瘤的 1/3，為最常見的 primary CNS tumor（過去為 glioblastoma multiforme 最多），男女比 1 : 2，10% 為多發性 → (C) 錯誤 |\n| **致病機轉** | 源於蜘蛛網膜顆粒（arachnoid granules）上的帽細胞（cap cell） → (A) 錯誤<br>與放射治療、女性荷爾蒙、神經纖維瘤（neurofibromatosis）有關 |\n| **臨床表現** | 視力喪失、嗅覺喪失、單側手腳無力、頭痛、癲癇等 |\n| **影像特徵** | Meningioma 為腦實質外的腫瘤（軸外腫瘤，extra-axial tumor），典型特徵包含：dura-based（緊鄰在硬腦膜旁）、有 dura tail（導致顱骨反應）、有 CSF cleft（腫瘤與腦實質間有 CSF）、腫瘤輪廓平整、可見鈣化 |\n| **治療／預後** | 手術切除為治癒性的治療，針對惡性腦膜瘤可考慮術後放射線治療 → (D) 錯誤<br>Simpson grading scale 用來評估腫瘤切除後的完整度（與復發率相關） → (B) 正確 |\n\n| 評估工具 | 切除範圍與程度 | 10 年復發率 |\n| :--- | :--- | :--- |\n| **Grade 0** | 有留 2~3 cm 邊緣 | |\n| **Grade I** | 有將異常顱骨或硬腦膜取下 | 10 年復發率：9% |\n| **Grade II** | 有切除硬腦膜、移除靜脈竇血塊 | 10 年復發率：19% |\n| **Grade III** | 完整切除腫瘤本體 | 10 年復發率：29% |\n| **Grade IV** | 部份切除腫瘤 | 10 年復發率：44% |\n| **Grade V** | 僅減壓或 biopsy | 10 年復發率：100% |",
+    "explanation": "答案 (B)。\n\n**腦膜瘤**\n\n| 項目 | 內容 |\n| --- | --- |\n| 流行病學 | 約佔腦與脊髓腫瘤的 1/3，是最常見的原發性中樞神經腫瘤（過去認為多形性膠質母細胞瘤最多）；男女比約 1:2；約 10% 為多發性 → (C) 錯誤 |\n| 致病機轉 | 源於蜘蛛網膜顆粒上的帽細胞（cap cell）→ (A) 錯誤（不是從硬腦膜長出來，但 MRI 上確實以硬腦膜為基底）；與放射治療、女性荷爾蒙、神經纖維瘤病（NF2）有關 |\n| 臨床表現 | 視力喪失、嗅覺喪失、單側手腳無力、頭痛、癲癇等，依位置而定 |\n| 影像特徵 | 腦實質外的腫瘤（軸外腫瘤）；典型特徵：以硬腦膜為基底、硬腦膜尾徵象、鄰近顱骨增生反應、腫瘤與腦實質間有腦脊髓液裂隙、輪廓平整、可見鈣化 |\n| 治療與預後 | 手術切除為治癒性治療；惡性或無法完全切除的腦膜瘤可考慮術後放射治療（也可用立體定位放射手術）→ (D) 錯誤 |\n\nSimpson 分級用來評估腫瘤切除後的完整度（與復發率相關）→ (B) 正確：\n\n| 分級 | 切除範圍 | 10 年復發率 |\n| --- | --- | --- |\n| 0 | 腫瘤加上 2–3 公分的硬腦膜邊緣 | — |\n| I | 完整切除腫瘤，並把異常顱骨與附著的硬腦膜取下 | 約 9% |\n| II | 完整切除，附著的硬腦膜以電燒處理 | 約 19% |\n| III | 完整切除腫瘤本體，但未處理硬腦膜或顱骨 | 約 29% |\n| IV | 部分切除腫瘤 | 約 44% |\n| V | 僅減壓或切片 | 約 100% |\n\n**補充**：無症狀的小腦膜瘤可定期追蹤 MRI。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "神經外科",
+    "category": "神經外科"
   },
   {
     "id": "113-1-醫學(五)-9",
@@ -30225,12 +30225,12 @@
       "D": "necrosis"
     },
     "answer": "C",
-    "explanation": "膠質瘤（glioma）特指星狀細胞瘤（astrocytoma），根據組織學下的特徵分為 grade I~IV，與 high grade 相關的特徵包含：細胞數多（hypercellularity）、細胞核異型性高（nuclear atypia, = nuclear pleomorphism）、血管內增生（endovascular hyperplasia），另外，在 glioblastoma multiforme (GBM) 當中會出現細胞壞死（necrosis）的組織特徵，為 GBM 的診斷條件之一\n\n**其他考點：**\n1. 兒童 glioma 占兒童原發性腦瘤 10~20%：midbrain glioma 常以水腦表現、pontine glioma 常以多條腦神經麻痺表現，midbrain glioma 的存活率較好\n2. Glioma 較好發於男性（男女比 2 : 1），治療方式以切除為主\n\n| 膠質瘤（glioma）分級 | 特徵與預後 |\n| :--- | :--- |\n| **Grade I : pilocytic astrocytoma** | 多於 20 歲前診斷，男女發生率相同，存活中位數為 8~10 年，常侷限於下視丘、視神經、小腦，產生視乳突水腫（papilledema）、ataxia 的症狀，手術切除後可痊癒 |\n| **Grade II : diffuse astrocytoma** | 好發於兒童或年輕人，存活中位數為 5~8 年，細胞分化良性但臨床表現惡性，影像上少有鈣化 |\n| **Grade III : anaplastic astrocytoma** | 平均 46 歲診斷，存活中位數 2~3 年，分化不良為惡性細胞，組織學呈絲狀分裂（anaplasia and mitotic activity） |\n| **Grade IV : glioblastoma multiforme (GBM)** | 平均 56 歲診斷，存活中位數 <1~2 年，惡性，有微小血管增生或是壞死（microvascular proliferation and/or necrosis） |",
+    "explanation": "答案 (C)。\n\n膠質瘤（此處特指星狀細胞瘤）依組織學特徵分為 WHO grade I–IV。與高惡性度相關的特徵包括：細胞數多（hypercellularity）、細胞核異型性高（多形性）、有絲分裂活性、血管內皮增生；在多形性膠質母細胞瘤會出現細胞壞死（偽柵欄狀壞死），是 GBM 的診斷條件之一。鈣化不是分級依據。\n\n**膠質瘤分級**\n\n| 分級 | 特徵 |\n| --- | --- |\n| Grade I：毛狀星狀細胞瘤 | 多於 20 歲前診斷，存活中位數 8–10 年以上；常侷限於下視丘、視神經、小腦，產生視乳突水腫、運動失調；手術切除後可痊癒 |\n| Grade II：瀰漫性星狀細胞瘤 | 好發於兒童或年輕人，存活中位數約 5–8 年；細胞分化良好但臨床表現惡性，影像上少有鈣化 |\n| Grade III：間變性星狀細胞瘤 | 平均 46 歲診斷，存活中位數約 2–3 年；分化不良且有絲分裂活躍 |\n| Grade IV：多形性膠質母細胞瘤 | 平均 56 歲診斷，存活中位數約 1–2 年；有微血管增生或壞死 |\n\n**其他考點**\n- 兒童膠質瘤佔兒童原發性腦瘤約 10–20%：中腦膠質瘤常以水腦症表現；橋腦膠質瘤（瀰漫性內在橋腦膠質瘤）常以多條腦神經麻痺表現；中腦膠質瘤的存活率較好。\n- 膠質瘤較好發於男性（約 2:1），治療以切除為主。\n- 2021 年 WHO 新分類加入分子特徵：IDH 突變的星狀細胞瘤預後較好；IDH 野生型且有特定分子特徵者直接歸為 GBM；寡樹突膠質瘤需 IDH 突變加 1p/19q 共同缺失（常見鈣化）。\n- GBM 標準治療：最大安全切除後，同步放療加 temozolomide（MGMT 啟動子甲基化者效果較好）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "神經外科",
+    "category": "神經外科"
   },
   {
     "id": "113-1-醫學(五)-10",
@@ -30245,7 +30245,7 @@
       "D": "Glasgow Coma Scale 的分數與預後無關"
     },
     "answer": "C",
-    "explanation": "顱內動脈瘤（cerebral aneurysm）破裂的預後量表有很多，Hunt and Hess scale 透過臨床症狀分級，可用來預測存活率：\n\n| Hunt and Hess scale Grade | 臨床表徵 | 存活率 |\n| :--- | :--- | :--- |\n| **1** | 無症狀或輕微頭痛、輕微頸部僵硬 | 70% |\n| **2** | 中等至嚴重頭痛、頸部僵硬，可能有顱神經麻痺 | 60% |\n| **3** | 意識昏睡（drowsy），輕微神經學異常 | 50% |\n| **4** | 意識木僵（stupor），中等至嚴重半邊無力 | 20% |\n| **5** | 深度昏迷、垂死狀態（moribund） | 10% |\n\n(A) 錯誤，Hunt and Hess scale 無 0 分\n\nFisher grade 透過 brain CT 影像中蜘蛛網膜下腔出血（SAH）量分級 → (B) 錯誤，用來預測後續動脈攣縮（vasospasm）的發生率及嚴重度，現多以 modified Fisher grade 來分級：\n\n| Modified Fisher Grade | 影像特徵 | 動脈攣縮率 |\n| :--- | :--- | :--- |\n| **0** | 沒有 SAH 及 IVH | 0% |\n| **1** | 輕微的 SAH（寬度 <1mm），且沒有 IVH | 24% |\n| **2** | 輕微的 SAH（寬度 <1mm），但有 IVH | 33% |\n| **3** | 大量出血的 SAH（寬度 >1mm），且沒有 IVH | 33% |\n| **4** | 大量出血的 SAH（寬度 >1mm），但有 IVH | 40% |\n\nWorld Federation of Neurological Surgeons (WFNS) 透過 GCS 以及是否有肌力異常分級，預測死亡率：\n\n| WFNS Grade | GCS score 及是否有 motor deficit | 死亡率 |\n| :--- | :--- | :--- |\n| **1** | GCS=15，無肌力異常 | Grade 越低，死亡率越低<br>→ (C) 正確，(D) 錯誤 |\n| **2** | GCS=13~14，無肌力異常 | |\n| **3** | GCS=13~14，有肌力異常 | |\n| **4** | GCS=7~12，不論有無肌力異常 | |\n| **5** | GCS=3~6，不論有無肌力異常 | |",
+    "explanation": "答案 (C)。\n\n顱內動脈瘤破裂的預後量表有很多。Hunt and Hess 量表依臨床症狀分級，可預測存活率：\n\n| 分級 | 臨床表徵 | 存活率 |\n| --- | --- | --- |\n| 1 | 無症狀或輕微頭痛、輕微頸部僵硬 | 約 70% |\n| 2 | 中等至嚴重頭痛、頸部僵硬，可能有腦神經麻痺 | 約 60% |\n| 3 | 意識昏睡、輕微神經學異常 | 約 50% |\n| 4 | 意識木僵、中等至嚴重半邊無力 | 約 20% |\n| 5 | 深度昏迷、垂死狀態 | 約 10% |\n\n(A) 錯誤，Hunt and Hess 量表沒有 0 分。\n(B) 錯誤。Fisher 分級是透過腦部「CT」上蜘蛛網膜下腔出血量來分級，預測後續動脈攣縮（血管痙攣）的發生率與嚴重度；現多以修正 Fisher 分級：\n\n| 分級 | 影像特徵 | 動脈攣縮率 |\n| --- | --- | --- |\n| 0 | 沒有 SAH 及腦室內出血（IVH） | 0% |\n| 1 | 輕微 SAH（寬度 < 1 mm），沒有 IVH | 約 24% |\n| 2 | 輕微 SAH，合併 IVH | 約 33% |\n| 3 | 大量 SAH（寬度 > 1 mm），沒有 IVH | 約 33% |\n| 4 | 大量 SAH，合併 IVH | 約 40% |\n\n世界神經外科醫師聯盟（WFNS）透過 GCS 以及是否有肌力異常分級，預測死亡率；分級越低（數字越小）預後越好 → (C) 正確：\n\n| 分級 | GCS 與運動缺損 |\n| --- | --- |\n| 1 | GCS 15，無肌力異常 |\n| 2 | GCS 13–14，無肌力異常 |\n| 3 | GCS 13–14，有肌力異常 |\n| 4 | GCS 7–12，不論有無肌力異常 |\n| 5 | GCS 3–6，不論有無肌力異常 |\n\n(D) 錯誤，GCS 與預後相關（WFNS 就是以 GCS 為主）。蜘蛛網膜下腔出血的處置見 113-2 醫學（六）第 72 題。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -30265,12 +30265,12 @@
       "D": "E 級，anterior cord syndrome"
     },
     "answer": "C",
-    "explanation": "Spinal cord injury (SCI) 根據受損位置，會出現不同的表現及症候群，題幹的敘述為肩膀以下感覺異常、上肢肌力受損較下肢嚴重，暗示脊髓的前柱及後柱皆有部分受損，且位置較靠近中央（在 lateral corticospinal tract 當中，上肢運動神經分布較靠近內側），應為 central cord syndrome\n\nASIA Impairment Scale (AIS) 根據脊損損傷的程度分為 A~E 級：\n\n| AIS 分級 | 定義與特徵 |\n| :--- | :--- |\n| **A : 完全損傷 (Complete)** | 感覺及運動功能完全喪失 |\n| **B : 感覺不完全損傷 (Sensory incomplete)** | 感覺功能有 sacral sparing（S4-S5 仍保有感覺功能） |\n| **C : 運動不完全損傷 (Motor incomplete)** | 運動功能有 sacral sparing，且受損神經位階（neurological level of injury, NLI）以下的肌肉力量，僅不到半數超過 3 分 |\n| **D : 運動不完全損傷 (Motor incomplete)** | NLI 以下的肌肉力量，至少半數（含剛好一半）超過 3 分 |\n| **E : 正常** | 感覺及運動功能正常（先前脊髓損傷的人恢復後才能評） |\n\n**感覺測試的分級：**\n• 0 = 完全無感覺\n• 1 = 感覺改變（減弱或增強）\n• 2 = 正常\n\n**肌肉力量測試的分級：**\n• 0 = 完全癱軟\n• 1 = 可見或可觸摸的收縮\n• 2 = 可部分抵抗重力\n• 3 = 可恰巧抵抗重力\n• 4 = 可抵抗重力加上中等程度的阻力\n• 5 = 正常\n\n肩膀以下有感覺異常，因此 NLI 應定位於頸椎 level，上肢 1~2 分、下肢 3~4 分，剛好有半數的肌肉力量超過 3 分，因此為 AIS D\n\n關於 incomplete SCI 的比較，建議考生參考神經內科【 113-2(四)53 】、復健科【 113-1(六)59 】",
+    "explanation": "答案 (C)。\n\n脊髓損傷依受傷位置會出現不同的表現與症候群。題幹的敘述為肩膀以下感覺異常、上肢肌力受損較下肢嚴重（原本有頸椎狹窄，車禍頸部過度伸展），暗示脊髓中央部位受損（外側皮質脊髓徑中，上肢運動神經分布較靠近內側），應為中央脊髓症候群。\n\n**ASIA 損傷分級（AIS）**\n\n| 分級 | 說明 |\n| --- | --- |\n| A：完全損傷 | 感覺及運動功能完全喪失（含 S4–S5） |\n| B：感覺不完全 | 感覺功能有薦部保留（S4–S5 仍有感覺），運動完全喪失 |\n| C：運動不完全 | 運動功能有薦部保留，且受損神經平面以下的肌肉，超過半數肌力 < 3 分 |\n| D：運動不完全 | 受損神經平面以下的肌肉，至少半數（含剛好一半）肌力 ≥ 3 分 |\n| E：正常 | 感覺及運動功能正常（先前曾有脊髓損傷的人恢復後才能評） |\n\n肩膀以下有感覺異常，所以神經平面應定位於頸椎；上肢肌力 1–2 分、下肢 3–4 分，剛好有半數肌肉力量 ≥ 3 分，所以為 AIS D。\n\n不完全脊髓損傷的比較見 113-2 醫學（四）第 53 題與 114-1 醫學（六）第 72 題。\n\n**補充**：中央脊髓症候群是最常見的不完全脊髓損傷，多見於有頸椎退化性狹窄的老年人跌倒後；常有手部灼熱感、膀胱功能障礙，下肢通常先恢復，手部精細動作恢復最差。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "急診外傷科",
-    "category": "急診外傷科"
+    "chapter": "神經外科",
+    "category": "神經外科"
   },
   {
     "id": "113-1-醫學(五)-12",
@@ -30285,7 +30285,7 @@
       "D": "腦實質出血 30 c.c."
     },
     "answer": "B",
-    "explanation": "腦壓升高與腦中血液堆積、CSF 過多、腦實質病變等機轉有關：\n\n| 腦壓升高成因 | 次分類 | 詳細機轉與病因 |\n| :--- | :--- | :--- |\n| **腦中血液堆積** | 動脈血流量增加 | 使用血管擴張劑 (vasodilator)、嚴重低血氧、酸血症、血中二氧化碳過高 (hypercapnia) |\n| **腦中血液堆積** | 靜脈回流受阻 | 頸靜脈回流受阻、呼吸道壓力上升 |\n| **CSF 過多** | 製造增加 | 脈絡叢乳突瘤 (choroid plexus papilloma) |\n| **CSF 過多** | 回收減少 | SAH、IVH、阻塞性水腦症 |\n| **腦實質病變** | 腦組織腫脹 | • 因感染、癌症等原因導致 BBB 受損形成 vasogenic edema<br>• 因外傷或缺血導致細胞壞死而形成 cytotoxic edema<br>• 因高血鈉等滲透壓異常形成 interstitial edema (BBB 正常) |\n| **腦實質病變** | 腫塊 | space-occupying lesions |\n| **其他** | | pseudotumor cerebri (idiopathic intracranial hypertension, IIH)<br>normal pressure hydrocephalus (NPH) |\n\n(B) 選項降低血中 CO2 為腦傷病人降低腦壓的策略之一，考生可搭配神經外科【 113-2(五)12 】一同複習減少腦壓的處置策略",
+    "explanation": "答案 (B)。\n\n腦壓升高與腦中血液堆積、腦脊髓液過多、腦實質病變等機轉有關：\n\n| 機轉 | 原因 |\n| --- | --- |\n| 腦中血液堆積：動脈血流量增加 | 使用血管擴張劑、嚴重低血氧、酸血症、血中二氧化碳過高 |\n| 腦中血液堆積：靜脈回流受阻 | 頸靜脈回流受阻、呼吸道壓力上升 |\n| 腦脊髓液過多：製造增加 | 脈絡叢乳突瘤 |\n| 腦脊髓液過多：回收減少 | 蜘蛛網膜下腔出血、腦室內出血、阻塞性水腦症 |\n| 腦實質病變：腦組織腫脹 | 感染、癌症造成血腦屏障受損（血管性水腫）；外傷或缺血導致細胞死亡（細胞毒性水腫）；低血鈉等滲透壓異常（間質性水腫，血腦屏障正常） |\n| 腦實質病變：腫塊 | 佔位性病灶（如腦實質出血） |\n| 其他 | 偽腦瘤（特發性顱內高壓）、常壓性水腦症 |\n\n(B) 降低血中 CO₂ 會使腦血管收縮、腦血流減少，是腦傷病人降低腦壓的策略之一，不會造成腦壓升高。\n\n降低腦壓的處置策略見 113-2 醫學（五）第 12 題。\n\n**補充**：過度換氣只作為暫時性救急（PaCO₂ 約 30–35 mmHg），長時間過低會造成腦缺血。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -30305,12 +30305,12 @@
       "D": "患者常合併智力障礙"
     },
     "answer": "C",
-    "explanation": "| 腦膨出（encephalocele） | 說明 |\n| :--- | :--- |\n| **名詞定義** | 腦實質組織及／或腦膜透過顱骨未閉合的裂縫或缺口（常為中線上的骨縫癒合不良向顱骨外膨出（若只有腦膜跑出顱骨外，則特別稱為 meningocele） → (A) 正確 |\n| **分型** | 根據膨出位置的不同，可以分成前腦膨出 (sincipital)、顱底膨出 (basal)、枕葉膨出 (occipital)、頂葉膨出 (parietal) |\n| **流行病學** | 每萬活產兒約 0.8~5 例，北美及西歐多為枕葉膨出、亞洲區域多為前葉膨出 → (B) 正確 |\n| **臨床表現** | 常合併膨出處腦發育不良，產生智能低下的狀況 → (D) 正確<br>前腦膨出會合併顱顏形狀異常；顱底膨出會合併呼吸道阻塞、反覆上呼吸道感染、腦膜炎；枕葉膨出會出現顱神經異常、新生兒吸吮力差、癲癇 |\n| **治療** | • 取決於不同膨出部位、膨出內容物、膨出腫塊大小等<br>• 多數可透過手術切除膨出處並縫補缺損處 → (C) 錯誤<br>• 前腦膨出常須合併做顱顏整形；顱底膨出為減少腦膜炎發生率，須合併做顱底重建修補，若膨出物含有腦組織，則須做顱骨擴張成型術 (expanding cranioplasty) 來容納膨出的腦組織 |",
+    "explanation": "答案 (C)。\n\n**腦膨出**\n\n| 項目 | 內容 |\n| --- | --- |\n| 定義 | 腦實質組織和（或）腦膜透過顱骨未閉合的裂縫或缺口（常為中線上的骨縫癒合不良），向顱骨外膨出（若只有腦膜跑出顱骨外，則特別稱為腦膜膨出）→ (A) 正確 |\n| 分型 | 依膨出位置分為：前腦膨出（額篩部）、顱底膨出、枕葉膨出、頂葉膨出 |\n| 流行病學 | 每萬活產兒約 0.8–5 例；北美及西歐多為枕葉膨出，亞洲地區多為前腦膨出 → (B) 顱底膨出較少見，正確 |\n| 臨床表現 | 常合併膨出處腦發育不良，產生智能低下 → (D) 正確；前腦膨出會合併顱顏形狀異常；顱底膨出會合併呼吸道阻塞、反覆上呼吸道感染、腦膜炎；枕葉膨出會出現顱神經異常、新生兒吸吮力差、癲癇 |\n| 治療 | 取決於不同膨出部位、膨出內容物、膨出腫塊大小等；多數可透過手術切除膨出處並縫補缺損處 → (C) 錯誤（不一定需要顱骨整型、也不一定把膨出的腦組織放回去，膨出的多為發育不良、無功能的腦組織，常直接切除）；前腦膨出常須合併做顱顏整形；顱底膨出為減少腦膜炎發生率，須合併做顱底重建修補；若膨出物含有腦組織且需保留，則須做顱骨擴張成型術來容納 |\n\n**補充**：腦膨出屬神經管缺損，懷孕前補充葉酸可降低風險；常合併 Meckel-Gruber 症候群（枕葉腦膨出、多囊腎、多指）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "神經外科",
+    "category": "神經外科"
   },
   {
     "id": "113-1-醫學(五)-14",
@@ -30325,7 +30325,7 @@
       "D": "type V"
     },
     "answer": "D",
-    "explanation": "| Mathes-Nahai classification of muscular flaps | | |\n| :--- | :--- | :--- |\n| **Type** | **血管供應** | **舉例** |\n| **I** | 單一血管 | Gastrocnemius<br>Tensor fascia lata |\n| **II** | 主要血管加上小血管<br>（若只有小血管 Flap 無法存活） | Gracilis<br>Trapezius |\n| **III** | 兩條主要血管 | Rectus abdominis<br>Gluteus maximus<br>Serratus anterior |\n| **IV** | 多段血管 | Sartorius<br>Tibialis anterior |\n| **V** | 主要血管加上次要血管<br>（只有次要血管 Flap 也能存活） | Pectoralis major<br>Latissimus dorsi |",
+    "explanation": "答案 (D)。\n\n**肌肉皮瓣的 Mathes-Nahai 分類**\n\n| 分型 | 血管供應 | 舉例 |\n| --- | --- | --- |\n| I | 單一血管 | 腓腸肌、闊筋膜張肌 |\n| II | 主要血管加上小血管（若只有小血管，皮瓣無法存活） | 股薄肌、斜方肌 |\n| III | 兩條主要血管 | 腹直肌、臀大肌、前鋸肌 |\n| IV | 多段血管 | 縫匠肌、脛前肌 |\n| V | 主要血管加上次要節段血管（只有次要血管，皮瓣也能存活） | 胸大肌、闊背肌 |\n\n闊背肌的主要血管是胸背動脈，次要血管是肋間與腰動脈的穿通枝，屬第 V 型。\n\n**補充**：第 IV 型（多段小血管）的肌肉，轉位時能移動的範圍最小、最不可靠。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -30345,12 +30345,12 @@
       "D": "5"
     },
     "answer": "B",
-    "explanation": "Gilula's arcs 的三條線為近側腕骨（舟、月、三角、豆）的近端邊緣連線、近側腕骨的遠端邊緣連線，以及遠側腕骨（大、小、頭、鉤）的近端邊緣連線，若非平滑弧線代表可能有韌帶受傷或骨頭脫位\n\n（礙於版權無法放圖，可參考 Schwartz's Principles of Surgery 第 11 版 p1932 的 Figure 44-8）",
+    "explanation": "答案 (B)。\n\nGilula 弧線共有三條，在手腕正面 X 光上描繪：\n1. 近側列腕骨（舟狀骨、月狀骨、三角骨）的近端邊緣連線。\n2. 近側列腕骨的遠端邊緣連線。\n3. 遠側列腕骨（頭狀骨、鉤狀骨）的近端邊緣連線。\n\n三條弧線應平滑、平行；若有中斷或台階，代表可能有腕骨韌帶受傷或骨頭脫位（如月狀骨或月狀骨周圍脫位）。\n\n**補充**：舟月韌帶斷裂時，正面 X 光可見舟狀骨與月狀骨間隙 > 3 mm（Terry Thomas 徵象）；舟狀骨骨折容易造成近端缺血性壞死與不癒合，鼻煙壺壓痛時即使 X 光正常也要固定。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "整形外科",
+    "category": "整形外科"
   },
   {
     "id": "113-1-醫學(五)-16",
@@ -30365,12 +30365,12 @@
       "D": "第四型（class IV）"
     },
     "answer": "A",
-    "explanation": "• Angle classification 用以描述上排牙齒 (Maxillary teeth) 與下排牙齒 (Mandibular teeth) 之間的關係，共分成三型\n• Class I：咬合正常（上下顎第一大臼齒咬合在正常位置）\n• Class II：上顎前移（暴牙）\n• Class III：上顎後縮（戽斗）\n\n由此可知咬合不正矯正後盡量以 Class I (咬合正常) 為佳",
+    "explanation": "答案 (A)。\n\nAngle 分類用來描述上排牙齒與下排牙齒之間的咬合關係，以上顎第一大臼齒的近心頰側齒尖對應下顎第一大臼齒的頰側溝為準：\n- Class I：咬合正常（上下顎第一大臼齒咬合在正常位置）。\n- Class II：上顎相對前移（暴牙、下顎後縮）。\n- Class III：上顎相對後縮（戽斗、下顎前突）。\n\n所以咬合不正矯正後，盡量以 Class I（咬合正常）為佳。\n\n**補充**：正顎手術常見術式為上顎 Le Fort I 骨切開術與下顎矢狀劈開術（BSSO），後者要注意下齒槽神經損傷造成下唇麻木。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "整形外科",
+    "category": "整形外科"
   },
   {
     "id": "113-1-醫學(五)-17",
@@ -30385,7 +30385,7 @@
       "D": "鎖骨上皮瓣（supraclavicular flap）由鎖骨上動脈（supraclavicular artery）供應，可應用於臉部或頸部外側，需要做為較薄的皮瓣時使用"
     },
     "answer": "B",
-    "explanation": "此為來自教科書的段落的題目，提到的三種皮瓣皆屬於 Regional flaps，於頭頸部重建時常會使用到\n\n| Regional flaps | 供應血管 | 常見用途 |\n| :--- | :--- | :--- |\n| **Pectoralis major myocutaneous flap** | Thoracoacromial artery | • Total laryngectomy 後的下咽部重建首選<br>• 大血管暴露時的補救重建方式 |\n| **Submental flap** | Submental artery（來自 Facial artery） | • 口腔內部重建<br>• Parotid、temporal bone 重建 |\n| **Supraclavicular flap** | Supraclavicular artery（來自 Transverse cervical artery） | 臉部、頸部外側重建（需要較薄的皮瓣） |\n\n另外教科書上也列出了許多頭頸部重建可能使用的 Free flaps，一併整理於此供參考：\n\n| Free flaps | 供應血管 | 常見用途 |\n| :--- | :--- | :--- |\n| **Radial forearm** | Radial artery | Partial and hemiglossectomy、口底、臉頰重建 |\n| **Anterolateral thigh** | Descending branch of lateral femoral circumflex artery | Extended hemiglossectomy、Total glossectomy、下咽、頸部／臉部外側皮膚重建 |\n| **Lateral arm** | Posterior radial collateral artery | Parotid、Temporal bone、頸部／臉部外側皮膚重建 |\n| **Rectus** | Deep inferior epigastric artery | Total glossectomy、顱底重建 |\n| **Latissimus dorsi** | Thoracodorsal artery | 廣泛的頭皮及顱底重建 |\n| **Fibula osseocutaneous** | Fibular artery | 部分下頜及上頜骨重建 |\n| **Scapula osseocutaneous** | Circumflex scapular artery | 部分下頜及上頜骨重建 |\n| **Radial forearm osseocutaneous** | Radial artery | 部分下頜骨重建、眼眶重建 |\n| **Iliac crest** | Deep circumflex iliac artery | 部分下頜骨重建 |\n\n參考資料：Schwartz's Principles of Surgery 11th edition p651 Table 18-6",
+    "explanation": "答案 (B)。\n\n本題來自教科書段落，提到的三種皮瓣都屬於頭頸部重建常用的區域皮瓣：\n\n| 區域皮瓣 | 供應血管 | 常見用途 |\n| --- | --- | --- |\n| 胸大肌肌皮瓣 | 胸肩峰動脈 | 全喉切除後的下咽部重建首選之一；大血管暴露時的補救重建 |\n| 頦下皮瓣 | 頦下動脈（顏面動脈的分支） | 口腔內部重建；耳下腺、顳骨重建 |\n| 鎖骨上皮瓣 | 鎖骨上動脈（來自頸橫動脈） | 臉部、頸部外側重建（需要較薄的皮瓣時） |\n\n(B) 錯誤，胸大肌肌皮瓣由胸肩峰動脈供應，不是內乳動脈（內乳動脈供應的是胸三角皮瓣，deltopectoral flap）。\n\n**頭頸部重建常用的游離皮瓣**\n\n| 游離皮瓣 | 供應血管 | 常見用途 |\n| --- | --- | --- |\n| 前臂橈側 | 橈動脈 | 部分或半舌切除、口底、臉頰重建 |\n| 前外側大腿（ALT） | 旋股外側動脈降支 | 擴大半舌或全舌切除、下咽、頸部或臉部外側皮膚 |\n| 上臂外側 | 後橈側副動脈 | 耳下腺、顳骨、頸部或臉部外側 |\n| 腹直肌 | 腹壁下深動脈 | 全舌切除、顱底 |\n| 闊背肌 | 胸背動脈 | 廣泛的頭皮及顱底 |\n| 腓骨 | 腓動脈 | 部分下頷及上頷骨重建 |\n| 肩胛骨 | 旋肩胛動脈 | 部分下頷及上頷骨 |\n| 前臂橈側骨皮瓣 | 橈動脈 | 部分下頷骨、眼眶 |\n| 髂骨 | 旋髂深動脈 | 部分下頷骨 |\n\n其他皮瓣血管整理也可見 114-2 醫學（六）第 27 題。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -30405,7 +30405,7 @@
       "D": "義乳乳房重建（implant-based reconstruction）導致的巨大細胞淋巴瘤（BIA-ALCL）西方人比東方人少見"
     },
     "answer": "B",
-    "explanation": "(A) 錯誤，目前最常使用的乳房重建方式是義乳乳房重建，根據 American Society of Plastic Surgeons (ASPS) 2023 年統計，施做乳房重建的 157740 人中，有 85970 人 (54.5%) 選擇使用組織擴張器後再植入義乳，36557 人 (23.1%) 選擇直接植入義乳，選擇使用 DIEP flap 者有 20703 人 (13.1%)，而 Transverse rectus abdominis myocutaneous (TRAM) flap 者則有 3453 人（Pedicle TRAM 1109 人，Free TRAM 2344 人）\n\n(B) 正確，義乳乳房重建的併發症包含血腫、傷口癒合不良、義乳移位、義乳破裂、莢膜攣縮、皮膚壞死、感染、血清腫 (seroma)、義乳外露等，增加併發症風險的狀況有：施做放射治療（術前或術後皆會增加）、肥胖、胸部較大、抽菸，另外，在近幾年發現表面粗糙的義乳 (Surface texture implants) 雖然可以減少莢膜攣縮，但可能導致慢性發炎而引起 Breast implant-associated anaplastic large cell lymphoma (BIA-ALCL)\n\n(C) 錯誤，Free flaps 受區血管首選為 Internal mammary artery (Internal thoracic artery)，理由包含血管管徑較粗、血流充足、相對不會被放射治療影響等\n\n(D) 錯誤，西方人（如美國、澳洲、英國、法國等）比較常見\n\n參考資料：\n• American Society of Plastic Surgeons: 2023 Plastic Surgery Statistics Report\n• Ionescu, P., Vibert, F., Amé, S., & Mathelin, C. (2021). New Data on the Epidemiology of Breast Implant-Associated Anaplastic Large Cell Lymphoma. European journal of breast health, 17(4), 302–307. https://doi.org/10.4274/ejbh.galenos.2021.2021-5-6",
+    "explanation": "答案 (B)。\n\n(A) 錯誤。目前最常使用的乳房重建方式是義乳（植入物）。依美國整形外科醫學會（ASPS）2023 年統計，施做乳房重建約 157,740 人中，約 54.5% 使用組織擴張器後再植入義乳，約 23.1% 直接植入義乳；使用 DIEP 皮瓣約 13.1%，TRAM 皮瓣約 2%。\n(B) 正確。義乳重建的併發症包括血腫、傷口癒合不良、義乳移位、義乳破裂、莢膜攣縮、皮膚壞死、感染、血清腫、義乳外露等。增加併發症的狀況有：放射治療（術前或術後都會增加）、肥胖、胸部較大、抽菸。另外，近年發現表面粗糙的義乳雖然可以減少莢膜攣縮，但可能導致慢性發炎而引起義乳相關間變性大細胞淋巴瘤（BIA-ALCL）。\n(C) 錯誤。游離皮瓣的受區血管首選內乳動脈（胸內動脈），理由包括管徑較粗、血流充足、相對不會被腋下廓清或放射治療影響。\n(D) 錯誤，BIA-ALCL 以西方人（美國、澳洲、英國、法國等）比較常見。\n\n**補充**：BIA-ALCL 典型表現為植入後多年（平均 8–10 年）出現單側遲發性血清腫；抽液送 CD30 染色診斷，治療為移除義乳並完整切除莢膜。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -36667,7 +36667,7 @@
       "D": "肺癌"
     },
     "answer": "D",
-    "explanation": "當發現腦部的腫塊病灶時，首要排查的是其他器官的腫瘤轉移。根據 Harrison 21/e table 90-3，最常見的原發腫瘤來源依序為：lung cancer (41%) > breast cancer (19%) > melanoma (10%) > gastrointestinal tract cancer (7%) > sarcoma (7%)。",
+    "explanation": "答案 (D)。\n\n當發現腦部腫塊時，首要排查的是其他器官的腫瘤轉移（成人最常見的腦瘤是轉移性腫瘤）。依 Harrison 內科學，最常見的原發腫瘤來源依序為：肺癌（約 41%）> 乳癌（約 19%）> 黑色素瘤（約 10%）> 腸胃道癌（約 7%）> 肉瘤（約 7%）。\n\n腦轉移的影像特徵與治療見 113-1 醫學（三）第 36 題、113-2 醫學（四）第 74 題。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -36687,12 +36687,12 @@
       "D": "medulloblastoma"
     },
     "answer": "D",
-    "explanation": "小孩最常見的幾個腦瘤為 pilocytic astrocytoma (grade I 的 astrocytoma)、medulloblastoma、germ cell tumor (GCT，以 germinoma 最多)。\n(A) 松果體腫瘤 (pineal gland tumor) 除了 GCT 之外（為大腦及松果區最常見的腫瘤），還包含分化好且生長慢的 pineocytoma，及分化差且高度惡性的 pineoblastoma。pineocytoma 發作年齡橫跨 10~60 歲；而 pineoblastoma 則好發於 5 歲以下、GCT 好發於 10~12 歲。\n(B) 少見的 CNS 腫瘤，惡性度低 (WHO grade II)，最常出現在側腦室。好發年齡在 20~40 歲之間。\n(C) 也是少見的 CNS 腫瘤，惡性度低 (WHO grade I)，最常出現在顳葉，與反覆性癲癇有關 (long-term epilepsy-associated tumors, LEATs)，平均診斷年紀為 20 歲。\n(D) 為孩童最常見的惡性腦瘤，最常出現在第四腦室（也是小腦天幕以下最常見），較好發於男童，平均診斷年紀為 3~7 歲。與 Turcot syndrome 有關（家族性大腸腫瘤的其中一種分型，APC gene 突變）。",
+    "explanation": "答案 (D)。\n\n小孩最常見的幾個腦腫瘤為毛狀星狀細胞瘤（grade I）、髓母細胞瘤、生殖細胞瘤（以胚胎瘤 germinoma 最多）。\n\n(A) 松果體腫瘤除了生殖細胞瘤（大腦及松果區最常見的腫瘤）之外，還包含分化好且生長慢的松果體細胞瘤，以及分化差且高度惡性的松果體母細胞瘤。松果體細胞瘤的發病年齡橫跨約 10–60 歲；松果體母細胞瘤好發於 5 歲以下；生殖細胞瘤好發於約 10–12 歲。\n(B) 中樞神經細胞瘤：少見的中樞神經腫瘤，惡性度低（WHO grade II），最常出現在側腦室，好發年齡約 20–40 歲。\n(C) 神經節膠質瘤：也是少見的中樞神經腫瘤，惡性度低（WHO grade I），最常出現在顳葉，與反覆性癲癇有關（長期癲癇相關腫瘤），平均診斷年紀約 20 歲。\n(D) 髓母細胞瘤：孩童最常見的惡性腦腫瘤，最常出現在第四腦室（小腦蚓部，小腦天幕以下最常見），較好發於男童，平均診斷年紀約 3–7 歲；與 Turcot 症候群（家族性大腸腺瘤症的其中一種分型，APC 基因突變）有關。所以好發年齡最小。\n\n**補充**：髓母細胞瘤可經腦脊髓液轉移（drop metastasis），治療為手術加全腦脊髓放療與化療；WNT 分子亞型預後最好。兒童腦瘤多位於天幕下（後顱窩），成人多位於天幕上。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "神經外科",
+    "category": "神經外科"
   },
   {
     "id": "113-2-醫學(五)-10",
@@ -36707,7 +36707,7 @@
       "D": "可能產生的症狀包含癲癇"
     },
     "answer": "D",
-    "explanation": "此題陷阱滿滿！選項中混雜著 arterio-venous malformation(AVM) 的敘述：\n(A) 錯誤，此為 AVM 的特徵。由於 cerebral cavernous malformation (CCM) 的動靜脈皆小，血管攝影不會顯影。（相較之下 AVM 則是動靜脈皆大條）。\n(B) 錯誤，這也是 AVM 的相關敘述。Spetzler-Martin grading system 根據病灶在 angiography 中顯影的大小、所在位置周圍的腦區是否有功能 (eloquent adjacent brain)、引流的靜脈為淺層或深層，預測手術後的死亡率。\n(C) 錯誤，通常血流量少，出血破裂的情形較緩和而不致命。\n(D) 正確，CCM 可能出現的症狀為癲癇、神經學障礙、出血。\n\n以下比較 AVM 及 CCM：\n\n| 項目 | AVM | CCM |\n| :--- | :--- | :--- |\n| **流行病學** | 盛行率 0.1%，好發於 15~20 歲。10% 在小腦天幕以下、10% 為多發性。 | 盛行率遠低於 AVM，好發於 30~40 歲。80% 在小腦、20% 與家族遺傳相關。 |\n| **症狀** | 小型 AVM 壓力大容易出血、大型 AVM 影響皮質容易癲癇、盜血效應 (AVM steal 周圍的腦組織血流）、失智、頭痛。 | • 出血後次發性癲癇、神經學障礙。<br>• 每年出血的風險為 0.2~1%。 |\n| **影像工具** | CT angiography，可透過病灶的特徵預測手術後死亡率 (Spetzler-Martin 分級）。 | MRI 診斷價值最高，T2WI 出現 popcorn appearance，為不同時期出血的特徵。 |\n| **處置** | 手術切除（根除但侵入性高）、立體定位放射治療手術 (SRS，用於 <3cm 的 AVM)、栓塞（縮小 AVM 後再做 SRS）。 | 有症狀才處置，手術為主，病灶不能以手術到達處才考慮做 SRS。 |",
+    "explanation": "答案 (D)。\n\n此題陷阱滿滿！選項中混雜著動靜脈畸形（AVM）的敘述：\n(A) 錯誤，這是 AVM 的特徵。海綿狀血管畸形（CCM）的動靜脈管徑小、血流慢，血管攝影不會顯影（屬於血管攝影隱匿性病灶）；相較之下 AVM 的動靜脈皆較大條。\n(B) 錯誤，這也是 AVM 的相關敘述。Spetzler-Martin 分級依病灶的大小、所在位置周圍的腦區是否有功能（功能區）、引流靜脈為淺層或深層，預測手術後的併發症與死亡率。\n(C) 錯誤，CCM 通常血流量少，出血破裂的情形較緩和而不致命。\n(D) 正確，CCM 可能出現的症狀為癲癇、神經學障礙、出血。\n\n**AVM vs. CCM**\n\n| 項目 | AVM | CCM |\n| --- | --- | --- |\n| 流行病學 | 盛行率約 0.1%，好發於 15–20 歲；約 10% 在小腦天幕以下、約 10% 為多發性 | 盛行率遠低於 AVM（書中說法），好發於 30–40 歲；約 80% 在大腦、20% 在小腦；與家族遺傳相關（CCM1/2/3 基因，多發性） |\n| 症狀 | 小型 AVM 壓力大容易出血；大型 AVM 影響皮質容易癲癇、盜血效應（周圍腦組織缺血）、失智、頭痛 | 出血後次發性癲癇、神經學障礙；每年出血風險約 0.2–1% |\n| 影像 | CT 血管攝影；透過病灶特徵預測手術後死亡率（Spetzler-Martin 分級） | MRI 診斷價值最高：T2 呈爆米花狀，周圍有含鐵血黃素低訊號環；SWI 最敏感 |\n| 處置 | 手術切除（根除但侵入性高）、立體定位放射手術（用於 < 3 公分的 AVM）、栓塞（縮小 AVM 後再做 SRS） | 有症狀才處置，以手術為主；病灶不能以手術到達時才考慮 SRS |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -36727,7 +36727,7 @@
       "D": "若有病變，knee jerk reflex會減少"
     },
     "answer": "C",
-    "explanation": "(A) 錯誤，L5 root 應沿著 L5 pedicle 下方、從 L5-S1 椎間盤之前的神經孔鑽出。回憶椎間盤突出所影響到的神經，若為 L5-S1 椎間盤突出，由於 L5 在上方的 pedicle 已經鑽出，因此所影響到的神經為 S1（記法：出上 (L5) 壓下 (S1)。\n(B) 此選項可議，根據 Netter 7/e Plate 171 及多數教科書，L5 的感覺分布從大腿後外側，到膝蓋外側、小腿前側，延伸至第一到三腳趾、腳背的大部分，及一小部分的後踝 (posterior malleolus)，而根據 Clinical Neurology and Neuroanatomy 2/e Ch.17，L5 的感覺分布並不包含足踝。筆者猜測出題者可能認為足踝的範圍僅限於內踝 (medial malleolus)、外踝…？\n(C) 正確，L5 主要支配的肌肉為前脛肌 (tibialis anterior)，影響足踝的 dorsiflexion、大姆趾的 extension。\n(D) 錯誤，knee jerk reflex 所對應的神經應為 L3/4(femoral nerve 所支配的 quadriceps femoris muscle)。而 S1/S2 病變所影響到的則是 ankle jerk reflex (tibial nerve 支配的 gastrocnemius muscle、soleus muscle 等）。",
+    "explanation": "答案 (C)。\n\n(A) 錯誤。L5 神經根應沿著 L5 椎莖下方、從 L5–S1 椎間孔鑽出。回憶椎間盤突出所影響的神經：若為 L5–S1 椎間盤（後外側）突出，由於 L5 在上方已經從椎間孔鑽出，所以影響到的神經是 S1（記法：出上（L5）、壓下（S1））。\n(B) 此選項可議。依 Netter 解剖圖譜與多數教科書，L5 的感覺分布從大腿後外側、到膝蓋外側、小腿前外側，延伸至第一到三腳趾、腳背的大部分以及一小部分的後踝；而依另一本神經解剖教科書，L5 的感覺分布並不包含足踝。書中作者猜測出題者可能認為足踝的範圍僅限於內踝、外踝。\n(C) 正確，L5 主要支配的肌肉為脛前肌（影響足踝背屈）與伸拇長肌（大拇趾伸展），病變會有垂足。\n(D) 錯誤，膝反射對應的神經應為 L3–L4（股神經支配的股四頭肌）；S1–S2 病變影響的是踝反射（脛神經支配的腓腸肌、比目魚肌）。\n\n**腰薦神經根病變整理**\n\n| 神經根 | 感覺 | 無力 | 反射 |\n| --- | --- | --- | --- |\n| L4 | 小腿內側 | 股四頭肌（伸膝）、脛前肌 | 膝反射 |\n| L5 | 小腿外側、腳背、大拇趾 | 伸拇長肌、足背屈、髖外展（臀中肌） | 無標準反射（內側膕旁肌） |\n| S1 | 足底、足外側、小趾 | 足蹠屈（無法用腳尖走路）、臀大肌 | 踝反射 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -36747,7 +36747,7 @@
       "D": "維持收縮壓在100 mmHg 以上"
     },
     "answer": "C",
-    "explanation": "(A) 正確，traumatic brain injury (TBI) 的病人，預防性投與抗癲癇藥物的適應症包含：CT 上看到皮質挫傷 (contusion) 的證據、SDH、EDH、ICH、顱骨凹陷性骨折、穿刺性傷口、受傷 24 小時內發生癲癇、GCS <11 分。\n(B) 正確，頭部外傷患者減少腦壓的策略包含：床頭搖高至 30~45 度、控制血壓維持 CPP >60mmHg、避免發燒、適當過度換氣以維持血中 CO2 濃度在 35~40 mmHg、避免給予低張溶液（如：D5W、half saline），可考慮給 hypertonic saline、給 osmotic diuretics(如：mannitol、glycerol)、輕度 sedation 以維持 RASS score 在 0 到 -2 分之間。\n(C) 錯誤，TBI 病人須手術的適應症有：\n\n| 病灶類型 | 適應症條件 |\n| :--- | :--- |\n| **EDH 且** | 有神經學症狀或瞳孔放大、GCS < 9、出現 IICP sign、血塊 > 30 mL、血塊厚 > 15 mm、中線偏移 (midline shift)>5 mm。 |\n| **SDH 且** | 瞳孔放大、臨床表現或意識急遽惡化、GCS 掉 2 分以上、出現 IICP sign、血塊厚度 > 10 mm、中線偏移 > 5 mm、水腦症。 |\n| **ICH 且** | 大腦出血合併臨床症狀惡化或水腦、小腦血塊 > 3 cm 或合併症狀惡化／腦幹壓迫／水腦。 |\n| **顱骨凹陷** | 合併額竇受損、外觀明顯變形 (cosmetic deformity)、感染或污染性傷口、氣腦 (pneumocephalus)。 |\n| **其他** | 穿刺腦傷（預防 CSF leak）、反覆性顱內高壓。 |\n\n(D) 正確，收縮壓維持在 100 mmHg 以上、大腦灌流壓 (cerebral perfusion pressure, CPP) 應維持在 60~70 mmHg 以上。(CPP=SBP-ICP)。",
+    "explanation": "答案 (C)。\n\n(A) 正確。創傷性腦損傷病人預防性投與抗癲癇藥物的適應症包含：CT 上看到皮質挫傷、硬腦膜下出血、硬腦膜上出血、腦內出血、顱骨凹陷性骨折、穿刺性傷口、受傷 24 小時內發生癲癇、GCS < 11 分（通常使用 7 天）。\n(B) 正確。頭部外傷病人減少腦壓的策略包含：床頭搖高至 30–45 度；控制血壓維持腦灌流壓 > 60 mmHg；避免發燒；適當過度換氣以維持血中 CO₂ 在 35–40 mmHg（嚴重腦壓高、急救時才短暫降低）；避免給予低張溶液（如 D5W、half saline）；可考慮給高張鹽水、滲透性利尿劑（mannitol、glycerol）；輕度鎮靜以維持 RASS 在 0 到 −2 之間。\n(C) 錯誤。本題病人 GCS 13、額葉腦出血僅 10 mL，未達手術適應症。創傷性腦損傷須手術的適應症：\n\n| 病灶 | 適應症 |\n| --- | --- |\n| 硬腦膜上出血 | 有神經學症狀或瞳孔放大、GCS < 9、出現顱內壓上升徵象、血塊 > 30 mL、血塊厚 > 15 mm、中線偏移 > 5 mm |\n| 硬腦膜下出血 | 瞳孔放大、臨床表現或意識急速惡化、GCS 掉 2 分以上、出現顱內壓上升徵象、血塊厚度 > 10 mm、中線偏移 > 5 mm、水腦症 |\n| 腦內出血 | 大腦出血合併臨床症狀惡化或水腦、小腦血塊 > 3 公分或合併症狀惡化、腦幹壓迫、水腦症 |\n| 顱骨凹陷 | 合併額竇受損、外觀明顯變形、感染或污染性傷口、氣腦 |\n| 其他 | 穿刺腦傷（預防腦脊髓液滲漏）、反覆性顱內高壓 |\n\n(D) 正確。收縮壓維持在 100 mmHg 以上，腦灌流壓（CPP = 平均動脈壓 − 顱內壓）應維持在 60–70 mmHg 以上；腦傷病人一次低血壓或低血氧就會明顯增加死亡率。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -36767,7 +36767,7 @@
       "D": "常合併水腦症"
     },
     "answer": "C",
-    "explanation": "• 顱縫早閉 (craniosynostosis) 為顱骨發育完全之前，顱縫 (cranial suture) 過早關閉，頭型因此出現變形。約每 2000 位活產兒出現 1 例，男女比為 3：1。可能與基因有關但成因仍不明。\n• 其中 50% 為矢狀縫線 (sagittal suture) 過早關閉，導致顱骨的側向生長異常，形成舟形頭 (scaphocephaly)，或稱為長形頭 (dolichocephaly)。➔(A) 錯誤。\n• 舟形頭與其他顱縫早閉的分型不同的是，其智商與正常人無異，且幾乎不合併水腦症。➔(D) 錯誤。\n• 關於外觀部分，由於顱骨往縱向生長較橫向發達，導致額骨及枕骨突出，相對地出現眼窩凹陷 (depressed eye socket)、上頷骨退縮 (maxillary retrusion)，但上頷骨的發育仍正常。➔(B) 錯誤、(C) 正確。",
+    "explanation": "答案 (C)。\n\n顱縫早閉是顱骨發育完全之前，顱縫過早關閉，頭型因此出現變形。約每 2,000 位活產兒出現 1 例，男女比約 3:1，可能與基因有關但成因仍不明。\n\n- 約 50% 為矢狀縫過早關閉，導致顱骨的側向生長異常（只能前後長），形成舟形頭，或稱長形頭 → (A) 錯誤（冠狀縫早閉造成的是短頭或斜頭）。\n- 舟形頭與其他顱縫早閉的分型不同的是，其智商與正常人無異，且幾乎不合併水腦症 → (D) 錯誤。\n- 外觀方面，由於顱骨往縱向生長較橫向發達，導致額骨及枕骨突出，相對地出現眼窩凹陷、上頷骨退縮，但上頷骨的發育仍正常 → (B) 錯誤（眼球突出見於冠狀縫或多顱縫早閉的症候群如 Crouzon、Apert）、(C) 正確。\n\n**補充：顱縫早閉的頭型**\n\n| 早閉顱縫 | 頭型 |\n| --- | --- |\n| 矢狀縫 | 舟形頭（最常見） |\n| 單側冠狀縫 | 前斜頭 |\n| 雙側冠狀縫 | 短頭（常見於 Crouzon、Apert 症候群） |\n| 額縫 | 三角頭 |\n| 人字縫 | 後斜頭（少見，要與姿勢性扁頭區分） |\n\n手術多在 1 歲內進行，以預防顱內壓上升並改善外觀。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -36787,12 +36787,12 @@
       "D": "gamekeeper deformity"
     },
     "answer": "A",
-    "explanation": "| 名稱 | 說明 |\n| :--- | :--- |\n| **Mallet finger** | Distal interphalangeal joint (DIP) 無法伸展 (Extension)，通常由 Extensor tendon 斷裂導致，若不治療會進展成 Swan neck deformity。 |\n| **Swan neck deformity** | Proximal interphalangeal joint (PIP) hyperextension，DIP flexion。類風濕性關節炎的患者常見。 |\n| **Boutonnière deformity** | PIP flexion，DIP hyperextension。PIP 的 Central slip 受傷導致，類風濕性關節炎的患者亦可見。 |\n| **Gamekeeper thumb** | 大拇指 Metacarpophalangeal joint (MCP) 的 Ulnar collateral ligament 斷裂，導致大拇指外展時關節不穩定。 |\n\n此題有申覆 (B) 選項但沒有過，筆者也不太理解為何沒有給分。",
+    "explanation": "答案 (A)。\n\n| 名稱 | 說明 |\n| --- | --- |\n| 槌狀指（mallet finger） | 遠端指間關節（DIP）無法伸直，通常由伸肌腱末端斷裂（或撕裂性骨折）導致；若不治療會進展成鵝頸變形 |\n| 鵝頸變形 | 近端指間關節（PIP）過度伸展、DIP 屈曲；類風濕性關節炎病人常見 |\n| 鈕扣變形（boutonnière） | PIP 屈曲、DIP 過度伸展；伸肌腱中央束受傷導致，類風濕性關節炎病人亦可見 |\n| 獵場看守人拇指（gamekeeper's thumb） | 大拇指掌指關節的尺側副韌帶斷裂，導致大拇指外展時關節不穩定（急性者稱滑雪者拇指） |\n\n此題有申覆 (B) 但沒有通過，書中作者也不太理解為何沒有給分。\n\n**補充**：槌狀指多以伸直支架固定 DIP 6–8 週（PIP 保持可動），骨折片超過關節面 1/3 或合併半脫位才考慮手術。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "整形外科",
+    "category": "整形外科"
   },
   {
     "id": "113-2-醫學(五)-15",
@@ -36807,7 +36807,7 @@
       "D": "第D類"
     },
     "answer": "B",
-    "explanation": "以前都考 Muscular flap，這次突然考 Fasciocutaneous flap，人心險惡。\n\n| Type | 血管供應 | 舉例 |\n| :--- | :--- | :--- |\n| **A** | Direct cutaneous vessel（血管直接到皮膚） | Temporoparietal fascial flap |\n| **B** | Septocutaneous vessel（血管經過兩塊肌肉之間到皮膚） | Radial artery forearm flap |\n| **C** | Musculocutaneous vessel（血管穿過肌肉到皮膚） | Transverse rectus abdominis myocutaneous flap |\n\nNahai-Mathes classification of fasciocutaneous flaps 沒有 Type D。",
+    "explanation": "答案 (B)。\n\n以前都考肌肉皮瓣，這次突然考筋膜皮瓣。\n\n**筋膜皮瓣的 Mathes-Nahai 分類**\n\n| 分型 | 血管供應 | 舉例 |\n| --- | --- | --- |\n| A | 直接皮膚血管（血管直接到皮膚） | 顳頂筋膜皮瓣 |\n| B | 肌間隔皮膚血管（血管經過兩塊肌肉之間到皮膚） | 橈動脈前臂皮瓣 |\n| C | 肌皮血管（血管穿過肌肉到皮膚） | 橫向腹直肌肌皮瓣（TRAM） |\n\n筋膜皮瓣的分類沒有 Type D。肌肉皮瓣的分類見 113-1 醫學（五）第 14 題。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -36827,12 +36827,12 @@
       "D": "level III"
     },
     "answer": "A",
-    "explanation": "背誦題。由 anterior belly of the digastric muscle, hyoid bone, and midline 圍成的區域就是 level IA 的頸部淋巴結，也是舌癌的淋巴轉移熱區。建議可以上網搜尋圖片對照，把頸部的重要構造和淋巴結分區自己畫一次，增強記憶。",
+    "explanation": "答案 (A)。\n\n頸部淋巴結分區：\n\n| 分區 | 範圍 |\n| --- | --- |\n| IA（頦下） | 兩側二腹肌前腹與舌骨之間 |\n| IB（頷下） | 二腹肌前腹、後腹與下頷骨之間 |\n| IIA / IIB（上頸靜脈） | 顱底到舌骨，以副神經為界分前（A）、後（B） |\n| III（中頸靜脈） | 舌骨到環狀軟骨下緣 |\n| IV（下頸靜脈） | 環狀軟骨下緣到鎖骨 |\n| V（後三角） | 胸鎖乳突肌後緣、斜方肌前緣、鎖骨之間 |\n| VI（中央區） | 舌骨到胸骨上切跡、兩側頸動脈之間 |\n| VII | 胸骨上切跡以下到無名動脈（上縱膈腔） |\n\n題目描述位在同側二腹肌前腹、舌骨與中線之間，屬於頦下的 Level IA。\n\n**補充**：口腔癌（尤其舌癌）最常先轉移到 Level I–III；台灣口腔癌與抽菸、喝酒、嚼檳榔高度相關。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "section": "第四篇 其他科",
+    "chapter": "耳鼻喉科",
+    "category": "耳鼻喉科"
   },
   {
     "id": "113-2-醫學(五)-17",
@@ -36847,12 +36847,12 @@
       "D": "T3N2bM0"
     },
     "answer": "D",
-    "explanation": "一翻兩瞪眼，有背有分，只是考在醫學（五）實在是有點狠。\n病灶侵犯深度大於 11mm 為 T3，同側淋巴結有三顆，約 2cm 且無囊外淋巴結延伸為 N2b，無遠端轉移為 M0，故答案為 (D) T3N2bM0。",
+    "explanation": "答案 (D)。\n\n依 AJCC 第 8 版口腔癌分期：\n\n**T 分期（加入侵犯深度 DOI）**\n\n| T | 條件 |\n| --- | --- |\n| T1 | ≤ 2 公分且 DOI ≤ 5 mm |\n| T2 | ≤ 2 公分且 DOI 5–10 mm；或 2–4 公分且 DOI ≤ 10 mm |\n| T3 | > 4 公分；或任何大小且 DOI > 10 mm |\n| T4a | 侵犯骨皮質、上頷竇、臉部皮膚（口腔）；或 DOI > 20 mm（2018 年後修訂） |\n| T4b | 侵犯咀嚼肌間隙、翼板、顱底或包住內頸動脈 |\n\n本題腫瘤 3 公分、侵犯深度 11 mm（> 10 mm），為 T3。\n\n**N 分期（臨床，非 HPV 相關）**\n\n| N | 條件 |\n| --- | --- |\n| N1 | 同側單顆 ≤ 3 公分，無囊外延伸 |\n| N2a | 同側單顆 3–6 公分，無囊外延伸 |\n| N2b | 同側多顆，皆 ≤ 6 公分，無囊外延伸 |\n| N2c | 雙側或對側，皆 ≤ 6 公分，無囊外延伸 |\n| N3a | > 6 公分，無囊外延伸 |\n| N3b | 臨床上明顯的囊外延伸 |\n\n本題同側 3 顆、約 2 公分、無囊外延伸，為 N2b；沒有遠處轉移 M0。所以是 T3N2bM0。\n\n**補充**：病理分期中，囊外延伸的定義較寬（單顆 ≤ 3 公分合併 ENE 即為 pN2a）；術後有囊外延伸或切緣陽性者，建議同步化放療。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "section": "第四篇 其他科",
+    "chapter": "耳鼻喉科",
+    "category": "耳鼻喉科"
   },
   {
     "id": "113-2-醫學(五)-18",
@@ -36867,7 +36867,7 @@
       "D": "Stage V；清創後顯微皮瓣重建術"
     },
     "answer": "C",
-    "explanation": "此題知道壓瘡深及骨頭為 Stage IV 即可選答。\n\n| Stage | 說明 |\n| :--- | :--- |\n| **I** | 皮膚完整（但溫度、質地、感覺、膚色可能跟周邊正常皮膚不同） |\n| **II** | 部分皮膚損傷（擦傷、水泡、淺的潰瘍） |\n| **III** | 全層皮膚損傷，可見皮下組織（如脂肪） |\n| **IV** | 深及肌肉、骨骼、關節、韌帶 |\n| **Unstageable** | 全層皮膚損傷，但傷口底部被腐肉或痂皮蓋住因此無法確定 Stage |",
+    "explanation": "答案 (C)。\n\n此題知道壓瘡深及骨頭為第 IV 期即可選答。\n\n| 分期 | 說明 |\n| --- | --- |\n| I | 皮膚完整，但壓之不褪色的紅斑（溫度、質地、感覺、膚色可能與周邊不同） |\n| II | 部分皮膚層損傷（擦傷、水泡、淺的潰瘍） |\n| III | 全層皮膚損傷，可見皮下組織（如脂肪），但未見肌肉、骨頭 |\n| IV | 深及肌肉、骨骼、關節、韌帶 |\n| 無法分期 | 全層皮膚損傷，但傷口底部被腐肉或痂皮覆蓋，無法確定分期 |\n\n壓瘡傷口重建通常不選擇直接縫合：周邊皮膚狀況可能較差，硬縫起來失敗率較高。植皮（如分層皮片）在傷口淺、血液循環好且植皮後可以完全避免患處受壓的狀況下可考慮，但很少壓瘡病人能同時符合這些條件。\n\n局部肌皮瓣適合用於較髒、較複雜的傷口（肌肉血流豐富、可填補空腔），但術後需持續避免傷口受壓；若不可能完全避免受壓，則可考慮筋膜皮瓣。皮瓣選擇取決於壓瘡位置：薦骨可用臀部血管供應的皮瓣（如臀大肌皮瓣）；坐骨可考慮臀部或大腿後側的皮瓣；股骨轉子則可用闊筋膜張肌、股直肌或股外側肌的皮瓣。\n\n**補充**：手術前要處理骨髓炎、營養不良、痙攣與大小便污染；預防重點是每 2 小時翻身、減壓床墊與營養。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -37450,12 +37450,12 @@
       "D": "預後與腫瘤原發部位有關，原發於眼眶及非腦膜旁之頭頸部者，預後較差"
     },
     "answer": "D",
-    "explanation": "來自教科書的題目。\n(A) 正確。頭頸部 (36%) > 四肢 (19%) > 軀幹 (9%) > 泌尿生殖道 (2%)，但事實上任何地方都可以長橫紋肌肉瘤。\n(B) 正確。橫紋肌肉瘤以 Incisional or excisional biopsy 確診，在這之前需要先做患處以及胸腔的 CT、MRI，並且做 Bone marrow biopsy 確定是否有轉移。\n(C) 正確。在可以完全切除腫瘤且不會導致失能時，手術為首選治療方式。若無法直接手術，則先做切片，並且給予化學治療縮小腫瘤體積後切除。放射治療可以用於局部控制殘餘的腫瘤。\n(D) 錯誤。原發於眼眶、非腦膜旁頭頸部、睾丸周邊、陰道、膽道者預後較好。除了原發部位之外，是否能切除、有無轉移、轉移的數量、組織學 (Embryonal subtype 較好，Alveolar、Pleomorphic subtype 較差) 也都是影響預後的因素。",
+    "explanation": "答案 (D)。\n\n本題來自教科書。\n(A) 正確。橫紋肌肉瘤的好發部位：頭頸部（約 36%）> 四肢（約 19%）> 軀幹（約 9%）> 泌尿生殖道，但事實上任何地方都可以長。\n(B) 正確。橫紋肌肉瘤以切開或切除切片確診，在這之前需先做患處與胸腔的 CT、MRI，並做骨髓切片確定是否有轉移。\n(C) 正確。在可以完全切除腫瘤且不會導致失能時，手術為首選治療方式；若無法直接手術，則先做切片並給予化學治療縮小腫瘤後再切除；放射治療可用於局部控制殘餘的腫瘤。\n(D) 錯誤。原發於眼眶、非腦膜旁的頭頸部、睪丸周邊、陰道、膽道者預後較好；腦膜旁、四肢、軀幹、膀胱或前列腺預後較差。除了原發部位，是否能切除、有無轉移、轉移數量、組織學（胚胎型較好，腺泡型、多形性較差）也都是影響預後的因素。\n\n**補充**：橫紋肌肉瘤是兒童最常見的軟組織肉瘤；腺泡型與 PAX3/7-FOXO1 融合基因相關；陰道的葡萄狀肉瘤是胚胎型的亞型；化療常用 VAC（vincristine、actinomycin D、cyclophosphamide）。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "整形外科",
+    "category": "整形外科"
   },
   {
     "id": "113-2-醫學(五)-48",
@@ -38061,12 +38061,12 @@
       "D": "腔室壓力與收縮壓之間差距＞30 mmHg"
     },
     "answer": "D",
-    "explanation": "這題問得有點沒頭沒尾，原文來自急診教科書的 Crush injury and the crush syndrome 章節，(D) 選項錯在應是舒張壓而非收縮壓。\n筋膜切開術 (Fasciotomy) 會增加敗血症、截肢、血流動力學不穩定、慢性神經失能以及死亡的風險，因此在碾壓損傷 (Crush injury) 的病人不建議常規做筋膜切開術，碾壓損傷的病人做筋膜切開術的適應症如下：\n1. 摸不到遠端脈搏。\n2. 需要做壞死肌肉的清創。\n3. 受傷後 6 小時內的腔室壓力 > 30 mmHg。\n4. 腔室壓力與舒張壓之間的差距 > 30 mmHg。",
+    "explanation": "答案 (D)。\n\n這題問得有點沒頭沒尾，原文來自急診教科書的「擠壓傷與擠壓症候群」章節。(D) 錯在應是「舒張壓」而非收縮壓。\n\n筋膜切開術會增加敗血症、截肢、血流動力學不穩定、慢性神經失能以及死亡的風險，所以擠壓傷病人不建議常規做筋膜切開術；擠壓傷病人做筋膜切開術的適應症：\n1. 摸不到遠端脈搏。\n2. 需要做壞死肌肉的清創。\n3. 受傷後 6 小時內的腔室壓力 > 30 mmHg。\n4. 腔室壓力與舒張壓之間的差距（ΔP）< 30 mmHg。\n\n（選項寫「與收縮壓之間差距 > 30 mmHg」，條件與方向都不對。）\n\n**補充：腔室症候群**\n- 最早的症狀是與傷勢不成比例的劇痛，被動伸展肌肉時加劇；脈搏消失是晚期表現。\n- 常見於脛骨骨折、前臂骨折、擠壓傷、再灌流後、燒傷（焦痂切開）。\n- 擠壓症候群要注意橫紋肌溶解、高血鉀與急性腎損傷，需大量輸液並監測尿量。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "急診外傷科",
-    "category": "急診外傷科"
+    "chapter": "整形外科",
+    "category": "整形外科"
   },
   {
     "id": "113-2-醫學(五)-78",
