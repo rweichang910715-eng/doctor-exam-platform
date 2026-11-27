@@ -1728,140 +1728,140 @@
     ]
   },
   "111-1-醫學(六)-41": {
-    "explanation": "此題考子宮肌瘤的藥物治療方式，Danazole 為一雄性激素類似物，具有抑制腦垂腺前葉的作用進而降低卵巢功能，但其目前用於子宮內膜異位症 (endometriosis)，並未用於子宮肌瘤的治療，以下簡單補充子宮肌瘤的藥物治療，包含症狀治療與病因控制：\n\n| 治療目的 | 藥物分類 / 名稱 | 作用機轉與說明 |\n| :--- | :--- | :--- |\n| 症狀治療 | NSAID | 止痛，但對於大量經血沒有改善效果 |\n| 症狀治療 | Tranexamic Acid | 可以改善子宮肌瘤造成大量經血的問題 |\n| 病因控制 | GnRH Agonist | 因抑制 HPG 軸，進而降低 Estrogen 分泌 ⇒ 可降低子宮肌瘤大小，並改善大量經血症狀 |\n| 病因控制 | GnRH Antagonist | 可以降低子宮肌瘤大小 |\n| 病因控制 | Progesterone-mediated agents | • Mifepristone：抑制 Progesterone 作用，效果似 GnRH Agonist<br>• Ulipristal acetate（可造成肝傷害，目前停用）<br>• Levonorgestrel-releasing intrauterine system (LNG-IUS)：為子宮內植入物會釋放 progesterone，改善出血症狀，但無法減少子宮肌瘤大小 |",
+    "explanation": "答案 (D)。\n\n**子宮肌瘤經血過多的藥物治療**\n\n| 藥物 | 作用 |\n| --- | --- |\n| 含黃體素子宮內避孕器（LNG-IUS） | 減少經血量效果好，適合子宮腔沒有明顯變形者 |\n| Tranexamic acid | 抗纖維蛋白溶解，經期使用減少出血量 |\n| NSAID | 減少經血與經痛 |\n| 口服避孕藥、黃體素 | 控制出血 |\n| GnRH 促效劑 | 造成低雌激素狀態，使肌瘤縮小約 30–50% 並停經改善貧血；因骨質流失只能短期使用（術前 3–6 個月），停藥後肌瘤會再長大 |\n| GnRH 拮抗劑（relugolix 等）合併 add-back 治療 | 可較長期使用 |\n| 選擇性黃體素受體調節劑（ulipristal） | 縮小肌瘤（注意肝毒性） |\n\nDanazol 雖然能減少經血，但雄性素副作用（多毛、痤瘡、聲音變粗、體重增加、血脂異常）明顯，目前已不是子宮肌瘤的常規治療。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-41_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-41_merged.png"
     ]
   },
   "111-1-醫學(六)-42": {
-    "explanation": "在教科書 Berek & Novak's Gynecology 中有提及不少統計，諸如「在青春期前女孩，僅 6% 卵巢腫塊是惡性腫瘤」、「<10 歲女童的卵巢腫瘤有 1/3 是良性的」等等，雖然不是很清楚 (A) 選項「可能性很低」是指多低，但以上數字應該是不小的數字，因此 (A) 較為不適當，以下簡單補充腹骨盆腔腫塊在不同年紀常見的原因（改自 Table 9-5）：\n\n| 年紀段 | 嬰兒期 | 青春期前 | 青春期 | 育齡期 | 停經期前 | 停經期 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| 最常見 | 功能性囊腫 | | | | 纖維瘤 | 卵巢腫瘤 |\n| 其他 | 生殖細胞瘤 | | 懷孕、良性畸胎瘤 / 其他生殖細胞癌、卵巢上皮腫瘤 | 懷孕、子宮肌瘤、卵巢上皮腫瘤 | 卵巢上皮腫瘤、功能性囊腫 | 功能性囊腫、其他癌症轉移 |\n\n在兒童與青少女的卵巢腫塊中：\n• 流行病學（因為各種研究的結果數字不太相同，因此講結論）：非腫瘤性囊腫為主；若是腫瘤也以良性的居多\n• 卵巢腫瘤\n  - 最常見的是生殖細胞瘤，約佔腫瘤的 1/2~ 2/3；卵巢上皮腫瘤很罕見\n  - 年紀較小長出的腫瘤有較高機會是惡性的\n• 檢查診斷：腹部超音波為最適用的初步評估，後續進階使用 CT、MRI 等檢查\n\n[ 編按 ] 此題與【111-2(六)43】考點類似，同樣考兒童和青少女的卵巢腫瘤",
+    "explanation": "答案 (A)。\n\n**兒童與青少女的卵巢腫瘤**\n\n- 組織類型與成人不同：\n  - 生殖細胞腫瘤約佔一半以上（成熟畸胎瘤最常見；惡性以無性細胞瘤、卵黃囊瘤、未成熟畸胎瘤為主）\n  - 上皮細胞腫瘤不常見（成人最常見）\n  - 性索基質細胞腫瘤（幼年型顆粒細胞瘤，可造成性早熟）\n- 惡性比例：兒童與青少女卵巢腫瘤的惡性比例較成人高，約 10–20%，年紀越小越高，故 (A) 錯誤。\n- 常見表現：腹痛（卵巢扭轉）、腹部腫塊、腹脹。\n- 檢查：超音波是首選；腫瘤標記（AFP、β-hCG、LDH、CA-125、inhibin）。\n- 治療原則：盡量保留生育功能（卵巢囊腫切除或單側附屬器切除）；惡性生殖細胞腫瘤對化療（BEP）反應好。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-42_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-42_merged.png"
     ]
   },
   "111-1-醫學(六)-43": {
-    "explanation": "子宮鏡子宮肌瘤切除術 (hysteroscopic myomectomy) 最常使用於黏膜下子宮肌瘤 (submucous fibroids)，包含 Type 0（有蒂的長在子宮腔中）、<5 cm 的 Type 1（子宮壁侵犯 <50%）與侵犯深度較淺的 Type 2（子宮壁侵犯 ≥50%），故按照選項所給予有限的資訊，(A) 為最適當的答案\n\n[ 另類解法 ] 子宮肌瘤分類總共為 FIGO Type 0-8，由子宮腔內至子宮體外依序編號（Type 8 是長在子宮體以外的地方，建議搭配圖片加深印象）；故藉由子宮鏡最容易切除的就是直接長在腔內的，Type 0 可能是最佳答案\n\nFIGO Classification of Uterine Myoma：\n\n| 類型 | FIGO | 說明 |\n| :--- | :--- | :--- |\n| Submucosal 黏膜下型 | 0 | 蒂連式子宮腔內肌瘤：有蒂且完全在子宮腔內 (pedunculated intracavitary) |\n| Submucosal 黏膜下型 | 1 | 大部分在子宮腔內，<50% 在子宮肌層 |\n| Submucosal 黏膜下型 | 2 | 少部分在子宮腔內，≥50% 在子宮肌層 |\n| Intramural 壁間型 | 3 | 完全在子宮肌層，且有接觸到子宮內膜 (endometrium) |\n| Intramural 壁間型 | 4 | 完全在子宮基層，但沒有接觸到子宮內膜 |\n| Subserosal 漿膜下型 | 5 | 少部分在子宮肌層外，≥50% 在子宮肌層 |\n| Subserosal 漿膜下型 | 6 | 大部分在子宮肌層外，<50% 在子宮肌層 |\n| Subserosal 漿膜下型 | 7 | 蒂連式子宮漿膜層肌瘤：有蒂且完全在子宮肌層外 (subserosal pedunculated) |\n| 其他 | 8 | 在子宮本體以外的部分，如子宮頸內、闊韌帶中 |",
+    "explanation": "答案 (A)。\n\n**FIGO 子宮肌瘤分類（PALM-COEIN 的 L 細分）**\n\n| 類型 | 位置 |\n| --- | --- |\n| 0 | 帶蒂完全在子宮腔內的黏膜下肌瘤 |\n| 1 | 黏膜下，肌層內部分 < 50% |\n| 2 | 黏膜下，肌層內部分 ≥ 50% |\n| 3 | 完全在肌層內，但接觸子宮內膜 |\n| 4 | 肌層內 |\n| 5 | 漿膜下，肌層內部分 ≥ 50% |\n| 6 | 漿膜下，肌層內部分 < 50% |\n| 7 | 帶蒂漿膜下 |\n| 8 | 其他（子宮頸、寄生性） |\n\n- 子宮鏡切除適合黏膜下肌瘤：第 0 型最適合，可一次完整切除；第 1 型通常也可；第 2 型可能需分次手術，且穿孔與液體超負荷風險較高。\n- 黏膜下肌瘤是造成經血過多與不孕的主要類型，切除後可改善受孕率。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-43_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-43_merged.png"
     ]
   },
   "111-1-醫學(六)-44": {
-    "explanation": "第二性徵發育遲緩與性腺激素分泌低下有關，如：先天性腺發育不良、卵巢早衰（如：透納氏症）、下視丘 / 腦垂腺分泌不足（如：卡門症候群 Kallmann syndrome）等；而 Müllerian duct 發育異常常見的原因與性激素較不相關，也因性腺功能無異常所以大多會表現第二性徵，故 (B) 敘述不適當，以下補充無月經伴隨正常第二性徵發育但骨盆腔解剖異常的常見原因：\n• 先天穆勒氏管異常 (Müllerian anomalies)\n  - 封閉處女膜 (Imperforate hymen)\n  - 陰道橫向中膈 (transverse vaginal septum)\n  - Mayer-Rokitansky-Küster-Hauser 症候群（= 先天無陰道＋各種程度的子宮發育）：佔原發性閉經 10-15% 病例，多伴隨腎臟、泌尿系統、骨骼、聽力發育異常\n  - 先天無子宮內膜\n• 後天性子宮內沾黏 (=Asherman syndrome)：多因子宮內膜刮除術 (D&C)、子宮頸手術、骨盆腔發炎疾病或結核菌感染所致\n• 雄性素不敏感 (androgen insensitivity)：生理男 (46, XY) 但因雄性素異常導致外生殖器、第二性徵為女性表現，無穆勒氏管發育（因可分泌 AMH）\n• 性發展障礙 (ovotesticular disorder)：很罕見，同時具有卵巢與睪丸，通常會半側 Mullerian 發育（像女）、半側 Wolffian 發育（像男），外生殖器雌雄難辨，通常會有乳房發育",
+    "explanation": "答案 (B)。\n\n**穆勒氏管先天異常**\n\n- 約佔原發性無月經的 15–20%，是僅次於性腺發育不全的第二常見原因。\n- 類型：\n  - 穆勒氏管發育不全（MRKH 症候群：先天性無子宮無陰道）\n  - 融合異常（雙子宮、雙角子宮）、中膈吸收異常（中膈子宮）\n  - 陰道橫隔、子宮頸或陰道閉鎖\n  - 處女膜閉鎖（嚴格來說屬泌尿生殖竇發育異常，臨床上常一起討論）\n- 卵巢來源不同（生殖嵴），功能正常，雌激素分泌正常，因此第二性徵（乳房、陰毛）發育正常，故 (B) 錯誤。\n- 出口阻塞（處女膜閉鎖、陰道橫隔、子宮頸閉鎖）而有功能性子宮內膜時：青春期無月經，但有週期性下腹痛（經血滯留形成陰道或子宮積血），可能合併子宮內膜異位症。\n- 常合併泌尿道異常（腎臟發育不全、異位腎），需做腎臟泌尿道檢查。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-44_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-44_merged.png"
     ]
   },
   "111-1-醫學(六)-45": {
-    "explanation": "影像題，抓關鍵字與關鍵特徵：\n• 關鍵字：經痛已 5 年（慢性＋週期性疼痛），止痛藥可緩解 ⇒ 週期性疼痛可以考慮原發性痛經與子宮內膜異位症 (endometriosis) 或 Müllerian anomalies【111-1(六)44】；若非週期性，可能會考慮腹骨盆腔沾黏、發炎或卵巢腫瘤，子宮內膜異位也可能是非週期性疼痛\n• 影像（卵巢囊腫）\n  - 「毛玻璃樣 (ground glass appearance)」的回音病灶，看起來沙沙的\n  - 無明顯低回音或高回音部分，意即無固體組織或漿液成分\n  - 無分膈，應屬於單腔室囊腫 (unilocular cyst)\n  - 圖為 Color doppler 介面，也無看到血流\n故從影像上可以得知，偏向卵巢子宮內膜異位瘤 (ovarian endometrioma) 特徵，較不像卵巢腫瘤（纖維瘤 / 卵巢癌）或是功能性囊腫\n\n故綜合兩者，(B) 為最合適的診斷\n(A) 卵巢濾泡囊腫 (ovarian follicular cyst)：大多無症狀；超音波下內部無回音，且通常可見後側回音增強 (posterior acoustic enhancement)\n(C) 卵巢纖維瘤 (ovarian fibroma)：大多無症狀，但長到很大時可觸診到；在超音波下的型態通常為低回音的腫塊 (hypoechoic mass)\n(D) 卵巢癌 (ovarian cancer)：若在超音波下出現以下特徵，病灶為惡性的機會較高：\n  • 邊緣不規則的固態腫塊\n  • 超音波下看到腹水\n  • 看到多個乳突狀贅生物\n  • 不規則、多腔室、直徑大 (>10 cm) 的腫塊\n  • 都卜勒超音波下血流豐富",
+    "explanation": "答案 (B)。\n\n**卵巢子宮內膜異位瘤（巧克力囊腫）**\n\n- 典型病史：育齡女性，進行性加重的經痛、慢性骨盆痛、性交疼痛、不孕。\n- 超音波：單房或少房性囊腫，內部均勻的低回音「毛玻璃樣」，囊壁可有點狀強回音；常合併骨盆腔沾黏、子宮直腸陷凹閉鎖。\n- 鑑別：\n\n| 囊腫 | 超音波特點 |\n| --- | --- |\n| 功能性濾泡囊腫 | 薄壁、無回音的單房囊腫，通常 < 8 cm，數個月經週期後會消失；本題於月經剛結束時檢查，仍有大型囊腫，較不像 |\n| 出血性黃體囊腫 | 網狀或蜘蛛網狀內部回音，會隨週期消失 |\n| 成熟畸胎瘤 | 強回音的脂肪、毛髮、鈣化 |\n| 纖維瘤 | 實心低回音腫塊，後方聲影 |\n| 惡性腫瘤 | 實心成分、乳突狀突起、厚隔膜、血流豐富、腹水 |\n\n- 處置：長期經痛合併 8 公分囊腫，可考慮腹腔鏡囊腫切除（注意保留卵巢組織與功能）；術後以荷爾蒙治療（dienogest、口服避孕藥）預防復發。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-45_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-45_merged.png"
     ]
   },
   "111-1-醫學(六)-46": {
-    "explanation": "Müllerian ducts 發育異常常伴隨腎臟泌尿道的異常，所以應一併進行檢查（關於 Müllerian anomalies 相關整理可見【111-1(六)44】的詳解）\n\n[ 另類解題方式 ] 從胚胎學的角度來看，泌尿與生殖系統的發育是一起的，Woffian duct（男性保留）來自中腎管 (mesonephric duct) 構造，而 Müllerian duct（女性保留）來自副中腎管 (mesonephric duct)，而發育早期的中腎 (metanephron) 逐漸退化，故相較於其他選項，(C) 同時發生異常的機會較高，所以應一併檢查",
+    "explanation": "答案 (C)。\n\n**穆勒氏管異常與泌尿道異常**\n\n- 穆勒氏管（副中腎管）與沃爾夫氏管（中腎管）在胚胎發育時位置相鄰；中腎管的發育會誘導並引導穆勒氏管，而輸尿管芽也由中腎管長出，誘發後腎發育成腎臟。\n- 因此穆勒氏管異常常合併泌尿道異常（約 30–40%）：單側腎臟發育不全、異位腎、馬蹄腎、重複集尿系統。\n- 典型例子：\n  - OHVIRA（Herlyn-Werner-Wunderlich）症候群：雙子宮、單側陰道阻塞、同側腎臟發育不全\n  - MRKH 症候群：先天性無子宮無陰道，常合併腎臟與骨骼異常\n- 建議：診斷穆勒氏管異常時，應以腎臟超音波或 MRI 檢查泌尿系統。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-46_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-46_merged.png"
     ]
   },
   "111-1-醫學(六)-47": {
-    "explanation": "陰道常在菌叢包含乳酸菌（製造乳酸建立陰道酸性環境）、乙型鏈球菌等嗜氧菌；而細菌性陰道炎 (BV) 是陰道內厭氧菌過度增生，取代常在菌叢導致，其風險因子包含陰道灌洗或性行為（鹼性的精液），容易破壞常在菌叢或酸性環境\n\n故刪去 (A) (B) (D) 敘述不正確的選項後，(C) 是剩餘最適當的選項\n\n[ 編按 ] 暑考【111-2(六)48】同樣也考 BV！",
+    "explanation": "答案 (C)。\n\n**細菌性陰道炎**\n\n- 育齡女性最常見的陰道分泌物異常與陰道炎。\n- 機轉：陰道正常菌叢失衡，產生過氧化氫的乳酸菌減少，厭氧菌（陰道加德納菌、Mobiluncus、普雷沃氏菌等）過度增生，故 (A)(B) 錯誤。\n- 危險因子：多重性伴侶、新的性伴侶、陰道灌洗、抽菸；雖然不被視為典型性傳染病，但與性行為有關，故 (D) 錯誤。\n- 診斷（Amsel 準則，四項中符合三項）：\n  1. 均勻的灰白色稀薄分泌物\n  2. 陰道 pH > 4.5\n  3. 胺試驗陽性（加入 KOH 出現魚腥味）\n  4. 顯微鏡下線索細胞（clue cells）\n  - 實驗室也可用 Gram 染色的 Nugent 分數。\n- 治療：metronidazole 或 clindamycin（口服或陰道劑型）；懷孕時有症狀者應治療（與早產、早期破水相關）；性伴侶一般不需治療。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-47_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-47_merged.png"
     ]
   },
   "111-1-醫學(六)-48": {
-    "explanation": "停經後子宮內異常出血常見的原因包含（取自 Berek & Novak's Gynecology, Table 10-13）：外源性雌激素 (30%)、萎縮性子宮內膜炎 / 陰道炎 (30%)、子宮內膜癌 (15%)、子宮內膜 / 子宮頸息肉 (10%)、子宮內膜增生 (5%)，故沒有服用荷爾蒙者，最常見的成因就是萎縮性子宮內膜炎，故選 (D)\n\n[ 另類解題方式 ] 題幹所述「沒有服用荷爾蒙（未明示 estrogen 或 estrogen + progesterone）」的停經女性，而 (A) (B) (C) 的生長皆與荷爾蒙相關，因此 (D) 為可能的答案",
+    "explanation": "答案 (D)。\n\n**停經後出血**\n\n- 所有停經後出血都需評估，以排除子宮內膜癌（約佔停經後出血的 10%）。\n- 原因：\n\n| 原因 | 說明 |\n| --- | --- |\n| 萎縮性子宮內膜炎或陰道炎 | 最常見（約 60–80%），雌激素缺乏使內膜與陰道黏膜變薄、脆弱 |\n| 子宮內膜息肉 | 常見 |\n| 子宮內膜增生 | 未拮抗的雌激素、肥胖 |\n| 子宮內膜癌 | 最重要必須排除的原因 |\n| 荷爾蒙治療 | 使用荷爾蒙者最常見的原因 |\n| 子宮頸病變、外陰病變 | — |\n\n- 評估：陰道超音波測量子宮內膜厚度（≤ 4 mm 時惡性機率很低）；內膜增厚或持續出血時，做子宮內膜切片或子宮鏡。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-48_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-48_merged.png"
     ]
   },
   "111-1-醫學(六)-49": {
-    "explanation": "依照題目資訊：病理診斷是子宮頸癌，大小 1 cm、侵犯深度 5 mm，且病灶僅限於子宮頸而沒有侵犯至陰道（刪去 (B)）、鄰近構造（刪去 (C)）、遠端器官（刪去 (D)），故依照 2018 FIGO for Cervical Cancer 的分期為 Stage IB1（子宮頸內，深度 ≥ 5 mm、最大橫徑 <2 cm），以下簡單提供 2018 FIGO for Cervical Cancer 的記法：\n\n| 期別 | 定義與侵犯範圍 | 細分期與腫瘤大小 |\n| :--- | :--- | :--- |\n| IA | 顯微鏡才看得到，侵犯深度 <5 mm ⇒ 比深度（往下） | IA1: <3 mm<br>IA2: ≥ 3, <5 mm |\n| IB | 侵犯深度 ≥ 5 mm，且肉眼可見 ⇒ 比大小（往側） | IB1: <2 cm<br>IB2: ≥ 2, <4 cm<br>IB3: ≥ 4 cm |\n| IIA | 侵犯出子宮體，往下至陰道上 2/3 部分 | IIA1：<4 cm<br>IIA2：≥ 4 cm |\n| IIB | 侵犯出子宮體，往側向的鄰近構造 (parametrial involvement) | |\n| IIIA | 往下至陰道下 1/3 部分 | |\n| IIIB | 往側至骨盆腔壁，或因壓迫輸尿管造成腎水腫 / 腎衰竭 | |\n| IIIC | 淋巴轉移至骨盆腔 / 主動脈旁淋巴結 | IIIC1：僅骨盆腔<br>IIIC2：主動脈旁 |\n| IV | IVA: 其他骨盆腔器官；IVB: 轉移至遠端器官 | |\n\n[ 編按 ] FIGO 有時真的不好記，子宮頸癌可依照其擴散方向的簡單記憶（上表粗體字）",
+    "explanation": "答案 (A)。\n\n**子宮頸癌 FIGO 2018 分期（第一期）**\n\n| 分期 | 定義 |\n| --- | --- |\n| IA1 | 顯微鏡下侵犯深度 < 3 mm |\n| IA2 | 侵犯深度 ≥ 3 mm 且 < 5 mm |\n| IB1 | 侵犯深度 ≥ 5 mm，腫瘤最大徑 ≤ 2 cm |\n| IB2 | 腫瘤 > 2 cm 且 ≤ 4 cm |\n| IB3 | 腫瘤 > 4 cm |\n\n- 2018 版刪除了「水平擴散寬度」的標準，並可用影像與病理（如淋巴結轉移屬 IIIC）分期。\n- 本題腫瘤 1 cm，侵犯深度 5 mm，侷限於子宮頸，影像與膀胱鏡正常，為 IB1。\n- 想保留生育功能的年輕病人，IB1 可考慮根除性子宮頸切除術合併骨盆腔淋巴結廓清。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-49_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-49_merged.png"
     ]
   },
   "111-1-醫學(六)-50": {
-    "explanation": "這題考名詞定義，neoadjuvant 治療指的是：在正式治癒性治療（通常是手術）之前，所進行的輔助治療，故 (A) 的敘述為最適當的答案\n(B) 敘述為輔助性治療 (adjuvant therapy)，通常針對在治癒性治療後有高局部擴散或隱性全身擴散風險者所安排\n(C) 敘述的化學治療較接近 adjuvant chemotherapy 的概念\n(D) 敘述的是針對復發腫瘤以化學治療作為治癒性治療，而非輔助治療",
+    "explanation": "答案 (A)。\n\n**卵巢癌的前導性（neoadjuvant）化療**\n\n- 標準治療：最大減積手術（目標是無肉眼殘留腫瘤）＋術後輔助性化療（carboplatin + paclitaxel）± 標靶維持治療（PARP 抑制劑、bevacizumab）。\n- 前導性化療（先化療 3 個療程 → 間歇性減積手術 → 再化療）用於：\n  - 預期無法達到理想減積（腫瘤廣泛擴散，例如侵犯腸繫膜根部、肝門）\n  - 病人體能狀態差或合併症多，手術併發症風險過高\n  - 需以切片或細胞學先確定診斷\n- 其他選項：\n  - 腫瘤切除乾淨後的化療是輔助性化療\n  - 手術後仍有殘留腫瘤所接受的化療是術後化療，不是前導性化療\n  - 復發後的化療稱為救援治療，依無鉑間隔選擇藥物",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-50_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-50_merged.png"
     ]
   },
   "111-1-醫學(六)-51": {
-    "explanation": "此題就是翻譯教科書原文出題\n\n(A) 懷孕併侵襲性子宮頸癌的發生率約「1.2/10,000」\n(B) 第一妊娠期進行 Conization 後，流產率「高達 33%」，故一般在陰道鏡檢查符合侵襲癌的特徵 / 切片有微浸潤癌 / 細胞學檢查高度懷疑侵襲癌的孕婦，conization 不得早過第二孕期進行\n(C) 在癌症侵犯深度 3-5 mm，但有淋巴血管侵犯的病人，得以「追蹤至胎兒足月或肺部成熟後進行分娩，合併修正式子宮全切除 (modified radical hysterectomy) 與骨盆腔淋巴切除 (pelvic lymphadenectomy)」，並不需要立即生產\n故僅 (D) 是正確選項",
+    "explanation": "答案 (D)。\n\n**懷孕合併子宮頸癌**\n\n- 是懷孕期間最常見的婦科癌症之一，發生率約每 10,000 次懷孕 1–2 例（約 10 萬分之 10–20），故 (A) 錯誤。\n- 抹片異常時可安全做陰道鏡與切片，但避免子宮頸內搔刮。\n- 子宮頸錐狀切除只在懷疑侵襲癌時施行，最好在第二孕期初；第一孕期施行的流產率較高（可達約 25–30%），且出血多，故 (B) 錯誤。\n- 處置取決於臨床分期、懷孕週數與病人意願：\n  - 早期（IA）可延後到產後治療\n  - 侵犯深度 3–5 mm 合併淋巴血管浸潤者，可考慮淋巴結評估、前導性化療等，待胎兒成熟後再處理，並非一律立即終止懷孕，故 (C) 錯誤\n  - 晚期或懷孕早期且不願延遲：終止懷孕並接受標準治療\n- 懷孕本身並不會使子宮頸癌的預後變差；與未懷孕者相同，臨床分期是最重要的預後因子，故 (D) 正確。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-51_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-51_merged.png"
     ]
   },
   "111-1-醫學(六)-52": {
-    "explanation": "（暑考【111-2(六)53】也出了子宮內膜癌兩種 type 的比較！）\n\n組織學型態 Non-endometrioid type 佔子宮內膜癌 10%，有較高的復發與遠端轉移的風險；又 Type I 組織學為 Endometrioid type，故 (D) 選項較適當敘述應為「Type II 預後較 Type I 子宮內膜癌差」，以下簡單補充 Type I 與 Type II 子宮內膜癌的特色：\n\n| 比較特性 | Type I | Type II |\n| :--- | :--- | :--- |\n| 流行病學 | 較常見，發生於停經前（年紀較輕） | 發生於停經後（年紀較大） |\n| 雌激素風險 | 非對抗性雌激素 (unopposed estrogen)#、肥胖 | 相關性較低 |\n| 前驅病灶 | Endometrial hyperplasia ⇒ Atypical hyperplasia | Endometrial atrophy ⇒ Endometrial intraepithelial carcinoma |\n| 病理型態原型 | Endometrioid | Serous |\n| 其他病理型態 | Mucinous, Endometrioid with squamous differentiation | Clear cell（部分） |\n| 腫瘤分級 | Low Grade | High Grade |\n| 基因變異 | • PTEN 與 PIK3CA 突變<br>• 微衛星不穩定 (microsatellite instability)*<br>• KRAS 突變 | • P53 突變，佔此 type 約 90%<br>• 部分觀察到 HER-2/neu、CMYC 的過量表現 |\n\n# 非對抗性雌激素：指使用 HRT 時，並未使用 Progestin 對抗雌激素在子宮內膜的作用\n* 部分 Type I 的病理機制來自 microsatellite instability (MSI)，其中一群為遺傳性的 Lynch syndrome，其機制與相關癌症是醫學（三）腫瘤科、醫學（五）大腸直腸科考點！",
+    "explanation": "答案 (D)。\n\n**第一型與第二型子宮內膜癌**\n\n| 項目 | 第一型 | 第二型 |\n| --- | --- | --- |\n| 比例 | 約 80–90%（多數） | 約 10–20% |\n| 組織型態 | 類子宮內膜腺癌（低惡性度） | 漿液性癌、亮細胞癌、癌肉瘤、高惡性度類子宮內膜癌 |\n| 危險因子 | 未拮抗的雌激素（肥胖、多囊性卵巢、無排卵、tamoxifen、未生育、晚停經） | 與雌激素較無關 |\n| 好發年齡 | 停經前後、較年輕 | 較年長、停經後多年 |\n| 前驅病變 | 非典型子宮內膜增生 | 子宮內膜上皮內癌（萎縮的內膜） |\n| 基因變化 | PTEN、KRAS、PIK3CA、微衛星不穩定 | TP53、HER2 擴增 |\n| 預後 | 較好，多為早期 | 較差，容易深層肌層侵犯、淋巴與子宮外轉移 |\n\n第一型的預後較第二型好，題目敘述相反，故 (D) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-52_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-52_merged.png"
     ]
   },
   "111-1-醫學(六)-53": {
-    "explanation": "此題的 Choriocarcinoma 應該是考妊娠滋養體腫瘤，而非自卵巢長出的，最常見轉移的位置是肺 (80%)，其次為陰道 (30%)、骨盆腔 (20%)、肝臟 (10%) 與腦 (10%)，故答案選擇 (A)\n\n[ 另類思考 ] 若是不確定最常轉移至哪，FIGO Stage 也有提供一點暗示，Stage III 明示其「侵犯肺臟」即屬之（不論有無生殖道侵犯），而「所有其他轉移位置」才是 Stage IV，可見肺轉移的重要性",
+    "explanation": "答案 (A)。\n\n**絨毛膜癌**\n\n- 屬於妊娠滋養層腫瘤，可發生於葡萄胎、流產、子宮外孕或正常懷孕之後。\n- 特性：早期即經血行轉移，β-hCG 明顯上升，容易出血。\n- 轉移部位：\n\n| 部位 | 頻率 |\n| --- | --- |\n| 肺 | 最常見（約 80%），可表現為咳嗽、咳血或胸部 X 光的結節 |\n| 陰道 | 次常見（約 30%），血管豐富，切片易大出血 |\n| 骨盆 | 約 20% |\n| 肝、腦 | 約 10%，屬高風險，預後較差 |\n\n- 治療：對化療非常敏感。低風險（FIGO/WHO 分數 ≤ 6）用單一藥物（methotrexate 或 actinomycin D）；高風險（≥ 7）用多藥化療（EMA-CO）。\n- 追蹤：以 β-hCG 監測，治療期間與追蹤期內需避孕。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-53_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-53_merged.png"
     ]
   },
   "111-1-醫學(六)-54": {
-    "explanation": "（暑考【111-2(六)54】也考了 ovarian reserve 的觀念！）\n\n一般正常生理女性 25 歲時 AMH 約 3 ng/mL，35-37 歲者會降到約 1 ng/mL，因此通常評估時會納入年紀作考量，此外一般而言 <1.5 ng/mL 暗示低卵巢存量，故 (B) 選項不太正確\n\n(A) 所述是 AMH 相較於其他卵巢功能評估的優點，因為其分泌不受月經影響，所以在月經任何一天抽血都可，其他 (C) (D) 的檢查則需要在月經第三天進行",
+    "explanation": "答案 (B)。\n\n**卵巢庫存量的評估**\n\n| 指標 | 說明 | 卵巢庫存下降 |\n| --- | --- | --- |\n| 抗穆勒氏管荷爾蒙（AMH） | 由小竇卵泡的顆粒細胞分泌，月經週期中變化小，任何一天都可抽血 | 約 < 1.0–1.2 ng/mL |\n| 竇卵泡數（AFC） | 月經第 2–4 天陰道超音波，計算兩側 2–10 mm 卵泡總數 | 約 < 5–7 顆 |\n| 月經第三天 FSH | 合併雌二醇判讀，週期間變化大 | FSH > 10–12 IU/L |\n| 月經第三天雌二醇 | 過早升高會壓低 FSH，造成 FSH 假性正常 | > 60–80 pg/mL |\n\n- AMH 2 ng/mL 屬於正常範圍，不代表卵巢功能不佳，故 (B) 錯誤；AMH 過高（如 > 4–5 ng/mL）則可見於多囊性卵巢症候群。\n- AFC 只有 3 顆代表卵巢庫存下降。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-54_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-54_merged.png"
     ]
   },
   "111-1-醫學(六)-55": {
-    "explanation": "此題考生殖內分泌的生理學，外生殖器的預設發育是往女性表徵方向發育，男嬰因有雄性素刺激，因此發育成為男性表徵的性器，故原始答案為 (D)\n(A) 根據「Two-cell-Two-gonadotropin theory」，由 LH 刺激 Theca cell 製造 testosterone 後，再由 FSH/LH 刺激 granulosa cell 將 testosterone 轉換成 estrogen\n(B) 除了卵巢外，腎上腺也會產生雄性素\n\n[ 爭議點 ] 依照 Berek & Novak's 教科書所述「停經後的卵巢仍繼續製造雄性素，因為停經並未影響到卵巢基質與囊鞘細胞 (theca cell)」，同時也說明「停經後女性的雄性素濃度比育齡女性低」，因此 (C) 描述為「雄性素維持不減」，並未說明是「製造」抑或是「濃度」，有爭議而給分",
+    "explanation": "答案 (C)、(D)（原答案 D，官方更正為 C、D 或 CD 均給分）。\n\n**女性的性荷爾蒙**\n\n- 合成：卵巢的雙細胞雙促性腺激素理論，濾泡膜細胞在 LH 作用下製造雄性素（androstenedione、testosterone），顆粒細胞在 FSH 作用下以芳香酶將其轉為雌激素，所以雄性素是雌激素的前驅物。\n- 女性雄性素的來源：\n  - 卵巢（濾泡膜細胞、基質細胞）\n  - 腎上腺（DHEA、DHEAS）\n  - 周邊組織轉換（脂肪、皮膚）\n- 停經後：\n  - 卵巢濾泡耗竭，雌激素明顯下降\n  - 雄性素也隨年齡逐漸下降（腎上腺 DHEAS 自中年即逐漸減少，卵巢分泌的 androstenedione 也減少），並不是維持不變；只是卵巢基質仍可分泌少量睪固酮，雄性素與雌激素的比例相對升高，故 (C) 錯誤\n- 外生殖器分化：在沒有雄性素（DHT）作用時，外生殖器原基自然發育成女性外生殖器，並不需要雌激素刺激，故 (D) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-55_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-55_merged.png"
     ]
   },
   "111-1-醫學(六)-56": {
-    "explanation": "(C) 所進行的是測量竇卵泡數目 (Antral Follicle Count, AFC)，可以了解卵巢功能，屬於不孕症評估的一環，並不能檢查排卵，以下簡單補充判斷排卵的方式：\n• 紀錄基礎體溫 (basal body temperature, BBT)：排卵後因 Progesterone 分泌增加，體溫會略為增加 0.9-1.8 ℃\n• 監測尿液 LH：用以監測 LH surge 發生，而排卵約在其之後 48 hr 內，最佳受孕時間為 LH surge 的前一天與當天\n• 黃體中期（約為月經之前一週），血液 Progesterone 3 ng/mL 可確認已排卵，但數值低不代表沒排卵\n• 陰道超音波檢查：監測 Dominant follicule 於排卵前後的變化，一般排卵前的濾泡約 17-19 mm，排卵後濾泡會變小，且可在 cul-de-sac 看到液體回音訊號\n\n[ 另類思考 ] 依照生殖生理學，排卵時間在月經週期的第 14 天左右，所以 (C) 描述「第五天」有點怪怪的，應該不太適合判斷是否有排卵",
+    "explanation": "答案 (C)。\n\n**判斷是否排卵的方法**\n\n| 方法 | 說明 |\n| --- | --- |\n| 基礎體溫 | 排卵後黃體素使體溫上升約 0.3–0.5°C，呈雙相體溫；方便但準確度有限 |\n| 黃體中期血清黃體素 | 在預期月經前約 7 天（28 天週期的第 21 天）抽血，> 3 ng/mL 代表有排卵 |\n| 尿液 LH 試紙 | 偵測 LH 高峰，排卵約在高峰後 24–36 小時 |\n| 連續超音波追蹤 | 追蹤主導卵泡長大（約 18–25 mm）後塌陷，骨盆腔出現少量積液 |\n| 子宮內膜切片 | 分泌期變化（目前少用） |\n| 月經規律 | 週期規律（21–35 天）通常代表有排卵 |\n\n月經第五天時卵泡剛開始募集，尚未出現主導卵泡，單次超音波只能評估竇卵泡數（卵巢庫存），無法判斷該週期是否排卵。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-56_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-56_merged.png"
     ]
   },
   "111-1-醫學(六)-57": {
-    "explanation": "（寒考【111-2(六)57】一樣考尿失禁手術，可相互參照！）\n\nTOT 與 TVT 皆屬於 Midurethral Slings 方式，將吊帶置於尿道中段，作為輔助性結構支持，答案為 (C)，根據 Petros and Ulmsten (1993 年) 的理論，正常支持性構造包含恥骨尿道韌帶 (pubourethral ligaments)、尿道下陰道吊床 (suburethral vaginal hammock) 與恥骨尾骨肌 (pubococcygeus muscle)，而吊帶手術是輔助這些支持性結構，改善尿失禁症狀",
+    "explanation": "答案 (C)。\n\n**中段尿道吊帶手術**\n\n- 原理（integral theory）：應力性尿失禁主要是恥骨尿道韌帶與尿道下方陰道吊床支撐不足；在尿道中段下方放置無張力的聚丙烯吊帶，腹壓增加時提供支撐，使尿道閉合。\n- 吊帶位置：尿道中段（而不是膀胱頸），這是與傳統膀胱頸懸吊手術（Burch）不同之處。\n\n| 術式 | 路徑 | 特點 |\n| --- | --- | --- |\n| 恥骨後無張力陰道吊帶（TVT） | 吊帶從陰道經恥骨後空間到下腹壁穿出 | 膀胱穿孔、血管與腸道損傷較多，需術中膀胱鏡 |\n| 經閉孔吊帶（TOT/TVT-O） | 吊帶經閉孔膜到大腿內側穿出 | 膀胱與血管損傷少，但大腿內側疼痛較多 |\n\n- 治癒率約 80–90%；併發症包括排尿困難或尿滯留、吊帶外露、新發生急迫性尿失禁。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-57_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-57_merged.png"
     ]
   },
   "111-1-醫學(六)-58": {
-    "explanation": "題幹所述的為 Bobath 提出的 (B) 神經發展技術，此技術基於「自發性動作出自高階皮質中心，原始反射出自低階皮質中心」的想法，藉由矯正不正常的姿勢與動作，抑制其反射，並增加獨立的肌肉動作促進高階皮質功能，其餘也是中風復健的治療技術：\n(A) 透過協調肌肉的攣縮狀況，將中風後分成不同 Brunnstrom Stage 觀察恢復情況\n(C) 本體神經誘發術是兼具感覺刺激及運動訓練，並且強調統合與完整的復健計畫\n(D) 為透過任務導向性的動作訓練，除了訓練肌力以外，也作為認知功能方面的復健",
+    "explanation": "答案 (B)。\n\n**中風復健的傳統神經促進技術**\n\n| 技術 | 重點 |\n| --- | --- |\n| 神經發展技術（NDT，Bobath） | 抑制異常的張力、反射與協同動作（如異常姿勢），利用關鍵點控制誘發正常的動作模式與獨立肌肉控制 |\n| Brunnstrom 動作治療 | 依恢復分期（六期）在早期刻意利用並加強協同動作與原始反射，再逐漸引導出分離動作 |\n| 本體感覺神經肌肉誘發術（PNF） | 利用對角螺旋的動作模式、牽張、阻力與本體感覺刺激促進動作 |\n| Rood 技術 | 用感覺刺激（刷、冰敷、輕拍）促進或抑制肌肉反應 |\n| 工作導向訓練（task-oriented） | 以功能性任務反覆練習，依動作學習理論，是現代主流 |\n| 侷限誘發動作治療（CIMT） | 限制健側，強迫使用患側上肢 |\n\n強調抑制不正常姿勢與動作、誘發獨立肌肉控制的是神經發展技術；Brunnstrom 則相反，早期會利用協同動作。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-58_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-58_merged.png"
     ]
   },
   "111-1-醫學(六)-59": {
-    "explanation": "這題有兩個關鍵字：\n• 肱骨螺旋溝（spiral groove，題目打錯了），又稱 radial groove，上面走的神經是 radial nerve\n• 手腕下垂 (dropped wrist) 無法背屈，指伸腕肌群（前臂背側區）無力；此處肌肉由 radial nerve 控制\n\n故答案為 (B)，其餘選項神經運動支的控制：\n(A) 尺神經：負責手掌屈肌群的尺側屈腕肌 (flexor carpi ulnaris) 與屈指伸肌 (flexor digitorum profundus)\n(C) 正中神經：負責上述兩條肌肉以外的手掌屈肌群\n(D) 肌皮神經：負責上臂屈肌的喙肱肌 (coracobrachialis)、肱二頭肌 (biceps brachii) 與肱肌 (brachialis)",
+    "explanation": "答案 (B)。\n\n**肱骨幹骨折合併橈神經損傷**\n\n- 橈神經在上臂中段沿肱骨後方的螺旋溝（radial groove）走行，緊貼骨頭，因此肱骨中段至遠端三分之一骨折（Holstein-Lewis 骨折）容易合併橈神經損傷。\n- 表現：\n  - 手腕下垂（伸腕肌無力）、掌指關節無法伸直、拇指無法伸展\n  - 手背虎口區域（第一背側骨間）感覺異常\n  - 肱三頭肌通常保留（分支在螺旋溝近端）\n- 預後：大多為神經失用或軸突斷傷，約 70–90% 在 3–6 個月內自行恢復；可先觀察，配合手腕支架與復健；若 3–6 個月仍無恢復跡象，再做肌電圖並考慮手術探查。\n- 其他神經的典型表現：\n\n| 神經 | 表現 |\n| --- | --- |\n| 尺神經 | 爪形手、Froment 徵象 |\n| 正中神經 | 祝福手勢、猿手 |\n| 肌皮神經 | 屈肘無力、前臂外側感覺異常 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-59_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-59_merged.png"
     ]
   },
   "111-1-醫學(六)-60": {
-    "explanation": "運動單元 (motor unit) 指單一條運動神經所支配的肌肉纖維群；越大肌肉就由越多的肌肉纖維組成，因此有更大的運動單元，附帶一提，當運動單元越大，此肌肉所能控制的動作就越粗糙，反之越小的運動單元較能控制肌肉進行精細動作，如：眼外肌群 (extraocular muscles)，這題理解「運動單元」的概念，就很好解題了，(B) 選項跟其餘三者比起來有最多的肌肉纖維組成，其運動單元應是最大的",
+    "explanation": "答案 (B)。\n\n**運動單元的大小**\n\n- 運動單元：一個運動神經元與其支配的所有肌纖維。\n- 神經支配比（每個運動神經元支配的肌纖維數）：\n\n| 肌肉 | 運動單元 | 特點 |\n| --- | --- | --- |\n| 眼外肌（如內直肌） | 最小（約 1:5–10） | 動作精細 |\n| 喉內肌 | 很小 | 精細控制發聲 |\n| 手部內在肌 | 小（約 1:100） | 精細動作 |\n| 咀嚼肌 | 中等 | — |\n| 股四頭肌、腓腸肌 | 大（約 1:1,000–2,000） | 產生大力量、維持姿勢 |\n\n- 大小原則（Henneman size principle）：肌肉收縮時，小的運動單元先被徵召，力量需求增加時再徵召大的運動單元。\n- 肌電圖應用：神經病變時因側枝再支配，運動單元電位變大、變長、多相；肌肉病變時則變小、變短、多相。",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-60_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(六)-60_merged.png"
@@ -3061,70 +3061,70 @@
   },
   "111-2-醫學(六)-41": {
     "id": "111-2-醫學(六)-41",
-    "explanation": "各選項拆開來判斷比較好解題，子宮肌瘤是最常見的良性子宮腫瘤，但大多數病人是無症狀的，故 (B) 錯誤\n(A) 不管在哪科看到生育年齡女性，一定要記得先確定有無懷孕，因為可能是主訴的鑑別診斷之一，或是需要避免特定藥物或放射性檢查\n(C) (D) 生育年齡段的卵巢瘤多為良性的畸胎瘤、巧克力囊腫或功能性囊腫",
+    "explanation": "答案 (B)。\n\n**生育年齡婦女的骨盆腔腫塊**\n\n- 第一步：先確定有無懷孕（驗孕），以排除子宮內懷孕與子宮外孕。\n- 子宮肌瘤：\n  - 最常見的良性子宮腫瘤（也是女性骨盆腔最常見的腫瘤）\n  - 大部分（約 50–80%）沒有症狀，故 (B) 錯誤\n  - 有症狀者表現為經血過多、骨盆壓迫感（頻尿、便秘）、不孕\n- 卵巢腫塊：\n  - 生育年齡多為良性，最常見的是功能性囊腫（濾泡囊腫、黃體囊腫）\n  - 最常見的卵巢良性腫瘤是成熟畸胎瘤，其次為子宮內膜異位瘤與漿液性囊腺瘤\n- 其他：輸卵管積水、輸卵管卵巢膿瘍、子宮外孕、腸道腫瘤。\n- 檢查以陰道超音波為主，必要時加上腫瘤標記與 MRI。",
     "images": [
       "/explanations/cropped/111-2_6_41.png"
     ]
   },
   "111-2-醫學(六)-42": {
     "id": "111-2-醫學(六)-42",
-    "explanation": "不論早期還是晚期的梅毒，治療首選用藥皆為 Penicillin G，故毫不猶豫的選 (A)，早期梅毒可以 Penicillin G Benzathine 2.4M Unit, IM 打一針即可，晚期梅毒則需要打 3 次（每週 1 針），若對 Penicillin 過敏者才考慮其他用藥，包含 Doxycycline、Ceftriaxone 或 Tetracycline，此題也是【醫學（三）感染科】的考點！",
+    "explanation": "答案 (A)。\n\n**梅毒的治療**\n\n| 分期 | 治療 |\n| --- | --- |\n| 早期梅毒（第一期、第二期、早期潛伏） | Benzathine penicillin G 240 萬單位肌肉注射一次 |\n| 晚期潛伏、三期梅毒（非神經性） | Benzathine penicillin G 240 萬單位每週一次，共 3 次 |\n| 神經梅毒、眼梅毒 | 靜脈注射水性 crystalline penicillin G 10–14 天 |\n| 懷孕 | 只能用 penicillin；對 penicillin 過敏者應先減敏感 |\n| 先天性梅毒 | 靜脈注射 penicillin G |\n\n- 對 penicillin 過敏的非懷孕病人，可用 doxycycline 或 tetracycline 替代；azithromycin 因抗藥性問題不建議使用。\n- 治療後可能出現 Jarisch-Herxheimer 反應（發燒、頭痛、肌肉痛），並以 VDRL/RPR 效價追蹤療效。",
     "images": [
       "/explanations/cropped/111-2_6_42.png"
     ]
   },
   "111-2-醫學(六)-43": {
     "id": "111-2-醫學(六)-43",
-    "explanation": "此題類似考手術適應症的概念，透過敘述可知，此囊腫為單腔室、無固態組織 (solid compartment) 的單純性囊腫 (simple cyst)，且無慢性疼痛、腹水、性早熟（表示其非功能性）或其他腹內病灶，因此可以透過密切觀察就好，不一定需要手術，故 (A) 為最適當選項，以下補充兒童的卵巢腫塊的評估處置：\n* 臨床症狀\n  - 可能是無症狀、肚子鼓脹或因壓迫造成慢性腹痛\n  - 若為功能性則可造成兒童性早熟 (precocious puberty)\n  - 與成人卵巢囊腫一樣，可能發生破裂、出血或扭轉造成劇烈腹痛\n* 組織學\n  - 單純性囊腫：單腔室，內容物並無固態組織或分隔 (septation)\n  - 複雜性囊腫：此年齡段以生殖細胞瘤最常見（佔 ½~⅔），其中又以良性成熟畸胎瘤為主；卵巢上皮腫瘤較罕見\n* 評估：經腹超音波為主，可進一步以 CT 評估\n* 處置\n  - 無分隔的單純性囊腫：因為大多是良性的，多數會在 3-6 個月內自行消失，可以密切追蹤即可；太大者要小心卵巢扭轉的風險\n  - 手術時機：持續變大、腫塊 >8 cm、複雜性囊腫 ⇒ 進行保留生育能力囊腫切除術 (Fertility-sparing oophorocystectomy)",
+    "explanation": "答案 (A)。\n\n**青春期前女孩的卵巢囊腫**\n\n- 本題 7 歲女孩，單側 6 公分單房性囊腫，內部無回音、無實心成分，無腹水，對側卵巢正常；這些都是良性的超音波特徵，而且沒有疼痛、沒有扭轉跡象。\n- 處置原則：\n  - 單純性囊腫可先密切觀察，數週到數月後以超音波追蹤，多數會自行消退\n  - 可檢查腫瘤標記（AFP、β-hCG、LDH、inhibin）與雌激素（評估性早熟）\n  - 手術適應症：持續存在或變大、有實心成分或可疑惡性特徵、出現卵巢扭轉或破裂的症狀\n  - 必須手術時，應盡量保留卵巢（囊腫切除），避免不必要的卵巢切除\n- 囊腫抽吸容易復發，且若為腫瘤可能造成擴散，不建議。",
     "images": [
       "/explanations/cropped/111-2_6_43.png"
     ]
   },
   "111-2-醫學(六)-44": {
     "id": "111-2-醫學(六)-44",
-    "explanation": "AUB 是在婦科實習常被考的基本問題，輸卵管積水通常次發於骨盆腔發炎、子宮內膜異位症導致輸卵管沾黏後，產生的水腫，大多是無症狀，但可能造成骨盆腔疼痛或不孕，並不太造成子宮出血，故選 (C)，除了 (A) 懷孕之外，針對常見 Abnormal Uterine Bleeding (AUB) 原因，FIGO 創立一個分類口訣為「PALM-COEIN」：\n\n| 結構性問題 -PALM | 功能性問題 -COEIN |\n| :--- | :--- |\n| • Polyp 子宮內膜息肉<br>• Adenomyosis 子宮肌腺症<br>• Leiomyoma 子宮（平滑）肌瘤<br>• Malignancy/Hyperplasia 癌症 / 內膜增生 | • Coagulopathy 凝血異常<br>• Ovulatory disorder 排卵異常<br>• Endometrial dysfunction 子宮內膜異常<br>• Iatrogenic 醫源性問題<br>• Not otherwise classified 其他，包含：骨盆腔發炎疾病、子宮頸炎、性傳染病、血管畸型、子宮內膜沾黏 (Asherman syndrome) |\n\n(B) 影響排卵因素包含：青少年的性腺未成熟、卵巢早衰、過量雄激素（如：多囊性卵巢）、甲狀腺低下、肥胖、高泌乳素血症\n(D) 腫瘤除了子宮內膜來源外，出血也要想兒子宮頸癌、子宮肉瘤等",
+    "explanation": "答案 (C)。\n\n**不正常子宮出血的原因（PALM-COEIN）**\n\n| 結構性（PALM） | 非結構性（COEIN） |\n| --- | --- |\n| 子宮內膜息肉（Polyp） | 凝血功能異常（Coagulopathy，如 von Willebrand 病） |\n| 子宮肌腺症（Adenomyosis） | 排卵功能異常（Ovulatory dysfunction：多囊性卵巢、甲狀腺功能異常、高泌乳激素） |\n| 子宮肌瘤（Leiomyoma） | 子宮內膜本身（Endometrial） |\n| 惡性腫瘤與增生（Malignancy） | 醫源性（Iatrogenic：抗凝血劑、荷爾蒙） |\n| — | 尚未分類（Not yet classified：剖腹產疤痕憩室、動靜脈畸形） |\n\n- 評估不正常出血時，首先要排除懷孕相關出血（流產、子宮外孕）。\n- 輸卵管積水通常表現為不孕或骨盆疼痛，不會引起不正常子宮出血。",
     "images": [
       "/explanations/cropped/111-2_6_44.png"
     ]
   },
   "111-2-醫學(六)-45": {
     "id": "111-2-醫學(六)-45",
-    "explanation": "子宮內膜息肉與慢性 Estrogen、Progesterone 刺激相關，風險因子包括年紀、肥胖與使用 Tamoxifen，大多數的息肉沒有症狀，通常是意外發現；若有症狀則可能造成大量經血 (heavy menstrual bleeding)、延遲經血或經期間出血，有些會造成痛經 (dysmenorrhea)，故 (D) 選項敘述較不正確",
+    "explanation": "答案 (D)。\n\n**子宮內膜息肉**\n\n- 子宮內膜腺體與基質局部過度增生，突入子宮腔。\n- 危險因子：年齡增加、肥胖、高血壓、tamoxifen、荷爾蒙治療。\n- 症狀：\n  - 多數沒有症狀，常在超音波意外發現\n  - 有症狀者最常見的是不規則出血（經間出血、經血過多、停經後出血）\n  - 也可能造成經痛（尤其較大或脫出子宮頸者，子宮收縮試圖排出息肉）與不孕，故 (D) 錯誤\n- 診斷：陰道超音波（生理食鹽水灌注超音波更清楚）、子宮鏡。\n- 惡性機率低（約 1–5%），停經後、有出血、tamoxifen 使用者較高。\n- 治療：子宮鏡切除（有症狀、停經後、不孕者）。",
     "images": [
       "/explanations/cropped/111-2_6_45.png"
     ]
   },
   "111-2-醫學(六)-46": {
     "id": "111-2-醫學(六)-46",
-    "explanation": "子宮平滑肌瘤（即子宮肌瘤）為最常見的良性婦科腫瘤，依照分佈位置可分為 FIGO type 1~8（可搭配【111-1(六)48 複習】），子宮平滑肌瘤大部分無症狀，而症狀通常與其生長的位置有一定的關係，詳列如下表：\n\n| 臨床表現 | 造成此臨床表現最常見的子宮平滑肌瘤類型 |\n| :--- | :--- |\n| 不正常子宮出血 | 黏膜下 (submucosal) 子宮平滑肌瘤由於有一部分位於子宮腔內，故可能影響子宮內膜的剝落而影響子宮出血 |\n| 鄰近骨盆腔器官的壓迫 | 漿膜下 (subserosal) 子宮平滑肌瘤長在子宮體外側靠近腹骨盆腔側，因此不太影響經血排出，主要的症狀應該是壓迫鄰近骨盆腔器官，如：膀胱、直腸，造成排尿或排便困難 |\n| 影響生育 | 黏膜下 (submucosal) 子宮平滑肌瘤由於有一部分位於子宮腔內，故最可能影響子宮內膜而造成懷孕困難、增加早產或胎兒生長遲滯風險、增加流產風險等 |\n\n子宮平滑肌瘤由於大部分無明顯症狀，此情況下通常不需治療，6 個月定期追蹤即可，其他治療方式列於下表：\n\n| 治療方式 | | 說明 |\n| :--- | :--- | :--- |\n| 藥物 | GnRH agonist | 抑制 estrogen 和 progesterone 的製造，使身體處於暫時停經的狀態，並抑制此二種激素促進肌瘤生長的作用，使肌瘤縮小；亦有改善經血異常的作用 |\n| | Progesterone receptor antagonist | 可使肌瘤縮小，改善經血異常 |\n| | Progestin-releasing intrauterine device (IUD)、口服避孕藥 Transamin | 只能改善經血異常，無法使肌瘤縮小 |\n| | NSAID | 只能止痛，無法改善經血異常或使肌瘤縮小 |\n| 手術 | 子宮動脈栓塞 (uterine artery embolization) | 透過栓塞子宮動脈的方式縮小子宮肌瘤、改善異常出血；不適合孕婦或仍有生育計畫者 |\n| | 肌瘤溶解術 | 透過電燒、超音波、冷凍、雷射等方式去除肌瘤 |\n| | 子宮肌瘤切除術 (myomectomy) | 保留子宮，僅切除子宮肌瘤；適合仍有生育計畫者；術後若要受孕建議間隔 3~6 個月 |\n| | 子宮切除術 (hysterectomy) | 適用於未來無生育計畫、子宮肌瘤數量過多或大小過大、其他治療無效者 |\n\n手術治療的適應症包括：(1) 藥物治療無效 (2) 症狀嚴重，影響生活 (3) 子宮平滑肌瘤生長過快，懷疑有惡性的可能 (4) 子宮平滑肌瘤導致的不孕或流產",
+    "explanation": "答案 (B)。\n\n**子宮肌瘤**\n\n- 最常見的良性婦科腫瘤（也是女性最常見的骨盆腔腫瘤）。\n- 位置與症狀：\n\n| 位置 | 主要症狀 |\n| --- | --- |\n| 黏膜下 | 經血過多（最明顯）、不孕、流產；切除後可增加受孕率 |\n| 肌層內 | 經血過多、經痛、壓迫症狀 |\n| 漿膜下 | 通常不影響經血量，以壓迫症狀為主（頻尿、便秘、腹脹）；帶蒂者可能扭轉 |\n\n- 漿膜下肌瘤不會使子宮內膜面積增加，因此不常造成經血量增多，故 (B) 錯誤。\n- 藥物治療：GnRH 促效劑或拮抗劑使肌瘤縮小（術前或接近停經者）、LNG-IUS、tranexamic acid。\n- 手術：子宮鏡肌瘤切除（黏膜下）、肌瘤切除（保留生育）、子宮切除；其他如子宮動脈栓塞、聚焦超音波。",
     "images": [
       "/explanations/cropped/111-2_6_46.png"
     ]
   },
   "111-2-醫學(六)-47": {
     "id": "111-2-醫學(六)-47",
-    "explanation": "本題考 Müllerian ducts 發育異常相關疾病，由胚胎學可以得知，兩條 Müllerian ducts 會相互融合形成子宮體、子宮頸與陰道上半部，若融合異常可能導致 (A) 無子宮、雙子宮、(B) 雙角子宮、(C) 子宮中膈等；而卵巢發育來自生殖嵴 (gonadal ridge)，與 Müllerian ducts 融合無關，故選 (D)\n\n[ 不負責任猜答案 ] (A) (B) (C) 都在講子宮，只有 (D) 是卵巢，所以答案可能是 (D)",
+    "explanation": "答案 (D)。\n\n**穆勒氏管異常的分類**\n\n| 發育階段異常 | 結果 |\n| --- | --- |\n| 發育不全（未形成） | 無子宮無陰道（MRKH 症候群）、單角子宮 |\n| 側向融合失敗 | 雙子宮（完全未融合）、雙角子宮（部分未融合） |\n| 中膈吸收失敗 | 中膈子宮（最常見，流產率最高） |\n| 其他 | 弓狀子宮、DES 相關的 T 形子宮 |\n\n- 卵巢起源於生殖嵴（原始生殖細胞遷移至此），與穆勒氏管無關；因此多卵巢症（額外卵巢）不是穆勒氏管融合或吸收異常的結果。\n- 穆勒氏管異常的病人卵巢功能正常，第二性徵正常；但常合併泌尿道異常。",
     "images": [
       "/explanations/cropped/111-2_6_47.png"
     ]
   },
   "111-2-醫學(六)-48": {
     "id": "111-2-醫學(六)-48",
-    "explanation": "（可參照【111-1(六)47】！）\n細菌性陰道炎 (bacterial vaginosis, BV) 為陰道內厭氧菌過度增生取代常在菌叢，包含：陰道加德納菌 (Gardnerella vaginalis)、普雷沃氏菌 (Prevotella spp.)、類桿菌 (Bacteroides spp.) 等；常見的風險因子為頻繁陰道灌洗或頻繁性行為（鹼性的精液），改變陰道酸性環境與常在菌叢，故 (B) 為最適切答案\n(A) 產生乳酸建立酸性環境的乳酸菌與 (C) 生產前篩檢的乙型鏈球菌為陰道的常在菌叢，二者為嗜氧菌\n(D) 砂眼披衣菌為性傳染病之一，主要感染子宮頸、子宮內膜及骨盆腔發炎性疾病",
+    "explanation": "答案 (B)。\n\n**細菌性陰道炎的致病菌**\n\n- 陰道菌叢失衡：產生過氧化氫的乳酸菌減少，厭氧菌與兼性厭氧菌過度增生。\n- 主要相關細菌：\n  - 陰道加德納菌（Gardnerella vaginalis，最具代表性）\n  - Mobiluncus、普雷沃氏菌、Atopobium vaginae、人型黴漿菌\n- 其他選項：\n  - 乳酸菌：正常陰道優勢菌，維持酸性（pH 3.8–4.5）\n  - 乙型鏈球菌：可在陰道與直腸帶原，與新生兒感染有關，不是細菌性陰道炎的致病菌\n  - 披衣菌：造成子宮頸炎與骨盆腔炎\n- 特徵：灰白色稀薄分泌物、魚腥味、pH > 4.5、線索細胞；治療用 metronidazole。",
     "images": [
       "/explanations/cropped/111-2_6_48.png"
     ]
   },
   "111-2-醫學(六)-49": {
     "id": "111-2-醫學(六)-49",
-    "explanation": "卵巢癌最常經由腹膜發生轉移，癌細胞會鬆動剝落掉入腹腔中，隨著腹膜液散佈於腹膜各處，再黏附於腹腔中各種組織器官並加以發展為腫瘤，其他轉移路徑包括淋巴轉移及血行轉移\n\n卵巢癌的轉移方式或許也可從 FIGO Stage 中看出端倪：早期卵巢癌 (Stage IC-III) 除侵犯鄰近組織外，就直接跑到腹腔（腹水 cytology）、侵犯骨盆腔到骨盆腔外的腹膜；而後期 Stage III、IVB 才描述其淋巴轉移的情況；也到 Stage IVB 才經由血液轉移到其他器官",
+    "explanation": "答案 (B)。\n\n**卵巢癌的擴散途徑**\n\n| 途徑 | 說明 |\n| --- | --- |\n| 腹膜種植（最常見） | 腫瘤細胞脫落到腹腔，隨腹水循環種植在腹膜、大網膜、橫膈下（尤其右側）、腸道表面，造成腹水 |\n| 淋巴轉移 | 常見，沿卵巢血管至主動脈旁淋巴結，或經闊韌帶至骨盆淋巴結；晚期淋巴轉移比例高 |\n| 直接侵犯 | 輸卵管、子宮、膀胱、直腸 |\n| 血行轉移 | 較少見，晚期才發生（肝實質、肺、肋膜積液） |\n\n- 卵巢癌早期多無症狀，診斷時約 70% 已是第三、四期。\n- 經皮膚轉移極為罕見，並不是卵巢癌的轉移途徑（但需注意腹腔穿刺或腹腔鏡套管口的腫瘤種植）。",
     "images": [
       "/explanations/cropped/111-2_6_49.png"
     ]
   },
   "111-2-醫學(六)-50": {
     "id": "111-2-醫學(六)-50",
-    "explanation": "(C) 未生產 (Nulliparity) 暗示「長期雌激素刺激」，因為這類婦女至少比有生產過的婦女多了 10 次的月經週期（簡單來說），因此常常是「雌激素相關的腫瘤」的風險因子，包含乳癌、卵巢癌、子宮內膜癌等，與外陰癌較沒有關聯，以下簡單補充外陰癌 (Vulvar cancer) 與其前驅病灶 (VIN)，常依照流行病學、風險因子與癌症組織學分兩類比較：\n\n| 比較項目 | Classic VIN | Differentiated VIN |\n| :--- | :--- | :--- |\n| 流行病學 | 較常見，年輕女性為主 | 高齡婦女為主 |\n| 風險因子 | 抽菸、HPV 感染、免疫低下 | 硬化性苔癬 (Lichen sclerosus)、鱗狀細胞增生 (Squamous cell hyperplasia) |\n| 外陰癌的組織學型態 | Basaloid/Warty Squamous cell carcinoma | Keratinizing Squamous cell carcinoma |\n| 相關突變 | p16 | p53 |",
+    "explanation": "答案 (C)。\n\n**外陰癌的危險因子**\n\n- 外陰癌以鱗狀細胞癌為主（約 90%），分為兩種致病途徑：\n\n| 類型 | 族群 | 危險因子 |\n| --- | --- | --- |\n| HPV 相關型 | 較年輕女性 | HPV 感染（16、18 型）、外陰高度鱗狀上皮內病變、子宮頸癌或其癌前病變病史、抽菸、免疫不全 |\n| 非 HPV 相關型 | 年長女性 | 硬化性苔蘚、分化型外陰上皮內腫瘤、慢性發炎 |\n\n- 未生育是子宮內膜癌與卵巢癌的危險因子，與外陰癌無關。\n- 表現：外陰搔癢（最常見）、腫塊或潰瘍；任何可疑外陰病灶都應切片。\n- 最常轉移至腹股溝淋巴結。",
     "images": [
       "/explanations/cropped/111-2_6_50.png"
     ]
@@ -3171,70 +3171,70 @@
   },
   "111-2-醫學(六)-51": {
     "id": "111-2-醫學(六)-51",
-    "explanation": "塗抹 3-5% 醋酸後，會造成可逆的蛋白質變性，導致癌化的上皮層發生白化 (acetowhitening)，但教科書特別提到「重要的是，惡性癌症通常不會有白化的表現，因為其富含血管的緣故 (Importantly, malignancy often is not acetowhite due to its vascularity)」題目所述「侵犯性病灶 (invasive lesion)」指的是病灶已侵犯超過基底膜的癌症（大多數上皮癌都是這樣定義的），而非尚未超過基底膜的子宮頸上皮內腫瘤 (cervical intraepithelial neoplasia, CIN)，因此 (C) 選項錯誤 上一次類似考題已經是超過 5 年前了，以下為子宮頸陰道鏡檢查與染色的簡單整理（改寫自 William's Gynecology Table 29-7），通常區分成 low-grade、high-grade 與 invasive cancer：\n\n| 特徵 | Low-Grade | High-Grade | Invasive Cancer |\n| :--- | :--- | :--- | :--- |\n| 病灶邊緣 / 形狀 | 疣狀、乳突狀、邊緣不規則、扁平 | 邊緣清楚、脫皮 (peeling)、internal margin、ridge sign | 外生性 (exophytic) 病灶、表面不規則 / 壞死 / 潰瘍 |\n| 醋酸白化 | 薄層半透明、消退快速、邊緣較模糊 | 後層且至密、快速產生且緩慢消退、邊緣清楚 | 通常不會白化 |\n| 血管病灶 | 有 Punctation、Mosaicism 特徵<br>Fine patterns | 有 Punctation、Mosaicism 特徵<br>Coarse patterns | 有 Atypical vessles |\n| Lugol 碘液染色 | Positive (紫) / Partial | Negative (棕) | Negative (棕) |\n\n※ 補充：碘液染色原理與國中澱粉變色實驗相同 正常育齡女性的子宮頸上皮組織富含肝醣，因此會染色成深紫色；但惡性病變的上皮分化並不完全，肝糖含量較低，因此呈現棕色",
+    "explanation": "答案 (C)。\n\n**陰道鏡下侵犯性子宮頸癌的特徵**\n\n- 非典型血管：不規則的逗號狀、螺旋狀、髮夾狀、樹枝狀血管，管徑與間距不規則。\n- 表面不規則、隆起、潰瘍或易碎出血。\n- 顏色改變：黃色或灰白色（壞死、角化）、血管增生造成的顏色變化。\n- 粗大而不規則的鑲嵌與點狀血管。\n\n**醋酸試驗**\n\n- 塗抹 3–5% 醋酸後，細胞核質比高的異常上皮會暫時變白（醋白上皮）。\n- 醋白變化可見於各種程度的子宮頸上皮內病變（CIN 1–3），甚至是發炎或化生上皮，並非侵犯性癌的特異表現。\n\n醋白上皮是陰道鏡最基本的異常發現，不是侵犯性病灶的特徵。",
     "images": [
       "/explanations/cropped/111-2_6_51.png"
     ]
   },
   "111-2-醫學(六)-52": {
     "id": "111-2-醫學(六)-52",
-    "explanation": "GTD 是婦癌數一數二愛考的，今年暑考甚至也考在【醫學（三）】！？\n\nhCG 是 GTD 特異性最高的 marker，主要由融合滋養母細胞 (syncytiotrophoblast) 產生，在診斷前評估、後續處置都是很重要的輔助資訊 正常懷孕下的 hCG 在懷孕初期上升至 50,000~100,000 mIU/mL，並在後續下降維持在一定濃度約 10,000-20,000 mIU/mL（可以參考【111-2(六)29】詳解整理）\n\n葡萄胎 (hydatidiform mole) 與絨毛膜細胞癌 (choriocarcinoma) 通常會有異常高的 hCG 數值，是懷孕期間 hCG 異常上升的鑑別診斷；但胎盤部位滋養層細胞腫瘤 (placental-site trophoblastic tumor, PSTT) 及類上皮滋養層細胞腫瘤 (epithelioid trophoblastic tumor, ETT) 一般 hCG 數值則偏低 (<2,000 mIU/mL)，故 (B) 敘述「都會」是錯誤的 以下簡單整理 GTD 的考點：\n\n* 葡萄胎 (hydatidiform mole)\n  - 臨床表現：子宮擴大速度不正常、陰道出血、過期流產、嚴重孕吐 (hyperemesis gravidarum，因高量 hCG)、甲狀腺亢進（因高量 hCG 刺激）\n  - 風險因子：懷孕年紀太小 (<20 歲) 或太老 (>45 歲)、葡萄胎病史、異位妊娠病史\n  - 2 種葡萄胎的比較\n\n| 特性 | Complete Mole | Partial Mole |\n| :--- | :--- | :--- |\n| 子宮大小 | 比正常大 | 比正常小 |\n| hCG(mIU/mL) | 超高 (>100,000) | 高（較 Complete 低） |\n| GTN 風險 | 15-20% | 1-5%（較 Complete 低） |\n| 病理 | 滋養層明顯增生 + 絨毛水腫 (hydropic villi)；無胎兒 | 局部滋養層增生；通常可見胎兒 |\n| 經陰道超音波 | 顆粒狀 (snow-storm appearance) | 可見胚胎，並多以 missed abortion 狀態下發現 |\n\n  - 若絨毛水腫組織侵犯子宮肌層、血管或子宮以外的組織，稱侵犯性葡萄胎 (invasive mole)\n  - 治療追蹤：進行 D&C，並追蹤 β-hCG 下降幅度\n* 妊娠滋養體腫瘤 (gestational trophoblastic neoplasia, GTN)\n  - 種類：絨毛膜細胞癌 (choriocarcinoma) 最常見，化療效果較好；PSTT 與 ETT 較少見也較難治療\n  - FIGO Stage：I 在子宮內 ⇒ II 在生殖道其他構造內 ⇒ III 肺轉移 ⇒ IV 其他轉移\n  - 預後計分系統 (Prognostic Scoring System) 依照年紀、先前懷孕狀況（葡萄胎 / 流產 / 足月產）、發現時機點、hCG 濃度、腫瘤大小、轉移位置與數目（可參考【111-2(三)36】詳解），簡單來說：\n    • <40 歲、肺轉移（新的被拿掉了）、懷孕早期發現 (<4 個月) 風險較低\n    • 肝、腦轉移預後較差\n    • Choriocarcinoma 的治療\n      - 第一線為化療，低風險者可以用單方 (MTX 或 Actinomycin-D)；若高風險者會用複方化療 (EMA/CO 或 EMA/EP)\n      - 若化療效果不彰者，考慮子宮切除\n      - 腦部轉移病灶：放射治療合併化療\n    • 預後：GTN 完治後仍可以正常懷孕，但還是有提早停經、不孕、葡萄胎的可能\n  - PSTT 與 ETT 化療反應不佳，主要是手術切除",
+    "explanation": "答案 (B)。\n\n**妊娠滋養層疾病（GTD）**\n\n- 胎盤滋養層細胞異常增生的一群疾病：\n\n| 類型 | 說明 |\n| --- | --- |\n| 葡萄胎（完全性、部分性） | 良性，可能進展為妊娠滋養層腫瘤 |\n| 侵襲性葡萄胎 | 侵入子宮肌層 |\n| 絨毛膜癌 | 惡性，早期血行轉移 |\n| 胎盤部位滋養層腫瘤（PSTT） | 由中間型滋養層細胞形成，hCG 只輕度上升，human placental lactogen 較高，對化療反應差，以手術為主 |\n| 類上皮滋養層腫瘤（ETT） | 類似 PSTT |\n\n- PSTT 與 ETT 的 hCG 常只輕度上升，因此並不是所有 GTD 的 hCG 都會異常明顯上升，故 (B) 錯誤。\n- 妊娠滋養層腫瘤（GTN）對化療非常敏感：低風險未轉移者治癒率接近 100%，化療治癒後仍可正常懷孕（建議追蹤 hCG 正常一年後再懷孕）。",
     "images": [
       "/explanations/cropped/111-2_6_52.png"
     ]
   },
   "111-2-醫學(六)-53": {
     "id": "111-2-醫學(六)-53",
-    "explanation": "Type I 與 II 子宮內膜癌為婦癌超級愛考的觀念比較（如寒考【111-1(六)52】） 子宮內膜癌同時併發原發性卵巢上皮癌 (Synchronus Endometrial and Ovairan Cancer, SEOC)，意指兩個癌症是獨立的，並非指子宮內膜癌的卵巢轉移\n\n此類癌症最常見的病理型態是同時在子宮內膜及卵巢觀察到 endometrioid type 組織學，又 type I 子宮內膜癌的病理型態原型即是 endometrioid，故 (C) 選項錯誤 由於 (C) 本身頗難，可以透過刪去正確選項 (A) (B) (D) 得到答案 以下再次整理 Type I & II Endometrial Carcinoma 的比較表格：\n\n| 比較特性 | Type I | Type II |\n| :--- | :--- | :--- |\n| 流行病學 | 較常見，發生於停經前（年紀較輕） | 發生於停經後（年紀較大） |\n| 雌激素風險 | 非對抗性雌激素 (unopposed estrogen)#、肥胖 | 相關性較低 |\n| 前驅病灶 | Endometrial hyperplasia ⇒ Atypical hyperplasia | Endometrial atrophy ⇒ Endometrial intraepithelial carcinoma |\n| 病理型態原型 | Endometrioid | Serous |\n| 其他病理型態 | Mucinous, Endometrioid with squamous differentiation | Clear cell (部分) |\n| 腫瘤分級 | Low Grade | High Grade |\n| 基因變異 | • PTEN 與 PIK3CA 突變<br>• 微衛星不穩定 (microsatellite instability)*<br>• KRAS 突變 | • P53 突變，佔此 type 約 90%<br>• 部分觀察到 HER-2/neu、CMYC 的過量表現 |\n\n# 非對抗性雌激素：指使用 HRT 時，並未使用 Progestin 對抗雌激素在子宮內膜的作用\n* 部分 Type I 的病理機制來自 microsatellite instability(MSI)，其中一群為遺傳性的 Lynch syndrome，其機制與相關癌症是醫學（三）腫瘤科、醫學（五）大腸直腸科考點！",
+    "explanation": "答案 (C)。\n\n**第一型與第二型子宮內膜癌**\n\n| 項目 | 第一型 | 第二型 |\n| --- | --- | --- |\n| 與荷爾蒙的關係 | 與未拮抗的雌激素相關 | 與荷爾蒙較無直接相關 |\n| 好發年齡 | 較年輕（停經前後） | 較年長 |\n| 組織型態 | 類子宮內膜腺癌 | 漿液性癌、亮細胞癌 |\n| 基因變化 | PTEN（最常見）、KRAS、微衛星不穩定 | TP53、HER2/neu 擴增 |\n| 預後 | 較好 | 較差 |\n\n- 同時合併原發性卵巢癌（同步雙原發）：較常見於年輕、與雌激素相關的第一型類子宮內膜癌，通常同時合併卵巢的類子宮內膜癌，預後相對良好（也與 Lynch 症候群有關）；並不是第二型較常見，故 (C) 不恰當。",
     "images": [
       "/explanations/cropped/111-2_6_53.png"
     ]
   },
   "111-2-醫學(六)-54": {
     "id": "111-2-醫學(六)-54",
-    "explanation": "（寒考【111-1(六)54】也考了 ovarian reserve 的觀念！）\n\n卵巢存量 (ovarian reserve) 是不孕症評估的其中一環（即評估懷孕的本錢） 常用評估卵巢存量下降 (diminished ovarian reserve, DOR) 指標包含：\n* 月經第 3 天 FSH 與 E2 上升（∵ inhibin 分泌量下降，無法抑制 FSH 分泌，進而使 E2 製造增加）\n* Anti-Müllerian Hormone 下降（∵ 由 Preantral follicles 的 granulosa cell 製造，濃度下降可以反應濾泡存量下降），一般 25 歲 AMH 約 3 ng/mL，而 35-37 歲約 1 ng/mL\n* 卵巢竇濾泡數目 <3-6（antral follicle count，可以預測後續卵巢刺激後的反應用）\n\n故僅 (C) 反應卵巢中卵泡的庫存量下降，其餘皆反應良好卵巢功能",
+    "explanation": "答案 (C)。\n\n**卵巢庫存量下降的指標**\n\n| 指標 | 庫存下降時的變化 |\n| --- | --- |\n| 竇卵泡數（AFC，月經第 2–4 天） | 減少，兩側總數 < 5–7 顆（< 4 顆明顯下降） |\n| 抗穆勒氏管荷爾蒙（AMH） | 下降（AMH 上升見於多囊性卵巢症候群） |\n| 月經第三天 FSH | 上升（> 10 IU/L），因卵泡分泌的抑制素 B 減少 |\n| 月經第三天雌二醇 | 過早上升（> 60–80 pg/mL），因卵泡提早募集 |\n\n- 其他選項的變化方向都相反：第三天 FSH 下降、雌二醇下降、AMH 上升都不代表庫存下降。\n- 卵巢庫存量可預測試管嬰兒刺激排卵的反應（取卵數），但無法準確預測自然懷孕的機會。",
     "images": [
       "/explanations/cropped/111-2_6_54.png"
     ]
   },
   "111-2-醫學(六)-55": {
     "id": "111-2-醫學(六)-55",
-    "explanation": "此題考 PCOS 的致病機制 PCOS 病人的 SHBG 通常會下降，因為其製造被過量 insulin 與 androgen 抑制；此外 SHBG 的下降會增進 androgen 呈現非結合狀態 (free form)，更容易與受體結合產生後續激素效應，故 (C) 敘述不正確 以下簡單整理 PCOS 致病機制的核心精神：\n1. 雄性素過多\n   a. GnRH 脈動性 (pulsatile) 分泌異常導致 LH/FSH ratio ↑，增加卵巢 theca cell 分泌雄性素 (testosterone 與 androstenedione)\n   [REF. 生理] LH 刺激 theca cell 產生 androgen；LH + FSH 刺激 granulosa cell 將 androgen 轉變成 estrogen\n   b. 腎上腺分泌過多 DHEAS\n   c. 過多的雄性素於脂肪細胞轉換成 estrogen（∵ 肥胖為 PCOS 機制的輔助病症），可造成子宮內膜增生\n   d. 過多的雄性素可造成多毛 (hirsutism)、面皰 (acne)，並減少 SHBG 製造\n2. 胰島素抗性\n   a. 造成卵巢濾泡萎縮 ⇒ 無排卵 (anovulation) 與無月經 (amenorrhea)\n   b. 與黑色棘皮症 (acanthosis nigricans) 相關\n   c. 造成高胰島素血症，抑制 SHBG 製造",
+    "explanation": "答案 (C)。\n\n**多囊性卵巢症候群的高雄性素機轉**\n\n- 卵巢：LH 分泌頻率與幅度增加（LH/FSH 比值上升），刺激濾泡膜細胞製造過多雄性素（睪固酮、androstenedione）。\n- 胰島素阻抗與高胰島素血症：\n  - 胰島素與 LH 協同刺激卵巢製造雄性素\n  - 胰島素抑制肝臟合成性激素結合球蛋白（SHBG），使游離睪固酮增加\n- 腎上腺：部分病人 DHEAS 分泌增加。\n- 肥胖：周邊組織轉換增加，SHBG 下降。\n\n多囊性卵巢症候群病人肝臟製造的 SHBG 是減少（而不是增加），SHBG 減少才會使游離雄性素增加；SHBG 增加反而會降低游離雄性素，故 (C) 不是原因。",
     "images": [
       "/explanations/cropped/111-2_6_55.png"
     ]
   },
   "111-2-醫學(六)-56": {
     "id": "111-2-醫學(六)-56",
-    "explanation": "過往考題考過「試管嬰兒療程的取卵時機是在打排卵針後多久？」，與本題「正常女性生理週期 LH surge 後多久排卵」有異曲同工之妙，就是大約 36 小時，因此選 (C)\n以下簡單補充幾個 LH surge 的數字：\n* LH surge~ 排卵：約 36-40 hr\n* LH peak（LH surge 達到最高峰的時間）~ 排卵：約 9 hr\n* LH surge 平均時間約 48 hr",
+    "explanation": "答案 (C)。\n\n**LH 高峰與排卵時間**\n\n- 雌二醇持續高於約 200 pg/mL 約 50 小時後，對下視丘－腦下垂體產生正回饋，誘發 LH 高峰。\n- 時間：\n  - LH 高峰開始後約 34–36 小時排卵\n  - LH 高峰頂點後約 10–12 小時排卵\n- LH 高峰的作用：使卵母細胞恢復減數分裂（完成第一次減數分裂，停在第二次減數分裂中期）、顆粒細胞黃體化、濾泡破裂。\n- 試管嬰兒應用：施打 hCG 或 GnRH 促效劑模擬 LH 高峰（破卵針），並在約 34–36 小時後取卵，以在排卵前取得成熟卵子。",
     "images": [
       "/explanations/cropped/111-2_6_56.png"
     ]
   },
   "111-2-醫學(六)-57": {
     "id": "111-2-醫學(六)-57",
-    "explanation": "寒考【111-1(六)57】一樣考尿失禁手術，考點完全一樣 TVT 屬於 Midurethral slings 的一種，吊帶放置在中段尿道，而非膀胱頸處，故 (B) 錯誤 以下簡單整理常見婦女應力性尿失禁 (SUI) 常用的手術：\n\n| 術式 | 進行方式 | 比較 |\n| :--- | :--- | :--- |\n| Pubovaginal Sling（傳統的吊帶手術） | 以自體組織作為吊帶，懸吊於膀胱頸處，而吊帶兩端固定在腹壁前側 | 長期改善效果佳，但可能造成排尿困難、泌尿道感染、網膜侵蝕 (mesh erosion) 與急迫性尿失禁 |\n| Retropubic Colposuspension (=Urethropexy) | Burch procedure：將尿道旁的組織固定在 Cooper ligament 上 | 相較於 Pubovaginal Sling 手術，有較低術後排尿困難風險；但有較高骨盆腔器官脫垂風險 |\n| Mid-urethral Slings | Tension-free Vaginal Tape (TVT)：將吊帶於尿道中段處懸吊，但並不將吊帶固定（因此無張力）<br><br>Transobturator Tape (TOT)：同 TVT，只是將吊帶兩端穿過閉孔內膜懸吊 | • 相較於 Pubovaginal Sling 手術，長期效果較差；但副作用較少<br>• TVT 相較於 TOT 有較高膀胱、腸道或血管受傷風險<br>• TOT 相較於 TVT 有較高 mesh erosion、術後鼠蹊/小腿疼痛風險 |",
+    "explanation": "答案 (B)。\n\n**應力性尿失禁的手術**\n\n| 術式 | 方法 | 特點 |\n| --- | --- | --- |\n| Burch 恥骨後陰道懸吊 | 將尿道旁陰道筋膜以縫線固定到恥骨梳韌帶（Cooper 韌帶），抬高膀胱頸 | 傳統標準術式，可經腹或腹腔鏡 |\n| TVT（恥骨後無張力陰道吊帶） | 吊帶放在尿道中段下方，經恥骨後空間穿出下腹壁 | 膀胱穿孔、血管與腸道損傷較 TOT 多 |\n| TOT（經閉孔吊帶） | 吊帶放在尿道中段下方，經閉孔穿出 | 膀胱、腸道、血管損傷較少；大腿疼痛較多 |\n| 自體筋膜吊帶 | 吊帶放在膀胱頸 | 用於複雜或復發病例 |\n\n無張力陰道吊帶是放在尿道中段，而不是膀胱頸，故 (B) 錯誤。",
     "images": [
       "/explanations/cropped/111-2_6_57.png"
     ]
   },
   "111-2-醫學(六)-58": {
     "id": "111-2-醫學(六)-58",
-    "explanation": "如果沒有記哪條大腦動脈中風有什麼症狀，可以用兩階段解題 首先，中大腦動脈供應區域包含額葉外側、頂葉與顳葉外側，另外也有小分支供應基底核的蒼白球與被核 接著，考慮對應的腦區與受損症狀，(A)、(B) 為頂葉受損症狀 而 (D) 主要是前大腦動脈 (ACA) 中風，額葉內側受損導致，為原始答案\n\n以下簡單補充 4 條供應大腦的血管中風常見的臨床表現：\n\n| 血管 | 主要供應區 | 症狀表現 |\n| :--- | :--- | :--- |\n| 內頸動脈 ICA | 眼動脈 | 同側暫時性黑矇症 (fugax amaurosis) |\n| 中大腦動脈 MCA | 額葉（外）、頂葉、顳葉（外） | • 半側偏癱或感覺缺失，一般而言，上肢比下肢嚴重<br>• 失語症：Broca's（額葉）、Wernicke's（頂葉）<br>• 半側 (hemianopia) 或 1/4 側 (quadrantanopia) 視覺缺失<br>• 半側忽視 (hemineglect)：頂葉受損導致半側感覺喪失 |\n| 前大腦動脈 ACA | 額葉（內） | • 對側感覺、運動缺失，下肢比上肢嚴重<br>• 執行功能缺失，產生意志缺失 (abulia)、動作不能性緘默 (akinetic mutism) 症狀<br>• 步態失用症、意念運動型失用症 (ideomotor apraxia) |\n| 後大腦動脈 PCA | 枕葉 | • Hemianopia、Quadrantanopia<br>• 顏色命名失能 (color anomia)<br>• 臉盲 (prosopagnosia) |\n\n※ 小補充：Akinetic mutism 即不動 + 不說話，但病人是清醒的、可以接受感覺刺激 最早被描述是一種精神狀態（想到精神狀態就可以聯想到前額葉功能），簡單來說就是「awake（清醒）unresponsiveness（但無反應）」，可以是前大腦動脈中風或是退化性疾病（如：額顳葉失智症）的表現\n\n[ 爭議點 ]\n情感失認症 (affective agnosia) 在神經學指定教科書並未明確的被說明與 MCA 中風後的症狀相關，據筆者所查，此一名詞應是新創的，試圖納入述情障礙 (Alexithymia) 光譜中 關於神經路徑仍在研究中，可能與外界刺激後，無法進入情緒認知中心處理，使得人無法產生相對應的情緒反應 筆者猜測 (C) 也給分的理由為：\n• 此詞本身仍帶有爭議，有興趣可以查 2015 年 Richard D. Lane 提出的文章，以及 Graeme J. Taylor 在 2016 年對其回應（近年 Richard D. Lane 研究團隊也有新的文章發表，試圖證明這個新詞彙的重要性）\n• 根據功能性影像研究發現主要功能區位於扣帶皮質 (cingulate cortex) 或內側額葉，並非 MCA 主要供應範圍",
+    "explanation": "答案 (C)、(D)（原答案 D，官方更正為 C、D 或 CD 均給分）。\n\n**中大腦動脈中風的症狀**\n\n- 對側臉部與上肢無力及感覺缺損較下肢明顯。\n- 同向性偏盲（視放射）、眼睛偏向病灶側。\n- 優勢半球（多為左側）：失語症、失用症、Gerstmann 症候群。\n- 非優勢半球（多為右側）：半側忽略、病覺缺失、穿衣失用、空間結構障礙、情感性失語（無法表達或理解語調中的情緒，aprosodia）。\n\n**動作不能性緘默（akinetic mutism）**\n\n- 病人清醒、眼睛可追視，但幾乎沒有自發性動作與言語。\n- 主要由雙側前大腦動脈梗塞（雙側額葉內側、扣帶迴）或第三腦室附近病變造成，不是中大腦動脈中風的常見表現。\n\n情感失認（affective agnosia）雖可見於右側中大腦動脈病變，但並非常見症狀，題意有爭議，官方公告 (C)、(D) 均給分。",
     "images": [
       "/explanations/cropped/111-2_6_58.png"
     ]
   },
   "111-2-醫學(六)-59": {
     "id": "111-2-醫學(六)-59",
-    "explanation": "神經截斷 (neurotmesis)，為周邊神經完全截斷分離，幾乎不可能自行恢復，除非進行神經修補 (neurorrhaphy)，但手術後也常有連結錯誤 (misconnection)、不完全再神經化 (incomplete reinnervation) 的狀況，故 (C) 錯誤 常見的 3 種周邊神經病變以 Seddon Classification 整理如下（整理自 DeLisa 教科書 Table 24-1）：\n\n| 分類 | 常見原因 | 病理狀態 | 常受損神經 | 預後 |\n| :--- | :--- | :--- | :--- | :--- |\n| 神經失用症 Neurapraxia | 長期壓迫 (compression) | 傳導阻滯 | 帶有較厚髓鞘的運動神經 | 自行恢復，1-2 個月 |\n| 軸突截斷 (Axonotmesis) | 牽扯 (traction)、嚴重壓迫 | 神經軸突進行 Wallerian degeneration ⇒ 許旺細胞輔助軸突再生 | 帶有髓鞘的感覺、運動神經 | 若未傷及神經內膜，會自行恢復大部分功能，預後較好；反之則需要手術修復 |\n| 神經截斷 (Neurotmesis) | 創傷、橫向截斷 (transection) | 完全阻斷神經連結 | 任何神經 | 即使手術修復後仍很差 |\n\n[ 題外話 ] 其實 (D) 的翻譯也拼錯了，是 neur『a』praxia",
+    "explanation": "答案 (C)。\n\n**周邊神經損傷的分類（Seddon）與處置**\n\n| 分類 | 損傷 | 預後 |\n| --- | --- | --- |\n| 神經失用（neurapraxia） | 局部髓鞘受損，軸突完整 | 好，數天至約 3 個月內完全恢復 |\n| 軸突斷傷（axonotmesis） | 軸突斷裂，神經內膜等結締組織完整 | 可自行再生（每天約 1 mm），恢復需數月 |\n| 神經斷傷（neurotmesis） | 整條神經完全斷裂 | 無法自行恢復，需手術修補 |\n\n- 復健處置：\n  - 初期以副木或支架維持功能位，並做被動關節運動，避免關節攣縮與變形\n  - 完全去神經的肌肉可以直流電刺激，減緩肌肉萎縮與纖維化（效果有爭議）\n  - 感覺再教育、保護無感覺區域\n- 神經斷傷需盡早手術（開放性銳利切斷傷應立即或早期修補），不應等待 3 個月；等待觀察 3 個月是用於閉鎖性損傷、無法確定損傷程度時的策略，故 (C) 錯誤。",
     "images": [
       "/explanations/cropped/111-2_6_59.png"
     ]
   },
   "111-2-醫學(六)-60": {
     "id": "111-2-醫學(六)-60",
-    "explanation": "題目有誤，應是考「Froment's sign」 Froment's sign 是針對尺神經做的檢查，透過用力掐紙評估內收拇指肌 (Adductor pollicis) 的力量，故原始答案為 (A)，後一律給分\n\n[ 題外話 ] 如果上網硬是查「Formet's sign」還是可以查到 ulnar nerve palsy 的資訊……",
+    "explanation": "答案：一律給分（原答案 A）。\n\n**Froment 徵象**\n\n- 檢查方法：請病人用雙手拇指與食指側面夾住一張紙，檢查者向外拉。\n- 陽性：患側拇指指間關節屈曲（以正中神經支配的屈拇長肌代償），代表拇指內收肌無力。\n- 原因：拇指內收肌（以及第一背側骨間肌）由尺神經深枝支配，因此 Froment 徵象代表尺神經病變（如肘隧道症候群、Guyon 管症候群）。\n- 合併尺神經病變的其他表現：爪形手（第四、五指）、骨間肌萎縮、Wartenberg 徵象（小指外展）、第四指尺側與第五指感覺異常。\n\n題目將 Froment 誤植為「Formet」，因名稱錯誤，官方公告一律給分；就醫學內容而言，答案是尺神經。",
     "images": [
       "/explanations/cropped/111-2_6_60.png"
     ]
