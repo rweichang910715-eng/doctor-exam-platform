@@ -161,49 +161,49 @@
     ]
   },
   "111-1-醫學(三)-1": {
-    "explanation": "答案 (C)。\n\n**昏厥的原因與評估**\n\n| 類型 | 原因 |\n| --- | --- |\n| 反射性（最常見） | 血管迷走神經性（久站、疼痛、情緒）、情境性（排尿、咳嗽、吞嚥）、頸動脈竇過敏 |\n| 姿勢性低血壓 | 脫水、出血、藥物（降壓藥、利尿劑）、自主神經失調（糖尿病、巴金森氏症） |\n| 心因性 | 心律不整（心搏過緩、心室心搏過速）、結構性心臟病（主動脈瓣狹窄、肥厚型心肌病變）、肺栓塞 |\n\n- 姿勢性低血壓的定義：站立後 3 分鐘內收縮壓下降 ≥ 20 mmHg，或舒張壓下降 ≥ 10 mmHg，而不是 15/5 mmHg，故 (C) 錯誤。\n- 懷疑血管迷走神經性昏厥但診斷不確定時，可做傾斜床試驗。\n\n**補充**：心因性昏厥的警訊：運動中昏厥、平躺時昏厥、昏厥前心悸、猝死家族史、已知心臟病、異常心電圖。",
+    "explanation": "答案 (C)。\n\n**昏厥（syncope）**\n\n昏厥是腦部血流短暫減少造成的意識喪失，會自行恢復；發作前可能有前兆（presyncope）。原因分三大類：\n\n| 類型 | 例子 |\n| --- | --- |\n| 神經性（反射性，最常見） | 血管迷走神經性（害怕、焦慮、看到不舒服的東西）；情境性（咳嗽、排尿後、肛門指診、頸動脈竇按摩、Bezold-Jarisch reflex） |\n| 姿勢性低血壓 | 原發性自主神經失調（Lewy body disease、巴金森氏症、多系統萎縮）；續發性（糖尿病、類澱粉沉積、Sjögren、HIV）；飯後、藥物（prazosin）、體液不足 |\n| 心因性 | 心律不整（病竇症候群、房室傳導阻滯、SVT/VT、離子通道異常）；結構性（瓣膜疾病、心肌缺血、myxoma、心包膜積液） |\n\n- 神經性昏厥除了頭暈倦怠，還常有自主神經活化的表現：冒冷汗、蒼白、心悸、噁心、過度換氣、打哈欠。\n- (C) 姿勢性低血壓的定義是站立 3 分鐘內收縮壓下降 ≥ 20 mmHg 或舒張壓下降 ≥ 10 mmHg，不是 15/5 mmHg，故錯誤。自主神經部分受損時，心跳會代償性上升，但不足以維持心輸出量。\n- (D) 傾斜床試驗可評估交感神經功能：\n  - 神經性：突然出現「低血壓＋心跳變慢」。\n  - 姿勢性低血壓：血壓逐漸下降，心跳沒有足夠的代償上升。\n  - 心因性（psychogenic）：血行動力學穩定，但檢查中出現不適。\n\n**相關考點**\n\n- 嚴重主動脈瓣狹窄出現昏厥是開刀適應症，不處理平均餘命約 3 年（心絞痛 5 年、心衰竭 2 年）。\n- 會引起姿勢性低血壓的藥物：三環抗憂鬱劑（imipramine > amitriptyline > nortriptyline）、α1 阻斷劑（-zosin）、teriparatide、nitrate、phenothiazine。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-1_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-1_merged.png"
     ]
   },
   "111-1-醫學(三)-3": {
-    "explanation": "答案 (D)。\n\n**端坐呼吸與心衰竭的身體診察**\n\n本題老年男性有高血壓與 B 型肝炎，漸進性活動時呼吸急促，坐著比躺著舒服（端坐呼吸），需鑑別左心衰竭與大量腹水（肝硬化）壓迫橫膈。\n\n| 診察 | 意義 |\n| --- | --- |\n| Castell's sign | 叩診脾臟（左前腋線最低肋間）由鼓音變濁音，代表脾臟腫大（門脈高壓） |\n| 腹部移動性濁音 | 腹水 |\n| 舒張期隆隆聲 | 二尖瓣狹窄，造成肺鬱血與端坐呼吸 |\n| 右心室抬舉 | 右心室肥大（肺高壓），不會直接造成端坐呼吸 |\n\n參考答案認為右心室抬舉對確定端坐呼吸的原因幫助最小。",
+    "explanation": "答案 (D)。\n\n**躺臥呼吸（platypnea）**\n\n- 坐著比躺著更喘，稱為躺臥呼吸（platypnea），常合併 orthodeoxia（坐起時動脈血氧分壓下降）。與端坐呼吸（orthopnea，躺下更喘）相反。\n- 相關疾病：肝肺症候群（hepatopulmonary syndrome）、開放性卵圓孔、myxoma。\n- 本題有 B 型肝炎病史，要想到肝硬化 → 門脈高壓 → 肺內血管擴張 → 肺內分流 → 通氣灌流不配合（V/Q mismatch），也就是肝肺症候群。\n\n**各選項**\n\n- (A) Castell's sign：在左下胸第八或九肋間叩診，若變成濁音表示脾腫大，暗示門脈高壓，有幫助。\n- (B) 腹部移動性濁音：偵測肝硬化造成的腹水，有幫助。\n- (C) 舒張期隆隆聲：書上歸為主動脈瓣逆流的聽診特徵（可造成心衰竭），可用來鑑別。\n- (D) 右心室抬舉代表右心室肥大，與本題最無關。\n\n**補充**：主動脈瓣逆流的典型雜音是舒張期「遞減型吹風聲」；嚴重主動脈瓣逆流時，心尖可聽到舒張期隆隆聲，稱為 Austin Flint murmur。二尖瓣狹窄也會有舒張期隆隆聲。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-3_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-3_merged.png"
     ]
   },
   "111-1-醫學(三)-6": {
-    "explanation": "答案 (C)。\n\n**主動脈瘤**\n\n- 病因：退化性（動脈硬化）、遺傳性結締組織疾病（Marfan、Loeys-Dietz、Ehlers-Danlos）、主動脈瓣二葉畸形、慢性主動脈剝離、感染（黴菌性）、非感染性動脈炎（Takayasu、巨細胞動脈炎）、外傷。\n- 胸主動脈瘤的破裂風險隨直徑增加：< 5 cm 每年約 2–3%，> 6 cm 約 7%。\n- 腹主動脈瘤：\n  - 定義為直徑 ≥ 3 cm，多因動脈硬化，男性、抽菸、高齡為危險因子。\n  - 約 90% 位於腎動脈以下，而不是以上，故 (C) 錯誤。\n  - 瘤內的附壁血栓可脫落造成下肢栓塞。\n- 修補時機：無症狀者直徑 ≥ 5.5 cm（女性 ≥ 5.0 cm）、每年增大 > 1 cm 或有症狀。\n- 血管內修補（EVAR）的短期死亡率較傳統手術低，長期存活相近，但需終身影像追蹤內漏。",
+    "explanation": "答案 (C)。\n\n**主動脈瘤的成因**\n\n| 成因 | 例子 |\n| --- | --- |\n| 退化性 | 老化、抽菸、高膽固醇、高血壓、粥狀動脈硬化 |\n| 基因異常 | 主動脈瓣二葉畸形、Marfan、Loeys-Dietz、Ehlers-Danlos type IV、aneurysm-osteoarthritis syndrome、Turner、纖維肌肉發育不良 |\n| 動脈炎 | 血管炎（Takayasu、巨細胞動脈炎）；風濕性（HLA-B27 相關、Behçet、Cogan、IgG4-RD）；感染性（梅毒侵犯升主動脈到主動脈弓、結核侵犯胸主動脈、黴菌性動脈瘤多在粥狀硬化斑塊處，菌種如沙門氏菌、葡萄球菌、鏈球菌、真菌） |\n| 慢性剝離 | 動脈壁長期變脆弱 |\n| 外傷 | 多在降胸主動脈、動脈韌帶附著處之後 |\n\n**依位置區分**\n\n| | 胸主動脈瘤 | 腹主動脈瘤 |\n| --- | --- | --- |\n| 成因 | 升主動脈：中層退化；降主動脈：粥狀動脈硬化 | > 4 cm 者約 90% 與粥狀動脈硬化有關，大多位於腎動脈以下 |\n| 症狀 | 多無症狀；壓迫或侵蝕造成胸痛、喘、咳嗽、沙啞、吞嚥困難；侵犯升主動脈可造成主動脈瓣逆流，壓迫上腔靜脈 | 多無症狀；可有腹痛、強烈搏動感、背痛、陰囊痛，出現疼痛要擔心破裂 |\n| 預後 | Marfan、體積大、有症狀者進展快；破裂率 < 4 cm 每年 2–3%，> 6 cm 每年 7% | 破裂率 < 5 cm 五年 1–2%，> 5 cm 五年 20–40% |\n| 治療 | β 阻斷劑、控制血壓、ACEI/ARB；升主動脈 ≥ 5.5 cm 或每年增加 > 0.5 cm、降主動脈 ≥ 6 cm 或每年增加 > 1 cm 考慮介入 | statin；有症狀、快速擴大或 ≥ 5.5 cm 時手術 |\n\n- (C) 腹主動脈瘤大多位於腎動脈「以下」，不是以上，故錯誤。\n\n**補充**：(D) 無症狀腹主動脈瘤 ≥ 5.5 cm 應修補；血管內修補（EVAR）的短期死亡率比傳統開腹手術低，長期死亡率則相近。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-6_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-6_merged.png"
     ]
   },
   "111-1-醫學(三)-7": {
-    "explanation": "答案 (A)。\n\n**機械性循環支持**\n\n| 裝置 | 機轉 |\n| --- | --- |\n| 主動脈內氣球幫浦（IABP） | 放在降主動脈，以氦氣充氣；舒張期充氣提高舒張壓、增加冠狀動脈灌流，收縮期前消氣降低後負荷；心輸出量只增加約 0.5–1 L/min |\n| Impella | 經股動脈逆行放入左心室的軸流幫浦，把左心室血液打到主動脈 |\n| TandemHeart | 經靜脈穿過心房中隔，從左心房抽血，以離心幫浦打回股動脈，流量可達約 4–5 L/min |\n| VA-ECMO | 同時支持心臟與肺臟，用於心因性休克或心跳停止 |\n| VV-ECMO | 只支持肺臟（嚴重呼吸衰竭） |\n\nIABP 是在舒張期充氣（在主動脈瓣關閉、重搏切跡時開始），「提高」舒張壓以增加冠狀動脈血流，並在收縮前消氣降低收縮壓與後負荷；選項說「降低主動脈早期舒張期血壓」錯誤，故 (A) 錯誤。",
+    "explanation": "答案 (A)。\n\n**機械式循環輔助（MCS）**\n\n可用於休克或血行動力學不穩的病人，但在心因性休克的角色仍未確定，大型試驗與統合分析都沒有看到明顯好處。\n\n| 裝置 | 類型 | 說明 |\n| --- | --- | --- |\n| 主動脈內氣球幫浦（IABP） | 被動式 | 經股動脈放入以氦氣充填的氣球，位置在左鎖骨下動脈與主動脈交界處（降主動脈）。舒張早期充氣 → 提高壓力、增加冠狀動脈灌流；舒張後期消氣 → 降低壓力、降低左心室後負荷 |\n| Impella | 主動式 | 經皮由股動脈放到左心室，尖端的軸流幫浦以 2.5–5 L/min 把左心室血液打到主動脈 |\n| TandemHeart | 主動式 | 經皮由股靜脈到右心房，再穿過心房中隔到左心房；以離心幫浦從左心房抽血約 5 L/min，再注入股動脈 |\n| VA-ECMO | 主動式 | 用於急性心衰竭合併心因性休克，以及嚴重肺損傷合併呼吸衰竭 |\n\n- (A) IABP 在舒張早期充氣是「提高」主動脈舒張壓，以增加冠狀動脈血流，不是降低，故錯誤。\n\n**相關考點**\n\n- IABP 禁忌症：嚴重主動脈瓣逆流、主動脈剝離、嚴重周邊血管疾病。\n- IABP 對急性心肌梗塞造成的心因性休克沒有幫助（IABP-SHOCK II trial），已不再常規建議使用。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-7_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-7_merged.png"
     ]
   },
   "111-1-醫學(三)-8": {
-    "explanation": "答案 (C)。\n\n**運動壓力測試的禁忌症**\n\n| 絕對禁忌 | 相對禁忌 |\n| --- | --- |\n| 2 天內的急性心肌梗塞 | 左主幹狹窄 |\n| 不穩定心絞痛 | 中度瓣膜狹窄 |\n| 有症狀或造成血行動力學不穩的心律不整 | 無症狀的嚴重主動脈瓣狹窄 |\n| 有症狀的嚴重主動脈瓣狹窄 | 電解質異常 |\n| 失代償心衰竭 | 嚴重高血壓（> 200/110 mmHg） |\n| 急性肺栓塞、心肌炎、心包膜炎、心內膜炎 | 肥厚型阻塞性心肌病變 |\n| 急性主動脈剝離 | 高度房室傳導阻滯 |\n\n無症狀的主動脈瓣狹窄屬於相對禁忌，在嚴密監測下可做運動測試以揭露隱藏的症狀，不是絕對禁忌症。",
+    "explanation": "答案 (C)。\n\n**運動壓力測試的禁忌症**\n\n- 2 天內的急性心肌梗塞\n- 未治療的不穩定心絞痛\n- 未控制且造成血行動力學不穩定的心律不整\n- 有症狀的嚴重主動脈瓣狹窄\n- 控制不良且有症狀的心衰竭\n- 急性肺栓塞、嚴重肺高壓\n- 急性心臟炎（心內膜炎、心肌炎、心包膜炎）\n- 急性主動脈剝離\n- 高度房室傳導阻滯\n- 嚴重高血壓（> 200/110 mmHg）\n- 因各種原因無法運動（例如過胖）\n\n要「有症狀」的嚴重主動脈瓣狹窄才不適合做壓力測試，無症狀者可以做，故選 (C)。\n\n**補充**：無症狀的主動脈瓣狹窄可在嚴密監測下做運動測試，用來揭露隱藏的症狀或運動時血壓反應異常，協助決定開刀時機。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-8_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-8_merged.png"
     ]
   },
   "111-1-醫學(三)-9": {
-    "explanation": "答案 (A)。\n\n**抗心律不整藥物與 ST 段上升**\n\n- Class IC（flecainide、propafenone）是強效鈉離子通道阻斷劑，可在 V1–V3 誘發類 Brugada 型的 ST 段上升（右束支阻斷樣圖形），也會使 QRS 變寬。\n- Brugada 症候群（SCN5A 鈉離子通道功能下降）的診斷可用 class I 藥物（ajmaline、flecainide、procainamide）激發試驗。\n\n| 分類 | 代表藥物 | 心電圖 |\n| --- | --- | --- |\n| IA | Procainamide、quinidine | QRS 與 QT 延長 |\n| IB | Lidocaine、mexiletine | 變化少 |\n| IC | Flecainide、propafenone | QRS 明顯變寬，可誘發 Brugada 樣 ST 上升 |\n| II | β 阻斷劑 | PR 延長、心跳變慢 |\n| III | Amiodarone、sotalol | QT 延長 |\n| IV | Verapamil、diltiazem | PR 延長 |",
+    "explanation": "答案 (A)。\n\n**Class IC 藥物與 ST 段上升**\n\nClass IC 藥物可能造成 ST 段上升，只能用在結構正常的心臟。\n\n**Vaughan Williams 分類**\n\n| 類別 | 藥物 | 副作用與備註 |\n| --- | --- | --- |\n| IA（鈉通道） | quinidine | 耳鳴、腹瀉、紫斑；也有抗瘧作用 |\n| | procainamide | 類狼瘡、QT 延長 |\n| | disopyramide | 抗膽鹼、誘發心衰竭；青光眼者慎用 |\n| IB（只治心室性） | lidocaine | 感覺異常、癲癇；適合急性心肌梗塞後的 VT |\n| | mexiletine | 感覺異常、嗜睡、痙攣；口服 |\n| IC | propafenone | 金屬味、便秘；有微弱 β 阻斷作用 |\n| | flecainide | 心肌梗塞後會惡化 VT；也阻斷鉀通道 |\n| II（β 阻斷劑） | propranolol、esmolol | 控制心跳；房室傳導阻滯 |\n| III（鉀通道） | sotalol（也有 β 阻斷） | QT 延長；降低 ICD 電擊需要量 |\n| | amiodarone（各類作用都有） | QT 延長但少見 TdP、肺纖維化、甲狀腺異常、視力模糊、皮膚藍灰、肝功能異常；半衰期很長、含碘量高 |\n| IV（非 DHP 鈣通道阻斷劑） | verapamil、diltiazem | 控制心跳；房室傳導阻滯、低血壓；HFrEF 不可用 |\n\n**其他考點**\n\n- 有抗膽鹼作用：disopyramide、quinidine，青光眼與老人慎用。\n- 會使 QT 延長：class III、procainamide（及其代謝物 N-acetylprocainamide）。\n- IB 只對心室性心律不整有效（不能治 AF、SVT），也有止痛效果（可緩解糖尿病神經病變）。\n- amiodarone 與毛地黃併用會提高毛地黃濃度；可造成甲狀腺低下或亢進。\n\n**補充**：class IC 強力阻斷鈉通道，可在 V1–V3 誘發 Brugada 樣的 ST 上升；Brugada 症候群也用 class I 藥物做激發試驗。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-9_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-9_merged.png"
     ]
   },
   "111-1-醫學(三)-10": {
-    "explanation": "答案 (A)。\n\n**心房顫動**\n\n- 最常見的持續性心律不整，盛行率隨年齡增加；男性比女性多（約 1.5 倍），但女性壽命較長，老年人中女性的絕對人數可能較多，故 (A) 錯誤。\n- 危險因子：高齡、高血壓、糖尿病、肥胖、心衰竭、瓣膜疾病、冠心症、甲狀腺亢進、睡眠呼吸中止、飲酒、慢性腎病。\n- 併發症：中風與全身性栓塞、心衰竭（心搏過速性心肌病變）、失智。\n- 以 CHA₂DS₂-VASc 評估中風風險，決定是否抗凝血治療；以 HAS-BLED 評估出血風險。",
+    "explanation": "答案 (A)。\n\n**心房顫動**\n\n- 最常見的持續性心律不整，盛行率隨年齡增加：超過 95% 的病人年紀大於 60 歲，80 歲以上族群盛行率約 10%。\n- (A) 錯誤：心房顫動是男性多於女性。\n- (B) 正確：危險因子包括高血壓、糖尿病、心血管疾病、家族史、肥胖、睡眠呼吸問題；部分與甲狀腺亢進、急性酒精中毒、心肌梗塞、肺栓塞有關。\n- (C)(D) 正確：心房顫動可造成心衰竭；CHA₂DS₂-VASc 分數可找出需要預防性抗凝血的病人。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-10_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-10_merged.png"
@@ -242,28 +242,28 @@
     "explanation_images": null
   },
   "111-1-醫學(三)-11": {
-    "explanation": "答案 (D)。\n\n**慢性靜脈疾病與靜脈曲張**\n\n- 原發性靜脈曲張：表淺靜脈（大隱靜脈、小隱靜脈）瓣膜功能不全造成，常有家族史，故 (A)(C) 錯誤。\n- 危險因子：高齡、女性、懷孕、家族史、肥胖、久站、荷爾蒙（口服避孕藥、荷爾蒙補充療法會增加風險，故 (B) 錯誤）。\n- 臨床分級（CEAP）：C0 無可見病灶 → C1 微血管擴張 → C2 靜脈曲張 → C3 水腫 → C4 皮膚變化（色素沉澱、脂肪皮膚硬化） → C5 已癒合潰瘍 → C6 活動性潰瘍。\n- 主要診斷工具：靜脈雙功超音波，可評估逆流、阻塞與深部靜脈栓塞，故 (D) 正確。\n- 治療：彈性襪、抬腿、運動；靜脈內燒灼（雷射、射頻）、硬化治療、手術剝除。",
+    "explanation": "答案 (D)。\n\n**慢性靜脈疾病**\n\n| 疾病 | 類型 | 機轉 |\n| --- | --- | --- |\n| 靜脈曲張 | 原發性 | 淺層靜脈本身結構異常（約一半有家族史） |\n| | 續發性 | 深層靜脈異常 → 靜脈高壓、穿通靜脈功能不良 → 淺靜脈擴張 |\n| 慢性靜脈功能不全 | 原發性 | 血管壁異常、瓣膜功能不足 → 靜脈血逆流 |\n| | 續發性 | 深部靜脈血栓造成阻塞、瓣膜增厚攣縮 → 血液逆流；其他如 May-Thurner 症候群、腫瘤外壓、後腹腔纖維化、動靜脈廔管 |\n\n- (A) 錯誤：原發性靜脈曲張主要是靜脈結構異常、瓣膜功能不佳造成，約一半有家族史。\n- (B) 錯誤：危險因子包括老化、懷孕、荷爾蒙療法、肥胖、久站。\n- (C) 錯誤：原發性靜脈曲張常發生在淺層靜脈。\n- (D) 正確：慢性靜脈疾病最重要的診斷工具是 venous duplex 超音波，結合 B-mode 與頻譜都卜勒，可偵測靜脈阻塞與血液逆流。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-11_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-11_merged.png"
     ]
   },
   "111-1-醫學(三)-12": {
-    "explanation": "答案 (C)。\n\n**射出分率降低心衰竭（HFrEF）的 β 阻斷劑**\n\n- 經大型臨床試驗證實可降低死亡與住院的 β 阻斷劑只有三種：\n  - Carvedilol（α1、β1、β2 阻斷）\n  - Bisoprolol（選擇性 β1）\n  - Metoprolol succinate（長效型）\n  - （歐洲另有 nebivolol 用於老年人）\n- Propranolol、atenolol 與短效 metoprolol tartrate 沒有證據可改善 HFrEF 的預後。\n\n**補充**：HFrEF 的四大基石藥物：ARNI（或 ACEI/ARB）、證實有效的 β 阻斷劑、礦物皮質素受體拮抗劑、SGLT2 抑制劑。β 阻斷劑應從低劑量開始，在病情穩定（非急性失代償）時逐步調高。",
+    "explanation": "答案 (C)。\n\n有實證能改善 HFrEF 預後的 β 阻斷劑只有三種：carvedilol、bisoprolol、metoprolol succinate（口訣：CBM 才有 EBM）。propranolol 沒有這樣的證據，故選 (C)。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-12_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-12_merged.png"
     ]
   },
   "111-1-醫學(三)-13": {
-    "explanation": "答案 (A)。\n\n**心衰竭的血清標記**\n\n- BNP 與 NT-proBNP 用於支持心衰竭的診斷（尤其臨床不確定時）、評估嚴重度與預後。\n- 影響因素：年齡增加、腎功能下降、心房顫動會使數值上升；肥胖會使數值偏低。\n- ARNI（sacubitril/valsartan）中的 sacubitril 抑制 neprilysin，而 BNP 是 neprilysin 的受質，因此使用後 BNP 會上升，而不是下降，故 (A) 錯誤；NT-proBNP 不受 neprilysin 分解，會隨心衰竭改善而下降，因此使用 ARNI 的病人應追蹤 NT-proBNP。",
+    "explanation": "答案 (A)。\n\n**BNP 與 NT-proBNP**\n\n- 主要儲存在心室肌細胞，心室舒張壓升高時釋放；作用為促進鈉與水排出、抑制 RAAS。\n- HFrEF 病人的 BNP 通常比 HFpEF 高。\n\n| 影響因素 | 內容 |\n| --- | --- |\n| BNP 升高（心因性） | HFrEF、肺動脈高壓、心房顫動、肺栓塞、AL 類澱粉沉積（可追蹤 troponin） |\n| BNP 升高（其他） | 年紀大、女性、腎功能變差、使用 ARNI |\n| BNP 降低 | 肥胖（假性偏低） |\n\n- (A) 錯誤：ARNI 中的 neprilysin 抑制劑會減少 BNP 分解，使用後 BNP 濃度會升高。\n- (B)(C) 正確：年齡增加、腎功能變差時，BNP 與 NT-proBNP 都會上升。\n- (D) 正確：除了心臟擴大與臨床表現（喘、肺底囉音、頸靜脈怒張、肝腫大），心電圖、BNP、NT-proBNP 都能支持心衰竭診斷；在會喘的非肥胖病人，極低的 BNP 可幫助排除心衰竭。\n\n**其他考點**\n\n- 急性腎損傷時，NT-proBNP 不能用來評估心衰竭嚴重度。\n- 右心衰竭時 BNP 也會上升。\n\n**補充**：使用 ARNI 的病人要追蹤心衰竭，建議改看 NT-proBNP（不是 neprilysin 的受質，不受影響）。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-13_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-13_merged.png"
     ]
   },
   "111-1-醫學(三)-14": {
-    "explanation": "答案 (C)。\n\n**漸進性運動性呼吸困難的評估**\n\n- 第一步：病史與身體診察（頸靜脈怒張、囉音、心雜音、水腫、哮鳴、杵狀指）。\n- 基本檢查：\n  - 胸部 X 光（心臟擴大、肺水腫、肺部病灶、肋膜積液）\n  - 心電圖\n  - 血液檢查（血紅素、BNP、甲狀腺功能）\n  - 肺功能檢查\n  - 心臟超音波（心室功能、瓣膜疾病、肺高壓）\n\n24 小時心電圖（Holter）主要用來評估陣發性心律不整（心悸、昏厥），對漸進性運動性呼吸困難的鑑別診斷幫助最小。",
+    "explanation": "答案 (C)。\n\n**呼吸困難的鑑別診斷**：主要從心、肺著手。\n\n| 器官 | 異常位置 | 疾病 | 初步檢查 |\n| --- | --- | --- | --- |\n| 肺 | 呼吸道 | 氣喘、COPD、上呼吸道阻塞 | 胸部 X 光、肺功能、CT |\n| | 肺間質 | 各種間質性肺病 | 胸部 X 光、肺功能、CT |\n| | 胸壁 | 駝背、脊椎側彎、神經肌肉無力 | 肺功能（最大吸氣壓、最大呼氣壓） |\n| 心肺 | 肺血管 | 肺高壓 | DLCO、心臟超音波、心電圖 |\n| 心臟 | 左心衰竭 | 冠心症、心肌病變 | BNP、心電圖、心臟超音波，可考慮壓力測試 |\n| | 心包膜 | 限制性心包膜炎、心包膜填塞 | 同上 |\n| 其他 | | 貧血、緊張、酸血症、胃食道逆流 | 血比容、生化、上消化道內視鏡 |\n\n- (B) 身體診察是門診一定會做的，對初步診斷非常重要。\n- (C) 24 小時心電圖（Holter）是懷疑心律不整時才做的檢查，對呼吸困難的鑑別幫助最小。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-14_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-14_merged.png"
@@ -340,7 +340,7 @@
     ]
   },
   "111-1-醫學(三)-76": {
-    "explanation": "答案 (C)。\n\n**心衰竭藥物**\n\n- Carvedilol：證實可降低 HFrEF 的死亡率與住院，應使用（從低劑量開始），故 (A) 錯誤。\n- ACEI、ARB、ARNI、MRA 在懷孕期間禁用（致畸胎），懷孕婦女的心衰竭以 hydralazine + nitrate、β 阻斷劑（metoprolol）、利尿劑治療，故 (B) 錯誤。\n- Furosemide（loop 利尿劑）的副作用：低血鉀、低血鎂、低血鈣（增加尿鈣排出）、低血鈉、代謝性鹼中毒、高尿酸血症（誘發痛風）、高血糖、耳毒性、脫水與腎前性腎衰竭，故 (C) 正確。\n- 鈣離子阻斷劑不能降低心衰竭死亡率；non-dihydropyridine 類還會使 HFrEF 惡化，故 (D) 錯誤。",
+    "explanation": "答案 (C)。\n\n- (A) 錯誤：carvedilol、bisoprolol、metoprolol 已證實能降低心衰竭死亡率。\n- (B) 錯誤：孕婦不能使用 ACEI、ARB、ARNI。\n- (C) 正確：furosemide 可造成低血鉀、低血鎂、低血鈣、低血鈉、低血氯，以及高尿酸血症。\n- (D) 錯誤：收縮功能衰竭（HFrEF）的病人不適合使用鈣通道阻斷劑。\n\n**補充**：非 DHP 類（verapamil、diltiazem）有負心肌收縮力，HFrEF 應避免；amlodipine、felodipine 對死亡率中性，只用來控制其他適應症（如高血壓、心絞痛）。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-76_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-76_merged.png"
@@ -702,7 +702,7 @@
     ]
   },
   "111-1-醫學(四)-32": {
-    "explanation": "答案 (C)。\n\n**新生兒血氧篩檢與重大先天性心臟病**\n\n- 出生後 24–48 小時測量右手（導管前）與任一腳（導管後）的血氧：\n  - ≥ 95% 且上下肢差距 ≤ 3%：通過\n  - < 90%：立即陽性，需心臟超音波\n  - 90–94% 或差距 > 3%：重複測量\n- 目的在偵測出生時無症狀的重大發紺型先天性心臟病：大動脈轉位、法洛氏四重症、全肺靜脈回流異常、三尖瓣閉鎖、動脈幹、左心發育不全症候群、肺動脈閉鎖。\n\n本題新生兒活動力與進食正常，但下肢血氧 90%，最可能是大動脈轉位（體循環與肺循環平行，靠卵圓孔與動脈導管混合血液）。\n\n- 心室中隔缺損、完全型心內膜墊缺損、開放性動脈導管多為左向右分流，新生兒期通常沒有發紺（嚴重肺高壓時例外）。\n\n**補充**：大動脈轉位需維持動脈導管開放（prostaglandin E1），必要時心房中隔氣球擴張術，再施行動脈轉位手術。",
+    "explanation": "答案 (C)。\n\n**先分發紺型或非發紺型**\n\n- 例行篩檢只發現雙下肢血氧輕度偏低，題目沒有給上肢數值，所以無法判斷有沒有（反轉性）差異性發紺（(reversed) differential cyanosis）。\n- 但血氧已經偏低，至少可以確定是發紺型先天性心臟病（cyanotic heart disease）。\n- 選項中心室中隔缺損（VSD）、心內膜墊缺損（endocardial cushion defect）、開放性動脈導管（PDA），若沒有合併其他異常，都屬於非發紺型（noncyanotic）。\n- 只有大動脈轉位（d-TGA）是發紺型，所以選 (C)。\n\n**補充**\n\n- 差異性發紺：PDA 合併肺高壓、血流由右向左分流時，導管後的下肢比上肢更紫。反轉性差異性發紺則是上肢比下肢更紫，典型見於 d-TGA 合併 PDA 及肺高壓（或主動脈弓中斷、縮窄）。\n- 新生兒血氧篩檢（出生 24 小時後，測右手與任一腳）：兩處皆 ≥ 95% 且差距 ≤ 3% 為通過；任一處 < 90% 為陽性，需做心臟超音波；介於兩者之間則重複測量（各機構細節略有不同）。\n- d-TGA 的體循環與肺循環平行，依賴卵圓孔與動脈導管混血；處理為 prostaglandin E1 維持導管開放，必要時做心房中隔氣球造口術，再接受動脈轉位手術。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-32_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-32_merged.png"
@@ -2015,67 +2015,67 @@
   "111-2-醫學(三)-2": {
     "text": "懷孕期間的高血壓用藥包含 methyldopa、labetalol、nifedipine、hydralazine 等。孕婦不可以使用 ACE-i、ARB 或 ARNI，(A) 選項給他選下去，同一次考試考了兩次一樣的觀念，現賺 2.5 分",
     "image": "/explanations/cropped/111-2-醫學(三)-2_merged.png",
-    "explanation": "答案 (A)。\n\n**懷孕期間的慢性高血壓**\n\n- 首選藥物：labetalol、nifedipine（長效）、methyldopa。\n- ACEI、ARB、直接腎素抑制劑會造成胎兒腎臟發育異常、羊水過少、顱骨發育不全，懷孕期間禁用，故 (A) 錯誤。\n- 治療目標（ACOG）：過去對輕度高血壓是否需要治療證據不足；2022 年 CHAP 試驗後建議血壓 ≥ 140/90 mmHg 即開始治療，目標約 < 140/90 mmHg。本題參考答案依當時指引，收縮壓 130–150、舒張壓 80–100 mmHg。\n- 其他：低劑量 aspirin 預防子癇前症（懷孕 12–16 週開始）。"
+    "explanation": "答案 (A)。\n\n- 懷孕期間的降壓藥包括 methyldopa、labetalol、nifedipine、hydralazine。\n- 孕婦不可使用 ACEI、ARB 或 ARNI，故 (A) 最不適當。同一年考了兩次相同的觀念。\n\n**補充**\n\n- ACEI/ARB 在第二、三孕期會造成胎兒腎臟發育不良、羊水過少、顱骨發育不全。\n- (C)(D) 輕度慢性高血壓的治療能否改善懷孕結果，過去證據不足；當時的建議是血壓控制在約 130–150/80–100 mmHg，避免降得太低影響胎盤灌流（較新的 CHAP 試驗則支持血壓 ≥ 140/90 就開始治療）。"
   },
   "111-2-醫學(三)-3": {
     "text": "急性主動脈症候群 (acute aortic syndrome) 會出現 sudden onset 撕裂性的嚴重胸痛。若發生在升主動脈，疼痛部位在前胸正中間；發生在降主動脈者，疼痛位置大多在後背。其產生與以下幾種原因相關：外傷、高血壓、懷孕、bicuspid aortic valve、感染、先天結締組織疾病（如：Marfan、Ehlers-Danlos），本題選 (D)\n\n< 其他考點 >\n急性主動脈症候群可細分為以下三種類型：\n\n| 類型 | 特徵 |\n| :--- | :--- |\n| 急性主動脈剝離<br>(acute aortic dissection) | 內膜層有破口 (intimal tear) → 在主動脈壁 adventitia 及 media 間形成 false lumen |\n| 急性主動脈壁內血腫<br>(acute intramural hematoma, IMH) | 供應管壁營養的小血管 vasa vasorum 破裂 |\n| 穿透性粥狀動脈潰瘍 (penetrating atherosclerotic ulcer, PAU) | 1. 粥狀動脈硬化斑塊侵蝕 aortic media<br>2. 常發生於降胸主動脈的中端～遠端 |",
     "image": "/explanations/cropped/111-2-醫學(三)-3_merged.png",
-    "explanation": "答案 (D)。\n\n**急性主動脈症候群的危險因子**\n\n急性主動脈症候群包括主動脈剝離、壁內血腫、穿透性動脈硬化潰瘍。\n\n- 高血壓（最常見）\n- 結締組織疾病：Marfan、Ehlers-Danlos（血管型）、Loeys-Dietz、Turner 症候群\n- 主動脈瓣二葉畸形、主動脈弓窄縮\n- 懷孕（第三孕期與產後，荷爾蒙使血管壁變弱、血行動力學改變）\n- 古柯鹼、安非他命、劇烈重量訓練\n- 主動脈炎（巨細胞、Takayasu、梅毒）\n- 醫源性（心導管、心臟手術）\n- 家族史、已知主動脈瘤\n\n病竇症候群是竇房結功能異常造成的心搏過緩，與急性主動脈症候群無關。"
+    "explanation": "答案 (D)。\n\n**急性主動脈症候群**\n\n- 表現為突發、撕裂般的劇烈胸痛：發生在升主動脈時，痛在前胸正中；發生在降主動脈時，大多痛在後背。\n- 相關因素：外傷、高血壓、懷孕、主動脈瓣二葉畸形、感染、先天結締組織疾病（Marfan、Ehlers-Danlos）。\n- 病竇症候群與急性主動脈症候群無關，故選 (D)。\n\n**三種類型**\n\n| 類型 | 機轉 |\n| --- | --- |\n| 急性主動脈剝離 | 內膜破口，血液在主動脈壁外膜與中膜之間形成假腔 |\n| 主動脈壁內血腫（IMH） | 供應管壁的小血管（vasa vasorum）破裂 |\n| 穿透性粥狀動脈潰瘍（PAU） | 粥狀硬化斑塊侵蝕到中膜；常見於降胸主動脈中段到遠端 |"
   },
   "111-2-醫學(三)-4": {
     "text": "(A) Chvostek's sign (Chvostek-Weiss sign) 是低血鈣的表現，透過輕敲病人耳前的 facial n. → 引發嘴周 (circumoral) 肌肉痙攣。低血鈣會出現 QT prolong，嚴重者可出現癲癇以及各種神經興奮的 spasm 如：carpopedal spasm、bronchospasm、laryngospasm 等\n(B) 主動脈逆流 (aortic regurgitation) 有一堆人名 sign，已經考過的整理如下表。本選項的 Duroziez's sign 是指在用聽診器輕壓 femoral a. 時可聽到 to-and-fro murmur\n\n| 搏動 | 表現 | 心音 sign | 表現 |\n| :--- | :--- | :--- | :--- |\n| Corrigan's pulse | water-hammer pulse | Traube's sign | pistol-shot boom |\n| Quincke's pulse | 按甲床時忽白忽紅 | Duroziez's sign | to-and-fro murmur |\n| De Musset's sign | 每拍心跳會伴隨點頭，像鳥在走路 | Austin-Flint murmur | 低頻 rumbling 舒張中後期雜音 |\n\n＊尚未考過：Müller's sign（看到 uvula 搏動）、Gerhardt's sign（= Sailer's sign，摸到 spleen 搏動）、Hill's sign（popliteal 收縮壓比 brachial 的高 ≥ 60 mmHg）、Landolfi's sign（瞳孔隨心搏縮放）、Becker's sign（眼底鏡可見視網膜小動脈搏動）\n\n(C) Kussmaul's sign 跟 Kussmaul's breathing 是不一樣的喔！Kussmaul's sign 可見於 constrictive pericarditis 的病人，是吸氣時 JVP「沒有下降、甚至上升」的表現；Kussmaul's breathing 才跟代謝酸中毒有關（如 DKA），下表為常考的異常呼吸型態：\n\n| 異常呼吸型態 | | |\n| :--- | :--- | :--- |\n| 呼吸 | 型態 | 可見於何種病人 |\n| Cheyne-Stokes<br>(週期性、潮式呼吸) | 淺慢 → 變深變快 → 又變淺慢 → 暫停 | 兩側大腦半球損傷（多伴隨輕度 coma）、鬱血性心衰竭、OSA |\n| Biot's respiration | 深度、速率都不規則 | 延腦損傷或受壓迫、鴉片中毒 |\n| Kussmaul's breathing | 深且快<br>(↑ tidal volume) | 代謝酸中毒 (DKA)、橋腦中腦損傷 |\n| agonal breathing | 呼吸困難並有怪異發聲 | 延腦損傷、臨終病人 |\n| paradoxical breathing | 吸氣胸腔下陷、腹腔上升（跟腹式呼吸相反） | 連枷胸、橫膈肌受損或麻痺 |\n\n(D) Romberg's test 用來測試本體感覺與平衡，閉眼會晃為 Romberg sign (+)，代表有感覺性共濟失調 (sensory ataxia)。小腦損傷的張眼閉眼都會晃；脊髓後柱損傷的閉眼時會特別晃\n\n< 其他考點 >\n1. 相似的現象：\n\n| 現象 | 說明 |\n| :--- | :--- |\n| electrical alternans | ECG 上 V2 ~ V4 的 QRS 忽大忽小<br>（暗示有心包積液，所以 tamponade 患者可能有） |\n| pulsus alternans | 脈搏忽大忽小（暗示有嚴重左心衰竭） |\n| pulsus paradoxus | 吸氣時 SBP 下降 > 10 mmHg<br>（cardiac tamponade、COPD、低血容休克等可見） |\n| Kussmaul's sign | 吸氣時 JVP 沒有下降，甚至上升<br>（constrictive pericarditis 可見，tamponade 沒有！） |\n| paradoxical breathing | 吸氣胸腔下陷、腹腔上升（可見於連枷胸） |\n\n2. cardiac tamponade：\na. 經典症狀：Beck's triad（低血壓 + JVP 上升 + distant heart sounds）\nb. 可出現：electrical alternans、pulsus paradoxus\nc. 不會出現：Kussmaul's sign\n\n3. Trousseau's 的比較：\n\n| 徵候 | 說明 |\n| :--- | :--- |\n| Trousseau's sign<br>(低血鈣的表現) | 用量血壓的 cuff 充氣到病人 SBP+20 mmHg 維持 3 min → 引發手部肌肉痙攣（拇指 adduction、MCP flexion、IP joint extension、手腕 flexion） |\n| Trousseau's syndrome | 即 migratory thrombophlebitis，屬 paraneoplastic syndrome，與 GI 癌症有關（特別是胰臟癌） |",
     "image": "/explanations/cropped/111-2-醫學(三)-4_merged.png",
-    "explanation": "答案 (C)。\n\n**身體診察徵象**\n\n| 徵象 | 方法 | 相關疾病 |\n| --- | --- | --- |\n| Chvostek's sign | 輕敲耳前的顏面神經，引起同側嘴角抽動 | 低血鈣、低血鎂 |\n| Trousseau's sign | 血壓計加壓 3 分鐘引起腕部痙攣 | 低血鈣（較特異） |\n| Duroziez's sign | 聽診器壓股動脈時聽到收縮期與舒張期雜音 | 主動脈瓣閉鎖不全 |\n| Kussmaul's sign | 吸氣時頸靜脈壓反常上升 | 縮窄性心包膜炎、限制性心肌病變、右心室梗塞、嚴重右心衰竭 |\n| Kussmaul 呼吸 | 深而快的呼吸 | 代謝性酸中毒（如糖尿病酮酸中毒） |\n| Romberg's sign | 閉眼站立時搖晃跌倒 | 本體感覺缺損（感覺性共濟失調） |\n\nKussmaul's sign 與 Kussmaul 呼吸不同；代謝性酸中毒相關的是 Kussmaul 呼吸，故 (C) 相關性最低。"
+    "explanation": "答案 (C)。\n\n- (A) 正確：Chvostek's sign 是低血鈣的表現，輕敲耳前的顏面神經會引起嘴周肌肉抽動。低血鈣也會造成 QT 延長，嚴重時有癲癇、手足痙攣、支氣管痙攣、喉痙攣。\n- (B) 正確：Duroziez's sign 是用聽診器輕壓股動脈時聽到往返雜音（to-and-fro murmur），屬於主動脈瓣逆流的徵象。\n\n| 主動脈瓣逆流徵象 | 表現 |\n| --- | --- |\n| Corrigan's pulse | 水沖脈 |\n| Quincke's pulse | 按壓甲床時忽白忽紅 |\n| De Musset's sign | 隨心跳點頭 |\n| Traube's sign | 股動脈槍擊音 |\n| Duroziez's sign | 股動脈往返雜音 |\n| Austin Flint murmur | 低頻舒張中後期隆隆聲 |\n| 較少考 | Müller（懸雍垂搏動）、Gerhardt/Sailer（脾臟搏動）、Hill（膕動脈收縮壓比肱動脈高 ≥ 60 mmHg）、Landolfi（瞳孔隨心跳縮放）、Becker（視網膜小動脈搏動） |\n\n- (C) 錯誤：Kussmaul's sign 是吸氣時頸靜脈壓沒有下降甚至上升，見於縮窄性心包膜炎；與代謝性酸中毒相關的是 Kussmaul's breathing。\n- (D) 正確：Romberg test 測本體感覺與平衡，閉眼才搖晃為陽性，代表感覺性共濟失調（脊髓後柱受損）；小腦受損則睜眼閉眼都會晃。\n\n**異常呼吸型態**\n\n| 呼吸 | 型態 | 常見於 |\n| --- | --- | --- |\n| Cheyne-Stokes | 淺慢 → 深快 → 淺慢 → 暫停，週期性 | 兩側大腦半球損傷、鬱血性心衰竭、阻塞性睡眠呼吸中止 |\n| Biot's | 深度、速率都不規則 | 延腦受損或壓迫、鴉片中毒 |\n| Kussmaul's breathing | 深且快（潮氣容積增加） | 代謝性酸中毒（DKA）、橋腦中腦損傷 |\n| Agonal | 呼吸困難伴怪異聲音 | 延腦損傷、臨終 |\n| Paradoxical | 吸氣時胸腔下陷、腹部上升 | 連枷胸、橫膈受損或麻痺 |\n\n**其他考點**\n\n| 現象 | 意義 |\n| --- | --- |\n| Electrical alternans | 心電圖 QRS 忽大忽小，提示心包膜積液（填塞） |\n| Pulsus alternans | 脈搏忽強忽弱，提示嚴重左心衰竭 |\n| Pulsus paradoxus | 吸氣時收縮壓下降 > 10 mmHg（心包膜填塞、COPD、低血容休克） |\n| Kussmaul's sign | 縮窄性心包膜炎可見，心包膜填塞沒有 |\n\n- 心包膜填塞：Beck's triad（低血壓、頸靜脈壓上升、心音遙遠），可有 electrical alternans 與 pulsus paradoxus，但不會有 Kussmaul's sign。\n- Trousseau's sign：血壓計加壓到收縮壓 +20 mmHg 維持 3 分鐘，引發手部痙攣（低血鈣）。Trousseau's syndrome：遊走性血栓靜脈炎，為副腫瘤症候群，與胰臟癌等消化道癌症相關。"
   },
   "111-2-醫學(三)-5": {
     "text": "傷害感受器 (nociceptor) 的初級神經元經由 dorsal root 進入脊髓、終止於 dorsal horn、釋放出訊號傳給次級神經元（如：glutamate、substance P、CGRP）。每一個初級神經元會傳訊給數個次級神經元，而每一個次級神經元也會接受多個初級神經元的訊號，這就是轉移痛的重點機制，因為不同部位會共用同一個次級神經元，大腦分不出來到底 primary 在哪，就會認定是比較常發出訊號的來源（通常是同 segment 相對應的體表）在發出疼痛訊號\n(A)(B)(C) 正確\n\n| 原發疼痛位置 | 轉移痛位置 |\n| :--- | :--- |\n| 橫膈、肝臟 | 肩膀 (C3-C4) |\n| 胸腔（心、肺） | 左頸、左肩、上腹部 |\n| 膽道發炎 | 右鎖骨上、右肩胛骨下端 |\n| 脾臟受傷、膿瘍 | 左肩 (Kehr's sign) |\n\n(D) 錯誤，轉移痛的區域就是被大腦判定同 segment 比較常發出訊號的區域，壓他會加重那個地方繼續痛，但不會讓原發處變明顯",
     "image": "/explanations/cropped/111-2-醫學(三)-5_merged.png",
-    "explanation": "答案 (D)。\n\n**轉移痛**\n\n- 機轉：內臟傳入纖維與體表皮膚的傳入纖維進入同一脊髓節段，大腦誤認為疼痛來自體表。\n- 常見例子：\n\n| 原發部位 | 轉移痛位置 |\n| --- | --- |\n| 心臟 | 胸骨後、左肩與左臂內側、下顎、上腹 |\n| 橫膈膜（如膽囊、脾臟、肝周圍刺激） | 同側肩膀、鎖骨上（C3–C5，膈神經） |\n| 膽道 | 右上腹、右肩胛骨下 |\n| 胰臟 | 背部 |\n| 腎臟、輸尿管 | 腰側、鼠蹊、睪丸或陰唇 |\n| 胸椎神經根病變 | 胸壁或腹壁（可誤以為腹痛） |\n\n- 轉移痛的部位沒有真正的組織病變，因此按壓轉移痛的區域通常不會誘發或加劇疼痛；若按壓會痛，表示該處本身可能有問題，故 (D) 錯誤。"
+    "explanation": "答案 (D)。\n\n**轉移痛的機轉**\n\n- 傷害受器的初級神經元經背根進入脊髓，終止於後角，釋放 glutamate、substance P、CGRP 把訊號傳給次級神經元。\n- 一個初級神經元會傳給數個次級神經元，一個次級神經元也接收多個初級神經元的訊號。不同部位共用同一個次級神經元，大腦分不出真正的來源，就會認定是平常較常發出訊號的地方（通常是同一節段對應的體表）在痛。\n\n| 原發部位 | 轉移痛位置 |\n| --- | --- |\n| 橫膈、肝臟 | 肩膀（C3–C4） |\n| 胸腔（心、肺） | 左頸、左肩、上腹部 |\n| 膽道發炎 | 右鎖骨上、右肩胛骨下端 |\n| 脾臟受傷、膿瘍 | 左肩（Kehr's sign） |\n\n- (A)(B)(C) 正確。\n- (D) 錯誤：轉移痛的區域只是被大腦誤判的地方，按壓那裡會讓那裡更痛，但不會讓原發處的疼痛變明顯。"
   },
   "111-2-醫學(三)-6": {
     "text": "(A) 正確，典型心絞痛的病人在休息時的靜態標準十二導程 ECG 可能是正常的，而且 ST segment、T wave 的變化並不 specific，也可能在心包膜異常的患者身上出現，故無法用於確診。但運動心電圖如果出現 ST segment downsloping 下降超過 0.1 mV、且持續超過 0.08 s，就可以確診\n(B) 錯誤，運動心電圖檢查的死亡風險不高，約只有 1/10000；發生非致命性並發症的風險約 2/100000，但檢查場所還是要準備急救器材\n(C) 正確，藥物催迫性核醫心肌灌注造影可以檢查心肌缺氧以及心肌受傷後瘢痕組織，目前較常使用的是 Dipyridamole（舊商品名 Persantine），另外也可用 adenosine 或是 inotropic agents 模擬運動狀態\n(D) 錯誤，心臟電腦斷層鈣化指數較高者，通常的確有較高機率是阻塞性 CAD；但有症狀的病人如果鈣化指數 < 400，就比較沒辦法準確排除 CAD，尤其是有心絞痛的年輕患者，主要會是非鈣化、或鈣化不嚴重的粥狀動脈斑塊，故不一定準確",
     "image": "/explanations/cropped/111-2-醫學(三)-6_merged.png",
-    "explanation": "答案 (B)、(D)（原答案 B，官方更正為 B、D 或 BD 均給分）。\n\n**冠狀動脈疾病的非侵入性檢查**\n\n- (A) 靜態心電圖的 ST-T 變化不具專一性，不能據此確診冠心症。\n- (B) 錯誤。運動心電圖是最廣泛使用的檢查，但其死亡風險約為萬分之一（約 0.5–1/10,000），而不是千分之一；檢查場所仍需備有急救設備。\n- (C) 藥物壓力核醫心肌灌流可偵測心肌缺血（可逆性缺損）與梗塞後疤痕（固定性缺損）。\n- (D) 錯誤。冠狀動脈鈣化分數反映動脈硬化的總負擔，是很好的心血管風險（預後）預測指標，但無法準確診斷阻塞性冠心症（無法判斷狹窄程度，且非鈣化斑塊看不到）。選項的敘述剛好相反。\n\n因此 (B)(D) 都是錯誤敘述，官方更正均給分。"
+    "explanation": "答案 (B)(D)。\n\n- (A) 正確：典型心絞痛的病人休息時的心電圖可能正常，ST 段與 T 波變化也不具特異性（心包膜疾病也會有），所以不能用來確診。運動心電圖若出現 ST 段水平或下斜型下降超過 0.1 mV、持續超過 0.08 秒，才可確診。\n- (B) 錯誤：運動心電圖的死亡風險很低，約萬分之一（非致命併發症約十萬分之二），不是千分之一；但檢查場所仍要備有急救器材。\n- (C) 正確：藥物壓力（常用 dipyridamole，也可用 adenosine 或強心劑模擬運動）合併核醫心肌灌注造影，可偵測心肌缺血與梗塞後的瘢痕。\n- (D) 錯誤：鈣化分數高的人確實較可能有阻塞性冠心症；但有症狀的病人若鈣化分數 < 400，不一定能排除冠心症，尤其是有心絞痛的年輕人，可能是未鈣化或鈣化不嚴重的斑塊，所以不能「準確確診」。"
   },
   "111-2-醫學(三)-7": {
     "text": "判讀運動心電圖時，要參考平時休息的狀態以及 risk factors 來判斷 CAD 的可能性。通常那種休息時正常，運動時才出現異常的，就有比較高的機率是真的有冠心病；本來就有其他心臟問題的，在運動心電圖時出現異常不見得是冠狀動脈問題\n\n| Stress ECG 結果判讀 | |\n| :--- | :--- |\n| 高機率是 CAD | > 50 歲有 typical angina 的男性，運動過程中出現胸部不適 |\n| 偽陽性機率高 | < 40 歲無症狀男性 |\n| | 無其他風險因子的停經前女性 |\n| | 有在使用 digitalis 或抗心律不整藥 → (D) |\n| | 有心室內傳導異常 → (A) |\n| | 心室肥厚 → (B) |\n| | 靜態心電圖就有 ST segment 升高或 T wave 異常 |\n| | 血鉀異常 |\n| 偽陰性機率高 | 只有 circumflex artery 阻塞（12 導程 ECG 無法良好反應 posterolateral 區的缺血狀況） |\n\n（參考 Harrison 21/e Ch.273）",
     "image": "/explanations/cropped/111-2-醫學(三)-7_merged.png",
-    "explanation": "答案 (C)。\n\n**運動心電圖的判讀限制**\n\n- 運動心電圖的陽性預測值取決於受試者的冠心症事前機率：事前機率中等以上、靜態心電圖正常者最適合。\n- 會干擾 ST 段判讀的情況（應改做影像式壓力測試）：\n  - 左束支傳導阻滯、心室起搏節律\n  - 左心室肥厚合併 ST-T 變化\n  - 預激症候群（WPW）\n  - 靜態 ST 段下降 > 1 mm\n  - 使用 digoxin（造成偽陽性）\n  - β 阻斷劑與硝酸鹽（降低敏感度）\n\n| 選項 | 分析 |\n| --- | --- |\n| (A) | LBBB 無法判讀 |\n| (B) | LVH 造成偽陽性，且中年女性事前機率較低 |\n| (C) | 老年、長期抽菸、運動性氣促，事前機率高，靜態心電圖正常，ST 下降最有意義 |\n| (D) | Digoxin 造成偽陽性，β 阻斷劑與硝酸鹽影響判讀 |"
+    "explanation": "答案 (C)。\n\n判讀運動心電圖要參考休息時的狀態與危險因子：休息時正常、運動時才出現異常的，較可能真的是冠心症；本來就有其他心臟問題的，運動時出現異常不一定是冠狀動脈造成。\n\n| 判讀 | 情況 |\n| --- | --- |\n| 冠心症機率高 | > 50 歲、有典型心絞痛的男性，運動中出現胸部不適 |\n| 偽陽性機率高 | < 40 歲無症狀男性；沒有其他危險因子的停經前女性；使用毛地黃或抗心律不整藥 → (D)；心室內傳導異常 → (A)；心室肥厚 → (B)；休息心電圖就有 ST 上升或 T 波異常；血鉀異常 |\n| 偽陰性機率高 | 只有迴旋支阻塞（12 導程心電圖對後側壁缺血反應不佳） |\n\n(C) 年長、長期抽菸、運動會喘，而且休息心電圖正常，運動時出現 ST 下降最可能是真的冠心症。"
   },
   "111-2-醫學(三)-8": {
     "text": "(A) 正確，電腦斷層高鈣化指數者有較高粥狀動脈硬化的風險，心血管疾病死亡率也較高。根據 Agatston score 可分為 minimal (0-10)、mild (10-100)、moderate (100-400)、severe (>400) 等，較嚴重者建議安排運動心電圖或壓力催迫性核醫心肌灌流檢查，以量化缺血程度、組織存活率，以便評估是否要接受 revascularization\n(B) 正確，非心臟手術的術前評估項目包含：手術時間、術式、麻醉方式、病人年紀以及心血管疾病風險因子、是否有心雜音、胸痛、喘、周邊水腫等異常\n(C) 錯誤，雖然如果 SPECT 顯示為 normal，每年發生重大心血管事件的機率的確很低 (<1%)，但還是需要追蹤\n(D) 正確，雖然壓力催迫性核醫心肌造影的 negative predictive value 很高，但 AMI 不一定只發生在冠狀動脈阻塞的病人身上，如果 plaque 結構不穩定，一樣有可能會破裂產生血栓",
     "image": "/explanations/cropped/111-2-醫學(三)-8_merged.png",
-    "explanation": "答案 (C)。\n\n**壓力核醫心肌灌流造影（SPECT）**\n\n- 冠狀動脈鈣化分數高的病人，可安排功能性檢查（運動心電圖或核醫）評估缺血程度，決定是否需要血管再通。\n- 非心臟手術的術前評估需同時考慮缺血嚴重度與範圍、左心室功能、手術種類（風險）與麻醉方式。\n- 核醫檢查正常的人，一年內心肌梗塞或心因性死亡的風險 < 1%，屬於低風險（「保固期」約 1–2 年；糖尿病、高齡等高風險者較短）。\n- 但檢查正常並不代表沒有動脈硬化：輕度狹窄的斑塊仍可能破裂形成血栓，因此有危險因子的人仍需控制危險因子並適當用藥（如 statin、aspirin），「完全不需要用藥治療」錯誤，故 (C) 錯誤。"
+    "explanation": "答案 (C)。\n\n- (A) 正確：鈣化分數高者粥狀動脈硬化風險與心血管死亡率都較高。Agatston score 分為 minimal（0–10）、mild（10–100）、moderate（100–400）、severe（> 400）；較嚴重者建議安排運動心電圖或壓力核醫心肌灌注檢查，量化缺血程度與存活心肌，決定是否需要血管再通。\n- (B) 正確：非心臟手術的術前評估要考慮手術時間與術式、麻醉方式、年齡與心血管危險因子，以及是否有心雜音、胸痛、喘、周邊水腫。\n- (C) 錯誤：SPECT 正常時，每年發生重大心血管事件的機率的確很低（< 1%），但仍需要追蹤，也不是完全不需要藥物治療。\n- (D) 正確：壓力核醫心肌造影的陰性預測值很高，但急性心肌梗塞不一定發生在血管已明顯狹窄的人；不穩定的斑塊一樣可能破裂形成血栓。"
   },
   "111-2-醫學(三)-9": {
     "text": "居然考這個 ( • _ • )\n在核醫的檢查結果中，【圖一】的 MPI 可見左心室側壁 (lateral wall) 與心尖 (apex) 的灌流較差，前壁灌流很好；而在【圖二】[18F]FDG PET 可見存活 (viable) 心肌，包含休眠 (hibernating) 心肌，在心尖、側壁、心中膈與後壁，而前壁已經多是瘢痕組織。大部分是休眠心肌的且灌流不佳者，可以考慮 revascularization，像側壁；休眠混合瘢痕的再通血管的效果就比較差，像是下壁與心尖。至於 (B) 前壁多為瘢痕心肌，但灌流很好，應為題幹所敘述的先前冠狀動脈疾病導致，以及繞道手術 (CABG) 的結果，掃描顯示其繞道手術的血管仍通暢，應該不需要做血管再通治療\n\n< 補充核醫影像 >\n1. 影像切面：不論是 MPI 或是 FDG 都以 3 種切面（共 8 行）表示\na. Short axis view（上 4 行）：從心尖往上切到心底，可見甜甜圈樣的心室\nb. Vertical-lateral axis view：垂直的從中膈往側壁切\nc. Horizontal-anterior axis view：水平的從後壁往前壁切\n2. 心肌灌注掃描 (Myocardial Perfusion Image, MPI)：透過 Tl-201 或 Tc-99m MIBI 觀察血流灌注至心肌的狀況。若有血管狹窄、阻塞，則心肌吸收核種的量就會降低\n3. F-18 FDG 正電子攝影：FDG 為葡萄糖類似物，可以觀察心肌細胞的活性，藉以辨別心肌的存活狀況（另外，FDG PET 也常應用在腫瘤的分期或治療後評估）",
     "image": "/explanations/cropped/111-2-醫學(三)-9_merged.png",
-    "explanation": "答案 (B)。\n\n**心肌存活性評估（灌流－代謝不一致）**\n\n| 灌流（SPECT） | 葡萄糖代謝（FDG PET） | 意義 | 血管再通 |\n| --- | --- | --- | --- |\n| 減少 | 保留或增加（不一致，mismatch） | 冬眠心肌（存活） | 效果好 |\n| 減少 | 也減少（一致，match） | 瘢痕（壞死） | 效果差 |\n| 正常 | 正常 | 正常心肌 | — |\n\n- 本題影像判讀：側壁灌流缺損但 FDG 攝取保留，為冬眠心肌；下壁與心尖為部分瘢痕、部分存活心肌的混合。\n- 參考答案認為前壁的灌流其實保留或有 FDG 攝取，並非大部分是瘢痕，因此 (B) 錯誤。"
+    "explanation": "答案 (B)。\n\n**判讀**\n\n- 圖一（MPI 心肌灌注）：左心室側壁與心尖灌注較差，前壁灌注良好。\n- 圖二（F-18 FDG PET）：存活心肌（包括休眠心肌）在心尖、側壁、心中膈與下壁；前壁則多為瘢痕。\n- 大部分是休眠心肌、且灌注不佳的區域（如側壁）可考慮血管再通；休眠混合瘢痕的區域（下壁、心尖）效果較差。\n- (B) 前壁雖然多是瘢痕，但灌注很好，應是過去冠心症留下的瘢痕，加上繞道手術的血管仍通暢，不需要再做血管再通治療；選項說「血管再通效果不佳」並不是這個區域的重點，故 (B) 錯誤。\n\n**核醫影像判讀補充（書上整理）**\n\n- 切面：MPI 與 FDG 都以 3 種切面共 8 行呈現：short axis（上 4 行，從心尖切到心底，呈甜甜圈狀）、vertical long axis（由中膈往側壁）、horizontal long axis（由後壁往前壁）。\n- MPI：以 Tl-201 或 Tc-99m MIBI 觀察心肌灌注，血管狹窄或阻塞處吸收量下降。\n- FDG PET：FDG 為葡萄糖類似物，可看心肌細胞活性，判斷是否為存活心肌；也用於腫瘤分期與治療後評估。"
   },
   "111-2-醫學(三)-10": {
     "text": "窄的 QRS (≤ 120 ms) → 源自 His bundle 以上；看到是 regular → 排除不規則的 atrial fibrillation (AF)、multifocal atrial tachycardia (MAT)。雖然有的時候 supraventricular origin 的也可能出現寬的 QRS，如：有 LBBB、RBBB、或 accessory pathway，不過本題心室頻脈是最不可能出現 regular narrow QRS tachycardia 的心律不整，故選 (D)",
     "image": "/explanations/cropped/111-2-醫學(三)-10_merged.png",
-    "explanation": "答案 (D)。\n\n**規則的窄 QRS 心搏過速**\n\n- 窄 QRS（< 120 ms）代表心室是經由正常的希氏束–浦金氏系統去極化，起源在心室以上（上心室心搏過速）：\n  - 房室結再入性心搏過速（AVNRT，最常見）\n  - 順向型房室再入性心搏過速（AVRT，經副傳導路徑逆傳）\n  - 心房心搏過速\n  - 心房撲動（固定比例傳導）\n  - 竇性心搏過速\n- 心室心搏過速起源於心室，QRS 通常寬（≥ 120 ms），因此最不可能。\n\n**補充**：穩定的窄 QRS 心搏過速可先做迷走神經刺激（改良式 Valsalva），無效給 adenosine；不穩定則同步電擊。"
+    "explanation": "答案 (D)。\n\n- 窄 QRS（≤ 120 ms）→ 心律源自 His 束以上。\n- 規則 → 排除不規則的心房顫動與多源性心房心搏過速（MAT）。\n- 上心室來源有時也會出現寬 QRS（例如合併束支傳導阻滯或旁路傳導），但心室心搏過速是最不可能出現「規則窄 QRS 心搏過速」的心律不整，故選 (D)。"
   },
   "111-2-醫學(三)-11": {
     "text": "| CHA₂DS₂-VASc score | | |\n| :--- | :--- | :--- |\n| | 分數 內容 | 說明 |\n| C | 1 Congestive heart failure | 包含 HCM、中度以上 LV dysfunction |\n| H | 1 Hypertension | 包含正在使用降血壓藥者 |\n| A₂ | 2 Age ≥ 75 歲 | |\n| D | 1 Diabetes mellitus | 包含正在使用降血糖藥者 |\n| S₂ | 2 Prior stroke or TIA | |\n| V | 1 Vascular disease | 包含 CAD、MI、PAD、aortic plaque，但不包含 DVT！ |\n| A | 1 Age 65 ~ 74 歲 | |\n| Sc | 1 Sex category（女） | AF 盛行率男 > 女，但女性 AF 病人較容易中風，請注意！ |\n\n1. 男生 0、女生 1 才可不做 thromboemoblic prevention，其他都需要\n2. AF 持續 > 48 小時或時間不明者，血栓機率明顯增加，故在進行 cardioversion 前就要開始用 anticoagulant\n\n(D) 深部靜脈血栓並不在評分項目中，當初在定義的時候 vascular disease 就是“prior myocardial infarction, peripheral arterial disease or aortic plaque”，DVT 不算喔！",
     "image": "/explanations/cropped/111-2-醫學(三)-11_merged.png",
-    "explanation": "答案 (D)。\n\n**CHA₂DS₂-VASc 的計分項目**\n\n| 項目 | 分數 |\n| --- | --- |\n| C：心衰竭或左心室功能不良 | 1 |\n| H：高血壓 | 1 |\n| A₂：年齡 ≥ 75 歲 | 2 |\n| D：糖尿病 | 1 |\n| S₂：中風、TIA、血栓栓塞病史 | 2 |\n| V：血管疾病（心肌梗塞、冠心症、周邊動脈疾病、主動脈斑塊） | 1 |\n| A：年齡 65–74 歲 | 1 |\n| Sc：女性 | 1 |\n\n深部靜脈血栓是靜脈血栓，不屬於計分項目中的「血管疾病」（指動脈粥狀硬化疾病）。"
+    "explanation": "答案 (D)。\n\n**CHA₂DS₂-VASc**\n\n| 項目 | 分數 | 說明 |\n| --- | --- | --- |\n| C：鬱血性心衰竭 | 1 | 包括肥厚型心肌病變、中度以上左心室功能不全 |\n| H：高血壓 | 1 | 包括正在使用降壓藥者 |\n| A₂：年齡 ≥ 75 歲 | 2 | |\n| D：糖尿病 | 1 | 包括正在使用降血糖藥者 |\n| S₂：中風或暫時性腦缺血病史 | 2 | |\n| V：血管疾病 | 1 | 冠心症、心肌梗塞、周邊動脈疾病、主動脈斑塊；不包括深部靜脈血栓 |\n| A：65–74 歲 | 1 | |\n| Sc：女性 | 1 | 心房顫動盛行率男性較高，但女性病人較容易中風 |\n\n- 男性 0 分、女性 1 分（只有性別一分）可以不用預防血栓，其他都需要。\n- 心房顫動持續 > 48 小時或時間不明者，血栓機率明顯增加，在電擊整流前就要開始抗凝血。\n- (D) 深部靜脈血栓不在評分項目中；當初定義的 vascular disease 只包括心肌梗塞、周邊動脈疾病與主動脈斑塊。"
   },
   "111-2-醫學(三)-12": {
     "text": "(A) 正確，姿態性低血壓的定義是從平躺到站立後、或執行傾斜試驗第 3 分鐘時，收縮壓下降 >20 mmHg，或舒張壓下降 >10 mmHg\n(B) 正確，右上胸骨旁是升主動脈的位置，也是 aortic valve 的聽診區，故如果出現 pulsation，可合理懷疑有升主動脈瘤\n(C) 錯誤，pulsus paradoxus 是指吸氣時血壓下降的幅度 >10 mmHg（正常吸氣也會下降，但不會降太多）。可見於阻塞性肺疾或 cardiac tamponade 的病人，如果出現在阻塞性肺病患者身上時，是瀕臨呼吸衰竭 (impending respiratory failure) 的徵兆。選項所述的脈搏每跳之間有差異叫做“pulsus alternans”，代表心室收縮功能差（不是 electrical alternans 喔！那是 ECG 上出現 QRS 忽大忽小、忽正忽反的情形）\n(D) 正確，bifid pulse 又稱 pulsus bisferiens，是指在一個心跳週期中，aortic wave 有兩個波峰，可見於 aortic regurgitation (+/- aortic stenosis) 以及 hypertrophic obstructive cardiomyopathy (HOCM) 的病人身上",
     "image": "/explanations/cropped/111-2-醫學(三)-12_merged.png",
-    "explanation": "答案 (C)。\n\n**脈搏與身體診察的異常**\n\n- 姿勢性低血壓：從平躺到站立 3 分鐘內收縮壓下降 ≥ 20 mmHg 或舒張壓下降 ≥ 10 mmHg。\n- 右上胸骨旁的搏動，可能是升主動脈瘤。\n- 脈搏的特殊型態：\n\n| 脈搏 | 定義 | 相關疾病 |\n| --- | --- | --- |\n| 交替脈（pulsus alternans） | 規則節律下，脈搏強弱交替 | 嚴重左心室收縮功能不全 |\n| 奇脈（pulsus paradoxus） | 吸氣時收縮壓下降 > 10 mmHg | 心包膜填塞、嚴重氣喘或 COPD |\n| 雙峰脈（bisferiens） | 一次收縮出現兩個高峰 | 主動脈瓣閉鎖不全、肥厚型阻塞性心肌病變 |\n| 遲小脈（parvus et tardus） | 小而延遲 | 主動脈瓣狹窄 |\n\n選項 (C) 描述的是交替脈（見於嚴重左心室收縮功能不全），卻稱為奇脈，故 (C) 錯誤。"
+    "explanation": "答案 (C)。\n\n- (A) 正確：姿勢性低血壓是由平躺到站立後（或傾斜床試驗）3 分鐘內，收縮壓下降 > 20 mmHg 或舒張壓下降 > 10 mmHg。\n- (B) 正確：右上胸骨旁是升主動脈的位置，也是主動脈瓣聽診區，看到搏動可懷疑升主動脈瘤。\n- (C) 錯誤：奇脈（pulsus paradoxus）是吸氣時血壓下降 > 10 mmHg（正常吸氣也會降一點，但不會這麼多），見於阻塞性肺病與心包膜填塞；出現在阻塞性肺病病人身上是即將呼吸衰竭的徵兆。脈搏每跳強弱不同的是交替脈（pulsus alternans），代表左心室收縮功能差；不要和心電圖 QRS 忽大忽小的 electrical alternans 混淆。\n- (D) 正確：雙峰脈（bifid pulse，pulsus bisferiens）是一個心跳週期中主動脈波有兩個波峰，見於主動脈瓣逆流（± 狹窄）與肥厚型阻塞性心肌病變。"
   },
   "111-2-醫學(三)-13": {
     "text": "可以改善 HFrEF 預後之藥物：\n1. RAAS antagonist：ACE-i、ARB（孕婦不可以用，考到稀爛）→ (A)\n2. MR antagonist：spironolactone、eplerenone → (B)\n3. ARNI：valsartan/sacubitril（Entresto，孕婦不可以用）→ (D)\n4. SGLT2 inhibitors：dapagliflozin、empagliflozin\n故本題選 (C)\n\n< 補充 >\n1. 會惡化心衰竭的藥：non-DHP CCB、TZD、COX2-inhibitor\n2. 無法減少 HFrEF 死亡率的治療：digoxin（可改善症狀）、ivabradine（可降低住院率）",
     "image": "/explanations/cropped/111-2-醫學(三)-13_merged.png",
-    "explanation": "答案 (C)。\n\n**HFrEF 的藥物治療**\n\n可改善症狀與預後（降低死亡或住院）的藥物：\n\n- ACEI 或 ARB，或 ARNI（sacubitril/valsartan，優於 ACEI）\n- 證實有效的 β 阻斷劑（carvedilol、bisoprolol、metoprolol succinate）\n- 礦物皮質素受體拮抗劑（spironolactone、eplerenone）\n- SGLT2 抑制劑（dapagliflozin、empagliflozin）\n- 其他：ivabradine（竇性心律心跳仍快）、hydralazine + isosorbide dinitrate（非裔）、vericiguat\n\n鈣離子阻斷劑沒有改善 HFrEF 預後的效果；non-dihydropyridine 類（verapamil、diltiazem）會惡化心衰竭，應避免；amlodipine、felodipine（第二代 dihydropyridine）安全但無預後效益，只用於控制血壓或心絞痛。"
+    "explanation": "答案 (C)。\n\n**可改善 HFrEF 預後的藥物**\n\n1. RAAS 拮抗劑：ACEI、ARB（孕婦不可用）→ (A)\n2. 礦物皮質素受體拮抗劑：spironolactone、eplerenone → (B)\n3. ARNI：sacubitril/valsartan（孕婦不可用）→ (D)\n4. SGLT2 抑制劑：dapagliflozin、empagliflozin\n\n鈣通道阻斷劑不在其中，故選 (C)。\n\n**相關考點**\n\n- 會惡化心衰竭的藥：非 DHP 類鈣通道阻斷劑、TZD、COX-2 抑制劑。\n- 無法降低 HFrEF 死亡率的治療：digoxin（可改善症狀）、ivabradine（可降低住院率）。\n\n**補充**：第二代（DHP 類）鈣通道阻斷劑如 amlodipine、felodipine 對 HFrEF 死亡率是中性，不會改善預後。"
   },
   "111-2-醫學(三)-14": {
     "text": "本題出自 Harrison 21/e Ch. 258 “Sudden cardiac death prevention in heart failure”\n(A) 正確，心衰竭約一半是因為心室性心律不整過世，尤其是在 HFrEF 的早期\n(B) 正確，猝死發作後活下來的病人有很高機率再次發作，因此應該安裝 ICD\n(C)(D) 適合預防性安裝 ICD 的兩種情況：(1) NYHA class II/III 且 LVEF ≤ 35% (2) 無論是否有症狀，在 AMI 後搭配最佳藥物治療 (optimal medical therapy) 但 LVEF 仍 ≤ 30% 者，故 (C) 錯誤\n\n< 其他考點 >\n1. 心臟衰竭預後：5 年存活率 50%、嚴重 HF 患者 1 年死亡率 40%\n2. 非冠狀動脈疾病導致的 systolic HF 患者使用預防性 ICD，即便是有症狀的病人使用，也不會顯著降低死亡率\n3. 末期病人、預期餘命 <6 個月、NYHA class IV 且對藥物治療反應不佳又不適合心臟移植者，須審慎評估裝 ICD 進行多次電擊的壞處與益處",
     "image": "/explanations/cropped/111-2-醫學(三)-14_merged.png",
-    "explanation": "答案 (C)。\n\n**心衰竭的猝死預防（ICD）**\n\n- 心衰竭病人約一半死於猝死，主要由心室性心律不整造成，HFrEF 尤其常見。\n- 次級預防：曾發生心跳停止或血行動力學不穩的心室心搏過速而存活者，應植入 ICD。\n- 初級預防：經至少 3 個月最佳藥物治療後，\n  - LVEF ≤ 35% 且 NYHA II–III 級（缺血性或非缺血性）\n  - 心肌梗塞後 ≥ 40 天，LVEF ≤ 30% 且 NYHA I 級\n  - 預期存活 > 1 年\n\nLVEF 大於 35% 不是預防性 ICD 的適應症，故 (C) 錯誤。"
+    "explanation": "答案 (C)。\n\n- (A) 正確：約一半的心衰竭病人死於心室性心律不整，在 HFrEF 早期尤其常見。\n- (B) 正確：猝死後存活的病人再發機率很高，應裝 ICD（次級預防）。\n- (C)(D) 適合預防性（初級預防）裝 ICD 的兩種情況：\n  1. NYHA class II–III 且 LVEF ≤ 35%。\n  2. 心肌梗塞後，在最佳藥物治療下 LVEF 仍 ≤ 30%，不論有沒有症狀。\n- (C) 的病人是 NYHA I 級且 LVEF 大於 35%，不符合，故錯誤。\n\n**補充**：心肌梗塞後要等至少 40 天（血管再通後 90 天）再評估是否裝 ICD，因為早期心室功能可能恢復；(D) 已滿 3 個月，符合時機。"
   },
   "111-2-醫學(三)-15": {
     "text": "| C 型肝炎 | | |\n| :--- | :--- | :--- |\n| HCV 基本資料 | linear、單股、positive sense 的 RNA 病毒 | 備註 |\n| | genotype (基因型)：6，以數字表示 | 台灣狀況：1b (70%) > 2a (20%) > 2b (10%) |\n| | subtype (基因亞型)：> 50，以字母表示 | |\n| 傳播途徑 | 主要：輸血、共用針頭<br>少見：性行為、垂直傳染 | 針扎感染率有 3%（HBV 則高達 30%） |\n| 疾病進程 | 急性後 85% 會慢性化、20~25% 會肝硬化 | 慢性化比例高於 HBV |\n| 治療 | • 舊藥：PEG-IFN-a + ribavirin，適合不同 genotype 的 RNA polymerase inhibitors<br>• 新藥：5 種口服 direct-acting antiviral (DAA) agents，已成為目前主流 | |\n| 預後 | type 1：RNA 濃度最高、藥物反應最差<br>type 2：RNA 濃度低、藥物反應好 | 日本多為 type 2 |\n\n(A)(D) 雖然這個病人還沒進展到肝硬化，但急性期後有高達 85% 病人會慢性化、20~25% 會肝硬化、肝硬化有 3~6% 會進展成肝癌。肝硬化的病人在清除病毒後，可以有效降低死亡率、肝衰竭、肝移植、肝細胞癌的機率；然而風險會持續存在，故仍應定期追蹤腹部超音波與胎兒蛋白\n(B)(C) 從 2017 年起，開始推動「C 型肝炎全口服新藥健保給付執行計畫」，並在 2019 年開始放寬給付對象條件。目前主流是使用療程短 (12~24 週)、效果好（治癒率超過 90%）、抗藥性低、副作用較小且病人順從性高的口服 DAA，已經不是 PEG-IFN + ribavirin 了。【107 內專】",
@@ -2286,7 +2286,7 @@
   "111-2-醫學(三)-75": {
     "text": "從照片看得出來有兩條血管相連通了，而那兩條正是降主動脈 (descending aorta, D-Ao) 與肺動脈 (pulmonary artery, PA)，所以本題為開放性動脈導管，選 (A)",
     "image": "/explanations/cropped/111-2-醫學(三)-75_merged.png",
-    "explanation": "答案 (A)。\n\n**成人開放性動脈導管**\n\n- 動脈導管連接降主動脈（左鎖骨下動脈遠端）與肺動脈；出生後未關閉即為開放性動脈導管。\n- 成人可能因心雜音偶然發現：胸骨左上緣連續性機器樣雜音；大的分流可造成左心擴大、心衰竭與肺高壓。\n- CT 血管攝影：可見主動脈峽部與左肺動脈之間的管狀連接。\n- 治療：有明顯分流或症狀時，以經導管關閉器關閉；已發展為不可逆肺高壓（艾森曼格症候群）者禁止關閉。\n\n| 鑑別 | CT 特點 |\n| --- | --- |\n| 主動脈假性動脈瘤 | 主動脈壁破裂後局限的血腫，常有外傷或手術史 |\n| 主動脈瘤 | 主動脈本身梭狀或囊狀擴大 |\n| 主動脈縮窄 | 主動脈峽部狹窄，合併側枝循環（肋間動脈擴大） |",
+    "explanation": "答案 (A)。\n\n從電腦斷層可以看到兩條血管相連通，分別是降主動脈與肺動脈，所以是開放性動脈導管，選 (A)。\n\n**補充**\n\n- 開放性動脈導管是主動脈到肺動脈的左向右分流，典型雜音是左上胸骨旁（左鎖骨下）的連續性機器樣雜音；小的導管可沒有症狀，成人常在健檢時因心雜音才發現。\n- 分流量大時會造成左心房、左心室擴大，久了可演變成肺高壓甚至 Eisenmenger 症候群（下肢發紺、杵狀指，即差異性發紺）。\n- 有明顯分流或症狀者，可經導管關閉或手術結紮。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-75_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(三)-75_merged.png"
