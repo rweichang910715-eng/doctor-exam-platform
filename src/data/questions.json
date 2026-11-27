@@ -17547,12 +17547,12 @@
       "D": "claudication為stage IV"
     },
     "answer": "C",
-    "explanation": "下肢動脈阻塞疾病常用分類有 Fontaine's classification 和 Rutherford's categories：\n\n| Fontaine's stage | 臨床表現 | Rutherford's category | 臨床表現 |\n| :--- | :--- | :--- | :--- |\n| **I** | 無症狀 | **0** | 無症狀 |\n| **IIa** | 間接性跛行（可走 >200 公尺） | **1** | 輕微間接性跛行 |\n| **IIb** | 間接性跛行（可走 <200 公尺） | **2** | 中度間接性跛行 |\n| | | **3** | 重度間接性跛行 |\n| **III** | 休息時疼痛 (ischemic rest pain) | **4** | 休息時疼痛 |\n| **IV** | 缺血性潰瘍 (ulceration) 或壞死 (gangrene) | **5** | 輕度缺血性潰瘍 |\n| | | **6** | 嚴重缺血性潰瘍或壞死 |",
+    "explanation": "答案 (C)。\n\n**周邊動脈疾病的分類**\n\n| Fontaine 分期 | 表現 | Rutherford 分類 |\n| --- | --- | --- |\n| I | 無症狀 | 0 |\n| IIa / IIb | 間歇性跛行（輕度：可走 > 200 m；重度：< 200 m） | 1–3 |\n| III | 休息時缺血性疼痛 | 4 |\n| IV | 組織喪失：潰瘍或壞疽 | 5–6 |\n\n- 休息時疼痛與組織喪失合稱為「慢性肢體威脅性缺血」，需積極血管重建以避免截肢。\n- 評估工具：踝肱指數（ABI < 0.9 異常；< 0.4 為嚴重缺血；糖尿病或腎病病人因血管鈣化可能假性升高，可改測趾肱指數）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "心臟外科",
+    "category": "心臟外科"
   },
   {
     "id": "112-1-醫學(五)-22",
@@ -17567,12 +17567,12 @@
       "D": "fibrillin"
     },
     "answer": "D",
-    "explanation": "這題很像在考一階國考... 筆者發現 112 年的題目很愛把一階的東西也拿到二階一起考，Marfan syndrome 是 FBN1 基因突變導致 fibrillin-1 蛋白質異常\n(A) elastin 如果出問題，也會導致心血管的一些問題，如家族性的 supravalvular aortic stenosis、Williams-Beuren syndrome 等\n(B) 金屬蛋白酶 (metalloproteinase) 是人體內用來分解細胞外基質 (ECM) 的重要酵素們，種類非常多，舉一個比較常見的例子，ADAMTS-13 就屬於一種金屬蛋白酶，當他活性下降時，會無法將 vWF 分解，而使大塊的 vWF 沉積於血管內皮，並進一步凝集血液中的血小板，導致血栓性血小板低下紫斑症 (thrombotic thrombocytopenic purpura, TTP)\n(C) 一階國考應該有記不同種類的 collagen 會出現在哪些組織，此處額外放上不同種類的 collagen 異常會導致什麼疾病\n\n| collagen | 分佈 | 相關疾病 |\n| :--- | :--- | :--- |\n| **type I（最常見）** | 骨頭、肌腱、韌帶、疤痕、血管 | osteogenesis imperfecta |\n| **type II** | 軟骨、玻璃體、腸子 | Stickler syndrome |\n| **type III** | 皮膚、血管 | Ehlers-Danlos syndrome (vascular) |\n| **type IV** | 基底膜 | Alport syndrome<br>Goodpasture syndrome |\n| **type V** | 胎盤、真皮與表皮交界（形成 anchoring fibrils） | Ehlers-Danlos syndrome (classic) |\n| **type VII** | 真皮與表皮交界 | epidermolysis bullosa |",
+    "explanation": "答案 (D)。\n\n**馬凡氏症候群**\n\n- 體染色體顯性遺傳，FBN1 基因突變，使細胞外基質的 fibrillin-1 異常；fibrillin-1 是彈性纖維的支架，並調控 TGF-β 的活性。\n- 表現：\n  - 心血管：主動脈根部擴大、主動脈剝離（主要死因）、二尖瓣脫垂、主動脈瓣閉鎖不全\n  - 眼睛：水晶體向上移位\n  - 骨骼：身材高瘦、四肢與手指細長、胸廓變形（漏斗胸或雞胸）、脊椎側彎、關節過度活動\n- 治療：β 阻斷劑或 ARB 減緩主動脈擴大；主動脈根部 ≥ 5 cm（或快速擴大、有家族史者更早）時預防性手術。\n\n| 其他結締組織疾病 | 異常蛋白 |\n| --- | --- |\n| Ehlers-Danlos 症候群 | 膠原蛋白（血管型為第三型膠原蛋白） |\n| Loeys-Dietz 症候群 | TGF-β 受體 |\n| 皮膚鬆弛症 | Elastin |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "心臟外科",
+    "category": "心臟外科"
   },
   {
     "id": "112-1-醫學(五)-23",
@@ -17587,12 +17587,12 @@
       "D": "心導管（cardiac catheterization）之檢查已經是非必要之檢查"
     },
     "answer": "A",
-    "explanation": "全肺靜脈異常〔TAPVC，或作 TAPVR (R for return)〕是先天性發紺型心臟病，是肺靜脈全接到上下腔靜脈或右心房，造成右心肥大，要合併 ASD，充氧血才有辦法回到左心，阻塞型 TAPVR 會造成嚴重肺高壓、肺水腫導致無法進行氧氣交換，需在出生後需要盡速進行手術修復；其他型 TAPVR 通常診斷時間較晚，皆建議進行手術矯正發紺\n(A) 錯誤，垂直靜脈可能是肺靜脈連到體循環的路徑，手術治療時應該截斷\n(C) 無縫修復法 (sutureless repair) 不直接縫合血管壁，而是縫合心包膜，可以避免術後由於血管壁縫合的出血\n(D) 心導管檢查目前不是 gold standard，使用超音波、CTA 或 MRA 就足以診斷",
+    "explanation": "答案 (A)。\n\n**全肺靜脈回流異常（TAPVC）**\n\n- 四條肺靜脈都沒有接到左心房，而是經由匯流腔與垂直靜脈接到體循環靜脈，需要心房中隔缺損讓血液到達左心。\n- 分型：心上型（最常見，經垂直靜脈接到無名靜脈）、心內型（冠狀竇或右心房）、心下型（經下行垂直靜脈穿過橫膈到門脈，最常合併阻塞）、混合型。\n- 阻塞型 TAPVC 是新生兒心臟手術的急症；所有 TAPVC 一經診斷都應手術矯正。\n- 手術：把肺靜脈匯流腔吻合到左心房後壁，並結紮或截斷垂直靜脈，使所有肺靜脈血流回左心房，故 (A) 錯誤。（若左心房、左心室很小或術後擔心肺高壓，少數情況會暫時保留垂直靜脈。）\n- 術後肺靜脈狹窄是重要的併發症，可用無縫合修補法（sutureless repair）處理。\n- 診斷以心臟超音波為主，必要時加做 CT；心導管已非必要檢查。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "心臟外科",
+    "category": "心臟外科"
   },
   {
     "id": "112-1-醫學(五)-24",
@@ -17607,12 +17607,12 @@
       "D": "muscular type"
     },
     "answer": "C",
-    "explanation": "看似很難的一題，但其實只要知道哪個位置的 VSD 離主動脈瓣最近就行了\n\n| 心室中膈缺損 (ventricular septal defect, VSD) | 盛行率 | 特色 |\n| :--- | :--- | :--- |\n| **type I 動脈下型 (subarterial type)** | 5~7%（東方人 ~30%） | • 常合併主動脈瓣脫垂、AR 等<br>• 最不容易自行癒合 |\n| **type II 膜週邊型 (perimembranous type)** | 70% | |\n| **type III 房室腔型 (AV canal type)** | 5% | 常見於唐氏症或其他基因異常 |\n| **type IV 肌肉型 (muscular type)** | 20% | 最容易自行癒合 |\n\n治療上，小尺寸的 VSD (≤ 3 mm) 在 1~2 歲前自行癒合的機率很高，可先觀察或是藥物治療；大尺寸 (≥ 5 mm)、缺損位置不佳、無法自行癒合或有嚴重症狀的 VSD 則建議心導管或手術治療",
+    "explanation": "答案 (C)。\n\n**心室中隔缺損合併主動脈瓣脫垂**\n\n| 類型 | 位置 | 特點 |\n| --- | --- | --- |\n| 膜周部（type II） | 膜性中隔附近 | 西方國家最常見 |\n| 動脈下（type I，又稱 doubly committed、supracristal） | 主動脈瓣與肺動脈瓣正下方 | 亞洲人較常見（約 30%）；缺乏支撐，主動脈瓣右冠瓣葉容易被吸入缺損而脫垂，造成主動脈瓣逆流 |\n| 流入道（type III） | 房室瓣下方 | 常見於唐氏症（房室中隔缺損） |\n| 肌肉部（type IV） | 肌肉性中隔 | 自行閉合率高，可多發 |\n\n動脈下型 VSD 即使缺損不大也不易自行閉合，出現主動脈瓣脫垂或逆流時，應及早手術關閉缺損，以免主動脈瓣持續受損。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "心臟外科",
+    "category": "心臟外科"
   },
   {
     "id": "112-1-醫學(五)-25",
@@ -17627,7 +17627,7 @@
       "D": "胃食道逆流與食道弛緩症（achalasia）一樣，發生時間長久後，會有巨大食道（megaesophagus）產生"
     },
     "answer": "B",
-    "explanation": "(A) GERD 處置首要是改善生活習慣，如減少暴食、宵夜、減重、睡覺頭墊高、避免誘發因子等；可適當給予藥物，PPI 或 H2 blocker；保守治療皆無效才考慮手術介入\n(B)(C) GERD 除典型的 heartburn（胸口灼熱、胸痛）、胃酸逆流、吞嚥困難的症狀外，也會有食道外的症狀，如咳嗽、氣喘、喉炎、牙齒腐蝕\n(D) 食道遲緩不能 (achalasia) 因分泌一氧化氮的神經病變，下食道括約肌 (lower esophageal sphincter, LES) 無法擴張，食物因而不能下送而堆積，造成其近端食道擴張 / 撐大的現象，稱為巨大食道，長期 GERD 並不會有此現象，GERD 的併發症為胃食道交界處潰瘍、狹窄、癌前病變的巴瑞特氏食道 (Barrett's esophagus) 和食道腺癌 (esophageal adenocarcinoma)",
+    "explanation": "答案 (B)。\n\n**胃食道逆流疾病（GERD）**\n\n- 典型症狀：火燒心、胃酸逆流。\n- 食道外症狀：慢性咳嗽、氣喘、聲音沙啞、咽喉異物感、胸痛、牙齒侵蝕。逆流的胃酸可經由誤吸或迷走神經反射誘發支氣管收縮，故 (B) 正確。\n- 治療：\n  - 第一線為生活型態調整與質子幫浦抑制劑（PPI）。\n  - 手術（腹腔鏡胃底摺疊術）用於藥物治療有效但不想長期服藥、無法耐受藥物、或有大型食道裂孔疝氣、嚴重食道炎等併發症者，不是最優先的選擇，故 (A) 錯誤。\n- 火燒心是 GERD 的典型症狀；心肌梗塞也可能以上腹或胸骨後灼熱表現，需要鑑別，故 (C) 錯誤。\n- 巨食道症是食道失弛緩症的晚期表現；GERD 的長期併發症是食道狹窄、Barrett 食道與腺癌，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17647,7 +17647,7 @@
       "D": "即使被鋇劑食道攝影診斷為食道蠕動問題，只要病人有吞嚥困難問題，仍應安排胃食道鏡檢查"
     },
     "answer": "B",
-    "explanation": "(A) 正確，食道癌的診斷一定還是要靠病理切片（可以直接靠影像診斷的癌症大概只有肝癌），staging 則是會配合電腦斷層、內視鏡超音波 (EUS)，如果疑似轉移還會加做正子攝影\n(B) 錯誤，Bird's beak sign 是食道下段遲緩不能 (achalasia) 的表現，因為食道收縮所以只有小小的縫可以讓鋇劑鑽過去，形成類似鳥嘴的形狀\n(C) 正確，EMR 在侷限於 mucosa 的早期食道癌可以知道侵犯深度，但大多情況下要知道深度還是會透過 EUS，如果深度侵犯到了 submucosa 或是更深，通常會建議做食道切除 + 淋巴結切除（只侵犯 mucosa、submucosa 的病人仍有 20-25% 有淋巴結侵犯）\n(D) 正確，鋇劑食道攝影主要是看食道蠕動與狹窄狀況，比較沒有辦法直接看到 mucosa 有沒有什麼病變，而且食道癌的臨床表現之一就是吞嚥困難，因此還是會建議做上消化道內視鏡檢查\n\n其他考點：\n• 食道腺癌較常發生在下 1/3 段食道，主因和 Barrett esophagus 和 GERD 有關\n• 食道鱗狀上皮癌好發生於上 2/3 食道，其中以中 1/3 食道為主（國人統計食道鱗狀上皮癌發生位置依序為：中段 > 下段 > 上段）\n• 兩類型食道癌的比較表格，整理於【112-2(三)19】\n• 食道鋇劑檢查，疾病與對應的 signs，請見【112-1(三)74】",
+    "explanation": "答案 (B)。\n\n**食道癌的診斷**\n\n- 確診工具：上消化道內視鏡切片。\n- 鋇劑食道攝影的典型表現：\n\n| 疾病 | 鋇劑攝影 |\n| --- | --- |\n| 食道癌 | 不規則狹窄、黏膜破壞、「蘋果核」狀病灶 |\n| 食道失弛緩症 | 下食道平滑漸細的「鳥嘴徵象」，上方食道擴張 |\n\n鳥嘴徵象是食道失弛緩症的特徵，不是食道癌的診斷標準，故 (B) 錯誤。不過，食道下端或賁門的腫瘤可以造成類似的影像（假性失弛緩症），因此即使鋇劑攝影診斷為蠕動異常，有吞嚥困難的病人仍應做內視鏡。\n\n- 早期食道癌：內視鏡黏膜切除（EMR）或黏膜下剝離（ESD）可同時治療並提供完整標本，以評估侵犯深度與是否需追加治療。\n- 分期：內視鏡超音波（T、N）、CT、PET。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17667,12 +17667,12 @@
       "D": "與肺鱗狀上皮細胞癌（squamous cell carcinoma）相比，較不易轉移至腦部"
     },
     "answer": "D",
-    "explanation": "| NSCLC 肺腺癌 | NSCLC 鱗狀細胞癌 | SCLC 小細胞癌 |\n| :--- | :--- | :--- |\n| **比率（台灣）** | 62% | 16% | 8% |\n| **腫瘤分布** | 周邊型（來自支氣管上皮 mucus-producing cell） | 中央型（多局部壞死與開洞化） | 中央型 |\n| **吸菸關聯性** | 較不相關，>50% 是非吸菸者，尤其亞洲女性 | 相關 | 最相關 |\n| **遠端轉移（尤其腦轉移）** | 其次 | 少見 | 最常見 |\n| **預後** | 最佳 | 其次 | 最差 |\n| **腫瘤伴生症候群 (paraneoplastic syndrome)** | Hypertrophic pulmonary osteoarthropathy | 1. 高血鈣（分泌 PTHrP）<br>2. Horner syndrome（若腫瘤長在肺尖，即 Pancoast tumor） | 1. SIADH<br>2. Cushing's syndrome<br>3. Lambert-Eaton syndrome |\n| **治療** | • 早期：手術 ± 放化療<br>• 晚期 (stage IIIB 以上)：分子病理檢查，看能否標靶治療 (TKI)；若無只能化療（皆能 ± 免疫治療） | • 侷限期 (limited，在同側肺腔)：手術 + 放化療<br>• 擴散期 (extensive)：化療 ± 免疫治療 |\n\n【112-2(五)26】則是考肺鱗狀上皮癌！\n\n其他考點：\n• 最罕見的肺癌種類為：大細胞肺癌 (large cell carcinoma)，屬於 NSCLC，特徵為顯微鏡底下有大、未分化的癌細胞，好分布於肺周邊，易早期轉移\n• 預後最好的肺腺癌細胞型態為：lepidic pattern（仍為 adenocarcinoma in situ）",
+    "explanation": "答案 (D)。\n\n**肺腺癌**\n\n- 肺癌最常見的組織型，也是不抽菸者、女性最常見的肺癌。\n- 起源於細支氣管與肺泡的分泌黏液細胞（含第二型肺泡細胞與 club cell）。\n- 多位於肺周邊，影像上可呈毛玻璃病灶或實心結節。\n- 台灣病人約一半以上帶有 EGFR 突變，其他驅動基因有 ALK、ROS1、KRAS 等，可用標靶藥物治療。\n- 肺腺癌比鱗狀細胞癌更容易遠處轉移，特別是腦部、骨頭與肋膜（EGFR 突變或 ALK 重組者更常發生腦轉移），故 (D) 錯誤。\n\n| 比較 | 腺癌 | 鱗狀細胞癌 |\n| --- | --- | --- |\n| 位置 | 周邊 | 中央（大支氣管） |\n| 與抽菸 | 相關較弱 | 強烈相關 |\n| 空洞化 | 較少 | 常見 |\n| 副腫瘤症候群 | 肥厚性肺骨關節病變 | 高血鈣（PTHrP） |\n| 遠處轉移 | 較早 | 較晚，以局部侵犯為主 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "胸腔外科",
+    "category": "胸腔外科"
   },
   {
     "id": "112-1-醫學(五)-28",
@@ -17687,12 +17687,12 @@
       "D": "治療方式以手術切除為主"
     },
     "answer": "B",
-    "explanation": "本題重點為肺部類癌 (lung carcinoid, NEC) 的比較，但考得實在有點細，若沒時間讀細節就參考以下整理，知道非典型類癌比較惡性就好\n\n| NEC 病理分級* | 典型類癌 (typical carcinoid)<br>Grade I | 非典型類癌 (atypical carcinoid)<br>Grade II |\n| :--- | :--- | :--- |\n| **流行病學** | 年齡較小；男女均有（女性較多） | 年齡較大；男性為主；抽菸 |\n| **腫瘤大小 (cm)** | 小 (<3cm) | 大 (>3 cm) |\n| **轉移、類癌症候群** | 少見 | 常見 |\n| **預後（5 年存活率）** | 較好 (80-90%) | 較差 (50-60%) |\n| **治療** | 類癌的一線治療都是手術切除；高惡性度或有轉移的類癌才是以化療、somatostatin analogue 或栓塞治療為主 |\n\n*Grade III= Large Cell NEC; Grade IV= SCLC",
+    "explanation": "答案 (B)。\n\n**肺類癌**\n\n- 屬於肺部神經內分泌腫瘤，分為典型類癌（低惡性度）與非典型類癌（中惡性度）；小細胞肺癌與大細胞神經內分泌癌為高惡性度。\n\n| 類型 | 有絲分裂 | 壞死 | 5 年存活率 |\n| --- | --- | --- | --- |\n| 典型類癌 | < 2/10 HPF | 無 | > 90% |\n| 非典型類癌 | 2–10/10 HPF | 局部 | 約 60–70%，較常有淋巴與遠處轉移 |\n\n- 多長在中央大支氣管，可造成咳嗽、咳血、反覆阻塞性肺炎；支氣管鏡下呈表面光滑、富血管的紅色腫瘤（切片易出血）。\n- 類癌症候群（潮紅、腹瀉、支氣管收縮）在肺類癌很少見（< 5%），通常只在有肝轉移時才出現，故 (B) 錯誤。\n- 治療以手術切除為主（肺葉切除或支氣管袖狀切除，並做淋巴結廓清）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "胸腔外科",
+    "category": "胸腔外科"
   },
   {
     "id": "112-1-醫學(五)-29",
@@ -17707,7 +17707,7 @@
       "D": "為了有效控制出血，pneumonectomy為最常用的術式"
     },
     "answer": "A",
-    "explanation": "絕大部分的肺臟外傷置放胸管即可，不需要手術介入，需要開胸手術 (thoracotomy) 的適應症包含胸管引流出 >1500 ml 血液、持續 2-4 小時以上引流 >150-200 ml 血液、血流動力不穩定等（詳細適應症可參考【112-2(五)29】，上述出血量是經驗法則得出，Sabiston 認為區分出血為 active 或 accumulated 更重要）\n\n肺實質出血的止血方式依嚴重度分為 suture、pulmonary tractotomy（以器械將肺實質損傷處打開探查，讓出血、氣漏處得以被 clamped 或縫合，不用切除肺組織是其優點）、肺切除，其中肺切除的術式以 lobectomy、segmentectomy 為主，單側全肺切除 (pneumonectomy) 本身有高死亡率 (>50%)，在極端、止血方式均失敗的情況下才考慮施行，此外血腫、空氣栓塞皆是肺部手術可能的併發症",
+    "explanation": "答案 (A)。\n\n**肺臟外傷的手術處理**\n\n- 大多數胸部外傷只需放置胸管即可，需要開胸手術的不到 15%。\n- 手術原則：盡量保留肺組織，依傷勢由小到大選擇：\n  1. 縫合（pneumorrhaphy）\n  2. 肺束切開術（pulmonary tractotomy）：沿著穿刺傷道切開肺組織，直接結紮出血的血管與漏氣的支氣管，可有效止血並保留肺組織\n  3. 楔狀切除、肺葉切除\n  4. 全肺切除（最後手段）\n- 外傷時進行全肺切除的死亡率極高（50% 以上），主要因急性右心衰竭，故 (B)(C)(D) 錯誤。\n- 單純縫合穿刺傷的入口與出口，可能讓傷道內的血管與支氣管相通，空氣進入肺靜脈造成全身性空氣栓塞，甚至猝死；這也是 tractotomy 的優點之一，故 (A) 正確。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17727,7 +17727,7 @@
       "D": "縱隔惡性生殖細胞瘤的發生率沒有性別差異"
     },
     "answer": "D",
-    "explanation": "| | 前縱隔腔 | 中縱隔腔 | 後縱隔腔 |\n| :--- | :--- | :--- | :--- |\n| **解剖構造** | 胸腺、內胸動脈 | 心臟、氣管、升主動脈、主動脈弓、SVC、IVC、膈神經 | 胸主動脈、食道、奇靜脈、半奇靜脈、胸管、交感神經鏈 |\n| **常見腫瘤** | Teratoma<br>Thyroid mass<br>Thymoma<br>Lymphoma<br>（口訣：3T1L） | LN enlargement<br>Bronchogenic cyst<br>Pleuropericardial cyst | Neurogenic tumor<br>Meningocele |\n\n(A) 正確，在一些文獻有提到，有些位於縱隔腔的良性 teratoma 鄰近重要器官，因此只做局部切除，而這些病例也幾乎沒看到復發的情形\n(B) 正確，如上表所列，而 neurogenic tumor 無論是在成人或小孩都是縱隔腔腫瘤最常見的（占成人 21%、占小孩 40%）\n(C) 正確，精原細胞瘤 (seminoma) 對放射線與化療藥物非常敏感，初期 seminoma 使用放射治療可以治癒，而化學治療一般使用 cisplatin-based 的化療藥物，縱隔腔 seminoma 通常發現時已經比較晚期，但儘管如此使用化療仍有超過 75% 病人可以達到 complete response，相對的，nonseminomatous 的生殖細胞瘤對於放射線治療就比較不敏感，通常對於化療比較有效\n(D) 錯誤，其實很少疾病會完全沒有性別差異啦，考試真的不會時看到這種語氣就給他選下去，縱隔腔 GCT 大約有 80% 是良性，而良性的 GCT 男女發生率是差不多的，但若是惡性 GCT 則男性發生率幾乎是女性 10 倍",
+    "explanation": "答案 (D)。\n\n**成人縱膈腔腫瘤**\n\n| 位置 | 常見腫瘤 |\n| --- | --- |\n| 前縱膈 | 胸腺瘤（最常見）、畸胎瘤與其他生殖細胞腫瘤、淋巴瘤、胸骨後甲狀腺腫（4T） |\n| 中縱膈 | 支氣管源性囊腫、心包膜囊腫、淋巴結病變 |\n| 後縱膈 | 神經源性腫瘤（神經鞘瘤、神經纖維瘤、神經節細胞瘤） |\n\n- 良性畸胎瘤：手術完整切除可治癒；若無法完全切除，部分切除也很少復發。\n- 縱膈精原細胞瘤：對放療與化療非常敏感，以化療為主要治療。\n- 縱膈惡性生殖細胞腫瘤幾乎都發生在年輕男性（> 90%），有明顯的性別差異，故 (D) 錯誤；非精原細胞瘤可合併 Klinefelter syndrome。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17747,7 +17747,7 @@
       "D": "40歲男性，B型肝炎患者，CTP score=5，單顆腫瘤2.0 cm位於segment II，無肝外轉移及大血管侵犯"
     },
     "answer": "D",
-    "explanation": "本題非常重要，同學可以從 Barcelona Clinic Liver Cancer (BCLC) 肝癌臨床分期與治療、或是各 criteria 去檢視各選項肝臟移植的合理與否\n1. BCLC 分期有列於【112-1(五)4】詳解，其中肝臟移植適應症為 Stage A (early)、Child score A-B、Performance status 0，腫瘤≤ 3 顆、每顆皆≤ 3cm\n2. Criteria（臨床最廣泛應用的是 Milan criteria，但因稍過嚴苛，後續又有其他 criteria）\n所有 criteria 皆包含「無大血管或肝外侵犯」條件：\n• Milan criteria (1996)：單顆≤ 5 cm 或 2-3 顆每顆≤ 3 cm\n• UCSF criteria (2001)：單顆≤ 6.5 cm 或 2-3 顆每顆≤ 4.5 cm，所有腫瘤直徑總和≤ 8 cm\n• Up-to-7 criteria (new Milan criteria) (2011)：腫瘤數量 + 最大腫瘤直徑≤ 7 cm\n(D) 本選項以 criteria 而言看似都符合，但別忽略了單顆腫瘤的治療手段很多，以 BCLC 分期治療而言，單顆腫瘤≤ 2 公分，屬於 stage 0，建議採取消融術或切除",
+    "explanation": "答案 (D)。\n\n**肝細胞癌的肝臟移植適應症**\n\n- 米蘭標準（Milan criteria）：\n  - 單一腫瘤 ≤ 5 cm，或\n  - 2–3 顆腫瘤、每顆 ≤ 3 cm\n  - 沒有大血管侵犯與肝外轉移\n- 符合米蘭標準者，移植後 5 年存活率約 70% 以上。\n- 移植最大的優點是同時治療腫瘤與肝硬化，特別適合肝功能差、無法切除的病人。\n\n| 選項 | 分析 |\n| --- | --- |\n| (A) | 2 顆 ≤ 3 cm，CTP 8（B 級），符合 |\n| (B) | 單顆 4.5 cm，CTP 10（C 級），符合且肝功能差，最適合移植 |\n| (C) | 3 顆 ≤ 3 cm，CTP 7，符合 |\n| (D) | 單顆 2 cm，CTP 5（A 級），肝功能好，首選手術切除或燒灼，不建議優先移植 |\n\n在器官短缺的情況下，肝功能良好的單一小腫瘤應先以切除或燒灼治療。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17767,12 +17767,12 @@
       "D": "多發性的大腸直腸癌肝臟轉移，既使接受手術治療預後也不好，只能以化學藥物治療"
     },
     "answer": "D",
-    "explanation": "(A) 正確，轉移性肝臟腫瘤以來自大腸直腸癌 (30-50%) 最多，常見程度由高到低為：大腸直腸癌 > 胰臟癌 / 乳癌 / 胃癌 / 腸胃道腫瘤 > 黑色素瘤 > 肺癌 > 攝護腺癌\n(B) 肝臟有兩套供血的系統，使其成為大腸直腸癌最容易轉移的部位，筆者引用 Nature 近年的回顧：約 30~50% 的大腸直腸癌病人會出現肝轉移，且約 50% 的大腸直腸癌病人新診斷時即合併肝轉移，選項有符合 50% 這個基數算是合理\n(C)(D) 大腸直腸癌肝轉移是少數以切除轉移腫瘤 (metastasectomy) 作為標準治療的轉移性癌症，由於治療技術進步，加上腫瘤較少造成嚴重肝硬化，因此手術預後較佳（五年存活率 20~50%），現行的治療主要為切除手術 + 術後化療；多發性肝轉移則可考慮栓塞治療 + 術後化療\n\n參考資料：DI Tsilimigras. (2021). Liver metastases. Nature reviews Disease primers, 7(1), 27.",
+    "explanation": "答案 (D)。\n\n**大腸直腸癌肝轉移**\n\n- 轉移性肝腫瘤中，最常見的原發部位是大腸直腸癌。\n- 約 50–60% 的大腸直腸癌病人在病程中會發生肝轉移（診斷時約 20–25%）。\n- 治療：\n  - 肝臟切除是唯一可能治癒的方式，術後 5 年存活率約 40–50%。\n  - 可切除的條件是能完整切除所有病灶，並保留足夠的殘餘肝臟（正常肝約 20–30% 以上）；腫瘤數目本身不是禁忌。\n  - 多發性病灶可先用化學治療合併標靶藥物縮小腫瘤（轉換治療），再手術切除；也可合併燒灼、兩階段肝切除、門靜脈栓塞增加殘餘肝體積。\n\n多發性肝轉移並不代表只能化療，經適當治療後仍可能手術切除並獲得長期存活，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "大腸直腸科",
-    "category": "大腸直腸科"
+    "chapter": "一般外科",
+    "category": "一般外科"
   },
   {
     "id": "112-1-醫學(五)-33",
@@ -17787,12 +17787,12 @@
       "D": "糖尿病患者合併腎衰竭尿毒症先接受胰臟移植（pancreas before kidney transplant, PBK）之後再等待腎臟移植"
     },
     "answer": "A",
-    "explanation": "胰臟移植是治療第一型糖尿病的根本方法，目前常見胰臟移植的方法有三種，見下表：\n\n| 移植方法 | 胰腎同時移植 (SPK) | 胰臟在腎臟移植後移植 (PAK) | 胰臟單獨移植 (PTA) |\n| :--- | :--- | :--- | :--- |\n| **比例（美／日）** | 70/83 % | 22/13 % | 8/4 % |\n| **優點** | 1. 單次手術，同時解決兩個器官問題<br>2. 胰腎可用類似的免疫抑制劑<br>3. 可及早監測移植胰臟是否有排斥* | 術後可繼續使用腎臟移植後服用的免疫抑制劑 | 病患本身無腎衰竭共病，手術風險較低 |\n| **缺點** | 1. 手術複雜又病患本身共病多，併發症風險增加<br>2. 較難同時取得兩種器官 | 1. 須接受兩次手術<br>2. 不易監測胰臟移植之排斥；長期預後不及 SPK | 不易監測胰臟移植之排斥；長期預後不及 SPK |\n| **預後（器官功能時間）** | 胰：10-15 年<br>腎：15-20 年 | 胰：5-7 年 | 胰：5-7 年 |\n\n* 器官排斥是胰臟移植最大的問題，而 SPK 的優點在於病人可靠監測血液肌酸酐懷疑「胰臟」是否產生急性排斥，並進一步由經皮腎臟切片確認；PAK、PTA 僅能靠血糖、amylase、C-peptide 值去懷疑是否有胰臟排斥，但這些數值升高通常都已是嚴重排斥了，這也是 SPK 被認為預後較佳的主要原因，雖然答案為 (A)，但現實狀況常常是 (D)：欲 SPK 的病人等不到腎臟，只能先接受胰臟移植，預後自然不如 SPK\n\n參考資料：\n1. RW Gruessner & AC Gruessner. (2013). The current state of pancreas transplantation. Nature Reviews Endocrinology, 9(9), 555-562.\n2. T Ito, et al. (2020). Impact of pancreas transplantation on thepatient survival—an analysis of the Japanese Pancreas Transplants Registry. Journal of Clinical Medicine, 9(7), 2134.",
+    "explanation": "答案 (A)。\n\n**胰臟移植的種類**\n\n| 類型 | 對象 | 比例與預後 |\n| --- | --- | --- |\n| 胰腎同時移植（SPK） | 第一型糖尿病合併末期腎病 | 最多（約 75–80%），胰臟移植物存活率最好 |\n| 腎臟移植後再胰臟移植（PAK） | 已接受腎臟移植的糖尿病病人 | 較少，存活率略低 |\n| 單獨胰臟移植（PTA） | 無腎衰竭，但有嚴重反覆低血糖或血糖極難控制 | 最少，排斥較難偵測 |\n\nSPK 時腎臟與胰臟來自同一捐贈者，可用腎功能（creatinine）監測排斥，移植物存活率較高，因此比例最高、預後最好。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "移植科",
+    "category": "移植科"
   },
   {
     "id": "112-1-醫學(五)-34",
@@ -17807,7 +17807,7 @@
       "D": "90%的insulinoma是sporadic，而10% 的insulinoma與multiple endocrine neoplasia type I（MEN I）syndrome相關"
     },
     "answer": "B",
-    "explanation": "Passaro's triangle 又稱為 Gastrinoma triangle，由 cystic duct 與 common bile 匯集處（上界）、duodenum 第 2、3 部分（下界）、胰臟的 neck、body（內界）所形成的解剖位置，大約 80-90% 的 gastrinoma 會在此處發現，而 insulinoma 則幾乎都在胰臟裡或是直接附著在胰臟上，只有 2% 的 insulinoma 會在其他地方如十二指腸壁上發現\n\n其他選項均正確，同學們可以搭配【112-1(五)39】、【112-2(五)30】、【112-2(五)34】的詳解一起複習！",
+    "explanation": "答案 (B)。\n\n**胰臟神經內分泌腫瘤**\n\n| 腫瘤 | 特點 |\n| --- | --- |\n| 胰島素瘤 | 最常見的功能性胰臟神經內分泌腫瘤；約 90% 為良性、單發、< 2 cm；平均分布在胰臟頭、體、尾；約 10% 與 MEN 1 相關 |\n| 胃泌素瘤 | Zollinger-Ellison 症候群：難治性或多發性消化性潰瘍、腹瀉、逆流性食道炎；約 60–90% 為惡性；約 20–25% 與 MEN 1 相關；約 70–90% 位於胃泌素瘤三角 |\n\n- 胰島素瘤的 Whipple's triad：空腹時低血糖症狀、血糖 < 50 mg/dL、給予葡萄糖後症狀緩解。\n- 胃泌素瘤三角（Passaro's triangle）：膽囊管與總膽管交界、十二指腸第二與第三部分交界、胰頸與胰體交界所圍成的三角區。\n\n位於 Passaro's triangle 的是胃泌素瘤，而不是胰島素瘤，故 (B) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17827,7 +17827,7 @@
       "D": "大部分外科醫師在考慮瘻管手術前先採保守治療2～3個月，因大部分可自發性閉合的瘻管在5個星期內會閉合，且先保守治療之後手術的成功率較高，併發症較少"
     },
     "answer": "D",
-    "explanation": "小腸瘻管可分為連至體表的 external fistula（如腸皮瘻管）與連結小腸／其他臟器之間的 internal fistula（如小腸膀胱瘻管、小腸陰道瘻管等），評估與處置原則相仿，出題重點以腸皮瘻管為主，【112-2(五)32】也考，請參閱該詳解的整理，本題僅就錯誤選項做說明\n(A) 前句正確，約 80% 腸皮瘻管是腹部手術後的併發症；後句敘述有瑕疵，通常在術後 2 個星期「以內」發生\n(B) 除了「瘻管管道過長」，其餘皆正確，長度 <2 cm 的瘻管反而不利於自行癒合，因為過短瘻管的滲出液較容易流出，使瘻管難以沾黏癒合\n(C) octreotide 可以降低腸胃道黏膜分泌物、增加腸道水分吸收來增加閉合機率，但對於滲出量過高的小腸瘻管效果較差",
+    "explanation": "答案 (D)。\n\n**小腸廔管**\n\n- 約 75–85% 的腸皮廔管是醫源性，多發生在手術後 7–10 天左右（吻合處滲漏或腸道受傷）；其他原因有克隆氏症、放射線、惡性腫瘤、感染。\n- 不容易自行閉合的因素（FRIENDS）：\n  - F：異物\n  - R：放射線照射\n  - I：發炎性腸道疾病或感染\n  - E：上皮化的廔管管道\n  - N：腫瘤\n  - D：遠端阻塞\n  - S：類固醇\n  - 其他：營養不良、高流量、管道短（< 2 cm）、腸壁缺損大（> 1 cm）\n- 處置（SNAP）：控制敗血症與感染、營養支持、確認廔管解剖、計畫手術；保護皮膚。\n- Octreotide 可減少廔管流量，但不能提高閉合率或縮短閉合時間。\n- 自行閉合的廔管約 90% 在 4–6 週內閉合；若 6–8 週仍未閉合，通常需要手術。手術時機一般在保守治療 3 個月左右，此時腹腔沾黏較成熟，手術成功率較高、併發症較少，故 (D) 正確。\n\n(B) 選項把「管道過長」列為不利因素是錯的（應為管道短）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17847,7 +17847,7 @@
       "D": "膽管癌儘管手術進步也變得積極，但預後仍不佳"
     },
     "answer": "D",
-    "explanation": "其他選項不確定也沒關係，但務必記得膽道癌症目前治療的預後都不好\n\n| 項目 | 膽囊癌 (gallbladder carcinoma) | 膽管癌 (cholangiocarcinoma) |\n| :--- | :--- | :--- |\n| **年齡** | 70~75 歲 | ~60 歲 |\n| **性別** | 女性為主 | 男性為主 |\n| **風險因子** | 膽囊結石 (90%)、Porcelain GB、膽囊息肉、沙門氏菌感染 | 原發性硬化性膽管炎、肝吸蟲、肝硬化、膽管結石 |\n| **腫瘤類型** | Fundus (60%) > Body (30%) > Neck (10%) | 近端膽管癌 *(50-60%) > 遠端膽管癌 (20-30%) > 肝內膽管癌 (10-20%) |\n| **治療（可切除）** | • T1（未穿透肌肉）：單純膽囊切除<br>• T2~T4：en-bloc 切除 + 局部淋巴廓清 → 術後放化療 | • 肝內膽管癌：肝葉切除（R1/N1 以上須做術後放化療）<br>• 近端膽管癌：膽管肝葉切除（R1/N1 以上須做術後放化療）<br>• 遠端膽管癌：Whipple（R1/N1 以上須做術後放化療） |\n| **治療（不可切除）<br>（兩者皆適用）** | • 化療 (Gemcitabine+Cisplatin / FOLFOX)<br>• 放射 / 栓塞治療<br>• 標靶治療 | • 化療 (Gemcitabine+Cisplatin / FOLFOX)<br>• 放射 / 栓塞治療<br>• 標靶治療 |\n| **五年存活率\\*\\*<br>（可切除腫瘤）** | 20~50%（T1 可達到 80~100%） | • 肝內膽管癌：5~40%<br>• 近端膽管癌：10~30%<br>• 遠端膽管癌：30~50% |\n\n* 近端膽管癌 = 肝門膽管癌 (Klatskin tumor)\n** 統計資料引用自 Schwartz, NCCN guidelines",
+    "explanation": "答案 (D)。\n\n**膽道惡性腫瘤**\n\n- 膽囊癌：\n  - 好發於女性（約 2–3：1），約 70–90% 合併膽結石，故 (A) 錯誤。\n  - 早期常在膽囊切除後偶然發現。\n  - T1a（侵犯固有層）：單純膽囊切除即可；T1b（侵犯肌肉層）以上：建議擴大膽囊切除（含部分肝臟）合併區域淋巴結廓清，故 (B) 的敘述在 T1a 並不需要。\n- 膽管癌：\n  - 分為肝內、肝門（Klatskin tumor）、遠端膽管癌。\n  - 遠端膽管癌較常能以 Whipple 手術完整切除，預後通常比肝門膽管癌好，故 (C) 錯誤。\n  - 整體 5 年存活率仍低（約 20–40%），因為常在晚期才診斷、沿神經與膽管壁擴散，故 (D) 正確。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17867,7 +17867,7 @@
       "D": "急性闌尾炎（acute appendicitis）"
     },
     "answer": "C",
-    "explanation": "本題考部分胃切除的併發症，相較 Billroth I，這些併發症更容易在 Billroth II 吻合術時發生\n1. 傾倒症候群 (dumping syndrome)：因胃部容積下降，食糜快速進入腸道所致，分為 early（飯後 15-60 分鐘）和 late（飯後 1-3 小時），【112-2(五)75】便考出來，請參閱其詳解\n2. 輸入環症候群 (afferent loop syndrome)：輸入環空腸因故阻塞，膽汁、胰液滯留於其中，壓力增加導致腹痛、噁心等症狀，嚴重可因消化液衝到殘胃發生膽汁性嘔吐（嘔吐後因壓力緩解，症狀會立即改善），或逆流造成膽囊炎、胰臟炎等，實驗室檢查 amylase, lipase, bilirubin 可能升高，多發生在術後幾周內，也可數月至數年後表現\n3. 輸出環症候群 (efferent loop syndrome)：較前者少見，因輸出環空腸狹窄、扭轉造成，表現為間歇性腸阻塞，會有腹痛、膽汁嘔吐等表現，多發生在術後數月至數年後\n4. 邊緣性潰瘍 (marginal ulcer)：多發生在術後一年內、胃腸吻合處，因該處存在手術耗材、血流供應不佳，殘胃切除不完全使胃酸分泌過多所致，也與抽菸、NSAID 有關，症狀為腹痛、噁心、腸胃道出血，急性擔心腸胃道破裂，長期有殘胃癌 (cancer of gastric remnant) 風險\n(D) Billroth II 手術史是多年前了，闌尾炎可能是獨立事件，但如此題幹就無必要敘述 Billroth II，另外也沒有疼痛位置的線索讓人懷疑闌尾炎",
+    "explanation": "答案 (C)。\n\n**輸入環症候群**\n\n- 發生於 Billroth II 胃空腸吻合術後，輸入環（十二指腸與近端空腸）阻塞。\n- 慢性部分阻塞：餐後膽汁與胰液堆積在輸入環，造成上腹脹痛；壓力增加後一次大量湧入胃中，引起噴射狀嘔吐大量膽汁，嘔吐後疼痛立即緩解（嘔吐物不含食物）。\n- 急性完全阻塞：輸入環閉鎖，嚴重腹痛但不吐膽汁，可造成十二指腸穿孔、急性胰臟炎（血中澱粉酶上升）、膽管炎，屬於外科急症。\n- 診斷：CT 可見擴張的輸入環。\n- 治療：手術（改為 Roux-en-Y 重建或輸入輸出環側側吻合）。\n\n本題病人 Billroth II 術後，餐後腹痛、吐出大量苦的液體後緩解，之後腹痛加劇且澱粉酶上升，最可能是輸入環症候群。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17887,7 +17887,7 @@
       "D": "mucous cell"
     },
     "answer": "B",
-    "explanation": "看起來像一階國考的題目，底下整理胃部各細胞的功能，其中 parietal cell 需要主動運輸才能藉由 H⁺/K⁺ ATPase 分泌胃酸，因此可以推測此細胞中的粒線體含量最高\n\n| 胃部細胞種類 | 功能 |\n| :--- | :--- |\n| **goblet cell (mucous cell)** | 分泌黏液：保護胃壁不受侵蝕，而 PGE2 可刺激其分泌 |\n| **parietal cell** | 1. 分泌胃酸<br>2. 分泌 intrinsic factor：和 Vit B12 吸收有關 |\n| **chief cell** | 分泌 pepsinogen：再由胃酸而活化成 pepsin，消化蛋白質 |\n| **enterochromaffin-like cell (ECL cell)** | 分泌 histamine：刺激 parietal cell 分泌胃酸 |\n| **enterochromaffin cell (argentaffin cell)** | 分泌 serotonin (5-HT)：協助胃部的 motility |\n| **G cell** | 分泌 gastrin：刺激 ECL cell 釋放 histamine、刺激 chief cell 分泌 pepsinogen、刺激 parietal cell 分泌胃酸 |\n| **D cell** | 分泌 somatostatin：抑制 parietal cell 分泌胃酸 |",
+    "explanation": "答案 (B)。\n\n**胃黏膜的細胞**\n\n| 細胞 | 位置 | 分泌物 |\n| --- | --- | --- |\n| 壁細胞（parietal cell） | 胃底、胃體 | 胃酸、內在因子 |\n| 主細胞（chief cell） | 胃底、胃體 | 胃蛋白酶原 |\n| 黏液細胞 | 全胃 | 黏液、碳酸氫根 |\n| G 細胞 | 胃竇 | 胃泌素 |\n| D 細胞 | 胃竇、胃體 | 體抑素 |\n| 嗜銀細胞（ECL 細胞） | 胃體 | 組織胺 |\n\n壁細胞需要大量能量（ATP）驅動 H⁺/K⁺-ATPase（質子幫浦）分泌胃酸，因此粒線體含量最高，細胞質呈現嗜酸性。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17907,7 +17907,7 @@
       "D": "無法切除的轉移進展性insulinoma，可考慮everolimus治療"
     },
     "answer": "A",
-    "explanation": "Insulinoma 一般為小於 2cm 的單一良性腫瘤，可以在胰臟任何部位出現，大部分是後天偶然性的突變 (sporadic)，但 5% 與 MEN1 相關，由於 MEN1 是源於腫瘤抑制基因的突變或缺失，因此其腫瘤惡性機會高\n(A) C-peptide 是用來鑑別胰島素是來自體外還體內，insulinoma 的胰島素與胰臟產生的過程相同 (Proinsulin → Insulin + C-peptide)，仍然會產生 C-peptide，因此無法鑑別\n(D) everolimus 是 mTOR inhibitor，對於神經內分泌瘤可以達到抑制生長的效果，而這個機轉同樣作用在 insulinoma 胰島素受體下游，能達到降低胰島素分泌、穩定血糖的效果\n\nInsulinoma 在【112-2(五)34】亦有出題，可搭配複習",
+    "explanation": "答案 (A)。\n\n**胰島素瘤**\n\n- 低血糖時的檢驗：\n\n| 原因 | 胰島素 | C-peptide | Proinsulin | Sulfonylurea |\n| --- | --- | --- | --- | --- |\n| 胰島素瘤 | 上升 | 上升 | 上升 | 陰性 |\n| 外源性胰島素 | 上升 | 下降 | 下降 | 陰性 |\n| Sulfonylurea | 上升 | 上升 | 上升 | 陽性 |\n\n  胰島素瘤分泌內源性胰島素，C-peptide 會一起上升；胰島素高而 C-peptide 極低代表外源性胰島素注射，故 (A) 錯誤。\n- 腫瘤通常很小（多 < 2 cm），定位需要 CT、MRI、內視鏡超音波、Ga-68 DOTATATE 或 GLP-1 受體影像。\n- 合併 MEN 1 者常為多發性、復發率較高，惡性的比例也較高。\n- 無法切除的轉移性胰臟神經內分泌腫瘤可用 everolimus、sunitinib、體抑素類似物或放射性胜肽受體治療；everolimus 也能改善胰島素瘤造成的低血糖。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17927,12 +17927,12 @@
       "D": "stage IV"
     },
     "answer": "B",
-    "explanation": "「年齡」是甲狀腺癌分期最容易忽略的陷阱，由於預後非常良好，因此 <55 歲的甲狀腺癌即使有轉移也只會列入 stage II，以下簡單整理 AJCC 第八版的分期：\n\n| 年齡 | T | N | M | Stage |\n| :--- | :--- | :--- | :--- | :--- |\n| **<55 歲** | Any T | Any N | M0 | **I** |\n| | | | M1 | **II** |\n| **≥55 歲** | T1（腫瘤 ≤ 2 cm） | N0/Nx | M0 | **I** |\n| | | N1 | M0 | **II** |\n| | T2（腫瘤 > 2 & ≤ 4 cm） | N0/Nx | M0 | **I** |\n| | | N1 | M0 | **II** |\n| | T3a/T3b（腫瘤 > 4 cm 或侵犯舌骨下肌群） | Any N | M0 | **II** |\n| | T4a（腫瘤侵犯頸部軟組織、器官） | | M0 | **III** |\n| | T4b（腫瘤侵犯頸動脈、頸椎或縱膈腔）/ Any T | | M0/M1 | **IV** |\n| **分化不良型甲狀腺癌 (Anaplastic)** | | | | **IV** |\n\n有關甲狀腺癌的簡介與其類型的比較，請看【112-2(三)57】詳解",
+    "explanation": "答案 (B)。\n\n**分化型甲狀腺癌的 AJCC 第八版分期**\n\n分化型甲狀腺癌（乳突癌、濾泡癌）的分期以 55 歲為界：\n\n| 年齡 | 期別 | 條件 |\n| --- | --- | --- |\n| < 55 歲 | I | 任何 T、任何 N、M0 |\n| < 55 歲 | II | 任何 T、任何 N、M1 |\n| ≥ 55 歲 | I | T1–2、N0 |\n| ≥ 55 歲 | II | T1–2、N1；或 T3、任何 N |\n| ≥ 55 歲 | III | T4a |\n| ≥ 55 歲 | IV | T4b 或 M1 |\n\n本題 30 歲男性已有肺轉移（M1），依 < 55 歲的分期為第 II 期。\n\n**補充**：年輕病人即使遠處轉移，經手術加放射碘治療預後仍相當好，因此只分 I、II 期。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "胸腔外科",
-    "category": "胸腔外科"
+    "chapter": "一般外科",
+    "category": "一般外科"
   },
   {
     "id": "112-1-醫學(五)-41",
@@ -24005,7 +24005,7 @@
       "D": "第四型因為支架血管的織物孔洞而造成"
     },
     "answer": "C",
-    "explanation": "腹主動脈瘤的血管內治療方式為放置支架血管 (stent graft)，但臨床發現約 20~30% 病人都會在術後初期出現支架滲漏 (endoleak)，根據發生位置共分成五型：\n\n| 滲漏分型 | 描述 | 補充 |\n| :--- | :--- | :--- |\n| **type I** | 支架接觸區滲漏 (attachment site leak) | 支架近端— type Ia<br>支架遠端— type Ib<br>髂動脈端— type Ic |\n| **type II (最常見)** | 動脈側枝回流滲漏 (side branch leak)<br>如腰動脈、下腸繫膜動脈等 | 1 條側枝— type IIa<br>≥2 條側枝— type IIb |\n| **type III** | 支架交界區或破損處滲漏 (junctional leak) | 交界區— type IIIa<br>破損處— type IIIb |\n| **type IV** | 支架織物孔洞滲漏 (fabric porosity leak) | |\n| **type V** | 腹主動脈瘤擴大，但顯影劑無發現滲漏 | 原因不明，推測為手術時殘留壓力造成 |\n\n(C) 第三型滲漏應更正為發生在支架血管交界處。另外大多數的支架血管滲漏可在術後 6 個月內自行緩解，但也有約 10~15% 的滲漏需要第二次手術治療，如近 / 遠端放置 extender、側枝動脈栓塞、開腹手術等",
+    "explanation": "答案 (C)。\n\n**腹主動脈瘤血管內修補術（EVAR）後的內漏**\n\n| 類型 | 原因 | 處理 |\n| --- | --- | --- |\n| I | 支架近端（Ia）或遠端（Ib）接觸區密合不良 | 需立即處理（氣球擴張、延長支架） |\n| II | 腰動脈或下腸繫膜動脈逆流供應動脈瘤囊（最常見） | 多可觀察；瘤囊持續變大時栓塞 |\n| III | 支架組件之間脫離或支架布料破損 | 需立即處理（加放支架） |\n| IV | 支架布料孔隙滲漏（術後早期，抗凝血時） | 多會自行停止 |\n| V | 無法找到內漏來源，但瘤囊持續變大（endotension） | 追蹤，必要時開腹手術 |\n\n支架遠端接觸區的滲漏屬於第一型（Ib），第三型是支架組件之間的脫離或布料破損，故 (C) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24025,12 +24025,12 @@
       "D": "肌紅蛋白尿（myoglobinuria）"
     },
     "answer": "B",
-    "explanation": "創傷、急性下肢缺血進行血管重建後可能會發生下肢急性腔室症候群，整理如下：\n\n| 急性腔室症候群 (acute compartment syndrome) | |\n| :--- | :--- |\n| **病理機轉** | 當腔室壓力增加而超過微靜脈的壓力時，就會讓血液回流出問題而導致水腫，水腫更會讓腔室壓力上升阻礙灌流，使肌肉組織缺氧壞死。經常合併橫紋肌溶解，嚴重則出現腎衰竭 |\n| **症狀** | 經典症狀 5P：Pallor (蒼白)、Pain (疼痛)、Pulseless (無脈搏)、Paresthesia (感覺異常)、Pressure increased (壓力上升)，題幹敘述的肌肉緊繃就是壓力上升的證據 |\n| **實驗室檢查** | 電解質異常：高血鉀、高血磷、低血鈣<br>肌酸酐 (creatininine)、肌酸磷酸激酶 (creatine kinase) 與肌紅蛋白 (myoglobin) 三者上升，而肌紅蛋白會導致茶色或深紅色尿 |\n| **治療** | 筋膜切開術 (fasciotomy) + 輸液治療 |\n| **鑑別診斷** | 周邊動脈阻塞疾病 (PAOD) 的症狀和腔室症候群很像，但是不會有壓力上升，而是會感覺冰冷 (Poikilothermia) 及癱瘓 (Paralysis)（加上這兩個，腔室症候群也有症狀 7P 的說法）。另外 Doppler 在阻塞後的地方會沒訊號 |",
+    "explanation": "答案 (B)。\n\n**再灌流後的腔室症候群**\n\n- 急性下肢缺血血管重建後，再灌流使肌肉水腫，腔室壓力上升，造成腔室症候群。\n- 表現：與外觀不成比例的劇烈疼痛、被動伸展時疼痛加劇、腔室緊繃、感覺異常；脈搏消失是晚期表現（本題杜卜勒仍有訊號）。\n- 治療：緊急筋膜切開術。\n- 再灌流症候群的全身表現：\n  - 高血鉀（肌肉細胞破壞釋出鉀）\n  - 代謝性酸中毒\n  - CK 上升、肌紅素尿，可造成急性腎損傷\n  - 低血鈣（鈣沉積在壞死的肌肉中，並與磷酸結合）\n\n肌肉壞死造成的是低血鈣，而不是高血鈣（腎衰竭恢復期才可能出現反彈性高血鈣）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "大腸直腸科",
-    "category": "大腸直腸科"
+    "chapter": "心臟外科",
+    "category": "心臟外科"
   },
   {
     "id": "112-2-醫學(五)-23",
@@ -24045,12 +24045,12 @@
       "D": "在青春期前的女性，不適合使用右前側開胸術（anterolateral thoracotomy）來修補"
     },
     "answer": "C",
-    "explanation": "(A)(B) ASD 患者在 40 歲以上時，容易因為右心長期承受高血量導致心衰竭與心律不整，應考慮心導管檢查；在有嚴重肺動脈高壓（大於 12 Wood units）的患者，直接關閉缺損無法改善其預後，需先考慮藥物治療來控制肺動脈高壓\n(C) 錯誤，常伴有二尖瓣逆流的是圓孔型缺損 (ostium primum ASD)，其心內膜墊缺損會容易延伸到二尖瓣而有裂口 (cleft)；靜脈竇型缺損 (sinus venosus type, ASD) 則是很常合併肺靜脈回流異常，通常涉及一或多條肺靜脈注入上腔靜脈\n(D) 右前側開胸術會影響後續乳房發育，因此不建議使用於乳房未發育的青春期前的女性",
+    "explanation": "答案 (C)。\n\n**心房中隔缺損（ASD）**\n\n| 類型 | 比例 | 合併異常 |\n| --- | --- | --- |\n| 第二型（卵圓窩，secundum） | 最常見，約 70% | 可用導管關閉器關閉 |\n| 第一型（primum） | 約 20% | 部分型房室中隔缺損，常合併二尖瓣前葉裂隙與二尖瓣逆流 |\n| 上靜脈竇型 | 約 5–10% | 常合併部分肺靜脈回流異常（右上肺靜脈） |\n| 下靜脈竇型 | 少見 | 可合併右下肺靜脈回流異常 |\n| 冠狀竇型 | 罕見 | 永存左上腔靜脈 |\n\n常合併二尖瓣逆流的是第一型 ASD，而不是下靜脈竇型，故 (C) 錯誤。\n\n- 年齡大於 40 歲者，關閉前建議做心導管評估肺血管阻力與冠狀動脈。\n- 肺血管阻力固定且過高（如 > 8–12 Wood units，Eisenmenger 生理）時，不可關閉缺損。\n- 女性青春期前乳房尚未發育，右前外側開胸可能傷害乳房芽而影響發育，故不建議。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "心臟外科",
+    "category": "心臟外科"
   },
   {
     "id": "112-2-醫學(五)-24",
@@ -24065,7 +24065,7 @@
       "D": "肺動脈瓣轉至主動脈之手術（Ross procedure）"
     },
     "answer": "C",
-    "explanation": "先天性主動脈瓣狹窄是否外科介入，與成人主動脈瓣狹窄相同，「重度」就需要外科治療，包含任一項：有左心衰竭症狀、平均心室到主動脈壓力差 > 40 mmHg、LVEF < 50%。（成人還有主動脈瓣面積 < 1 cm² 也算重度）\n\n手術治療的大方向為修補 (repair) 優於置換 (replacement)，氣球擴張術和主動脈瓣膜切開術分別是微創與傳統開胸的瓣膜「修補」方法，前者優勢在於侵入性小，但有狹窄復發的風險。若必須考慮「置換」，兒童有 Ross procedure 用自體的肺動脈瓣置換主動脈瓣，再用異體的肺動脈瓣去替補原肺動脈瓣。傳統瓣膜置換術 (surgical aortic valve replacement, SAVR) 很少採用，因此時期患者較難有適合尺寸的人工瓣膜，且人工瓣膜不會隨著兒童成長，Ross procedure 則不會有此問題\n\n補充：成人主動脈瓣狹窄幾乎都是置換（SAVR 或 TAVI），很少修補，這是因為成人狹窄主因是鈣化，瓣膜結構通常無法修補",
+    "explanation": "答案 (C)。\n\n**嬰兒主動脈瓣狹窄的治療**\n\n- 適應症：心衰竭症狀或左心室與主動脈壓力差 ≥ 50–60 mmHg。\n- 嬰幼兒的治療選擇：\n  - 經皮氣球瓣膜擴張術（多數中心的第一線）\n  - 直視下手術瓣膜切開術\n  - Ross 手術：以病人自己的肺動脈瓣取代主動脈瓣，再以同種移植物重建右心室出口；自體肺動脈瓣會隨孩子成長，不需抗凝血劑。\n- 機械瓣膜置換不適合嬰兒：瓣膜不會隨身體成長，需多次再手術，且需終身抗凝血治療（嬰幼兒出血與栓塞風險高），故 (C) 最不適合。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24085,12 +24085,12 @@
       "D": "橫膈上食道憩室（epiphrenic diverticula）為壓出型憩室（pulsion diverticula），也是偽憩室（falsediverticula）"
     },
     "answer": "B",
-    "explanation": "(B) 咽食道憩室在分類上應為偽憩室\n\n有關食道憩室的整理如下：\n\n| 憩室 | 咽食道憩室 (Zenker diverticula) | 橫膈上食道憩室 (epiphrenic diverticula) | 氣管旁食道憩室 (parabronchial diverticula) |\n| :--- | :--- | :--- | :--- |\n| **位置** | 口咽 | 橫膈上方 | 食道中段 |\n| **型態** | 偽憩室 (false diverticula) | 偽憩室 (false diverticula) | 真憩室 (true diverticula) |\n| **病生理** | 食道蠕動異常造成管腔內壓力增加，使黏膜層、黏膜下層穿過肌肉形成憩室<br>= 壓出型憩室 (pulsion diverticula) | 食道蠕動異常造成管腔內壓力增加，使黏膜層、黏膜下層穿過肌肉形成憩室<br>= 壓出型憩室 (pulsion diverticula) | 食道外淋巴結發炎後產生攣縮，將全層食道壁往外拉扯形成憩室<br>= 牽引型憩室 (traction diverticula) |\n| **病因** | 老化相關（最常見） | 慢性感染（TB、真菌）、食道痙攣、弛緩不能相關 | 食道痙攣、弛緩不能相關 |",
+    "explanation": "答案 (B)。\n\n**食道憩室**\n\n| 類型 | 位置 | 機轉 | 性質 |\n| --- | --- | --- | --- |\n| Zenker 憩室（最常見） | 咽食道交界，下咽縮肌與環咽肌之間的 Killian 三角 | 壓出型（環咽肌無法放鬆） | 偽憩室（只有黏膜與黏膜下層） |\n| 食道中段（氣管旁）憩室 | 氣管分叉附近 | 牽引型（縱膈腔淋巴結發炎、結核） | 真憩室（含肌肉層） |\n| 橫膈上憩室 | 食道下段 | 壓出型（食道失弛緩或蠕動異常） | 偽憩室 |\n\nZenker 憩室是偽憩室，不含肌肉層，故 (B) 錯誤。\n\n- Zenker 憩室表現：老年人吞嚥困難、未消化食物逆流、口臭、吸入性肺炎、頸部咕嚕聲。\n- 治療：環咽肌切開術合併憩室切除或懸吊，或內視鏡憩室中隔切開；不建議做胃鏡盲目插入（易穿孔）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "胸腔外科",
+    "category": "胸腔外科"
   },
   {
     "id": "112-2-醫學(五)-26",
@@ -24105,12 +24105,12 @@
       "D": "與肺腺癌（adenocarcinoma）相比，較早發生轉移"
     },
     "answer": "C",
-    "explanation": "112 年兩次國考都有出現肺腺癌與肺鱗狀上皮癌比較的題目，另一題是【112-1(五)27】，筆者統一將各類型肺癌的比較整理至【112-1(五)27】的詳解",
+    "explanation": "答案 (C)。\n\n**肺鱗狀細胞癌**\n\n- 與抽菸高度相關，故 (A) 錯誤。\n- 多位於中央大支氣管，可造成咳嗽、咳血、阻塞性肺炎、肺塌陷，故 (B) 錯誤。\n- 腫瘤生長快，中央容易缺血壞死而形成空洞，故 (C) 正確。\n- 以局部侵犯為主，遠處轉移比腺癌晚，故 (D) 錯誤。\n- 副腫瘤症候群：分泌 PTHrP 造成高血鈣。\n- 病理：角化珠、細胞間橋；免疫染色 p40、p63 陽性。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "胸腔外科",
+    "category": "胸腔外科"
   },
   {
     "id": "112-2-醫學(五)-27",
@@ -24125,12 +24125,12 @@
       "D": "大部分病人以抗生素治療即能痊癒"
     },
     "answer": "B",
-    "explanation": "(B) 肺膿瘍可為局部感染或外源性感染導致，前者多源自吸入性肺炎、壞死性肺炎等情形，後者可以來自持續的菌血症且常為表皮菌感染（e.g. 感染性心內膜炎或靜脈管路感染），因此葡萄球菌菌血症是可能的原因\n\n這類病患在影像上會看到肺部有空腔積液、蓄膿，故可能看到氣液平面，有肺部空腔者本身即是發展成氣胸的高風險族群，在空腔 < 4 cm 的情況下，抗生素治療的反應良好，反之過大的空腔則須搭配手術引流做感染控制",
+    "explanation": "答案 (B)。\n\n**肺膿瘍**\n\n- 原因：\n  - 吸入性（最常見）：意識障礙、酒精、吞嚥困難、口腔衛生差，口腔厭氧菌為主，好發於右下葉上段與右上葉後段。\n  - 血行性：金黃色葡萄球菌菌血症（如靜脈藥癮者的右心心內膜炎、感染性血栓性靜脈炎）造成多發性敗血性栓塞與膿瘍，故 (B) 錯誤。\n  - 其他：阻塞性（腫瘤）、克雷伯菌等壞死性肺炎。\n- 影像：厚壁空洞合併氣液平面。\n- 併發症：膿胸、支氣管肋膜廔管、氣胸、咳血。\n- 治療：大部分以長期抗生素（數週）與姿勢引流治療即可痊癒；抗生素無效、膿瘍過大（> 6 cm）或懷疑腫瘤時，才考慮經皮引流或手術切除。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "胸腔外科",
+    "category": "胸腔外科"
   },
   {
     "id": "112-2-醫學(五)-28",
@@ -24145,12 +24145,12 @@
       "D": "黑色素瘤"
     },
     "answer": "D",
-    "explanation": "惡性肋膜積液 (MPE) 是在肋膜液中發現惡性細胞，其來源多是惡性細胞經血路轉移至臟層肋膜，也可腫瘤直接侵犯肋膜所致。最常見的成因為肺癌和乳癌（共佔 50-65%），其他則有間皮細胞瘤（mesothelioma，90% 間皮細胞瘤會有 MPE）、淋巴瘤、卵巢癌。(D) 選項的黑色素瘤較常轉移到肺臟，但轉移到肋膜很罕見\n\nMPE 是癌症預後不佳的獨立預測因子。因預後差，MPE 的處置目標為舒緩病人不適並維持生活品質。常用的治療包含積液抽吸、留置肋膜導管 (indwelling pleural catheter)、肋膜沾黏術 (pleurodesis) 等",
+    "explanation": "答案 (D)。\n\n**惡性肋膜積液的常見原因**\n\n| 排序 | 原發腫瘤 |\n| --- | --- |\n| 1 | 肺癌（以腺癌為主） |\n| 2 | 乳癌 |\n| 3 | 淋巴瘤 |\n| 4 | 卵巢癌、胃癌 |\n| 其他 | 惡性間皮瘤（原發性肋膜腫瘤） |\n\n- 肺癌、乳癌、淋巴瘤約佔惡性肋膜積液的 75%。\n- 黑色素瘤雖然可轉移到肺與肋膜，但不屬於常見的惡性肋膜積液原因。\n\n**補充**：治療包括反覆抽液、肋膜沾黏術（talc）、留置肋膜導管；積液中找到惡性細胞時，肺癌分期為 M1a。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "胸腔外科",
+    "category": "胸腔外科"
   },
   {
     "id": "112-2-醫學(五)-29",
@@ -24165,7 +24165,7 @@
       "D": "氣胸合併持續漏氣及肺部塌陷或通氣不足"
     },
     "answer": "C",
-    "explanation": "(C) 看到生命跡象回穩大概能知道病人已暫時脫離險境，因此無緊急開胸探查的需要。以下為 Sabiston 中對於胸腔外傷的開胸手術適應症 (thoracotomy indications)：\n• 胸管引流 >1500mL 且持續出血\n• 胸管引流 >150 to 200 mL/ 小時且持續 2~4 小時以上\n• 輸血後仍持續血循不穩定\n• 心跳停止或急性心衰竭（e.g. 心包膜填塞）\n• 氣胸合併持續大量的漏氣、肺塌陷或通氣不足\n• 引流液出現食道或胃分泌物（e.g. 食道破裂）",
+    "explanation": "答案 (C)。\n\n**胸部外傷開胸手術的適應症**\n\n- 胸管放置後立即引流出 ≥ 1,500 mL 血液\n- 持續出血：每小時 > 200 mL，持續 2–4 小時\n- 需要持續輸血才能維持生命徵象\n- 心包膜填塞\n- 大量氣漏、支氣管斷裂合併肺部無法擴張\n- 食道破裂、大血管受傷\n- 胸壁大缺損\n\n胸管引流 500 mL 且生命徵象穩定，只需繼續觀察引流量，不需要開胸手術，故 (C) 較不適當。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24185,7 +24185,7 @@
       "D": "有將近60%的gastrinoma為惡性的，且常合併淋巴結、肝臟或其他遠端轉移"
     },
     "answer": "B",
-    "explanation": "近期考試非常愛考 MEN I、MEN II 以及與他們相關的腫瘤，可以多花時間準備！\n(A) 正確。Gastrinoma 是胰臟神經內分泌瘤的一種，會異常地分泌 gastrin 導致腹痛、嚴重且反覆性的 peptic ulcer disease、腹瀉等，臨床上稱為 Zollinger-Ellison syndrome\n(B) 錯誤。20% 的病人是合併 MEN I（記得胰臟的內分泌腫瘤都和 MEN I 有關！）\n(C) 正確。Gastrinoma triangle 又稱為 Passaro's triangle，大約 80-90% 的 gastrinoma 會在此處發現（詳見【112-1(五)34】）\n(D) 正確。不像大部分為良性的 insulinoma，gastrinoma 多數是惡性且常是小顆、多發、易遠端轉移\n\n最後補充 Zollinger-Ellison syndrome/gastrinoma 的治療：初始治療以 PPI 等胃酸抑制劑佐以體抑素 (somatostatin) 優先；基於 gastrinoma 腫瘤多為惡性且不局部，手術切除雖然有機會根治但並非首選，只有在保守治療不佳或有 mass effect 時才做",
+    "explanation": "答案 (B)。\n\n**Zollinger-Ellison 症候群（胃泌素瘤）**\n\n- 胃泌素瘤分泌大量胃泌素，使胃酸過度分泌，造成難治性、多發性或不典型位置（如十二指腸遠端、空腸）的消化性潰瘍、逆流性食道炎與腹瀉。\n- 約 20–25% 合併第一型多發性內分泌腫瘤（MEN 1），而不是 MEN 2；MEN 1 相關者常為多發、位於十二指腸，手術較難治癒，故 (B) 錯誤。\n- 約 70–90% 位於胃泌素瘤三角，且常很小，術前定位困難。\n- 約 60–90% 為惡性，常有淋巴結或肝轉移。\n- 診斷：停用 PPI 後空腹胃泌素明顯上升（> 10 倍正常值）合併胃酸 pH < 2；或 secretin 刺激試驗胃泌素反常上升。\n- 治療：高劑量 PPI 控制胃酸；散發性、無轉移者手術切除。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24205,7 +24205,7 @@
       "D": "膽囊癌侵犯深度為T2的腫瘤，因尚未穿透漿膜，術後只需追蹤即可，不必進行擴大根除手術"
     },
     "answer": "C",
-    "explanation": "(A) 有疑義的選項，由於膽囊癌初期多在 fundus 或 body 的位置，很少造成初期症狀，因此有文獻報導 60-80% 的膽囊癌是在膽囊切除時偶然發現，但教科書並沒有給出確切的比例\n(C) 因膽結石導致的慢性發炎被視為膽囊癌最重要的危險因子，而目前無證據顯示有膽瘜肉會增加膽囊癌的風險，但影像上大於 1 cm 瘜肉代表膽囊壁的異常增生，有很高的機率是惡性組織\n(B)(D) 膽囊癌整體的預後不佳，而手術切除是目前最有效的治療方式，早期 (T1) 膽囊癌若經完整的切除，預後非常的好，但在 T2 stage 以上的五年存活率就只剩 20-60% 不等（依據 N status）；T2 的腫瘤約有 40% 機率有淋巴侵犯，單純膽囊切除下會有 25% 是邊緣陽性，因此建議擴大根除",
+    "explanation": "答案 (C)。\n\n**膽囊癌**\n\n- 危險因子：膽結石（最重要，約 70–90% 合併膽結石，尤其結石 > 3 cm）、瓷器樣膽囊、膽囊息肉 > 1 cm、胰膽管合流異常、慢性傷寒帶菌、女性、肥胖。\n- 診斷：僅約 1–2% 在膽囊切除時偶然發現，多數病人診斷時已是晚期，故 (A) 錯誤。\n- 預後很差，整體 5 年存活率約 5–20%，故 (B) 錯誤。\n- 手術：\n\n| T 分期 | 範圍 | 處置 |\n| --- | --- | --- |\n| T1a | 侵犯固有層 | 單純膽囊切除 |\n| T1b | 侵犯肌肉層 | 擴大膽囊切除合併淋巴結廓清 |\n| T2 | 侵犯肌肉層周圍結締組織，尚未穿透漿膜 | 擴大膽囊切除（含肝臟第 IVb、V 節）合併淋巴結廓清 |\n| T3 以上 | 穿透漿膜或侵犯肝臟、鄰近器官 | 可切除者擴大切除 |\n\nT2 腫瘤需要擴大根除手術，不能只追蹤，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24225,7 +24225,7 @@
       "D": "超過半數（＞50%）的病患可採保守治療，使瘻管自行關閉"
     },
     "answer": "D",
-    "explanation": "腸皮瘻管在一般外科、大腸直腸外科是很常見的病症，【112-1(五)35】也有出題，重點整理如下：\n\n| 腸皮瘻管 (enterocutaneous fistula) | |\n| :--- | :--- |\n| **成因** | 約 80% 為醫源性（術後併發症，特別於腸切開或腸吻合不善時發生）；亦發生於外傷、腫瘤、暴露於放射線或 Crohn's disease 的病人<br>易形成瘻管的風險因子，可用 FRIEND 記憶：<br>• 異物 (Foreign body)<br>• 放射治療 (Radiation)<br>• 發炎 (Inflammation) 或感染 (Infection)<br>• 上皮化 (Epithelialization)<br>• 腫瘤 (Neoplasia)<br>• 遠端腸道阻塞 (Distal obstruction) |\n| **分級** | • low-output fistula = 引流量 <200 ml/ 天<br>• medium-output fistula = 引流量 200~500 ml/ 天<br>• high-output fistula = 引流量 >500 ml/ 天 |\n| **評估** | 最佳影像學工具是腹部 CT 合併口服鋇劑顯影；另外超音波、瘻管攝影 (fistulography，從開口注射顯影劑後照 X 光) 也可用來評估 |\n| **治療** | • 治療目標為減少引流量，並消除促成瘻管之因子，促進其自行閉合<br>• 約 90% 的腸皮瘻管可在內科治療下於 5 週內閉合。內科治療需確保營養充足、電解質平衡、避免敗血症發生；外科醫師會等個 2-3 個月，若瘻管仍未閉合才做瘻管關閉手術 |\n| **預後** | **有利於自行閉合**：手術相關、transferrin >200 mg/dL、fistula tract >2 cm、有盲端、fistula 管徑 <1 cm、low-output fistula、無併發症<br>**不利於自行閉合**：非手術相關（放射、IBD、腫瘤）、transferrin <200 mg/dL、fistula tract <2 cm、側支或多條瘻管、fistula 管徑 >1 cm、high-output fistula、有併發症（包括腸阻塞、感染或發炎、敗血症、電解質失衡） |",
+    "explanation": "答案 (D)。\n\n**腸皮廔管**\n\n- 原因：約 75–85% 為醫源性（手術後吻合處滲漏或腸道受傷），其餘為克隆氏症、放射線、惡性腫瘤、感染等，故 (A) 錯誤。\n- 依每日流量分類：\n\n| 分類 | 每日流量 |\n| --- | --- |\n| 低流量 | < 200 mL |\n| 中流量 | 200–500 mL |\n| 高流量 | > 500 mL |\n\n  故 (B) 錯誤。\n- 管道長（> 2 cm）較容易自行閉合；管道短（< 2 cm）、上皮化者不易閉合，故 (C) 錯誤。\n- 在控制感染、營養支持與皮膚照護下，約 50–60% 以上可自行閉合，多在 4–6 週內，故 (D) 正確。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24245,7 +24245,7 @@
       "D": "手術前施行endoscopic retrograde cholangio-pancreatography（ERCP）做膽道減壓，可減少手術後傷口感染"
     },
     "answer": "D",
-    "explanation": "(A) 正確。其中 STK11 就是同學不陌生的 Peutz-Jeghers syndrome（請看【112-2(五)52】詳解），另外 CFTR（囊腫纖維化）、MLH (Lynch syndrome)、APC 等基因突變也與遺傳性胰臟癌相關\n(B) 正確。將近 2/3 的胰臟癌發生在胰頭的壺腹周圍 (periampullary)，主要症狀依序為黃疸（75%，以無痛性黃疸為代表）> 體重減輕 > 腹痛 > 噁心 / 嘔吐等；腫瘤發生在體部和尾部的比例差不多，主要症狀扣除黃疸後則和胰頭類似\n(C) Courvoisier sign = palpable distended gallbladder 的敘述正確，有趣的是 Sabiston 提供的發生率是 1/3；Schwartz 則是 1/4！筆者認為兩本指標級的外科教科書並無孰對孰錯，了解這項身體檢查的意義比較重要\n(D) 錯誤。內視鏡逆行性膽胰管攝影 (ERCP) 做膽道減壓雖然有助於緩解黃疸，但術前施行卻可能增加傷口細菌感染的風險，因此對於可手術切除 (resectable) 病人的應用價值有待商榷",
+    "explanation": "答案 (D)。\n\n**胰臟腺癌**\n\n- 遺傳相關基因：BRCA1/2、PALB2、CDKN2A（家族性非典型多痣黑色素瘤）、STK11（Peutz-Jeghers）、PRSS1（遺傳性胰臟炎）、Lynch syndrome 相關基因。\n- 表現：\n  - 胰頭癌：無痛性阻塞性黃疸（最常見），體重減輕、腹痛；約三分之一可摸到腫大無痛的膽囊（Courvoisier sign）。\n  - 胰體尾癌：上腹痛與背痛、體重減輕，診斷時多已晚期。\n- 術前膽道引流：常規術前以 ERCP 放置支架減黃，反而會增加感染等術後併發症（研究顯示傷口感染增加）；只有在嚴重黃疸、膽管炎、需先接受術前化療或手術需延後時才建議，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24265,7 +24265,7 @@
       "D": "大多數為偶發性（sporadic）而與遺傳無關，但合併第一型多發性內分泌腺瘤（multiple endocrine neoplasiatype 1, MEN-1）的病患較多單發性但復發率較高"
     },
     "answer": "B",
-    "explanation": "(A) 錯誤。最常見的胰臟內分泌瘤是 insulinoma 沒錯，但後面的敘述並不是 Charcot's triad，而是 Whipple's triad。Charcot's triad 是急性膽管炎 (acute cholangitis) 的典型三症狀：右上腹痛、黃疸、發燒\n(B) Insulinoma 被認為是從胰臟 β-cell 發展而成的神經內分泌瘤，分泌過多 insulin 導致患者容易有低血糖。在 insulin 的合成機制中，是由 proinsulin 被蛋白酶切成 insulin 與 C-peptide。Insulinoma 會走完這個合成機制，所以 proinsulin 跟 C-peptide 都會是高的；然而外來的 insulin 則反而會負回饋抑制使 proinsulin 降低，也讓 C-peptide 降低。不過這一題有疑義處在於降血糖藥如果是 sulfonylurea 時，其實也會促進體內分泌 insulin 進而使 proinsulin 與 C-peptide 升高，因此筆者認為這個選項不完全正確\n(C) 錯誤。大部分的 insulinoma 是單一的 (90%)，但是惡性機率確實較低 (5-15%)。另外大部分的 insulinoma 都是小顆的 (<2 cm)\n(D) 錯誤。大約只有 4% 的 insulinoma 與 MEN-1 的遺傳有關，但是 MEN-1 相關的 insulinoma 較多為多發性 (multiple endocrine neoplasia 可不是浪得虛名，只有 pituitary tumor 還是單發性為主)，而且復發率比 sporadic 的高許多倍\n\n其他考點：\n• MEN-1 最常見的三腫瘤請記得 3P：Parathyroid tumor (90%)、Pancreatic neuroendocrine tumor (70%)、Pituitary adenoma (50%)\n• MEN-2 常見的腫瘤是 medullary thyroid carcinoma (MTC)、pheochromocytoma，如果是 MEN-2A 還會常見副甲狀腺增生；MEN-2B 則是常見 Marfanoid 體質、mucosal neuroma\n• 最常見的胰臟內分泌瘤是 insulinoma，但在 MEN-1 病人中最常見的胰臟內分泌瘤反而是 gastrinoma！（本題能與【112-1(五)39】、【112-1(五)34】、【112-2(五)30】一起複習）",
+    "explanation": "答案 (B)。\n\n**胰島素瘤**\n\n- 最常見的功能性胰臟神經內分泌腫瘤。\n- Whipple's triad：空腹低血糖症狀、血糖 < 50 mg/dL、給予葡萄糖後緩解；Charcot's triad 是急性膽管炎的發燒、黃疸、右上腹痛，故 (A) 錯誤。\n- 診斷：72 小時禁食試驗，低血糖時胰島素、C-peptide 與 proinsulin 都上升，且 sulfonylurea 篩檢陰性；C-peptide 上升代表內源性胰島素，可排除外源性胰島素注射，故 (B) 正確。\n- 約 90% 為單發、良性、小於 2 cm，故 (C) 錯誤。\n- 約 90% 為散發性；合併 MEN 1 者則常為多發性，復發率較高，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24285,7 +24285,7 @@
       "D": "兩者皆建議手術治療"
     },
     "answer": "B",
-    "explanation": "| 比較項目 | adenoma | focal nodular hyperplasia |\n| :--- | :--- | :--- |\n| **好發族群** | 皆為女性 | |\n| **危險因子** | 避孕藥使用、類固醇、懷孕期 | 有肝血管瘤<br>*FNH 本身被認為是先天性血管異常增生造成 |\n| **病理切片** | 肝細胞增生 | 可見膽小管和 Kupffer cell<br>*>80% 含有 Kupffer cell，因此可用 technetium sulfur colloid stain 跟 HCC 區分 |\n| **電腦斷層 (有顯影劑)** | 1. 影像異質性高（常包含部分出血或壞死的組織）<br>2. arterial phase 很亮但不會 washout | 1. arterial phase 很亮但不會 washout<br>2. arterial phase 和 venous phase 皆可看到中心較低信號的 central scar (spoke-wheel sign) |\n| **預後** | 有 10% 會轉為惡性細胞<br>25-35% 有自發破裂及出血風險 | 不會惡性化或破裂 |\n| **治療** | 需密切治療與監控：<br>1. <5 cm 且無症狀，可先停用口服避孕藥<br>2. >5 cm 或持續增大，考慮手術切除 | 只需觀察，不須手術介入 |",
+    "explanation": "答案 (B)。\n\n**肝臟腺瘤與局部結節增生（FNH）**\n\n| 項目 | 肝臟腺瘤 | FNH |\n| --- | --- | --- |\n| 族群 | 年輕女性 | 年輕女性 |\n| 與口服避孕藥 | 密切相關（停藥可能縮小）；男性與使用合成類固醇有關 | 關係不明確 |\n| 病理 | 肝細胞增生，沒有膽管 | 多種肝細胞成分加上中央疤痕與膽小管 |\n| 出血與破裂 | 有風險（> 5 cm 時較高） | 很少 |\n| 惡性轉變 | 有（尤其 β-catenin 突變型、男性） | 不會 |\n| 影像 | 依亞型不同；肝膽特異性顯影劑 MRI 肝膽期呈低訊號 | 中央疤痕、動脈期均勻強顯影；肝膽期呈等或高訊號 |\n| 處置 | > 5 cm、男性、β-catenin 突變或出血者建議切除 | 多可追蹤，不需手術 |\n\n- (A) 與口服避孕藥較相關的是腺瘤。\n- (C) 使用肝膽特異性顯影劑的 MRI 多可區分兩者。\n- (D) FNH 不需手術。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24305,12 +24305,12 @@
       "D": "此方式與連續血管夾緊方式對術後肝功能及缺血再灌注傷害並無差異"
     },
     "answer": "B",
-    "explanation": "Pringle maneuver (PM) 是肝臟手術期間，用止血鉗夾住肝十二指腸韌帶 (hepatoduodenal ligament，內有 portal triad 之肝動脈、肝門靜脈、總膽管) 以減少入肝血流。臨床上 PM 普遍指的是間歇性血管夾緊 (intermittent Pringle maneuver, IPM)，一般是夾 15 分鐘、放鬆 5 分鐘；另一種為連續血管夾緊 (continuous Pringle maneuver, CPM)，其中 IPM 因創造的缺血時間 (ischemia time) 較短，故理論上較 CPM 不容易造成缺血再灌注傷害，也是被多數外科醫師所採行的方式。2001 年由外科醫師 Horgan 另提出「選擇性半肝夾緊」(half Pringle maneuver)，可進一步降低缺血再灌注傷害：比如手術要切除右肝，那止血鉗夾住右肝動脈就好，可維持健康左肝的入肝血流\n\n最後，肝功能低下者的肝臟對缺血耐受度差，術中也更容易受到缺血再灌注傷害，因此技術上選擇 IPM 會比 CPM 適合，IPM 夾的週期更短尤佳（犧牲的就是止血效果）、半肝夾緊也比全肝夾緊來得好",
+    "explanation": "答案 (B)。\n\n**Pringle maneuver（肝門阻斷法）**\n\n- 以止血帶或血管夾夾住肝十二指腸韌帶，阻斷肝動脈與門靜脈的入肝血流（同時夾住總膽管），以減少肝切除時的出血；肝靜脈不在其中，故 (A) 錯誤。\n- 間歇性阻斷：一般夾 15 分鐘、放鬆 5 分鐘，可重複數次，比連續阻斷更能減少缺血再灌流傷害、保護術後肝功能，故 (B) 正確、(D) 錯誤。\n- 肝功能較差（肝硬化）者對缺血的耐受度較低，可採用選擇性半肝阻斷（只阻斷要切除那一側的血流），對殘餘肝臟較安全，故 (C) 錯誤。\n- 若阻斷後仍持續大量出血，要考慮來自肝靜脈或下腔靜脈（肝門阻斷無法控制的出血）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "外科概論",
-    "category": "外科概論"
+    "chapter": "一般外科",
+    "category": "一般外科"
   },
   {
     "id": "112-2-醫學(五)-37",
@@ -24325,7 +24325,7 @@
       "D": "術後3天內有腸道滲漏之併發症，大部分病患採保守治療即可"
     },
     "answer": "A",
-    "explanation": "減重手術 (bariatric surgery) 的五種常見術式務必要熟悉；至於手術適應症與併發症用一般臨床觀念推理幾乎都可以作答\n\n| 減重手術 | 原理 | 盛行率 | 超重損失率 (EWL) | 長期併發症 |\n| :--- | :--- | :--- | :--- | :--- |\n| **胃內水球手術 (intragastric balloon)** | 限制性 | 2.8% | 15~20% | 併發症少，且移除水球後可恢復正常胃臟 |\n| **可調式胃束帶手術 (adjustable gastric banding)** | 限制性 | 2.8% | ~45% | 食道蠕動異常、長期減重效果不佳 |\n| **垂直袖狀胃切除手術 (vertical sleeve gastrectomy)** | 限制性 | 59.4% | 60~70% | 胃食道逆流 |\n| **十二指腸轉位手術 (biliopancreatic diversion / duodenal switch)** | 吸收不良性 | 0.7% | 65~70% | 蛋白質吸收不良、脂溶性維他命 (A, D, E, K) 缺乏 |\n| **胃繞道手術 (Roux-en-Y gastric bypass)** | 合併型 | 17.8% | 70~80% | 鐵缺乏、維他命 B12 缺乏 |\n\n(A) 正確。由上表可知袖狀胃切除手術佔了近 60%，而袖狀胃切除手術的優點在於較不會造成吸收不良併發症，且減重效果不輸繞道或轉位手術，因而適用於有腸道疾病、鐵 / 維他命缺乏等共病症較多的族群，普遍性越來越高\n(B) 錯誤。代謝（減重）手術主要治療 Type II 糖尿病人，相較藥物的減重效果更好。（Type I 病人大多偏瘦，減重手術的需求反而不高）\n(C) 錯誤。需要補充維他命的是吸收不良性手術\n(D) 錯誤。腸道滲漏無論在何種手術都是很嚴重的併發症，從腹內膿瘍、腹膜炎，到嚴重的敗血症或致死都有可能。一旦發現腸道滲漏就應儘快手術治療，如膿瘍引流、內視鏡修補 / 放置支架或再次開腹手術等",
+    "explanation": "答案 (A)。\n\n**減重與代謝手術**\n\n- 適應症（台灣）：BMI ≥ 37.5，或 BMI ≥ 32.5 合併肥胖相關疾病；第二型糖尿病控制不佳者，BMI 門檻可再降低。\n- 手術類型：\n\n| 類型 | 術式 | 特點 |\n| --- | --- | --- |\n| 限制型 | 袖狀胃切除（目前全世界最常見）、胃束帶 | 營養素缺乏較少 |\n| 吸收不良型 | 十二指腸轉位 | 減重效果最好，營養缺乏最多 |\n| 合併型 | Roux-en-Y 胃繞道 | 糖尿病改善效果好；需長期補充鐵、鈣、維生素 B12、維生素 D |\n\n- (B) 代謝手術主要治療第二型糖尿病，第一型糖尿病（缺乏胰島素）不適用。\n- (C) 吸收不良型與合併型手術術後較需補充維生素與礦物質。\n- (D) 術後早期吻合處或切線滲漏是嚴重併發症，常需經皮引流、內視鏡支架或再次手術，不能只保守觀察。\n\n**補充**：早期滲漏的徵象常是不明原因的心搏過速（> 120 次/分）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24345,7 +24345,7 @@
       "D": "6個月後超音波追蹤檢查"
     },
     "answer": "A",
-    "explanation": "| Bethesda criteria for Thyroid Nodule FNA | | |\n| :--- | :--- | :--- |\n| **分類** | **惡性率** | **處置** |\n| **I. Nondiagnostic** | 5-10% | 重做 FNA（用 sonoguide） |\n| **II. Benign** | 0-3% | 追蹤（臨床症狀或 sono） |\n| **III. AUS/FLUS** | 10-30% | 重做 FNA / 分子檢測 / 葉狀切除 |\n| **IV. FN/SFN** | 25-40% | 分子檢測 / 葉狀切除 |\n| **V. Suspicious for Malignancy** | 50-75% | 近全切除 / 葉狀切除 |\n| **VI. Malignant** | 97-99% | 近全切除 / 葉狀切除 |\n\nAUS/FLUS: Atypia of undetermined significance / follicular lesions of undetermined significance\nFN/SFN: Follicular neoplasm / suspicious for follicular neoplasm\n\n除了知道 Bethesda criteria 之外，遇到甲狀腺結節的基本 approach 也很重要，因為不是所有結節都需要做 FNA。筆者將重要流程簡化如下：\n1. 有甲狀腺結節時，通常最先會抽 TSH，看這個結節是否有功能\n2. TSH 低代表可能是功能性的 toxic goiter，那就要驗 TR Ab 看是否有 Grave's disease 的可能；如果 TSH 正常或高通常會抽 TPO Ab，如果是陽性那就可以確診 Hashimoto thyroiditis，反之要用超音波做下一步判斷\n3. 掃超音波的結果會根據 TI-RADS 去分類，再根據總分去決定是要追蹤還是要 FNA，若是後者則依據組織病理（就是這題考的 Bethesda）去判斷後續的處置",
+    "explanation": "答案 (A)。\n\n**甲狀腺細針穿刺的 Bethesda 分類**\n\n| 分類 | 診斷 | 惡性風險 | 處置 |\n| --- | --- | --- | --- |\n| I | 無法診斷（檢體不足） | 約 5–20% | 重做超音波導引細針穿刺 |\n| II | 良性 | 約 0–3% | 臨床與超音波追蹤 |\n| III | 意義不明的非典型細胞 | 約 10–30% | 重做穿刺、分子檢測或甲狀腺葉切除 |\n| IV | 濾泡性腫瘤 | 約 25–40% | 分子檢測或甲狀腺葉切除 |\n| V | 懷疑惡性 | 約 50–75% | 手術 |\n| VI | 惡性 | 約 97–99% | 手術 |\n\n本題為 Bethesda I（無法診斷），應在超音波導引下重做細針穿刺；若多次仍無法診斷且超音波高度懷疑惡性，再考慮手術。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24365,7 +24365,7 @@
       "D": "定時檢驗尿中VMA及腹部電腦斷層以排除腎上腺嗜鉻細胞瘤再復發"
     },
     "answer": "C",
-    "explanation": "此題患者同時有甲狀腺髓質癌及腎上腺嗜鉻細胞瘤，需要考慮是否為 MEN IIA 或 IIB 的患者，在單一者發病時應考慮常規做血清鈣濃度、24 小時尿液 VMA 以及 RET proto-oncogene 的測定；術後則須定期針對兩者做追蹤，如 (A)(B)(D) 所敘述\n\n(C) CEA 及 calcitonin 是甲狀腺髓質癌的腫瘤標記，可用於追蹤，然而髓質癌對於 I-131 的吸收效果不佳，不需考慮以此定位。與其他類型的甲狀腺癌，請參考【112-2(三)57】",
+    "explanation": "答案 (C)。\n\n**甲狀腺髓質癌的追蹤**\n\n- 本題病人有嗜鉻細胞瘤合併甲狀腺髓質癌，符合第二型多發性內分泌腫瘤（MEN 2A），需追蹤：\n  - 甲狀腺髓質癌復發：血中 calcitonin 與 CEA（腫瘤標記）。\n  - 原發性副甲狀腺亢進：血鈣、磷、PTH。\n  - 嗜鉻細胞瘤（對側腎上腺）：血或尿中 metanephrines（或 VMA）與腹部影像。\n- 甲狀腺髓質癌來自 C 細胞（濾泡旁細胞），不會攝取碘，因此放射碘掃描與放射碘治療都無效，故 (C) 錯誤。\n- 定位復發病灶應使用頸部超音波、CT、MRI、骨掃描，或 PET（FDG、Ga-68 DOTATATE、F-DOPA）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24385,7 +24385,7 @@
       "D": "定時檢驗血中CEA及calcitonin"
     },
     "answer": "B",
-    "explanation": "(C) 更精確地說應檢測 RET germline mutation（生殖細胞變異）。美國甲狀腺協會的指引建議「遺傳性甲狀腺髓質癌」的一等親皆應該檢測 RET germline mutation 並接受基因諮詢。NCCN 也建議已知 RET 突變者的家族成員進行基因檢測。本題因多位家族成員確診或疑似有 MEN2，因此合理懷疑 RET 突變是生殖細胞變異。因為若真的檢驗出有「RET 生殖細胞變異」，則高機率在年輕時就罹患進程快、預後差的甲狀腺髓質癌\n\n下表補充「遺傳性 (hereditary)」和「偶發性 (sporadic)」的甲狀腺髓質癌比較：\n\n| 分類 | 偶發性 (sporadic) | 遺傳性 (hereditary) |\n| :--- | :--- | :--- |\n| **流行病學** | 佔 70%：中年發病<br>男女比 2 : 3 | 佔 30%：年輕發病（多 35 歲以前）<br>男女比 1 : 1 |\n| **基因突變** | 體細胞 (somatic) RET 突變 | 生殖細胞 (germline) RET 突變<br>體染色體顯性 |\n| **型態** | 單顆：沒有 C cell 增生 | 多發性 / 雙側甲狀腺：有 C cell 增生<br>較具侵略性<br>合併 MEN2 症狀 |\n\n當家族成員驗出有 RET 突變，指引皆建議做預防性甲狀腺切除，至於手術時機和定期追蹤 calcitonin 和頸部超音波的年齡，則依據 RET 突變的位點而定。故先決定 (B)，才考慮 (C)(D)",
+    "explanation": "答案 (B)。\n\n**MEN 2 家族成員的篩檢**\n\n- MEN 2 為體染色體顯性遺傳，由 RET 原致癌基因的生殖細胞突變造成，外顯率很高，帶因者幾乎都會發生甲狀腺髓質癌。\n- 家族中有 MEN 2 病人時，其一等親（本題的 2 歲男童，母親是確診的病人）應盡早做 RET 基因檢測。\n- 依 RET 突變位點的風險，建議預防性全甲狀腺切除的時機：\n\n| ATA 風險 | 代表突變 | 預防性甲狀腺切除 |\n| --- | --- | --- |\n| 最高（MEN 2B） | M918T | 1 歲內 |\n| 高 | C634、A883F | 5 歲前（依 calcitonin 決定） |\n| 中 | 其他 | calcitonin 上升時，或依家屬意願 |\n\n- Thyroglobulin 是分化型甲狀腺癌的追蹤指標，不適用於髓質癌。\n- 頸部超音波與 calcitonin、CEA 可用於已知帶因者的追蹤，但不能取代基因檢測來判斷是否帶因。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
