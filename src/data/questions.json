@@ -16388,15 +16388,15 @@
       "D": "insula ribbon sign；代表先發生缺血性中風，而後發生出血"
     },
     "answer": "A",
-    "explanation": "病人出現不對稱神經學症狀時應懷疑中風，而 non-contrast CT 目的在判斷出血性或缺血性中風，本題從影像即可判斷為 ICH，故排除 (B)(C)(D)\n\n(A) spot sign 是 ICH 於 CT 血管攝影 (CTA) 的徵象，為腦血腫內有局部的顯影劑堆積 / 顯影，spot sign 與血腫繼續長大的風險有關，為 ICH 不良預後的獨立預測因子，可能的影像鑑別診斷有 dot sign（見下方，因圖①不是缺血性中風而排除）、生理性鈣化點（此題的確可能是基底核鈣化點，但病人有神經學症狀，還是朝病理徵象去想）\n\n選項 (B)(C)(D) 皆屬腦梗塞的 early CT signs，以下表格整理：\n\n| early CT 徵象 | 成因 |\n| :--- | :--- |\n| **hyperdense MCA sign** | MCA 密度增加（因血栓使血液難以流動所致） |\n| **dot sign = Sylvian fissure sign** | 位於 sylvian fissure 之小亮點<br>（成因與 hyperdense MCA sign 相同，只是梗塞位置為 MCA 的 M2 分支） |\n| **lentiform nucleus obscuration\\*** | 水腫使 lentiform nu.（灰質、CT 本該亮）的密度下降，與鄰近內囊、外囊的區辨變不明顯 |\n| **insular ribbon sign\\*\\*** | 正常 insula 可見彎曲的紋路，水腫時該徵象消失 |\n| **indistinct differentiation between gray and white matter** | 組織密度稍微下降、灰白質界線不清 |\n\n\\*(B) lentiform nucleus sign 在中風影像上應指 lentiform nucleus obscuration（遮蔽）：避免跟 lentiform fork sign 搞混，後者是指 MRI T2 基底核密度變高，臨床很可能是代謝性酸中毒\n\\*\\*(D) insular ribbon sign 更精確應稱為 loss of insular ribbon sign",
+    "explanation": "答案 (A)。\n\n**腦出血的 spot sign**\n\n- 自發性腦出血病人做 CT 血管攝影時，在血腫內看到一個或多個顯影劑積聚的小亮點，稱為 spot sign，代表血管仍在持續滲漏。\n- 意義：預測血腫擴大（最重要的早期惡化原因），與神經功能惡化、預後較差及死亡率上升相關。\n- 其他非顯影 CT 上預測血腫擴大的徵象：血腫形狀不規則、密度不均（漩渦徵象 swirl sign、黑洞徵象 black hole sign）、混合徵象。\n\n| 選項 | 意義 |\n| --- | --- |\n| Lentiform nucleus 模糊 | 急性缺血性中風早期徵象 |\n| Dot sign（MCA dot sign） | 中大腦動脈分支內的血栓（非顯影 CT 呈高密度點） |\n| Insular ribbon sign 消失 | 中大腦動脈區域早期缺血 |\n\n**補充**：腦出血急性期應積極控制血壓（收縮壓目標約 140 mmHg），並逆轉抗凝血劑，以減少血腫擴大。",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
       "/images/112-1/醫學(四)/page_11_img_1.png"
     ],
-    "section": "第四篇 其他科",
-    "chapter": "皮膚科",
-    "category": "皮膚科"
+    "section": "第一篇 內科學",
+    "chapter": "神經內科",
+    "category": "神經內科"
   },
   {
     "id": "112-1-醫學(四)-45",
@@ -16411,7 +16411,7 @@
       "D": "典型腦部影像會出現枕葉水腫，但該現象也有可能出現在其它腦區"
     },
     "answer": "B",
-    "explanation": "可逆性後腦病變症候群 (posterior reversible encephalopathy syndrome, PRES) 多發生在有高血壓急症、子癇 / 子癇前症、服用免疫抑制劑與抗癌藥物的病人，機轉目前推測為高血壓使大腦灌流增強，超出自主調節極限而產生腦水腫，PRES 常見的四大症狀為頭痛、癲癇、意識改變與視覺異常；MRI 的典型特徵為後大腦（多枕、頂葉）血管源性水腫，但也可能出現在其他腦區，不一定位於後大腦動脈的支配範圍，PRES 給予支持性治療後（降血壓、控制癲癇、停用風險藥物），症狀和影像大都可以在一至數週內恢復正常，只有少數會併發腦梗塞、出血及留有未恢復的神經功能缺損",
+    "explanation": "答案 (B)。\n\n**可逆性後腦病變症候群（PRES）**\n\n- 機轉：血壓急遽升高超過腦血流自我調節的上限，或內皮細胞功能異常，造成血管源性腦水腫；後循環（椎基底動脈）的交感神經支配較少，所以枕葉、頂葉最常受影響，但額葉、小腦、腦幹也可能出現。\n- 常見原因：高血壓危象、子癲前症與子癲症、腎衰竭、免疫抑制劑（tacrolimus、cyclosporine）、化療、自體免疫疾病。\n- 症狀：頭痛、視覺異常（模糊、皮質盲）、意識改變、癲癇發作。\n- MRI：雙側頂枕葉白質為主的 T2/FLAIR 高訊號（血管源性水腫）。\n- 治療：控制血壓、停用可疑藥物、處理癲癇；子癲症則需生產。\n\n只要及時處理，神經學症狀與影像變化在數天到數週內通常都會恢復（這也是「可逆性」名稱的由來），並不會長期存在明顯異常，故 (B) 錯誤。少數合併出血或梗塞者可能留下後遺症。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16431,7 +16431,7 @@
       "D": "如果懷疑是因為主動脈剝離（aortic dissection）所導致的急性腦中風症狀，絕對禁止使用"
     },
     "answer": "C",
-    "explanation": "急性缺血性腦中風使用 tPA 治療的流程如下：\n1. 確定病史：在發病 3 小時內使用效果最佳，可有條件放寬至 4.5 小時內使用\n2. 進行電腦斷層評估：排除出血性腦中風或主動脈剝離、太嚴重或太輕微的病患不使用（NIHSS 在 4-25 分才考慮）\n3. 患者中風前 48 小時內有服用「非維生素 K 拮抗劑口服抗凝血劑」(DOAC) 不建議施打，可直接考慮動脈內取栓，因為使用 PT、aPTT 評估 DOAC 作用的偽陰性過高，並非很好的指標；如果是在 48 小時內使用 Warfarin 或 Heparin，則可視抗凝血程度決定（Warfarin：INR>1.7 不可使用；Heparin：非極高的 aPTT 可考慮，但須密切監測 aPTT）",
+    "explanation": "答案 (C)。\n\n**急性缺血性中風的靜脈血栓溶解治療**\n\n- 在發病 4.5 小時內給予 tPA（alteplase 或 tenecteplase），可增加 3 個月後功能恢復良好的比例。\n- 給藥前必須以腦部電腦斷層排除顱內出血。\n- 主要禁忌症：\n  - 顱內出血、近期嚴重頭部外傷或顱內手術\n  - 3 個月內缺血性中風\n  - 血壓 > 185/110 mmHg 無法控制\n  - 血小板 < 100,000/μL、INR > 1.7\n  - 懷疑主動脈剝離或感染性心內膜炎\n  - 48 小時內服用新型口服抗凝血劑（NOAC），除非特定凝血檢查正常\n- 服用 NOAC 的病人，一般凝血檢查（PT、aPTT）無法準確反映藥效，需要特定檢驗（如 anti-Xa 活性、dTT），或已逆轉藥效（dabigatran 可用 idarucizumab），才能考慮使用；不能只以一般凝血功能正常就給藥，故 (C) 錯誤。\n- 主動脈剝離併發中風時使用血栓溶解劑可能致命，是絕對禁忌。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16451,7 +16451,7 @@
       "D": "carbamazepine"
     },
     "answer": "A",
-    "explanation": "看到關鍵字「短暫性恍惚」、「全面性 3Hz 慢波」等要想到失神型癲癇 (absence seizure)，失神型癲癇常見於 4-12 歲兒童，EEG 會有典型的全面性 3Hz 慢波，臨床上會出現短暫約數十秒的發呆且無反應，一天可以達數十次甚至百次，還可能會有臉色蒼白的現象，另外有研究顯示 hyperventilation 會誘發失神型癲癇的發作，失神型癲癇的預後普遍不錯，有一半以上病人在青少年時期就不再發生癲癇，然而失神型癲癇的病人對於專注力、閱讀、語言能力等比一般人來得差\n\n失神型癲癇的第一線治療是 ethosuximide、valproic acid，文獻指出 ethosuximide 比 valproic acid 更好，但 ethosuximide 在台灣沒有上市，那就選 (A)，要特別注意對於失神型癲癇若使用 phenytoin、carbamazepine、vigabatrin 等抗癲癇藥物，可能會更加嚴重，所以應避免！\n\n底下列出不同癲癇建議的第一線藥物：\n\n| 癲癇類型 | 第一線藥物 |\n| :--- | :--- |\n| **Generalized tonic-clonic** | Valproic acid、Lamotrigine、Topiramate |\n| **Atonic seizure** | |\n| **Partial seizure** | Valproic acid、Carbamazepine、Phenytoin |\n| **Absence seizure** | Valproic acid、Ethosuximide |\n\n參考資料：MM Goldenberg. (2010). Overview of drugs used for epilepsy and seizures: etiology, diagnosis, and treatment. Pharmacy and Therapeutics, 35(7), 392",
+    "explanation": "答案 (A)。\n\n**兒童失神性癲癇**\n\n- 好發於 4–10 歲，女孩較多。\n- 每天可發作數十至上百次，每次數秒至 10 多秒，突然中斷活動、眼神呆滯，可能合併眨眼或嘴部自動症，發作後立即恢復，沒有發作後混亂。\n- 過度換氣可誘發發作。\n- 腦波：全面性 3 Hz 棘慢波複合波。\n- 治療：\n\n| 藥物 | 說明 |\n| --- | --- |\n| Ethosuximide | 首選之一，只對失神發作有效 |\n| Valproic acid | 首選之一，若同時有全面性強直陣攣發作更適合；注意肝毒性與致畸胎性 |\n| Lamotrigine | 效果較前兩者差 |\n\nPhenytoin 與 carbamazepine（鈉離子通道阻斷劑）可能使失神發作與肌陣攣發作惡化，應避免使用。Levetiracetam 對失神發作的效果有限，不是首選。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16471,12 +16471,12 @@
       "D": "下顎前突（antero-flexed mandible）"
     },
     "answer": "D",
-    "explanation": "由題幹敘述容易想到病人有睡眠呼吸中止症，若只能從症狀判斷是中樞性或阻塞性：「阻塞性睡眠呼吸中止症 (obstructive sleep apnea, OSA)」會「鼾聲大作」並且與「早晨醒來頭痛」更相關（機轉不明，推測與身體缺氧、腦血管擴張有關）\n\n目前已證實的 OSA 風險因子如下：\n• 肥胖、心血管疾病、中風\n• 菸、酒\n• 男性、年齡 > 50 歲\n• 呼吸道異常（扁桃腺 / 懸壅垂過大、舌根後倒）\n• 顱顏部異常，如下顎後縮 (retrognathia) 或先天下記較小\n• 肢端肥大症",
+    "explanation": "答案 (D)。\n\n**阻塞性睡眠呼吸中止症**\n\n本題男性睡覺時大聲打鼾、呼吸暫停後突然大聲喘息、白天嗜睡、晨間頭痛，為典型阻塞性睡眠呼吸中止症。\n\n- 危險因子：\n  - 肥胖（最重要）、頸圍粗\n  - 男性、年紀增加、停經後女性\n  - 上呼吸道結構狹窄：扁桃腺或腺樣體肥大、下顎後縮或小下顎、巨舌、鼻塞\n  - 喝酒、使用鎮靜安眠藥\n- 相關疾病：高血壓（尤其難治性高血壓）、心房顫動、心衰竭、中風、糖尿病。\n- 診斷：多項睡眠生理檢查（AHI ≥ 5 合併症狀，或 AHI ≥ 15）。\n- 治療：減重、側睡、避免酒精；正壓呼吸器（CPAP）為主要治療；口腔裝置（下顎前移器）、手術。\n\n下顎前突（下巴往前）會讓舌根與呼吸道空間較大，反而不容易造成阻塞；下顎後縮才是危險因子，故 (D) 最沒有關係。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第一篇 內科學",
-    "chapter": "神經內科",
-    "category": "神經內科"
+    "section": "第四篇 其他科",
+    "chapter": "耳鼻喉科",
+    "category": "耳鼻喉科"
   },
   {
     "id": "112-1-醫學(四)-49",
@@ -16491,7 +16491,7 @@
       "D": "此病人之診斷應為偏頭痛合併藥物過度使用頭痛"
     },
     "answer": "D",
-    "explanation": "本題關鍵字為噁心想吐、畏光怕吵、活動時加劇，以上症狀要想偏頭痛 (migraine)（雖然典型發作位置為單側，但雙側也會有！）；加上有長達兩年約 10 ～ 15 次 / 月的止痛藥物史，所以合併有藥物造成的次發性頭痛，以下整理常見原發性頭痛、次發性頭痛：（本題可搭配【112-1(三)2】一起看，該詳解有列出偏頭痛的診斷標準）\n\n| 原發性頭痛 | | |\n| :--- | :--- | :--- |\n| **偏頭痛 (migraine)** | **緊縮型頭痛 (tension headache)** | **叢發型頭痛 (cluster headache)** |\n| **位置** | 單側 > 雙側 | 雙側 | 單側：多在眼周或太陽穴 |\n| **疼痛型態** | throbbing | pressing or tightening | deep pain |\n| **發生時間** | rapid (≤ 1~2h) | gradual | abrupt (≤ minutes) |\n| **持續時間** | 4~72 h | 30 min~7d | 15 min~3 h |\n| **症狀** | 噁心想吐、畏光怕吵；約 30% 有預兆 (aura)（視覺為主） | 偶爾有畏光怕吵，但不會噁心想吐（可想成：都不要有偏頭痛特色的原發性頭痛） | 副交感神經症狀（流淚、流鼻水、縮瞳、前額及臉出汗等） |\n| **盛行率** | ~10%：男女比 1 : 2.5 | 40%（最常見） | <1%：年輕男性好發 |\n\n| 次發性頭痛 | |\n| :--- | :--- |\n| **病因** | infectious<br>vascular<br>mass effect (tumor, hematoma)<br>sleep disturbance<br>preeclampsia<br>postconcussive syndrome<br>neuralgia<br>substance use/withdrawal (analgesics, nitrates, ergotamine, caffeine,...) |\n| **症狀** | 口訣：SNOOP4，可參考【112-1(三)2】解析 |",
+    "explanation": "答案 (D)。\n\n**偏頭痛合併藥物過度使用頭痛**\n\n- 偏頭痛特點：從青春期開始，發作時持續 4–72 小時，可為單側或雙側、搏動性、中重度疼痛、活動時加劇，合併噁心嘔吐、畏光怕吵。本題病人符合偏頭痛。\n- 藥物過度使用頭痛（MOH）：\n  - 原有頭痛疾病的人，每月頭痛 ≥ 15 天，持續 3 個月以上。\n  - 規律過度使用急性止痛藥：單純止痛藥 ≥ 15 天/月，或 triptan、麥角類、鴉片類、合併成分止痛藥 ≥ 10 天/月。\n- 本題病人原有偏頭痛，近年頻繁喝止痛糖漿，近三個月幾乎每天頭痛，最符合偏頭痛合併藥物過度使用頭痛（慢性偏頭痛）。\n- 治療：停用或減少過度使用的止痛藥，開始預防性藥物（topiramate、propranolol、flunarizine、amitriptyline、CGRP 單株抗體或 botulinum toxin）。\n\n| 鑑別 | 特點 |\n| --- | --- |\n| 緊縮型頭痛 | 雙側、壓迫或緊箍感、輕中度、不因活動加劇，不合併噁心嘔吐 |\n| 叢發性頭痛 | 男性多，單側眼周劇痛 15–180 分鐘，合併同側流淚、鼻塞、眼瞼下垂，躁動不安 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16511,7 +16511,7 @@
       "D": "主觀認知退化（subjective cognitive decline）"
     },
     "answer": "B",
-    "explanation": "失智症與輕度認知障礙是光譜性的大腦皮質疾病，在 DSM-5 中分別稱作 major 與 minor neurocognitive disorder，確診失智症需有以下至少一項認知功能顯著降低（複雜注意力、執行功能、學習和記憶、語言、知覺動作、社交認知），且缺損程度必須足以影響到日常生活；輕度認知障礙與失智症最大的差別，是「認知缺損不干擾日常活動的獨立進行」，但可能更費力，因此 (B) 最符合\n\n認知評估量表，常用的有 MMSE 和題幹的 MoCA，設定 cut-off 牽涉一項工具的敏感度與特異度，在此列出最常被使用的 cut-off 僅供參考：MMSE ≤ 24 分為不正常（進一步分輕度 21-24、中度 10-20、重度≤ 9）；MoCA ≤ 25 分為不正常（進一步分輕度 18-25、中度 10-17、重度≤ 10）",
+    "explanation": "答案 (B)。\n\n**認知功能退化的分類**\n\n| 分類 | 主觀抱怨 | 客觀認知測驗 | 日常生活功能 |\n| --- | --- | --- | --- |\n| 主觀認知退化 | 有 | 正常 | 正常 |\n| 輕度認知障礙（MCI） | 有 | 低於同年齡與教育程度的常模 | 大致正常（複雜活動可能稍有困難） |\n| 失智症 | 有 | 明顯異常 | 受影響，無法獨立 |\n\n本題女性主訴記憶力不佳，MoCA 23 分（< 26 分為異常），延遲回憶完全無法記起，但日常生活可自理、仍能擔任志工，最符合輕度認知障礙（以記憶型為主）。\n\n**補充**：記憶型 MCI 每年約 10–15% 進展為失智症（主要為阿茲海默症）；應控制血管危險因子、規律運動、社交與認知活動，並定期追蹤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16531,7 +16531,7 @@
       "D": "進行性上眼神經核麻痺症（progressive supranuclear palsy）"
     },
     "answer": "C",
-    "explanation": "Multiple system atrophy (MSA) 是一種 atypical parkinsonian（或稱 Parkinson's plus syndrome，巴金森氏疊加綜合症），影響到的部分包含小腦、基底核、腦幹，因此除了動作協調出問題之外，也會有自律神經異常的表現，因此會有如題幹敘述的姿勢性低血壓、性功能障礙等自律神經反射失常現象，而「動作遲緩」以及「步態不穩」分別與「基底核導致的 parkinsonism」和「小腦異常」有關，在這張 MRI 的橋腦，可以看到一個像是十字架的 hyperintensity，是 MSA 經典的 cross bun sign（補充：MSA 可分為兩個 subtype，以巴金森氏症狀表現的 MSA-P (P for parkinsonism) 和以小腦症狀表現的 MSA-C (C for cerebellum)；cross bun sign 一般是 MSA-C 的典型徵象，但本題沒有要進一步作此區分）\n\n(A) 額顳葉失智症的臨床表現會有情緒易怒、個性改變、社交障礙（在不對的場合做事 / 做不該做的事）等情形，在影像上會看到額葉明顯萎縮，有時候也會有顳葉的萎縮\n(B) 阿茲海默症是最常見的失智症，影像上會有海馬迴、頂葉、顳葉的萎縮\n(D) Progressive supranuclear palsy (PSP) 也是一種 atypical parkinsonian，臨床表現有 axial dystonia/rigidity（身體會僵直）、retrocollis（站立時頸後仰）、眼球運動受限（先垂直受限再水平受限）、動作遲緩、語言及情感障礙，其 MRI 最經典的表現是中腦萎縮，導致在 sagittal view 可以看到 hummingbird sign（像是一隻鳥的側面）",
+    "explanation": "答案 (C)。\n\n**多系統萎縮症（MSA）**\n\n- 散發性、進行性的神經退化疾病，病理特徵為寡樹突膠細胞內的 α-synuclein 包涵體。\n- 表現：\n  - 自主神經失調：姿勢性低血壓、暈厥、勃起功能障礙、尿失禁或尿滯留、便秘（常最早出現）\n  - 巴金森症狀（MSA-P）：動作遲緩、僵硬，對 levodopa 反應差\n  - 小腦症狀（MSA-C）：步態不穩、構音障礙、眼球震顫\n- MRI：\n  - MSA-C：橋腦「十字麵包徵象」（hot cross bun sign）、小腦與中小腦腳萎縮\n  - MSA-P：殼核萎縮、殼核外緣高訊號\n\n本題男性有姿勢性低血壓、性功能障礙、動作遲緩與步態不穩，MRI 符合腦幹與小腦萎縮，最可能是多系統萎縮症。\n\n| 鑑別 | 特點 |\n| --- | --- |\n| 進行性上眼神經核麻痺症 | 垂直眼球運動麻痺（尤其向下看）、早期向後跌倒；MRI 中腦萎縮呈「蜂鳥徵象」 |\n| 額顳葉失智症 | 早期人格與行為改變，額葉與顳葉前部萎縮 |\n| 阿茲海默症 | 以記憶障礙為主，海馬迴萎縮 |",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
@@ -16554,7 +16554,7 @@
       "D": "食用罹患狂牛症的牛肉之後出現的變異型庫賈氏病（variant CJD）較易出現在年輕人"
     },
     "answer": "D",
-    "explanation": "庫賈氏病的致病原是普利昂蛋白 (prion)，是一具有感染性的變異「蛋白質」，當確診者汙染手術器具或檢體時，因普利昂蛋白對熱、輻射照射、消毒劑均有抵抗能力，其消毒方法需特殊處理，以下參考衛福部疾管署資訊：\n• 物理法：>132°C、持續使用 >1 小時的高壓蒸氣釜\n• 化學法：5.0% 次氯酸鈉 (NaOCl) 或 1N ～ 2N 氫氧化鈉 (NaOH)，作用 >1 小時\n• 最佳做法為先化學法、再物理法\n\n考題尤其喜歡比較典型與變異型 CJD：\n\n| | 典型 / classic CJD | 變異型 / variant CJD |\n| :--- | :--- | :--- |\n| **原由** | 可為散發型（主要）、遺傳型、醫源型 | 因食入海綿狀腦病的牛隻（1996 年英國爆發） |\n| **死亡年齡（中位數）** | 68 歲 | 28 歲 |\n| **患病時長（中位數）** | 4-5 月 | 13-14 月 |\n| **潛伏期** | 數年至數十年 |\n| **臨床表現** | 失智、early 神經學表現 | 以精神行為異常為主、感覺異常、delayed 神經學表現 |\n| **EEG 上的週期性棘波 (periodic sharp waves)** | 有 | 無 |\n| **CSF 中的 14-3-3 蛋白** | 上升 | 無 |\n| **MRI 有 'pulvinar sign'（FLAIR 上後丘腦變白）** | 很少 | 多 |\n| **普利昂蛋白 codon 129 的基因型** | 散發型 70% 為 M-M | 幾乎皆為 M-M |\n\nM-M: methionine-methionine（甲硫胺酸同型合子）\n\n【112-2(四)51】也考了普利昂疾病和 CJD 的基本觀念\n\n參考資料：ED Belay, RC Holman & LB Schonberger (2005). Creutzfeldt-Jakob disease surveillance and diagnosis. Clinical Infectious Diseases, 41(6), 834-836",
+    "explanation": "答案 (D)。\n\n**庫賈氏病與普里昂蛋白**\n\n- 致病原：普里昂蛋白（prion），是錯誤摺疊的蛋白質，不含核酸（DNA 或 RNA），故 (B) 錯誤；它會誘導正常的普里昂蛋白也錯誤摺疊。\n- 普里昂對一般消毒方式（高壓蒸氣滅菌的標準條件、福馬林、紫外線、輻射）有極強的抵抗力；手術器械需以更嚴格的方式處理（如 1 N NaOH 浸泡後再 134°C 延長時間高壓滅菌），可能接觸高感染性組織的器械甚至建議丟棄，故 (A) 錯誤。\n- 潛伏期很長（數年至數十年），故 (C) 錯誤。\n- 分類：\n\n| 類型 | 特點 |\n| --- | --- |\n| 散發性（最常見，約 85%） | 60 歲左右，快速進展的失智、肌陣攣，數月內死亡 |\n| 遺傳性 | PRNP 基因突變（家族性 CJD、GSS、致死性家族性失眠症） |\n| 後天性 | 醫源性（角膜、硬腦膜移植、生長激素）、變異型（食用狂牛症牛肉） |\n\n- 變異型庫賈氏病主要發生在年輕人（平均約 28 歲），早期以精神症狀與感覺異常為主，病程較長，故 (D) 正確。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16574,7 +16574,7 @@
       "D": "呼吸困難"
     },
     "answer": "A",
-    "explanation": "只要了解 GBS、MG 兩種病分別是哪裡出問題就不難作答：GBS 是周邊神經病變；MG 則是神經 - 肌肉接合處病變，所以後者不會有自主神經異常，附表比較兩種疾病的表現，皆為黃金考點務必要把握啊！\n\n| | Guillain-Barré syndrome (GBS) | Myasthenia gravis (MG) |\n| :--- | :--- | :--- |\n| **病生理** | 急性免疫反應使周邊神經去髓鞘化 | 自體抗體攻擊 AChR |\n| **病因** | 常見病毒感染後、打疫苗後、手術後 | 自體免疫、胸腺瘤 |\n| **典型症狀** | 雙側近端肌肉無力＋肌腱反射下降 / 喪失 | 眼外肌無力（眼皮下垂、複視） |\n| **合併症狀** | 自主神經功能異常、遠端感覺異常、呼吸衰竭 | 波動性無力、疲倦、吞嚥或構音困難、呼吸衰竭（沒有感覺與自主神經功能的症狀） |\n| **無力進展方向** | 遠端 → 近端：由下而上 | 近端 → 遠端 |\n| **診斷工具** | NCS/EMG、CSF 分析 | repetitive stimulation test、EMG、血清 anti-AChR Ab、胸腔影像學 |\n| **治療** | IVIg、血漿置換 | pyridostigmine（大力丸）、類固醇、免疫抑制劑、血漿置換、手術切除胸腺瘤 |",
+    "explanation": "答案 (A)。\n\n**格林-巴利症候群與重症肌無力的比較**\n\n| 項目 | 格林-巴利症候群 | 重症肌無力 |\n| --- | --- | --- |\n| 病變位置 | 周邊神經（多發性神經根病變，去髓鞘為主） | 神經肌肉接合處（乙醯膽鹼受體抗體） |\n| 無力型態 | 上行性、對稱，數天至 4 週內進展到高峰 | 波動性，活動後加劇，休息後改善 |\n| 眼外肌與眼瞼 | 少見（Miller Fisher 變異型除外） | 常見，常是最早症狀 |\n| 深部肌腱反射 | 減弱或消失 | 正常 |\n| 感覺 | 常有麻木、疼痛 | 正常 |\n| 自主神經失調 | 常見（心律不整、血壓不穩、腸阻塞），可能致命 | 沒有 |\n| 腦脊髓液 | 蛋白細胞分離 | 正常 |\n\n兩者都可能有四肢無力、吞嚥困難與呼吸衰竭，但自主神經失調只出現在格林-巴利症候群，是兩者的主要區別。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16594,7 +16594,7 @@
       "D": "可使用磁振造影（MRI）來確立診斷"
     },
     "answer": "B",
-    "explanation": "脊髓空洞症是在脊椎產生充滿液體的「空洞」，常發生在 C2-T9，多發生在年輕男性、從青春期出現症狀，一半以上與 Chiari type 1 malformations 相關，因為這類患者的小腦扁桃體 (tonsils) 移位到枕骨大孔以下、影響 CSF 流動，而促使積液產生，這種軟組織的異常需使用 MRI 來確立診斷\n(C)「空洞」（脊髓內積液）會壓迫脊髓，臨床上多以中心脊髓症候群表現，症狀包括雙側感覺喪失（上肢呈現 cape distribution）與反射消失，大多數影響範圍在頸部、肩膀、及上肢\n(B) 選項敘述的是 Brown-Séquard syndrome\n\n| | |\n| :--- | :--- |\n| **中心脊髓症候群 central cord syndrome** | 感覺及運動功能異常，多為雙側<br>影響範圍：上肢 > 下肢 |\n| **Brown-Séquard syndrome** | 同側異常：運動、震動、本體感覺<br>對側異常：溫覺、痛覺 |\n\n比較：Chiari type 2 malformations 則與 myelomeningocele 相關（脊柱裂的一種表現）",
+    "explanation": "答案 (B)。\n\n**脊髓空洞症**\n\n- 脊髓中央形成充滿液體的空洞，最常見於頸髓；常合併 Chiari 第一型畸形（小腦扁桃體下垂），其他原因包括外傷、腫瘤、蜘蛛網膜炎。\n- 好發於 20–40 多歲成人，男性略多。\n- 典型表現：\n  - 空洞先破壞在中央交叉的脊髓視丘徑纖維，造成「披肩狀」分布的痛溫覺喪失（雙側），但觸覺與本體感覺保留（分離性感覺喪失）。\n  - 空洞擴大到前角時：上肢下運動神經元症狀（手部肌肉萎縮、反射消失）。\n  - 壓迫側邊皮質脊髓徑：下肢上運動神經元症狀。\n  - 因感覺喪失，手部常有無痛的燙傷或割傷，可有 Charcot 關節。\n- 診斷：MRI。\n- 治療：Chiari 畸形者做後顱窩減壓，必要時空洞分流。\n\n選項 (B) 描述的「同側本體感覺與對側痛覺障礙」是 Brown-Séquard 症候群（脊髓半切）的表現，不是脊髓空洞症。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16614,7 +16614,7 @@
       "D": "肌萎縮性側索硬化（amyotrophic lateral sclerosis）"
     },
     "answer": "D",
-    "explanation": "總結題幹敘述的症狀，主要包含全身肌肉萎縮、無力等下運動神經元症狀，還有四肢 DTR 增強的上運動神經元症狀，舌頭顫動、吞嚥困難、口齒不清等是屬於 bulbar sign，是第 7 對腦神經至第 12 對腦神經的下運動神經元症狀，同時有上、下運動神經元症狀的表現，最可能是 ALS（俗稱漸凍人）\n(A) 即便經過多次腦中風，每一次中風應該會是一個 acute onset，而不會是漸進性慢慢無力，而且通常比較會表現某一側較嚴重的情形（不對稱神經學症狀）\n(B) 頸部椎間盤突出導致頸神經的壓迫最常會有的症狀是脖子與肩膀痠痛，伴隨雙上肢無力與麻木等情形，因此同時會有運動與感覺的異常，和 ALS 只影響運動神經元（無感覺相關的症狀）不同\n(C) Parkinson's disease 會有 muscle rigidity 的表現，以及有錐體外路徑如 resting tremor 的症狀，而 Parkinson's 也會有一些嗅覺不靈敏、肌肉痠痛等感覺異常情形",
+    "explanation": "答案 (D)。\n\n**肌萎縮性側索硬化症（ALS）**\n\n- 同時侵犯上運動神經元與下運動神經元的退化性疾病，好發於中老年人。\n\n| 部位 | 上運動神經元徵象 | 下運動神經元徵象 |\n| --- | --- | --- |\n| 延腦 | 假性延髓麻痺（情緒失禁、下巴反射增強） | 舌頭萎縮與肌束顫動、構音與吞嚥障礙 |\n| 四肢 | 肌腱反射增強、痙攣、Babinski 徵象 | 肌肉萎縮、無力、肌束顫動 |\n\n- 感覺功能、眼球運動與大小便控制通常不受影響。\n- 治療：riluzole、edaravone；支持性治療（非侵襲性呼吸器、胃造口），多數在 3–5 年內因呼吸衰竭死亡。\n\n本題同時有舌頭顫動、肌肉萎縮（下運動神經元）與反射增強（上運動神經元），且沒有感覺異常，最符合 ALS。\n\n- 頸椎椎間盤突出可同時造成上肢下運動神經元與下肢上運動神經元徵象，但不會影響舌頭與延腦功能，且常有感覺症狀與頸部疼痛。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16634,7 +16634,7 @@
       "D": "確定腦脊髓液細菌培養報告前"
     },
     "answer": "B",
-    "explanation": "延誤使用抗生素與不佳的細菌性腦膜炎預後有很強的關聯，因此只要臨床懷疑急性細菌性腦膜炎（發燒、頭痛、頸部活動受限、意識狀態改變），便應在抽血完成後儘快給予經驗性抗生素，而非等到確定檢查結果後才開始治療，另外病人若有中樞神經病史、癲癇、不對稱神經學症狀等，通常需在做腰椎穿刺前安排頭部電腦斷層，但這並不影響抗生素給予的時機",
+    "explanation": "答案 (B)。\n\n**疑似細菌性腦膜炎的抗生素給予時機**\n\n- 細菌性腦膜炎是神經科急症，延遲給予抗生素會增加死亡率與後遺症。\n- 處置順序：\n  1. 立即抽血液培養。\n  2. 若不需先做頭部影像，立即腰椎穿刺，之後馬上給抗生素（與 dexamethasone）。\n  3. 若需先做頭部 CT（免疫不全、中樞神經疾病史、新發生癲癇、視乳頭水腫、意識明顯改變、局部神經學缺損），應先抽血培養、給予抗生素，再去做 CT 與腰椎穿刺。\n- 抗生素不應等到腦脊髓液格蘭氏染色或培養結果出來才給予。\n\n因此「確定腦脊髓液格蘭氏染色結果後」才給抗生素最不合適。給抗生素後數小時內腦脊髓液培養可能轉陰，但細胞數、蛋白、糖的變化與格蘭氏染色、抗原或 PCR 檢測仍有診斷價值。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16654,7 +16654,7 @@
       "D": "紅斑性狼瘡（systemic lupus erythematosus）"
     },
     "answer": "B",
-    "explanation": "考很細的一題，筆者建議不用硬背共病症有哪些，只要知道大部分的 NMOSD 與 AQP4 抗體有關，因此也算自體免疫疾病的一種，病人通常會合併其他自體免疫疾病，AQP4 抗體陽性的 NMOSD 最常見的共病症為紅斑性狼瘡、Sjogren 症候群和重症肌無力；另外還有 p-ANCA 血管炎、Hashimoto thyroiditis 和 MCTD 等\n\n其他考點：\n• 重症肌無力患者中只有 10-15% 合併胸腺瘤，且並非所有胸腺瘤 (thymoma) 都會造成重症肌無力",
+    "explanation": "答案 (B)。\n\n**視神經脊髓炎光譜障礙（NMOSD）**\n\n- 自體免疫疾病，約 70–80% 有抗 aquaporin-4（AQP4）IgG 抗體，攻擊星狀膠細胞。\n- 好發於女性（約 9：1），亞洲人比例較高。\n- 核心表現：視神經炎（常為雙側、嚴重）、長節段橫貫性脊髓炎（≥ 3 個椎體節段）、延腦最後區症候群（難治性打嗝、噁心嘔吐）。\n- 常合併其他自體免疫疾病：修格蘭氏症候群、紅斑性狼瘡、重症肌無力、自體免疫甲狀腺疾病。\n\n胸腺瘤是重症肌無力的常見共病（約 10–15% 的重症肌無力病人有胸腺瘤），但與 NMOSD 沒有直接關聯。\n\n**補充**：急性期以高劑量類固醇與血漿置換治療；預防復發可用 rituximab、eculizumab、inebilizumab、satralizumab。干擾素等多發性硬化症藥物可能使 NMOSD 惡化。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16674,7 +16674,7 @@
       "D": "可以用penicillin來治療"
     },
     "answer": "C",
-    "explanation": "【112-1(三)1】用病人症狀與檢驗檢查去考威爾森氏病，可相互對照其詳解\n(A) 是體染色體隱性遺傳，突變基因是 ATP7B 無誤，但可以注意到其突變形式多樣、沒有一致的基因突變位點\n(B) 與銅離子代謝相關\n(D) 最常使用的 D-penicillamine 是銅離子螯合劑，可避免過多的銅離子由尿液排出、不會在體內累積，類似機轉的藥物還有 trientrine HCl，除此之外，也可以合併使用鋅鹽 (zinc) 來降低腸道對銅的吸收率",
+    "explanation": "答案 (C)。\n\n**Wilson 氏症**\n\n- 體染色體隱性遺傳（不是顯性），ATP7B 基因突變，故 (A) 錯誤。\n- 屬於銅代謝異常：肝臟無法把銅排入膽汁，也無法把銅結合到 ceruloplasmin，銅堆積在肝臟、腦部（基底核）、角膜，故 (B) 錯誤。\n- 表現：\n  - 肝臟：急慢性肝炎、肝硬化、猛爆性肝衰竭（常合併溶血）\n  - 神經：顫抖（拍翅樣）、肌張力不全、構音障礙、巴金森症狀\n  - 精神：情緒、人格改變\n  - 眼睛：Kayser-Fleischer ring（角膜周邊棕綠色環，有神經症狀者幾乎都有）\n- 治療：銅螯合劑 D-penicillamine 或 trientine，鋅劑減少腸道吸收銅，嚴重肝衰竭需肝臟移植；使用的是 D-penicillamine，而不是抗生素 penicillin，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -16694,12 +16694,12 @@
       "D": "負性症狀比正性症狀明顯"
     },
     "answer": "C",
-    "explanation": "精神科近年來超愛考這種題目，務必把握下列表格！\n\n| 思覺失調症預後比較 | | |\n| :--- | :--- | :--- |\n| **因子** | **預後較好** | **預後較差** |\n| **性別** | 女 | 男 |\n| **發病年齡** | 晚 | 早 |\n| **發作** | 急性 | 慢性 |\n| **誘發因素** | 有 | 無 |\n| **家族史** | 情感性疾患 | 思覺失調症 |\n| **症狀** | 正性症狀 → mesolimbic pathway（妄想、幻覺、誇大、多疑） | 負性症狀 → mesocortical pathway（自閉、退縮、少話、無表情） |\n| **社會支持** | 已婚 | 單身 |\n\n其他考點：\n• 思覺失調症自殺的危險因子：單身年輕男性、病程早期、剛出院（有足夠活力自殺）、有病識感",
+    "explanation": "答案 (C)。\n\n**思覺失調症的預後因子**\n\n| 好的預後 | 差的預後 |\n| --- | --- |\n| 發病年齡晚 | 發病年齡早 |\n| 有明顯誘發因素 | 無誘發因素 |\n| 急性發作 | 緩慢、隱伏發作 |\n| 病前社會、工作功能良好 | 病前功能差 |\n| 以正性症狀為主 | 以負性症狀為主 |\n| 合併情感症狀（尤其憂鬱） | 無情感症狀、情感平淡 |\n| 已婚、社會支持良好 | 單身、離婚、社會支持差 |\n| 有情感疾病家族史 | 有思覺失調症家族史 |\n| 女性 | 男性 |\n| 治療反應好、規則服藥 | 神經學異常、腦部結構異常 |",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第一篇 內科學",
-    "chapter": "神經內科",
-    "category": "神經內科"
+    "section": "第四篇 其他科",
+    "chapter": "精神科",
+    "category": "精神科"
   },
   {
     "id": "112-1-醫學(四)-60",
@@ -16714,12 +16714,12 @@
       "D": "治療阻抗型之思覺失調症且對其他藥物反應不佳的患者可考慮clozapine治療，也可降低自殺風險，但有許多副作用，如體重增加、血糖血脂異常等代謝副作用"
     },
     "answer": "C",
-    "explanation": "(A)(B) 思覺失調症的成因涵蓋多重因素，遺傳佔了很大一部分：（一般人罹病率約 1%）\n• 若兄弟姊妹有一人罹患思覺失調症，其手足也罹病的機率約 8%\n• 若異卵雙胞胎有思覺失調症，另一人也罹病的機率約 12%\n• 若父母一方有一人罹患思覺失調症，其子女也罹病的機率約 12%\n• 若父母雙方都罹患思覺失調症，其子女也罹病的機率約 40%\n• 若同卵雙胞胎有思覺失調症，另一人也罹病的機率約 47%（非 100%，故成因也包括外在環境如心理、社會因素）\n(C) 性別方面是男性發病較早，且預後較差（思覺失調症的預後因子，是考試重點，整理於【112-1(四)59】）\n(D) clozapine 是顆老藥，如題幹所述用在阻抗型思覺失調症患者，藥效強大但副作用也多\n• 抗精神病藥物都會：心肌炎、降低癲癇閾值、抗膽鹼作用（口乾、便秘、尿滯留），但也會鎮靜嗜睡\n• -pine 類：促進食慾、體重上升，因此有較高風險的代謝症候群",
+    "explanation": "答案 (C)。\n\n**思覺失調症的流行病學與治療**\n\n- 遺傳：\n  - 一般人終身盛行率約 1%。\n  - 一等親罹病者風險約 10%（約為一般人 10 倍）。\n  - 同卵雙胞胎一致率約 40–50%，代表環境因素也很重要。\n- 性別：男女盛行率相近，但男性發病較早（18–25 歲），女性較晚（25–35 歲，停經後還有第二個高峰），女性預後較好，故 (C) 錯誤。\n- 治療阻抗型（至少兩種抗精神病藥物足量足夠時間仍無效）：使用 clozapine，是唯一證實可降低自殺風險的抗精神病藥；副作用包括顆粒性白血球缺乏（需定期抽血）、癲癇、心肌炎、流口水、便秘、代謝副作用（體重增加、血糖血脂異常）。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第一篇 內科學",
-    "chapter": "神經內科",
-    "category": "神經內科"
+    "section": "第四篇 其他科",
+    "chapter": "精神科",
+    "category": "精神科"
   },
   {
     "id": "112-1-醫學(四)-61",
@@ -22756,7 +22756,7 @@
       "D": "hydralazine"
     },
     "answer": "C",
-    "explanation": "答案 (C)。\n\n**藥物基因檢測與嚴重皮膚藥物反應**\n\n| 藥物 | 相關基因 | 反應 | 族群 |\n| --- | --- | --- | --- |\n| Carbamazepine | HLA-B*1502 | SJS/TEN | 漢人、東南亞人（台灣健保給付檢測） |\n| Allopurinol | HLA-B*5801 | SJS/TEN、DRESS | 漢人 |\n| Abacavir | HLA-B*5701 | 過敏症候群 | 白人較常見 |\n| Phenytoin | CYP2C9*3、HLA-B*1502 | SJS/TEN | 亞洲人 |\n\n- 台灣自 2010 年起，使用 carbamazepine 前建議先檢測 HLA-B*1502，陽性者避免使用，大幅降低 SJS/TEN 的發生。\n- 題目也問到 allopurinol，但本題問的是 HLA-B*1502，對應藥物為 carbamazepine。\n- Hydralazine 與藥物引起的狼瘡相關（慢乙醯化者）。",
+    "explanation": "答案 (C)。\n\n**藥物基因檢測與嚴重皮膚藥物反應**\n\n| 藥物 | 相關基因 | 反應 | 族群 |\n| --- | --- | --- | --- |\n| Carbamazepine | HLA-B*1502 | SJS/TEN | 漢人、東南亞人（台灣健保給付檢測） |\n| Allopurinol | HLA-B*5801 | SJS/TEN、DRESS | 漢人 |\n| Abacavir | HLA-B*5701 | 過敏症候群 | 白人較常見 |\n| Phenytoin | CYP2C9*3、HLA-B*1502 | SJS/TEN | 亞洲人 |\n\n- 台灣自 2010 年起，使用 carbamazepine 前建議先檢測 HLA-B*1502，陽性者避免使用，大幅降低 SJS/TEN 的發生。\n- Allopurinol 對應的基因是 HLA-B*5801，abacavir 對應 HLA-B*5701，都不是 HLA-B*1502。\n- Hydralazine 與藥物引起的狼瘡相關（慢乙醯化者）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -22856,12 +22856,12 @@
       "D": "中樞結核感染合併血管炎"
     },
     "answer": "C",
-    "explanation": "毛毛樣血管疾病在年輕中風族群中越來越被重視，相關介紹整理如下：\n\n毛毛樣血管疾病 (moyamoya disease)：\n\n| 項目 | 內容 |\n| :--- | :--- |\n| **病生理** | 顱內大血管堵塞，造成阻塞後方側枝循環異常增生，以代償供應腦部血流，由於增生的小血管在影像上呈現薄霧般的特徵，因而得名 (moyamoya 在日文有「模糊、混亂」之意) |\n| **基因異常** | 約 10% 與遺傳有關：RNF213、ACTA2 等 |\n| **流行病學** | 好發於東方人種（日本發生率 1/300,000；台灣為 1/5,000,000）、≤15 歲兒童或 30~40 歲年輕人、女性 |\n| **臨床症狀** | 短暫但反覆發生的中風，其他症狀包含頭痛、抽搐、不自主運動、語言障礙或精神異常等，兒童的中風時常合併癲癇發生 |\n| **治療** | 和一般中風治療類似（抗血小板藥物 / 抗凝血劑、降血壓藥等），嚴重者可考慮腦血管重建手術，如淺顳動脈 - 中大腦動脈吻合術等 |",
+    "explanation": "答案 (C)。\n\n**毛毛樣血管疾病（moyamoya disease）**\n\n- 雙側內頸動脈末端與前、中大腦動脈近端進行性狹窄或阻塞。\n- 腦底部形成許多細小的側枝血管，在血管攝影上看起來像「一縷煙霧」（日文 moyamoya），因此得名。\n- 東亞（日本、韓國、台灣）較常見，與 RNF213 基因相關；發病年齡有兩個高峰：兒童（約 5 歲）與成人（30–40 歲）。\n- 表現：\n  - 兒童：缺血性中風或短暫性腦缺血，常在哭鬧、吹氣（過度換氣使血管收縮）時誘發。\n  - 成人：較常以腦出血表現（側枝血管破裂）。\n- 治療：血管繞道手術（直接或間接）；抗血小板藥物。\n\n**補充**：若合併其他疾病（如唐氏症、神經纖維瘤病、鐮刀型貧血、頭頸部放療後）稱為 moyamoya syndrome。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "皮膚科",
-    "category": "皮膚科"
+    "section": "第一篇 內科學",
+    "chapter": "神經內科",
+    "category": "神經內科"
   },
   {
     "id": "112-2-醫學(四)-45",
@@ -22876,7 +22876,7 @@
       "D": "CHA DS -VASc分數為0分之非瓣膜性心房顫動（atrial fibrillation），暫不使用抗血栓藥物2 2"
     },
     "answer": "A",
-    "explanation": "缺血性中風的次級預防策略大致分為心源性栓塞 (cardioembolism) 和非心源性栓塞兩類 *\n\n\\* 補充：依據正式 TOAST classification 分為五類：大血管粥樣硬化 (large artery arherosclerosis)、心源性栓塞 (cardioembolism)、小血管阻塞 (small vessel occlusion，以 lacunar infarcts 為主)、其他原因、未知原因\n\n(1) 心源性栓塞又以非瓣膜性心房顫動 (non-valvular Af) 為大宗，以 CHA2DS2-VASc score 評估（可見【112-2(四)45】詳解），≥ 2 分要用抗凝血劑、1 分可用可不用、0 分不用，本題 (D) 敘述對，但放在此題架構下稍怪，因有 TIA/stroke 的病人，CHA2DS2-VASc 就至少兩分，故心源性栓塞的中風病人都一定會給抗凝血劑 (non-valvular Af 給的抗凝血劑都是新型口服抗凝血劑 (DOAC)；valvular Af 也一定要給抗凝血劑，除機械性瓣膜或中度以上二尖瓣閉鎖需用 warfarin 外，其他也給 DOAC)\n\n(2) 非心源性栓塞：涵蓋類型包括大血管粥樣硬化與小血管阻塞，基本上給予抗血小板藥物，至於要給 SAPT（單抗）或短期 DAPT（雙抗），則用以下標準：\n(a) 缺血性中風：early (< 24 hrs) 且 NIHSS ≤ 3 分使用 DAPT，其餘 SAPT\n(b) 暫時性腦缺血發作 TIA：ABCD2 分數 ≥ 4 分為 high risk 使用 DAPT，其餘 SAPT\n\n(B) 至於頸動脈支架，不限於中風後的次級預防，現在態度採主動預防，適應症包含 (1) 有中風 / TIA 症狀且顱外內頸動脈狹窄 ≥ 50%（健保 ≥ 60%） (2) 無症狀但顱外內頸動脈狹窄 ≥ 70%（健保 ≥ 80%），(A)「顱內」的大動脈狹窄，做血管塑形或放支架是有害的，依據上文給予抗血小板藥物就好\n\n(C) 來源不明之栓塞型中風 (ESUS，懷疑是血栓性中風但找不到血栓來源)，近年有很多臨床試驗 (NAVIGATE-ESUS、RE-SPECT ESUS、ATTICUS)，看是否吃抗凝血劑會比吃抗血小板藥物好，結果都是「DOAC 並未優於 SAPT」，故其次級預防指引仍維持給予 SAPT 而不建議 DOAC",
+    "explanation": "答案 (A)。\n\n**缺血性中風的次級預防**\n\n| 情況 | 建議 |\n| --- | --- |\n| 症狀性顱內動脈狹窄（70–99%） | 抗血小板藥物（短期雙重抗血小板，如 aspirin + clopidogrel 90 天）、積極控制危險因子（血壓、LDL）；抗凝血劑沒有比 aspirin 好，且出血較多 |\n| 症狀性顱外內頸動脈狹窄（70–99%） | 頸動脈內膜切除術（首選）或頸動脈支架置放術 |\n| 來源不明之栓塞型中風（ESUS） | 抗血小板藥物（研究顯示 NOAC 沒有比 aspirin 好）；應長期監測是否有陣發性心房顫動 |\n| 非瓣膜性心房顫動，CHA₂DS₂-VASc 0 分（男性）或 1 分（女性） | 不需抗血栓藥物 |\n\n症狀性顱內動脈狹窄不應優先使用抗凝血劑，故 (A) 最不恰當。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -22896,7 +22896,7 @@
       "D": "弓形蟲（toxoplasma）腦內感染"
     },
     "answer": "A",
-    "explanation": "一下子要判讀三張不同模式的腦影像看似困難，但把握一開始的 CT，CT 呈現高訊號，若非鈣化，很可能表示出血，後續追蹤 MRI 看到 FLAIR（即 CSF 訊號被抑制的 T2）原出血處低訊號（其周圍的高訊號是 vasogenic edema 所致）、T1 邊緣高訊號 / 中間 isotense，推論為出血之血紅素攜氧狀態改變，導致的結果（對照下表，本題的影像較符合 acute stage）\n\n再配合刪去法：\n(B) 腦腫瘤應可以看到 mass effect 導致中線偏離，且不應在 CT 上呈現均質的高訊號\n(C) multiple sclerosis 導致的神經發炎性訊號，在 CT、T1 上應該不會有明顯的高訊號\n(D) neurotoxoplasmosis 會有典型的 concentric target sign，和 MRI 的外圍高中心低訊號有點像，但這種因為周圍水腫導致的訊號是在 T2、FLAIR 或 T1+contrast 才看的到，在 CT、T1 應無法清楚辨別，因此錯誤\n\n另外，高血壓腦出血容易發生在視丘 (thalamus)，符合影像所在位置，故推論答案為 (A)\n\nStages of hemorrhage：\n\n| 階段 (Stage) | T1 訊號 | T2/FLAIR 訊號 | CT 訊號 | 說明 |\n| :--- | :--- | :--- | :--- | :--- |\n| **Hyperacute (<24 hr)** | 等訊號 (Isotense) | 高訊號 (Bright) | 高訊號 (Bright) | Oxyhemoglobin |\n| **Acute (1-3 d)** | 等訊號 / 低訊號 | 低訊號 (Dark) | 高訊號 (Bright) | Deoxyhemoglobin |\n| **Subacute, early (3-7 d)** | 高訊號 (Bright) | 低訊號 (Dark) | 等訊號 / 漸淡 | Intracellular MetHb |\n| **Subacute, late (>7 d)** | 高訊號 (Bright) | 高訊號 (Bright) | 等訊號 / 低訊號 | Extracellular MetHb |\n| **Chronic (>1m)** | 低訊號 (Dark) | 低訊號 (Dark) | 低訊號 (Dark) | Hemosiderin, ferritin |\n\n參考資料：C Domingues, C Rossi & C Cordonnier. (2015). Diagnostic evaluation for nontraumatic intracerebral hemorrhage. Neurologic clinics, 33(2), 315-328.",
+    "explanation": "答案 (A)。\n\n**高血壓性腦出血的影像演變**\n\n本題高血壓男性突發右側肢體無力與麻木，就診當天 CT 顯示左側基底核或視丘區域高密度病灶（急性出血），5 天後 MRI 的 T1 影像出現周邊高訊號（亞急性期血腫），符合高血壓引起的腦出血。\n\n| 時期 | 時間 | 血紅素型態 | T1 | T2 |\n| --- | --- | --- | --- | --- |\n| 超急性 | < 24 小時 | 含氧血紅素 | 等訊號 | 高訊號 |\n| 急性 | 1–3 天 | 去氧血紅素 | 等或低 | 低 |\n| 早期亞急性 | 3–7 天 | 細胞內變性血紅素 | 高 | 低 |\n| 晚期亞急性 | 1–2 週以上 | 細胞外變性血紅素 | 高 | 高 |\n| 慢性 | 數週以上 | 含鐵血黃素 | 低 | 低（周邊黑環） |\n\n- 高血壓性腦出血好發部位：基底核（殼核最常見）、視丘、橋腦、小腦。\n- 腫瘤合併壞死、多發性硬化症、弓形蟲感染在初次 CT 上不會呈現急性出血的高密度病灶。",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
@@ -22919,7 +22919,7 @@
       "D": "除非有安全上的考量，基本上不需要藥物治療"
     },
     "answer": "C",
-    "explanation": "異睡症 (parasomnia) 是指在睡眠期間做一般人清醒時才會做的事，包含講話、走路、吃東西等，是一種睡眠障礙，而異睡症在 REM 與 NREM 期都可能發生\n\n| 類型 | 疾病 / 表現 |\n| :--- | :--- |\n| **REM 異睡症** | • 睡眠癱瘓症（俗稱鬼壓床）<br>• 夢境實演（把夢境演出來，會拳打腳踢等）→ (C) 錯誤<br>• 惡夢（會記得內容） |\n| **NREM 異睡症**<br>*(主要發生在 NREM Stage 3)* | • 夢遊<br>• 夜驚（和惡夢不同，不會記得內容）<br>• 覺醒困惑症（突然從深層睡眠醒來，大腦還沒開機）<br>• 睡食症<br>• 睡眠性行為 |\n\n目前已知有許多原因可能會造成或加重異睡症，包含睡眠呼吸中止症、喝酒、壓力等等，而治療上大部分會先以衛教與處理其他影響睡眠的疾病，並顧及病人（或同床者）的安全而給予症狀控制的治療，藥物部分可以給予 clonazepam、antidepressants、melatonin 等，透過非藥物如認知行為治療也有療效\n\n參考資料：P Drakatos, et al. (2019). NREM parasomnias: a treatment approach based upon a retrospective case series of 512 patients. Sleep medicine, 53: 181-188.",
+    "explanation": "答案 (C)。\n\n**夢遊症（睡眠行走）**\n\n- 屬於非快速動眼期（NREM）的覺醒障礙，發生於深睡期（N3，慢波睡眠），因此多在入睡後 1–3 小時內（夜間前三分之一）發作。\n- 好發於兒童，多數在青春期後自然消失；可與夜驚症、混淆性覺醒同時存在，常有家族史。\n- 誘發因素：睡眠不足、過度疲勞、壓力、發燒、膀胱脹。\n- 發作時眼睛張開但表情茫然，叫不醒，隔天不記得。\n- 處置：確保環境安全（鎖門窗、移除危險物品）、維持規律充足睡眠；除非頻繁發作或有安全疑慮，一般不需藥物。\n\n夢境實演（dream enactment behavior）是快速動眼期睡眠行為障礙（RBD）的特徵：病人在 REM 睡眠時肌肉張力沒有被抑制，把夢境中的動作表現出來，多發生在夜間後半段，醒來後可描述夢境；常見於老年男性，與巴金森氏症等 α-synuclein 疾病相關。夢遊症不是夢境實演，故 (C) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -22939,7 +22939,7 @@
       "D": "多巴胺（dopamine）"
     },
     "answer": "ALL",
-    "explanation": "(A) 降鈣素基因相關胜肽 (calcitonin gene-related peptide, CGRP) 是一種神經發炎物質，三叉神經的 C-fiber 在受到刺激時會由神經末梢釋放 CGRP，促進血管擴張同時活化 A δ -fiber 將刺激傳回中樞產生疼痛感，由於偏頭痛發作時觀測到腦血管的 CGRP 濃度會上升，且可在治療後降為正常，最新偏頭痛的藥物就是以 CGRP 作為治療標的：CGRP 單株抗體 (e.g. Galcanezumab)、CGRP 受體拮抗劑 (-gepant)\n\n(B) 血清素作用在 5-HT1B 受體可調節血管收縮；作用在 5-HT1D/1F 受體則可抑制神經元衝動的傳導，相對 CGRP 反而具有抑制偏頭痛的作用\n\n(C) 乙醯膽鹼雖然與偏頭痛相關的證據較少，但確實有動物實驗發現乙醯膽鹼與副交感神經在腦膜的疼痛感受性具有重要角色，因此申覆後也給分\n\n(D) 多巴胺路徑刺激 (dopaminergic) 被證實可誘發偏頭痛，且研究證實偏頭痛患者的多巴胺受器比一般人更敏感，也更容易在發作時伴隨噁心嘔吐、低血壓、哈欠等症狀\n\n參考資料：\n1. L Edvinsson & R Uddman. (2005). Neurobiology in primary headaches. Brain research reviews, 48(3), 438-456.\n2. I Shelukhina, et al. (2017). Cholinergic nociceptive mechanisms in rat meninges and trigeminal ganglia: potential implications for migraine pain. Frontiers in Neurology, 8, 163.",
+    "explanation": "答案：一律給分（原答案 C）。\n\n**偏頭痛相關的神經傳導物質**\n\n- 偏頭痛的機轉與三叉神經血管系統活化有關：三叉神經末梢釋放血管活性胜肽，造成腦膜血管擴張與神經性發炎。\n\n| 物質 | 角色 | 相關治療 |\n| --- | --- | --- |\n| CGRP | 最關鍵的胜肽，發作時濃度上升 | CGRP 單株抗體、gepants |\n| 血清素（5-HT） | 參與疼痛調控 | Triptans（5-HT1B/1D 致效劑）、lasmiditan（5-HT1F 致效劑） |\n| 多巴胺 | 參與前驅症狀（打哈欠、嗜睡）與噁心嘔吐 | 多巴胺拮抗劑（metoclopramide、prochlorperazine）可止吐並緩解頭痛 |\n| PACAP、一氧化氮、谷胺酸 | 參與疼痛傳導與血管擴張 | — |\n\n原答案認為乙醯膽鹼與偏頭痛最沒有關聯；但乙醯膽鹼參與副交感神經活化與部分頭痛症狀，各教科書描述不一，官方最後公告一律給分。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -22959,7 +22959,7 @@
       "D": "55歲男性糖尿病患者血糖控制不佳，伴有酮酸中毒症"
     },
     "answer": "A",
-    "explanation": "單純型熱痙攣的基本觀念：預後與正常人無異，無顯著不良影響，即不會提高成為癲癇 (epilepsy) 風險（文字遊戲：若說「單純型熱痙攣兒童之後仍容易（熱）痙攣 [(febrile) seizure]」，是對的，熱痙攣本身容易復發）\n\n癲癇常見誘發因素：藥物服用不規則、合併易誘發癲癇藥物、作息不規則（熬夜、睡眠不足）、酒精、壓力、發燒 / 感冒 / 身體不適、腦病變或創傷、女性生理期、特定的誘發因素（光、聲、溫度）",
+    "explanation": "答案 (A)。\n\n**癲癇發作的誘發因素**\n\n- 已有癲癇者：突然停藥或漏服抗癲癇藥（最常見）、睡眠不足、飲酒或戒酒、感染發燒、壓力、閃光刺激、月經週期。\n- 急性症狀性發作：腦部結構性病變（中風、腫瘤、外傷）加上全身性誘因（感染、敗血症），或代謝異常（低血糖、高血糖、低血鈉、低血鈣、尿毒症）。\n- 糖尿病酮酸中毒或高滲透壓狀態可造成意識改變與癲癇發作。\n\n小時候發生過單純型熱性痙攣，之後神經學功能正常，日後發生癲癇的風險只比一般人略高（約 1–2%），不是癲癇的誘發因素，故 (A) 最不可能。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -22979,7 +22979,7 @@
       "D": "對口服藥物藥效波動大的患者，視丘下核（subthalamic nucleus）刺激術是有效的治療選擇"
     },
     "answer": "A",
-    "explanation": "巴金森氏症的治療原則是避免早期給予大量的左旋多巴，因為過高劑量和長期 (>5 年) 的使用，患者容易出現異動症 (dyskinesia) 與藥效波動 (fluctuations)，早期應從低劑量左旋多巴或多巴胺促效劑開始，慢慢提升治療濃度，在口服藥效果不彰的情形下再考慮手術\n\n(B) 多巴胺促效劑單獨使用在年輕、早期的帕金森患者是很好的起始治療，因為其較不易導致 dyskinesia 與 fluctuations，並可以延後開始服用左旋多巴的時間，缺點是此藥效果略差於左旋多巴，在老人較會有意識混亂、幻覺的副作用\n\n(C) 常用的多巴胺促效劑：Pramipexole (D2R+D3R)、Ropinirole (D2R)、Apomorphine (D1R+D2R)\n\n(D) 對藥物波動大、效果不彰的患者可以考慮使用深層腦刺激術 (deep brain stimulation)，在視丘下核植入電極，立體定位手術的蒼白球燒灼 (pallidotomy)、丘腦燒灼 (thalamotomy) 也是外科治療選項",
+    "explanation": "答案 (A)。\n\n**巴金森氏病的治療**\n\n- Levodopa（合併 carbidopa 或 benserazide）是最有效的藥物，是治療的黃金標準；但長期使用（尤其高劑量）容易出現動作波動（藥效減退、開關現象）與異動症，因此應使用能控制症狀的最低有效劑量，而不是愈早用大劑量愈好，故 (A) 錯誤。\n- 多巴胺致效劑（pramipexole、ropinirole、rotigotine）：作用於 D2、D3 等多種多巴胺受體，較少引起異動症，常作為年輕病人的初始治療；副作用為嗜睡、幻覺、衝動控制障礙、水腫。\n- 其他藥物：MAO-B 抑制劑、COMT 抑制劑、amantadine（改善異動症）、抗膽鹼藥物（年輕以顫抖為主者）。\n- 深部腦刺激術（視丘下核或蒼白球內側）：適用於對 levodopa 有反應、但出現明顯動作波動或異動症的病人。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -22999,7 +22999,7 @@
       "D": "散發性的庫賈氏症（sporadic Creutzfeldt-Jakob disease）診斷除臨床表現之外，目前尚需要腦波、腦部磁振造影或腦脊髓液的14-3-3蛋白檢測"
     },
     "answer": "A",
-    "explanation": "以下表格整理罹患 CJD 的原因；【112-1(四)52】也考 CJD，該詳解製表比較了典型（以散發型為代表）和變異型在臨床表現上的差異，請相互參照\n\n庫賈氏症 (Creutzfeldt-Jakob disease, CJD)：\n\n| 原由 | 比例 | 特性 |\n| :--- | :--- | :--- |\n| **散發性 (sporadic)** | 85% | 是 PrP 基因的 somatic mutation<br>迅速認知功能下降、動作障礙，發病 4 個月左右死亡 |\n| **遺傳性 (familial)** | 10-15% | 是 PrP 基因的 germ line mutation<br>症狀上和散發性類似，但病程略長一些 |\n| **後天性 (acquired)** | 1% | 醫源性 (iatrogenic)：手術污染而導致傳染<br>變異型 (variant form)：食用狂牛症的牛肉得到的屬於這種，雖少見但是比例以年輕人居多，除了神經退化外會有精神症狀（如憂鬱、焦慮等），發病 1 年多左右死亡 |\n\n(A) 以前在 prion disease 尚未明瞭之前，的確以為是病毒感染的結果，後來才知道是由於 encode prion 蛋白的基因發生突變才會使蛋白折疊發生異常，和任何病毒或微生物都無關\n\n(D) sporadic CJD 的 definite diagnosis 要靠西方墨點法確認有抵抗 protease 的 PRP 蛋白，但是更常使用的是 probable diagnosis，要包含三個條件：\n1. 臨床症狀一定要有快速認知功能下降 + 四項中至少兩項（肌躍、視力模糊或小腦功能失調、錐體或錐體外路徑功能異常、緘默不語症）\n2. 三項中其中一項有典型異常 (1) EEG periodic shock wave complex (2) MRI 在 caudate 或 putamen 有 T2 high density (3) CSF 14-3-3 蛋白陽性\n3. 排除其他診斷",
+    "explanation": "答案 (A)。\n\n**普里昂疾病**\n\n- 致病原是錯誤摺疊的普里昂蛋白，本身不含核酸，可誘導正常的普里昂蛋白也錯誤摺疊並堆積，造成海綿狀腦病變；並不是病毒感染造成的，故 (A) 錯誤。\n- 分類：散發性（最多，約 85%）、遺傳性（PRNP 基因突變）、後天性（醫源性、變異型）。\n- 散發性庫賈氏病：\n  - 60 歲左右，快速進展的失智（數週到數月），合併肌陣攣、小腦失調、視覺障礙、錐體與錐體外症狀，可有全身症狀。\n  - 多數在 1 年內死亡。\n  - 診斷：腦波週期性尖銳波複合波、MRI 擴散加權影像皮質（緞帶徵象）或基底核高訊號、腦脊髓液 14-3-3 蛋白；RT-QuIC 檢測敏感度與特異度更高。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -23019,7 +23019,7 @@
       "D": "肌萎縮性側索硬化（amyotrophic lateral sclerosis）"
     },
     "answer": "C",
-    "explanation": "不自主動作是 hyperkinesia 的典型表現，而選項中就只有 (C) 亨丁頓氏病屬於 hyperkinetic movement disorder（另一個熟悉的名稱為亨丁頓舞蹈症，很容易就能聯想到了！），其餘選項和本題症狀皆不相符\n\n有關亨丁頓氏病 (Huntington disease) 的重點整理如下：\n• 自體顯性遺傳，為 Huntingtin 蛋白基因 (HTT) 的 CAG repeat 過多，造成變異的蛋白在腦中累積，以紋狀體的 GABA 神經元退化最明顯\n• 平均發病年齡約為 35~44 歲之間，且每傳一代 CAG repeat 數會增加（≥ 36~121 次基因就會異常），發病時間也越早，此為 anticipation 現象（如同本題王小姐發病年齡較父親早）\n• 臨床症狀 triad：動作障礙（主要以舞蹈症表現）、認知障礙、精神 / 行為異常",
+    "explanation": "答案 (C)。\n\n**亨丁頓舞蹈症**\n\n- 體染色體顯性遺傳，HTT 基因的 CAG 重複擴增（≥ 40 次必定發病）；具有預期現象（anticipation），尤其父系遺傳時下一代發病年齡較早。\n- 好發於 30–50 歲。\n- 三大表現：\n  1. 動作障礙：舞蹈症（擠眉弄眼、聳肩、扭動等不自主、不規則的動作），後期轉為僵硬與肌張力不全\n  2. 認知障礙：執行功能下降，進展為皮質下失智\n  3. 精神症狀：憂鬱、焦慮、易怒、精神病，自殺率高\n- 影像：尾狀核萎縮，側腦室前角呈「盒狀」擴大。\n- 治療：tetrabenazine、deutetrabenazine 控制舞蹈症；抗精神病藥物；遺傳諮詢。\n\n本題女性 40 歲出現舞蹈症與認知退化，父親有相似症狀且自殺，最符合亨丁頓舞蹈症。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -23039,7 +23039,7 @@
       "D": "運動神經元疾病（motor neuron disease）"
     },
     "answer": "D",
-    "explanation": "此題考各疾病是屬於 fluctuating weakness 或 slowly progressive weakness，前者 'fluctuating' 指短時間（數小時～數天）的變動，常見鑑別診斷如下：\n\n| 疾病 | 類型 | 特徵 |\n| :--- | :--- | :--- |\n| **myasthenia gravis** | 神經肌肉接合處 (NMJ) 疾病 | 愈用愈沒力 (worsen with repetition) |\n| **Lambert-Eaton myasthenic syndrome** | 神經肌肉接合處 (NMJ) 疾病 | 疾病初期，愈用愈有力 (improve with repetition) |\n| **periodic paralysis (hyperkalemia)** | 先天遺傳（主要） | 發作頻率變異度大（一生一次～一週數次）、每次發作可數分鐘～幾天才自然恢復正常 |\n| **periodic paralysis (hypokalemia)** | 先天遺傳（主要）<br>後天：<br>- 甲狀腺亢進（任何原因）<br>- 腎 / 腸胃道 / 內分泌流失鉀 | 發作頻率變異度大（一生一次～一週數次）、每次發作可數分鐘～幾天才自然恢復正常 |\n\n若把一些會不時發作 (attack)、平時正常的神經疾病納入，則包括多發性硬化症 (multiple sclerosis)、紫質症 (porphyria) 等\n\n(D) 運動神經元疾病—如最常見的肌萎縮性脊髓側索硬化症 (amyotrophic lateral sclerosis)—病程一般而言都是 progressive 的",
+    "explanation": "答案 (D)。\n\n**波動性或間歇性無力的原因**\n\n| 疾病 | 特點 |\n| --- | --- |\n| 重症肌無力 | 活動後加劇、休息後改善，眼瞼下垂、複視 |\n| Lambert-Eaton 肌無力症候群 | 近端無力，反覆用力後短暫改善；自主神經症狀、反射減弱；與小細胞肺癌相關 |\n| 週期性麻痺 | 反覆發作的無力，持續數小時至數天，發作間正常；與血鉀異常相關 |\n| 甲狀腺毒性低血鉀週期性麻痺 | 亞洲年輕男性，高碳水化合物飲食或運動後發作 |\n| 多發性硬化症 | 體溫上升時症狀暫時加重（Uhthoff 現象） |\n\n運動神經元疾病（如 ALS）的無力是持續且逐漸惡化的，不會有波動或間歇性的表現。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -23059,7 +23059,7 @@
       "D": "以類固醇治療為主"
     },
     "answer": "A",
-    "explanation": "發炎性肌肉病變共有 4 種：dermatomyositis（皮肌炎 / DM）、polymyositis（多發性肌炎 / PM）、immune-mediated necrotizing myopathy（免疫引起肌肉壞死之肌肉病變 / IMNM）、inclusion body myositis（包涵體肌炎 / IBM），重點比較整理如下：\n\n| | 皮肌炎 / DM | 多發性肌炎 / PM | 免疫引起肌肉壞死之肌肉病變 / IMNM | 包涵體肌炎 / IBM |\n| :--- | :--- | :--- | :--- | :--- |\n| **onset** | subacute | subacute | acute/subacute | slow |\n| **無力的表現** | 對稱：近端 > 遠端；伴隨典型 rash 表徵 | 對稱：近端 > 遠端 | 不對稱：近端 > 遠端 | 不對稱：以股四頭肌、手指無力為多（近、遠端皆有） |\n| **creatine kinase (x 正常值上限)** | 高 10-50 倍 | 高 10-50 倍 | 極高 > 50 倍 | 微高 < 10 倍 |\n| **自體免疫抗體 \\*** | anti-MDA5, anti-Mi2, anti-TIF1, anti-NXP2 | antisynthetase antibodies (anti-Jo-1 為代表) | anti-SRP 和 anti-HMGCR (專一性 for IMNM) | anti-cN1A |\n| **肌肉切片** | perivascular perimysial perifascicular CD4+ 浸潤 + perifascicular atrophy | perivascular endomysial CD8+ 浸潤 | necrotic fibers + 補體沉積在微血管 | perivascular endomysial CD8+ 浸潤 + autophagic vacuoles |\n| **常合併病症** | 心肌炎、間質性肺炎、結締組織疾病、血管炎；癌症 | 間質性肺炎、結締組織疾病、血管炎；anti-synthetase syndrome (肌炎 + 關節炎 + 雷諾氏現象 + mechanic's hand + 間質性肺炎) | 癌症、結締組織疾病、statin 藥物 | 結締組織疾病 |\n\n\\* 自體免疫抗體方面：間質性肺炎與 anti-MDA5、antisynthetase antibodies (anti-Jo-1 為代表) 有關；癌症與 anti-TIF1、anti-NXP2 有關\n\n(A) 錯誤，複視 (diplopia) 是重症肌無力 (Myasthenia Gravis) 侵犯眼外肌的典型表現，發炎性肌病變（PM/DM）主要侵犯近端肢體骨骼肌，極少侵犯眼外肌，故不會出現複視\n(B) 皮肌炎容易合併癌症，但並無特定哪個癌別，因流病統計皮肌炎患者相關的癌症就是普遍盛行率較高的癌症（肺、乳、卵巢癌等），較特定有關的是「亞洲皮肌炎患者」與「鼻咽癌」\n(C) PM/DM 主要為侵犯近端肢體肌肉，近端 > 遠端\n(D) 發炎性肌肉病變第一線治療以高劑量類固醇為主",
+    "explanation": "答案 (A)。\n\n**多發性肌炎**\n\n- 自體免疫發炎性肌肉病變，好發於成人。\n- 表現：數週至數月內逐漸出現對稱性近端肢體無力（梳頭、起身、爬樓梯困難），頸部屈肌無力，吞嚥困難；可合併間質性肺病、心肌炎、關節炎。\n- 眼外肌與臉部肌肉幾乎不受影響，不會出現複視；若有複視或眼瞼下垂，要考慮重症肌無力，故 (A) 錯誤。\n- 檢查：CK 上升、肌電圖肌病變型態、肌肉切片（CD8+ T 細胞浸潤）、肌炎特異性抗體（如 anti-Jo-1）。\n- 與惡性腫瘤的相關性較皮肌炎低，但仍有少數合併癌症。\n- 治療：類固醇為主，合併 methotrexate、azathioprine 或 mycophenolate；嚴重時用 IVIG。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -23079,7 +23079,7 @@
       "D": "頸椎第五節（C5）脊髓休克"
     },
     "answer": "D",
-    "explanation": "題幹敘述四肢運動與感覺功能都喪失，代表比較是一個高位的 spinal cord injury，符合四個選項所述頸椎第五節的位置，另外佐以 anal reflex 與 bulbocavernous reflex 都沒有，代表是一個 complete spinal cord injury，屬於 ASIA impairment scale 分類的 type A\n\n(A) 前脊髓損傷對於本體感覺比較不會受到影響\n(B) 反之，後脊髓損傷一般影響的是 posterior column 居多，較不影響運動功能\n(C) 運動與感覺功能確實都會影響，但並不會完全消失，近端或下肢的功能通常不會太差\n\nSpinal shock 不是一般的休克（但確實可能有低血壓表現），而是用來代表 spinal cord 受到損傷時暫時性的失去 reflex 與感覺運動功能，文獻記載發生 spinal shock 後會先進到 areflexia 的狀態，而後慢慢恢復甚至會有一陣子出現 hyper-reflexia 的情形，雖然初始症狀看起來很可怕，但如果 spinal cord 沒有壞死，一般 spinal shock 會在 24-48 小時內開始逐漸恢復，但要完全復原可能會花上幾週的時間\n\n其他考點：\n• 關於常見 spinal cord injury 的整理可以參考【112-2(六)60】的詳解\n• ASIA impairment scale 用來分辨 spinal cord injury 的嚴重程度：\n\n| ASIA scale | Injury type | 描述 |\n| :--- | :--- | :--- |\n| **A** | Complete | 完全沒有運動、感覺功能（也無 sacral sparing） |\n| **B** | Incomplete | 沒有運動功能，但是仍有感覺功能 |\n| **C** | Incomplete | 在該 level 至少 50% 的肌力 < 3 分 |\n| **D** | Incomplete | 在該 level 至少 50% 的肌力 ≥ 3 分 |\n| **E** | Normal | 完全正常的運動與感覺功能 |",
+    "explanation": "答案 (D)。\n\n**脊髓休克**\n\n- 脊髓急性損傷後，損傷平面以下暫時失去所有反射活動，表現為弛緩性癱瘓、感覺喪失、深部肌腱反射消失、肛門反射與球海綿體肌反射消失。\n- 通常持續數天到數週；球海綿體肌反射恢復通常代表脊髓休克期結束（多在 24–48 小時內）。\n- 脊髓休克結束後，才能準確判斷損傷是完全性或不完全性：若此時損傷平面以下仍無任何運動與感覺功能（包括薦髓 S4–S5），屬於完全性損傷。\n- 頸椎第五節損傷常見於跳水撞擊頭部（頸椎過度屈曲或軸向壓迫）。\n\n本題四肢運動感覺全失，且球海綿體肌反射與肛門反射消失，代表仍處於脊髓休克期。\n\n| 不完全損傷症候群 | 表現 |\n| --- | --- |\n| 前脊髓症候群 | 運動與痛溫覺喪失，本體感覺與震動覺保留 |\n| 中央脊髓症候群 | 上肢無力比下肢嚴重，常見於老年人頸部過度伸展 |\n| 後脊髓症候群 | 本體感覺喪失，運動保留（少見） |\n| Brown-Séquard 症候群 | 同側運動與本體感覺喪失，對側痛溫覺喪失 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -23099,7 +23099,7 @@
       "D": "病人可能合併疲倦及沮喪等症狀"
     },
     "answer": "B",
-    "explanation": "(A) 多發性硬化症是自體免疫疾病的一種，機轉為 T 細胞攻擊中樞神經白質使神經去髓鞘化，且在時序和位置上多發 (dissemination in time & space)\n\n(B) 錯誤，多發性硬化症是緯度愈高、天氣愈冷的地區發生率愈高（在北歐、英國與紐西蘭的發生率為熱帶國家的 10~20 倍），目前認為相關的風險因子包含人種、UVB、vitamin D 等\n\n(C) (D) 由於多發性硬化症可發作在不同位置的中樞神經，因此初始症狀非常多樣，最常見的症狀包含感覺喪失、視神經炎（單側視力減弱、眼痛）、無力或麻木感；另外作用在大腦可表現疼痛、疲倦、憂鬱沮喪、認知功能受損等\n\n其他考點：\n• 多發性硬化症 (MS) 和視神經脊髓炎 (NMO) 兩種疾病很常拿來比較！相似處為兩種病皆好發於壯年女性，病程常以 relapsing & remitting 表現，以及常見視神經炎；相異處為 MS 是 T-cell mediated，為去髓鞘化疾病，NMO 則是 B-cell mediated（自體抗體攻擊 AQP4，表現在 astrocyte 上），另外 NMO 較會有長節段橫貫性的脊髓炎 (LETM)，患者的生活品質與預後都較差，有別於 MS，NMO 的治療不包括口服類固醇，建議同學們複習時將這兩種疾病一起準備",
+    "explanation": "答案 (B)。\n\n**多發性硬化症（MS）**\n\n- 中樞神經系統的自體免疫發炎性去髓鞘疾病，病灶在時間上與空間上多發。\n- 好發於 20–40 歲女性。\n- 地理分布：離赤道越遠（高緯度）的地區發生率越高，可能與日照少、維生素 D 不足有關；台灣等亞洲國家相對少見，故 (B) 錯誤。\n- 其他危險因子：EB 病毒感染、抽菸、肥胖、HLA-DRB1*15:01。\n- 常見初始症狀：視神經炎（單側視力下降、眼球轉動疼痛）、感覺異常、肢體無力、複視、Lhermitte 徵象。\n- 其他常見症狀：疲倦（最常見）、憂鬱、認知障礙、膀胱功能障礙、熱敏感（Uhthoff 現象）。\n- MRI：腦室周圍白質垂直於腦室的病灶（Dawson's fingers）、皮質旁、幕下、脊髓病灶。\n- 腦脊髓液：寡株帶（oligoclonal bands）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -23119,7 +23119,7 @@
       "D": "APP"
     },
     "answer": "D",
-    "explanation": "唐氏症患者在進入中壯年後罹患阿茲海默症 (AD) 的風險漸高，30% 患者在 50 多歲時有 AD，50% 患者在 60 多歲時罹病，原因與多一條第 21 對染色體有關，其上帶有與 AD 病理學密切相關的 APP gene，會轉錄 β 型類澱粉蛋白前驅蛋白 (Amyloid-beta Precursor Protein)，40 歲之後的唐氏症患者幾乎都可發現 β 型澱粉樣蛋白的不正常堆積",
+    "explanation": "答案 (D)。\n\n**唐氏症與阿茲海默症**\n\n- 類澱粉前驅蛋白（APP）基因位於第 21 對染色體。\n- 唐氏症（三染色體 21）病人有三套 APP 基因，APP 與 β 類澱粉蛋白製造增加，因此 40 歲以後幾乎都有阿茲海默症的神經病理變化（類澱粉斑塊與神經纖維糾結），多數在 50–60 歲出現臨床失智。\n\n| 基因 | 位置 | 角色 |\n| --- | --- | --- |\n| APP | 第 21 對染色體 | 體染色體顯性家族性阿茲海默症、唐氏症 |\n| PSEN1 | 第 14 對染色體 | 早發型家族性阿茲海默症最常見的原因 |\n| PSEN2 | 第 1 對染色體 | 早發型家族性阿茲海默症 |\n| APOE ε4 | 第 19 對染色體 | 晚發型阿茲海默症最重要的遺傳危險因子 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -23139,7 +23139,7 @@
       "D": "病人腦壓升高時，可能會出現心跳變快、血壓上升及呼吸不規則的變化"
     },
     "answer": "C",
-    "explanation": "(A) 化膿性腦膜炎的病人常見症狀是發燒 (77%)、頭痛 (87%)、頸部僵硬 (31%) 與意識改變 (GCS < 14, 69%)，約 95% 的患者會同時表現其中兩項，但同時出現三者的比率並沒有那麼高；此外，腦壓升高也是常見的發現，90% 以上患者 CSF opening pressure > 18 cmH2O，腦壓高的症狀為 (D) Cushing triad：高血壓、心跳減慢及呼吸不規律\n\n(B) 常見感染菌包含：group B streptococcus (S. pneumoniae, 30-60%) > Neisseria meningitidis (10-35%) > Listeria monocytogenes (5-10%) > H. influenzae (<5%)\n\n(C) 最常見的 S. pneumoniae，治療給予第三代能穿過 BBB 的抗生素為主，正常成年人會經驗性使用 Ceftriaxone + Vancomycin 作為治療組合",
+    "explanation": "答案 (C)。\n\n**急性化膿性（細菌性）腦膜炎**\n\n- 典型三聯徵（發燒、頸部僵硬、意識改變）同時出現的比例不到一半（約 40–45%），但幾乎所有病人至少有其中兩項（加上頭痛），故 (A) 錯誤。\n- 成人最常見的致病菌是肺炎鏈球菌，其次為腦膜炎雙球菌；B 群鏈球菌主要見於新生兒，在所有年齡層的比例並非 5%，故 (B) 錯誤。\n- 經驗性治療：成人使用第三代頭孢菌素（ceftriaxone 或 cefotaxime）加上 vancomycin，以涵蓋具 penicillin 抗藥性的肺炎鏈球菌；50 歲以上或免疫不全者再加 ampicillin（李斯特菌），故 (C) 正確。\n- 顱內壓升高時，會出現庫欣反應（Cushing reflex）：心跳變慢、血壓上升（脈搏壓變寬）、呼吸不規則，而不是心跳變快，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -23159,12 +23159,12 @@
       "D": "病人表示同事在走廊聊天，就是互傳訊息，想要聯手對付他，是一種控制（control）妄想"
     },
     "answer": "B",
-    "explanation": "整理選項中以及國考常見的幾種妄想：\n\n| 妄想種類 | 內容說明 |\n| :--- | :--- |\n| **關係妄想 (referential)** | 將與自己無關的事認為與自己相關 → (D) |\n| **被害妄想 (persecutory)** | 認為周遭某些人對自己進行監視、誣陷、謀害等 → (A) |\n| **虛無妄想 (nihilistic)** | 認為這世界與一切已經不復存在了 |\n| **誇大妄想 (grandeur)** | 認為自己的能力、財富、地位、權勢等高人一等 → (B) 正確 |\n| **忌妒妄想 (jealousy)** | 認為自己的另一半對自己感情不忠 |\n| **控制妄想 (control)** | 認為自己的行為與想法是被外力控制與指揮 |\n| **鍾情妄想 (being loved)** | 認為對方對自己產生愛意，即使對方否認仍堅持此想法 → (C) |\n\n另外補充幾個常見易混淆的名詞：\n\n| 名詞 | 定義維度 | 說明與舉例 |\n| :--- | :--- | :--- |\n| **妄想 (delusion)** | Thought 之中的 Content（思考內容） | 不可動搖的信念（以前作 unshakable false belief，DSM-5 把 'false' 刪除）<br>如：深信自己就是某個神明的後世 |\n| **幻覺 (hallucination)** | Perception（知覺） | 無中生有，五官中某些知覺感知到了不存在的東西<br>如：窗外沒東西，但是有看到人影 |\n| **錯覺 (illusion)** | Perception（知覺） | 有外在刺激，只是感知使得以為是另一回事<br>如：窗外有樹木，但是看成人影 |",
+    "explanation": "答案 (B)。\n\n**妄想的類型**\n\n| 類型 | 內容 |\n| --- | --- |\n| 被害妄想 | 相信自己被跟蹤、陷害、下毒（最常見） |\n| 關係妄想 | 認為周遭的事物（別人的談話、新聞）都與自己有關或在針對自己 |\n| 誇大妄想 | 相信自己有特殊能力、身分、財富或使命（如神仙下凡、救世主） |\n| 情愛妄想（被愛妄想） | 相信某人（常是地位較高者）愛上自己 |\n| 忌妒妄想 | 堅信伴侶不忠 |\n| 虛無妄想 | 相信自己或世界不存在、器官已經腐爛（常見於嚴重憂鬱症） |\n| 被控制妄想 | 相信自己的想法或行為被外力控制 |\n| 身體妄想 | 相信身體有疾病或異常 |\n\n- (A) 相信同事受指使要殺害自己，是被害妄想。\n- (C) 相信同事愛上自己，是情愛妄想。\n- (D) 認為同事聊天是在互傳訊息對付他，屬於關係妄想合併被害妄想。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第一篇 內科學",
-    "chapter": "神經內科",
-    "category": "神經內科"
+    "section": "第四篇 其他科",
+    "chapter": "精神科",
+    "category": "精神科"
   },
   {
     "id": "112-2-醫學(四)-60",
@@ -23179,12 +23179,12 @@
       "D": "顳葉癲癇（temporal lobe epilepsy）可能導致嗅幻覺"
     },
     "answer": "C",
-    "explanation": "雖然選項內容偏細，但 (C) 現實感佳明顯不符合物質成癮的精神症狀，靠語意就能作答\n\n(A) 觸幻覺 (tactile hallucination) 是古柯鹼成癮典型的症狀之一，病人通常會感覺手腳發癢，或是形容有蟲子在皮膚表面或身體裡爬行，因此也被稱為 delusional parasitosis\n\n(B) 被害妄想 (persecutory delusion) 是物質 / 藥物引發的妄想症中最常見的，其中使用安非他命類藥物的病人中約 77% 出現被害妄想，是最常見的精神病症\n\n(D) 人體的嗅覺皮質 (olfactory cortex) 位於顳葉的鉤迴、旁海馬迴與杏仁核，因此顳葉癲癇通常也會合併嗅幻覺，其他症狀包含聽幻覺、味幻覺、情緒或記憶紊亂等",
+    "explanation": "答案 (C)。\n\n**物質或藥物引起的精神病症**\n\n- 常見物質：安非他命、古柯鹼、大麻、酒精（戒斷或幻覺症）、類固醇、抗膽鹼藥物、levodopa。\n- 特點：\n  - 妄想以被害妄想最常見。\n  - 幻覺：視幻覺與觸幻覺較常見；古柯鹼與安非他命特別容易有觸幻覺，例如覺得皮膚下有蟲在爬（formication）。\n  - 病人的現實感受損（不了解幻覺或妄想是由物質引起的）；若病人知道是藥物造成的，則不診斷為物質引起的精神病症，故 (C) 錯誤。\n- 其他醫學疾病也可能造成精神病症狀，例如顳葉癲癇可引起嗅幻覺與味幻覺，常出現在發作前的先兆。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第一篇 內科學",
-    "chapter": "神經內科",
-    "category": "神經內科"
+    "section": "第四篇 其他科",
+    "chapter": "精神科",
+    "category": "精神科"
   },
   {
     "id": "112-2-醫學(四)-61",
