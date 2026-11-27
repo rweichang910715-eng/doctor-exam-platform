@@ -17947,7 +17947,7 @@
       "D": "術後百分之九十血壓恢復正常，不需再服用任何高血壓藥物"
     },
     "answer": "D",
-    "explanation": "病人有高血壓且有右腎上腺腫塊，因此鑑別診斷首要懷疑腎上腺的疾病，包括嗜鉻細胞瘤和原發性高醛固酮症 (primary hyperaldosteronism, PA)，其中 PA 又包含以下：\n\n| primary hyperaldosteronism | 佔比 | 初步鑑別 | 治療 |\n| :--- | :--- | :--- | :--- |\n| **腎上腺增生 (adrenal hyperplasia)** | 70% | 多雙側 | 內科療法 spironolactone |\n| **腎上腺腺瘤 (adrenal adenoma，又稱 Conn's syndrome)** | 25% | 多單側 | 腎上腺切除 |\n| **腎上腺 (功能性) 惡性腫瘤** | 5% | | 腎上腺切除 |\n\n客觀線索 urine VMA 正常（成人正常值 < 7 mg/24 hrs）、低血鉀都傾向診斷為 PA 而非嗜鉻細胞瘤，病人而後做了 PA 的確認試驗 'oral salt loading test'（也稱 salt suppression test），當給予高鈉飲食，生理回饋機制仍不能抑制腎上腺素分泌（在尿鈉 >200 mEq/d 時，尿 aldosterone > 12 μg/day），則確診 PA（本題給的是血清 aldosterone，參考值版本多，但很少 > 30 ng/dl），加上影像顯示為單側單顆，腺瘤可能機會大，治療以腹腔鏡腎上腺切除為主，從前側（經腹腔）或後腹腔都可，術後的高血壓，統合分析 (Zhou et al., 2017, BMC Endocr Disord.) 顯示約 50% 單側 PA 患者血壓會恢復正常（UpToDate 章節中，數篇文獻數字介入 30-65%），(D) 錯誤",
+    "explanation": "答案 (D)。\n\n**原發性高醛固酮症（醛固酮瘤）**\n\n- 線索：高血壓合併低血鉀，停藥並給予高鹽飲食後醛固酮仍高（32.2 ng/dL）、腎素被抑制（0.2 ng/mL/h），醛固酮/腎素比值明顯升高，CT 顯示右側腎上腺小腫瘤。\n- 診斷步驟：篩檢（醛固酮/腎素比值）→ 確認試驗（生理食鹽水輸注、captopril、口服鹽負荷）→ CT → 腎上腺靜脈取樣確認是單側分泌（35 歲以上尤其需要，因為非功能性腺瘤很常見）。\n- 治療：\n  - 單側醛固酮瘤：腹腔鏡腎上腺切除術（經腹腔或經後腹腔皆可）。\n  - 雙側增生或不適合手術：mineralocorticoid 受體拮抗劑（spironolactone、eplerenone）。\n- 術後結果：低血鉀幾乎都能矯正；但高血壓完全治癒（不需任何降壓藥）的比例只有約 30–60%，其餘仍需藥物，但血壓較好控制。長期高血壓、高齡、家族史、腎功能不佳者較不容易完全治癒，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -17967,7 +17967,7 @@
       "D": "圖(b)在超音波若看不到，即可不必安排mammography-guided biopsy"
     },
     "answer": "D",
-    "explanation": "圖 (a) 可以看到箭頭所指的是一個明顯像爆米花狀的實心鈣化，分類是屬於良性病灶，也就是 BI-RADS 2，圖 (b) 看到的則是多個點狀且其中圈起來的某些會沿著線狀排列，屬於 linear calcifications，而且每個點的形狀與大小不盡相同，為 heterogeneous，惡性可能較高，較像是 BI-RADS 4\n\n基本上 BI-RADS 2 可以大致包含：桿狀（比線性更粗一點）、圓環狀、較大的圓形或爆米花形固體、軌道狀等，而 BI-RADS 4 包含像沙子般灑在畫面上的 amorphous、線性排列且有分支、較細的線狀且大小不一\n\n底下附上乳房攝影的 BI-RADS 分類，基本上只要是 BI-RADS 1、2 都可以不用進行切片，BI-RADS 3 則要追蹤一陣子再決定，而 BI-RADS 4、5 基本上都要切片，因此 (D) 是錯誤的\n\n| BI-RADS 分期 | 意義 | 下一步 |\n| :--- | :--- | :--- |\n| **0** | 無法判斷 | 做其他乳房檢查 |\n| **1** | 沒有病灶 | 定期篩檢 |\n| **2** | 良性病灶 | |\n| **3** | 可能良性 | 需要追蹤 |\n| **4a** | 低度可能惡性 | 需要做切片 |\n| **4b** | 中度可能惡性 | |\n| **4c** | 高度可能惡性 | |\n| **5** | 極可能惡性 | |\n| **6** | 病理已確認惡性 | 進行治療 |",
+    "explanation": "答案 (D)。\n\n**乳房攝影的鈣化與 BI-RADS**\n\n| 鈣化型態 | 意義 | BI-RADS |\n| --- | --- | --- |\n| 粗大或爆米花樣鈣化（退化性纖維腺瘤）、血管鈣化、圓形、中心透亮、雞蛋殼樣 | 典型良性 | 2 |\n| 無定形、粗糙不均質 | 中度懷疑 | 4 |\n| 細小多形性、細線狀或細分枝狀（沿乳管分布） | 高度懷疑（常見於乳管原位癌） | 4C–5 |\n\n- 圖 (a) 為粗大鈣化，屬於良性（BI-RADS 2），不需切片。\n- 圖 (b) 為線狀微鈣化，屬於可疑惡性（BI-RADS 4 以上），需要切片。微鈣化常無法在超音波下看到，此時應以乳房攝影導引（立體定位）的真空輔助切片取得組織，不能因為超音波看不到就不切片，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
@@ -17990,7 +17990,7 @@
       "D": "invasive carcinoma做乳房全切除，發現1顆metastatic sentinel lymph node，應做axillary lymph nodedissection（ALND）"
     },
     "answer": "B",
-    "explanation": "(A)(B) 選項：ductal carcinoma in situ (DCIS) 被視為乳癌的最早期，手術切除時不需要做淋巴結廓清，但由於仍有一小部分的術前診斷可能是錯誤的，故術中應做 sentinel lymph node biopsy 來確定沒有淋巴轉移\n(C)(D) 選項：侵襲性乳癌 (Invasive breast cancer) 只要完全符合 (1) 腫瘤小於 5 公分 (T1-T2)、(2) 小於三顆轉移的 sentinel lymph nodes，加上 (3) 完成乳房保留手術合併術後放療的情況下，是不需要進行腋下淋巴結廓清術，但只要沒有意願做術後放療，即使只有一顆轉移的 sentinel lymph nodes 也需要進行廓清術",
+    "explanation": "答案 (B)。\n\n**乳癌腋下淋巴結評估**\n\n- 乳管原位癌（DCIS）理論上不會轉移，一般不需要前哨淋巴結切片。\n- 例外：術前診斷為 DCIS，但預計做全乳房切除（術後就無法再找前哨淋巴結），或病灶大、可觸摸、高惡性度（懷疑合併侵襲癌）時，應在手術中同時做前哨淋巴結切片，故 (B) 錯誤。\n- 侵襲性乳癌：\n\n| 情況 | 前哨淋巴結 1–2 顆轉移 |\n| --- | --- |\n| 乳房保留手術加全乳放療與全身治療（ACOSOG Z0011） | 可不做腋下淋巴廓清 |\n| 全乳房切除 | 傳統上需腋下淋巴廓清，或以腋下放療取代（AMAROS 試驗） |\n\n**補充**：腋下淋巴廓清的主要併發症是淋巴水腫與肩部活動受限。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -18010,7 +18010,7 @@
       "D": "若小美接受紫杉醇後第10天測得嗜中性白血球（absolute neutrophil count, ANC）降至900/mm3，即使無症狀仍建議施打白血球生長素（granulocyte colony stimulating factor, G-CSF）"
     },
     "answer": "B",
-    "explanation": "(A) 小紅莓類藥物才具心毒性（e.g. doxorubicin；補充：HER2(+) 乳癌用的標靶藥物 trastuzumab [Herceptin] 也是會有心臟毒性的藥物）；紫杉醇類則是具神經毒性\n(B) 正確，化療造成的白血球低下 (chemotherapy-induced neutropenia, CIN) 在 10-14 天最低這個概念同學想必都不陌生，怕忘記的話，知道正常骨髓製造白血球的時間大約就是 10-14 天\n(C) 周邊神經病變是紫杉醇最常見的副作用之一，症狀包含手腳麻木、無力、抽筋等；另外紫杉醇也可造成皮膚（皮疹、掉髮）、腸胃道（噁心嘔吐、腹瀉、黏膜破損）、內分泌（水腫、高血脂）等副作用\n(D) 白血球生長素 (G-CSF) 在化療病人有 (1) WBC<1000/mm³ 或 ANC<500/mm³；(2) 嗜中性白血球過低而併發嚴重感染；(3) 化療為 high-risk regimen 才建議施打來預防 febrile neutropenia，小美的 ANC ≥ 500 且無症狀，因此不建議常規使用",
+    "explanation": "答案 (B)。\n\n**乳癌化學治療藥物的副作用**\n\n| 藥物 | 主要副作用 |\n| --- | --- |\n| Anthracycline（doxorubicin、epirubicin） | 骨髓抑制（白血球最低點約在第 10–14 天）、心臟毒性（累積劑量相關，用藥前應評估心臟功能）、掉髮、噁心嘔吐、次發性白血病、外滲時組織壞死 |\n| Taxane（paclitaxel、docetaxel） | 周邊神經病變（手腳麻刺）、過敏反應、骨髓抑制；docetaxel 可造成體液滯留（下肢水腫）、指甲變化、手足症候群 |\n\n- (A) 心臟毒性主要是 anthracycline，taxane 不需常規評估心臟功能。\n- (C) 手腳刺麻、泛紅與下肢水腫較可能是 taxane 造成。\n- (D) 無發燒的嗜中性球低下（ANC 900/mm³）不需治療性給予 G-CSF；G-CSF 主要用於預防（發燒性嗜中性球低下風險 > 20% 的化療處方），或已有發燒性嗜中性球低下的高風險病人。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -18030,12 +18030,12 @@
       "D": "睪丸手術固定即可降低患側睪丸癌風險"
     },
     "answer": "B",
-    "explanation": "(A) 隱睪症的診斷主要靠睪丸觸診（再由腹腔鏡檢查確認），但可能有偽陽性狀況，如天冷或小孩緊張，提睪肌收縮而睪丸被拉近鼠蹊部、小孩皮下脂肪太厚等，摸不到睪丸也可能是其他疾病，如無睪丸畸形 (anorchia)\n(B) 由於未下降的睪丸於腹腔中溫度過高，最早 6 個月大時就可能傷害製造精子的環境，2 歲時影響精子生成 (spermatogenesis)；因此，睪丸固定術 (orchiopexy) 的手術時機建議 6-12 月大時施行\n(C) 取決手術時間點，若已有不可逆的傷害，則生育力不會恢復\n(D) 罹患睪丸癌的風險被認為在出生前就已決定，而發生隱睪症則透露睪丸是易出錯的，未來更可能有癌症，卻不代表隱睪症會直接促成睪丸癌，上述論調是基於流行病學觀察：隱睪症患側有 2-8 倍較正常人罹患睪丸癌的風險，其正常側睪丸也有近 2 倍的睪丸癌風險，2007 年一篇 NEJM 研究發現，13 歲前施行睪丸固定術的人較正常人有 2.2 倍罹患睪丸癌的風險，13 後施行則有 5.4 倍風險，他們得出「青春期前接受睪丸固定術可降定睪丸癌風險」的結論，本選項敘述上有瑕疵，但筆者認為是想考「接受手術並不能降低隱睪症患者較易罹患睪丸癌」的事實\n\n參考資料：A Pettersson, et al. (2007). Age at surgery for undescended testis and risk of testicular cancer. NEJM, 356(18), 1835-1841.",
+    "explanation": "答案 (B)。\n\n**隱睪症**\n\n- 觸診陰囊沒有睪丸，需區分：可回縮睪丸（可推入陰囊並停留）、可觸摸但未降的隱睪、摸不到的睪丸（腹腔內或睪丸缺如），不能僅憑一次觸診就確診，故 (A) 錯誤。\n- 出生後 6 個月內仍可能自行下降；6 個月後仍未下降，應在 18 個月前（最好 6–12 個月）接受睪丸固定術。\n- 睪丸留在較高溫的環境中，約 1–2 歲以後生殖細胞就開始受損，故 (B) 正確。\n- 手術後的生育能力：單側隱睪者生育率接近正常，雙側隱睪者仍明顯下降，不保證完全恢復，故 (C) 錯誤。\n- 睪丸癌風險：隱睪增加睪丸癌風險（約 2–8 倍），青春期前固定可降低但無法回到一般人的水準，且主要好處是便於自我檢查與早期發現，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "section": "第四篇 其他科",
+    "chapter": "泌尿科",
+    "category": "泌尿科"
   },
   {
     "id": "112-1-醫學(五)-46",
@@ -18050,12 +18050,12 @@
       "D": "復發"
     },
     "answer": "A",
-    "explanation": "送分題！不要被騙了，幾乎所有手術最常見的短期併發症都是疼痛與出血，這題沒有出血的選項，那就選疼痛！感染也不少見，但是跟疼痛、出血相比也是少了大家\n\n猜是這樣猜啦，下表是 NEJM 一篇約 2000 人 RCT 做出來的結果，可以發現最常見的確實是出血（血腫）與疼痛，而 (D) 選項的「復發」在短期內很少見，值得一提的是這篇的 primary outcome 在看 2 年後疝氣的復發率，結果是腹腔鏡手術的 10.1% 大大超過傳統手術的 4.9%，代表腹腔鏡修補鼠蹊疝氣的復發率比傳統手術高\n\n| 術後短期併發症 | 傳統手術 | 腹腔鏡手術 |\n| :--- | :--- | :--- |\n| **血腫** | 13.6% | 16.4% |\n| **疼痛** | 3.6% | 4.2% |\n| **傷口感染** | 1.4% | 1.0% |\n| **睪丸炎** | 1.1% | 1.4% |\n| **泌尿道感染** | 0.4% | 1.0% |\n| **尿液滯留** | 2.2% | 2.8% |\n\n參考資料：L Neumayer, et al. (2004). Open mesh versus laparoscopic mesh repair of inguinal hernia. NEJM, 350(18): 1819-1827.",
+    "explanation": "答案 (A)。\n\n**鼠蹊疝氣手術的併發症**\n\n- 短期最常見的併發症是術後疼痛，其次為血清腫、血腫、尿滯留、傷口感染。\n- 長期併發症：\n  - 慢性疼痛（術後 3 個月以上，約 10%，與神經損傷或網膜有關）\n  - 復發（使用網膜無張力修補後約 1–5%）\n  - 睪丸萎縮、缺血性睪丸炎\n  - 網膜感染\n- 腹腔鏡手術相較傳統開放手術：術後疼痛與慢性疼痛較少、較快恢復，但需全身麻醉，學習曲線較長。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "外科概論",
+    "category": "外科概論"
   },
   {
     "id": "112-1-醫學(五)-47",
@@ -18070,15 +18070,15 @@
       "D": "標準治療方法為手術切除"
     },
     "answer": "C",
-    "explanation": "圖中尾骶部突出且破裂的腫瘤應為尾骶骨畸胎瘤 (sacrococcygeal teratoma)，是胎兒與新生兒腫瘤中最常見的腫瘤（女 > 男），同時也是成年以前 germ cell tumor 中最常見的畸胎瘤種類，多是良性，但兩個月大後出現者惡性機率高\n1. 症狀：胎兒時期有羊水過多、胎兒水腫，最嚴重可因盜血症候群導致胎兒高輸出性心衰竭死亡；腫瘤過大會擠壓周遭的肛門或會陰，致膀胱出口阻塞、腎積水、直腸狹窄或閉鎖\n2. 診斷：產前可由定期超音波發現，並可進一步做進階超音波或 fetal MRI；出生後根據臨床發現即可診斷，可考慮做影像學檢查確認無腹腔內病灶\n3. 預後：胎兒在懷孕週數 30 週之前或出生後 2 個月後發現者預後最差；根據型態分類，第一型和第二型惡性機率低、預後佳，第三型和第四型則相反\n4. 治療：完整的手術切除，若兩個月大後才出現者建議先做切片，惡性的情況先進行化學治療後再切除",
+    "explanation": "答案 (C)。\n\n**薦尾骨畸胎瘤**\n\n- 新生兒最常見的腫瘤，女嬰較多（約 3–4：1）。\n- Altman 分類：Type I 主要在體外，Type IV 完全在骨盆內（最難早期發現，惡性比例最高）。\n- 大型腫瘤可把肛門與會陰往前推擠，部分合併肛門直腸或泌尿道異常。\n- 產前併發症：腫瘤血流豐富造成高輸出性心衰竭、胎兒水腫、羊水過多、泌尿道阻塞、腫瘤出血或難產。\n- 預後：\n  - 產前 30 週以前診斷、合併胎兒水腫或腫瘤快速長大者，預後較差。\n  - 出生 2 個月後才診斷（多為 Type IV），惡性比例明顯上升，預後也較差。\n  因此 (C)「30 週前或出生後 2 個月後診斷者預後較佳」錯誤。\n- 治療：盡早手術完整切除腫瘤，並一併切除尾骨（未切除尾骨復發率高）；術後追蹤 AFP 監測復發。",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
       "/images/112-1/醫學(五)/page_11_img_1.jpeg"
     ],
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "小兒外科",
+    "category": "小兒外科"
   },
   {
     "id": "112-1-醫學(五)-48",
@@ -18093,7 +18093,7 @@
       "D": "上腸繫膜動脈徵候群（superior mesenteric artery syndrome）"
     },
     "answer": "A",
-    "explanation": "本題光看圖片不一定能想到對應疾病，建議用刪去法作答：膽汁性嘔吐可以先排除肥厚性幽門狹窄；上腸繫膜動脈症候群好發於年輕女性（10~30 歲），且症狀偏慢性因此也排除；十二指腸閉鎖通常在出生後 1~2 天內出現嘔吐，且影像特徵為 double bubble sign，與題目描述不符\n\n中腸旋轉不全合併扭轉 (malrotation and midgut volvulus) 源自胚胎 10~12 週的發育異常，症狀多在出生後數週內發生，一開始為膽汁性嘔吐與餵食不佳，嚴重者可導致腸缺血、休克甚至死亡；腹部 X 光可見擴張的近端腸道 (dilated proximal bowel) 與無空氣的遠端腸道 (paucity of distal bowel gas)，或是在扭轉處出現 corkscrew sign 等",
+    "explanation": "答案 (A)。\n\n**中腸旋轉不良合併扭轉**\n\n- 胚胎時期腸道旋轉與固定不完全，小腸繫膜基部很窄，容易以上腸繫膜動脈為軸心扭轉。\n- 多數在出生後第一個月內發生：原本健康的新生兒突然出現膽汁性嘔吐，是外科急症，延誤會導致整段中腸壞死。\n- 影像：\n  - 上消化道攝影（首選）：十二指腸空腸交界（Treitz 韌帶）沒有在左上腹的正常位置，十二指腸呈「螺旋狀」（corkscrew）或在扭轉處中斷。\n  - 超音波：上腸繫膜靜脈位於動脈左側，或出現「漩渦徵象」（whirlpool sign）。\n- 治療：緊急 Ladd 手術（逆時針解除扭轉、切斷 Ladd 束帶、擴大腸繫膜基部、切除闌尾）。\n\n| 鑑別 | 特點 |\n| --- | --- |\n| 十二指腸閉鎖 | 出生後數小時內嘔吐，X 光雙泡徵象，常合併唐氏症 |\n| 肥厚性幽門狹窄 | 3–6 週大，非膽汁性噴射狀嘔吐 |\n| 上腸繫膜動脈症候群 | 青少年快速消瘦後，十二指腸第三部分被壓迫 |",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
@@ -18116,12 +18116,12 @@
       "D": "血管攝影（angiography）"
     },
     "answer": "D",
-    "explanation": "X 光與超音波是最常見的初步診斷工具，X 光往往只能透露有腸阻塞，多半需借助上消化道攝影或鋇劑灌腸（後者敏感度較低），在上消化道攝影下能辨別阻塞位置，並從 corkscrew sign（開瓶器）認定為 midgut volvulus；超音波有時能看到 whirlpool sign（漩渦狀）或 SMA/SMV 位置錯置；若用腹部 CT 能更清楚看見上述 signs，但因放射線問題需審慎使用\n\n中腸扭轉並非血管阻塞問題，因此 (D) 血管攝影對診斷沒有幫助",
+    "explanation": "答案 (D)。\n\n**腸旋轉不良的診斷檢查**\n\n| 檢查 | 角色 |\n| --- | --- |\n| 上消化道攝影 | 診斷的黃金標準，確認十二指腸空腸交界位置與扭轉 |\n| 超音波 | 上腸繫膜動靜脈位置顛倒、漩渦徵象；快速、無輻射 |\n| 鋇劑灌腸 | 可見盲腸位置異常（位於上腹或中線），但盲腸位置變異大，準確度較低 |\n| 血管攝影 | 侵入性，對診斷沒有必要，且延誤手術 |\n\n懷疑中腸扭轉時應盡快確診並手術，血管攝影最不恰當。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "大腸直腸科",
-    "category": "大腸直腸科"
+    "chapter": "小兒外科",
+    "category": "小兒外科"
   },
   {
     "id": "112-1-醫學(五)-50",
@@ -18136,7 +18136,7 @@
       "D": "克隆氏症（Crohn's disease）引起之腸皮瘻管（enterocutaneous fistula）可以接受手術治療"
     },
     "answer": "C",
-    "explanation": "要記得一個關鍵：IBD 的治療都以藥物優先，其中克隆氏症 (Crohn's disease, CD) 可能影響消化道任何一段，因此其手術適應症更嚴格且後線，(C) 明顯錯誤，潰瘍性結腸炎 (ulcerative colitis, UC) 在慢性化或可能癌變時則可考慮手術切除直腸，底下補充 IBD 的治療方式與手術適應症：\n\n| IBD 藥物治療 | |\n| :--- | :--- |\n| **Salicylates** | 輕 - 中度 IBD 的第一線藥物，抑制腸黏膜的 cyclooxygenase 來抗發炎 |\n| **類固醇** | 急性發作的一線治療，但副作用多，無法脫離使用是 IBD 手術時機 |\n| **免疫抑制劑** | 前兩藥物無效時常使用 azathioprine 與 6-MP 治療，但通常要 6-12 週才有效果，因此類固醇仍需繼續使用；cyclosporine 主要抑制 T 淋巴球功能，也對部分病人有效 |\n| **生物製劑** | TNF-α inhibitor（如 infliximab, adalimumab）對中重度 IBD 療效不錯 |\n| **抗生素** | 用於 CD 病人可預防腹內感染 |\n\n| IBD 手術適應症 | |\n| :--- | :--- |\n| **Crohn's disease** | **Ulcerative colitis** |\n| 部分腸切除（肉眼可見部分切除即可，留 margin 預後沒有比較好）<br>• Crohn's colitis ± megacolon<br>• 藥物治療失敗（副作用或無效）<br>• 併發症，如阻塞、出血、穿孔、腸皮瘻管、癌化風險等 | Total colectomy with end ileostomy（緊急）<br>• 急性大量出血<br>• Fulminant colitis<br>• Toxic megacolon<br><br>Total proctocolectomy with ileostomy（選擇性）<br>• 藥物治療失敗<br>• 癌化風險 |\n\n每年都會考 CD 和 UC 的比較，列於【112-1(三)16】詳解",
+    "explanation": "答案 (C)。\n\n**發炎性腸道疾病的外科治療**\n\n| 項目 | 潰瘍性結腸炎 | 克隆氏症 |\n| --- | --- | --- |\n| 手術地位 | 全大腸直腸切除可治癒 | 無法治癒，以藥物治療為主，手術只處理併發症 |\n| 手術適應症 | 藥物治療無效、猛爆性結腸炎、毒性巨結腸、穿孔、大出血、異生或癌症 | 阻塞（狹窄）、廔管、膿瘍、穿孔、出血、藥物無效 |\n| 術式 | 全大腸直腸切除合併迴腸造口，或迴腸貯袋肛門吻合（IPAA） | 盡量保留腸道：狹窄整形術、有限度切除（只切除造成併發症的病灶） |\n\n克隆氏症容易復發且可能侵犯全消化道，反覆大範圍切除會造成短腸症候群，因此治療以藥物為主，不以切除發炎腸段為主要治療，故 (C) 錯誤。\n\n- 克隆氏症造成的腸皮廔管若藥物（含生物製劑）治療無效，可以接受手術。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -18156,12 +18156,12 @@
       "D": "手術中殘留血塊，形成膿瘍"
     },
     "answer": "C",
-    "explanation": "做過結腸切除手術加上白色引流液，可以單從顏色懷疑是淋巴滲漏 (chyle leakage)\n(A) 腸吻合處滲漏應是混濁引流液，可能有糞渣或混雜氣體\n(B) 尿液滲漏應是黃色，或測到引流液 BUN 及 creatinine 異常升高\n(D) 血塊形成膿瘍，引流液應是膿狀並混雜血塊",
+    "explanation": "答案 (C)。\n\n**術後引流液的鑑別**\n\n| 引流液 | 可能原因 |\n| --- | --- |\n| 白色、乳狀，進食後增加 | 乳糜漏：手術中傷到淋巴管（主動脈旁、腸繫膜根部淋巴結廓清），引流液三酸甘油酯 > 110 mg/dL |\n| 混濁、有糞味、褐色 | 腸吻合處滲漏 |\n| 清澈淡黃、量多 | 尿漏（引流液 creatinine 明顯高於血清）或腹水 |\n| 血性 | 出血 |\n| 膿性 | 膿瘍 |\n\n大腸癌手術合併淋巴結廓清後第 5 天（恢復進食後）出現白色引流液，最可能是乳糜液外滲。\n\n**補充**：治療以禁食或低脂、中鏈三酸甘油酯飲食、全靜脈營養、octreotide 為主，多數可保守治療成功。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "大腸直腸科",
+    "category": "大腸直腸科"
   },
   {
     "id": "112-1-醫學(五)-52",
@@ -18176,12 +18176,12 @@
       "D": "sciatic nerve"
     },
     "answer": "C",
-    "explanation": "複習一下肛管的神經支配：\n\n| | |\n| :--- | :--- |\n| **感覺 (sensory)** | 上 1/2 黏膜 → hypogastric plexus<br>下 1/2 黏膜 → inferior rectal nerve（pudendal nerve 分支，S2-S4） |\n| **運動 (motor)** | 內括約肌 → hypogastric plexus<br>外括約肌 → inferior rectal nerve（pudendal nerve 分支，S2-S4）+ perineal branch of S4 |\n\n解剖小題醒：pudendal nerve 是從 lesser sciatic foramen 進入骨盆後，才穿過 pudendal canal",
+    "explanation": "答案 (C)。\n\n**肛管的神經支配**\n\n- 齒狀線以下的肛管：體感覺神經，由陰部神經（下直腸神經分支，S2–S4）支配，對痛、溫、觸覺非常敏感。\n- 齒狀線以上：自主神經支配，只對牽張有感覺，對痛覺不敏感。\n\n| 比較 | 齒狀線以上 | 齒狀線以下 |\n| --- | --- | --- |\n| 上皮 | 柱狀上皮 | 鱗狀上皮 |\n| 神經 | 自主神經（不痛） | 陰部神經（痛） |\n| 動脈 | 上直腸動脈（下腸繫膜動脈） | 下直腸動脈（內陰部動脈） |\n| 靜脈 | 門脈系統 | 體循環 |\n| 淋巴 | 內髂、腸繫膜下淋巴結 | 腹股溝淋巴結 |\n| 痔瘡 | 內痔（無痛出血） | 外痔（疼痛） |",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "大腸直腸科",
+    "category": "大腸直腸科"
   },
   {
     "id": "112-1-醫學(五)-53",
@@ -18196,12 +18196,12 @@
       "D": "①②③④⑤"
     },
     "answer": "D",
-    "explanation": "孕婦懷孕期間接受手術的原因，最常見是急性闌尾炎和膽囊炎，其他原因包括卵巢囊腫／扭轉、腎上腺腫塊、脾臟切除、疝氣等，過去視懷孕為腹腔鏡手術的禁忌症，擔心 (1) trocar 會傷及子宮 (2) 腹腔鏡打氣，將壓迫血管造成胎兒血流供應不佳，但外科醫師的經驗累積，加上實證證據支持，若有適應症（包含診斷與治療），「腹腔鏡手術可安全地在任何孕期的孕婦施行」，一般人使用腹腔鏡的優點在孕婦仍然保有，如術後恢復較快、較少術後疼痛與腸沾黏／阻塞、減少傷口併發症（如感染、疝氣），其他留意事項：第二、三孕期孕婦在擺位上盡量向左側躺；術中腹內壓與正常人 10-15 mmHg 相仿；因氣腹關係，術中通常無法進行非侵入性胎心音監測，一般只要在術前與術後監測即可",
+    "explanation": "答案 (D)。\n\n**孕婦的腹腔鏡手術**\n\n- 懷孕已不再是腹腔鏡手術的禁忌，任何孕期都可安全施行（第二孕期最理想）。\n- 常見適應症多與懷孕無關：急性闌尾炎（最常見）、有症狀的膽結石或膽囊炎、附屬器扭轉、外傷。\n- 風險：子宮損傷、子宮血流減少、二氧化碳吸收造成胎兒酸中毒、腹內壓升高誘發早產。\n- 降低風險的作法：開放式（Hasson）或依子宮高度調整進入位置、氣腹壓力維持 10–15 mmHg、左側臥位避免壓迫下腔靜脈、監測母體呼氣末二氧化碳、術前術後監測胎心音。\n- 相較於剖腹手術：對子宮的觸碰與移動較少、疼痛較少、較早下床（降低血栓）、傷口感染與切口疝氣較少。\n\n題目五項敘述都正確。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "外科概論",
+    "category": "外科概論"
   },
   {
     "id": "112-1-醫學(五)-54",
@@ -18216,12 +18216,12 @@
       "D": "腹腔鏡脾切除手術可以在患者處於仰臥或側臥的情況下進行"
     },
     "answer": "C",
-    "explanation": "(A) 筆者認為這個選項不完全正確，自從腹腔鏡脾切除手術發明以來，已經成為選擇性脾切除的首選，除非是有 trauma 或禁忌症才會首選 open surgery，但此處手術安全性的定義不夠明確：有些文獻做出來發現在沒有 conversion 的情況下，腹腔鏡脾切除的出血量、住院時間、併發症（如：傷口感染）的比率較低，如果這算是手術安全性的一部分，這個選項以「無差別」來形容有點武斷\n(B) 正確，從腹腔鏡 convert 到 open 最常見原因就是出血，而出血在 open surgery 比較好控制，選項中所列其他項目也是變成 open surgery 的可能原因，一般來說，手術前會評估病人是否為困難脾切除，研究做出來發現與年齡、性別、脾臟重量、病理分類這四者有關（會去計算 difficulty score），若分數太高就不會選擇腹腔鏡切除\n(C) 錯誤，脾腫大可能會造成門脈高壓，此時若透過腹腔鏡手術會有較高機率產生出血併發症而需要 conversion\n(D) 正確，常見的擺位以 right lateral decubitus、right hemilateral decubitus（45 度傾斜）、anterior (supine)，其中右側臥好處是 hilar 的解剖 landmark 比較清楚明瞭、仰躺的好處則是若同時需要進行其他手術（如：膽囊切除）或是有預期會 convert 到開腹手術則比較方便\n\n其他考點：Hand assisted laparoscopic splenectomy (HALS) 是切一個 7-8 公分的切口，讓一手可以穿到腹腔內引導器械，在脾臟較大的病人（最大直徑超過 22 cm）會採用此做法，文獻提到即便 HALS 有做一個較大切口，術後疼痛卻跟一般腹腔鏡沒有差異\n\n參考資料：EP Misiakos, et al. (2017). Laparoscopic splenectomy: Current concepts. World journal of gastrointestinal endoscopy, 9(9): 428.",
+    "explanation": "答案 (C)。\n\n**腹腔鏡脾臟切除術**\n\n- 是選擇性脾臟切除的首選方式（如免疫性血小板低下紫斑症、遺傳性球形紅血球症），安全性與開腹手術相當，且疼痛少、住院短。\n- 約 90% 以上可在腹腔鏡下完成；轉開腹的原因包括出血、經驗不足、沾黏、巨大脾臟、肥胖。\n- 姿勢：可採仰臥或右側臥（側臥最常用，脾臟靠重力往內側移，便於分離）。\n- 門靜脈高壓（如肝硬化）會使脾臟周圍有大量側枝血管，出血風險大幅增加，是腹腔鏡脾切除需要特別評估的相對禁忌，故 (C) 錯誤。\n\n**補充**：脾臟切除前 2 週（或緊急術後 2 週）應接種肺炎鏈球菌、b 型流感嗜血桿菌與腦膜炎雙球菌疫苗。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "一般外科",
+    "category": "一般外科"
   },
   {
     "id": "112-1-醫學(五)-55",
@@ -18236,12 +18236,12 @@
       "D": "在腹腔鏡手術下的皮質素（cortisol）濃度比傳統手術較高"
     },
     "answer": "B",
-    "explanation": "腹腔鏡手術由於傷口小、組織傷害小，因此術中免疫抑制反應較低，術後也恢復較快，過去研究認為腹腔鏡手術下的皮質素比傳統手術有略低的趨勢，只是兩者並未達到顯著的統計差異，而其最嚴重也罕見的手術併發症即是氣體栓塞\n\n(B) 錯誤，氣腹比起撐開器，可使手術中視野呈現及可運作空間更佳，目前常用 CO2 將腹壓維持在 10-15 mmHg",
+    "explanation": "答案 (B)。\n\n**腹腔鏡手術的生理影響**\n\n- 建立手術空間的方法：\n  - 氣腹（二氧化碳）：最常用，可提供良好且均勻的視野與操作空間。\n  - 無氣腹撐開器（lift device）：避免二氧化碳造成的生理影響，但視野與操作空間通常不如氣腹，故 (B) 錯誤。\n- 氣體栓塞：極少見但可能致命（多在置入氣腹針時誤入血管）。\n- 二氧化碳氣腹：高碳酸血症、酸中毒、下腔靜脈受壓使回心血量減少、橫膈上抬影響通氣、腎血流下降。\n- 免疫與壓力反應：腹腔鏡手術的組織傷害較小，發炎反應（IL-6、CRP）與免疫抑制都比開腹手術輕。\n- 選項 (D) 的參考答案視為正確敘述（雖然多數研究顯示腹腔鏡手術的壓力荷爾蒙反應較低或相近，但個別研究結果不一）。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "外科概論",
+    "category": "外科概論"
   },
   {
     "id": "112-1-醫學(五)-56",
@@ -18256,7 +18256,7 @@
       "D": "multiple exostosis可能是自體顯性遺傳疾病"
     },
     "answer": "D",
-    "explanation": "以良性骨腫瘤作為考點實在很不友善，筆者認為重心還是要放在惡性腫瘤和各骨腫瘤好發的位置，遇到太刁鑽的細節就隨緣吧\n(A) 最常見的良性骨腫瘤為骨軟骨瘤 (osteochondroma，就是有軟骨帽像蘑菇的那個)，另外補充最常見的惡性骨腫瘤小孩為 osteosarcoma、Ewing's sarcoma；大人為 chondrosarcoma\n(B) 單純的多發性內生軟骨瘤 (multiple enchondromatosis) 稱為 Ollier's disease；Maffucci syndrome 則是多發性內生軟骨瘤合併多發性良性血管瘤 (hemangioma) 的自體顯性遺傳疾病，且多伴隨膠質細胞瘤、卵巢癌風險\n(C) chondromyxoid fibroma 常見於脛骨近端幹骺 (metaphysis)\n(D) 正確，多發性骨軟骨瘤 (multiple osteochondromatosis，又稱 multiple exostosis) 為自體顯性遺傳疾病，和單發性骨軟骨瘤皆好發於長骨幹骺，但轉成惡性的機會較高",
+    "explanation": "答案 (D)。\n\n**良性骨腫瘤**\n\n| 腫瘤 | 特點 |\n| --- | --- |\n| 骨軟骨瘤（osteochondroma，外生骨疣） | 最常見的良性骨腫瘤，長骨幹骺端向遠離關節方向生長；多發性外生骨疣為體染色體顯性遺傳（EXT1/EXT2），惡性轉變風險較高 |\n| 內生軟骨瘤 | 手部短管狀骨最常見；多發性稱 Ollier disease，合併軟組織血管瘤稱 Maffucci syndrome |\n| 軟骨母細胞瘤 | 青少年長骨骨骺（epiphysis），如肱骨近端、股骨遠端 |\n| 軟骨黏液樣纖維瘤 | 罕見，常見於脛骨近端幹骺端（metaphysis） |\n| 骨巨細胞瘤 | 骨骼成熟後的成人，骨骺延伸到關節下 |\n| 類骨骨瘤 | 夜間疼痛，NSAIDs 可緩解 |\n\n- (A) 最常見的良性骨腫瘤是骨軟骨瘤。\n- (B) 多發性內生軟骨瘤稱為 Ollier disease；合併血管瘤才是 Maffucci syndrome。\n- (C) 軟骨黏液樣纖維瘤位於幹骺端，不是骨骺。\n- (D) 正確。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18276,7 +18276,7 @@
       "D": "Anderson and D'Alonzo分類中，第三型骨折血循較佳，癒合率較高，處理以保守治療為主"
     },
     "answer": "B",
-    "explanation": "第二頸椎 (C2) 的椎齒突（齒狀突，odontoid fracture or dens）為其前端向上突起、C1 引以為軸水平轉動的結構，其骨折常用 Anderson and D'Alonzo classification，簡述如下（建議搜尋示意圖，配合理解）：\n\n| 分型 | 骨折部位 | 特徵與治療 |\n| :--- | :--- | :--- |\n| **Type I** | 齒狀突的上段 (tip) 骨折 | 罕見、相對穩固 |\n| **Type II** | 齒狀突的基底／交界處 (base) 骨折 | 最常見（佔 2/3）、不穩固，因接觸面少，有最高 non-union 風險，年紀大與位移量大是風險因子<br>通常須介入做固定手術 |\n| **Type III** | 比 Type II 更下方骨折，並側向裂入 C2 body，可能涉及關節面 | 次常見、相對穩固<br>有最好的癒合率，一般以保守治療（頸圈固定）即可 |",
+    "explanation": "答案 (B)。\n\n**齒突骨折（Anderson-D'Alonzo 分類）**\n\n| 分型 | 位置 | 特點 | 治療 |\n| --- | --- | --- | --- |\n| I | 齒突尖端（翼狀韌帶附著處的撕裂性骨折） | 罕見，多為穩定 | 頸圈 |\n| II | 齒突基底（與 C2 椎體交界處） | 最常見；血流差，不癒合率高（尤其位移 > 5 mm、成角、年齡 > 50 歲） | 年輕者可用頭環背心；高風險者手術（前方齒突螺釘或後方 C1–C2 融合） |\n| III | 延伸到 C2 椎體 | 骨鬆質多、血流好，癒合率高 | 多以外固定保守治療 |\n\n第一型是齒突尖端骨折且最少見；最常見、位於基底的是第二型，故 (B) 錯誤。\n\n- 水平骨折線與 CT 的軸切面平行，可能被忽略，應以矢狀面與冠狀面重組影像評估。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18296,7 +18296,7 @@
       "D": "即使周邊脈搏還存在，仍無法排除其可能性"
     },
     "answer": "A",
-    "explanation": "又是一個可以靠語意答題的良心題目\n\n「前臂」腔室症候群在小孩最常見是因為 supracondylar fracture，而成人則最常見是因為 distal radius fracture，臨床症狀不能忘記 5P：Pallor, Pain, Paresthesia, Paralysis, Pulseless，其中 Paresthesia 是感覺異常，是神經缺血時會有的症狀，診斷上則依賴臨床症狀、理學檢查以及腔室內壓力，最敏感的臨床檢查是不成比例的疼痛，這通常是最先有的症狀，尤其是在被動式伸展的時候，相對的，失去周邊脈搏通常是最後出現的症狀，也因此不能因為還測得到周邊脈搏就排除這個狀況，治療則是要盡快手術減壓與 fasciotomy，否則可能導致不可逆的神經與肌肉壞死\n\n(A) 選項的 Volkmann ischemic contracture 是前臂缺血時讓肌肉攣縮而變得僵硬，症狀上會看到 elbow flexion, forearm pronation, wrist flexion, finger 近端 extension 而遠端 flexion，但是嚴重度上有分三級，其中輕微的只影響到 2-3 隻手指，可能也不一定有感覺異常，因此仍可以有正常功能\n\n【112-2(五)22】也是有關腔室症候群的題目，可相互搭配複習",
+    "explanation": "答案 (A)。\n\n**前臂腔室症候群與 Volkmann 缺血性攣縮**\n\n- 症狀：與傷勢不成比例的疼痛、被動伸展肌肉時劇痛（最敏感的早期徵象）、腔室緊繃、感覺異常（神經缺血）；脈搏消失是晚期表現，有脈搏不能排除診斷。\n- 診斷：臨床為主，可測腔室壓力（絕對值 > 30 mmHg，或舒張壓減腔室壓 < 30 mmHg）。\n- 治療：緊急筋膜切開術。\n- 未及時處理，前臂屈肌（尤其深層的屈指深肌、屈拇長肌）壞死纖維化，形成 Volkmann 缺血性攣縮：腕屈、手指屈曲、前臂旋前。\n- 依嚴重度，手部內在肌可能受影響也可能正常；輕度攣縮時，內在肌常保有正常功能，嚴重時才因神經損傷而麻痺，故 (A)「不可能有正常功能」錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18316,7 +18316,7 @@
       "D": "肌腱斷端修補後應該利用鐵絲將髕骨與脛骨作固定"
     },
     "answer": "C",
-    "explanation": "(C) 解剖上，髕骨向上和股四頭肌肌腱相連，向下以髕骨肌腱與脛骨相接，因此髕骨肌腱斷裂時僅剩股四頭肌肌腱的拉力向上，膝蓋骨位置會更高\n\n| 比較項目 | 髕骨肌腱斷裂 | 股四頭肌肌腱斷裂 |\n| :--- | :--- | :--- |\n| **性別** | 男 > 女 |\n| **好發年紀** | <40 歲 | >40 歲 |\n| **傷害機轉** | 膝蓋伸展時離心加重 (eccentric loading)，常發生在膝蓋微彎時 | 膝蓋屈曲時股四頭肌出力或遭受外力傷害，常發生在膝蓋彎曲 >60° 時 |\n| **症狀** | 疼痛、膝蓋無法主動伸直 |\n| **治療** | 修補肌腱，可考慮以鐵絲做固定 | 修補肌腱與髕骨相連處 |",
+    "explanation": "答案 (C)。\n\n**髕骨肌腱斷裂**\n\n| 比較 | 髕骨肌腱斷裂 | 股四頭肌腱斷裂 |\n| --- | --- | --- |\n| 年齡 | 較年輕（< 40 歲），運動員 | 較年長（> 40 歲），常有慢性疾病 |\n| 髕骨位置 | 上移（patella alta） | 下移（patella baja） |\n| 觸診 | 髕骨下方凹陷 | 髕骨上方凹陷 |\n| 共同點 | 無法主動伸直膝蓋（伸膝機制中斷） | 同左 |\n\n- 危險因子：反覆類固醇注射、慢性肌腱炎（跳躍膝）、全身性疾病（腎衰竭、糖尿病、類風濕性關節炎）、fluoroquinolone。\n- 治療：急性期手術修補（經髕骨鑽孔縫合），常加上鋼絲或縫線將髕骨與脛骨固定以保護修補處。\n\n髕骨肌腱斷裂時，股四頭肌把髕骨往上拉，髕骨位置會變高，而不是變低，故 (C) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18336,7 +18336,7 @@
       "D": "可在短肢進行骨延長術（bone lengthening）"
     },
     "answer": "A",
-    "explanation": "兒童長短腳 (leg length discrepancy) 的治療分成保守治療與手術治療兩大類，對於生長板尚未閉合的兒童，目前的共識為估計骨骼成熟時的長短腳 <2 cm 先保守治療（如觀察或穿 shoe lift）；≥ 2 cm 或合併嚴重神經症狀才考慮手術治療，本題估計的長度為 1.5~3.5 cm，考量骨骼發育未成熟與手術風險，現階段保守治療最適合\n\n| 估計骨骼成熟的長短腳 (cm) | 治療 |\n| :--- | :--- |\n| **<2** | 保守治療 |\n| **2~5** | 保守治療、長肢股骨縮短手術 (femoral shortening)、長肢生長板抑制手術（epiphysiodesis，生長板已閉合者不能做） |\n| **>5** | 短肢骨延長術 (limb lengthening)、義肢 (prosthetic leg) |\n\n重要：4~8 歲男童有單側股骨頭缺血性壞死，要想到 Legg-Calvé-Perthes Disease (LCPD)\n\n參考資料：B Vogt, et al. (2020). Leg length discrepancy — treatment indications and strategies. Deutsches Ärzteblatt International, 117(24), 405.",
+    "explanation": "答案 (A)。\n\n**兒童長短腳的處理**\n\n依預估成年時的長短腳差距決定：\n\n| 差距 | 處理 |\n| --- | --- |\n| < 2 cm | 觀察，或鞋墊墊高 |\n| 2–5 cm | 長肢生長板抑制術（需在生長結束前適當時機施行）、長肢縮短術，或短肢墊高 |\n| > 5 cm | 短肢延長術（如 Ilizarov 外固定器、髓內延長釘），差距更大時可合併多種方式 |\n\n- 本題預估差距 1.5–3.5 cm，範圍不確定，而且 7 歲的病童股骨頭缺血性壞死（Legg-Calvé-Perthes disease）仍在病程中，最終差距仍可能改變。\n- 此時最適當、最不具侵入性的方式是先以鞋子墊高，持續追蹤，等接近骨骼成熟、差距較確定時，再決定是否在適當時機做生長板抑制手術。\n- 7 歲時就做生長板抑制或骨頭縮短、延長手術，時機過早且侵入性大。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -24405,7 +24405,7 @@
       "D": "手術前做細針穿刺細胞學檢查（fine needle aspiration cytology），若是惡性，即可切除全乳房"
     },
     "answer": "D",
-    "explanation": "乳房腫瘤切片的方式整理如下。大致記得侵入性越高的檢查，診斷準確度通常越好\n\n| 切片檢查 (incisional biopsy) | | | 手術切除檢查 (excisional biopsy) |\n| :--- | :--- | :--- | :--- |\n| **細針抽吸 (fine needle aspiration)** | **粗針切片 (core needle biopsy)** | **真空吸引切片 (vacuum-assisted biopsy)** | |\n| **取得檢體** | 少 -----------------------------------------------------> 多 | | |\n| **優點** | 快速、不需麻醉 | 可區分異常增生、原位癌或侵犯性乳癌 | |\n| **缺點** | 只能判斷良性 / 惡性，無法區分異常增生、原位癌或侵犯性乳癌 | 耗時、需麻醉、複雜度高的病灶需要重複切片 | 耗時、需麻醉、傷口大易留疤 |\n| **應用** | 乳癌篩檢、術前偵測淋巴結轉移 | 乳癌診斷與分期 | |\n\n(D) 由於細針抽吸（或稱細針穿刺）無法判斷是否為侵犯性乳癌，因此不能單憑抽吸結果為惡性就做全乳切除，需至少加做粗針切片才能診斷",
+    "explanation": "答案 (D)。\n\n**乳房腫瘤的切片方式**\n\n| 方式 | 特點 |\n| --- | --- |\n| 細針穿刺細胞學（FNA） | 只能取得細胞，無法區分原位癌與侵襲癌，也無法完整檢測荷爾蒙受體與 HER2 |\n| 粗針切片（core needle biopsy） | 取得組織條，屬於部分切片（incisional biopsy）；可區分原位或侵襲癌、做免疫染色，是目前首選 |\n| 真空輔助切片 | 取得較多組織，偽陰性較低，適合微鈣化與小病灶；小的良性病灶可完整移除 |\n| 手術切除切片 | 切片不確定或與影像不一致時使用 |\n\n- 術前粗針切片確認是否為侵襲癌，以決定是否需要腋下前哨淋巴結切片，並可安排術前化療。\n- 細胞學檢查無法提供組織學診斷（原位或侵襲癌、分子分型），也有偽陽性的可能，不能只依據 FNA 的惡性結果就直接做全乳房切除，故 (D) 最不恰當。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24425,7 +24425,7 @@
       "D": "低音波回音性（hypoechoic echogenicity）"
     },
     "answer": "C",
-    "explanation": "不要被騙了！乳房超音波病灶後回音減弱 (posterior acoustic shadowing) 才是惡性特徵，會回音減弱代表腫瘤內可能有可以反射訊號的微小鈣化 (microcalcifications)，是惡性特徵之一；另外如果用 Doppler 掃有明顯的 vascularization 代表病灶有許多血管分布，也是惡性度較高的特徵。其餘除了 (A)(B)(D) 三選項所敘述之外，還有星狀 (spiculation)、分枝 (branching)、分葉 (lobulation) 等也都是惡性病灶\n\n建議同學一併複習 BI-RADS 分類，可以參考【112-1(五)42】的詳解",
+    "explanation": "答案 (C)。\n\n**乳房超音波的良惡性特徵**\n\n| 惡性特徵 | 良性特徵 |\n| --- | --- |\n| 高度大於寬度（不平行於皮膚） | 寬度大於高度（平行於皮膚） |\n| 邊緣不規則、角狀、細分葉、毛刺狀 | 邊界清楚、平滑、橢圓形 |\n| 明顯低回音、不均質 | 等回音或均質 |\n| 後方聲影（posterior shadowing） | 後方回音增強（posterior enhancement，常見於囊腫） |\n| 周邊高回音暈圈、微鈣化、組織扭曲 | 薄的回音包膜 |\n\n後方回音增強多見於囊腫或纖維腺瘤等良性病灶，是最不常見的惡性特徵。少數惡性腫瘤（如髓樣癌、黏液癌、三陰性高惡性度乳癌）也可能出現後方回音增強。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24445,7 +24445,7 @@
       "D": "epirubicin"
     },
     "answer": "C",
-    "explanation": "專科題，針對轉移性乳癌的化療用藥，常用紫杉醇 (taxol, taxotere) 與 Anthracycline 類藥物 (doxorubicin、epirubicin)，(C) etoposide 是 Topoisomerase II inhibitor，常用在小細胞肺癌或生殖腺癌，對於轉移性乳癌是後線用藥",
+    "explanation": "答案 (C)。\n\n**乳癌常用的化療藥物**\n\n| 類別 | 藥物 |\n| --- | --- |\n| Anthracycline | Doxorubicin、epirubicin |\n| Taxane | Paclitaxel、docetaxel、nab-paclitaxel |\n| 烷化劑 | Cyclophosphamide |\n| 抗代謝藥 | 5-FU、capecitabine、gemcitabine、methotrexate |\n| 其他 | Carboplatin（三陰性、BRCA 突變）、vinorelbine、eribulin |\n\nEtoposide（topoisomerase II 抑制劑）主要用於小細胞肺癌、睪丸生殖細胞腫瘤、淋巴瘤與白血病，很少用於乳癌。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24465,7 +24465,7 @@
       "D": "無肛症（anorectal malformation）；Peña operation"
     },
     "answer": "B",
-    "explanation": "Sistrunk procedure 是治療頸部中線甲狀舌骨囊腫 (thyroglossal duct cyst) 的術式，而鰓裂遺跡的切除手術則無特別的以人名命名的術式。其他手術名稱配對均正確，其中先天性巨腸症的三種治療術式— Soave procedure、Swenson procedure、Duhamel procedure 詳見【112-2(五)49】",
+    "explanation": "答案 (B)。\n\n**小兒外科常見以人名命名的手術**\n\n| 疾病 | 術式 |\n| --- | --- |\n| 腸旋轉不良 | Ladd procedure |\n| 先天性巨結腸症 | Swenson、Soave、Duhamel 手術 |\n| 肛門直腸畸形 | Peña 手術（後矢狀肛門直腸成形術，PSARP） |\n| 甲狀舌管囊腫 | Sistrunk operation（連同舌骨中段一起切除） |\n| 膽道閉鎖 | Kasai procedure |\n| 肥厚性幽門狹窄 | Ramstedt pyloromyotomy |\n| 漏斗胸 | Nuss procedure |\n\nSistrunk 手術是用來治療甲狀舌管囊腫，而不是鰓裂遺跡；鰓裂囊腫或廔管以完整切除廔管為主（第二鰓裂常需「階梯式」切口）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24485,12 +24485,12 @@
       "D": "肺部狀況"
     },
     "answer": "C",
-    "explanation": "這題難在考得細，而且幾乎無法只憑選項作答。下表整理了古今較為通用的三個評估系統，影響預後的因子在各系統間大同小異，看過有個概念就好\n\n| EA-TEF 預後評估系統 | 臨床因子 | 嚴重度 |\n| :--- | :--- | :--- |\n| **Waterson classification (1962)** | • 出生體重 (1800~2500 g)<br>• 肺炎<br>• 先天異常 | 由低至高分成 Class A, B, C |\n| **Montreal classification (1993)** | • 呼吸器依賴度<br>• 先天異常 | 由低至高分成 Class I, II |\n| **Spitz classification (1994，今最通用)** | • 出生體重 (1500 g)<br>• 先天心臟異常 | 由低至高分成 Class I, II, III |\n\nEA-TEF = 食道閉鎖併氣管食道瘻管 (esophageal atresia and tracheoesophageal fistula)\n\n綜合三個系統可知 (C) 手術矯正的時機不在評估預後的因子中。臨床上新生兒 EA-TEF 的手術時機應根據病況而定：生命徵象穩定者可在出生後 1~2 天內手術；合併感染或心肺衰竭者則應等病況穩定後再做階段手術",
+    "explanation": "答案 (C)。\n\n**食道閉鎖合併氣管食道廔管的預後**\n\n- 常用預後分類：\n  - Waterston：出生體重、肺炎、其他先天異常。\n  - Spitz：出生體重 < 1,500 g 與重大先天性心臟病。\n  - Okamoto：同 Spitz 的修正版。\n- 影響預後的主要因素：出生體重、合併重大心臟異常或其他先天異常（VACTERL）、肺部狀況（吸入性肺炎、呼吸窘迫）、長間隙型食道閉鎖。\n- 手術的時機通常是病人狀況穩定後盡早修補，並不是預後分類中的主要預測因子。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "小兒外科",
+    "category": "小兒外科"
   },
   {
     "id": "112-2-醫學(五)-46",
@@ -24505,15 +24505,15 @@
       "D": "雙側膀胱輸尿管逆流（bilateral vesicoureteral reflux），grade V"
     },
     "answer": "D",
-    "explanation": "Vesicoureteral reflux (VUR) 根據 voiding cystourethrogram (VCUG) 結果可以分 5 級：\n\n| VUR 嚴重度分級 | 處置策略 |\n| :--- | :--- |\n| **Grade 1** | 只逆流到輸尿管 | 再觀察 |\n| **Grade 2** | 逆流到腎盂（從 Grade 2 開始高度都是到腎盂） | 再觀察 |\n| **Grade 3** | 輸尿管有輕度 dilatation，小腎盞穹窿鈍化但仍是銳角 | 內科治療 + 追蹤 |\n| **Grade 4** | 輸尿管有中度 dilatation，小腎盞穹窿鈍化已變成鈍角 | 內科治療 + 追蹤 ± 預防性抗生素 |\n| **Grade 5** | 輸尿管腫脹彎曲變形，分不清楚 papillary 的位置 | 手術 + 預防性抗生素 |\n\n如圖可以先看顯影劑都達到腎盂，且兩側的輸尿管已經有明顯擴張甚至變形（已經不是直直一條接到腎臟），代表是 grade 5\n\n除了知道分級之外，由於 VCUG 是一個侵入性檢查，並不會所有 UTI 的病人都做，因此知道 VCUG 的適應症也是重要的！\n• ≥ 2 次 febrile UTI\n• < 2 次 febrile UTI 且符合下列任何一項：\n(1) 腎臟超音波有異常發現\n(2) 有 VUR 家族史\n(3) 致病菌非 E. coli\n(4) 生長遲緩或有高血壓",
+    "explanation": "答案 (D)。\n\n**膀胱輸尿管逆流（VUR）的分級**\n\n| 分級 | 排尿膀胱尿道攝影表現 |\n| --- | --- |\n| I | 逆流只到輸尿管，未擴張 |\n| II | 逆流到腎盂與腎盞，無擴張 |\n| III | 輸尿管與腎盂輕至中度擴張，腎盞輕度變鈍 |\n| IV | 輸尿管中度彎曲擴張，腎盂腎盞中度擴張，腎盞角變鈍但仍保有乳突壓痕 |\n| V | 輸尿管明顯擴張彎曲，腎盂腎盞嚴重擴張，乳突壓痕消失 |\n\n本題影像顯示雙側輸尿管明顯擴張迂曲、腎盂腎盞嚴重擴張，屬於第 V 級。\n\n**補充**：高等級 VUR 自行緩解的機會低，反覆感染易造成腎臟疤痕；可考慮預防性抗生素、內視鏡注射或輸尿管再植手術。",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
       "/images/112-2/醫學(五)/page_10_img_1.jpeg"
     ],
     "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "chapter": "泌尿科",
+    "category": "泌尿科"
   },
   {
     "id": "112-2-醫學(五)-47",
@@ -24528,7 +24528,7 @@
       "D": "臍膨出較易合併其他先天性異常"
     },
     "answer": "C",
-    "explanation": "(C) 不一定，由於腹裂畸形沒有腹膜包覆，水分散失會比相同範圍的臍膨出更多，文獻報導在嚴重個案，水分甚至會給到 8-10 ml/kg/hr\n\n| 比較項目 | 腹裂畸形 (gastroschisis) | 臍膨出 (omphalocele) |\n| :--- | :--- | :--- |\n| **腹膜** | 無腹膜包覆臟器 | 有腹膜包覆臟器 |\n| **範圍** | 小，通常 <4 公分 | 可大至小腸肝臟脫疝 |\n| **位置** | 常見肚臍右側 | 常見腹中線 |\n| **染色體異常** | 少見 | 30% 有染色體異常 (Trisomy 13, 18, 21) |\n| **合併異常** | 少見<br>*除小腸閉鎖 (10-15%) | 50% 伴有腸道外器官異常<br>*心臟異常最常見<br>*Beckwith-Wiedemann syndrome：臍膨出 + 高胰島素血症 + 巨舌 |",
+    "explanation": "答案 (C)。\n\n**腹裂與臍膨出的比較**\n\n| 項目 | 腹裂（gastroschisis） | 臍膨出（omphalocele） |\n| --- | --- | --- |\n| 位置 | 臍帶右側的腹壁缺損 | 臍帶基部（臍環） |\n| 缺口大小 | 小（< 4 cm） | 較大 |\n| 覆蓋膜 | 無，腸道直接暴露 | 有（羊膜與腹膜） |\n| 外露器官 | 腸道（常水腫、增厚、外層纖維化） | 腸道，常含肝臟 |\n| 合併其他異常 | 少（約 10%，以腸閉鎖為主） | 常見（約 50–70%）：心臟異常、染色體異常（trisomy 13、18、21）、Beckwith-Wiedemann syndrome |\n| 液體需求 | 大（腸道外露，水分與熱量蒸散多） | 較少（有膜覆蓋） |\n| 預後 | 主要取決於腸道狀況 | 主要取決於合併異常 |\n\n腹裂因腸道直接暴露，水分與熱量流失多，需要的靜脈輸液比臍膨出多，故 (C) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24548,12 +24548,12 @@
       "D": "乙醯膽鹼酶染色（acetylcholinesterase immunostaining）"
     },
     "answer": "A",
-    "explanation": "直腸切片是診斷先天性巨腸症的 gold standard，切片必須涵蓋足夠的黏膜下層，才能評估位於黏膜下層的 Meissner's plexus 是否有神經節細胞\n1. 蘇木素－伊紅染色 (H&E stain)：是製作病理切片的基本染色，染後可從形態學去診斷疾病，但由於嬰兒的神經膠細胞剛發育，多半小而不規則，單靠 H&E 染色有時不足以辨別\n2. 乙醯膽鹼酶染色 (AChE stain)：Hirschsprung's disease 首選的進階染色。神經纖維在無神經節細胞的情況下會肥大，此肥大的過程會增加乙醯膽鹼酶表現，因此先天性巨腸症的患者在乙醯膽鹼酶染色下呈陽性，正常神經細胞呈陰性\n3. 鈣視網膜蛋白染色 (calretinin stain)：在神經節細胞存在時呈陽性，因此若切片於鈣視網膜蛋白染色下呈陰性，也能診斷先天性巨腸症\n\n選項 (A) PAS 染色用於檢測組織中的「醣類」，原理為過碘酸先把醣類的羥基氧化成醛基，再用 Schiff 試劑和醛基反應使其呈紫紅色，在診斷先天性巨腸症較不適用",
+    "explanation": "答案 (A)。\n\n**先天性巨結腸症的病理診斷**\n\n- 診斷依據：直腸抽吸切片（或全層切片）證實黏膜下神經叢沒有神經節細胞。\n- 常用染色：\n\n| 染色 | 結果 |\n| --- | --- |\n| H&E 染色 | 找不到神經節細胞，可見肥大的神經纖維 |\n| 乙醯膽鹼酯酶染色 | 黏膜固有層與肌層中乙醯膽鹼酯酶陽性神經纖維增加 |\n| Calretinin 免疫染色 | 無神經節段的 calretinin 陽性神經纖維消失（陰性） |\n\nPAS 染色用於偵測肝醣與黏多醣（如 Whipple disease、肝醣儲積症、黴菌），對先天性巨結腸症的診斷沒有幫助。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "小兒外科",
+    "category": "小兒外科"
   },
   {
     "id": "112-2-醫學(五)-49",
@@ -24568,7 +24568,7 @@
       "D": "Sistrunk procedure"
     },
     "answer": "A,B",
-    "explanation": "本題建議與【112-2(五)44】一起準備。Sistrunk 不是開大腸的術式可先刪除，剩下三項皆是先天性巨腸症的常見術式，簡單整理如下：\n\n| 先天性巨結腸症手術 | 手術方式 | 補充 |\n| :--- | :--- | :--- |\n| **Swenson procedure** | 將無神經節的腸段切除，再將有神經節的腸段拉下，和遠端肛門口做端對端接合 (end-to-end) | 最早開創的術式 |\n| **Duhamel procedure** | 避免分離直腸前壁，將無神經節的腸段切除，再將有神經節的腸段拉下，和遠端肛門做端對邊接合 (end-to-side) | 改良版稱 Martin procedure |\n| **Soave procedure** | 將無神經節的腸段做黏膜下層切除，再將有神經節的腸段拉下，套疊已切除黏膜層及黏膜下層的腸段後，和遠端肛門口做端對端接合 (end-to-end) | 改良版稱 Boley procedure |\n\n這題原答案為 Soave，主要根據圖片裡拉出的腸段為剝離後的黏膜層和下黏膜層（肌肉層則是上方較粗淺色那圈）；然而題幹文字是針對 Swenson 的敘述，因此最後 (A)、(B) 均給分",
+    "explanation": "答案 (A)、(B)（原答案 A，官方更正為 A、B 或 AB 均給分）。\n\n**先天性巨結腸症的手術**\n\n| 術式 | 方法 |\n| --- | --- |\n| Swenson | 切除無神經節的直腸與結腸（全層），將正常腸段拉下與肛門做端對端吻合 |\n| Soave（含經肛門 endorectal pull-through） | 剝除直腸黏膜，保留直腸肌肉袖套，將正常腸段由袖套中拉下與肛門吻合 |\n| Duhamel | 保留無神經節的直腸，將正常腸段從直腸後方拉下，與直腸做側對側吻合 |\n\n題目描述「切除無神經節的腸段，將有神經節的腸段拉下與肛門做端對端接合」，最符合 Swenson 手術；Soave 手術最後也是將拉下的腸段與肛門端對端吻合，且題圖的表現可能被判讀為 Soave，因此官方更正 (A)、(B) 均給分。\n\nSistrunk 手術用於甲狀舌管囊腫。",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
@@ -24591,15 +24591,15 @@
       "D": "空腸腸繫膜膿瘍（jejunal mesenteric abscess）"
     },
     "answer": "C",
-    "explanation": "從病史知道病人有大腸憩室炎的病史，會讓我們更懷疑他的腹膜炎是因為憩室炎破裂導致。從 CT 圖片來看，可以看到第一張圖的右邊有一個 heterogeneous mass（圓圈處），也可以在第二張圖右邊偏下看到（圓圈處）。這個位置符合症狀的左下腹痛以及可以摸到硬塊的位置，而此處很可能形成膿瘍，對應到的位置就是大腸中的乙狀結腸處\n\n(A) 如果是缺血性腸壞死，腹痛一般會是 generalized pain，而較不是 localized pain，也比較不會摸到硬塊，另外，缺血性腸壞死在 CT 可以看到廣泛的腸壁明顯增厚，或是有壞死導致腸子穿孔的 pneumoperitoneum（會看到肝臟上方有一層黑色的氣體）\n(B) Sigmoid colon volvulus 一定要知道有名的 coffee bean sign，乙狀結腸會因為扭轉而腫大，在 CT 底下看起來就像是一個大型咖啡豆的樣子，其實就是非常非常膨脹的乙狀結腸，在這題並沒有看到此特徵，因此可能性也不高\n(D) 空腸繫膜膿瘍以解剖位置來說應該不會在那麼邊邊，但是不能完全排除，因此跟 (C) 選項辨別的最好方式是透過病史來判斷可能性：通常空腸繫膜膿瘍較容易發生在 Crohn's disease 或是由小腸手術過的病人",
+    "explanation": "答案 (C)。\n\n**乙狀結腸憩室炎合併膿瘍**\n\n- 本題老年女性有憩室炎病史，左下腹痛加劇、發燒、左下腹硬塊合併局部腹膜炎，白血球與 CRP 明顯上升，CT 顯示乙狀結腸周圍發炎與膿瘍，最符合乙狀結腸憩室炎破裂合併膿瘍。\n- 西方國家憩室炎以乙狀結腸（左側）最常見；亞洲人以右側較常見，但隨飲食西化，左側比例增加。\n- Hinchey 分類與處置：\n\n| 分期 | 表現 | 處置 |\n| --- | --- | --- |\n| I | 結腸周圍膿瘍 | 抗生素 |\n| II | 骨盆或遠處膿瘍 | 抗生素合併經皮引流（膿瘍 > 3–4 cm） |\n| III | 化膿性腹膜炎 | 手術（腹腔鏡沖洗或 Hartmann 手術） |\n| IV | 糞便性腹膜炎 | 緊急手術（Hartmann 手術） |\n\n- 急性期過後 6–8 週應做大腸鏡排除大腸癌。",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
       "/images/112-2/醫學(五)/page_11_img_2.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "大腸直腸科",
-    "category": "大腸直腸科"
+    "chapter": "急診外傷科",
+    "category": "急診外傷科"
   },
   {
     "id": "112-2-醫學(五)-51",
@@ -24614,12 +24614,12 @@
       "D": "middle rectal artery"
     },
     "answer": "D",
-    "explanation": "解剖記憶題，十二指腸第二部分開始直到橫結腸前三分之二都是「上腸繫膜動脈」支配，剩下三分之一的橫結腸到上段直腸是「下腸繫膜動脈」支配，由此可知不在此範圍者為 (D) middle rectal artery，是源自於內骼動脈分支的下臀動脈，有兩個分支分別供應中直腸與下直腸",
+    "explanation": "答案 (D)。\n\n**大腸直腸的動脈供應**\n\n| 來源 | 分支 | 供應範圍 |\n| --- | --- | --- |\n| 上腸繫膜動脈 | 迴結腸動脈、右結腸動脈、中結腸動脈 | 盲腸至橫結腸近端 2/3 |\n| 下腸繫膜動脈 | 左結腸動脈、乙狀結腸動脈、上直腸動脈 | 橫結腸遠端 1/3 至直腸上段 |\n| 內髂動脈 | 中直腸動脈 | 直腸中段 |\n| 內陰部動脈（內髂動脈分支） | 下直腸動脈 | 直腸下段與肛管 |\n\n中直腸動脈來自內髂動脈，而不是下腸繫膜動脈。\n\n**補充**：脾彎曲（Griffiths point）與直乙交界（Sudeck point）是上、下腸繫膜動脈供應的交界處，屬於缺血性結腸炎好發的「分水嶺區域」。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "大腸直腸科",
+    "category": "大腸直腸科"
   },
   {
     "id": "112-2-醫學(五)-52",
@@ -24634,7 +24634,7 @@
       "D": "familial adenomatous polyposis"
     },
     "answer": "B",
-    "explanation": "當發現腸胃道有 hamartomatous polyps（缺陷瘤，病理屬良性、non-neoplasm），(A)、(B) 皆有可能，而理學檢查發現有嘴唇、口腔黏膜有黑色素沉澱的小黑點，就剩下 (B) 了。以下表格比較各選項疾病：\n\n| 分類 | 疾病表現 | 遺傳模式與基因 | 癌症風險（重要者標示底線） |\n| --- | --- | --- | --- |\n| juvenile polyposis syndrome (JPS) | hamartomatous polyps（多大腸直腸） | 體染色體顯性 (AD)<br>SMAD4, BMPR1A | <u>大腸直腸癌</u><br>小腸癌、胃癌 |\n| Peutz-Jeghers syndrome (PJS) | hamartomatous polyps（多小腸），易發生阻塞、腸套疊<br>嘴唇、口腔黏膜有黑色素沉澱 | 體染色體顯性 (AD)<br>STK11 | <u>大腸直腸癌</u>、<u>小腸癌</u><br><u>乳癌</u>、<u>婦科三癌</u>、<u>睪丸癌</u><br><u>胃癌</u>、<u>胰臟癌</u><br>肺癌 |\n| Lynch syndrome (HNPCC) | 無息肉，故名 Hereditary 'Non-Polyposis' Colorectal Cancer | 體染色體顯性 (AD)<br>mismatch repair gene (MMR) | <u>大腸直腸癌 (50%)</u><br><u>子宮內膜癌</u>、<u>卵巢癌</u><br><u>泌尿道癌</u><br>胃癌、胰臟癌、膽管癌 |\n| familial adenomatous polyposis (FAP) | 數百顆以上 adenomatous polyps（多大腸直腸） | 體染色體顯性 (AD)<br>APC gene | <u>大腸直腸癌 (100%)</u><br>胃癌、胰臟癌、膽管癌<br><br>若 Gardner syndrome：<br>表皮囊腫 (epidermoid cyst)<br>纖維瘤 (fibroma)<br>硬纖維瘤 (desmoid tumor)<br>骨瘤 (osteoma) |\n\n嘴唇的理學檢查，Peutz-Jeghers syndrome 常與 Osler-Weber-Rendu syndrome（即 Hereditary hemorrhagic telangiectasia, HHT）相提並論：後者會在嘴唇及身體各處發現小血管擴張，是動靜脈畸形 (arterio-venous malformations) 所致，症狀常有流鼻血、腸胃道出血，並可能有腦、肝、肺部的動靜脈畸形，也是一個體染色體顯性遺傳疾病",
+    "explanation": "答案 (B)。\n\n**遺傳性腸道息肉症候群**\n\n| 疾病 | 息肉類型 | 特點 |\n| --- | --- | --- |\n| Peutz-Jeghers 症候群 | 錯構瘤 | STK11 基因；嘴唇、口腔黏膜、手指腳趾的黑色素斑；小腸息肉常造成腸套疊；消化道與乳癌、胰臟癌等風險上升 |\n| 幼年型息肉症 | 錯構瘤 | SMAD4、BMPR1A 基因，無色素沉著 |\n| 家族性腺瘤性息肉症 | 腺瘤（數百至數千顆） | APC 基因，幾乎 100% 罹患大腸癌 |\n| Lynch 症候群 | 腺瘤（數量不多） | DNA 錯配修復基因，大腸癌與子宮內膜癌 |\n| Cowden 症候群 | 錯構瘤 | PTEN 基因，皮膚毛根鞘瘤、乳癌、甲狀腺癌 |\n\n錯構瘤性息肉加上口唇與手指末端黑色素沉著，最符合 Peutz-Jeghers 症候群。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -24654,12 +24654,12 @@
       "D": "患者精神穩定，無酒精依賴或非法使用毒品"
     },
     "answer": "C",
-    "explanation": "112 年國考真的蠻愛考減肥手術的（可看【112-2(五)37】詳解的常見術式比較表格），不過考手術適應症相較術式佛心很多。選項中只有 (C) 不是減肥手術適應症，以下整理 Sabiston 提供的適應症：\n- BMI ≥ 40，或 BMI ≥ 35 且合併有高危險併發症\n- 患者內科治療失敗，如藥物、飲食、運動治療等\n- 精神狀態健全，無藥物濫用或精神疾病\n- 無重大器官功能異常並可接受手術風險\n\n至於台灣健保給付的手術適應症大致與上述相同，但調整為 BMI ≥ 37.5，或 BMI ≥ 32.5 且合併有高危險併發症；且新增年齡 20~65 歲，以及減重門診治療達半年以上",
+    "explanation": "答案 (C)。\n\n**減重手術的適應症**\n\n- 國際傳統標準（NIH 1991）：BMI ≥ 40，或 BMI ≥ 35 合併肥胖相關共病。新版（ASMBS/IFSO 2022）：BMI ≥ 35 不論共病，BMI ≥ 30 合併代謝疾病；亞洲人門檻再降低。\n- 其他條件：\n  - 經飲食、運動等非手術減重方法失敗\n  - 精神狀態穩定，無酒精或藥物依賴\n  - 了解手術風險並能配合長期追蹤與飲食改變\n  - 無無法接受手術的嚴重疾病\n\n是否手術應由病人在充分了解資訊後自主決定，並經多專科團隊評估；家庭會議不是醫學適應症，故 (C) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "一般外科",
+    "category": "一般外科"
   },
   {
     "id": "112-2-醫學(五)-54",
@@ -24674,12 +24674,12 @@
       "D": "成像技術數位化提供解剖訊息，可以在手術前生成三維VR模型來模擬手術環境"
     },
     "answer": "B",
-    "explanation": "這題對大家來說應該是送分題，透過語意敘述就可以作答。微創手術模擬訓練從最傳統的動物模型、box trainer（用一個盒子模擬病人身體，並伸進器械模擬手術進行），到了後來發展出 computer-enhanced trainer 與虛擬實境，都可以進行手術模擬。起初 box trainer 比 VR 還要有更大的優勢在於有觸覺回饋，也就是碰到東西會有感覺，VR 則沒有。到了後來將 Augmented realistic (AR) 技術引進後，現在即便透過 VR 也可以有觸覺回饋，主要缺點就是昂貴與不方便攜帶\n\n(B) 選項提到的深度感知、手眼協調、雙手敏捷度訓練其實從最早的動物模型與 box trainer 就可以訓練到，更不用說近期的 VR 與 AR 模擬環境也都可以做到。從常見的 CTA 或是 MRCP 就可以知道現有技術已經可透過多張影像重建出立體結構，將此立體結構模型結合 VR 就可以模擬特定病人的手術解剖構造，並先行模擬練習",
+    "explanation": "答案 (B)。\n\n**微創手術的模擬訓練**\n\n- 訓練工具：箱型訓練器（box trainer）、虛擬實境（VR）模擬器、動物模型、大體模擬。\n- 可在安全、以學習者為中心的環境中反覆練習，訓練腹腔鏡的核心技能：\n  - 二維影像下的深度感知\n  - 手眼協調\n  - 雙手靈巧度\n  - 適應支點效應（器械方向相反）\n- 標準化課程如腹腔鏡手術基礎訓練（FLS）。\n- 數位影像可建立病人個別化的 3D 模型，術前模擬手術。\n\n模擬訓練正是用來訓練深度感知、手眼協調與雙手靈巧度的，故 (B) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "外科概論",
+    "category": "外科概論"
   },
   {
     "id": "112-2-醫學(五)-55",
@@ -24694,12 +24694,12 @@
       "D": "腹腔鏡闌尾切除手術"
     },
     "answer": "B",
-    "explanation": "基本的腹腔鏡手術可以在腹腔內直接完成，基本上就是腸胃道的手術為主，而 (B) 腹腔鏡子宮切除手術須同時配合體外經陰道口作業，會將子宮經由陰道取出，再由陰道口做腹膜修補，因此不屬於基本的腹腔鏡手術術式",
+    "explanation": "答案 (B)。\n\n**基本腹腔鏡手術**\n\n一般外科訓練中的基本腹腔鏡手術包括：\n\n- 腹腔鏡膽囊切除術\n- 腹腔鏡闌尾切除術\n- 腹腔鏡疝氣修補術\n- 診斷性腹腔鏡\n\n腹腔鏡子宮切除術屬於婦產科手術，且操作較複雜，不屬於外科的基本腹腔鏡術式。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "外科概論",
+    "category": "外科概論"
   },
   {
     "id": "112-2-醫學(五)-56",
@@ -24714,7 +24714,7 @@
       "D": "多樣藥化療（multidrug chemotherapy）可提高原發性骨淋巴瘤（primary lymphoma of the bone）的5年生存率"
     },
     "answer": "A",
-    "explanation": "Small-blue-round-cell tumor 是一群罕見、惡性度高的軟組織肉瘤，因 H&E 染色下呈現普遍小而圓、藍染、未分化的細胞而得名，成員包含 Ewing sarcoma、primitive neuroectodermal tumor (PNET)、non-Hodgkin's lymphoma、rhabdomyosarcoma、Wilms' tumor (nephroblastoma)、neuroblastoma 等\n(A) 錯誤。Ewing sarcoma 家族大多為 t(11;22)(q24;q12) 轉位導致的 EWSR1-FLI1 fusion\n(B) Ewing sarcoma 最常長在長骨的骨幹 (diaphysis)，對於放射線敏感，其療程通常是「化療 → 局部治療（手術／放療）→ 化療」\n(C) (D) primary lymphoma of bone 佔原發性骨腫瘤不到 5%，屬於 non-Hodgkin's lymphoma (NHL)，療程也採用 NHL 的 CHOP 或 R-CHOP 組合，有時合併放射線治療，反應不錯，手術則少有角色。研究顯示化療或合併放化療比起單純放療的預後佳，預後依期別不同有異，整體 5 年存活率 66%",
+    "explanation": "答案 (A)。\n\n**骨的圓形細胞腫瘤**\n\n- 小圓藍細胞腫瘤：Ewing 肉瘤、淋巴瘤、骨髓瘤、神經母細胞瘤轉移、橫紋肌肉瘤。\n- Ewing 肉瘤：\n  - 好發於 5–25 歲，長骨骨幹與骨盆。\n  - 約 85% 有 t(11;22)(q24;q12) 易位，形成 EWSR1-FLI1 融合基因（t(21;22) 形成 EWSR1-ERG，約 10%），故 (A) 錯誤。\n  - X 光：骨幹溶骨性病灶，洋蔥皮狀骨膜反應。\n  - 對放療與化療都敏感；治療為化療合併手術及/或放療，手術邊緣不乾淨時需術後放療。\n- 原發性骨淋巴瘤：\n  - 多為瀰漫性大 B 細胞淋巴瘤，單發者預後較好。\n  - 以多藥化療（R-CHOP）合併放療，可提高存活率。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -24734,7 +24734,7 @@
       "D": "給與支持性治療，必要時可加上類固醇治療"
     },
     "answer": "C",
-    "explanation": "依關鍵字：股骨骨折、皮膚點狀出血、意識改變，可以高度懷疑病人有脂肪栓塞症候群，是骨折常見且嚴重的併發症之一\n\n| 脂肪栓塞症候群 (fat emboli syndrome, FES) | |\n| --- | --- |\n| 成因 | 好發於外傷，尤其長骨、骨盆骨折（發生率 2~5%） |\n| 病生理 | 骨髓的脂肪隨骨折進入循環中，造成肺栓塞且誘發全身凝血與發炎反應 |\n| 症狀／徵象 | 皮膚點狀出血 (petechiae)、意識改變、呼吸衰竭<br>胸部 X 光呈現 multiple flocculent shadows，又稱 snow-storm appearance |\n| 治療 | 支持性治療 ± 類固醇（綜合分析顯示類固醇可降低 78% FES 發生率）；等病況穩定再做骨折手術 |\n\n可能有同學看題目第一時間想到的是敗血症 (sepsis)，但兩種疾病都可以表現點狀出血 (DIC)、意識改變與呼吸衰竭，治療也包含支持療法和類固醇（比 FES 多了抗生素），若用敗血症的診斷作答其實也能殊途同歸\n\n(C) 題幹唯一跟腦壓升高有關是意識改變，但意識改變的可能原因太多，在沒有其他症狀（頭痛、嘔吐）、徵象（視乳突水腫）輔助下，不會懷疑腦壓有升高",
+    "explanation": "答案 (C)。\n\n**脂肪栓塞症候群**\n\n- 好發於長骨（股骨、脛骨）或骨盆骨折後 24–72 小時，或骨髓內釘固定手術後。\n- 典型三聯徵：\n  1. 呼吸窘迫、低血氧（最早且最常見）\n  2. 神經學症狀：意識混亂、躁動、昏迷（通常沒有局部神經學缺損）\n  3. 點狀出血：腋下、前胸、結膜、口腔黏膜\n- 其他：血小板低下、貧血、發燒、視網膜脂肪栓塞、尿中脂肪滴。\n- 胸部 X 光：兩側瀰漫性浸潤（暴風雪樣）。\n- 治療：支持性治療（氧氣、必要時呼吸器、維持血行動力學），類固醇的效果有爭議。\n- 預防：盡早固定骨折。\n\n本題股骨骨折術後出現意識模糊與點狀出血，瞳孔正常對稱，最符合脂肪栓塞症候群，而不是頭部外傷顱內壓升高，因此不應給予 mannitol，故 (C) 最不適當。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -24754,7 +24754,7 @@
       "D": "boxer's fracture"
     },
     "answer": "A",
-    "explanation": "骨科最愛考的人名題又出現了。底下將骨科常見手指、腳趾 fractures 合併討論給大家參考\n\n| 部位 | 骨折名稱 | 斷裂位置與方式 |\n| --- | --- | --- |\n| 手指 | Bennett | 大拇指掌骨近端（近 CMC joint）的單純性骨折（裂成兩半） |\n| | Rolando | 和 Bennett 類似，但是比較嚴重，是裂成較多塊的粉碎性骨折 |\n| | Boxer's | 顧名思義，拳擊手出拳後第五指的掌骨遠端（近 MCP joint）骨折並往掌側位移（也可以發生在第四指，但通常講 Boxer 是指第五指） |\n| 腳趾 | Jones | 第五趾蹠骨斷裂在 metaphysis 的位置 |\n| | Dancer's | 同樣是第五趾蹠骨但是位置更靠近 tarsometatarsal (TMT) joint，約在 tuberosity 處，又稱 avulsion fracture |\n| | Lisfranc | TMT joint 又名 Lisfranc joint；Lisfranc fracture 分很多種類，大原則是蹠骨們與跗骨 (tarsus) 分離 |\n\n掌骨：metacarpal bone；蹠骨：metatarsal bone",
+    "explanation": "答案 (A)。\n\n**拇指掌骨基底骨折**\n\n| 骨折 | 型態 |\n| --- | --- |\n| Bennett 骨折 | 第一掌骨基底關節內骨折，兩片（掌側尺側小骨片留在原位，掌骨幹被外展拇長肌拉向橈側背側近端而脫位） |\n| Rolando 骨折 | 第一掌骨基底關節內粉碎性骨折（三片以上，Y 或 T 字形），預後較差 |\n| Boxer's 骨折 | 第五掌骨頸骨折（揮拳打擊） |\n| Jones 骨折 | 第五蹠骨近端骨幹與骨幹端交界處骨折（足部），癒合不良風險高 |\n\n本題為拇指掌骨基底的粉碎性關節內骨折，診斷為 Rolando 骨折。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -24774,7 +24774,7 @@
       "D": "髕骨韌帶斷裂（patellar tendon rupture）"
     },
     "answer": "C",
-    "explanation": "「膝部疼痛卡住」暗示應為半月板傷害，常見主訴是膝關節有異物感或在彎曲 30° 有鎖住的感覺，無法伸直及彎曲\n\n(A) (B) (D) 選項皆屬韌帶斷裂，患者應會主訴在受傷當下膝關節內有斷裂聲，可在藉由困難移動的動作來鑑別，前十字韌帶拉傷仍可移動，但在 Lachman test 會看到脛骨向前鬆動；髕骨韌帶斷裂則會使 knee extension 受到影響，通常受傷後無法行走；內側副韌帶斷裂則相對輕微，患者仍可移動只是在膝內側可能會有紅腫瘀青表現",
+    "explanation": "答案 (C)。\n\n**膝關節鎖住（locking）**\n\n- 真正的鎖住：膝蓋卡在彎曲位置，無法完全伸直，常見原因是半月板桶柄狀撕裂（撕裂的碎片翻到髁間窩）或關節內游離體。\n- 運動時扭轉膝關節後出現疼痛、卡住、無法伸直，X 光無骨折，最可能是半月板破裂。\n- 處置：MRI 確認，桶柄狀撕裂造成鎖住時應盡早關節鏡手術（復位修補或部分切除）。\n\n| 鑑別 | 特點 |\n| --- | --- |\n| 內側副韌帶斷裂 | 外翻受傷，內側壓痛、外翻不穩定，無鎖住 |\n| 前十字韌帶斷裂 | 落地或急停轉向時「啪」一聲，數小時內關節血腫，Lachman test 陽性；可伴隨假性鎖住 |\n| 髕骨肌腱斷裂 | 無法主動伸膝，髕骨上移 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -24794,7 +24794,7 @@
       "D": "肱骨外髁骨折（lateral condylar fracture of the humerus）"
     },
     "answer": "B",
-    "explanation": "Salter-Harris classification 針對生長板傷害的型態做分類：\n\n| Salter-Harris classification | 型態描述 | 發生率 & 預後 |\n| --- | --- | --- |\n| I Slipped | 骨折面橫斷過生長板，無位移且不波及 metaphysis 和 epiphysis | < 10%<br>預後佳 |\n| II Above | 骨折面橫斷過生長板，並向 metaphysis 端裂出 | 最常見 (75%)<br>預後佳 |\n| III Lowered | 骨折面橫斷過生長板，並向 epiphysis 端裂出 | < 10%<br>預後差 \\* |\n| IV Through/Transverse | 骨折斷面與骨走向較平行，涉及生長板、metaphysis、epiphysis | 10%<br>預後差 \\* |\n| V Ruined/Rammed | 很大的能量 (crush/compression) 擾亂生長板內的組成，如電擊、燒傷、凍瘡，無明顯斷面或位移 | < 1%<br>預後最差 |\n\n\\* 牽涉 epiphysis 對日後生長影響較大，因其包含保留區 (zone of reservation) 和增殖區 (zone of proliferation)，涉及軟骨內骨化的過程，常要手術復位及固定 (ORIF)\n\n(A) 鎖骨骨折大部分為 midshaft fracture (80%)，不影響生長板\n(B) 近端肱骨骨折在兒童不常見，但近三成近端肱骨骨折涉及生長板（位於 anatomical neck of humerus），由於肩關節方位之故，此處的生長板骨折以 type II 為主，也因近端肱骨生長板 remodeling 能力很好，通常保守治療即可。（補充：七成近端肱骨骨折位於 surgical neck）\n(C) 肱骨髁上骨折為兒童最常見的手肘骨折類型、(D) 肱骨外髁骨折次之，但遠端肱骨骨折少有生長板傷害，有的話原因多是兒虐或分娩損傷，type I~IV 皆有可能",
+    "explanation": "答案 (B)。\n\n**Salter-Harris 生長板骨折**\n\n| 分型 | 骨折線 | 記憶（SALTR） |\n| --- | --- | --- |\n| I | 只通過生長板 | Straight across |\n| II | 通過生長板並延伸到幹骺端（最常見，約 75%） | Above |\n| III | 通過生長板並延伸到骨骺（關節內） | Lower |\n| IV | 穿過幹骺端、生長板與骨骺 | Through |\n| V | 生長板壓迫性損傷（最難診斷，預後最差） | Rammed |\n\n- 近端肱骨骨折在青少年常發生在生長板，以 Salter-Harris 第 II 型最常見。\n- 其他常見 Salter-Harris II 型骨折的部位：遠端橈骨（最常見的生長板骨折）、遠端脛骨。\n- 肱骨髁上骨折不通過生長板；肱骨外髁骨折多屬 Salter-Harris IV 型；鎖骨骨折多在骨幹中段。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
