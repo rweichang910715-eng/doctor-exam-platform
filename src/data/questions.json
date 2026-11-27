@@ -1776,7 +1776,7 @@
       "D": "流感病毒感染抽血檢驗時可能會見到白血球偏低"
     },
     "answer": "A",
-    "explanation": "兒童疫苗的接種近年非常愛考，建議上疾管署網站把「現行兒童預防接種時程」看過一次，目前台灣施打的是非活性疫苗，若不知道是否對雞蛋過敏，仍可以施打流感疫苗，施打完後觀察 30 分即可\n\n(A) 錯誤，最小 6 個月即可施打，流感疫苗在過去未曾接種的 6 個月到 9 歲的兒童之中，初次接種 1 劑後，間隔 4 週後須再施打第 2 劑；曾接種過者，每年施打一劑即可\n(B) 正確，但若是 9 歲以上兒童，不論其過去接種史，皆是每年一劑即可\n(C) 正確，針對較嚴重的患者，可給予 neuraminidase inhibitor（如：口服 Oseltamivir、吸入型 Zanamivir、注射型 Peramivir 等），尤其對 A 型流感治療效果較好\n(D) 正確，流感病毒感染病人的白血球可能會偏低或正常",
+    "explanation": "答案 (A)。\n\n**兒童流感的預防與治療**\n\n- 流感疫苗：6 個月以上即可接種（不是 1 歲以上），故 (A) 錯誤；6 個月以下嬰兒靠母親懷孕時接種與家人接種保護。\n- 9 歲以下（台灣常以 8 歲以下表示）首次接種者需打 2 劑，間隔 4 週。\n- 抗病毒藥物：神經胺酸酶抑制劑（oseltamivir、zanamivir、peramivir）或 baloxavir；高風險族群（< 5 歲、慢性病）或重症者，即使超過 48 小時仍建議治療。\n- 檢驗：白血球可正常或偏低（淋巴球減少）；B 型流感常合併小腿肌肉疼痛（良性急性肌炎），需注意 CK 與橫紋肌溶解。\n- 併發症：中耳炎、肺炎（含續發金黃色葡萄球菌）、心肌炎、腦病變、肌炎。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-1_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-1_merged.png"
@@ -1801,7 +1801,7 @@
       "D": "對於沒有通過聽力篩檢的新生兒，須考慮先天性巨細胞病毒感染之可能性"
     },
     "answer": "A",
-    "explanation": "CMV 是最常見的先天性感染，可於懷孕任何時期造成垂直感染，但影響最嚴重的是第一孕期時，為造成聽力損失（hearing loss）、心智遲緩（mental retardation）、視網膜疾病（retinal disease）、腦性麻痺（cerebral palsy）的主要因子\n\n(A) 錯誤，約只有 12～18% 的病人在出生時有臨床症狀，遠遠不到 90%\n(B) 正確，一般來說足月健康的新生兒，因為有母體的抗體保護，所以就算感染也症狀輕微，因此哺餵是安全的\n(C) 正確，其他症狀還包括小頭症（microcephaly）、血小板低下（thrombocytopenia）、腦內鈣化（intracranial calcifications）以及 blueberry muffin appearance 等，其中腦內鈣化特別好發於腦室周圍以及 germinal matrix\n(D) 正確，其他要考慮的還有 Rubella infection、腦膜炎、使用有耳毒性的藥物等\n\n媽媽是否可以哺乳亦是國考常見的考題，整理在以下表格供參考：\n\n| 媽媽患有的疾病 | 是否可哺乳 | 說明 |\n| --- | :---: | --- |\n| HIV、HTLV | ✕ | 建議不要哺餵母乳 |\n| Chemotherapy | ✕ | 建議不要哺餵母乳 |\n| VZV/HSV | ▲ | 若未結痂病灶可能碰到寶寶，建議不要哺餵母乳 |\n| TB | ▲ | 開放性肺結核會傳染給寶寶，因此媽媽在有效治療 2 周後，才可以哺餵母奶 |\n| Hepatitis B | ▲ | 寶寶出生後施打免疫球蛋白並注射疫苗後，可哺餵母奶 |\n| Hepatitis C | ◯ | 可以哺餵，並非禁忌症 |\n| CMV | ◯ | 雖然乳汁裡面會有病毒，但是傳染給健康足月新生兒造成嚴重症狀的機率不高，因此可以哺餵 |\n| 抽菸 | ◯ | 不鼓勵媽媽抽菸，但抽菸還是可以哺餵母奶 |\n| 喝酒 | ◯ | 不鼓勵媽媽飲酒，但飲酒還是可以哺餵母奶 |\n\n備註：◯ 表示可以、✕ 表示建議不要、▲ 表示有條件可以",
+    "explanation": "答案 (A)。\n\n**先天性巨細胞病毒（CMV）感染**\n\n- 最常見的先天性感染（約 0.5–1% 新生兒）。\n- 約 85–90% 的先天性 CMV 感染新生兒出生時沒有症狀，只有約 10–15% 有症狀，故 (A) 錯誤；但無症狀者中約 10–15% 日後仍會出現感音性聽損。\n- 有症狀者的表現：子宮內生長遲滯、小頭症、腦室周圍鈣化、肝脾腫大、黃疸、點狀出血或藍莓鬆餅樣紅疹、血小板低下、脈絡膜視網膜炎、感音性聽損。\n- 診斷：出生 3 週內以尿液或唾液 CMV PCR 確診。\n- 新生兒聽力篩檢未通過時，應考慮先天性 CMV 感染並在 3 週內檢測。\n- 足月健康新生兒即使母親 CMV 血清陽性，仍可哺餵母乳；極早產兒則需注意母乳傳染的風險（可冷凍或巴氏殺菌）。\n- 有症狀者以 valganciclovir 治療 6 個月，可改善聽力與神經發展預後。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-2_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-2_merged.png"
@@ -1827,7 +1827,7 @@
       "D": "肺炎鏈球菌（Streptococcus pneumoniae）"
     },
     "answer": "B",
-    "explanation": "教科書直翻的記憶題，GAS（Streptococcus pyogenes）是最常造成兒童菌性咽喉炎的致病菌，病毒的話則是以 Rhinoviruses 為大宗，給予抗生素治療 GAS 造成的咽喉炎可縮短病程，並減少發展成風溼熱（rheumatic fever）的機會\n\n(A) 嗜血桿菌要想到的急性會厭炎（acute epiglottitis），影像上會出現 thumbprint sign\n(C) 肺炎黴漿菌（Mycoplasma pneumoniae）是非典型細菌，透過飛沫傳播，為社區性肺炎常見的致病菌之一，因其造成的肺炎通常症狀較輕微，所以又稱為「會走路的肺炎」（walking pneumonia）\n\n| 鏈球菌亞型 | 常見疾病 |\n| --- | --- |\n| Group A Strep | Pharyngitis, scarlet fever, erysipelas, rheumatic fever, GN |\n| Group B Strep | Neonatal meningitis, puerperal fever（產褥熱） |\n| Strep. viridans | Subacute endocarditis |\n| Strep. pneumoniae | Pneumonia, sinusitis, meningitis, otitis media, bacteremia |",
+    "explanation": "答案 (B)。\n\n**兒童咽喉炎的病原**\n\n- 大多數兒童咽喉炎是病毒性（腺病毒、腸病毒、EB 病毒、流感）。\n- 細菌性咽喉炎最常見的病原是 A 群鏈球菌，好發於 5–15 歲學齡兒童，冬春季較多。\n- A 群鏈球菌咽炎的表現：突發喉嚨痛、發燒、扁桃腺滲出物、軟腭點狀出血、前頸淋巴結腫痛，通常沒有咳嗽、流鼻水；可出現猩紅熱皮疹。\n- 診斷：快速抗原檢測或咽喉培養。\n- 治療：penicillin 或 amoxicillin 10 天，可預防急性風濕熱。\n- 併發症：扁桃腺周圍膿瘍、急性風濕熱、急性鏈球菌感染後腎絲球腎炎。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-3_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-3_merged.png"
@@ -1853,7 +1853,7 @@
       "D": "心肌炎（Myocarditis）"
     },
     "answer": "C",
-    "explanation": "腸病毒是小兒科考到稀爛的考點，務必熟悉，腸病毒可以引發多種疾病，其中很多是沒有症狀的感染，或只出現類似一般感冒的輕微症狀，常引起手足口病（hand-foot-mouth disease）及疱疹性咽峽炎（herpangina），較嚴重的併發症則包括無菌性腦膜炎、病毒性腦炎、心肌炎、肢體麻痺症候群、急性出血性結膜炎（acute hemorrhagic conjunctivitis）等，若感染腸病毒 D68 型，可能引起嚴重呼吸道症狀、腦炎或急性無力脊髓炎，故此題應選 (C)（同樣是較容易引起重症的 71 型則較少呼吸道症狀）\n\n腸病毒感染較常見的疾病、臨床症狀及可能病毒型別如下：\n\n| 疾病 | 病原 | 說明 |\n| --- | --- | --- |\n| 疱疹性咽峽炎 | A 型克沙奇病毒 | 特徵為突發性發燒、嘔吐及咽峽部出現小水泡或潰瘍，病程為 4 至 6 天，病例多數輕微無併發症，少數併發無菌性腦膜炎 |\n| 手足口病 | A 型克沙奇病毒、腸病毒 71 型 | 特徵為發燒及身體出現小水泡，主要分布於口腔黏膜及舌頭，其次為軟顎、牙齦和嘴唇；四肢則包含手掌、腳掌、手指及腳趾，常因口腔潰瘍而無法進食，病程 7-10 天 |\n| 嬰兒急性心肌炎、成人人心包膜炎 | B 型克沙奇病毒 | 特徵為突發性呼吸困難、蒼白、發紺、嘔吐，開始可能誤以為肺炎，接著可能快速演變成心衰竭、休克、甚至死亡 |\n| 流行性肌肋痛 | B 型克沙奇病毒 | 特徵為陣發性胸痛，合併發燒、頭痛及短暫噁心、嘔吐和腹瀉，病程約 1 週 |\n| 急性淋巴結性咽炎 | A 型克沙奇病毒 | 特徵為發燒、頭痛、喉嚨痛、懸雍垂和後咽壁有明顯白色病灶，持續 4 至 14 天 |\n| 發燒合併皮疹 | 各類型克沙奇及伊科病毒 | 皮疹通常為斑丘疹，有些會出現小水泡 |\n| 新生兒腸病毒感染 | B 型克沙奇病毒或伊科病毒 | 初期症狀包括發燒、食慾不佳、活動力下降、躁動不安、皮膚出現紅疹、腹瀉或嘔吐等，病況進展嚴重時可引發凝血異常、心肌炎、肝炎、腦炎、新生兒敗血症 |",
+    "explanation": "答案 (C)。\n\n**腸病毒感染的臨床表現**\n\n- 無症狀或非特異性發熱（最常見）\n- 手足口病、疱疹性咽峽炎\n- 無菌性腦膜炎、腦炎、腦幹腦炎（EV71）、急性弛緩性麻痺\n- 心肌炎、心包膜炎（克沙奇 B 型病毒）\n- 流行性肋肌痛（克沙奇 B 型）\n- 急性出血性結膜炎（EV70、克沙奇 A24）\n- 新生兒敗血症樣疾病（肝炎、心肌炎、腦膜腦炎）\n\n骨髓炎主要是細菌（金黃色葡萄球菌最常見）造成，不是腸病毒感染的典型表現。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-4_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-4_merged.png"
@@ -1879,7 +1879,7 @@
       "D": "腦膜炎"
     },
     "answer": "A",
-    "explanation": "從 Nelson Ch. 407 出題，兒童的耳咽管較為水平、寬短，黏膜纖毛的免疫與清除功能也尚未成熟，因此容易發生中耳炎，在上呼吸道感染的兒童之中，急性中耳炎（acute otitis media, AOM）是最常見的併發症，發生率約 5～30%，故選 (A)，(C) 選項的急性鼻竇炎是另一個常見的併發症，發生率約 5～13%\n\n＜補充＞\n1. 兒童 common cold 最常見的病原體為 rhinovirus\n2. 兒童急性中耳炎常見的致病菌，包括肺炎鏈球菌（Streptococcus pneumoniae）、嗜血桿菌（Haemophilus influenzae）、卡他莫拉菌（Moraxella catarrhalis）\n3. 兒童急性中耳炎抗生素治療首選為 Amoxicillin 80-90 mg/kg/day，治療 10 天，抗生素治療時機整理如下表：\n\n| 年紀 | 建議治療 |\n| --- | --- |\n| ＜ 6 個月 | 有懷疑就要接受抗生素治療 |\n| 6～24 個月 | 確診即接受抗生素治療；未確認診斷但出現高燒、嚴重耳朵痛者也建議治療 |\n| ＞ 2 歲 | 先觀察，除非很嚴重，否則不見得要給抗生素 |",
+    "explanation": "答案 (A)。\n\n**幼兒感冒的併發症**\n\n- 最常見的併發症是急性中耳炎：幼兒的耳咽管較短、較平、較軟，上呼吸道感染時容易阻塞，病毒與細菌（肺炎鏈球菌、流感嗜血桿菌、卡他莫拉菌）進入中耳。好發於 6 個月至 2 歲。\n- 其他併發症：急性鼻竇炎（較大兒童常見）、氣喘發作、肺炎、結膜炎。\n- 腦膜炎是少見的嚴重併發症。\n\n**補充**：急性中耳炎的表現為耳痛（拉耳朵、哭鬧）、發燒，鼓膜膨出、發紅、活動度下降；2 歲以下或症狀嚴重者建議 amoxicillin 治療。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-5_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-5_merged.png"
@@ -1905,7 +1905,7 @@
       "D": "23價"
     },
     "answer": "D",
-    "explanation": "試想如果 23 價和其他的製程機轉也相似的話，其他家應該早就被打趴了吧？雖然都是不活化的次單元疫苗，但 23 價是 1980 年代研發出的多醣體（polysaccharide）型疫苗，7、10、13 則是 2000 年後陸續研發出的蛋白載體結合型（conjugated）疫苗，莢膜多醣體只能引起 B cell 免疫反應，加上了蛋白載體（如：白喉 CRM197）後，則可引發 T cell 免疫反應，2021 年美國 FDA 剛核可 PCV20 也是結合型疫苗，目前還沒在台灣使用，以下表格整理兩種製程機轉疫苗的特色：\n\n| 商品名 | 肺炎鏈球菌結合型疫苗（PCV13） | 肺炎鏈球菌多醣體型疫苗（PPV23） |\n| --- | --- | --- |\n| 菌種數 | 涵蓋 13 種血清型別 | 涵蓋 23 種血清型別 |\n| 持久力 | (◯) 較持久，至少 10 年 | (✕) 較短暫，最多 5 年 |\n| 免疫記憶力 | (◯) T cell dependent，具有較長久的免疫記憶力 | (✕) T cell independent，免疫力容易隨時間消退 |\n| 群體保護力 | (◯) 可降低鼻咽腔帶菌 | (✕) 無法降低鼻咽腔帶菌 |\n| 適用對象 | 出生滿六週以上 | 出生滿兩歲以上 |\n| 可能副作用 | 發燒、疲憊、注射部位紅腫等等 | |\n| 備註 | * PCV13 有群體保護力，小朋友打疫苗可以減低老人得病機會<br>* PCV13 亦可減少小朋友中耳炎以及相關的併發症 | |",
+    "explanation": "答案 (D)。\n\n**肺炎鏈球菌疫苗**\n\n| 疫苗 | 製程 | 特點 |\n| --- | --- | --- |\n| 結合型（PCV7、PCV10、PCV13、PCV15、PCV20） | 莢膜多醣體與載體蛋白結合 | 誘發 T 細胞依賴性免疫，2 歲以下嬰幼兒有效，產生免疫記憶，可減少鼻咽帶菌（群體免疫） |\n| 多醣體型（PPV23） | 單純莢膜多醣體 | T 細胞非依賴性免疫，2 歲以下效果差，無免疫記憶，不能減少帶菌 |\n\n23 價疫苗是多醣體疫苗，製程與其他三種結合型疫苗明顯不同。\n\n**補充**：台灣公費常規嬰幼兒接種結合型疫苗（PCV13，2025 年改 PCV15 或 PCV20）；65 歲以上長者接種結合型疫苗後再接種 PPV23。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-6_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-6_merged.png"
@@ -1931,7 +1931,7 @@
       "D": "Fluorescence in situ hybridization（FISH）"
     },
     "answer": "D",
-    "explanation": "直接照搬 Nelson 表格的難題，表格內包含前三種方法，以下簡單說明各選項，建議看看就好\n\n(A) 連鎖分析（Linkage analysis）：主要概念是透過觀察細胞減數分裂（meiosis）過程中，染色體的某些染色分體發生交換（crossover）後重新組合的現象，通常透過收集罹病家族成員的罹病狀態資料與標誌基因資料，觀察標誌基因的基因型（genotype）由前代傳遞到下一代的模式，然後用統計方法推估出致病基因與每個標誌基因間的重組率，低重組率表示致病基因與標誌基因有連鎖，亦即致病基因就在該標誌基因附近，概念上可以想成是染色體海中的指南針\n(B) 染色體基因晶片分析（aCGH）：是用兩組基因體（控制組與測試組）以不同的螢光進行標示後，一起放在染色體的載玻片上進行競爭式雜交，如有一段區域呈現某一螢光顏色較強，即代表有其中一組基因體的基因拷貝數有增加或減少的現象，但偵測不出平衡移位、點突變或是太小的片段異常，此法藉由晶片上數以萬計的寡核苷酸（DNA）探針，進行全基因組的遺傳分析，概念上可以想成用人海戰術逐個檢查\n(C) DNA sequence-based analysis：顧名思義就是用 DNA 序列的異同直接做比較，解析度非常好，例如造成 cystic fibrosis 的 CFTR gene 中曾經被報導有超過 1000 種突變的型態，要探查是哪裡出了問題就得使用 PCR 技術來看特定序列是否突變，概念上像是依循前人的航海圖到特定點檢查\n(D) 螢光原位雜合技術（FISH）：FISH 是以螢光染劑來取代放射線的原位雜交技術，此技術主要使用螢光標記的單鏈核酸片段作為探針（probe），與檢體組織或是細胞的染色體進行雜交反應，再用螢光檢測系統去偵測訊號，來確定雜交位點在哪裡，FISH 常用於檢測組織或細胞中染色體上的 DNA 或 RNA 序列的存在、缺失、定位、完整性和數量，在單基因疾病的分子診斷上較無角色",
+    "explanation": "答案 (D)。\n\n**遺傳疾病的分子診斷方法**\n\n| 方法 | 偵測範圍 | 適用 |\n| --- | --- | --- |\n| 傳統染色體分析 | 大型數目與結構異常（> 5–10 Mb） | 三染色體症、轉位 |\n| FISH | 特定位置的已知缺失、重複或轉位 | 已知微缺失症候群（DiGeorge、Williams）、快速診斷三染色體症 |\n| 陣列比較基因體雜交（aCGH） | 全基因體的拷貝數變異（微缺失、微重複） | 發展遲緩、多重先天異常 |\n| 定序（Sanger、次世代定序、全外顯子） | 單一核苷酸變異、小片段插入缺失 | 單基因疾病 |\n| 連鎖分析 | 利用多型性標記追蹤家族中的致病等位基因 | 基因未知或間接診斷單基因疾病 |\n| MLPA | 特定基因的外顯子缺失或重複 | 如 SMA、Duchenne 肌肉失養症 |\n\nFISH 只能偵測特定已知位置的大片段異常（數十至數百 kb），無法偵測單基因疾病常見的點突變，最不適合用於單基因疾病的分子診斷。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-7_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-7_merged.png"
@@ -1957,7 +1957,7 @@
       "D": "Spinal muscular atrophy"
     },
     "answer": "B",
-    "explanation": "典型的 clenched fists with overlapping fingers 和 rocker bottom feet（搖椅底狀腳）→ 選 (B)，國考近年喜歡用圖片出題，下方表格整理一些疾病出現的徵象：\n\n| 基因異常 | 疾病名稱 | 特色 |\n| --- | --- | --- |\n| Trisomy 21 | Down syndrome | 智能障礙、臉平、斷掌（single palmar crease）、低位耳、內眥贅皮、先天心臟病（50%，VSD/ASD）、十二指腸閉鎖、先天性巨結腸症、ALL/AML 機率上升 |\n| Trisomy 18 | Edwards syndrome | 嚴重智能障礙、小頭畸形、rocker bottom feet、兔唇顎裂、低位耳、內眥贅皮、先天心臟病（90%，VSD）、clenched fists with overlapping fingers、多在一歲內死去 |\n| Trisomy 13 | Patau syndrome | 嚴重智能障礙、小頭畸形、Rocker bottom feet、兔唇顎裂、全前腦畸形、多指、隱睪、多在一歲內死去 |\n| Chr 15q21.1 FBN1 (AD) | Neonatal Marfan syndrome (nMFS) | 關節攣縮、外耳皺摺、皮膚鬆弛、先天性心臟病（二尖瓣與三尖瓣逆流導致鬱血性心衰竭；主動脈剝離並不常見），多在三歲內死去 |\n| Chr 5q11.2-q13.3, SMN gene (AR) | Spinal muscular atrophy (SMA) | (1) SMA type 0 (pre-natal)：出生時就有嚴重 hypotonia，通常出生後第一個月就會因為呼吸衰竭死亡<br>(2) SMA type 1 (infantile, Werdnig-Hoffmann)：最常見的型，6 個月大前發病，LMN 受損，無法自己坐直、呼吸肌無力、吸吮跟吞嚥能力都受損，如果沒治療大多於 2 歲前死亡<br>(3) SMA type 2 (intermediate, Dubowitz)：6 個月～18 個月大發病，可以自己坐直（長大後又會失去此能力），但無法自己站立，預期壽命比正常人短，但可能可以活到成年期<br>(4) SMA type 3 (juvenile, Kugelberg-Welander)：臀部、腿部肌肉較無力，依照嚴重度不同，有的人最終可以自己行走、有的則需依賴輪椅，預期壽命大多正常<br>(5) SMA type 4 (late onset)：症狀較輕，通常 35 歲以後才發病，預期壽命正常 |",
+    "explanation": "答案 (B)。\n\n**18 號三染色體症（Edwards syndrome）**\n\n- 典型外觀：\n  - 手指重疊的握拳手（第二指壓在第三指上、第五指壓在第四指上）\n  - 搖椅底足（rocker-bottom feet）\n  - 指甲發育不良、小下巴、低位耳、枕骨突出、短胸骨\n- 合併嚴重心臟異常（心室中隔缺損等）、生長遲滯、嚴重智能障礙。\n- 預後很差，多數在 1 歲內死亡。\n\n| 鑑別 | 肢體特點 |\n| --- | --- |\n| 唐氏症 | 單一掌紋、第五指彎曲、第一二腳趾間距大（草鞋腳） |\n| 新生兒型馬凡氏症候群 | 細長手指（蜘蛛指）、關節攣縮 |\n| 脊髓性肌肉萎縮症 | 全身肌張力低下，蛙腿姿勢 |\n| 13 號三染色體症 | 多指症、唇顎裂、頭皮缺損、全前腦 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-8_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-8_merged.png"
@@ -1987,7 +1987,7 @@
       "D": "磺胺劑（Sulfa drug）"
     },
     "answer": "A",
-    "explanation": "蠶豆症患者需要避免的藥物和化學藥品非常複雜，解熱止痛類藥品中，NSAID 和 acetaminophen 被歸類為相對安全的；aspirin 在過去被認為應盡量避免，目前則認為低劑量使用可能安全，故選 (A)，另外，台灣大部分 G6PD 患者在 WHO 的嚴重度分類中屬於嚴重的 class II（酵素活性 ＜ 10% 正常值），因此藥物的避免非常重要，以下整理出蠶豆症患者需要避免的藥物或是物質：\n\n| 種類 | 藥品名稱 |\n| --- | --- |\n| 磺胺類藥物 | Sulfamethoxazole, Sulfasalazine, Sulfadiazine silver |\n| 抗瘧藥品 | Hydroxychloroquine |\n| 降血糖藥 | Glibenclamide, Glyburide, Glimepiride, Glipizide |\n| 抗生素 | Nitrofurantoin, Nalidixic Acid, Chloramphenicol, Ciprofloxacin |\n| 降尿酸藥 | Probenecid, Rasburicase |\n| 青光眼用藥 | Acetazolamide |\n| 化療和其他用藥 | Dabrafenib, Doxorubicin, Dapsone, Methylene blue |\n| 食物類 | 蠶豆製品 |\n| 薄荷成分用品 | 薄荷口香糖、曼秀雷敦、綠油精、白花油 |\n| 樟腦成分用品 | 樟腦丸、冬青油 |\n| 其他化學物質 | 龍膽紫（紫藥水）、指甲花染料、萘丸、含苯染料 |",
+    "explanation": "答案 (A)。\n\n**G6PD 缺乏症應避免的物質**\n\n| 類型 | 例子 |\n| --- | --- |\n| 藥物 | 磺胺類（sulfamethoxazole、dapsone）、primaquine、nitrofurantoin、rasburicase、methylene blue、部分 quinolone、大劑量 aspirin |\n| 化學物質 | 樟腦丸（萘，naphthalene）、紫藥水（龍膽紫，gentian violet）、硫化物 |\n| 食物 | 蠶豆 |\n| 其他 | 感染（最常見的誘因） |\n\nAcetaminophen 在一般治療劑量下是安全的，可以正常使用（台灣衛福部列為可使用）；大劑量 aspirin 才需注意。\n\n**補充**：發燒時建議使用 acetaminophen 或 ibuprofen 退燒，避免含水楊酸的成分。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-9_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-9_merged.png"
@@ -2012,7 +2012,7 @@
       "D": "酪胺酸血症（Tyrosinemia）"
     },
     "answer": "C",
-    "explanation": "著名的代謝疾病氣味題，詳見下方表格整理：\n\n| 疾病 | 異常的味道 |\n| --- | --- |\n| Maple syrup urine disease | 楓糖漿味 |\n| Isovaleric acidemia（異戊酸血症）<br>Glutaric acidemia type II（戊二酸血症 II） | 腳臭味（Sweaty feet） |\n| Hypermethioninemia（高甲硫胺酸血症）<br>Tyrosinemia（酪胺酸血症） | 煮熟的高麗菜味（Boiled cabbage） |\n| Phenylketonuria（苯丙酮尿症） | 霉臭味 |\n| Trimethylaminuria（三甲基胺尿症） | 腐魚味 |\n| Hawkinsinuria（霍金斯尿症） | 游泳池消毒水味 |",
+    "explanation": "答案 (C)。\n\n**三甲基胺尿症（魚臭症）**\n\n- 體染色體隱性遺傳，FMO3 酵素缺乏，無法把三甲基胺氧化為無味的三甲基胺 N-氧化物。\n- 三甲基胺從汗水、呼吸、尿液排出，散發魚腥味。\n- 富含膽鹼、卵磷脂或三甲基胺氧化物的食物（蛋黃、肝臟、豆類、海魚）會加重氣味。\n- 新生兒篩檢未涵蓋，身體診察正常，不影響智能。\n- 治療：限制高膽鹼食物、短期抗生素（減少腸道細菌製造）、活性碳、使用弱酸性肥皂。\n\n| 代謝疾病的特殊氣味 | 疾病 |\n| --- | --- |\n| 汗腳味 | 異戊酸血症 |\n| 霉味、鼠臭味 | 苯酮尿症 |\n| 煮熟的高麗菜味 | 酪胺酸血症 |\n| 楓糖漿味 | 楓糖尿症 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-10_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-10_merged.png"
@@ -2037,7 +2037,7 @@
       "D": "迴腸閉鎖（Ileum atresia）"
     },
     "answer": "C",
-    "explanation": "三個泡泡分別由 dilated stomach、duodenum 以及 proximal jejunum 產生，下表整理 X ray 偵測到各種氣泡的疾病\n\n| 影像表徵 | 相關疾病 |\n| :--- | :--- |\n| Single bubble sign | Congenital hypertrophic pyloric stenosis |\n| Double bubble sign | Duodenal atresia, annular pancreas |\n| Triple bubble sign | Jejunal atresia |\n\n(D) 迴腸閉鎖 (Ileum atresia) 在影像中可見因充滿空氣而脹大的近端大腸 (dilated loops of proximal bowel)",
+    "explanation": "答案 (C)。\n\n**新生兒腸閉鎖的 X 光**\n\n| 疾病 | X 光 | 嘔吐 |\n| --- | --- | --- |\n| 肥厚性幽門狹窄 | 胃擴大，3–6 週才發病 | 非膽汁性 |\n| 十二指腸閉鎖 | 雙泡徵象（胃與十二指腸近端），遠端無氣；常合併唐氏症 | 膽汁性（閉鎖多在 Vater 壺腹遠端） |\n| 空腸閉鎖 | 三泡徵象（胃、十二指腸、近端空腸），遠端無氣 | 膽汁性，出生 1 天內發生 |\n| 迴腸閉鎖 | 多處擴張腸圈與氣液平面，腹部膨脹 | 膽汁性，較晚出現 |\n\n本題新生兒出生 1 天後膽汁性嘔吐，腹部平坦，X 光中腹有 3 團腸氣（三泡徵象），其他部位無氣，最可能是空腸閉鎖。\n\n**補充**：空腸與迴腸閉鎖多因胎兒期腸系膜血管意外造成，較少合併其他異常。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-11_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-11_merged.png"
@@ -2062,7 +2062,7 @@
       "D": "應置放臍靜脈導管後，以高濃度葡萄糖輸注液滴注"
     },
     "answer": "C",
-    "explanation": "由於新生兒低血糖相關的研究不足，低血糖是否會造成後續永久的腦損傷也眾說紛紜，因此目前只要符合新生兒低血糖定義，就建議盡快補並密切監測，新生兒低血糖的定義為：出生 24 小時內測得血糖小於 30 mg/dL，或出生 24 小時後測得血糖小於 45 mg/dL，新生兒低血糖的臨床表現通常不典型，可能症狀包括：手腳震顫 (jitteriness)、餵食困難 (feeding difficulties)、蒼白 (pallor)、張力下降 (hypotonia)、低體溫 (hypothermia)、心搏減緩 (bradycardia) 等等\n\n(A) 錯誤，雖然出生後 2 小時的確會出現血糖最低值（約 55 mg/dL），但低到 20 mg/dL 且有症狀，應立即補充 IV bolus D10W 2 mL/kg 後再測一次\n(B) 錯誤，儘早腸道營養 (early enteral feeds) 是「無症狀」新生兒低血糖的處置，有症狀應該輸注葡萄糖而不是補餵母奶\n(C) 正確，針對有症狀的低血糖，應立即 IV bolus 2 mL/kg D10W 後再測一次，之後緩慢滴注（新生兒或嬰兒的速率約：6-8 mg/kg/min）並考慮使用其他藥物 (glucagon, hydrocortisone 等)，如果出現低血糖癲癇 (hypoglycemic seizures)，建議給予 4 mL/kg D10W bolus\n(D) 錯誤，置放臍靜脈導管可給予較高濃度的葡萄糖液，但不屬於初步處置",
+    "explanation": "答案 (C)。\n\n**新生兒有症狀的低血糖**\n\n- 本題足月小於妊娠年齡（SGA，2,200 公克）的新生兒，出生後 2 小時出現手腳震顫，血糖 20 mg/dL。\n- 高危險群：SGA、大於妊娠年齡、糖尿病母親的嬰兒、早產兒、窒息、低體溫、敗血症。\n- 處置：\n  - 有症狀或血糖 < 25 mg/dL（出生 4 小時內）：立即靜脈推注 10% 葡萄糖 2 mL/kg（200 mg/kg），之後以葡萄糖滴注維持（葡萄糖輸注速率 6–8 mg/kg/min），並追蹤血糖。\n  - 無症狀、血糖 25–40 mg/dL：可先餵食（母乳或配方奶）或口服葡萄糖凝膠，30–60 分鐘後再測。\n- 不能只觀察或僅以哺乳處理有症狀的嚴重低血糖，故 (A)(B) 錯誤。\n- 周邊靜脈即可給予 ≤ 12.5% 的葡萄糖，不需要放置臍靜脈導管以高濃度葡萄糖滴注，故 (D) 錯誤。\n\n**補充**：持續或嚴重的低血糖可能造成腦傷（尤其枕葉），需找出原因（如高胰島素血症）。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-12_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-12_merged.png"
@@ -2084,7 +2084,7 @@
       "D": "腳掌橫紋紋路"
     },
     "answer": "A",
-    "explanation": "難題，這題考的是 New Ballard score for gestational age assessment 大表，評估面向包括 Neuromuscular maturity 以及 Physical maturity 兩方面，各項加總後的 maturity rating score (-10 ~ +50) 會有相對應的週數 (20 to 44 weeks)，評估項目如下表所列，不包括眼睛到耳朵的距離，故選 (A)，詳細對應的分數比較複雜，礙於版面限制，請自行上網查閱\n\n| 新生兒週數預估面向 | 子項目 |\n| :--- | :--- |\n| Neuromuscular maturity | posture, square window (wrist), arm recoil, popliteal angle, scarf sign, heel to ear |\n| Physical maturity | skin、lanugo (胎毛)、plantar surface (腳掌長度與紋路)、breast (乳頭與乳暈大小)、eye/ear (眼皮、耳廓、耳軟骨)、genitals (陰囊皺褶、睪丸下降、陰蒂陰唇等) |",
+    "explanation": "答案 (A)。\n\n**新生兒妊娠週數評估（New Ballard Score）**\n\n| 類別 | 評估項目 |\n| --- | --- |\n| 神經肌肉成熟度 | 姿勢、腕部方窗角度、手臂回彈、膕窩角度、圍巾徵象、腳跟到耳朵 |\n| 身體成熟度 | 皮膚、胎毛、腳底紋路、乳房（乳頭與乳暈）、眼睛與耳朵（耳廓軟骨與回彈）、生殖器 |\n\n- 「腳跟到耳朵」是評估下肢柔軟度的神經肌肉項目，而不是眼睛到耳朵的距離；眼睛到耳朵的距離不是評估項目。\n- 適合在出生後 12–20 小時內評估，準確度約 ± 2 週。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-13_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-13_merged.png"
@@ -2106,7 +2106,7 @@
       "D": "上段氣管閉鎖合併下段食道氣管瘻管"
     },
     "answer": "B",
-    "explanation": "「一直流口水並冒出泡泡」代表有食道氣管瘻管；「無法將口胃管順利放入」代表有食道閉鎖；「有腸氣」代表遠端的食道接到氣管，本題選 (B)，食道氣管瘻管一直是國考愛考的題型，各種亞型請務必熟記喔\n\n| Type | A | B | C | D | E |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **描述** | 單純食道閉鎖 | 食道閉鎖 + 近端氣管食道瘻管 | 食道閉鎖 + 遠端氣管食道瘻管 | 近端 + 遠端氣管食道瘻管 | 單純氣管食道瘻管 (H型) |\n| **發生率** | 8% | 1% | 86% | 1% | 4% |\n| **特性** | 胃小且沒有氣 | 胃小且沒有氣<br>嘴巴可冒泡泡 | 最常見！可見 distal gas，符合此病人狀況 | 可見 distal gas | 可見 distal gas |\n\n*** 食道氣管瘻管較常見於 VACTERL association (Vertebral anomaly, Anorectal atresia, Cardiac defect (VSD), T-E anomalies, Renal abnormalities, and Limb defect)",
+    "explanation": "答案 (B)。\n\n**食道閉鎖與氣管食道瘻管的分型**\n\n| 型態（Gross） | 比例 | 特點 |\n| --- | --- | --- |\n| C 型：近端食道閉鎖 + 遠端氣管食道瘻管 | 約 85%（最常見） | 胃腸有氣體 |\n| A 型：單純食道閉鎖（無瘻管） | 約 8% | 腹部無氣，常為長間隙 |\n| E 型（H 型）：單純氣管食道瘻管 | 約 4% | 無閉鎖，較晚才因反覆嗆咳、肺炎被診斷 |\n| B 型、D 型 | 少見 | — |\n\n- 本題新生兒流口水、冒泡泡，口胃管放不下去（食道閉鎖），腹部 X 光仍有胃腸氣（經遠端瘻管進入），最符合上段食道閉鎖合併下段氣管食道瘻管。\n- 產前可能有羊水過多。\n- 常合併 VACTERL 異常（脊椎、肛門、心臟、氣管食道、腎臟、肢體），需完整評估。\n- 處置：頭部抬高，近端食道袋持續抽吸防止吸入，盡早手術修補。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-14_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-14_merged.png"
@@ -2128,7 +2128,7 @@
       "D": "先天性巨結腸症（Hirschsprung disease）"
     },
     "answer": "A",
-    "explanation": "如果嘔吐物中有膽汁的話，堵塞的地方必須在十二指腸第二段之後（膽汁出口），因此本題選 (A)，增生性胃幽門狹窄的嘔吐會以噴射性嘔吐來表現，以下整理出會導致小兒膽汁性嘔吐 (bilious emesis) 之消化道異常之特徵：\n\n| 小兒膽汁性嘔吐相關疾病 | 年紀 | 特徵 |\n| :--- | :--- | :--- |\n| Malrotation with volvulus | 出生後 3-7 天 | 影像可見 corkscrew sign |\n| Enteric duplication cysts | 任何年紀皆有可能，多在一歲內 | 影像可見 double wall sign |\n| Duodenal atresia | 出生後數小時內 | 影像可見 double bubble sign，和 trisomy 21 相關 |\n| Jejunoileal atresia | 出生後 24 小時內 | 影像可見 triple bubble sign |\n| Necrotizing enterocolitis | 出生後 1-2 週 | 影像可見 pneumatosis intestinalis (腸壁有氣) 或 portal venous gas |\n| Meconium ileus | 出生後 24 小時內 | 影像可見 ground glass appearance，和 cystic fibrosis 有關 |",
+    "explanation": "答案 (A)。\n\n**膽汁性與非膽汁性嘔吐**\n\n- 阻塞位置在 Vater 壺腹（膽汁進入十二指腸處）以上，嘔吐物不含膽汁；以下則含膽汁（綠色）。\n\n| 非膽汁性 | 膽汁性（多為外科急症） |\n| --- | --- |\n| 肥厚性幽門狹窄 | 腸旋轉不良合併扭轉 |\n| 胃食道逆流 | 十二指腸閉鎖（多在壺腹以下） |\n| 餵食過量 | 空腸、迴腸閉鎖 |\n| 少數壺腹以上的十二指腸閉鎖 | 先天性巨結腸症、胎便阻塞 |\n| 顱內壓上升、代謝疾病 | 腸套疊（晚期） |\n\n新生兒或嬰兒出現膽汁性嘔吐時，應緊急排除腸旋轉不良合併扭轉。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-15_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-15_merged.png"
@@ -2150,7 +2150,7 @@
       "D": "膽汁淤積症的病童容易缺乏水溶性維生素及維生素B群"
     },
     "answer": "A",
-    "explanation": "(A) 正確，食物中的維生素 B12 主要來源是動物，如紅肉、海鮮、蛋黃等，富含維生素 D 的食物主要有魚油和蛋黃，故吃全素的兒童容易缺乏維生素 B12 及維生素 D\n(B) 錯誤，母乳中的維生素 K 含量不高，而配方奶則添加較多的維生素 K，因此餵母乳的嬰幼兒較易缺乏維生素 K，缺乏維生素 K 會提高瘀青和出血的風險，故目前建議新生兒一出生就要馬上打一劑維生素 K\n(C) 錯誤，母乳中的維生素 D 含量不高 (12-60 IU/L)，相對的配方奶就添加較多的維生素 D (400 IU/L)，因此建議餵母乳的嬰幼兒額外補充維生素 D，礦物質部分例如鋅 (zinc) 和鐵 (iron)，雖然在母乳的含量不及配方奶，但比較容易吸收，足夠支撐嬰幼兒到約 4-6 個月大，4-6 個月大之後會建議用副食品補充\n(D) 錯誤，膽汁淤積會阻礙的是脂溶性維生素 (vitamin ADEK) 的吸收，維生素 B 是水溶性的，較不受影響",
+    "explanation": "答案 (A)。\n\n**嬰幼兒常見的營養素缺乏**\n\n- 全素飲食：容易缺乏維生素 B12（只存在動物性食物）、維生素 D、鐵、鋅、鈣、omega-3 脂肪酸，故 (A) 正確。\n- 維生素 K：母乳中含量低，新生兒腸道菌叢尚未建立，因此全母乳哺餵的嬰兒較容易缺乏維生素 K，可能發生新生兒出血症（晚發型以顱內出血最嚴重）；所有新生兒出生後都應注射維生素 K，故 (B) 錯誤。\n- 母乳的鐵與維生素 D 含量低：全母乳哺餵的嬰兒較容易缺乏，建議出生後即補充維生素 D 400 IU/day，4–6 個月起補充鐵質；配方奶已添加，故 (C) 錯誤。\n- 膽汁鬱積：膽汁無法進入腸道，脂肪與脂溶性維生素（A、D、E、K）吸收不良，而不是水溶性維生素，故 (D) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-16_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-16_merged.png"
@@ -2172,7 +2172,7 @@
       "D": "進入追趕性生長期的前兩週，其體重增加的速度可比同年齡層兒童多出2到3倍"
     },
     "answer": "B",
-    "explanation": "嬰幼兒生長遲滯的原因複雜，在過去被分成器質性 (organic) 和非器質性 (non-organic)，但近年認為生長遲滯的原因通常是多因性的 (multifactorial)，包含 nutritional intake (e.g., neurological condition, impeding feeding, improper mixing of formula, food insecurity), malabsorption (e.g., celiac disease, milk protein allergy), and/or increased metabolic demands (e.g., cardiac disease, chronic infection) 等種種複雜因子組成\n\n(A) 正確，最先出現的症狀是 wasting（無法增重），幾個月後才會出現 stunting（無法長高）\n(B) 錯誤，嬰幼兒生長遲滯成因複雜，且常常有多種原因混雜，真正靠門診或住院檢查出特定病因的病人其實占少數\n(C) 正確，處置的第一步為高熱量飲食的介入，通常會每天增加 10-20% 的熱量並密切監測生理狀況，高熱量飲食會給予到追趕性生長 (catch-up growth) 開始，此時通常需要同年齡小朋友建議熱量的 150%\n(D) 正確，要進入追趕性生長 (catch-up growth) 時，體重增加要超過同齡小孩的 50 百分位，增加速率可以是平均的 2-3 倍",
+    "explanation": "答案 (B)。\n\n**嬰幼兒生長遲滯（failure to thrive）**\n\n- 定義：體重低於同齡第 3–5 百分位、體重跨越兩條主要百分位曲線往下，或體重身長比偏低。\n- 營養不良時先影響體重，數月後才影響身長，最後影響頭圍。\n- 原因：\n  - 大多數為熱量攝取不足（餵食技巧、照顧者問題、心理社會因素），屬於非器質性。\n  - 器質性原因（心臟、腸胃道吸收不良、腎臟、內分泌、遺傳代謝疾病）比例較低。\n  - 實驗室檢查找出病因的比例很低（約 1–2%），大部分無法以檢查找到器質性原因，故 (B) 錯誤；應以詳細病史、飲食紀錄與身體診察為主。\n- 追趕性生長：熱量與蛋白質需求約為同齡建議量的 1.5–2 倍；追趕初期體重增加速度可達平常的 2–3 倍。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-17_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-17_merged.png"
@@ -2194,7 +2194,7 @@
       "D": "若採取腳跟血檢測直接與總膽紅素值之比例（Direct-to-total bilirubin）為21%，總膽紅素值10 mg/dL，應儘快轉診或住院檢查"
     },
     "answer": "D",
-    "explanation": "新生兒出生後超過兩周的延長性黃疸 (prolonged jaundice) 要找原因，另外照光治療必須參考膽紅素的閾值，一般 indirect bilirubin level 在 16 到 18 mg/dL 左右可考慮開始照光治療\n\n**新生兒黃疸超過兩週處置流程**：\n- **在 30 天之前至兒科門診**：同時檢測直接型以及總膽紅素，並求其比值 (Direct/Total)\n  - < 20%：非膽汁滯留症\n  - > 20%：懷疑膽汁滯留症 → 立即轉至新生兒科或兒童胃腸科做進一步檢查（膽道閉鎖等疾病診斷）\n- **立即在家觀察嬰兒大便顏色**：\n  - 顏色異常（大便卡 1-6 號或是不確定）：懷疑膽汁滯留症 → 立即轉至新生兒科或兒童胃腸科做進一步檢查\n  - 顏色正常（大便卡 7-9 號）：繼續觀察，若仍有黃疸則須檢測直接型以及總膽紅素比值 (Direct/Total)\n\n本圖參考：<臺灣新生兒科醫學會 - 黃疸處置建議手冊>",
+    "explanation": "答案 (D)。\n\n**延長性黃疸的評估**\n\n- 足月兒黃疸超過 2 週（早產兒超過 3 週）稱為延長性黃疸，需測總膽紅素與直接膽紅素，排除膽汁鬱積（尤其膽道閉鎖）。\n- 直接膽紅素異常的定義：直接膽紅素 > 1.0 mg/dL（或總膽紅素 ≤ 5 時 > 1.0，總膽紅素 > 5 時直接比例 > 20%）。\n- 本題各選項：\n  - (A) 母乳性黃疸是排除性診斷，延長性黃疸一定要先測直接與總膽紅素，不可直接判定並停母乳。\n  - (B) 大便顏色淡黃可能是膽道閉鎖的早期徵象（大便卡第 1–3 號為異常），應檢測。\n  - (C) 直接比例 3%、總膽紅素 12 mg/dL，屬於間接型高膽紅素血症；1 個月大足月兒在此數值遠低於照光標準，不需住院照光。\n  - (D) 直接比例 21%（> 20%），屬於膽汁鬱積，需盡快轉診或住院檢查，排除膽道閉鎖（葛西手術最好在 60 天內施行），故 (D) 正確。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-18_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-18_merged.png"
@@ -2216,7 +2216,7 @@
       "D": "矯正脫水後立刻給與進食（Early feeding）"
     },
     "answer": "D",
-    "explanation": "輕中度脫水可先給予 Oral Rehydration Solution (ORS)，適應良好後可開始餵易吸收食物；重度脫水則要立即給予靜脈輸液治療，以補充電解質及水分\n\n(A) 錯誤，兒童腹瀉請指名口服葡萄糖電解質液 (Oral Rehydration Solution, ORS)，請勇敢地對運動飲料說不，而給予速度依小朋友的體重計算，若為輕度脫水，前四小時的水分建議約為每公斤 50 mL；若脫水程度為中度脫水，則前四小時的建議為葡萄糖口服電解質液約為每公斤 100 mL\n(B) 錯誤，此選項是針對乳糖不耐症的治療，雖然可能是造成急性腹瀉的原因，但矯正脫水才是目前最優先的處置\n(C) 錯誤，一般不建議給予未知病因急性腹瀉的嬰幼兒強力的止瀉劑\n(D) 正確，就題目敘述此病患屬於輕度脫水，矯正脫水後可給予進食\n\n**<補充> 兒童脫水程度判斷**：\n\n| 評估項目 | 輕度 (<5%) | 中度 (5-10%) | 嚴重 (>10%) |\n| :--- | :--- | :--- | :--- |\n| General condition | well, alert | restless, thirsty | drowsy, lethargy |\n| Eyes | normal | sunken | very sunken |\n| Anterior fontanelle | normal | depressed | very depressed |\n| Tears | present | absent | absent |\n| Mouth + tongue | moist | sticky | dry |\n| Skin turgor | slightly decreased | decreased | very decreased |\n| Pulse (N=110-120 bpm) | slightly increased | rapid, weak | rapid, sometime impalpable |\n| Blood pressure (N=90/60 mmHg) | normal | decreased | decreased, sometimes unrecordable |\n| Respiratory rate | slightly increased | increased | increased and deep |\n| Urine output | normal | reduced | markedly reduced |",
+    "explanation": "答案 (D)。\n\n**嬰兒急性腸胃炎合併脫水的處置**\n\n- 本題 7 個月大男嬰，體重從 8 公斤降至 7.5 公斤（約 6% 體重減輕），嘴唇乾、尿少、哭沒有眼淚，屬於中度脫水；電解質正常。\n- 處置：\n  - 輕中度脫水首選口服電解質液（ORS），約 50–100 mL/kg 在 4 小時內少量多次給予。\n  - 運動飲料的糖分高、鈉含量低，滲透壓不適當，不建議用來補充，故 (A) 錯誤。\n  - 矯正脫水後應盡早恢復正常飲食（早期進食），可縮短病程、維持營養，故 (D) 正確。\n  - 繼續哺餵母乳，不需常規改用無乳糖配方奶（除非有明顯乳糖不耐），故 (B) 錯誤。\n  - 嬰幼兒不建議使用止瀉藥（loperamide 可能造成腸麻痺與中樞神經副作用），故 (C) 錯誤。\n  - 可補充鋅與益生菌。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-19_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-19_merged.png"
@@ -2238,7 +2238,7 @@
       "D": "腦部血管栓塞（Cerebral venous sinus thrombosis）"
     },
     "answer": "A",
-    "explanation": "此題看似在考泛發性強直-陣攣發作 (Generalized tonic-clonic seizures)，但其實閱讀完題目會發現選項皆有可能造成癲癇，因此應從原發性微小腎病變與類固醇脈衝治療之副作用著手\n\n(A) 錯誤，近年雖然有一些研究指出腎病症候群會提升顱內出血的風險，但是相關文獻甚少，和其他選項相比發生率較低\n(B) 正確，原發性微小腎病變 (minimal change disease) 是腎病症候群 (nephrotic syndrome) 的病因之一，而腎病症候群使白蛋白流失造成血管內容積不足與水腫，血管內容積不足會活化 RAAS 使 ADH 上升，進而使水份滯留引發低血鈉\n(C) 正確，有些偏門的選項，可逆性後腦病變症候群 (PRES) 是小兒腎病症候群的一種少見的併發症，會造成局部腦血管水腫，主要特徵為頭痛、視力障礙、癲癇發作及意識狀態改變\n(D) 正確，腎病症候群的病人由於血中白蛋白低下、血管內膠體滲透壓不足，肝臟會增加脂質與血栓形成因子 (pro-thrombotic factors) 的製造；抗凝血因子 (antithrombotic factors) 也因腎絲球受損，而從尿液中流失，因此病人形成血栓的風險上升",
+    "explanation": "答案 (A)。\n\n**腎病症候群兒童的癲癇原因**\n\n- 腎病症候群病童發生抽搐時需考慮：\n  - 高凝狀態造成的腦靜脈竇栓塞（尿中流失抗凝血酶 III、肝臟製造凝血因子增加、血液濃縮、利尿劑）\n  - 可逆性後腦病變症候群（高血壓、類固醇脈衝、calcineurin 抑制劑）\n  - 電解質異常：低血鈉（使用利尿劑、SIADH）、低血鈣（低白蛋白）\n  - 感染：腦膜炎（免疫力下降、使用免疫抑制劑）\n  - 高血壓腦病變\n- 腎病症候群屬於高凝狀態，出血傾向並不常見，顱內出血是最不可能的原因。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-20_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-20_merged.png"
@@ -8668,7 +8668,7 @@
       "D": "Oxacillin + Clindamycin"
     },
     "answer": "D",
-    "explanation": "高燒、頭痛、嘔吐及腹瀉又掉血壓，而且有搭配破皮的紅疹，可以推斷出此題想考 Staphylococcal toxic shock syndrome\n在懷疑是 MSSA 的病患中，Clindamycin 加上 oxacillin 或其他 beta-lactamase-resistant penicillin 例如 nafcillin 等式治療首選\nClindamycin 會作用於 50S ribosome 上來抑制細菌毒素蛋白的合成，進而抑制單核球被活化釋放 TNF，來達到減緩細胞激素風暴的作用\n\n### Diagnostic criteria of staphylococcal toxic shock syndrome\n\n| 分類 | 診斷條件 |\n| :--- | :--- |\n| **Major Criteria<br>（需要全都符合）** | 1. Acute fever ; temperature > 38.8 degree celcius<br>2. Hypotension (orthostatic ; shock)<br>3. Rash (erythroderma with convalescent desquamation) |\n| **Minor Criteria<br>（以下任三項）** | 1. Mucous membrane inflammation<br>2. Vomiting or diarrhea<br>3. Hepatic abnormalities (bilirubin or transaminase > 2 times upper limit)<br>4. Renal abnormalities (urine nitrogen or creatinine > 2 times upper limit)<br>5. Muscular abnormalities (myalgia or creatinine kinase > 2 times upper limit)<br>6. CNS abnormalities (alteration in consciousness without focal signs)<br>7. Thrombocytopenia (platelet < 100000 mm³ or less) |\n| **Exclusion Criteria** | 1. Absence of another explanation<br>2. Negative blood cultures (except occasionally for Staphylococcus aureus) |",
+    "explanation": "答案 (D)。\n\n**毒性休克症候群**\n\n- 本題女孩突發高燒、嘔吐、腹瀉、低血壓，白血球與 CRP 明顯上升，蚊蟲叮咬處有紅腫區域（蜂窩性組織炎），最可能是葡萄球菌或鏈球菌毒性休克症候群。\n- 診斷要點：發燒、低血壓、瀰漫性紅疹（後來脫皮）、多重器官侵犯（腸胃道、肌肉、黏膜、腎臟、肝臟、血小板、意識）。\n- 治療：\n  - 移除感染源（清創、引流、移除異物）\n  - 抗葡萄球菌的 β-lactam（oxacillin，或懷疑 MRSA 時用 vancomycin）\n  - 加上 clindamycin：抑制細菌蛋白質合成，減少超級抗原毒素產生，不受細菌數量影響（Eagle effect）\n  - 嚴重者可給予 IVIG 中和毒素\n  - 積極輸液與升壓劑支持\n\n因此最適合的是 oxacillin 合併 clindamycin。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-1_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8688,7 +8688,7 @@
       "D": "Bartonellaquintana"
     },
     "answer": "A",
-    "explanation": "貓抓病是一種亞急性、自限性 (self-limited) 人畜共通傳染病，由 Bartonella henselae 藉由跳蚤傳播給貓，再經由貓抓或咬傷傳染給人\n病徵包括倦怠、肉芽腫性淋巴腺炎及發燒，治療首選為 azithromycin\n至於 (D) 選項則是一次世界大戰時期，由人類體蝨引起戰壕熱 (trench fever) 傳播的細菌",
+    "explanation": "答案 (A)。\n\n**貓抓病**\n\n- 病原：Bartonella henselae（格蘭氏陰性桿菌），經貓（尤其幼貓）抓傷、咬傷，或貓蚤傳播。\n- 表現：抓傷處出現丘疹或膿疱，1–3 週後出現同側局部淋巴結腫大（多在腋下、頸部、腹股溝），可化膿；多為自限性。\n- 非典型表現：Parinaud 眼腺症候群、肝脾肉芽腫、不明熱、神經視網膜炎、腦病變。\n- 診斷：Bartonella 血清抗體或 PCR。\n- 治療：多可自行緩解；淋巴結病明顯者給予 azithromycin。\n\n| 其他病原 | 疾病 |\n| --- | --- |\n| Bartonella quintana | 戰壕熱（經體蝨傳播）、桿菌性血管瘤病 |\n| Brucella canis | 布氏桿菌病（狗） |\n| Burkholderia cepacia | 囊腫纖維化病人的肺部感染 |",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-2_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8708,7 +8708,7 @@
       "D": "熱性痙攣（Febrile convulsion）是可能的併發症"
     },
     "answer": "B",
-    "explanation": "突然高燒，且 3 天後即從軀幹出疹並退燒 → 此為嬰兒玫瑰疹的特色\n\n### 嬰兒玫瑰疹（roseola infantum，又稱 exanthem subitum、sixth disease）\n\n| 項目 | 說明 |\n| :--- | :--- |\n| **病原體** | 最主要是人類皰疹病毒第六型（尤其是 HHV-6B），HHV-7 比例較低 |\n| **好發族群** | 六個月～兩歲的嬰兒 |\n| **症狀** | (1) 間歇性地高燒（39.5°C～40°C）約 2～5 天<br>(2) 發燒溫度高到可造成熱痙攣 (febrile convulsions)<br>(3) 燒退以後產生玫瑰色的紅斑或丘疹，直徑大約 2～3 mm，主要出現在臉、軀幹，而手腳不會有，玫瑰疹完全不痛也不癢，痊癒之後也不會留下疤痕<br>(4) 自限且良性的疾病，多數的患者不會產生嚴重的併發症<br>(5) 有些在懸壅垂和軟顎可見紅色潰瘍 (Nagayama spots) |",
+    "explanation": "答案 (B)。\n\n**嬰兒玫瑰疹**\n\n- 典型病程：6 個月至 2 歲幼兒突發高燒 3–5 天，活動力尚可，退燒後軀幹出現玫瑰色斑丘疹，擴散至臉與四肢，1–3 天消退。\n- 致病原：人類疱疹病毒第 6 型（HHV-6B，最主要），少數為 HHV-7；HHV-8 是 Kaposi 肉瘤的病原，故 (B) 錯誤。\n- 亞洲病童常在懸雍垂與軟腭交界處看到紅色丘疹（Nagayama spots）。\n- 併發症：熱性痙攣（最常見）、腦炎（少見）。\n- 治療：支持性治療，退燒、補充水分。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-3_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8728,7 +8728,7 @@
       "D": "治療先天性梅毒首選的抗生素是 Penicillin-G"
     },
     "answer": "A",
-    "explanation": "梅毒的各項血清學標記是出題熱區，務必把握\n(A) VDRL 多用來篩檢追蹤，若陽性並不能確診\n\n| 種類 | Non-treponemal tests | Treponemal tests |\n| :--- | :--- | :--- |\n| **功能** | 篩檢追蹤 | 確定診斷 |\n| **標的** | 檢驗感染螺旋體後產生的生化物資 cardiolipin、cholesterol、lecithin | 驗血液中 anti-treponeme antibody 如 IgG、IgM、IgA |\n| **試驗** | VDRL、RPR | TPHA、FTA-ABS |\n| **說明** | 1. 感染初期 4-5 週空窗期驗不出來<br>2. 檢驗結果為一程度效價 (titer) 要 > 1:32 才算是陽性<br>3. 追蹤治療成效：<br>(1) 成功：效價下降 4 倍以上才算有效治療，例如 1:64 → 1:16 以下<br>(2) 失敗：沒有降到 4 倍以下或不降反升表示治療失敗甚至是再感染 | 只要曾得過就會是陽性，與是否接受治療或時間無關 |\n\n(B) 在懷孕的任何一個時期均可能出現垂直感染，也可能在生產過程中因接觸 genital lesion 而感染，如果沒有治療，傳染率接近 100%，可造成流產、早產、低體重胎兒等問題\n(C) 先天性梅毒症狀包含早期症狀以及晚期症狀，早期症狀出現在兩歲前、晚期則出現於兩歲～二十幾歲左右，早期症狀包含肝脾腫大、黃疸、淋巴腫、肝指數上升等；晚期則與骨頭、牙齒、神經異常相關，例如：Hutchinson teeth、馬鞍鼻、Clutton joint、pseudoparalysis of Parrot 等\n(D) 先天性梅毒的治療首選是注射 penicillin G，iv. aqueous crystalline penicillin G 優於 I.M. procaine penicillin，治療後須每 2~3 個月追蹤血中 nontreponemal titer 直到效價下降 4 倍以上，如果是對 penicillin 過敏的病人，雖然有其他選擇（doxycycline, tetracycline 等），但效果不及 penicillin，故建議先減敏後接受 penicillin 治療",
+    "explanation": "答案 (A)。\n\n**先天性梅毒**\n\n- 梅毒螺旋體可在懷孕的任何時期經胎盤傳給胎兒（越晚期、母親為早期梅毒時傳染率越高），可造成流產、死產、早產、胎兒水腫、低出生體重。\n- 早期先天性梅毒（2 歲前）：肝脾腫大、肝炎、黃疸、皮疹（手掌腳掌脫皮）、鼻塞流膿（snuffles）、骨軟骨炎與骨膜炎（假性麻痺）、貧血、血小板低下。\n- 晚期先天性梅毒（2 歲後）：Hutchinson 三聯徵（Hutchinson 齒、間質性角膜炎、第八對腦神經聽損）、鞍鼻、軍刀脛、中樞神經侵犯、Clutton 關節。\n- 診斷：母親的抗體（IgG）可經胎盤進入胎兒，因此新生兒非特異性梅毒血清檢驗（VDRL/RPR）陽性不能單獨確診，需與母親的效價比較（新生兒效價 ≥ 母親 4 倍才高度懷疑），並合併臨床表現、暗視野顯微鏡或 PCR，故 (A) 錯誤。\n- 治療：水溶性 penicillin G 靜脈注射 10 天。\n- 預防：孕婦產前梅毒篩檢（台灣於第一孕期與第三孕期篩檢）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-4_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8748,7 +8748,7 @@
       "D": "新生兒餵食量（Feeding amount）"
     },
     "answer": "D",
-    "explanation": "相對偏門的題目，不過是從教科書直接節錄下來出題的 (Nelson 21/e Ch.113)\n新生兒的熱能喪失可歸咎於下列四大途徑：\n(1) evaporation：熱能由皮膚（沾滿羊水）或是呼吸散失到產房冷空氣中\n(2) radiation：熱輻射的概念，熱能直接散失到附近較冷的環境\n(3) convection：由於產房冷氣太強對流太好，新生兒的體熱被氣流帶走\n(4) conduction：新生兒沒有包浴巾直接被放到冰冷的檯子上做檢查\n\n由此可知 (A) (B) 選項正確，另外中性環境溫度 (neutral thermal environment) 會隨著新生兒出生週數 (Gestational age) 增加而下降，和餵食量則沒有顯著的關係",
+    "explanation": "答案 (D)。\n\n**新生兒中性溫度環境**\n\n- 定義：新生兒維持正常體溫時，代謝率與氧氣消耗量最少的環境溫度範圍。\n- 新生兒（尤其早產兒）體表面積大、皮下脂肪少、皮膚角質層薄，容易散熱。\n- 影響中性溫度的因素：\n  - 出生週數與體重（越早產、越小，所需環境溫度越高）\n  - 出生後天數（日齡越大，所需溫度越低）\n  - 散熱的四種途徑：對流（空氣流動）、傳導（接觸冷表面）、輻射（周圍冷的物體）、蒸發（濕度低、皮膚濕）\n  - 環境相對濕度（濕度低時蒸發散熱多）\n  - 衣著與包裹\n- 餵食量不會直接改變中性環境溫度的設定。\n\n**補充**：新生兒以棕色脂肪的非顫抖性產熱為主，低體溫會造成低血糖、代謝性酸中毒與呼吸窘迫。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-5_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8768,7 +8768,7 @@
       "D": "Noonan syndrome"
     },
     "answer": "B",
-    "explanation": "看到臉型異常外加低血鈣 → 聯想到會心臟、胸腺、副甲狀腺、臉部發育異常的 DiGeorge syndrome\nDiGeorge syndrome 是第 22 對染色體 (del 22q11.21) 短臂缺損引起的疾病，為胚胎發育時期第三、第四咽囊發育異常引起 → 副甲狀腺以及胸腺發育不良 → 出現低血鈣與 T cell 發育異常\n\n(A)(D) Turner syndrome 跟 Noonan syndrome 在特徵上有些類似，比較如下：\n\n| 項目 | Turner's syndrome | Noonan's syndrome |\n| :--- | :--- | :--- |\n| **染色體** | 45 X monosomy（只影響女性）<br>* 部分患者可能為嵌合型 | 正常 (normal karyotype) |\n| **基因異常** | - | PTPN11 (50%) > SOS1 (10~13%) |\n| **智力** | 正常 | 偏低 |\n| **月經** | 原發性無月經 | 月經正常 |\n| **心臟異常** | 左心問題：coarctation of aorta、bicuspid aortic valve (BAV) | 右心問題：pulmonary stenosis |\n| **外觀** | 蹼狀頸、身材矮小、肘外翻、低位耳、盾狀胸 | |\n\n(C) Wiskott-Aldrich syndrome (WAS) 是性聯隱性遺傳，為 Xp11.22-11.23 上的基因突變，典型臨床表現包含免疫缺損、皮膚濕疹（考點）、血小板數目低下（易瘀青）且體積小 (micro-platelet)；此外，淋巴球表面 CD43 (sialophorin) 表現量也會下降",
+    "explanation": "答案 (B)。\n\n**DiGeorge 症候群（22q11.2 缺失症候群）**\n\n- 第三、四咽囊發育異常。\n- 「CATCH 22」：\n  - C：心臟異常（動脈幹、法洛氏四重症、主動脈弓中斷）\n  - A：異常臉部特徵（低位耳、眼距寬、小下巴、短人中）\n  - T：胸腺發育不全（T 細胞免疫缺陷，反覆感染）\n  - C：顎裂（含黏膜下顎裂、腭咽閉鎖不全）\n  - H：低血鈣（副甲狀腺發育不全，新生兒期手足抽搐、癲癇）\n  - 22：第 22 對染色體缺失\n- 其他：學習障礙、精神疾病（思覺失調症）。\n- 診斷：FISH 或陣列基因體雜交。\n\n| 鑑別 | 特點 |\n| --- | --- |\n| Turner 症候群 | 45,X，蹼頸、淋巴水腫、主動脈弓窄縮 |\n| Wiskott-Aldrich 症候群 | X 性聯，濕疹、小血小板低下、反覆感染 |\n| Noonan 症候群 | 肺動脈瓣狹窄、蹼頸、身材矮小 |",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-6_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8788,7 +8788,7 @@
       "D": "喉頭軟化症（laryngomalacia）"
     },
     "answer": "B",
-    "explanation": "考古題！放置口胃管時有阻力而無法順利完成時 → 可能有食道閉鎖；會冒泡泡或是餵食容易嗆奶 → 要考慮是否有合併食道氣管廔管\n(A) 先天性橫膈膜疝氣會使腹腔內器官滑入胸腔擠壓肺臟，造成肺臟發育不全，典型臨床表現：因換氣不良和持續性的肺高壓 → 造成呼吸困難、呼吸急促和發紺\n(C) 後鼻孔閉鎖是由於硬顎 (hard palate) 的骨部或膜部發育不全，引起鼻孔和咽喉的連繫中斷所造成，如果是單側發育不良，出生時可能沒有症狀；如果是雙側發育異常，則病人出生後就需要仰賴嘴巴呼吸，所以安靜或餵食時會發紺，反而在哭鬧時能夠改善呼吸\n(D) 喉頭軟化症是一種良性、先天性喉部軟骨發育沒成熟的現象，由於喉部組織架構支撐成熟度不夠，在吸氣時，部份喉部組織會陷入呼吸道，而產生吸氣性的呼嚕呼嚕聲（stridor、喘鳴聲），是嬰幼兒發生喘鳴聲的病因中最常見的原因，症狀大多出現在出生後兩週內，且在出生後前半內可能越來越嚴重，但大多會慢慢自己好，可先觀察",
+    "explanation": "答案 (B)。\n\n**食道閉鎖**\n\n- 出生後即出現：口鼻冒泡、流口水（無法吞下分泌物）、餵食時嗆咳、發紺；口胃管放置時遇到阻力無法放入。\n- 產前常有羊水過多。\n- X 光：口胃管捲曲在近端食道盲端；胃腸有氣代表合併遠端氣管食道瘻管（最常見的 C 型）。\n- 處置：禁食、頭部抬高、近端食道袋持續抽吸，評估 VACTERL 合併異常後手術修補。\n\n| 鑑別 | 特點 |\n| --- | --- |\n| 先天性橫膈膜疝氣 | 腹部扁平、呼吸窘迫、心尖搏動偏移，口胃管可放入 |\n| 後鼻孔閉鎖 | 安靜時發紺、哭鬧時改善，鼻胃管無法經鼻放入，經口可以 |\n| 喉頭軟化症 | 吸氣性喘鳴，仰躺與哭鬧時加劇，可正常餵食 |",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-7_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8808,7 +8808,7 @@
       "D": "體溫 36.8℃"
     },
     "answer": "C",
-    "explanation": "直接記憶題，頭圍一般會記 35±1，頂多 ±2，新生兒的頭 38 cm 眞的太大了，如果超過 2 個 S.D. 則符合 macrocephaly 的定義\n\n### Normal vital signs in newborns born at 40 weeks' gestation\n\n| Vital sign | Normal range |\n| :--- | :--- |\n| **心跳速率** | 120 - 160 bpm |\n| **呼吸速率** | 30 - 60 bpm |\n| **收縮壓** | 60 to 90 mmHg |\n| **體溫** | 36.5 - 37.5°C |\n| **體重** | 3.5 kg (2.8 - 4.0 kg) |\n| **身長** | 51 cm (48-53 cm) |\n| **頭圍** | 35 cm (33-37 cm) |",
+    "explanation": "答案 (C)。\n\n**足月新生兒的正常測量值**\n\n| 項目 | 正常範圍（約） |\n| --- | --- |\n| 體重 | 2,500–4,000 g（平均約 3,300 g） |\n| 身長 | 48–53 cm（平均約 50 cm） |\n| 頭圍 | 33–37 cm（平均約 34–35 cm） |\n| 體溫 | 36.5–37.5°C |\n\n頭圍 38 公分超過第 97 百分位（大頭），屬於異常，需評估是否有水腦、腦部結構異常或家族性大頭。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-8_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8828,7 +8828,7 @@
       "D": "沙門氏菌敗血症（Salmonellosis）"
     },
     "answer": "B",
-    "explanation": "這是考古題，108、109 都有考\n\n### 急性膽囊水腫 (Acute hydrops of the gallbladder)\n\n| 分類 | 相關疾病 / 原因 |\n| :--- | :--- |\n| **膽道淤積** | 膽結石、膽管炎、TPN、長期禁食 |\n| **感染問題** | group A Streptococcus (GAS)、Staphylococcus、鉤端螺旋體 (leptospirosis)、蛔蟲、蟯蟲、傷寒、病毒性肝炎 |\n| **其他** | Kawasaki、Henoch-Schonlein purpura (HSP)、鐮刀型貧血危機、地中海型貧血、腸繫膜淋巴腺炎、壞死性腸炎 |\n\n（參考 Nelson 21/e Ch.393）\n不會發生急性膽囊水腫：Reye syndrome、cystic fibrosis、多脾症等",
+    "explanation": "答案 (B)。\n\n**急性膽囊水腫**\n\n- 兒童的急性非結石、非發炎性膽囊擴張，超音波可見膽囊明顯腫大但無結石、壁不厚。\n- 表現：右上腹痛、可摸到的腫大膽囊、嘔吐。\n- 常見相關疾病：\n  - 川崎病（最常見）\n  - 感染：A 群鏈球菌、沙門氏菌、鉤端螺旋體、病毒性肝炎、EB 病毒\n  - 過敏性紫斑症（IgA 血管炎）\n  - 全靜脈營養、長期禁食\n- 治療：處理原發疾病，多可自行恢復，很少需要手術。\n\n囊腫纖維化較常見的膽道問題是膽泥、膽結石與小膽囊（微膽囊），較少造成急性膽囊水腫。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-9_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8848,7 +8848,7 @@
       "D": "Autoimmune hepatitis"
     },
     "answer": "B",
-    "explanation": "首先，Wilson's disease 和 autoimmune hepatitis 所造成的肝炎和一般的肝炎一樣肝功能指數都會上升，故可先刪除\nDubin-Johnson syndrome（MRP2 蛋白缺乏）所造成的是直接型黃疸，因此也可刪除\nGilbert syndrome 的病人除了未結合型膽紅素上升造成黃疸外，通常不會有其它肝功能異常，也幾乎不會有明顯症狀，多半是是年輕人健檢時意外發現膽色素異常，推測的病因是患者肝臟細胞膽紅素葡萄糖醛酸基轉移酵素 (UGT-1A1) 含量較少，或作用能力不足，使血清中的未結合型膽紅素清除速率較差所導致\n\n### Jaundice（黃疸分類流程）\n\n`\nJaundice\n├── Unconjugated bilirubin（未結合型）\n│   ├── Non-Hemolytic（非溶血性）\n│   │   └── Congenital jaundice（先天性）：Crigler-Najjar syndrome、Gilbert's syndrome\n│   └── Hemolytic（溶血性）\n├── Unconj. & Conjug. bilirubin（混合型）\n│   └── Hepatic（肝細胞性）\n└── Conjugated bilirubin（結合型）\n    ├── Post-Hepatic（肝後性 / 阻塞性）\n    └── Congenital jaundice（先天性）：Dubin-Johnson syndrome、Rotor's syndrome\n`",
+    "explanation": "答案 (B)。\n\n**Gilbert 症候群**\n\n- 最常見的遺傳性高膽紅素血症（約 3–7% 人口），UGT1A1 啟動子變異使葡萄糖醛酸化能力下降。\n- 特點：\n  - 間接型（非結合型）高膽紅素血症，總膽紅素多 < 4–5 mg/dL\n  - 在空腹、感冒、壓力、劇烈運動、月經、脫水時出現輕度黃疸，數天緩解\n  - 沒有溶血，其他肝功能正常\n- 良性疾病，不需治療；部分藥物（如 irinotecan）代謝受影響，副作用增加。\n\n| 鑑別 | 特點 |\n| --- | --- |\n| Wilson 氏症 | 肝功能異常、溶血、神經精神症狀 |\n| Dubin-Johnson 症候群 | 直接型高膽紅素血症 |\n| 自體免疫性肝炎 | 轉胺酶上升、IgG 上升、自體抗體 |",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-10_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8868,7 +8868,7 @@
       "D": "鋇劑灌腸檢查（barium enema examination）可見病變處狹窄"
     },
     "answer": "A",
-    "explanation": "先天性巨大結腸症指大腸的黏膜下層 (Meissner's plexus) 或肌肉層 (myenteric, Auerbach plexus) 缺乏神經節，以致無法調節大腸進行正常的排便活動，此疾病較常見於男嬰，足月產嬰兒如果在出生 48 小時內都沒有排出胎便，就要懷疑有 Hirschsprung disease\n\n(A) 錯誤，正常人在直腸被撐大時，肛門內括約肌的壓力會下降 (rectoanal inhibitory reflux, RAIR)，先天性巨結腸症的患者失去 rectoanal inhibitory reflux，因此進行直腸內壓測定時，肛門內括約肌壓力應無法下降\n(B) 正確，醫師在作手指肛診時，通常會感覺異常的緊縮，將手指拔出時甚至會有糞便隨之噴出，這是先天性巨結腸症典型的身體檢查發現\n(C) 正確，病理切片可以發現缺乏神經節細胞之外，還會出現神經纖維的大量增生 (hypertrophied nerve bundle) 以及 acetylcholinesterase 染色增加\n(D) 正確，鋇劑灌腸檢查除了可見病變處狹窄之外，病變處以上腸徑也會異常的脹大，所以影像上看到異常膨脹的地方不是病變處，而是病變處上游",
+    "explanation": "答案 (A)。\n\n**先天性巨結腸症**\n\n- 遠端腸道缺乏神經節細胞（多在直腸乙狀結腸），腸道無法放鬆蠕動，造成功能性阻塞。\n- 表現：胎便排出延遲（> 48 小時）、腹脹、膽汁性嘔吐、慢性便秘；可能併發小腸結腸炎（致命）。\n- 診斷：\n\n| 檢查 | 結果 |\n| --- | --- |\n| 直腸指診 | 直腸空、肛門口緊，手指拔出時爆發式排出氣體與糞便 |\n| 鋇劑灌腸 | 無神經節段狹窄，上方正常腸段擴張，有過渡區 |\n| 直腸肛門壓力測定 | 直腸擴張時內肛門括約肌無法放鬆（直腸肛門抑制反射消失） |\n| 直腸切片（黃金標準） | 黏膜下無神經節細胞、乙醯膽鹼酯酶陽性神經纖維增加、calretinin 陰性 |\n\n- 直腸肛門壓力測定的特徵是直腸擴張時「內肛門括約肌不會放鬆」（抑制反射消失），而不是肛門括約肌壓力下降，故 (A) 錯誤。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-11_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8888,7 +8888,7 @@
       "D": "腎病症候群（Nephrotic syndrome）"
     },
     "answer": "B",
-    "explanation": "尿液減少、水腫，再加上一個月前皮膚出現化膿性感染 → 聯想到急性鏈球菌感染後腎絲球腎炎 (acute post-Streptococcal glomerulonephritis, PSGN)",
+    "explanation": "答案 (B)。\n\n**急性鏈球菌感染後腎絲球腎炎（APSGN）**\n\n- A 群鏈球菌咽炎後 1–2 週，或皮膚感染（膿痂疹）後 3–6 週發生。\n- 典型表現（腎炎症候群）：\n  - 血尿（茶色或可樂色尿，紅血球圓柱）\n  - 水腫（眼皮水腫最明顯）\n  - 高血壓\n  - 寡尿、輕度腎功能下降\n  - 蛋白尿通常 < 腎病範圍\n- 檢驗：C3 下降（6–8 週內恢復）、ASO 或 anti-DNase B 上升（皮膚感染以 anti-DNase B 較敏感）；可有輕度稀釋性貧血。\n- 治療：支持性治療（限鹽限水、利尿劑、降壓）；多數預後良好。\n\n本題 8 歲女童一個月前皮膚化膿性感染，現在尿少、眼皮水腫、血尿與紅血球、輕度貧血，最符合 APSGN。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-12_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8908,7 +8908,7 @@
       "D": "血液不易凝固（Hypocoagulability）的狀態"
     },
     "answer": "D",
-    "explanation": "腎病症候群的定義和典型症狀務必熟記\n1. 定義：蛋白尿一天大於 3.5g（蛋白尿達到這個範圍：nephrotic range），除蛋白尿外，還伴隨水腫、低白蛋白、高血脂等問題\n2. 臨床表現及併發症：\n(1) 水腫：由於嚴重的蛋白尿導致白蛋白大量流失，血管內滲透壓會降低而造成水腫\n(2) 高血脂：因為白蛋白的流失，使得脂蛋白代償性合成；且 HDL 會從腎臟流失\n(3) 高凝血狀態：因為白蛋白的流失，使得肝臟代償合成凝血相關因子增加，此外，抗凝血的 antithrombin III 會從尿液流失、血管內水分流失，導致血小板和凝血因子的相對濃度變高 → 高凝血狀態",
+    "explanation": "答案 (D)。\n\n**兒童腎病症候群**\n\n- 定義：大量蛋白尿（> 40 mg/m²/hr 或尿蛋白/肌酸酐比值 > 2 mg/mg）、低白蛋白血症（< 2.5–3 g/dL）、水腫、高血脂。\n- 機轉：\n  - 腎絲球通透性增加，蛋白大量流失\n  - 低白蛋白使血管內膠體滲透壓下降，水分移到組織間造成水腫\n  - 肝臟代償性增加脂蛋白合成，加上脂蛋白分解減少，造成高血脂\n- 併發症：\n  - 感染（流失 IgG 與補體因子，自發性腹膜炎）\n  - 高凝狀態與血栓（流失抗凝血酶 III、protein S；肝臟製造纖維蛋白原與凝血因子增加；血小板活化；血液濃縮）\n  - 急性腎損傷、低血容積\n\n腎病症候群是高凝狀態（容易血栓），而不是血液不易凝固，故 (D) 錯誤。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-13_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8928,7 +8928,7 @@
       "D": "此代謝性酸中毒（Metabolic acidosis）可能因癲癇發作而引起"
     },
     "answer": "B",
-    "explanation": "陰離子間隙：[Na⁺] - [Cl⁻] - [HCO₃⁻] = UA（其他陰離子）- UC（其他陽離子），正常範圍在 10-12 mEq/L，套入本題：140 - 98 - 17 = 25 (>12)，因此應為高陰離子間隙，故 (B) 選項錯誤\n另外，pH < 7.35 明顯偏酸，又合併 [HCO₃⁻] 偏低，推測是代謝性酸中毒，而 PaCO₂ 數值沒有下降代償代謝酸，因此又合併呼吸性酸中毒，故 (A) 選項正確\n(C)(D) 選項亦皆正確，癲癇可能造成局部肌肉缺氧而使乳酸堆積，造成乳酸酸血症 (lactic acidosis)，治療包括控制癲癇症狀及給予呼吸支持",
+    "explanation": "答案 (B)。\n\n**癲癇發作後的酸鹼異常**\n\n- 計算：\n  - pH 7.14 酸血症，HCO₃⁻ 17 mEq/L 下降，代表代謝性酸中毒。\n  - 預期 PaCO₂（Winter's formula）= 1.5 × 17 + 8 ± 2 = 31.5–35.5 mmHg；實際 PaCO₂ 46 mmHg 偏高，代表合併呼吸性酸中毒（發作時通氣不足）。\n  - 陰離子間隙 = 140 − (98 + 17) = 25 mEq/L，屬於高陰離子間隙，而不是低陰離子間隙，故 (B) 錯誤。\n- 全身性強直陣攣發作時肌肉劇烈收縮、缺氧，產生大量乳酸，造成高陰離子間隙代謝性酸中毒，通常在發作停止後 1 小時內自行恢復。\n- 處置：控制癲癇、確保呼吸道與給氧、呼吸支持；不需常規給予碳酸氫鈉。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-14_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8948,7 +8948,7 @@
       "D": "頻繁的肌跳躍（Myoclonic jerks）是重症前兆"
     },
     "answer": "A",
-    "explanation": "(A) 錯誤，會造成脫水通常是因為口腔潰瘍造成進食疼痛，適當補充冰涼、流質飲食（如：果凍、布丁）預防脫水即可，不需特別給與大量輸液補充\n(B) 正確，腸病毒併發重症者以 5 歲以下最多，且大多出現在發病後第一週內，所以對罹患手足口病之 5 歲以下必須特別注意觀察\n(C) 正確，腸病毒 71 型可能導致併發腦幹腦炎、心臟衰竭、肺水腫與肺出血等，除了腸病毒 71 型之外，腸病毒 D68 型也可能會引發重症\n(D) 正確，腸病毒重症前兆包括「嗜睡、意識不清、活力不佳、手腳無力」、「肌躍型抽搐（無故驚嚇或突然全身肌肉收縮）」、「持續嘔吐」與「呼吸急促或心跳加快」",
+    "explanation": "答案 (A)。\n\n**腸病毒重症**\n\n- 好發於 5 歲以下幼兒；腸病毒 71 型是腦幹腦炎與肺水腫等重症的主要病原。\n- 重症前兆：嗜睡、意識改變、活力不佳、手腳無力；頻繁的肌躍型抽搐（myoclonic jerks，睡夢中驚跳）；持續嘔吐；呼吸急促或心跳加快。\n- 病程：腦幹腦炎 → 自主神經失調（心跳加快、高血壓、冒冷汗）→ 肺水腫或肺出血 → 心肺衰竭。\n- 處置：\n  - 腦幹腦炎與自主神經失調時，應謹慎限制輸液量（避免加重肺水腫與腦水腫），並使用 milrinone 改善心肺功能、IVIG。\n  - 大量輸液反而有害，故 (A) 錯誤。\n- 預防：勤洗手，台灣已有 EV71 疫苗。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-15_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8968,7 +8968,7 @@
       "D": "Guillian-Barré syndrome"
     },
     "answer": "A",
-    "explanation": "Creatine kinase (CK) 較常見於骨骼肌 (CK-MM)、心肌 (CK-MB)、以及腦 (CK-BB)，如果突然飆高加上腳不良於行 → 想到骨骼肌病變（再加上發燒 → 想到感染或發炎）\n\n(A) 此選項指的應該是 benign acute childhood myositis (BACM)，是一種自限性疾病，目前認為與病毒感染相關，較常見於男童、好發於小腿肚，會突然發生急性肌肉發炎，主要以疼痛或是無力行走來表現，抽血檢查可見 creatine kinase 上升\n(B) Acute transverse myelitis 的症狀包括肢體無力、感覺異常（病變的脊髓位置之下出現麻、刺、灼熱感等）、疼痛（失去溫痛覺相當常見）、大小便功能失常等，流行病學上屬於較罕見的疾病，且多發生於青少年或是成人，因此也不會列入首要鑑別診斷\n(C) Myasthenia gravis 的病人通常一開始的症狀是眼皮下垂造成視力模糊，早上醒來忽然無法走路比較不符合疾病初始特徵\n(D) Guillain-Barré syndrome 主要是周邊神經的髓鞘受到破壞導致雙腿無力，不是直接影響肌肉本身，故 CK 值未必會升高，就算有升高也通常較輕微短暫",
+    "explanation": "答案 (A)。\n\n**良性急性肌炎**\n\n- 好發於學齡兒童，多在流感（尤其 B 型）或其他病毒感染後出現。\n- 表現：突然雙側小腿（腓腸肌）疼痛，拒絕走路或用腳尖走路，肌力與反射正常。\n- 檢驗：CK 明顯上升（可達正常 20–30 倍）。\n- 預後良好，多在數天至 1 週內恢復；需注意橫紋肌溶解（茶色尿）。\n\n| 鑑別 | 特點 |\n| --- | --- |\n| 急性橫貫性脊髓炎 | 感覺平面、大小便功能障礙、上運動神經元徵象 |\n| 重症肌無力 | 波動性無力、眼瞼下垂，CK 正常 |\n| 格林-巴利症候群 | 上行性對稱性無力、反射消失，CK 正常或輕度上升，腦脊髓液蛋白細胞分離 |\n\n本題發燒合併突然無法行走、CK 明顯上升，最可能是急性肌炎。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-16_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -8988,7 +8988,7 @@
       "D": "Viral myositis"
     },
     "answer": "B",
-    "explanation": "AIDP (Acute Inflammatory Demyelinating Polyradiculoneuropathy) 是 Guillain-Barre Syndrome 之中最常見的一種亞型，本題線索是之前有感染，而且腦脊髓液出現 albumin-cytological dissociation（蛋白質上升但細胞數正常）\n\n(A) 小兒麻痺症（糞口或是飛沫傳染）90% 以上的感染者為不明顯或無症狀的感染，小部分產生輕微症狀，如發燒、倦怠、噁心，或無菌性腦膜炎等，但無任何麻痺症狀，而約 0.3 ～ 1% 的感染者會出現麻痺症狀，通常是病毒侵入中樞神載運動神經元而引起，麻痺部位通常是不對稱的\n(C) 重症肌無力病人主要的臨床表現為肌肉無力，其中又以控制眼球運動的眼外肌 (extraocular muscle) 的無力最為常見，有半數以上的病人是以眼瞼下垂，複視或視力模糊為初發症狀\n(D) 病毒性肌炎表現會以近端大肌肉無力和疼痛來表現，但出現的時間通常是急性病毒感染造成發燒之後的隔一兩天\n\n### 格林 - 巴利症候群（Guillain-Barre syndrome）\n\n| 項目 | 內容 |\n| :--- | :--- |\n| **病因** | 免疫系統攻擊神經導致急性的周邊神經病變 |\n| **常見症狀** | a. Motor: symmetric and ascending weakness（對稱雙下肢無力漸漸往上蔓延，可由輕微的走路困難至四肢癱瘓、吞嚥或呼吸困難）<br>b. Sensory: distal paresthesia（遠端感覺異常），四肢或背部肌肉的刺痛感，但神經理學檢查感覺神經大多正常<br>c. DTR: 深部肌腱反射減低或消失 |\n| **前置事件** | 疾病發生前 2～4 週有前驅感染（上呼吸道感染、急性腸胃炎、病毒感染等） |\n| **疾病進程** | 三週達到頂點、三週持平、三週緩解 |\n| **診斷檢查** | a. CSF: albumin-cytological dissociation（蛋白質上升但細胞數正常）<br>b. 神經傳導檢查：demyelinative disorders 會使傳導速度下降很多 (30% 以上)；電生理有多發性局部神經傳導阻斷和傳導速度減緩<br>c. 兒童脊髓核磁共振檢查：在脊髓神經根呈現顯影劑加強的現象，可做為輔助診斷 |\n| **治療手段** | 僅血漿置換術及免疫球蛋白具有療效，其他以支持性治療為主 |",
+    "explanation": "答案 (B)。\n\n**格林-巴利症候群（急性發炎性去髓鞘多發性神經根病變，AIDP）**\n\n- 常在腸胃道（Campylobacter jejuni）或呼吸道感染後 1–4 週發生。\n- 表現：進行性、對稱性、上行性肢體無力，深部肌腱反射減弱或消失，可合併感覺異常、疼痛、自主神經失調、呼吸肌無力。\n- 腦脊髓液：蛋白細胞分離（蛋白上升、白血球正常）；發病第一週可能仍正常。\n- 神經傳導檢查：去髓鞘或軸突型變化。\n- 治療：IVIG 或血漿置換；監測肺活量（呼吸衰竭）與自主神經功能。\n\n| 鑑別 | 特點 |\n| --- | --- |\n| 小兒麻痺 | 不對稱弛緩性麻痺，無感覺異常，腦脊髓液白血球上升 |\n| 重症肌無力 | 波動性無力，反射正常 |\n| 病毒性肌炎 | 肌肉痛、CK 上升，反射正常 |",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-17_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -9008,7 +9008,7 @@
       "D": "身體中線兩側的皮膚呈現半紅半白(Harlequin color change)，係屬暫時性的，無任何意義"
     },
     "answer": "B",
-    "explanation": "雖然題目中出現一些看起來很難的詞，但把握胎頭腫塊的比較表格還是可以得分\n\n(A) 正確，Moro reflex 是利用巨大聲響或體位的改變，觀察寶寶手腳是否有先內縮再外展的動作，兩側動作若不對稱要考慮是否有臂神經叢受損\n(B) 胎頭血腫是屬於硬膜下的血腫，因此不會越過骨縫\n(C) 毒性紅斑常見於出生後一周的寶寶，通常是暫時且良性的，無臨床意義\n(D) Harlequin color change 是一種良性的皮膚顏色變化，主要是因為新生兒的神經血管調控系統尚未成熟的，當稍微有溫度姿勢或是情緒上的變化時，血管的管徑就容易改變造成血流分布不均，通常在 30 秒到數分鐘內可以緩解\n\n### 胎頭腫塊比較表\n\n| 項目 | 產瘤 (Caput succedaneum) | 胎頭血腫 (Cephalohematoma) | 帽狀腱膜下血腫 (Subgaleal hemorrhage) |\n| :--- | :--- | :--- | :--- |\n| **位置與骨縫** | 頭皮受到擠壓造成頭皮下血腫，故會越過骨縫 | 骨膜層 (periosteum) 下血腫，故不會越過骨縫 | 帽狀腱膜層與骨膜層之間的出血，故會越過骨縫 |\n| **觸感** | 摸起來軟軟的，會凹陷 | 有張力的腫塊 | 範圍大、較硬 |\n| **病程** | 通常持續數天就消失 | 維持數週至數月，通常會自己消失 | 可能造成出血性休克 |\n| **併發症** | 通常沒有其他問題 | 易伴隨黃疸 | 通常有明顯黃疸 |",
+    "explanation": "答案 (B)。\n\n**新生兒頭部腫塊**\n\n| 項目 | 產瘤（caput succedaneum） | 頭血腫（cephalohematoma） | 帽狀腱膜下出血 |\n| --- | --- | --- | --- |\n| 位置 | 頭皮下水腫 | 骨膜下出血 | 帽狀腱膜與骨膜之間出血 |\n| 越過骨縫 | 會 | 不會（受骨膜限制） | 會，範圍可很大 |\n| 出現時間 | 出生時即有 | 出生後數小時至 1–2 天逐漸變大 | 出生後數小時至數天 |\n| 消退 | 數天內 | 數週至數月，可能鈣化 | 可大量失血造成休克 |\n\n頭部摸到軟而有波動、越過骨縫的腫塊，可能是產瘤或帽狀腱膜下出血，而不是頭血腫，故 (B) 錯誤。\n\n- 其他新生兒正常現象：\n  - 新生兒毒性紅斑：出生後 1–3 天出現的紅斑與白黃色丘疹，1 週內自行消退\n  - 小丑樣顏色變化（Harlequin color change）：側躺時身體下半側發紅、上半側蒼白，數分鐘內消失，屬於暫時性血管調節不成熟\n- Moro 反射不對稱：考慮臂神經叢損傷或鎖骨骨折。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-18_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -9028,7 +9028,7 @@
       "D": "1 mg 升糖素（glucagon）靜脈注射後，病人血糖值為 90 mg/dL"
     },
     "answer": "C",
-    "explanation": "由於人體的胰島素是浮動的，因此正在發生低血糖時去測胰島素來判斷是否是高胰島素症 (hyperinsulinism) 會不準確\n臨床上會以 Ketones, free fatty acids, glucagon stimulation test 這三項指標來判斷是否是高胰島素血症\n由於胰島素會抑制脂肪細胞中的脂肪分解 (lipolysis)，因此脂肪酸 (fatty acid) 的製造也下降，所產生的酮體也會降低\n另一方面，升糖素 (glucagon) 的作用是拮抗胰島素，因此若是因為高胰島素血症而產生的低血糖，注射升糖素後症狀會明顯改善\n因此本題應選 (C)，血漿酮體若偏高應是胰島素濃度較低，可試想第一型糖尿病造成 DKA 的狀況",
+    "explanation": "答案 (C)。\n\n**高胰島素血症的低血糖**\n\n- 胰島素會抑制脂肪分解與酮體生成，因此高胰島素性低血糖的特點：\n  - 低血糖時胰島素「不適當地」可測得（> 2 μU/mL 即不適當，本題 10 μU/mL）\n  - 游離脂肪酸低\n  - 酮體低（β-羥丁酸 < 1.5–2 mmol/L）\n  - 注射升糖素後血糖明顯上升（> 30 mg/dL，代表肝醣仍被胰島素保存著）\n  - 葡萄糖需求量高（> 8 mg/kg/min）\n- 酮體 3.0 mmol/L 明顯上升，代表胰島素已被正常抑制，不支持高胰島素血症；較符合酮性低血糖、皮質醇或生長激素缺乏、脂肪酸氧化以外的代謝疾病。\n\n**補充**：新生兒持續性高胰島素血症常見原因為 ABCC8、KCNJ11 基因突變，治療可用 diazoxide。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-19_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
@@ -9048,7 +9048,7 @@
       "D": "陰毛發育（development of pubic hair）"
     },
     "answer": "C",
-    "explanation": "關於男女青春期第二性徵的發育整理如下，簡單記憶可以記得女生由上而下、男生由下而上\n\n### 男女青春期第二性徵發育順序\n\n| 對象 | 記憶口訣 | 發育順序 |\n| :--- | :--- | :--- |\n| **女生（8 歲）** | 由上而下 | 乳房發育 → 陰毛出現 → 快速長高 → 初經來潮 |\n| **男生（9 歲）** | 由下而上 | 睪丸變大 / 陰囊變深 → 陰莖變長 → 陰毛出現 → 快速長高 |",
+    "explanation": "答案 (C)。\n\n**男孩青春期的發育順序**\n\n1. 睪丸變大（睪丸體積 ≥ 4 mL，最早出現，平均約 11–12 歲）\n2. 陰毛出現\n3. 陰莖變長\n4. 生長衝刺（約在 Tanner 第 3–4 期，比女孩晚約 2 年）\n5. 腋毛、鬍鬚、變聲、夢遺\n\n- 女孩的發育順序：乳房發育（最早）→ 陰毛 → 生長衝刺（較早，約 Tanner 第 2–3 期）→ 初經（約乳房發育後 2–2.5 年）。\n\n因此選項中男孩最晚出現的是生長衝刺。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-20_merged.png",
     "explanation_images": null,
     "section": "第三篇 婦兒科",
