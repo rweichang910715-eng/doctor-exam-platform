@@ -12,7 +12,7 @@
       "D": "懷疑是血管迷走神經性昏厥（vasovagal syncope）時可建議病人做傾斜床測試（tilt table test）"
     },
     "answer": "C",
-    "explanation": "昏厥（syncope）是一種因為大腦血流減少所造成暫時性的意識喪失，能自行恢復。發作時間短、恢復速度快，在發生前可能有所謂前兆（prodrome），稱作 presyncope。一般發作原因可分為三大類：神經性（neurogenic）、姿勢性低血壓（orthostatic hypotension）、心因性（cardiac）。其中神經性最常見，除了會有頭暈疲倦症狀外，還會有自主神經系統活化的症狀，如：冒汗、暈眩、蒼白、心悸、噁心、過度換氣、打哈欠等\n\n| 昏厥（syncope）類型 | 舉例 |\n| --- | --- |\n| 神經性（反射性） | **血管迷走神經性**：害怕、焦慮、看到或聞到令人不舒服的東西<br>**情境式反射（有明確刺激）**：咳嗽、排尿後、DRE、頸動脈竇按摩、眼睛檢查或手術、Bezold-Jarisch reflex |\n| 姿勢性低血壓 | **原發性 ANS 失調**：Lewy body disease、Parkinson's、multiple system atrophy（舊稱 Shy-Drager）<br>**續發性 ANS 失調**：DM、amyloidosis、Sjögren's、HIV<br>**其他**：剛吃飽、醫源性（如：prazosin）、體液不足 |\n| 心因性 | **心律不整**：sick sinus syndrome、AV block、心跳過快（SVT 或 VT）、離子通道異常<br>**結構問題**：瓣膜異常、心肌缺血、myxoma、心包積液 |\n\n(C) 姿勢性低血壓：在站立 3 分鐘時出現 SBP 掉 ≥ 20 mmHg 或 DBP 掉 ≥ 10 mmHg 者。如果自主神經只有部分受損，可能會出現代償性的心跳上升，但所增加的心跳仍不足以供應所需的心輸出量\n\n(D) 傾斜床測試（tilt table test）可檢測交感神經功能，不只能看出姿勢性低血壓，vasovagal 也有其典型表現，整理如下：\n\n| Syncope 類型 | Tilt table 結果 |\n| --- | --- |\n| 神經性 | 陣發性的「低血壓－心跳慢」表現 |\n| 姿勢性低血壓 | 血壓逐漸往下掉，心跳無足夠的代償性增加 |\n| psychogenic | 無血行動力學不穩定，但在檢測過程中出現不適 |\n\n＜相關考點＞\n1. syncope 是嚴重主動脈瓣狹窄開刀 indication，出現 syncope 不處理平均餘命剩 3 年（胸痛 5 年、心衰竭 2 年）\n2. 會引起姿勢性低血壓的藥：TCA（imipramine > amitriptyline > nortriptyline）、α-1 blocker（-zosin）、teriparatide、nitrate、phenothiazine",
+    "explanation": "答案 (C)。\n\n**昏厥的原因與評估**\n\n| 類型 | 原因 |\n| --- | --- |\n| 反射性（最常見） | 血管迷走神經性（久站、疼痛、情緒）、情境性（排尿、咳嗽、吞嚥）、頸動脈竇過敏 |\n| 姿勢性低血壓 | 脫水、出血、藥物（降壓藥、利尿劑）、自主神經失調（糖尿病、巴金森氏症） |\n| 心因性 | 心律不整（心搏過緩、心室心搏過速）、結構性心臟病（主動脈瓣狹窄、肥厚型心肌病變）、肺栓塞 |\n\n- 姿勢性低血壓的定義：站立後 3 分鐘內收縮壓下降 ≥ 20 mmHg，或舒張壓下降 ≥ 10 mmHg，而不是 15/5 mmHg，故 (C) 錯誤。\n- 懷疑血管迷走神經性昏厥但診斷不確定時，可做傾斜床試驗。\n\n**補充**：心因性昏厥的警訊：運動中昏厥、平躺時昏厥、昏厥前心悸、猝死家族史、已知心臟病、異常心電圖。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-1_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-1_merged.png"
@@ -34,12 +34,12 @@
       "D": "若出現發燒、體重減輕或發生在胸椎第四節以上的骨折，要懷疑不是單純由老化所引發的骨折"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "答案 (C)。\n\n**骨質疏鬆性骨折**\n\n- 脊椎壓迫性骨折是最常見的骨鬆性骨折，約三分之二沒有症狀，常在影像檢查時偶然發現。\n- 發生一次脊椎骨折後，一年內再發生其他節脊椎骨折的風險約 20%（「骨折連鎖」），應積極治療。\n- 抗骨質吸收藥物（雙磷酸鹽、denosumab）的主要目的是增加骨密度、預防再骨折，而不是緩解急性疼痛；研究證實可降低脊椎骨折約 50–70%，故 (C) 錯誤。（calcitonin 有部分止痛效果。）\n- 警訊（懷疑腫瘤、感染等次發原因）：發燒、體重減輕、年輕、沒有外傷、骨折位於胸椎第四節以上。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
-    "chapter": "心臟內科",
-    "category": "心臟內科",
+    "chapter": "新陳代謝科",
+    "category": "新陳代謝科",
     "has_explanation": true,
     "book_page": 101
   },
@@ -56,14 +56,14 @@
       "D": "right ventricle heave"
     },
     "answer": "D",
-    "explanation": "端坐時比平躺時更覺得胸悶吸不到氣 → 躺臥呼吸（platypnea），可伴隨 orthodeoxia（因坐立時動脈血氧分壓降低而出現症狀）\n躺臥呼吸與肝肺症候群（hepatopulmonary syndrome, HPS）、PFO、myxoma 等有關。肝肺症候群的病人因為肝硬化合併門脈高壓 → 肺部血管擴張 → 出現肺內 shunting → V/Q mismatch\n\n(A) Castell's test 是 splenomegaly 的 PE，透過叩診左腋下第八或九肋間判斷是否有脾腫大，若叩診為 dullness 則可能有脾腫大，進一步暗示可能有門脈高壓\n(B) 可偵測肝硬化產生的腹水\n(C) diastolic rumbling heart murmur 為主動脈瓣逆流的聽診特徵\n(D) right ventricular heave 代表右心室肥大，與本題最無關",
+    "explanation": "答案 (D)。\n\n**端坐呼吸與心衰竭的身體診察**\n\n本題老年男性有高血壓與 B 型肝炎，漸進性活動時呼吸急促，坐著比躺著舒服（端坐呼吸），需鑑別左心衰竭與大量腹水（肝硬化）壓迫橫膈。\n\n| 診察 | 意義 |\n| --- | --- |\n| Castell's sign | 叩診脾臟（左前腋線最低肋間）由鼓音變濁音，代表脾臟腫大（門脈高壓） |\n| 腹部移動性濁音 | 腹水 |\n| 舒張期隆隆聲 | 二尖瓣狹窄，造成肺鬱血與端坐呼吸 |\n| 右心室抬舉 | 右心室肥大（肺高壓），不會直接造成端坐呼吸 |\n\n參考答案認為右心室抬舉對確定端坐呼吸的原因幫助最小。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-3_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-3_merged.png"
     ],
     "section": "第一篇 內科學",
-    "chapter": "肝膽腸胃科",
-    "category": "肝膽腸胃科"
+    "chapter": "心臟內科",
+    "category": "心臟內科"
   },
   {
     "id": "111-1-醫學(三)-4",
@@ -78,7 +78,7 @@
       "D": "腹瀉、大便失禁"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。\n\n**有機磷中毒**\n\n- 機轉：不可逆抑制乙醯膽鹼酯酶，乙醯膽鹼堆積在毒蕈鹼受體、菸鹼受體與中樞神經。\n\n| 受體 | 症狀 |\n| --- | --- |\n| 毒蕈鹼（DUMBELS） | 腹瀉、尿失禁、瞳孔縮小、支氣管分泌增加與收縮、心搏過緩、嘔吐、流淚、流口水、冒汗 |\n| 菸鹼 | 肌肉顫動、肌肉無力、麻痺（含呼吸肌）、心搏過速、高血壓 |\n| 中樞神經 | 意識混亂、癲癇、昏迷、呼吸抑制 |\n\n有機磷中毒會使口水、淚液增加，而不是減少；口乾、皮膚乾燥是抗膽鹼中毒的表現。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -100,12 +100,12 @@
       "D": "注射pralidoxime（2-PAM）"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "答案 (C)。\n\n**有機磷中毒的治療**\n\n1. 除污：移除衣物、清洗皮膚（醫護人員做好防護）；服毒時間短可考慮活性碳。\n2. 確保呼吸道（分泌物多、呼吸肌無力），必要時插管；避免使用 succinylcholine（會延長麻痺）。\n3. Atropine：拮抗毒蕈鹼作用，反覆給予直到肺部分泌物變乾，劑量可能很大。\n4. Pralidoxime（2-PAM）：在乙醯膽鹼酯酶「老化」前使其再活化，改善菸鹼作用（肌肉無力）。\n5. Benzodiazepine 控制癲癇。\n\nPhysostigmine 是乙醯膽鹼酯酶抑制劑，用於抗膽鹼藥物中毒；給有機磷中毒病人會使膽鹼過量症狀更嚴重，不可使用。\n\n**補充**：注意中毒後 1–4 天可能出現中間症候群（近端與呼吸肌無力），需持續監測。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
-    "chapter": "心臟內科",
-    "category": "心臟內科",
+    "chapter": "急診內科",
+    "category": "急診內科",
     "has_explanation": true,
     "book_page": 172
   },
@@ -122,14 +122,14 @@
       "D": "無症狀腹主動脈瘤若直徑5.5 cm以上，應考慮進行主動脈瘤修補術，以血管內（endovascular）介入方式之短期死亡率較傳統外科手術為低，而長期死亡率相似"
     },
     "answer": "C",
-    "explanation": "主動脈瘤（aortic aneurysm）的成因主要可分為以下幾類：\n\n| 主動脈瘤成因 | 舉例 / 說明 |\n| --- | --- |\n| 退化性 | 老化、抽菸、高膽固醇血症、高血壓、粥狀動脈硬化 |\n| 基因異常 | BAV、Marfan's、Loeys-Dietz、Ehlers-Danlos type IV、aneurysm-osteoarthritis syndrome、Turner's、fibromuscular dysplasia |\n| 動脈炎 | - 血管炎：Takayasu、giant cell arteritis<br>- 風濕性：HLA-B27 相關、Behçet's、Cogan's、IgG4-RD<br>- 感染性：梅毒（升主動脈～主動脈弓）、結核（胸主動脈）、mycotic（沙門氏菌 / 葡萄球菌 / 鏈球菌 / 真菌，多在粥狀硬化斑塊處） |\n| 慢性剝離 | 久了導致動脈壁變脆弱 |\n| 創傷性 | 多傷到降胸主動脈（在 ligamentum arteriosum insertion 處之後） |\n\n而依照發生的位置又可分胸主動脈瘤、腹主動脈瘤\n\n| 主動脈瘤分佈 | 成因 | 症狀 | 預後 | 治療 |\n| --- | --- | --- | --- | --- |\n| 胸主動脈瘤 | 升主動脈：medial degeneration<br>下主動脈：粥狀動脈硬化（atherosclerosis） | 大多無症狀，若有：<br>- 壓迫或侵蝕：胸痛、喘、咳嗽、沙啞、吞嚥困難<br>- 影響升主動脈：AR、壓到 SVC → congestive HF | 進展較快：Marfan's、體積大、出現症狀者<br>* 破裂率：< 4 cm 每年 2~3%、> 6 cm 每年 7% | 藥物：β-blockers、控制血壓、ACE-i/ARB<br>手術：升主動脈瘤 ≥ 5.5 cm 或每年增加 > 0.5 cm；降主動脈 ≥ 6 cm 或每年增加 > 1 cm 時可考慮介入 |\n| 腹主動脈瘤 | > 4 cm 的有 90% 與粥狀動脈硬化有關，大多出現在比 renal artery 低的地方 | 大多無症狀，若有：腹痛、強烈搏動感、胸痛、下背痛、陰囊痛。會痛要小心是不是動脈瘤（要）破了 | 破裂率：< 5 cm 五年 1~2%、> 5 cm 五年 20~40% | 藥物：statins<br>手術：有任何症狀、快速擴大、≥ 5.5 cm 者 |",
+    "explanation": "答案 (C)。\n\n**主動脈瘤**\n\n- 病因：退化性（動脈硬化）、遺傳性結締組織疾病（Marfan、Loeys-Dietz、Ehlers-Danlos）、主動脈瓣二葉畸形、慢性主動脈剝離、感染（黴菌性）、非感染性動脈炎（Takayasu、巨細胞動脈炎）、外傷。\n- 胸主動脈瘤的破裂風險隨直徑增加：< 5 cm 每年約 2–3%，> 6 cm 約 7%。\n- 腹主動脈瘤：\n  - 定義為直徑 ≥ 3 cm，多因動脈硬化，男性、抽菸、高齡為危險因子。\n  - 約 90% 位於腎動脈以下，而不是以上，故 (C) 錯誤。\n  - 瘤內的附壁血栓可脫落造成下肢栓塞。\n- 修補時機：無症狀者直徑 ≥ 5.5 cm（女性 ≥ 5.0 cm）、每年增大 > 1 cm 或有症狀。\n- 血管內修補（EVAR）的短期死亡率較傳統手術低，長期存活相近，但需終身影像追蹤內漏。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-6_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-6_merged.png"
     ],
     "section": "第一篇 內科學",
-    "chapter": "新陳代謝科",
-    "category": "新陳代謝科"
+    "chapter": "心臟內科",
+    "category": "心臟內科"
   },
   {
     "id": "111-1-醫學(三)-7",
@@ -144,14 +144,14 @@
       "D": "體外膜氧合系統（ECMO）可用於急性心衰竭合併心因性休克及嚴重肺損傷合併呼吸衰竭"
     },
     "answer": "A",
-    "explanation": "機械式循環輔助（Mechanical Circulatory Support, MCS）可用於輔助休克或血行動力不穩的病人，但目前這些 MCS 在治療心因性休克的角色仍未定，不論是大型 trials 或是 meta-analysis 都沒有看到顯著的好處。較常用的幾種整理如下：\n\n| 機械式循環輔助 | 類型 | 說明 |\n| --- | --- | --- |\n| 主動脈氣球泵浦（IABP） | 被動式 | 氦氣充填的氣球經股動脈置入，放到左鎖骨下動脈跟降主動脈的交界處<br>舒張早期：充氣 → 增加壓力、增加冠狀動脈灌流；舒張後期：消氣 → 降低壓力、降低左心室後負荷 |\n| Impella 導管 | 主動式 | 經皮放導管從股動脈到 LV。尖端有軸向 pump，從 LV 以 2.5 ~ 5 L/min 之速打血到主動脈 |\n| TandemHeart 系統 | 主動式 | 經皮放 21 Fr 導管從股靜脈到 RA 再到 LA。有離心 pump，從 LA 以 5 L/min 之速抽血泵出，再注入股動脈 |\n| 動靜脈體外膜氧合（VA-ECMO） | 主動式 | 用於急性心衰竭合併心因性休克及嚴重肺損傷合併呼吸衰竭時 |\n\n＜相關考點＞\n1. IABP 禁忌症：嚴重主動脈逆流、主動脈剝離、嚴重周邊血管疾病等\n2. IABP 無助於 AMI 引起的心因性休克，因此已經不再被推薦常規使用【108 內專、Harrison 21/e Ch.305、證據：IABP-SHOCK II trial】",
+    "explanation": "答案 (A)。\n\n**機械性循環支持**\n\n| 裝置 | 機轉 |\n| --- | --- |\n| 主動脈內氣球幫浦（IABP） | 放在降主動脈，以氦氣充氣；舒張期充氣提高舒張壓、增加冠狀動脈灌流，收縮期前消氣降低後負荷；心輸出量只增加約 0.5–1 L/min |\n| Impella | 經股動脈逆行放入左心室的軸流幫浦，把左心室血液打到主動脈 |\n| TandemHeart | 經靜脈穿過心房中隔，從左心房抽血，以離心幫浦打回股動脈，流量可達約 4–5 L/min |\n| VA-ECMO | 同時支持心臟與肺臟，用於心因性休克或心跳停止 |\n| VV-ECMO | 只支持肺臟（嚴重呼吸衰竭） |\n\nIABP 是在舒張期充氣（在主動脈瓣關閉、重搏切跡時開始），「提高」舒張壓以增加冠狀動脈血流，並在收縮前消氣降低收縮壓與後負荷；選項說「降低主動脈早期舒張期血壓」錯誤，故 (A) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-7_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-7_merged.png"
     ],
     "section": "第一篇 內科學",
-    "chapter": "胸腔內科",
-    "category": "胸腔內科"
+    "chapter": "心臟內科",
+    "category": "心臟內科"
   },
   {
     "id": "111-1-醫學(三)-8",
@@ -166,14 +166,14 @@
       "D": "嚴重心律不整，且曾併發血行動力學不穩定"
     },
     "answer": "C",
-    "explanation": "壓力催迫性檢查（stress test）的禁忌症包含：2 天內發生 AMI、沒有治療過的不穩定心絞痛、沒有控制好且血行動力學不穩定的心律不整、有症狀的嚴重主動脈狹窄、控制不良又有症狀的心衰竭、急性肺栓塞、嚴重肺高壓、急性心臟炎（心內膜 / 心肌 / 心包膜）、急性主動脈剝離、高度 AV block、嚴重高血壓（BP > 200/110）、因為各種原因不能運動的（如：太胖）。故本題選 (C)，有症狀的嚴重主動脈狹窄不適合做 stress test，無症狀者可以做",
+    "explanation": "答案 (C)。\n\n**運動壓力測試的禁忌症**\n\n| 絕對禁忌 | 相對禁忌 |\n| --- | --- |\n| 2 天內的急性心肌梗塞 | 左主幹狹窄 |\n| 不穩定心絞痛 | 中度瓣膜狹窄 |\n| 有症狀或造成血行動力學不穩的心律不整 | 無症狀的嚴重主動脈瓣狹窄 |\n| 有症狀的嚴重主動脈瓣狹窄 | 電解質異常 |\n| 失代償心衰竭 | 嚴重高血壓（> 200/110 mmHg） |\n| 急性肺栓塞、心肌炎、心包膜炎、心內膜炎 | 肥厚型阻塞性心肌病變 |\n| 急性主動脈剝離 | 高度房室傳導阻滯 |\n\n無症狀的主動脈瓣狹窄屬於相對禁忌，在嚴密監測下可做運動測試以揭露隱藏的症狀，不是絕對禁忌症。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-8_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-8_merged.png"
     ],
     "section": "第一篇 內科學",
-    "chapter": "胸腔內科",
-    "category": "胸腔內科"
+    "chapter": "心臟內科",
+    "category": "心臟內科"
   },
   {
     "id": "111-1-醫學(三)-9",
@@ -188,14 +188,14 @@
       "D": "class IV antiarrhythmic drugs"
     },
     "answer": "A",
-    "explanation": "Class 1C 的藥可能會造成 ST elevation，只能用在結構正常的心臟。抗心律不整藥依照 Vaughan Williams 分類系統整理於下表\n\n| 類別 | | 藥物 | 控制 | 副作用 | 備註 |\n| --- | --- | --- | --- | --- | --- |\n| I（NaC） | A | quinidine | rhythm | 耳鳴、腹瀉、紫斑症 | 也會抗膽鹼 |\n| | | procainamide | | lupus、↑ QT | |\n| | | disopyramide | | anti-cholinergic、導致 HF | 青光眼者慎用 |\n| | B（僅治心室異常） | lidocaine | | 感覺異常、癲癇 | 適合用於治療 AMI 後產生之 VT |\n| | | mexiletine | | 感覺異常、嗜睡、痙攣 | 口服 |\n| | C | propafenone | | 金屬味、便秘 | 微弱 β-B 效果 |\n| | | flecainide | | 惡化 MI 後之 VT | 也會 block KC |\n| II（β-B） | | β-blockers：propranolol、esmolol | rate | AV block | |\n| III（KC） | | sotalol（也是 β-B） | rhythm | ↑ QT | ↓ ICD 通電量 |\n| | | amiodarone（廣效型，各類作用均有） | | ↑ QT、肺纖維化、甲狀腺異常、視力模糊、皮膚藍斑、肝功能異常 | 很少 TdP、半衰期很長、含碘量高 |\n| IV（CaC） | | non-DHP CCB：verapamil, diltiazem | rate | AV block、低血壓 | HFrEF 不可用 |\n\n＜其他考點＞\n1. 有抗膽鹼效果：disopyramide、quinidine → 青光眼、老人家慎用\n2. 會 QT prolong：class 3、procainamide（其代謝物 N-acetyl-procainamide）\n3. 1B 特性：只對心室心律不整有效（不能治 Af、SVT）、有止痛效果（可緩解 DM neuropathy）\n4. amiodarone：與毛地黃合用會增加其濃度、對甲狀腺影響可以是低下或亢進",
+    "explanation": "答案 (A)。\n\n**抗心律不整藥物與 ST 段上升**\n\n- Class IC（flecainide、propafenone）是強效鈉離子通道阻斷劑，可在 V1–V3 誘發類 Brugada 型的 ST 段上升（右束支阻斷樣圖形），也會使 QRS 變寬。\n- Brugada 症候群（SCN5A 鈉離子通道功能下降）的診斷可用 class I 藥物（ajmaline、flecainide、procainamide）激發試驗。\n\n| 分類 | 代表藥物 | 心電圖 |\n| --- | --- | --- |\n| IA | Procainamide、quinidine | QRS 與 QT 延長 |\n| IB | Lidocaine、mexiletine | 變化少 |\n| IC | Flecainide、propafenone | QRS 明顯變寬，可誘發 Brugada 樣 ST 上升 |\n| II | β 阻斷劑 | PR 延長、心跳變慢 |\n| III | Amiodarone、sotalol | QT 延長 |\n| IV | Verapamil、diltiazem | PR 延長 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-9_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-9_merged.png"
     ],
     "section": "第一篇 內科學",
-    "chapter": "胸腔內科",
-    "category": "胸腔內科"
+    "chapter": "心臟內科",
+    "category": "心臟內科"
   },
   {
     "id": "111-1-醫學(三)-10",
@@ -210,14 +210,14 @@
       "D": "心房顫動之缺血性中風風險評估可用 CHA DS -VASc score2 2"
     },
     "answer": "A",
-    "explanation": "心房顫動（AF）是最常見的 sustained arrhythmia，盛行率隨著年紀增長而增加，超過 95% 的 AF 病人年紀 > 60 歲；而 80 歲以上的族群中盛行率約為 10%\n\n(A) 錯誤，男性多於女性\n\n(B) 正確，AF 風險因子包含：高血壓、糖尿病、心血管疾病、AF 家族史、肥胖、睡眠呼吸問題；部分病人也與甲狀腺亢進、急性酒精中毒、MI、肺栓塞等有關\n\n(C)(D) 正確，CHA₂DS₂-VASc score 可輔助找出需要使用預防缺血性中風藥的病患",
+    "explanation": "答案 (A)。\n\n**心房顫動**\n\n- 最常見的持續性心律不整，盛行率隨年齡增加；男性比女性多（約 1.5 倍），但女性壽命較長，老年人中女性的絕對人數可能較多，故 (A) 錯誤。\n- 危險因子：高齡、高血壓、糖尿病、肥胖、心衰竭、瓣膜疾病、冠心症、甲狀腺亢進、睡眠呼吸中止、飲酒、慢性腎病。\n- 併發症：中風與全身性栓塞、心衰竭（心搏過速性心肌病變）、失智。\n- 以 CHA₂DS₂-VASc 評估中風風險，決定是否抗凝血治療；以 HAS-BLED 評估出血風險。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-10_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-10_merged.png"
     ],
     "section": "第一篇 內科學",
-    "chapter": "胸腔內科",
-    "category": "胸腔內科"
+    "chapter": "心臟內科",
+    "category": "心臟內科"
   },
   {
     "id": "111-1-醫學(三)-11",
@@ -232,7 +232,7 @@
       "D": "慢性靜脈疾病的主要診斷工具是venous duplex ultrasonography"
     },
     "answer": "D",
-    "explanation": "| 靜脈疾病 | | |\n| --- | --- | --- |\n| varicose vein | primary | 淺層靜脈本身結構異常（一半有家族史） |\n| | secondary | 深層靜脈異常 → 靜脈高壓、perforating v. 功能不佳 → 淺靜脈擴張 |\n| chronic venous insufficiency | primary | 血管壁異常、瓣膜本身功能不足 → 靜脈血逆流 |\n| | secondary | DVT 導致阻塞、瓣膜變厚且攣縮 → 靜脈血逆流<br>* 其他如 May-Thurner syndrome、腫瘤從外壓迫、後腹腔纖維化、A-V fistula 等也都是成因 |\n\n(A) 錯誤，原發性靜脈曲張主要是因為靜脈結構異常、瓣膜功能不佳導致，其中約一半的人有家族史\n(B) 錯誤，造成原發性靜脈曲張的風險因子包含老化、懷孕、荷爾蒙療法、肥胖、以及久站\n(C) 錯誤，原發性靜脈曲張常發生在淺層靜脈\n(D) 正確，慢性靜脈疾病最重要的診斷工具就是 venous duplex ultrasonography，是一種結合了 B-mode 以及 spectral Doppler 的超音波檢查，可以偵測靜脈阻塞、靜脈血逆流等異常",
+    "explanation": "答案 (D)。\n\n**慢性靜脈疾病與靜脈曲張**\n\n- 原發性靜脈曲張：表淺靜脈（大隱靜脈、小隱靜脈）瓣膜功能不全造成，常有家族史，故 (A)(C) 錯誤。\n- 危險因子：高齡、女性、懷孕、家族史、肥胖、久站、荷爾蒙（口服避孕藥、荷爾蒙補充療法會增加風險，故 (B) 錯誤）。\n- 臨床分級（CEAP）：C0 無可見病灶 → C1 微血管擴張 → C2 靜脈曲張 → C3 水腫 → C4 皮膚變化（色素沉澱、脂肪皮膚硬化） → C5 已癒合潰瘍 → C6 活動性潰瘍。\n- 主要診斷工具：靜脈雙功超音波，可評估逆流、阻塞與深部靜脈栓塞，故 (D) 正確。\n- 治療：彈性襪、抬腿、運動；靜脈內燒灼（雷射、射頻）、硬化治療、手術剝除。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-11_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-11_merged.png"
@@ -254,7 +254,7 @@
       "D": "metoprolol succinate"
     },
     "answer": "C",
-    "explanation": "實證醫學支持能改善 HFrEF 預後的 beta-blockers 就只有 carvedilol、bisoprolol、metoprolol succinate 這三種（口訣：CBM 才有 EBM），故本題選 (C)",
+    "explanation": "答案 (C)。\n\n**射出分率降低心衰竭（HFrEF）的 β 阻斷劑**\n\n- 經大型臨床試驗證實可降低死亡與住院的 β 阻斷劑只有三種：\n  - Carvedilol（α1、β1、β2 阻斷）\n  - Bisoprolol（選擇性 β1）\n  - Metoprolol succinate（長效型）\n  - （歐洲另有 nebivolol 用於老年人）\n- Propranolol、atenolol 與短效 metoprolol tartrate 沒有證據可改善 HFrEF 的預後。\n\n**補充**：HFrEF 的四大基石藥物：ARNI（或 ACEI/ARB）、證實有效的 β 阻斷劑、礦物皮質素受體拮抗劑、SGLT2 抑制劑。β 阻斷劑應從低劑量開始，在病情穩定（非急性失代償）時逐步調高。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-12_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-12_merged.png"
@@ -276,14 +276,14 @@
       "D": "在門診呼吸困難患者中，BNP或NT-proBNP的測量可用於支持有關HF診斷的臨床決策，尤其是在臨床不確定性情況下"
     },
     "answer": "A",
-    "explanation": "Brain natriuretic peptide（BNP）以及 NT-proBNP 主要儲存在 ventricular myocytes 中，當心室舒張壓升高時會釋放出來。作用包含：促進 Na 與水的排除、限制 Na 再吸收、抑制 RAAS 系統等。通常 HFrEF 病人的 BNP 會比 HFpEF 高。但許多因子也會影響 BNP、NT-proBNP 的濃度，包含：年紀、性別、慢性腎臟病等，整理如下表：\n\n| 影響 BNP 的因素 | |\n| --- | --- |\n| BNP 升高 | 心因性：HFrEF、PAH、AF、PE、AL amyloidosis（可追蹤 troponin）<br>其他：年紀大、女性、腎功能變差、使用 ARNI |\n| BNP 降低 | 肥胖（假性降低，falsely low） |\n\n(A) 錯誤，使用 ARNI 應該會讓 BNP 濃度升高\n(B)(C) 正確，年齡增加、腎功能變差的時候 BNP、NT-proBNP 血清濃度也會增加\n(D) 正確，在 HF 的診斷中，除了心室肥大以及臨床症狀（喘、basilar rales、頸靜脈鼓張、肝腫大等）外，ECG、BNP、NT-proBNP 都能夠支持診斷。Harrison 也提到在會喘的非肥胖病人中，極低的 BNP 或 NT-proBNP 可幫忙排除 HF 的診斷\n\n＜其他考點＞\n1. 在 AKI 時，NT-proBNP 不能評估 HF 的嚴重度【109 內專】\n2. 右心衰竭時，BNP 也會增加【108 內專】",
+    "explanation": "答案 (A)。\n\n**心衰竭的血清標記**\n\n- BNP 與 NT-proBNP 用於支持心衰竭的診斷（尤其臨床不確定時）、評估嚴重度與預後。\n- 影響因素：年齡增加、腎功能下降、心房顫動會使數值上升；肥胖會使數值偏低。\n- ARNI（sacubitril/valsartan）中的 sacubitril 抑制 neprilysin，而 BNP 是 neprilysin 的受質，因此使用後 BNP 會上升，而不是下降，故 (A) 錯誤；NT-proBNP 不受 neprilysin 分解，會隨心衰竭改善而下降，因此使用 ARNI 的病人應追蹤 NT-proBNP。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-13_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-13_merged.png"
     ],
     "section": "第一篇 內科學",
-    "chapter": "胸腔內科",
-    "category": "胸腔內科"
+    "chapter": "心臟內科",
+    "category": "心臟內科"
   },
   {
     "id": "111-1-醫學(三)-14",
@@ -298,14 +298,14 @@
       "D": "心臟超音波"
     },
     "answer": "C",
-    "explanation": "呼吸困難的鑑別診斷主要從心肺出發\n\n| 器官 | 異常位置 | 疾病舉例 | 初步檢查工具 |\n| --- | --- | --- | --- |\n| 肺臟 | 呼吸道異常 | 氣喘、COPD、上呼吸道阻塞 | CXR、肺功能檢查、CT |\n| | 間質疾病 | 各種 ILD | CXR、肺功能檢查、CT |\n| | 胸壁異常 | 駝背、脊椎側彎、神經肌肉無力 | 肺功能檢查（MIP、MEP） |\n| 心肺 | 肺血管 | 肺高壓 | DLCO、ECHO、EKG |\n| 心臟 | 左心衰竭 | 冠狀動脈疾病、cardiomyopathy | BNP、EKG、ECHO、可考慮壓力催迫性檢查 |\n| | 心包膜疾病 | 限制性心包膜炎、心包膜填塞 | |\n| 其他 | | 貧血、緊張、酸血、GERD | Hct、SMAC、UGI 鏡檢 |\n\n(B)(C) 身體檢查通常都是門診就會做的事情，對於初步診斷非常重要；24 hr Holter 通常是心律不整病患要進行的檢查，對於呼吸困難的鑑別診斷幫助較小，本題選 (C)",
+    "explanation": "答案 (C)。\n\n**漸進性運動性呼吸困難的評估**\n\n- 第一步：病史與身體診察（頸靜脈怒張、囉音、心雜音、水腫、哮鳴、杵狀指）。\n- 基本檢查：\n  - 胸部 X 光（心臟擴大、肺水腫、肺部病灶、肋膜積液）\n  - 心電圖\n  - 血液檢查（血紅素、BNP、甲狀腺功能）\n  - 肺功能檢查\n  - 心臟超音波（心室功能、瓣膜疾病、肺高壓）\n\n24 小時心電圖（Holter）主要用來評估陣發性心律不整（心悸、昏厥），對漸進性運動性呼吸困難的鑑別診斷幫助最小。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-14_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-14_merged.png"
     ],
     "section": "第一篇 內科學",
-    "chapter": "胸腔內科",
-    "category": "胸腔內科"
+    "chapter": "心臟內科",
+    "category": "心臟內科"
   },
   {
     "id": "111-1-醫學(三)-15",
@@ -320,7 +320,7 @@
       "D": "病人是否因其他疾病須接受抗癌化學藥物治療"
     },
     "answer": "A",
-    "explanation": "不是所有慢性 B 型肝炎患者都需要接受藥物治療，需要使用抗病毒藥的條件為：\n1. HBeAg(+)：\n   a. ALT ≥ 正常值上限 5 倍\n   b. ALT 介在正常值上限 2~5 倍，且 HBV DNA ≥ 20000 IU/mL 或切片 HBcAg(+) → (A) 錯誤，是 HBV DNA 不是 RNA\n   c. ALT 半年內兩次以上超過正常值，且 HBV DNA ≥ 20000 IU/mL 或切片 HBcAg 陽性：經切片 / 肝纖維化掃描 / Fibrosis-4 證實纖維化 ≥ F3\n2. HBeAg(-)：\n   a. ALT 半年內兩次以上超過正常值 2 倍，且 HBV DNA ≥ 2000 IU/mL 或切片 HBcAg 陽性\n   b. ALT 半年內兩次以上超過正常值，且 HBV DNA ≥ 20000 IU/mL，肝纖維化 ≥ F3\n3. 肝代償不全：total bilirubin ≥ 2 mg/dL 或 PT ≥ 3 秒\n4. 肝硬化患者 HBsAg(+) 且可驗到 HBV DNA，符合以下其一：\n   a. 切片纖維化程度符合標準\n   b. 電腦斷層或磁振造影診斷為肝硬化\n   c. 超音波診斷肝硬化，合併脾腫大或胃鏡檢查有食道或胃靜脈曲張\n   d. 超音波診斷肝硬化，PLT < 120 k/uL\n5. 懷孕：HBV DNA ≥ 1000000 IU/mL 之孕婦，從懷孕 28 週起到產後 4 週\n6. 慢性帶原：\n   a. 接受肝移植\n   b. HBsAg(+) 或 HBsAg(-) 但 anti-HBc 陽性，接受非肝臟之移植\n   c. 確診為肝癌並接受根除性治療，且可檢驗到血清 HBV DNA\n   d. 接受化療（經消化科專科醫師同意）：B 肝急性發作者、預防性用藥\n   e. 接受免疫抑制劑治療（經消化系專科醫師同意）：HBsAg(+) 或 HBsAg(-) 但 anti-HBc 陽性出現 B 肝急性發作、預防性用藥（接受 rituximab、anthracycline 衍生物、中高劑量類固醇者）",
+    "explanation": "答案 (A)。\n\n**慢性 B 型肝炎的治療考量**\n\n- 決定是否治療的因素：\n  - 血中 HBV DNA 濃度（B 肝病毒是 DNA 病毒，測量的是 DNA 而不是 RNA）\n  - ALT 是否上升\n  - 肝臟纖維化或肝硬化程度（肝硬化者只要 DNA 可測到就應治療）\n  - HBeAg 狀態、年齡、肝癌家族史\n  - 特殊情況：接受化療或免疫抑制治療前，應預防性給予抗病毒藥物，避免 B 肝再活化\n- 藥物：entecavir、tenofovir（TDF、TAF）為首選；長效干擾素用於部分病人。\n\n選項 (A) 說「HBV RNA 濃度」，並不是目前決定治療的依據（血清 HBV RNA 仍在研究中），故選 (A)。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-15_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-15_merged.png"
@@ -342,7 +342,7 @@
       "D": "若闌尾破裂被腸繫膜包住形成局部膿瘍，需要給與廣效抗生素及考慮安排引流。手術切除可延後至局部發炎改善後再進行"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。\n\n**急性闌尾炎**\n\n- 典型病程：先上腹或臍周痛（內臟痛），伴噁心、食慾不振，之後轉移到右下腹（壁層腹膜受刺激），再出現發燒。\n- 育齡女性需鑑別婦產科問題：子宮外孕、卵巢扭轉或破裂、骨盆腔發炎、子宮內膜異位症；並排除泌尿道結石或感染。\n- 身體診察徵象：\n\n| 徵象 | 方法 |\n| --- | --- |\n| McBurney 點壓痛 | 肚臍與右前上腸骨棘連線外 1/3 處壓痛 |\n| Rovsing 徵象 | 壓左下腹時右下腹痛 |\n| Psoas 徵象 | 右髖被動伸展時疼痛（後盲腸位） |\n| Obturator 徵象 | 右髖屈曲內旋時疼痛（骨盆位） |\n\n  McBurney 點壓痛就是 McBurney 點壓痛，Rovsing 徵象是壓左下腹引起右下腹痛，故 (B) 錯誤。\n- CT：闌尾直徑 > 6 mm、管壁增厚、周邊脂肪浸潤，糞石不一定存在；孕婦與兒童優先超音波或 MRI。\n- 闌尾破裂形成局部膿瘍時，可先抗生素加經皮引流，待發炎改善後再擇期切除（interval appendectomy）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -364,7 +364,7 @@
       "D": "Lynch's syndrome導致的大腸癌與遺傳有關，也會增加發生子宮內膜癌或是卵巢癌的風險"
     },
     "answer": "B",
-    "explanation": "家族遺傳性大腸癌（以下三者都是 AD）\n\n| syndrome | 突變的基因 | 腸胃道腫瘤 | 其他異常 |\n| --- | --- | --- | --- |\n| FAP | APC（chr. 5q21） | 上百顆 adenoma、intestinal type 胃癌 | 視網膜色素上皮肥厚（CHRPE） |\n| Lynch（HNPCC） | MSH2, MLH1 | 大腸直腸癌 | 子宮內膜癌、卵巢癌 |\n| Peutz-Jeghers | STK11 = LKB1（chr. 19） | hamartoma、胃癌、小腸癌、大腸癌、胰臟癌 | 口腔黏膜色素斑、乳癌、卵巢癌、胰臟癌、肺癌 |\n\n(A) 正確，adenoma/adenomatous polyp 是 adenocarcinoma 的癌前病變（但大部分不會癌化），而 hyperplastic polyp 則不是癌前病變\n(B) 錯誤，一般而言相較於 pedunculated, adenomatous polyp，侵犯癌更容易從 sessile, serrated polyp 中長出。另外 sessile, serrated polyp 大多數帶有 MSI 的變異，常侵犯周圍的淋巴血管組織\n(C) 正確，在沒有預防性切除的情況下，FAP 患者發生大腸癌的機率幾乎 100%\n(D) 正確，Lynch syndrome 就是 HNPCC（hereditary nonpolyposis colorectal cancer），是因為 mismatch repair 功能受到影響，導致有 microsatellite instability（MSI），因此不只是會發生大腸癌，得到子宮內膜癌（Lynch 最常見的腸道外腫瘤）、卵巢癌等機率也比一般人高\n\n＜其他考點＞\n1. 家族遺傳性的大腸癌，發生年紀通常較早\n2. APC 突變系列的還有：\n   a. Gardner：polyposis + osteoma / epidermoid cyst / thyroid tumor\n   b. Turcot：polyposis + medulloblastoma / glioblastoma\n3. Lynch 的大腸癌主要發生在近端大腸（ascending colon）\n   < 記法 > Lynch 唸起來像「鄰居」，所以是「近」端大腸\n4. Peutz Jeghers 病患的過誤瘤（hamartoma）可能會造成出血、腸阻塞、腸套疊等，雖然本身不是癌前病變，但患者罹癌的風險仍比一般人高。可能合併卵巢癌、胰臟癌、乳癌等，但與口腔腫瘤無關【110 內專】\n5. 大腸息肉經切除後，多數人 3 年後再追蹤大腸鏡檢查即可",
+    "explanation": "答案 (B)。\n\n**大腸息肉與大腸直腸癌**\n\n- 息肉類型：\n  - 腺瘤性息肉（管狀、管狀絨毛、絨毛狀）是癌前病變，絨毛成分越多、越大（> 1 cm）、高度異生，風險越高。\n  - 增生性息肉多為良性，但大型右側鋸齒狀病灶（無蒂鋸齒狀病灶）可經鋸齒狀途徑癌化。\n- 外觀：有蒂（pedunculated）、無蒂或扁平（sessile）、鋸齒狀（serrated 是組織學分類）。扁平或無蒂的病灶較容易漏看、癌化或深部侵犯的比例較高；有蒂息肉反而較容易完整切除，侵襲性較低，故 (B) 錯誤。\n- 遺傳症候群：\n  - 家族性腺瘤性息肉症（APC）：幾乎 100% 發生大腸癌，風險高於 Peutz-Jeghers 症候群。\n  - Lynch 症候群（錯配修復基因）：大腸癌、子宮內膜癌、卵巢癌、胃癌、泌尿道上皮癌等。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-17_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-17_merged.png"
@@ -386,7 +386,7 @@
       "D": "parietal cell之尖端細胞膜（apical membrane）型態會因在休息狀態（resting）或受刺激狀態（stimulated）有所改變"
     },
     "answer": "B",
-    "explanation": "胃酸分泌由負責刺激分泌的胃泌素（gastrin）、乙醯膽鹼（acetylcholine）、組織胺（histamine），以及負責抑制分泌的體抑素（somatostatin）所調控。負責分泌酸的細胞是位於腺體頸部、峽部（isthmus）的壁細胞（parietal cell，又稱泌酸細胞 oxyntic cell）。壁細胞受到刺激後，會在管狀囊泡（tubulovesicle）的表面表現大量 H⁺/K⁺- ATPase，尖端細胞膜（apical membrane）也會在刺激後形成緻密的胞內小管。這個過程相當耗能，因此需要大量的粒線體產能（約佔整個細胞體積 30 ~ 40%），故 (B) 錯誤",
+    "explanation": "答案 (B)。\n\n**胃酸分泌**\n\n- 壁細胞頂端膜上的 H⁺/K⁺-ATPase（質子幫浦）是胃酸分泌的最終步驟，PPI 即作用於此。\n- 調控：\n  - 胃泌素（G 細胞）、乙醯膽鹼（迷走神經，M3 受體）、組織胺（ECL 細胞，H2 受體）刺激分泌。\n  - 體抑素（D 細胞）抑制分泌。\n- 壁細胞休息時，質子幫浦儲存在細胞內的管泡（tubulovesicles）；受刺激時管泡與頂端膜融合，形成大量微絨毛的分泌小管，頂端膜型態明顯改變。\n- 質子幫浦需要消耗大量 ATP，對抗百萬倍的濃度梯度，因此壁細胞的粒線體非常多（細胞質呈嗜酸性），而不是很少，故 (B) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-18_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-18_merged.png"
@@ -408,7 +408,7 @@
       "D": "可能同時合併有總膽管結石"
     },
     "answer": "A",
-    "explanation": "急性膽囊炎（acute cholecystitis）通常起因於膽囊管（cystic duct）中結石阻塞、透過以下三種機轉導致發炎：\n\n| 急性膽囊炎發炎機轉 | |\n| --- | --- |\n| 物理性 | 管腔內壓力上升 → 膽囊膨脹 → 黏膜或膽囊壁缺血 |\n| 化學性 | 膽汁中的 phospholipase 把 lecithin 轉成 lysolecithin → 黏膜受損 |\n| 感染性 | 最常見的感染源：E. coli、Klebsiella、Streptococcus、Clostridium<br>* 注意：感染性發炎約佔 50 ~ 85%，並非所有膽囊炎都有感染！ |\n\n急性膽囊炎最常考的 PE 特徵是 Murphy's sign，是指在深度按壓右上腹部時，因疼痛而使深吸氣突然停止的現象。其臨床症狀要跟膽管炎區分，單純急性膽囊炎出現輕微 bilirubin 上升的比例不到一半，因為膽汁還是可以流進腸道，不會回堵到肝臟、大量進入血循；相較之下 CBD stone（choledocholithiasis）、cholangitis 則通常會有黃疸，但急性膽囊炎可能同時有 CBD stone 或膽管炎，此時症狀就有可能重疊。兩者的典型 triad 如下表：\n\n| | |\n| --- | --- |\n| 急性膽囊炎 triad | RUQ pain + fever + leukocytosis |\n| 急性膽管炎 triad（Charcot's triad） | RUQ pain + fever + jaundice<br>* Reynold's pentad = Charcot's triad + 休克 + 意識改變 |\n\n(A) 錯誤，依照 Harrison 21/e Ch. 346 所述，急性膽囊炎中有 5 ~ 14% 並沒有膽結石，稱為 acalculous cholecystitis，主要與缺血有關。這種沒有膽結石的急性膽囊炎通常發生於長期禁食、嚴重燒燙傷、休克、產程過久、接受重大手術的病人。另外還有部分人是因為血管炎、膽囊腫瘤壓迫、膽囊扭轉、寄生蟲塞住等原因導致急性膽囊炎，因此並非「必定」伴隨膽囊結石\n(B) 正確，治療方法依病人穩定度區分。可以保守治療，但因為復發率高，目前的趨勢傾向於能早點開掉就早點開掉\n\n| 急性膽囊炎處理 | |\n| --- | --- |\n| 狀況 | 治療 |\n| 有化膿 / 產氣 / 破掉 | urgent cholecystectomy 或 percutaneous cholecystostomy |\n| 穩定且無併發症 | 72 hr 內 early laparoscopic cholecystectomy (LC) |\n| 生命徵象不穩定 | 先 PTGBD 引流、打抗生素，再開 LC<br>* 常用抗生素：Tazocin、metronidazole + ceftriaxone、metronidazole + levofloxacin、imipenem、meropenem |\n\n＜其他考點＞\n1. 急性膽囊炎的 referred pain 可到右肩、背後\n2. Courvoisier's sign 指的是可觸摸到的「無痛」大膽囊，通常代表有壺腹周圍腫瘤或有 distal CBD 阻塞，跟膽囊炎無關",
+    "explanation": "答案 (A)。\n\n**急性膽囊炎**\n\n- 約 90–95% 為膽結石阻塞膽囊管造成的結石性膽囊炎。\n- 約 5–10% 為非結石性膽囊炎，好發於重症病人：長期禁食、全靜脈營養、大手術或燒燙傷後、敗血症、使用呼吸器；死亡率較高，因此「必定伴隨膽囊結石」錯誤，故 (A) 錯誤。\n- 表現：右上腹痛持續 > 6 小時、發燒、Murphy 徵象陽性（深吸氣時按壓右上腹而中斷吸氣）。\n- 超音波：膽囊壁增厚、膽囊周圍積液、超音波 Murphy 徵象、結石嵌頓於膽囊頸。\n- 治療：抗生素加早期（72 小時至 1 週內）腹腔鏡膽囊切除；手術風險高者可先經皮膽囊引流。\n- 可合併總膽管結石，需檢查肝功能與膽管擴張，必要時 ERCP。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-19_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-19_merged.png"
@@ -430,14 +430,14 @@
       "D": "原發性硬化性膽管炎（primary sclerosing cholangitis）並不會增加膽管癌之風險"
     },
     "answer": "D",
-    "explanation": "膽管癌（cholangiocarcinoma）是第二常見的肝癌類型。危險因子包含：原發性硬化性膽管炎（primary sclerosing cholangitis, PSC）、膽管囊腫、肝結石、Caroli's disease，以及肝吸蟲（fluke）感染等。PSC 主要造成肝內膽管癌以及肝門膽管癌；HBV、HCV 感染以及肝硬化等 HCC 風險因子也是肝內膽管癌的風險因子；有部分 cohort 研究顯示含糖飲料與肝外膽管癌、膽囊癌有關。依照解剖位置可分為以下三種（AJCC 第 8 版採用）類型。目前不論是哪一種類型的膽管癌，手術切除都是唯一的根治性治療\n\n| 膽管癌（cholangiocarcinoma） | | | | |\n| --- | --- | --- | --- | --- |\n| 位置 | 細分 | 比例 | 細胞來源 | 突變類型 |\n| 肝內 intrahepatic（iCCA） | | 20 ~ 30% | 膽管細胞 | FGFR2（25%）、IDH1/2、KRAS（15%）、BRAF、EGFR 等 |\n| 肝外（eCCA） | perihilar（pCCA） | 50 ~ 60% | 膽道上皮、膽周腺體 | TP53（30%）、KRAS（25%）、ERBB2/3（20%）、SMAD4<br>* 吸蟲相關：TP53、SMAD4 |\n| | distal（dCCA） | 20 ~ 30% | | |",
+    "explanation": "答案 (D)。\n\n**膽管癌**\n\n- 分類：肝內、肝門（Klatskin tumor，最常見）、遠端膽管癌。\n- 危險因子：\n  - 原發性硬化性膽管炎（西方國家最重要的危險因子，終身風險約 10–20%）\n  - 肝內結石（台灣、東亞）\n  - 肝吸蟲感染（中華肝吸蟲、泰國肝吸蟲）\n  - 總膽管囊腫、Caroli disease\n  - B、C 型肝炎與肝硬化、肥胖、糖尿病\n- 原發性硬化性膽管炎會明顯增加膽管癌風險，故 (D) 錯誤。\n- 手術切除是唯一可能治癒的方法；無法切除者以化療（gemcitabine + cisplatin，合併免疫治療）與膽道引流緩解黃疸。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-20_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-20_merged.png"
     ],
     "section": "第一篇 內科學",
-    "chapter": "腎臟科",
-    "category": "腎臟科"
+    "chapter": "肝膽腸胃科",
+    "category": "肝膽腸胃科"
   },
   {
     "id": "111-1-醫學(三)-21",
@@ -784,7 +784,7 @@
       "C": "腫瘤細胞影響調節T細胞（regulatory T cells）可以抑制免疫細胞功能",
       "D": "腫瘤細胞產生CTLA-4可讓毒殺T細胞（cytotoxic T cells）不活化"
     },
-    "answer": "A",
+    "answer": "A,D",
     "explanation": "【答案】(A) 或 (D)\n【解析】\n\n原始公告答案為 (A)，經試題疑義申覆後，考選部公告 (A) 或 (D) 均給分\n\n(A) 錯誤，**Interferon-γ（IFN-γ）** 是促進發炎、促進細胞免疫的主要細胞激素（由 Th1、CD8+ CTL 與 NK 細胞分泌），具有活化巨噬細胞、上調 MHC 分子表現及促進抗腫瘤（anti-tumor）免疫反應之功能；腫瘤細胞主要分泌 **TGF-β、IL-10、VEGF** 等免疫抑制性細胞激素來壓制免疫系統\n\n(B) 正確，腫瘤細胞常透過突變或下調（downregulate）**MHC class I** 分子（如 β2-microglobulin 突變），減少腫瘤相關抗原呈現，使 CD8+ 毒殺性 T 細胞無法有效辨識與殺傷腫瘤細胞\n\n(C) 正確，腫瘤微環境會分泌趨化因子募集並活化 **調節性 T 細胞（Tregs，CD4+ CD25+ FoxP3+）** 及骨髓衍生抑制細胞（MDSC），釋放免疫抑制因子阻斷效應 T 細胞之功能\n\n(D) 錯誤/爭議（故開放給分），**CTLA-4** 是表現於 **T 細胞（T cells）表面** 的免疫檢查點抑制性受體，而非由腫瘤細胞產生；腫瘤細胞主要表現的是 **PD-L1（結合 T 細胞的 PD-1）** 或透過表現 B7 家族分子與 T 細胞上的 CTLA-4 結合發送信號選項敘述「腫瘤細胞產生 CTLA-4」在免疫學定義上不正確，因此考選部開放 (D) 亦給分\n\n### 腫瘤免疫逃脫主要機制（Tumor Immune Evasion Mechanisms）\n\n| 逃脫機制類別 | 具體細胞或分子變化 | 免疫學效應與結果 |\n| :--- | :--- | :--- |\n| **抗原呈現缺失** | • 下調或喪失 MHC class I 表現<br>• 抗原處理機制缺陷（TAP 轉運蛋白、β2-microglobulin 突變） | CD8+ 毒殺性 T 細胞無法辨識腫瘤細胞抗原 |\n| **免疫檢查點途徑活化** | • 腫瘤細胞表面過度表現 **PD-L1**（結合 T 細胞之 PD-1）<br>• APC 或腫瘤表現 B7 結合 T 細胞之 **CTLA-4** | 直接傳遞抑制信號，造成效應 T 細胞功能耗竭（exhaustion）與無反應性（anergy） |\n| **免疫抑制性微環境建立** | • 分泌抑制性細胞激素（**TGF-β、IL-10、VEGF**）<br>• 募集免疫抑制性細胞（**Tregs、MDSCs、M2 巨噬細胞**） | 抑制 Th1/CTL 活化與增殖，阻斷樹突細胞抗原呈現 |\n| **代謝途徑重塑** | • 腫瘤微環境高表現 **IDO（吲哚胺 2,3-雙加氧酶）**，消耗色胺酸並產生犬尿氨酸<br>• 局部乳酸蓄積、酸中毒與低氧環境 | 抑制 T 細胞增殖與殺傷活性，誘導 T 細胞凋亡 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-36_merged.png",
     "explanation_images": [
@@ -1290,7 +1290,7 @@
       "C": "僅②④",
       "D": "①②③④"
     },
-    "answer": "A",
+    "answer": "A,B",
     "explanation": "",
     "explanation_image": null,
     "explanation_images": null,
@@ -3512,7 +3512,7 @@
       "C": "戒斷症狀包括無力、嗜睡",
       "D": "對於中毒病人，重要治療包括支持療法及給與足夠鎮定劑"
     },
-    "answer": "C",
+    "answer": "ALL",
     "explanation": "安非他命的戒斷症狀包括焦躁不安、困倦、失眠、侵略性、抑鬱等，因此全部選項皆為正確\n\n安非他命簡介\n\n| 項目 | 說明 |\n| :--- | :--- |\n| 作用機轉 | 阻擋神經傳導物質包括（Dopamine, Norepinephrine, Serotonin）的回收，使突觸間隙的神經傳導物質濃度高於正常值 |\n| 代謝 | 安非他命經由消化道吸收，然後在肝臟失去活性，將近一半以原貌由尿液排出，在體內的半衰期為 6-12 小時，而在服用安非他命後的 1-3 天內都可以由尿液檢出 |\n| 臨床表現 | - 輕度：初期會發生煩躁不安、身體顫抖、無法入睡、心悸、目眩頭暈、頭痛、食慾下降及性慾不振<br>- 中度：濫用量增加會愛說話、激動不安、發汗、血壓上升、發熱胸痛、昏厥及心臟衰竭<br>- 重度：過量濫用導致幻覺、昏迷、抽搐、腦出血及休克致死 |\n| 戒斷症狀 | 焦躁不安（Dysphoria）、困倦（Drowsiness）、失眠（Insomnia）、侵略性（Aggression）、抑鬱（Depression）等等 |\n| 治療 | 給予鎮靜劑、症狀治療、心理動力治療 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-77_merged.png",
     "explanation_images": [
@@ -4951,7 +4951,7 @@
       "C": "尿液常規檢查",
       "D": "前列腺特定抗原（PSA）"
     },
-    "answer": "B",
+    "answer": "A,B",
     "explanation": "張先生有明顯的下泌尿道症狀，且肛門指診發現前列腺肥大，可做尿液常規檢查判斷是否為泌尿道感染所致，亦可安排前列腺特定抗原檢測判斷是否有攝護腺癌的可能。由於題目要選的是「最不需要立即進行」的檢查，因此選擇相對較與該敘述鑑別診斷相關性較低的 (A) 和 (B)",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-67_merged.png",
     "explanation_images": null,
@@ -5728,7 +5728,7 @@
       "C": "Moraxella catarrhalis",
       "D": "Staphylococcus aureus"
     },
-    "answer": "D",
+    "answer": "ALL",
     "explanation": "原始答案為 (D)急性化膿性中耳炎常見菌包含 S. pneumonia、H influenza、Moraxella catarrhalis，而 S. aureus 被列在不常培養出的細菌之中；而急性細菌性鼻竇炎常次發於急性病毒性鼻炎，教科書提及常見的菌種包含 S. penumoniae (20-43%)、H. influenza (22-35%)、M. catarrhalis (2-6%) 與厭氧菌 (<5%)，但 S. aureus 的比例並未多做說明筆者覺得送分原因可能是 S. aureus 在急性鼻竇炎中並未明確說明其常見程度，又從文獻上搜尋仍處於未定論狀態，有的文章表示是 major pathogen，有的文章表示其培養出來量與健康人常在菌量無異，所以可能是 (D) 送分的原因",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-23_merged.png",
     "explanation_images": [
@@ -6439,7 +6439,7 @@
       "C": "停經婦女體內雄性素仍維持不減",
       "D": "女性外生殖器發育是受到雌激素刺激而形成的"
     },
-    "answer": "D",
+    "answer": "C,D",
     "explanation": "此題考生殖內分泌的生理學，外生殖器的預設發育是往女性表徵方向發育，男嬰因有雄性素刺激，因此發育成為男性表徵的性器，故原始答案為 (D)\n(A) 根據「Two-cell-Two-gonadotropin theory」，由 LH 刺激 Theca cell 製造 testosterone 後，再由 FSH/LH 刺激 granulosa cell 將 testosterone 轉換成 estrogen\n(B) 除了卵巢外，腎上腺也會產生雄性素\n\n[ 爭議點 ] 依照 Berek & Novak's 教科書所述「停經後的卵巢仍繼續製造雄性素，因為停經並未影響到卵巢基質與囊鞘細胞 (theca cell)」，同時也說明「停經後女性的雄性素濃度比育齡女性低」，因此 (C) 描述為「雄性素維持不減」，並未說明是「製造」抑或是「濃度」，有爭議而給分",
     "explanation_image": "/explanations/cropped/111-1-醫學(六)-55_merged.png",
     "explanation_images": [
@@ -7022,12 +7022,12 @@
       "D": "腎源性尿崩症（nephrogenic diabetes insipidus）"
     },
     "answer": "A",
-    "explanation": "第一步先算 mOsm/d：450 (mOsm/L) × 3.5 (L/d) = 1575 > 1000 → 選 (A)，收工。如果今天算出來 < 800 就是 water diuresis，可再分為 primary polydipsia、central DI 與 nephrogenic DI\n\n| 多尿 (polyuria) | | | |\n| :--- | :--- | :--- | :--- |\n| > 1000 mOsm/d | < 800 mOsm/d | | |\n| 溶質性利尿<br>(osmotic, solute diuresis) | 水利尿 (water diuresis) | | |\n| | 血 Na < 136、限水後尿 Osm 上升 | 血 Na > 143、限水後尿 Osm 差不多 | |\n| | primary polydipsia | 尿崩症 (diabetes insipidus, DI) | |\n| | | dDAVP 反應好 | dDAVP 反應差 |\n| | | central DI | nephrogenic DI |",
+    "explanation": "答案 (A)。\n\n**多尿的鑑別**\n\n- 多尿定義：每日尿量 > 3 L。\n- 依尿液滲透壓區分：\n\n| 類型 | 尿滲透壓 | 原因 |\n| --- | --- | --- |\n| 水利尿 | < 300 mOsm/kg（多 < 150–200） | 原發性多喝症、中樞性尿崩症、腎因性尿崩症 |\n| 溶質利尿 | > 300 mOsm/kg | 高血糖（糖尿）、mannitol、高蛋白飲食或管灌、尿素排出（解除阻塞後）、大量輸注生理食鹽水 |\n\n- 本題尿量 3.5 L/day，尿滲透壓 450 mOsm/kg（高於血漿），每日溶質排出量約 1,575 mOsm（> 1,000 mOsm/day），屬於溶質性利尿。\n- 尿崩症與原發性多喝症的尿液都是稀釋的（低滲透壓）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-1_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
-    "chapter": "新陳代謝科",
-    "category": "新陳代謝科"
+    "chapter": "腎臟科",
+    "category": "腎臟科"
   },
   {
     "id": "111-2-醫學(三)-2",
@@ -7042,7 +7042,7 @@
       "D": "收縮壓目標控制在 130～150 mmHg，而舒張壓目標控制在 80～100 mmHg"
     },
     "answer": "A",
-    "explanation": "懷孕期間的高血壓用藥包含 methyldopa、labetalol、nifedipine、hydralazine 等。孕婦不可以使用 ACE-i、ARB 或 ARNI，(A) 選項給他選下去，同一次考試考了兩次一樣的觀念，現賺 2.5 分",
+    "explanation": "答案 (A)。\n\n**懷孕期間的慢性高血壓**\n\n- 首選藥物：labetalol、nifedipine（長效）、methyldopa。\n- ACEI、ARB、直接腎素抑制劑會造成胎兒腎臟發育異常、羊水過少、顱骨發育不全，懷孕期間禁用，故 (A) 錯誤。\n- 治療目標（ACOG）：過去對輕度高血壓是否需要治療證據不足；2022 年 CHAP 試驗後建議血壓 ≥ 140/90 mmHg 即開始治療，目標約 < 140/90 mmHg。本題參考答案依當時指引，收縮壓 130–150、舒張壓 80–100 mmHg。\n- 其他：低劑量 aspirin 預防子癇前症（懷孕 12–16 週開始）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-2_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7062,7 +7062,7 @@
       "D": "sick sinus syndrome"
     },
     "answer": "D",
-    "explanation": "急性主動脈症候群 (acute aortic syndrome) 會出現 sudden onset 撕裂性的嚴重胸痛。若發生在升主動脈，疼痛部位在前胸正中間；發生在降主動脈者，疼痛位置大多在後背。其產生與以下幾種原因相關：外傷、高血壓、懷孕、bicuspid aortic valve、感染、先天結締組織疾病（如：Marfan、Ehlers-Danlos），本題選 (D)\n\n< 其他考點 >\n急性主動脈症候群可細分為以下三種類型：\n\n| 類型 | 特徵 |\n| :--- | :--- |\n| 急性主動脈剝離<br>(acute aortic dissection) | 內膜層有破口 (intimal tear) → 在主動脈壁 adventitia 及 media 間形成 false lumen |\n| 急性主動脈壁內血腫<br>(acute intramural hematoma, IMH) | 供應管壁營養的小血管 vasa vasorum 破裂 |\n| 穿透性粥狀動脈潰瘍 (penetrating atherosclerotic ulcer, PAU) | 1. 粥狀動脈硬化斑塊侵蝕 aortic media<br>2. 常發生於降胸主動脈的中端～遠端 |",
+    "explanation": "答案 (D)。\n\n**急性主動脈症候群的危險因子**\n\n急性主動脈症候群包括主動脈剝離、壁內血腫、穿透性動脈硬化潰瘍。\n\n- 高血壓（最常見）\n- 結締組織疾病：Marfan、Ehlers-Danlos（血管型）、Loeys-Dietz、Turner 症候群\n- 主動脈瓣二葉畸形、主動脈弓窄縮\n- 懷孕（第三孕期與產後，荷爾蒙使血管壁變弱、血行動力學改變）\n- 古柯鹼、安非他命、劇烈重量訓練\n- 主動脈炎（巨細胞、Takayasu、梅毒）\n- 醫源性（心導管、心臟手術）\n- 家族史、已知主動脈瘤\n\n病竇症候群是竇房結功能異常造成的心搏過緩，與急性主動脈症候群無關。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-3_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7082,12 +7082,12 @@
       "D": "Romberg's sign；感覺性共濟失調（sensory ataxia）"
     },
     "answer": "C",
-    "explanation": "(A) Chvostek's sign (Chvostek-Weiss sign) 是低血鈣的表現，透過輕敲病人耳前的 facial n. → 引發嘴周 (circumoral) 肌肉痙攣。低血鈣會出現 QT prolong，嚴重者可出現癲癇以及各種神經興奮的 spasm 如：carpopedal spasm、bronchospasm、laryngospasm 等\n(B) 主動脈逆流 (aortic regurgitation) 有一堆人名 sign，已經考過的整理如下表。本選項的 Duroziez's sign 是指在用聽診器輕壓 femoral a. 時可聽到 to-and-fro murmur\n\n| 搏動 | 表現 | 心音 sign | 表現 |\n| :--- | :--- | :--- | :--- |\n| Corrigan's pulse | water-hammer pulse | Traube's sign | pistol-shot boom |\n| Quincke's pulse | 按甲床時忽白忽紅 | Duroziez's sign | to-and-fro murmur |\n| De Musset's sign | 每拍心跳會伴隨點頭，像鳥在走路 | Austin-Flint murmur | 低頻 rumbling 舒張中後期雜音 |\n\n＊尚未考過：Müller's sign（看到 uvula 搏動）、Gerhardt's sign（= Sailer's sign，摸到 spleen 搏動）、Hill's sign（popliteal 收縮壓比 brachial 的高 ≥ 60 mmHg）、Landolfi's sign（瞳孔隨心搏縮放）、Becker's sign（眼底鏡可見視網膜小動脈搏動）\n\n(C) Kussmaul's sign 跟 Kussmaul's breathing 是不一樣的喔！Kussmaul's sign 可見於 constrictive pericarditis 的病人，是吸氣時 JVP「沒有下降、甚至上升」的表現；Kussmaul's breathing 才跟代謝酸中毒有關（如 DKA），下表為常考的異常呼吸型態：\n\n| 異常呼吸型態 | | |\n| :--- | :--- | :--- |\n| 呼吸 | 型態 | 可見於何種病人 |\n| Cheyne-Stokes<br>(週期性、潮式呼吸) | 淺慢 → 變深變快 → 又變淺慢 → 暫停 | 兩側大腦半球損傷（多伴隨輕度 coma）、鬱血性心衰竭、OSA |\n| Biot's respiration | 深度、速率都不規則 | 延腦損傷或受壓迫、鴉片中毒 |\n| Kussmaul's breathing | 深且快<br>(↑ tidal volume) | 代謝酸中毒 (DKA)、橋腦中腦損傷 |\n| agonal breathing | 呼吸困難並有怪異發聲 | 延腦損傷、臨終病人 |\n| paradoxical breathing | 吸氣胸腔下陷、腹腔上升（跟腹式呼吸相反） | 連枷胸、橫膈肌受損或麻痺 |\n\n(D) Romberg's test 用來測試本體感覺與平衡，閉眼會晃為 Romberg sign (+)，代表有感覺性共濟失調 (sensory ataxia)。小腦損傷的張眼閉眼都會晃；脊髓後柱損傷的閉眼時會特別晃\n\n< 其他考點 >\n1. 相似的現象：\n\n| 現象 | 說明 |\n| :--- | :--- |\n| electrical alternans | ECG 上 V2 ~ V4 的 QRS 忽大忽小<br>（暗示有心包積液，所以 tamponade 患者可能有） |\n| pulsus alternans | 脈搏忽大忽小（暗示有嚴重左心衰竭） |\n| pulsus paradoxus | 吸氣時 SBP 下降 > 10 mmHg<br>（cardiac tamponade、COPD、低血容休克等可見） |\n| Kussmaul's sign | 吸氣時 JVP 沒有下降，甚至上升<br>（constrictive pericarditis 可見，tamponade 沒有！） |\n| paradoxical breathing | 吸氣胸腔下陷、腹腔上升（可見於連枷胸） |\n\n2. cardiac tamponade：\na. 經典症狀：Beck's triad（低血壓 + JVP 上升 + distant heart sounds）\nb. 可出現：electrical alternans、pulsus paradoxus\nc. 不會出現：Kussmaul's sign\n\n3. Trousseau's 的比較：\n\n| 徵候 | 說明 |\n| :--- | :--- |\n| Trousseau's sign<br>(低血鈣的表現) | 用量血壓的 cuff 充氣到病人 SBP+20 mmHg 維持 3 min → 引發手部肌肉痙攣（拇指 adduction、MCP flexion、IP joint extension、手腕 flexion） |\n| Trousseau's syndrome | 即 migratory thrombophlebitis，屬 paraneoplastic syndrome，與 GI 癌症有關（特別是胰臟癌） |",
+    "explanation": "答案 (C)。\n\n**身體診察徵象**\n\n| 徵象 | 方法 | 相關疾病 |\n| --- | --- | --- |\n| Chvostek's sign | 輕敲耳前的顏面神經，引起同側嘴角抽動 | 低血鈣、低血鎂 |\n| Trousseau's sign | 血壓計加壓 3 分鐘引起腕部痙攣 | 低血鈣（較特異） |\n| Duroziez's sign | 聽診器壓股動脈時聽到收縮期與舒張期雜音 | 主動脈瓣閉鎖不全 |\n| Kussmaul's sign | 吸氣時頸靜脈壓反常上升 | 縮窄性心包膜炎、限制性心肌病變、右心室梗塞、嚴重右心衰竭 |\n| Kussmaul 呼吸 | 深而快的呼吸 | 代謝性酸中毒（如糖尿病酮酸中毒） |\n| Romberg's sign | 閉眼站立時搖晃跌倒 | 本體感覺缺損（感覺性共濟失調） |\n\nKussmaul's sign 與 Kussmaul 呼吸不同；代謝性酸中毒相關的是 Kussmaul 呼吸，故 (C) 相關性最低。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-4_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
-    "chapter": "新陳代謝科",
-    "category": "新陳代謝科"
+    "chapter": "心臟內科",
+    "category": "心臟內科"
   },
   {
     "id": "111-2-醫學(三)-5",
@@ -7102,7 +7102,7 @@
       "D": "當原發處之疼痛不明顯時，可利用按壓轉移痛的區域來誘發疼痛"
     },
     "answer": "D",
-    "explanation": "傷害感受器 (nociceptor) 的初級神經元經由 dorsal root 進入脊髓、終止於 dorsal horn、釋放出訊號傳給次級神經元（如：glutamate、substance P、CGRP）。每一個初級神經元會傳訊給數個次級神經元，而每一個次級神經元也會接受多個初級神經元的訊號，這就是轉移痛的重點機制，因為不同部位會共用同一個次級神經元，大腦分不出來到底 primary 在哪，就會認定是比較常發出訊號的來源（通常是同 segment 相對應的體表）在發出疼痛訊號\n(A)(B)(C) 正確\n\n| 原發疼痛位置 | 轉移痛位置 |\n| :--- | :--- |\n| 橫膈、肝臟 | 肩膀 (C3-C4) |\n| 胸腔（心、肺） | 左頸、左肩、上腹部 |\n| 膽道發炎 | 右鎖骨上、右肩胛骨下端 |\n| 脾臟受傷、膿瘍 | 左肩 (Kehr's sign) |\n\n(D) 錯誤，轉移痛的區域就是被大腦判定同 segment 比較常發出訊號的區域，壓他會加重那個地方繼續痛，但不會讓原發處變明顯",
+    "explanation": "答案 (D)。\n\n**轉移痛**\n\n- 機轉：內臟傳入纖維與體表皮膚的傳入纖維進入同一脊髓節段，大腦誤認為疼痛來自體表。\n- 常見例子：\n\n| 原發部位 | 轉移痛位置 |\n| --- | --- |\n| 心臟 | 胸骨後、左肩與左臂內側、下顎、上腹 |\n| 橫膈膜（如膽囊、脾臟、肝周圍刺激） | 同側肩膀、鎖骨上（C3–C5，膈神經） |\n| 膽道 | 右上腹、右肩胛骨下 |\n| 胰臟 | 背部 |\n| 腎臟、輸尿管 | 腰側、鼠蹊、睪丸或陰唇 |\n| 胸椎神經根病變 | 胸壁或腹壁（可誤以為腹痛） |\n\n- 轉移痛的部位沒有真正的組織病變，因此按壓轉移痛的區域通常不會誘發或加劇疼痛；若按壓會痛，表示該處本身可能有問題，故 (D) 錯誤。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-5_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7121,8 +7121,8 @@
       "C": "合併藥物催迫（pharmacological stress）之核醫心肌灌注造影可用以檢出心肌缺血（ischemia）及心肌梗塞後之疤痕（scar）",
       "D": "電腦斷層（multi-detector CT）測得之鈣化分數（calcium score）可準確診斷冠狀動脈心臟病，但對疾病預後之應用尚不明確"
     },
-    "answer": "B",
-    "explanation": "(A) 正確，典型心絞痛的病人在休息時的靜態標準十二導程 ECG 可能是正常的，而且 ST segment、T wave 的變化並不 specific，也可能在心包膜異常的患者身上出現，故無法用於確診。但運動心電圖如果出現 ST segment downsloping 下降超過 0.1 mV、且持續超過 0.08 s，就可以確診\n(B) 錯誤，運動心電圖檢查的死亡風險不高，約只有 1/10000；發生非致命性並發症的風險約 2/100000，但檢查場所還是要準備急救器材\n(C) 正確，藥物催迫性核醫心肌灌注造影可以檢查心肌缺氧以及心肌受傷後瘢痕組織，目前較常使用的是 Dipyridamole（舊商品名 Persantine），另外也可用 adenosine 或是 inotropic agents 模擬運動狀態\n(D) 錯誤，心臟電腦斷層鈣化指數較高者，通常的確有較高機率是阻塞性 CAD；但有症狀的病人如果鈣化指數 < 400，就比較沒辦法準確排除 CAD，尤其是有心絞痛的年輕患者，主要會是非鈣化、或鈣化不嚴重的粥狀動脈斑塊，故不一定準確",
+    "answer": "B,D",
+    "explanation": "答案 (B)、(D)（原答案 B，官方更正為 B、D 或 BD 均給分）。\n\n**冠狀動脈疾病的非侵入性檢查**\n\n- (A) 靜態心電圖的 ST-T 變化不具專一性，不能據此確診冠心症。\n- (B) 錯誤。運動心電圖是最廣泛使用的檢查，但其死亡風險約為萬分之一（約 0.5–1/10,000），而不是千分之一；檢查場所仍需備有急救設備。\n- (C) 藥物壓力核醫心肌灌流可偵測心肌缺血（可逆性缺損）與梗塞後疤痕（固定性缺損）。\n- (D) 錯誤。冠狀動脈鈣化分數反映動脈硬化的總負擔，是很好的心血管風險（預後）預測指標，但無法準確診斷阻塞性冠心症（無法判斷狹窄程度，且非鈣化斑塊看不到）。選項的敘述剛好相反。\n\n因此 (B)(D) 都是錯誤敘述，官方更正均給分。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-6_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7142,7 +7142,7 @@
       "D": "65 歲男性出現運動後氣促，長期使用乙型交感神經阻斷劑（beta blocker），毛地黃（digoxin）及硝酸鹽（nitrate）類藥物"
     },
     "answer": "C",
-    "explanation": "判讀運動心電圖時，要參考平時休息的狀態以及 risk factors 來判斷 CAD 的可能性。通常那種休息時正常，運動時才出現異常的，就有比較高的機率是真的有冠心病；本來就有其他心臟問題的，在運動心電圖時出現異常不見得是冠狀動脈問題\n\n| Stress ECG 結果判讀 | |\n| :--- | :--- |\n| 高機率是 CAD | > 50 歲有 typical angina 的男性，運動過程中出現胸部不適 |\n| 偽陽性機率高 | < 40 歲無症狀男性 |\n| | 無其他風險因子的停經前女性 |\n| | 有在使用 digitalis 或抗心律不整藥 → (D) |\n| | 有心室內傳導異常 → (A) |\n| | 心室肥厚 → (B) |\n| | 靜態心電圖就有 ST segment 升高或 T wave 異常 |\n| | 血鉀異常 |\n| 偽陰性機率高 | 只有 circumflex artery 阻塞（12 導程 ECG 無法良好反應 posterolateral 區的缺血狀況） |\n\n（參考 Harrison 21/e Ch.273）",
+    "explanation": "答案 (C)。\n\n**運動心電圖的判讀限制**\n\n- 運動心電圖的陽性預測值取決於受試者的冠心症事前機率：事前機率中等以上、靜態心電圖正常者最適合。\n- 會干擾 ST 段判讀的情況（應改做影像式壓力測試）：\n  - 左束支傳導阻滯、心室起搏節律\n  - 左心室肥厚合併 ST-T 變化\n  - 預激症候群（WPW）\n  - 靜態 ST 段下降 > 1 mm\n  - 使用 digoxin（造成偽陽性）\n  - β 阻斷劑與硝酸鹽（降低敏感度）\n\n| 選項 | 分析 |\n| --- | --- |\n| (A) | LBBB 無法判讀 |\n| (B) | LVH 造成偽陽性，且中年女性事前機率較低 |\n| (C) | 老年、長期抽菸、運動性氣促，事前機率高，靜態心電圖正常，ST 下降最有意義 |\n| (D) | Digoxin 造成偽陽性，β 阻斷劑與硝酸鹽影響判讀 |",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-7_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7162,7 +7162,7 @@
       "D": "壓力催迫性核醫心肌造影完全正常，並不能完全斷言絕對不會發生急性心肌梗塞；因為有時候血管狹窄雖然不嚴重，仍可能發生急性的動脈硬化斑塊破裂，導致血栓形成"
     },
     "answer": "C",
-    "explanation": "(A) 正確，電腦斷層高鈣化指數者有較高粥狀動脈硬化的風險，心血管疾病死亡率也較高。根據 Agatston score 可分為 minimal (0-10)、mild (10-100)、moderate (100-400)、severe (>400) 等，較嚴重者建議安排運動心電圖或壓力催迫性核醫心肌灌流檢查，以量化缺血程度、組織存活率，以便評估是否要接受 revascularization\n(B) 正確，非心臟手術的術前評估項目包含：手術時間、術式、麻醉方式、病人年紀以及心血管疾病風險因子、是否有心雜音、胸痛、喘、周邊水腫等異常\n(C) 錯誤，雖然如果 SPECT 顯示為 normal，每年發生重大心血管事件的機率的確很低 (<1%)，但還是需要追蹤\n(D) 正確，雖然壓力催迫性核醫心肌造影的 negative predictive value 很高，但 AMI 不一定只發生在冠狀動脈阻塞的病人身上，如果 plaque 結構不穩定，一樣有可能會破裂產生血栓",
+    "explanation": "答案 (C)。\n\n**壓力核醫心肌灌流造影（SPECT）**\n\n- 冠狀動脈鈣化分數高的病人，可安排功能性檢查（運動心電圖或核醫）評估缺血程度，決定是否需要血管再通。\n- 非心臟手術的術前評估需同時考慮缺血嚴重度與範圍、左心室功能、手術種類（風險）與麻醉方式。\n- 核醫檢查正常的人，一年內心肌梗塞或心因性死亡的風險 < 1%，屬於低風險（「保固期」約 1–2 年；糖尿病、高齡等高風險者較短）。\n- 但檢查正常並不代表沒有動脈硬化：輕度狹窄的斑塊仍可能破裂形成血栓，因此有危險因子的人仍需控制危險因子並適當用藥（如 statin、aspirin），「完全不需要用藥治療」錯誤，故 (C) 錯誤。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-8_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7182,7 +7182,7 @@
       "D": "左心室心尖混和有瘢痕與休眠心肌，血管再通治療效果可能較全為存活心肌處略差"
     },
     "answer": "B",
-    "explanation": "居然考這個 ( • _ • )\n在核醫的檢查結果中，【圖一】的 MPI 可見左心室側壁 (lateral wall) 與心尖 (apex) 的灌流較差，前壁灌流很好；而在【圖二】[18F]FDG PET 可見存活 (viable) 心肌，包含休眠 (hibernating) 心肌，在心尖、側壁、心中膈與後壁，而前壁已經多是瘢痕組織。大部分是休眠心肌的且灌流不佳者，可以考慮 revascularization，像側壁；休眠混合瘢痕的再通血管的效果就比較差，像是下壁與心尖。至於 (B) 前壁多為瘢痕心肌，但灌流很好，應為題幹所敘述的先前冠狀動脈疾病導致，以及繞道手術 (CABG) 的結果，掃描顯示其繞道手術的血管仍通暢，應該不需要做血管再通治療\n\n< 補充核醫影像 >\n1. 影像切面：不論是 MPI 或是 FDG 都以 3 種切面（共 8 行）表示\na. Short axis view（上 4 行）：從心尖往上切到心底，可見甜甜圈樣的心室\nb. Vertical-lateral axis view：垂直的從中膈往側壁切\nc. Horizontal-anterior axis view：水平的從後壁往前壁切\n2. 心肌灌注掃描 (Myocardial Perfusion Image, MPI)：透過 Tl-201 或 Tc-99m MIBI 觀察血流灌注至心肌的狀況。若有血管狹窄、阻塞，則心肌吸收核種的量就會降低\n3. F-18 FDG 正電子攝影：FDG 為葡萄糖類似物，可以觀察心肌細胞的活性，藉以辨別心肌的存活狀況（另外，FDG PET 也常應用在腫瘤的分期或治療後評估）",
+    "explanation": "答案 (B)。\n\n**心肌存活性評估（灌流－代謝不一致）**\n\n| 灌流（SPECT） | 葡萄糖代謝（FDG PET） | 意義 | 血管再通 |\n| --- | --- | --- | --- |\n| 減少 | 保留或增加（不一致，mismatch） | 冬眠心肌（存活） | 效果好 |\n| 減少 | 也減少（一致，match） | 瘢痕（壞死） | 效果差 |\n| 正常 | 正常 | 正常心肌 | — |\n\n- 本題影像判讀：側壁灌流缺損但 FDG 攝取保留，為冬眠心肌；下壁與心尖為部分瘢痕、部分存活心肌的混合。\n- 參考答案認為前壁的灌流其實保留或有 FDG 攝取，並非大部分是瘢痕，因此 (B) 錯誤。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-9_merged.png",
     "explanation_images": null,
     "images": [
@@ -7206,7 +7206,7 @@
       "D": "ventricular tachycardia"
     },
     "answer": "D",
-    "explanation": "窄的 QRS (≤ 120 ms) → 源自 His bundle 以上；看到是 regular → 排除不規則的 atrial fibrillation (AF)、multifocal atrial tachycardia (MAT)。雖然有的時候 supraventricular origin 的也可能出現寬的 QRS，如：有 LBBB、RBBB、或 accessory pathway，不過本題心室頻脈是最不可能出現 regular narrow QRS tachycardia 的心律不整，故選 (D)",
+    "explanation": "答案 (D)。\n\n**規則的窄 QRS 心搏過速**\n\n- 窄 QRS（< 120 ms）代表心室是經由正常的希氏束–浦金氏系統去極化，起源在心室以上（上心室心搏過速）：\n  - 房室結再入性心搏過速（AVNRT，最常見）\n  - 順向型房室再入性心搏過速（AVRT，經副傳導路徑逆傳）\n  - 心房心搏過速\n  - 心房撲動（固定比例傳導）\n  - 竇性心搏過速\n- 心室心搏過速起源於心室，QRS 通常寬（≥ 120 ms），因此最不可能。\n\n**補充**：穩定的窄 QRS 心搏過速可先做迷走神經刺激（改良式 Valsalva），無效給 adenosine；不穩定則同步電擊。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-10_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7226,7 +7226,7 @@
       "D": "深部靜脈血栓"
     },
     "answer": "D",
-    "explanation": "| CHA₂DS₂-VASc score | | |\n| :--- | :--- | :--- |\n| | 分數 內容 | 說明 |\n| C | 1 Congestive heart failure | 包含 HCM、中度以上 LV dysfunction |\n| H | 1 Hypertension | 包含正在使用降血壓藥者 |\n| A₂ | 2 Age ≥ 75 歲 | |\n| D | 1 Diabetes mellitus | 包含正在使用降血糖藥者 |\n| S₂ | 2 Prior stroke or TIA | |\n| V | 1 Vascular disease | 包含 CAD、MI、PAD、aortic plaque，但不包含 DVT！ |\n| A | 1 Age 65 ~ 74 歲 | |\n| Sc | 1 Sex category（女） | AF 盛行率男 > 女，但女性 AF 病人較容易中風，請注意！ |\n\n1. 男生 0、女生 1 才可不做 thromboemoblic prevention，其他都需要\n2. AF 持續 > 48 小時或時間不明者，血栓機率明顯增加，故在進行 cardioversion 前就要開始用 anticoagulant\n\n(D) 深部靜脈血栓並不在評分項目中，當初在定義的時候 vascular disease 就是“prior myocardial infarction, peripheral arterial disease or aortic plaque”，DVT 不算喔！",
+    "explanation": "答案 (D)。\n\n**CHA₂DS₂-VASc 的計分項目**\n\n| 項目 | 分數 |\n| --- | --- |\n| C：心衰竭或左心室功能不良 | 1 |\n| H：高血壓 | 1 |\n| A₂：年齡 ≥ 75 歲 | 2 |\n| D：糖尿病 | 1 |\n| S₂：中風、TIA、血栓栓塞病史 | 2 |\n| V：血管疾病（心肌梗塞、冠心症、周邊動脈疾病、主動脈斑塊） | 1 |\n| A：年齡 65–74 歲 | 1 |\n| Sc：女性 | 1 |\n\n深部靜脈血栓是靜脈血栓，不屬於計分項目中的「血管疾病」（指動脈粥狀硬化疾病）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-11_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7246,12 +7246,12 @@
       "D": "雙峰脈波（bifid pulse）可以出現在肥厚型阻塞性心肌症（hypertrophic obstructive cardiomyopathy）的病人"
     },
     "answer": "C",
-    "explanation": "(A) 正確，姿態性低血壓的定義是從平躺到站立後、或執行傾斜試驗第 3 分鐘時，收縮壓下降 >20 mmHg，或舒張壓下降 >10 mmHg\n(B) 正確，右上胸骨旁是升主動脈的位置，也是 aortic valve 的聽診區，故如果出現 pulsation，可合理懷疑有升主動脈瘤\n(C) 錯誤，pulsus paradoxus 是指吸氣時血壓下降的幅度 >10 mmHg（正常吸氣也會下降，但不會降太多）。可見於阻塞性肺疾或 cardiac tamponade 的病人，如果出現在阻塞性肺病患者身上時，是瀕臨呼吸衰竭 (impending respiratory failure) 的徵兆。選項所述的脈搏每跳之間有差異叫做“pulsus alternans”，代表心室收縮功能差（不是 electrical alternans 喔！那是 ECG 上出現 QRS 忽大忽小、忽正忽反的情形）\n(D) 正確，bifid pulse 又稱 pulsus bisferiens，是指在一個心跳週期中，aortic wave 有兩個波峰，可見於 aortic regurgitation (+/- aortic stenosis) 以及 hypertrophic obstructive cardiomyopathy (HOCM) 的病人身上",
+    "explanation": "答案 (C)。\n\n**脈搏與身體診察的異常**\n\n- 姿勢性低血壓：從平躺到站立 3 分鐘內收縮壓下降 ≥ 20 mmHg 或舒張壓下降 ≥ 10 mmHg。\n- 右上胸骨旁的搏動，可能是升主動脈瘤。\n- 脈搏的特殊型態：\n\n| 脈搏 | 定義 | 相關疾病 |\n| --- | --- | --- |\n| 交替脈（pulsus alternans） | 規則節律下，脈搏強弱交替 | 嚴重左心室收縮功能不全 |\n| 奇脈（pulsus paradoxus） | 吸氣時收縮壓下降 > 10 mmHg | 心包膜填塞、嚴重氣喘或 COPD |\n| 雙峰脈（bisferiens） | 一次收縮出現兩個高峰 | 主動脈瓣閉鎖不全、肥厚型阻塞性心肌病變 |\n| 遲小脈（parvus et tardus） | 小而延遲 | 主動脈瓣狹窄 |\n\n選項 (C) 描述的是交替脈（見於嚴重左心室收縮功能不全），卻稱為奇脈，故 (C) 錯誤。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-12_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
-    "chapter": "胸腔內科",
-    "category": "胸腔內科"
+    "chapter": "心臟內科",
+    "category": "心臟內科"
   },
   {
     "id": "111-2-醫學(三)-13",
@@ -7266,7 +7266,7 @@
       "D": "angiotensin receptor neprilysin inhibitor"
     },
     "answer": "C",
-    "explanation": "可以改善 HFrEF 預後之藥物：\n1. RAAS antagonist：ACE-i、ARB（孕婦不可以用，考到稀爛）→ (A)\n2. MR antagonist：spironolactone、eplerenone → (B)\n3. ARNI：valsartan/sacubitril（Entresto，孕婦不可以用）→ (D)\n4. SGLT2 inhibitors：dapagliflozin、empagliflozin\n故本題選 (C)\n\n< 補充 >\n1. 會惡化心衰竭的藥：non-DHP CCB、TZD、COX2-inhibitor\n2. 無法減少 HFrEF 死亡率的治療：digoxin（可改善症狀）、ivabradine（可降低住院率）",
+    "explanation": "答案 (C)。\n\n**HFrEF 的藥物治療**\n\n可改善症狀與預後（降低死亡或住院）的藥物：\n\n- ACEI 或 ARB，或 ARNI（sacubitril/valsartan，優於 ACEI）\n- 證實有效的 β 阻斷劑（carvedilol、bisoprolol、metoprolol succinate）\n- 礦物皮質素受體拮抗劑（spironolactone、eplerenone）\n- SGLT2 抑制劑（dapagliflozin、empagliflozin）\n- 其他：ivabradine（竇性心律心跳仍快）、hydralazine + isosorbide dinitrate（非裔）、vericiguat\n\n鈣離子阻斷劑沒有改善 HFrEF 預後的效果；non-dihydropyridine 類（verapamil、diltiazem）會惡化心衰竭，應避免；amlodipine、felodipine（第二代 dihydropyridine）安全但無預後效益，只用於控制血壓或心絞痛。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-13_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7286,7 +7286,7 @@
       "D": "對於心肌梗塞發生之後已經 3 個月，LVEF≦30%且仍有心室頻脈，即使已使用最佳藥物治療的患者，也建議植入式心臟內去顫器（implantable cardioverter-defibrillator, ICD）"
     },
     "answer": "C",
-    "explanation": "本題出自 Harrison 21/e Ch. 258 “Sudden cardiac death prevention in heart failure”\n(A) 正確，心衰竭約一半是因為心室性心律不整過世，尤其是在 HFrEF 的早期\n(B) 正確，猝死發作後活下來的病人有很高機率再次發作，因此應該安裝 ICD\n(C)(D) 適合預防性安裝 ICD 的兩種情況：(1) NYHA class II/III 且 LVEF ≤ 35% (2) 無論是否有症狀，在 AMI 後搭配最佳藥物治療 (optimal medical therapy) 但 LVEF 仍 ≤ 30% 者，故 (C) 錯誤\n\n< 其他考點 >\n1. 心臟衰竭預後：5 年存活率 50%、嚴重 HF 患者 1 年死亡率 40%\n2. 非冠狀動脈疾病導致的 systolic HF 患者使用預防性 ICD，即便是有症狀的病人使用，也不會顯著降低死亡率\n3. 末期病人、預期餘命 <6 個月、NYHA class IV 且對藥物治療反應不佳又不適合心臟移植者，須審慎評估裝 ICD 進行多次電擊的壞處與益處",
+    "explanation": "答案 (C)。\n\n**心衰竭的猝死預防（ICD）**\n\n- 心衰竭病人約一半死於猝死，主要由心室性心律不整造成，HFrEF 尤其常見。\n- 次級預防：曾發生心跳停止或血行動力學不穩的心室心搏過速而存活者，應植入 ICD。\n- 初級預防：經至少 3 個月最佳藥物治療後，\n  - LVEF ≤ 35% 且 NYHA II–III 級（缺血性或非缺血性）\n  - 心肌梗塞後 ≥ 40 天，LVEF ≤ 30% 且 NYHA I 級\n  - 預期存活 > 1 年\n\nLVEF 大於 35% 不是預防性 ICD 的適應症，故 (C) 錯誤。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-14_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7306,7 +7306,7 @@
       "D": "若能清除 C 型肝炎病毒，可以減少肝硬化、肝癌之風險"
     },
     "answer": "C",
-    "explanation": "| C 型肝炎 | | |\n| :--- | :--- | :--- |\n| HCV 基本資料 | linear、單股、positive sense 的 RNA 病毒 | 備註 |\n| | genotype (基因型)：6，以數字表示 | 台灣狀況：1b (70%) > 2a (20%) > 2b (10%) |\n| | subtype (基因亞型)：> 50，以字母表示 | |\n| 傳播途徑 | 主要：輸血、共用針頭<br>少見：性行為、垂直傳染 | 針扎感染率有 3%（HBV 則高達 30%） |\n| 疾病進程 | 急性後 85% 會慢性化、20~25% 會肝硬化 | 慢性化比例高於 HBV |\n| 治療 | • 舊藥：PEG-IFN-a + ribavirin，適合不同 genotype 的 RNA polymerase inhibitors<br>• 新藥：5 種口服 direct-acting antiviral (DAA) agents，已成為目前主流 | |\n| 預後 | type 1：RNA 濃度最高、藥物反應最差<br>type 2：RNA 濃度低、藥物反應好 | 日本多為 type 2 |\n\n(A)(D) 雖然這個病人還沒進展到肝硬化，但急性期後有高達 85% 病人會慢性化、20~25% 會肝硬化、肝硬化有 3~6% 會進展成肝癌。肝硬化的病人在清除病毒後，可以有效降低死亡率、肝衰竭、肝移植、肝細胞癌的機率；然而風險會持續存在，故仍應定期追蹤腹部超音波與胎兒蛋白\n(B)(C) 從 2017 年起，開始推動「C 型肝炎全口服新藥健保給付執行計畫」，並在 2019 年開始放寬給付對象條件。目前主流是使用療程短 (12~24 週)、效果好（治癒率超過 90%）、抗藥性低、副作用較小且病人順從性高的口服 DAA，已經不是 PEG-IFN + ribavirin 了。【107 內專】",
+    "explanation": "答案 (C)。\n\n**慢性 C 型肝炎**\n\n- 所有慢性 C 肝病人（HCV RNA 陽性）都建議治療。\n- 目前標準治療是全口服直接作用抗病毒藥物（DAA），例如 glecaprevir/pibrentasvir 8–12 週、sofosbuvir/velpatasvir 12 週；持續病毒學反應率 > 95%，副作用少。長效干擾素合併 ribavirin 已不再是主要治療，故 (C) 錯誤。\n- 清除病毒可降低肝硬化、肝癌與肝外疾病的風險，但仍有肝癌風險（尤其已有纖維化者），需持續定期篩檢（超音波與 AFP）。\n- 台灣健保已全面給付 DAA，目標在 2025 年消除 C 型肝炎。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-15_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7326,7 +7326,7 @@
       "D": "門脈發炎（portal inflammation）"
     },
     "answer": "B",
-    "explanation": "The Knodell histologic activity index (HAI) 是美國使用的肝炎評分系統，歐洲使用的是 METAVIR score。HAI 最高總分 18 分、METAVIR 分為 A0 ~ A3 共四級，選項中只有 (B) 沒有列入評分項目。表格中的 bridging necrosis 是一種血管間的融合性壞死 (confluent necrosis)，會導致肝小葉的網狀架構出現塌陷\n\n| 慢性肝炎嚴重度評分系統 | | | | |\n| :--- | :--- | :--- | :--- | :--- |\n| | histologic activity index (HAI) | | METAVIR | |\n| necrosis (grade) | 嚴重度 | 分數 | 嚴重度 | 分數 |\n| periportal | none | 0 | none | 0 |\n| | mild | 1 | mild | 1 |\n| | mild ~ moderate | 2 | moderate | 2 |\n| | moderate | 3 | severe | 3 |\n| | severe | 4 | bridging necrosis | Y / N |\n| intralobular | none | 0 | none ~ mild | 0 |\n| | focal | 1 | moderate | 1 |\n| | some zone 3 | 2 | severe | 2 |\n| | most zone 3 | 3 | | |\n| | zone 3 + few bridging | 4 | | |\n| | zone 3 + multiple bridging | 5 | | |\n| | panacinar / multiacinar | 6 | | |\n| focal (10x field) | none | 0 | x | |\n| | < 1 focus | 1 | | |\n| | 2 ~ 4 foci | 2 | | |\n| | 5 ~ 10 foci | 3 | | |\n| | > 10 foci | 4 | | |\n| 門脈發炎 | none | 0 | x | |\n| | mild | 1 | | |\n| | moderate | 2 | | |\n| | moderate ~ marked | 3 | | |\n| | marked | 4 | | |\n| fibrosis (stage) | | | | |\n| | none | 0 | F0 | |\n| | some portal fibrosis | 1 | F1 | |\n| | mostly portal fibrosis | 2 | F2 | |\n| | few bridging fibrosis | 3 | F3 | |\n| | many bridging fibrosis | 4 | F4 | |\n| | incomplete cirrhosis | 5 | F5 | |\n| | cirrhosis | 6 | F6 | |",
+    "explanation": "答案 (B)。\n\n**肝炎組織學活動指數（Knodell HAI）**\n\n| 項目 | 分數 |\n| --- | --- |\n| 門脈周邊壞死（含橋接壞死） | 0–10 |\n| 肝小葉內退化與局部壞死 | 0–4 |\n| 門脈發炎 | 0–4 |\n| 纖維化 | 0–4 |\n\n- 前三項代表發炎活動度（grade），纖維化代表分期（stage）。\n- 改良版有 Ishak score；METAVIR 系統也常用（活動度 A0–A3、纖維化 F0–F4）。\n\n漿細胞浸潤不是 HAI 的評分項目，而是自體免疫性肝炎的病理特徵（合併介面性肝炎、玫瑰花環排列）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-16_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7346,7 +7346,7 @@
       "D": "病理機轉目前仍不清楚，可能與腸道蠕動異常、腸道過度敏感、病患的心理因素、腸道菌叢改變或腸道感染有關"
     },
     "answer": "B",
-    "explanation": "依照 Rome IV 的診斷標準，題目敘述的症狀符合腸躁症 (irritable bowel syndrome, IBS)。以前超愛考 Ulcerative Colitis vs. Crohn Disease，但從 108 起 IBS 比較受寵，即使如此外科還是很愛考 IBD 的比較，所以還是要複習一下喔！\n\nIBS 可影響各年齡層，但第一次發作通常早於 45 歲、較常見於女性 (2~3x)。除題幹所述的表現外，IBS 患者也常伴隨脹氣、打嗝、消化不良、火燒心、噁心嘔吐、頭痛背痛等症狀。診斷方法主要靠臨床診斷 + 排除器質性問題，calprotectin 是看腸道發炎的程度，為診斷 inflammatory bowel disease (IBD) 的生物標記，也可監測疾病活性，不是 IBS 的 marker → (B) 錯誤\n\n| Rome IV criteria for IBS | |\n| :--- | :--- |\n| 必須有的表現 | 以下三條件符合其二 |\n| 過去三個月，每週至少一天反覆腹痛 | 與排便有關（拉完可變好或變壞） |\n| | 排便頻率出現變化 |\n| | 排便型態出現變化（可為便秘或腹瀉） |\n\n病理機轉目前認為與腸道蠕動異常、腸道痛覺敏感 (hyperalgesia)、心理社會因素、菌腦腸軸 (brain-gut interaction) 異常、腸道感染（→ leaky gut dysbiosis）、基因問題、膽鹽吸收不良等有關\n\n< 其他考點 >\n1. 嚴重 IBS 患者約 80% 是女性、感染性腸炎後的 IBS 較常見於年輕女性。【109-2】\n2. 依照 Rome IV criteria，「必須出現腹痛」的症狀，所以如果是無痛的腹瀉或便秘是不符合診斷的！\n3. 低 FODMAP (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols) 飲食可降低大腸細菌產氣，已被證實對於改善 IBS 有幫助",
+    "explanation": "答案 (B)。\n\n**大腸激躁症**\n\n- 羅馬第四版診斷標準：過去 3 個月平均每週至少 1 天反覆腹痛，合併以下 2 項以上：與排便相關、排便頻率改變、糞便型態改變；症狀開始至少 6 個月。\n- 分型：便秘型、腹瀉型、混合型（本題）、未分類型。\n- 各年齡都可發生，年輕女性較多；常合併脹氣、消化不良、噁心、焦慮憂鬱。\n- 機轉：腸道蠕動異常、內臟高敏感性、腦腸軸失調、心理因素、腸道菌叢改變、感染後。\n- 糞便 calprotectin 是腸道發炎的指標，用來區分發炎性腸道疾病（上升）與大腸激躁症（正常）；大腸激躁症沒有特定的診斷性生物標記，故 (B) 錯誤。\n- 警訊（需進一步檢查）：50 歲以上新發、體重減輕、血便、夜間腹瀉、貧血、家族史有大腸癌或發炎性腸道疾病。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-17_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7366,7 +7366,7 @@
       "D": "大多數大腸癌的切除後復發會於四年內發生，因此五年存活可當作治癒的指標"
     },
     "answer": "D",
-    "explanation": "(A) 錯誤，長在右側的預後比較差。過去的說法是腫瘤長在右側症狀比較不明顯 → 晚發現 → 預後差；但近年比較支持的說法是：好發於右側的腫瘤 molecular patterns 比好發於左側的更惡性\n(B) 錯誤，淋巴結、肝臟是大腸癌最常轉移的地方（透過 portal venous circulation），因此最容易轉移的內臟器官應該是肝臟。而且大腸癌在轉移到肝臟前，極少會轉移到肺臟、鎖骨上淋巴結、骨頭或腦\n(C) 篩檢大腸癌的主流方式是糞便潛血 (occult blood, OB) 檢查跟 DRE。篩檢的重點要符合經濟效益，測 CEA 很貴，不適合作為篩檢指標。但近年大腸癌有往近端大腸跑的趨勢（DRE 截不到），所以 NCCN guideline 開始建議以每年一次 OB + 5 年一次 sigmoidoscopy 或 10 年一次 colonoscopy 為篩檢的首選\n(D) 正確，大多數大腸癌的切除後復發會在前四年內，所以五年存活率是治癒的可靠指標。五年存活率與 stage 有關，且至少需要拿到 12 顆 lymph nodes 才能執行正確 staging",
+    "explanation": "答案 (D)。\n\n**大腸直腸癌**\n\n- 左右側大腸癌的差異：右側大腸癌（近端）多為微衛星不穩定、BRAF 突變，晚期轉移時預後較差；左側大腸癌預後較好，對 EGFR 抗體反應較佳，故 (A) 錯誤。\n- 最常轉移的內臟器官是肝臟（經門靜脈），其次是肺；直腸下段可直接經體循環轉移到肺，故 (B) 錯誤。\n- CEA 敏感度與專一性都不足，不能用來篩檢，主要用於術前評估預後與術後追蹤復發，故 (C) 錯誤。\n- 約 80% 的復發發生在術後 2–3 年內，90% 在 5 年內，因此 5 年存活常被當作治癒的指標，故 (D) 正確。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-18_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7386,7 +7386,7 @@
       "D": "帶有 signet ring cell 的瀰漫型胃腺癌若轉移至子宮，稱為 Krukenberg's tumor"
     },
     "answer": "D",
-    "explanation": "胃腺癌依照組織型態可分為兩種類型，整理如下表：\n\n| 胃腺癌 (gastric adenocarcinoma) | | |\n| :--- | :--- | :--- |\n| | 瀰漫型 (diffuse type) | 腸道型 (intestinal type) |\n| 流行病學 | 較少見 (20~30%)、年輕女性 | 較常見 (70~80%)、年長男性 |\n| 風險因子 | CDH1 突變（E-cadherin 減少） | H.pylori 感染、萎縮性胃炎 |\n| 環境因子 | 影響較小 | 影響較大（低社經地位者較易得） |\n| 胃鏡表現 | 皮革胃 (linitis plastica) | 潰瘍腫塊 (ulcerated mass) |\n| 分化程度 | 差 (poorly differentiated) | 好 (well differentiated glands) |\n| 預後 | 很差 | 比 diffuse type 好 |\n\n但最近 Asian cancer research group (ACRG) 開始用分子型態、基因來分型：\n\n| ACRG 的胃癌分型 | | |\n| :--- | :--- | :--- |\n| 分型 | 突變 | 說明 |\n| CIN (chromosomal instability) | TP53 mut.、RTK-RAS 活化 | 傳統上的腸道型 |\n| GS (genomic stable) | CDH1 mut.、RHOA mut.、CLDN18-ARHGAP 融合 | 傳統上的瀰漫型、預後最差 |\n| MSI (microsatellite instability-associated) | MLH1 silencing | 預後最好 |\n| EBV（跟 EBV 相關） | PIK3CA mut.、PD-L1 過度表現、CDKN2A silencing | 約 8~10% 病人切片出來是 EBV positive |\n\n(D) 錯誤，Krukenberg tumor 是指病理型態為 signet-ring cell 的癌症轉移到「卵巢」，常見的來源是腸胃道癌\n\n< 其他考點 >\n1. 消化性潰瘍 (peptic ulcer disease, PUD) 分兩大種，主要跟 H. pylori 感染還有 NSAID 的使用有關。PUD 最常見的併發症是流血 (15%)，其次為穿孔破裂 (6~7%)，胃出口阻塞 (gastric outlet obstruction, 1~2%) 相對少見\n\n| 消化性潰瘍 (peptic ulcer disease, PUD) 比較 | | |\n| :--- | :--- | :--- |\n| | 胃潰瘍 (GU) | 十二指腸潰瘍 (DU) |\n| 年紀 (peak) | 較晚，60 歲 | 較早，因症狀明顯 → 易發現 |\n| 惡性率 | 較高（尤其是長在 fundus、超過 3 cm、有伴隨腫塊的） | 極低 |\n| H.pylori 比例 | 較低（但仍是主因之一） | 較高 |\n| 吃東西後 | 不會減輕 | 飯後比較不痛（半夜會痛） |\n| 侵蝕方向 | 往左肝方向破出去 | 往後侵蝕 → 可能導致胰臟炎 |\n\n2. 胃潰瘍 (GU) 可再細分為 4 型，整體趨勢：越靠近十二指腸的胃酸分泌越多\n\n| 胃潰瘍 (gastric ulcer, GU) | | |\n| :--- | :--- | :--- |\n| 胃酸分泌 | 類型 | 發生位置 |\n| 偏少 | type 1（最多） | 胃體 (gastric body) |\n| | type 4 | 賁門 (cardia) |\n| 少 ~ 正常 | type 2 | 胃竇 (antrum) |\n| 正常 ~ 高 | type 3 | 距離 pylorus 3 cm 以內，常伴隨有 DU |",
+    "explanation": "答案 (D)。\n\n**胃腺癌（Lauren 分類）**\n\n| 項目 | 腸型 | 瀰漫型 |\n| --- | --- | --- |\n| 族群 | 年長男性 | 較年輕，男女相近 |\n| 致病 | 幽門桿菌、慢性萎縮性胃炎、腸上皮化生 | 與 CDH1（E-cadherin）突變相關，細胞失去黏附 |\n| 型態 | 形成腺體，常以潰瘍或腫塊表現 | 戒指細胞，瀰漫性浸潤胃壁，形成皮革胃 |\n| 轉移 | 血行轉移（肝） | 腹膜轉移 |\n| 預後 | 較好 | 較差 |\n\nKrukenberg 腫瘤是轉移到卵巢（雙側常見）的戒指細胞癌，而不是子宮，故 (D) 錯誤。\n\n**補充**：其他胃癌轉移徵象：Virchow 淋巴結（左鎖骨上）、Sister Mary Joseph 結節（肚臍）、Blumer's shelf（直腸子宮凹陷）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-19_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7406,7 +7406,7 @@
       "D": "鐵"
     },
     "answer": "B",
-    "explanation": "不同營養素的吸收位置蠻常考的，要記熟！(B) 維他命 B12 (cobalamin) 主要在迴腸吸收，與其結合以抵禦水解酶的內在因子 (intrinsic factor) 是在胃部 parietal cells 製造的，都跟十二指腸無關，故切除十二指腸對其影響最小\n\n| 營養素的吸收部位【107-2、109-2】 | |\n| :--- | :--- |\n| 部位 | 吸收的營養素 |\n| 胃部 | 酒精 |\n| 十二指腸 | Ca、Fe²⁺、葉酸（維他命 B9，在近端空腸也會吸收） |\n| 迴腸 | 維他命 B12、膽鹽 |",
+    "explanation": "答案 (B)。\n\n**營養素的吸收部位**\n\n| 部位 | 吸收的營養素 |\n| --- | --- |\n| 十二指腸、近端空腸 | 鐵、鈣、葉酸、鎂 |\n| 空腸 | 大部分碳水化合物、蛋白質、脂肪、水溶性維生素 |\n| 末端迴腸 | 維生素 B12（與內在因子結合）、膽酸 |\n| 大腸 | 水分、電解質、短鏈脂肪酸 |\n\n維生素 B12 在末端迴腸吸收，切除十二指腸後較不受影響；但若是全胃切除或胃切除，則會因內在因子缺乏而影響維生素 B12 吸收。",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-20_merged.png",
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7588,7 +7588,7 @@
       "C": "遠端腎小管（distal convoluted tubule）",
       "D": "集尿管（collecting duct）"
     },
-    "answer": "D",
+    "answer": "C,D",
     "explanation": "集尿管主細胞 (principle cell) 的 basolateral membrane 會表現 V2 receptor，接受抗利尿激素 (ADH = vasopressin = AVP) 的刺激 → 增加細胞內的 cAMP 濃度 → 把水通道蛋白 2 (aquaporin 2) 插到 apical membrane → 增加對水的通透性，原答案只給 (D)，但因為一階國考用書 Guyton and Hall 14/e Ch. 29 有提到遠端腎小管的末端也有相同功能，故經申覆開放 (C)(D) 均可\n\n< 其他考點 >\n1. 腎小管對水分通透性最低處：Henle 氏環上行枝\n2. ADH 除了增加對水的通透外，也可以增加 urea 在集尿管的通透度",
     "explanation_image": "/explanations/cropped/111-2-醫學(三)-29_merged.png",
     "explanation_images": null,
@@ -10005,7 +10005,7 @@
       "C": "恐慌症（panic disorder）女性罹病率高於男性",
       "D": "強迫症（obsessive-compulsive disorder）女性罹病率高於男性"
     },
-    "answer": "D",
+    "answer": "ALL",
     "explanation": "強迫症在兒童時期以男性為多，但到了青少年與成年之後女性為多。下表整理出常見精神科疾病盛行率男女比，詳細數據各家說法不一，僅供參考\n\n| 疾病 | 女 / 男<br>終身發生率比 | 疾病 | 女 / 男<br>終身發生率比 |\n| :--- | :--- | :--- | :--- |\n| PTSD | 2.08 | Bipolar disorder | 1.0 |\n| Panic disorder | 1.96 | Schizophrenia | 0.71 |\n| Generalized anxiety | 1.88 | Parkinson's disease | 0.53 |\n| MDD | 1.75 | Drug use disorder | 0.51 |\n| OCD | 1.6 | Alcohol dependence | 0.46 |\n| Alzheimer's disease | 1.3 | ADHD | 0.42 |",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-65_merged.png",
     "explanation_images": [
@@ -11820,7 +11820,7 @@
       "C": "與 WT2 基因表現有關",
       "D": "最常轉移到肺臟及肝臟"
     },
-    "answer": "C",
+    "answer": "ALL",
     "explanation": "Wilms tumor，又稱為 nephroblastoma\n(A) 佔兒童惡性腫瘤的 5.9%\n(B) 有 10% 病人合併先天發育不良，合稱為 WAGR syndrome（Wilms tumor、Aniridia 虹膜缺損、Genitourinary malformation 泌尿生殖道異常、mental Retardation 智能不足）\n(C) WT1 基因突變可能導致隱睪症及尿道下裂，並且增加得到 Wilms tumor 的風險；WT2 基因突變與 Beckwith-Wiedemann syndrome 有關（Beckwith-Wiedemann syndrome 為一種先天性過度生長的疾病，剛出生的嬰兒可能會出現體重過重、單側身體或部分肢體過度身長、臍膨出、巨舌、內臟肥大及新生兒低血糖等症狀；此症候群的病童同時易罹患一些胚胎性腫瘤，其中以 Wilms tumor 最常見，其他則包括肝母細胞瘤 hepatoblastoma、神經母細胞瘤 neuroblastoma、肝細胞錯構瘤 hepatocyte hamartoma、橫紋肌肉瘤 rhabdomyoma 等）\n(D) 最常轉移處為肺臟，其次為肝臟、骨頭、腦部",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-67_merged.png",
     "explanation_images": [
@@ -12640,7 +12640,7 @@
       "C": "與逆流性咽喉炎（laryngopharyngeal reflux）相關",
       "D": "在病人的聲門下瘢痕組織中有可能檢出胃蛋白酶（pepsin）"
     },
-    "answer": "B",
+    "answer": "ALL",
     "explanation": "原因不明之聲門下狹窄 (idiopathic subglottic stenosis, iSGS) 十分少見（好發率約 1/400000），多發生於聲門下區，當發生中央氣道阻塞 (central airway obstruction) 時，需先與以下成因進行鑑別診斷：\n\n| 分類 | 成因 |\n| :--- | :--- |\n| 先天 | • 軟骨變形 (cartilage deformity)<br>• 第一氣管環關閉 (closed first ring)<br>• 膜狀網 (membranous web) |\n| 後天 | • 外來傷害<br>• 內在傷害：插管、氣管內管氣囊壓力 (tube cuff pressure)<br>• 感染<br>• GERD<br>• 全身性疾病：類澱粉沉積症 (amyloidosis)、肉芽腫性多血管炎 (granulomatosis with polyangiitis)、類肉瘤病 (sarcoid)、IBD、復發性多軟骨炎 (relapsing polychondritis)、多發性動脈炎 (polyarteritis)、硬皮症 (scleroderma)<br>• 放射線治療<br>• 吸入性傷害 (inhalation injury)<br>• 癌症<br>• 吸入異物 |\n| 原因不明 | 原因不明之聲門下狹窄 (idiopathic subglottic stenosis, iSGS) |\n\n(A) 好發於 30~50 歲女性，符合題幹描述「生育年齡層之女性」\n(B) (C) 雖然 iSGS 的病生理機制尚不清楚，但目前已有專家提出一些可能的假說：\n* 認為雌激素 (estrogen) 會影響聲門狹窄的發展；然目前沒有證據顯示發生處的細胞有雌激素或黃體素受體的過度表現\n* 反覆咳嗽可能將第一氣管環往環狀軟骨內推擠造成重疊 (telescoping)，導致機械性損傷、缺血、異常傷口修復等，且可能與身體對於雌激素的反應異常有關\n* 長期 GERD 可能導致聲門狹窄\n(D) 在相關的動物研究與人體研究均有發現，iSGS 病人的聲門下瘢痕組織及喉部可能有高濃度的 pepsin\n\n此題之爭議點在於：\n* 有些研究或書籍中統計的好發年齡為 30~60 歲，是否完全符合生育年齡層標準有待商議\n* 目前對於 iSGS 病人聲門下檢體的雌激素或黃體素受體是否過度表現尚無一定的共識，如 Damrose EJ, Campbell RD, Darwish S, Erickson-DiRenzo E. Increased Expression of Estrogen Receptor Beta in Idiopathic Progressive Subglottic Stenosis. Laryngoscope. 2020 Sep;130(9):2186-2191. 中就提到，在 idiopathic progressive subglottic stenosis 病人的聲門下是有雌激素受體表現增加的情況的\n* 綜合上述，(A) (B) 皆有爭議，又原始答案的 (B) 其敘述目前也未被確定一定是錯誤的，故筆者認為這應該是最後此題送分的原因",
     "explanation_image": "/explanations/cropped/111-2_6_24.png",
     "explanation_images": [
@@ -12772,7 +12772,7 @@
       "C": "胎盤表面經膜內胎兒血管流入（intramembranous flow across fetal vessels on the placental surface）",
       "D": "母體循環經羊膜流入（transmembranous flow across amnionic membrane）"
     },
-    "answer": "A",
+    "answer": "ALL",
     "explanation": "此題應該是想考 Williams Obstetrics (26/e) 的 Table 14-8，在「懷孕後半期」，羊水主要組成就是胎兒自產自銷的廢物溶液，產自胎兒的尿液，並主要透過吞嚥動作回收，約 500-1000 mL/day，故原始答案選 (A)，其餘選項有貢獻但並不是最多，整理如下：\n(B) 在懷孕晚期，胎兒肺部分泌約 350 mL/day\n(C) 胎盤表面經膜內胎兒血管流入，回收羊水量約 400 mL/day\n(D) 在懷孕晚期，經羊膜流入母體回收的羊水量非常稀微 (minimal)\n\n[ 爭議點 ] 此題申覆後一律給分的理由：\n題目並未說明清楚「懷孕晚期」羊水調控，因此可能在答案上會有爭議，在懷孕早期，水分與小分子主要是直接透過羊膜 (transmembranous flow)、胎盤內血管 (intramembranous flow)、經尚未角質化的皮膚 (transcutaneous) 進出，進而調節羊水量，胎兒在第 8-11 週才開始製造尿液，在 10-12 週才開始有吞嚥的動作，以上兩者都不是在懷孕早期影響羊水量的主要因素",
     "explanation_image": "/explanations/cropped/111-2_6_30.png",
     "explanation_images": [
@@ -13388,7 +13388,7 @@
       "C": "情感失認症（affective agnosia）",
       "D": "動作不能性緘默（akinetic mutism）"
     },
-    "answer": "D",
+    "answer": "C,D",
     "explanation": "如果沒有記哪條大腦動脈中風有什麼症狀，可以用兩階段解題 首先，中大腦動脈供應區域包含額葉外側、頂葉與顳葉外側，另外也有小分支供應基底核的蒼白球與被核 接著，考慮對應的腦區與受損症狀，(A)、(B) 為頂葉受損症狀 而 (D) 主要是前大腦動脈 (ACA) 中風，額葉內側受損導致，為原始答案\n\n以下簡單補充 4 條供應大腦的血管中風常見的臨床表現：\n\n| 血管 | 主要供應區 | 症狀表現 |\n| :--- | :--- | :--- |\n| 內頸動脈 ICA | 眼動脈 | 同側暫時性黑矇症 (fugax amaurosis) |\n| 中大腦動脈 MCA | 額葉（外）、頂葉、顳葉（外） | • 半側偏癱或感覺缺失，一般而言，上肢比下肢嚴重<br>• 失語症：Broca's（額葉）、Wernicke's（頂葉）<br>• 半側 (hemianopia) 或 1/4 側 (quadrantanopia) 視覺缺失<br>• 半側忽視 (hemineglect)：頂葉受損導致半側感覺喪失 |\n| 前大腦動脈 ACA | 額葉（內） | • 對側感覺、運動缺失，下肢比上肢嚴重<br>• 執行功能缺失，產生意志缺失 (abulia)、動作不能性緘默 (akinetic mutism) 症狀<br>• 步態失用症、意念運動型失用症 (ideomotor apraxia) |\n| 後大腦動脈 PCA | 枕葉 | • Hemianopia、Quadrantanopia<br>• 顏色命名失能 (color anomia)<br>• 臉盲 (prosopagnosia) |\n\n※ 小補充：Akinetic mutism 即不動 + 不說話，但病人是清醒的、可以接受感覺刺激 最早被描述是一種精神狀態（想到精神狀態就可以聯想到前額葉功能），簡單來說就是「awake（清醒）unresponsiveness（但無反應）」，可以是前大腦動脈中風或是退化性疾病（如：額顳葉失智症）的表現\n\n[ 爭議點 ]\n情感失認症 (affective agnosia) 在神經學指定教科書並未明確的被說明與 MCA 中風後的症狀相關，據筆者所查，此一名詞應是新創的，試圖納入述情障礙 (Alexithymia) 光譜中 關於神經路徑仍在研究中，可能與外界刺激後，無法進入情緒認知中心處理，使得人無法產生相對應的情緒反應 筆者猜測 (C) 也給分的理由為：\n• 此詞本身仍帶有爭議，有興趣可以查 2015 年 Richard D. Lane 提出的文章，以及 Graeme J. Taylor 在 2016 年對其回應（近年 Richard D. Lane 研究團隊也有新的文章發表，試圖證明這個新詞彙的重要性）\n• 根據功能性影像研究發現主要功能區位於扣帶皮質 (cingulate cortex) 或內側額葉，並非 MCA 主要供應範圍",
     "explanation_image": "/explanations/cropped/111-2_6_58.png",
     "explanation_images": [
@@ -13432,7 +13432,7 @@
       "C": "正中神經",
       "D": "肌皮神經"
     },
-    "answer": "A",
+    "answer": "ALL",
     "explanation": "題目有誤，應是考「Froment's sign」 Froment's sign 是針對尺神經做的檢查，透過用力掐紙評估內收拇指肌 (Adductor pollicis) 的力量，故原始答案為 (A)，後一律給分\n\n[ 題外話 ] 如果上網硬是查「Formet's sign」還是可以查到 ulnar nerve palsy 的資訊……",
     "explanation_image": "/explanations/cropped/111-2_6_60.png",
     "explanation_images": [
