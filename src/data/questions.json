@@ -3604,7 +3604,7 @@
       "D": "快速靜脈輸注大量等張氯化鈉溶液（isotonic sodium chloride solutions）時，會發生代謝性酸血症（metabolicacidemia）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。\n\n**外科病人常見的酸鹼異常**\n\n| 狀況 | 酸鹼變化 |\n| --- | --- |\n| 嘔吐、鼻胃管引流（流失胃酸 HCl） | 低氯低鉀代謝性鹼中毒 |\n| 腹瀉、胰液或膽汁廔管、小腸造口（流失碳酸氫根） | 高氯性（正常陰離子間隙）代謝性酸中毒 |\n| 大量輸注生理食鹽水（氯離子多，稀釋碳酸氫根） | 高氯性代謝性酸中毒 |\n| 敗血性休克（組織灌流不足） | 乳酸中毒（高陰離子間隙代謝性酸中毒） |\n| 呼吸器過度通氣 | 醫源性呼吸性鹼中毒 |\n| 呼吸器通氣不足、鎮靜過量 | 呼吸性酸中毒 |\n\n- (A) 上消化道（嘔吐）流失的是胃酸，會造成鹼中毒；腹瀉流失碳酸氫根，造成酸中毒，選項混為一談。\n- (B) 過度通氣造成的是呼吸性鹼中毒。\n- (C) 敗血性休克造成的是代謝性酸中毒。\n- (D) 正確：快速大量輸注生理食鹽水會造成高氯性代謝性酸中毒；以平衡晶體液（乳酸林格氏液）可減少此問題。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -3624,14 +3624,14 @@
       "D": "bilateral C2 pedicles with spondylolisthesis"
     },
     "answer": "D",
-    "explanation": "當頸部高度向後伸展 (hyperextension)，導致第二頸椎椎弓脫位骨折，此種骨折就稱為絞刑骨折。大多病人會以頸部劇烈疼痛為臨床表現，若未及時察覺、加以固定與治療，可能損及脊髓，導致嚴重癱瘓甚至呼吸停止\n\n#### 脊柱骨折 Fractures of Vertebral Column\n| 骨折類型 | 描述 | 處置方法 |\n| :--- | :--- | :--- |\n| C1 Jefferson fracture | (A) disruption of C1 ring in multiple locations；blow-out ring (第一頸椎的粉碎性骨折) | • 橫韌帶 (transverse ligament) 穩定：硬頸圈 (hard collar)<br>• 橫韌帶不穩定：頸椎牽引 (traction) 或手術 |\n| Odontoid fracture I | (C) tip of odontoid | 硬頸圈 (hard collar) |\n| Odontoid fracture II | (B) through base | 頸椎外固定器 (halo vest) 或手術 |\n| Odontoid fracture III | involves C2 body | 頸椎外固定器 (halo vest) |\n| C2 hangman fracture | (D) bilateral C2 pedicles with spondylolisthesis | 頸椎外固定器 (halo vest) 或手術 (脫位嚴重時) |\n| Cervical vertebral body fractures | Compression or burst of vertebral body with or without retropulsion into canal | • 高度略減：硬頸圈<br>• 影響多節脊柱或往後壓迫至脊髓管 (retropulsion into canal)：手術穩定 |\n| Thoracic vertebral body fractures | Compression or burst of vertebral body with or without retropulsion into canal | • 僅前柱：TLSO<br>• 前柱 + 後柱：手術穩定 |\n| Lumbar vertebral body fractures | Compression or burst of vertebral body with or without retropulsion into canal | • 僅前柱：TLSO<br>• 前柱 + 後柱：手術穩定 |\n| Chance fracture | Avulsion of posterior elements of lumbar vertebrae seen with high seat belt use (脊椎骨前後完全撕裂，常見於加速後急減速的緊急煞車) | 手術穩定 |\n\n*(整理自 2021 Sabiston Chapter 16)",
+    "explanation": "答案 (D)。\n\n**上頸椎骨折**\n\n| 骨折 | 部位與機轉 |\n| --- | --- |\n| Jefferson 骨折 | 第一頸椎環多處斷裂（爆裂），軸向壓力 |\n| 齒突骨折第一型 | 齒突尖端撕裂 |\n| 齒突骨折第二型 | 齒突基底（最常見，易不癒合） |\n| 齒突骨折第三型 | 延伸到第二頸椎椎體 |\n| 絞刑者骨折（hangman's fracture） | 第二頸椎兩側椎弓峽部（椎莖）骨折，合併 C2 相對 C3 向前滑脫；過度伸展合併牽拉 |\n\n- 絞刑者骨折的骨折處讓椎管變寬，因此常沒有嚴重的神經損傷；依 Levine-Edwards 分類，移位與成角程度決定是否需手術。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-2_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(五)-2_merged.png"
     ],
-    "section": "第二篇 外科學",
-    "chapter": "外科概論",
-    "category": "外科概論"
+    "section": "第四篇 其他科",
+    "chapter": "骨科",
+    "category": "骨科"
   },
   {
     "id": "111-1-醫學(五)-3",
@@ -3646,7 +3646,7 @@
       "D": "血清中弓漿蟲（toxoplasma）抗體陽性之腦死病人"
     },
     "answer": "C",
-    "explanation": "死後器官捐贈者基準如下：\n\n| 捐贈者類別 | 條件基準 |\n| :--- | :--- |\n| 捐贈者絕對禁忌症 | • 庫賈氏病<br>• 其他無法控制的感染症<br>• 人體免疫缺乏病毒感染，且不符合相對禁忌症處所列之患者，則屬於絕對禁忌症 |\n| 捐贈者相對禁忌症 | • 敗血症<br>• 開放性結核病<br>• 藥物成癮<br>• 病毒性腦炎<br>• 人體免疫缺乏病毒 (可捐贈給同樣感染者)<br>• 人類免疫缺乏病毒陽性時，應符合以下標準：<br>1、已列為疾病管制署通報個案 (愛滋感染者若未曾通報，亦即器官捐贈前之檢驗才得知愛滋病毒為陽性反應，因無法確認是否仍有未受控制、潛在致命之伺機性感染，故應終止器官捐贈作業)<br>2、遵循醫囑並穩定接受雞尾酒療法 (HAART)，且最近 6 個月內測量不到 HIV 的病毒量 (HIV viral load 小於 50 copies/ml)<br>3、排除有未受控制、潛在致命之伺機性感染或腫瘤<br>4、日後仍有抗逆轉錄病毒之治療選擇 (應事先與感染科醫師討論及確認) |\n\n參考資料：行政院衛生福利部函衛部醫字第 1080000531 號、The Transplantation Society of Australia and New Zealand: Clinical Guidelines for Transplantation from Deceased Donors (https://tsanz.com.au/storage/documents/TSANZ_Clinical_Guidelines_Version-15_29042021.pdf)\n\n以下另列各器官的捐贈者基準：\n\n| 器官 | 捐贈者基準 |\n| :--- | :--- |\n| 心臟 | • 過去病史與諸項檢查證實心臟正常者<br>• 無顱內腫瘤外之癌症病史 |\n| 肺臟 | • 年齡不超過 60 歲<br>• 無顱內腫瘤外之癌症病史<br>• 無長期抽菸之病史 (≤ 20 Pack-years)<br>• 胸部 X 光等檢查顯示肺部無嚴重感染<br>• 在 PEEP = 5 cmH₂O 下，呼吸 100% 氧氣時，其 PaO₂ > 300 mmHg；呼吸 40% 氧氣時，其 PaO₂ > 100 mmHg |\n| 肝臟 | • 無顱內腫瘤外之癌症病史<br>• 肝功能可接受 |\n| 腎臟 | • 無顱內腫瘤外之癌症病史<br>• 腎功能可接受 |\n| 胰臟 | • 年齡 5~55 歲<br>• 無糖尿病病史；如無法確定者須檢查 HbA1c<br>• 無慢性酗酒<br>• 無胰臟炎<br>• 無顱內腫瘤外之癌症病史 |\n| 眼角膜 | • 一般無年齡特別限制，但嬰幼兒則不建議<br>• 無全身性病毒或細菌感染 (如人類免疫缺乏病毒、C 型肝炎)<br>• 無白血病及淋巴癌<br>• 無青光眼、虹彩炎或眼部腫瘤病史<br>• 角膜情況佳 (無明顯角膜炎且未曾動過角膜手術者)<br>• 非下列疾病死亡：不明之中樞神經性疾病、亞急性硬化性腦膜炎、先天性德國麻疹、進行性多發性白血症腦病變、雷氏症候群 (Reye's Syndrome)、何杰金氏病 (Hodgkin's disease)、巨細胞病毒性感染、狂犬病等 |\n| 小腸 | • 年齡不超過 45 歲<br>• 體型適當：以不超過待移植者體重的 20% 為上限<br>• 少量升壓藥：沒有使用大量升壓藥，例如 dobutamine 或 dopamine 超過 20 ug/kg/min<br>• 儘可能沒有經歷很久的急救過程 (Absent/scant arrest period) |\n\n(A) B 肝帶原者若經醫師評估器官狀況及體內病毒量後確定狀況符合標準，可捐贈給同樣 B 肝表面抗原陽性者，唯須經過受贈者的知情同意，並且在器官移植後需進行病毒的控制及治療\n\n(B) 根據上表，若有巨細胞病毒感染，除了眼角膜可能無法捐贈外，其他器官仍可進行捐贈，但須使用預防感染藥物及注意移植後體內病毒狀況的監測\n\n(C) The Transplantation Society of Australia and New Zealand 中提到，若接受 HTLV 感染患者的器官捐贈使得受贈者也因此感染 HTLV，將有很高的機會得到 acute T cell leukemia/lymphoma (ATL) 或 HTLV-associated myelopathy (HAM) 且死亡率高，因此皆不建議 HTLV 感染者作為器官捐贈者；台灣的移植相關規範中並沒有明確列出 HTLV 感染為絕對禁忌症，但感染 HTLV 後易得到 acute T cell leukemia/lymphoma (ATL)，也並不符合大部分器官「無顱內腫瘤外之癌症病史」的捐贈者基準，故而此選項為最適當的答案\n\n(D) 雖弓漿蟲感染並非器官捐贈的禁忌症，但受贈者於接受移植後至少需使用 3 個月的 Trimethoprim-sulfamethoxazole 作為預防感染的藥物",
+    "explanation": "答案 (C)。\n\n**腦死器官捐贈者的感染篩檢**\n\n- 捐贈前需篩檢 HIV、HTLV-1/2、B 型與 C 型肝炎、梅毒、巨細胞病毒、EB 病毒、弓漿蟲等。\n- 台灣的器官捐贈規範：\n\n| 篩檢結果 | 捐贈 |\n| --- | --- |\n| HIV 陽性 | 不可捐贈 |\n| HTLV-1/2 抗體陽性 | 不可捐贈（可造成成人 T 細胞白血病與神經病變） |\n| HBsAg 陽性 | 經評估可捐給 B 肝帶原或具保護抗體的受贈者，並給予預防性抗病毒藥物 |\n| Anti-HCV 陽性 | 可在知情同意下捐贈，移植後以 DAA 治療 |\n| CMV 抗體陽性 | 可捐贈，依受贈者狀態給予預防性抗病毒藥物 |\n| 弓漿蟲抗體陽性 | 可捐贈，受贈者以 TMP-SMX 預防（心臟移植需特別注意） |\n\n因此血清 HTLV 抗體陽性的腦死病人不適合作為捐贈者。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-3_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(五)-3_merged.png"
@@ -3668,7 +3668,7 @@
       "D": "立即送病人至手術室接受緊急剖腹探查"
     },
     "answer": "D",
-    "explanation": "從 CT 上可看到左胸及腹部皆有不正常積液，可能為車禍過程中遭到撞擊導致的出血，另從題述可看出病人已經處於 shock 狀態，故此時最佳的做法應為儘速接受緊急剖腹探查，以儘快找到出血處加以處置。對於 blunt abdominal trauma 的處置流程，大家可以參考 Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 17 中的 Figure 17.21\n\n以下也列出緊急開胸與緊急剖腹探查的適應症供大家參考：\n\n| 緊急開胸 | 緊急剖腹探查 |\n| :--- | :--- |\n| • 穿刺傷：胸管初次引流量 >1000 mL or 鈍傷：胸管初次引流量 >1500 mL<br>• 沒有凝血功能異常的病人，胸管引流量連續 3 小時 >200 mL/hr<br>• 以置放兩個胸管仍無法順利引流的血胸 (caked hemothorax)<br>• 大血管損傷<br>• 心包膜填塞<br>• 心臟疝脫 (cardiac herniation)<br>• 胸管大量漏氣且沒有足夠通氣 (massive air leak from the chest tube with inadequate ventilation)<br>• 內視鏡或影像診斷氣管或主支氣管受損<br>• 開放性氣胸<br>• 食道破裂<br>• 氣體栓塞 | • 腹腔內出血且血液動力學不穩定 (如內臟受損)<br>• 腸道破裂<br>• 腸阻塞、腸缺血 |",
+    "explanation": "答案 (D)。\n\n**多重外傷合併持續性出血性休克**\n\n- 本題高速撞擊的多重外傷病人：左胸呼吸音減低、腹部膨脹合併瀰漫性壓痛、四肢骨折，輸液後短暫反應，CT 後又出現嚴重休克（血壓 60/40、意識模糊），屬於對輸液只有暫時反應或無反應的出血性休克。\n- 依 CT 所見（腹腔內出血，如肝臟或脾臟撕裂傷），最主要的出血來源在腹腔，應立即送手術室做損傷控制剖腹探查止血，並啟動大量輸血。\n- 處置原則：\n  - 血行動力學不穩的病人不應再送去做影像檢查（CT 是「死亡隧道」）\n  - 以 FAST 與胸部 X 光快速找出血來源（胸腔、腹腔、骨盆、長骨、外部出血）\n  - 限制晶體液、早期輸血（1：1：1），tranexamic acid\n- (A) 再做腦部 CT 會延誤止血；(B) 胸管只處理血胸或氣胸，不能處理腹腔大出血；(C) 本題影像主要問題不在主動脈。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-4_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(五)-4_merged.png"
@@ -3680,8 +3680,8 @@
       "/images/111-1/醫學(五)/page_1_img_4.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "胸腔外科",
-    "category": "胸腔外科"
+    "chapter": "急診外傷科",
+    "category": "急診外傷科"
   },
   {
     "id": "111-1-醫學(五)-5",
@@ -3696,7 +3696,7 @@
       "D": "liver cirrhosis due to heart failure"
     },
     "answer": "D",
-    "explanation": "大致而言，不可逆的肝臟疾病皆為肝臟移植的適應症\n\n*(整理自 Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 26 及 Schwartz's Principles of Surgery (2019, 11ed.) Chapter 11)*\n\n| 肝臟移植適應症 | 肝臟移植禁忌症 |\n| :--- | :--- |\n| • 自體免疫性肝臟疾病：自體免疫性肝炎 (autoimmune hepatitis, AIH)、原發性膽汁性肝硬化 (primary biliary cirrhosis, PBC)、原發性硬化性膽管炎 (primary sclerosing cholangitis, PSC)<br>• 病毒性肝炎：B 型肝炎、C 型肝炎<br>• 酒精性肝臟疾病、非酒精性脂肪肝病 (nonalcoholic fatty liver disease, NAFLD)<br>• 代謝性疾病：α-1 抗胰蛋白酶缺乏症 (alpha-1 antitrypsin deficiency, AATD)、囊腫性纖維化 (cystic fibrosis)、血鐵沉積症 (hemochromatosis)、高酪胺酸血症 (tyrosinemia)、威爾森氏症 (Wilson's disease)<br>• 肝臟惡性腫瘤：肝細胞癌 (hepatocellular carcinoma, HCC)、轉移到肝臟的神經內分泌腫瘤 (neuroendocrine tumor)<br>• 猛爆性肝臟衰竭 (fulminant hepatic failure)<br>• 藥物或其他暴露引起的肝硬化<br>• 先天性：膽道閉鎖、先天性膽管擴張症 (Caroli disease)<br>• 其他：阿拉吉歐症候群 (Alagille syndrome，為一種會造成膽汁鬱積的體染色體顯性遺傳疾病)、隱源性肝硬化 (cryptogenic cirrhosis)、Budd-Chiari syndrome (BCS，任何原因造成肝臟血流受到阻斷所產生的症候群)、多囊性肝臟疾病 (polycystic liver disease)、澱粉樣蛋白疾病 (amyloidosis) | • 心肺儲備量不足 (insufficient cardiopulmonary reserve)：CAD、嚴重瓣膜性疾病、低血壓、須仰賴氧氣的嚴重 COPD、嚴重肺高壓<br>• 無法控制的感染或癌症<br>• 病人遵從性差<br>• 不可逆的神經損傷 |\n\n肝臟移植另一個常見的考點為肝臟移植病人的評估。可以記一下 MELD score 評估的項目有哪幾項：serum bilirubin, INR, serum creatinine；評估肝功能的 Child-Pugh score 的評估項目則為：albumin, bilirubin, ascites, prothrombin time (延長的秒數或 INR 數值), encephalopathy",
+    "explanation": "答案 (D)。\n\n**肝臟移植的適應症**\n\n| 類型 | 疾病 |\n| --- | --- |\n| 慢性肝病末期 | 病毒性肝炎肝硬化、酒精性肝硬化、MASH、原發性膽汁性膽管炎、原發性硬化性膽管炎、自體免疫性肝炎 |\n| 兒童 | 膽道閉鎖（兒童肝臟移植最常見的原因）、Alagille 症候群、代謝疾病 |\n| 肝臟腫瘤 | 符合米蘭或 UCSF 標準的肝細胞癌、肝母細胞瘤 |\n| 急性 | 猛爆性肝衰竭 |\n| 代謝疾病 | Wilson 氏症、α1-抗胰蛋白酶缺乏、原發性高草酸尿症 |\n\n- 心衰竭造成的鬱血性肝硬化（心因性肝硬化），根本問題在心臟，單獨肝臟移植無法解決，且病人難以承受移植手術；應治療心臟疾病，必要時考慮心臟移植或心肝合併移植。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-5_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(五)-5_merged.png"
@@ -3718,7 +3718,7 @@
       "D": "虛弱疲乏"
     },
     "answer": "B",
-    "explanation": "",
+    "explanation": "答案 (B)。\n\n**術後低血鈉**\n\n- 原因：手術壓力、疼痛、噁心、鴉片類藥物使抗利尿激素分泌增加，合併輸注低張溶液。\n- 症狀（多為中樞神經症狀，因腦水腫）：\n  - 輕中度：頭痛、噁心嘔吐、倦怠、虛弱、意識混亂、步態不穩\n  - 嚴重：嗜睡、癲癇、昏迷、呼吸停止\n- 停經前女性與兒童較容易出現嚴重的術後低血鈉腦病變。\n\n心跳加速不是低血鈉的常見症狀（若有，較可能反映低血容積）。\n\n**補充**：預防術後低血鈉應避免使用低張溶液作為維持輸液。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -3738,7 +3738,7 @@
       "D": "3,000 mL"
     },
     "answer": "C",
-    "explanation": "#### ATLS 出血性休克分級\n| | Class I | Class II | Class III | Class IV |\n| :--- | :--- | :--- | :--- | :--- |\n| 失血量 (%) | 0~15 | 15~30 | 30~40 | >40 |\n| 失血量 (mL) | <750 | 750~1500 | 1500~2000 | >2000 |\n| 中樞神經系統 | 微焦慮 (slightly anxious) | 輕度焦慮 | 焦慮或混亂 (confused) | 混亂或昏睡 (lethargic) |\n| 心跳 (bpm) | <100 | >100 | >120 | >140 |\n| 血壓 | 正常 | 正常 | ↓ | ↓ |\n| 脈壓 | 正常 | ↓ | ↓ | ↓ |\n| 呼吸速率 | 14~20/min | 20~30/min | 5~15/min (↓) | 幾乎沒有 |\n| 尿量 (mL/hr) | >30 | 20-30 | 5-15 | 幾乎沒有 |\n| 輸液 | crystalloid | crystalloid | crystalloid + blood | crystalloid + blood |\n\n*(整理自 Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 4 及 Emergent Medicine Journal, 2012;0:1-8)*\n\n題幹中病人的狀況應該落在 Class III (心跳落在 120 bpm~140bpm 間、脈搏微弱、血壓下降)，故選擇 1500~2000 mL 區間內的失血量較為適合",
+    "explanation": "答案 (C)。\n\n**出血性休克的分級（ATLS）**\n\n| 分級 | 失血量（70 kg 成人） | 心跳 | 血壓 | 意識 |\n| --- | --- | --- | --- | --- |\n| I | < 750 mL（< 15%） | 正常 | 正常 | 輕微焦慮 |\n| II | 750–1,500 mL（15–30%） | 100–120 | 正常（脈搏壓變窄） | 焦慮 |\n| III | 1,500–2,000 mL（30–40%） | 120–140 | 下降 | 焦慮、混亂 |\n| IV | > 2,000 mL（> 40%） | > 140 | 明顯下降 | 混亂、昏睡 |\n\n本題病人心跳 125、血壓 75/40、意識混亂，屬於第 III 級出血，失血量約 1,500–2,000 mL，最接近 1,800 mL。現場的血跡面積只能粗估，應以生命徵象判斷失血量。\n\n- 第 III 級以上需要輸血。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-7_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(五)-7_merged.png"
@@ -3760,7 +3760,7 @@
       "D": "①②⑤"
     },
     "answer": "C",
-    "explanation": "#### 緊急開胸適應症\n• 穿刺傷：胸管初次引流量 >1000 mL or 鈍傷：胸管初次引流量 >1500 mL\n• 沒有凝血功能異常的病人，胸管引流量連續 3 小時 >200 mL/hr\n• 已置放兩個胸管仍無法順利引流的血胸 (caked hemothorax)\n• 大血管損傷\n• 心包膜填塞\n• 心臟疝脫 (cardiac herniation)\n• 胸管大量漏氣且沒有足夠通氣 (massive air leak from the chest tube with inadequate ventilation)\n• 內視鏡或影像診斷氣管或主支氣管受損\n• 開放性氣胸\n• 食道破裂\n• 氣體栓塞",
+    "explanation": "答案 (C)。\n\n**胸部穿刺傷的開胸手術指標**\n\n- 置入胸管後立即流出 ≥ 1,500 mL 血液（①）\n- 持續出血：每小時 200 mL 以上持續 2–4 小時\n- 心包膜填塞（②）\n- 開放性氣胸合併大面積胸壁缺損（③，需手術修補）\n- 大量持續氣漏、支氣管斷裂、肺部無法擴張\n- 食道破裂、大血管受傷\n- 生命徵象持續不穩定\n\n- ④ 兩側胸腔疑似受傷：應依實際出血與生命徵象決定，不是手術探查的適應症。\n- ⑤ 胸管同時有少量氣體溢出：代表肺部撕裂，多可自行癒合。\n\n因此需考慮手術探查的是 ①②③。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-8_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(五)-8_merged.png"
@@ -3782,14 +3782,14 @@
       "D": "須加上標靶藥物（VEGF或EGFR inhibitor）"
     },
     "answer": "B",
-    "explanation": "此病人的結腸癌為 Stage IIIB，根據 2022 NCCN Guideline，屬於 low-risk Stage III 的結腸癌，建議以 CAPEOX 或 FOLFOX 作為一線藥物進行治療",
+    "explanation": "答案 (B)。\n\n**結腸癌的術後輔助化療**\n\n| 分期 | 建議 |\n| --- | --- |\n| 第 I 期 | 追蹤 |\n| 第 II 期低風險 | 追蹤（微衛星高度不穩定者不建議單用 5-FU） |\n| 第 II 期高風險（T4、淋巴結採樣 < 12 顆、淋巴血管或神經侵犯、阻塞或穿孔、分化差） | 考慮輔助化療 |\n| 第 III 期（淋巴結轉移） | 含 oxaliplatin 的輔助化療（FOLFOX 或 CAPOX），低風險（T1–3N1）可做 3 個月，高風險 6 個月 |\n\n本題 pT3N1 屬於第 III 期，建議以 oxaliplatin 為主的化療。\n\n- 輔助治療中加上 irinotecan（FOLFIRI）或標靶藥物（bevacizumab、cetuximab）都沒有增加存活，不建議使用；這些藥物用於轉移性大腸直腸癌。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-9_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(五)-9_merged.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "大腸直腸科",
+    "category": "大腸直腸科"
   },
   {
     "id": "111-1-醫學(五)-10",
@@ -3804,14 +3804,14 @@
       "D": "約在胚胎發育第6週，泌尿生殖膈（urogenital septum）往尾部移行（caudal migration）而分隔開消化道及生殖泌尿道"
     },
     "answer": "B",
-    "explanation": "(B) 中腸衍生結構應該是從遠端十二指腸一直到遠端橫結腸",
+    "explanation": "答案 (B)。\n\n**消化道的胚胎發育與血液供應**\n\n| 胚胎來源 | 範圍 | 動脈 |\n| --- | --- | --- |\n| 前腸 | 食道、胃、十二指腸近端（壺腹以上）、肝、胰、膽道 | 腹腔動脈 |\n| 中腸 | 十二指腸遠端（壺腹以下）至橫結腸近端 2/3 | 上腸繫膜動脈 |\n| 後腸 | 橫結腸遠端 1/3 至直腸上段（齒狀線以上） | 下腸繫膜動脈 |\n\n中腸的範圍是從十二指腸遠端（Vater 壺腹以下）到橫結腸近端 2/3，而不是從近端空腸到遠端橫結腸，故 (B) 錯誤。\n\n- 肛門內括約肌是直腸環狀平滑肌層的延續增厚（不隨意）；肛門外括約肌是橫紋肌（隨意，陰部神經支配）。\n- 胚胎約第 6 週，泄殖腔被尿直腸隔膜往尾端移動分隔為前方的泌尿生殖竇與後方的肛門直腸管；分隔異常會造成肛門直腸畸形與廔管。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-10_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(五)-10_merged.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "大腸直腸科",
+    "category": "大腸直腸科"
   },
   {
     "id": "111-1-醫學(五)-11",
@@ -3826,12 +3826,12 @@
       "D": "大腸吸收面積約900 cm2，可幫忙再吸收大量水分"
     },
     "answer": "C",
-    "explanation": "(A) 大腸菌叢可幫助維持 epithelial integrity，並且與大腸中澱粉和蛋白質的分解、膽紅素 / 膽酸 / 雌性激素 / 膽固醇的代謝、維生素 K 等的製造皆有關\n\n(B) 厭氧菌佔大腸細菌的大宗，其中最多的是 Bacteroides 並且佔大腸細菌的 2/3；而最多的嗜氧菌則為 E. coli\n\n(C) 大腸菌叢富有尿素分解酵素 (urease)，可將尿素代謝成氨，進入血液運輸至 portal circulation，再進入肝細胞的 urea cycle (約 85%) 或直接進入體循環 (約 15%)，故可幫助 urea recycling 的進行。但當病人發生肝臟衰竭時，肝臟無法重複使用從大腸回收的尿素氮 (urea nitrogen)，因此它們將大量進入體循環，通過 BBB 造成肝性腦病變或肝昏迷\n\n(D) 大腸為胃腸道中吸收能力最佳的部分，每天可吸收高達 5L 的水分，但由於在正常的生理狀況下，大量水分會先在小腸吸收，最後流往大腸的約只剩 1~2L 左右，故大腸一般來說每天吸收的水分並不會到 5L 那麼多",
+    "explanation": "答案 (C)。\n\n**大腸的生理**\n\n- 大腸菌叢：以厭氧菌為主，Bacteroides 約佔三分之二；功能包括：\n  - 發酵膳食纖維產生短鏈脂肪酸（丁酸是大腸上皮細胞的主要能量來源），維持上皮完整\n  - 合成維生素 K 與部分 B 群維生素\n  - 抑制病原菌生長\n  - 分解尿素產生氨（尿素循環）\n- 大腸菌叢把尿素分解成氨，氨被吸收後送回肝臟；肝衰竭病人無法有效代謝氨，血氨上升，造成肝性腦病變，因此這個過程對肝衰竭病人是有害的，治療上使用 lactulose 與 rifaximin 減少腸道產氨，故 (C) 錯誤。\n- 大腸吸收面積約 900 cm²，每天可再吸收約 1–2 L 水分（最大可達 5 L）與鈉離子。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-11_merged.png",
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "大腸直腸科",
+    "category": "大腸直腸科"
   },
   {
     "id": "111-1-醫學(五)-12",
@@ -3846,7 +3846,7 @@
       "D": "告知患者相關手術風險，聯絡手術室準備行緊急手術止血"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。\n\n**下消化道出血的初步處置**\n\n本題男性血便兩日，心跳 120、血壓 90/56，血行動力學不穩定。\n\n1. 復甦：建立兩條大管徑靜脈通路，輸液，血型配對，必要時輸血；評估血紅素、凝血功能。\n2. 病史與理學檢查：過去大腸鏡息肉切除（息肉切除後出血）、抗凝血劑或抗血小板藥物、NSAIDs、憩室、發炎性腸道疾病、放射治療；肛門指診找痔瘡、腫瘤。\n3. 排除上消化道出血：大量血便合併休克時，約 10–15% 其實來自上消化道，應考慮放置鼻胃管或做上消化道內視鏡。\n4. 找出血位置：\n   - 大腸鏡（腸道準備後，24 小時內）\n   - 電腦斷層血管攝影（持續大量出血、血行動力學不穩時優先）\n   - 傳統血管攝影合併栓塞\n5. 手術：只在內視鏡與血管介入都無法止血、持續大量輸血時才考慮，且術前應盡量確定出血位置。\n\n本題還未找出出血來源，直接準備緊急手術止血並不適宜。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -3866,7 +3866,7 @@
       "D": "年長病患比年輕病患有較高機會發現複雜闌尾炎或其他病理表現"
     },
     "answer": "C",
-    "explanation": "",
+    "explanation": "答案 (C)。\n\n**老年人的腹腔鏡闌尾切除**\n\n- 老年人的闌尾炎表現較不典型（發燒、白血球上升不明顯），常延遲就醫與診斷，因此：\n  - 穿孔或複雜性闌尾炎比例較高，也較常發現其他病理（如闌尾腫瘤、大腸癌、憩室炎）\n  - 改為開腹手術的比例較高\n  - 術後整體併發症（心肺、尿路等手術相關併發症）較多、住院較久\n- 但多數研究顯示，老年病人與年輕病人在手術傷口感染等感染相關併發症的發生率差異不大；腹腔鏡手術本身可降低老年人的傷口感染，故 (C) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -3886,7 +3886,7 @@
       "D": "於肛門距離（anal verge）大於25公分的腫瘤仍可藉由經肛門內視鏡手術（TEMS）予以切除治療"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。\n\n**自然孔洞內視鏡手術（NOTES）與經肛門手術**\n\n- NOTES：經由口、胃、陰道、直腸等自然孔洞進入腹腔或其他部位進行手術，沒有體表傷口。\n  - 優點：沒有腹壁傷口、疼痛少、恢復快、外觀佳、減少切口疝氣\n  - 缺點：技術困難、器械限制、學習曲線長、醫師壓力大、內臟切口關閉與感染問題\n- 經口內視鏡肌肉切開術（POEM）：治療食道失弛緩症，不需腹部傷口，不破壞食道胃交界的支撐構造，但術後逆流較多。\n- 經肛門內視鏡顯微手術（TEM/TEMS）或經肛門微創手術（TAMIS）：適用於距肛門口約 4–15 cm（最遠約 18–20 cm）的直腸良性腫瘤或早期直腸癌；超過 25 cm 已是乙狀結腸，無法以經肛門手術切除，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -3906,7 +3906,7 @@
       "D": "可以用hemodynamic augmentation的方式治療腦血管痙攣"
     },
     "answer": "A",
-    "explanation": "腦血管痙攣 (cerebral vasospasm) 通常發生於血管暴露於血液之中，可能和血塊溶解時產生的血管收縮物質相關，常發生於腦動脈瘤破裂出血後造成的 SAH，腦血管痙攣後可能導致腦部缺氧\n\n(A) 發生 SAH 後數分鐘到數小時就可能發生早期 vasospasm，延遲性 vasospasm 通常發生於 4~14 天後，其中最多會發生於 SAH 的 6~10 天後\n\n(B) 腦動脈瘤破裂出血後造成之 SAH 的嚴重程度，可用 Hunt and Hess clinical grading scale 描述之，並且可藉由此 grading scale 預測病人預後：\n\n| Hunt & Hess | 臨床特徵 | 存活率 |\n| :--- | :--- | :--- |\n| Grade 0 | • 動脈瘤未破裂，且無症狀 | |\n| Grade 1 | • 無症狀或輕微頭痛，且伴有輕微頸部僵硬 | 70% |\n| Grade 2 | • 中度到重度頭痛且伴有頸部僵硬<br>• 除顱神經麻痺 (cranial nerve palsy) 外，無其他神經學異常 | 60% |\n| Grade 3 | • 嗜睡 (drowsy)<br>• 輕微神經學異常 | 50% |\n| Grade 4 | • 木僵無反應 (stupor)<br>• 中度到重度半癱 (hemiparesis)<br>• 可能有早期去大腦性僵直、瀕臨植物人狀態的情況 (early decerebrate rigidity and vegetative disturbance) | 20% |\n| Grade 5 | • 昏迷 (deep coma)、去大腦性僵直、垂死 (moribund) | 10% |\n\n另有 Fisher Grade 藉由在 CT 上看到的出血量預測 symptomatic cerebral vasospasm 的風險並加以分級：\n\n#### Modified Fisher Grade\n| | 臨床特徵 | 有症狀的腦血管痙攣發生率 |\n| :--- | :--- | :--- |\n| Grade 1 | 無 SAH 或 IVH | 21% |\n| Grade 2 | 廣泛性 <1 mm 的 SAH、無血塊 | 25% |\n| Grade 3 | 有局部血塊或 >1 mm 厚的 SAH；無 IVH | 37% |\n| Grade 4 | 有廣泛性 SAH 或無 SAH；有 IVH 或 ICH | 31% |\n\n*\\*SAH: subarachnoid hemorrhage 蜘蛛網膜下出血*<br>*\\*IVH: intraventricular hemorrhage 腦室內出血*<br>*\\*ICH: intracerebral hemorrhage 腦實質出血*\n\n相較之下，Fisher Grade 以 CT 下看到的出血量進行分級，故可較直接地預測腦血管痙攣發生的機率；Hunt and Hess 主要為 SAH 嚴重程度的分級，而 SAH 越嚴重其發生後續併發症的機率較高也算是合理的敘述\n\n(C) 由於腦血管痙攣為血管暴露於血液中所致，因此可推知基底腦池出血量越多，發生腦血管痙攣的機會也就會越高\n\n(D) 腦血管痙攣的預防及處置方法：\n\n| 類別 | 內容 |\n| :--- | :--- |\n| 預防 | • 稍微提高血壓以及適度補充體液 (mild hypervolemia)，以維持足夠灌流量<br>• 給予 nimodipine (為一種可降低血管痙攣發生率與發生程度的 CCB 藥物，但其作用機制仍有爭議) |\n| 處置 | • 給予 papaverine (罌粟鹼) 或 nicardipine<br>• 以氣球擴張術 (balloon angioplasty) 維持較大的血管管徑<br>• hemodynamic augmentation: 增加腦內灌流量<br>\\*以往以 HHH therapy (hypertension, hypervolemia, hemodilution) 為治療首選，藉由維持灌流充足避免腦血管痙攣後的腦部缺氧，但 hemodilution 治療仍存有些許爭議 |",
+    "explanation": "答案 (A)。\n\n**動脈瘤性蜘蛛膜下腔出血後的腦血管痙攣**\n\n- 時間：多在出血後第 3–14 天發生，第 7–10 天最常見，而不是 1–5 天，故 (A) 錯誤。\n- 危險因子：\n  - CT 上基底腦池出血量多（Fisher 或改良 Fisher 分級越高，風險越高）\n  - Hunt and Hess 臨床分級越高\n  - 抽菸、年輕、高血壓\n- 表現：遲發性腦缺血，出現新的神經學缺損或意識變差。\n- 監測：每日經顱都卜勒（流速上升）、CT 血管攝影或灌流影像。\n- 預防與治療：\n  - 口服 nimodipine 21 天（唯一證實可改善預後的藥物）\n  - 維持正常血容積\n  - 發生症狀性血管痙攣時：誘發性高血壓（血行動力學增強），必要時血管內動脈內注射血管擴張劑或血管成形術",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-15_merged.png",
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -3926,7 +3926,7 @@
       "D": "如果癲癇持續5分鐘以上，則要考慮插管予以完全鎮靜"
     },
     "answer": "B",
-    "explanation": "(A) 水平方向躍視 (horizontal saccade)：以雙眼向左側看為例，此同向共軛凝視 (conjugate gaze) 由對側 (右) 額葉眼區 (Brodmann area 8 = frontal eye field, FEF) 啟動同側 (左) 橋腦旁正中網狀結構 (paramedian pontine reticular formation, PPRF)，進一步通過興奮爆裂性神經元 (burst neurones) 而啟動鄰近同側 (左) 外直肌的外展神經運動神經，再上升進入內側縱束 (MLF) 到達對側 (右) 動眼神經核內直肌，因此產生雙眼同方向朝左看 (levoversion) 時，左眼外直肌及右眼內直肌會同時作用移動雙眼注視目標 (可上網搜尋 \"horizontal conjugate gaze pathway\"，看圖更清楚)。由此可知，當出血位置影響右側 Brodmann area 8 時，便會影響共軛凝視的路徑，導致雙眼向左側看的機制受到影響，而使雙眼只能偏向右側\n\n(B) 癲癇發作的第一線藥物通常為 BZD 類藥物，給予 3~5 分鐘後觀察仍有癲癇發作則可給予第二線藥物，包括 Phenytoin 及 Valproic acid 等。若使用到第二線藥物後仍有癲癇發作，則應考慮插管並考慮給予麻醉藥物 (如：Phenobarbital, Midazolam, Propofol 等)",
+    "explanation": "答案 (B)。\n\n**癲癇發作與癲癇重積狀態的處置**\n\n- 外傷後早期癲癇（7 天內）可因皮質受刺激引起；本題右側硬腦膜下出血，刺激性癲癇時眼睛常偏向對側（左側），但若為發作後的麻痺或破壞性病灶，眼睛偏向病灶側，選項依參考答案視為可能情況。\n- 癲癇重積狀態定義：持續發作 ≥ 5 分鐘，或兩次發作之間意識未恢復。\n- 處置流程：\n\n| 時間 | 處置 |\n| --- | --- |\n| 0–5 分鐘 | 穩定呼吸道、呼吸、循環，測血糖，建立靜脈通路 |\n| 5–20 分鐘（第一線） | Benzodiazepine：靜脈 lorazepam 或 diazepam，或肌肉注射 midazolam；可重複一次 |\n| 20–40 分鐘（第二線） | Fosphenytoin／phenytoin、valproate 或 levetiracetam 靜脈注射 |\n| 40 分鐘以上（頑固性） | 插管，以 midazolam、propofol 或 pentobarbital 持續麻醉，腦波監測 |\n\n- 第一線藥物是 benzodiazepine，而不是 propofol（propofol 用於頑固性癲癇重積的麻醉治療），故 (B) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-16_merged.png",
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -3946,12 +3946,12 @@
       "D": "踝管（tarsal tunnel）－脛神經（tibial nerve）"
     },
     "answer": "B",
-    "explanation": "(B) Ulnar nerve 才是走在 Guyon's canal 內的神經",
+    "explanation": "答案 (B)。\n\n**常見的神經壓迫症候群**\n\n| 壓迫位置 | 神經 | 表現 |\n| --- | --- | --- |\n| 腕隧道（橫腕韌帶下方） | 正中神經 | 拇指、食指、中指麻木，夜間加劇，魚際肌萎縮 |\n| Guyon 管（豌豆骨與鉤骨之間） | 尺神經 | 小指、無名指尺側麻木，手部內在肌無力 |\n| 肘隧道 | 尺神經 | 同上，加上手背尺側麻木 |\n| 腓骨頭 | 總腓神經 | 足下垂、足背麻木 |\n| 踝隧道（內踝後方屈肌支持帶下） | 脛神經 | 足底麻木、灼痛 |\n| 腹股溝韌帶下 | 股外側皮神經 | 大腿外側感覺異常（感覺異常性股痛） |\n| 橈隧道、後骨間神經 | 橈神經 | 伸指無力 |\n\nGuyon 管壓迫的是尺神經，而不是橈神經，故 (B) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-17_merged.png",
     "explanation_images": null,
-    "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "section": "第四篇 其他科",
+    "chapter": "骨科",
+    "category": "骨科"
   },
   {
     "id": "111-1-醫學(五)-18",
@@ -3966,7 +3966,7 @@
       "D": "85"
     },
     "answer": "D",
-    "explanation": "CPP = MAP - ICP\n故此題的 CPP = (1/3 × 150 + 2/3 × 90) - 25 = 110 - 25 = 85",
+    "explanation": "答案 (D)。\n\n**腦灌流壓（CPP）的計算**\n\n- CPP = 平均動脈壓（MAP）− 顱內壓（ICP）\n- MAP = 舒張壓 + 1/3 ×（收縮壓 − 舒張壓）= 90 + 1/3 × 60 = 110 mmHg\n- CPP = 110 − 25 = 85 mmHg\n\n**補充**：\n- 正常顱內壓 5–15 mmHg；嚴重頭部外傷時，顱內壓 > 22 mmHg 需要處理。\n- 腦灌流壓目標約 60–70 mmHg；過低造成腦缺血，過高可能增加 ARDS 等併發症。\n- 降低顱內壓的方法：床頭抬高 30 度、鎮靜止痛、高張溶液（mannitol、高張食鹽水）、腦室引流、短暫過度換氣（PaCO₂ 30–35 mmHg）、減壓性顱骨切除。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-18_merged.png",
     "explanation_images": null,
     "section": "第二篇 外科學",
@@ -3986,12 +3986,12 @@
       "D": "腦部靜脈異常（venous anomaly）"
     },
     "answer": "C",
-    "explanation": "#### Cerebral vascular disease\n| 分類 | 疾病類型 |\n| :--- | :--- |\n| 先天性 (congenital) | • 動靜脈畸形與廔管 (arteriovenous malformation and fistula)<br>• 海綿竇畸形 (cavernous malformation)<br>• 毛細血管擴張 (telangiectasia)<br>• 腦部靜脈異常 (venous anomaly, angioma) |\n| 後天性 (acquired) | • 創傷性：部分動靜脈廔管 (如 type I carotid-cavernous fistula)、創傷性動脈瘤 (traumatic aneurysm)<br>• 退化性：動脈粥狀硬化導致的血管阻塞性疾病、大部分腦部漿果動脈瘤 (cerebral berry aneurysm)、部分動脈剝離 (arterial dissection)、自發性腦內出血 (spontaneous intracerebral hemorrhage)<br>• 感染性：感染性動脈瘤 (mycotic aneurysm) |\n| 病因不明 (idiopathic) | • 毛毛樣血管疾病 (moyamoya)<br>• 部分動靜脈廔管 (如 dural AVM-like 或 type II carotid-cavernous fistula) |\n\n*(整理自 2021 Sabiston BOX 68.1)*",
+    "explanation": "答案 (C)。\n\n**腦血管病變的先天與後天**\n\n| 病變 | 性質 |\n| --- | --- |\n| 動靜脈畸形 | 先天性血管發育異常，可在年輕時出血或癲癇 |\n| 微血管擴張症 | 先天性，多無症狀，常在橋腦偶然發現 |\n| 發育性靜脈異常（靜脈血管瘤） | 先天性，最常見的血管畸形，呈「海蛇頭」狀，通常良性，常合併海綿狀血管瘤 |\n| 海綿狀血管瘤 | 先天或後天（放射後），可家族性 |\n| 囊狀（漿果）動脈瘤 | 多為後天形成：血管分叉處的內彈性層與中膜缺陷，在血流動力壓力、高血壓、抽菸、動脈硬化影響下逐漸形成；部分與遺傳疾病相關（多囊腎、Ehlers-Danlos、Marfan） |\n\n腦部漿果動脈瘤雖有先天易感性，但多被認為是後天逐漸形成的，兒童很少見，好發於 40–60 歲。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-19_merged.png",
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "神經外科",
+    "category": "神經外科"
   },
   {
     "id": "111-1-醫學(五)-20",
@@ -4006,12 +4006,12 @@
       "D": "由蜘蛛膜絨毛（arachnoid villi）吸收"
     },
     "answer": "B",
-    "explanation": "腦脊髓液 (CSF) 由脈絡叢 (choroid plexus) 分泌，每天定量製造 500 mL (相當於 20.83 mL/hr)，並回收等量的 CSF，但任何時間下腦室及蜘蛛膜下腔的 CSF 只有約 150 mL，因此每天會循環 3~4 次。其流向為：側腦室 → 通過腦室間孔 (interventricular foramina = foramen of Monro) → 第三腦室 → 塞爾維氏大腦導水管 (central aqueduct of Sylvius) → 第四腦室 → 通過正中孔 (medial aperture = foramen of Magendie) 及 2 個外側孔 (lateral aperture = foramen of Luschka) 分別進入小腦延髓池 (cisterna magna) 及橋腦池 (pontine cisterna) → 進入脊髓及其他蜘蛛膜下腔的空間。CSF 可經由蜘蛛膜絨毛 (arachnoid villi) 吸收回到靜脈系統",
+    "explanation": "答案 (B)。\n\n**腦脊髓液（CSF）**\n\n- 產生：主要由側腦室、第三與第四腦室的脈絡叢分泌（約 70–80%），其餘由腦組織間液與室管膜產生。\n- 產生速率：約 0.3–0.4 mL/min，即每小時約 20 mL、每天約 500 mL，而不是每小時 40 mL，故 (B) 錯誤。\n- 總量：成人約 150 mL（腦室內約 25 mL，其餘在蜘蛛膜下腔與脊髓腔），每天更新約 3–4 次。\n- 流動：側腦室 → Monro 孔 → 第三腦室 → 大腦導水管 → 第四腦室 → Magendie 孔與 Luschka 孔 → 蜘蛛膜下腔（大部分在腦部表面，少部分進入脊髓腔）。\n- 吸收：主要經蜘蛛膜絨毛（蜘蛛膜顆粒）進入上矢狀竇，也經淋巴與神經周圍途徑。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-20_merged.png",
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "神經外科",
+    "category": "神經外科"
   },
   {
     "id": "111-1-醫學(五)-21",
@@ -10359,7 +10359,7 @@
       "D": "若腦部電腦斷層發現出血處在 basal ganglia 或是小腦部位，病人的出血較可能是屬於高血壓造成的出血性腦中風而非車禍造成"
     },
     "answer": "D",
-    "explanation": "(A) 頭部撞傷除了撞擊的該側，也有可能發生在遠離撞擊受傷處（對側），即 counter-coup injury\n\n(B) 硬腦膜上出血 (epidural hematoma, EDH) 最常見為 middle meningeal artery 破裂所致，硬腦膜下出血 (subdural hematoma, SDH) 才是 bridging vein 出血所致，以下附上幾種常見的腦出血特徵比較：\n\n| 項目 | Epidural hematoma (EDH)<br>硬腦膜上血腫 | Subdural hematoma (SDH)<br>硬腦膜下血腫 | Subarachnoid hemorrhage (SAH)<br>蜘蛛網膜下出血 | Intracerebral hemorrhage (ICH)<br>腦內出血 |\n| :--- | :--- | :--- | :--- | :--- |\n| **機轉 / 成因** | • 最常見 middle meningeal artery 破裂所致，其次為靜脈竇 & 板障靜脈 (diploic vein) 出血<br>• 通常因顱骨骨折所引起 | • 硬腦膜下 & 皮質間 bridging vein 出血<br>• 挫裂傷 (contusion) 為出血主因<br>• 多見於老人，且多見於對沖部位 | • 最常見成因為腦內動脈瘤破裂，其次為 AVM<br>• 腦內動脈瘤好發位置：Acom > Pcom > ICA > MCA > ACA > BA > PCA | • 最常見成因為高血壓，好發於：basal ganglia（又以 putamen 最常見），thalamus, pons, cerebellum<br>• 其他成因如 amyloid angiopathy, vasculitis, neoplasm 等 |\n| **臨床表徵** | • 受傷後 24 hr 內會出現意識障礙，且中間會有一段清醒期 (lucid interval) | • 進行性意識障礙<br>• 老人可能因腦部老化萎縮而使症狀起初不明顯 | • 突然劇烈頭痛 (worst headache of my life)<br>• 可能出現頸部僵硬的 meningeal sign | • 依不同出血處，出現不同神經學症狀 |\n| **影像 (CT)** | • 紡錘形出血<br>• 不跨 suture line<br>• 可跨 falx 及 tentorium | • 新月形出血<br>• 可能跨 suture line<br>• 不跨 falx 及 tentorium | • 顱底各腦池、大腦縱裂、腦溝內積血 | • 最常見出血於基底核、丘腦、橋腦、小腦 |\n\n(C) 老人較容易出現硬腦膜下出血\n(D) 如上表，高血壓造成的出血性中風之常見出血位置：基底核、丘腦、橋腦、小腦",
+    "explanation": "答案 (D)。\n\n**頭部外傷與自發性腦出血的鑑別**\n\n- 對衝傷（contrecoup）：撞擊時大腦在顱內移動，除了撞擊處（衝擊傷）外，對側也常受傷（如額葉與顳葉前端挫傷），因此右側著地不一定只有右側腦部受傷，故 (A) 錯誤。\n- 硬腦膜上出血：多為顳骨骨折撕裂中腦膜動脈的動脈出血；硬腦膜下出血才是橋靜脈斷裂，故 (B) 錯誤。\n- 硬腦膜下出血好發於老年人（腦萎縮，橋靜脈被拉長）與嬰兒（受虐）；小孩較常見的是硬腦膜上出血（硬腦膜與顱骨黏得較鬆），故 (C) 錯誤。\n- 出血位於基底核、視丘、橋腦或小腦，是高血壓性腦出血的典型位置；行走中跌倒的病人若出血在這些部位，較可能是先發生高血壓性腦出血才跌倒，而不是跌倒造成，故 (D) 正確。外傷性出血多在額葉、顳葉皮質（挫傷）或硬腦膜下、蜘蛛膜下腔。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-1_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-1_merged.png"
@@ -10381,14 +10381,14 @@
       "D": "心跳是否加速"
     },
     "answer": "A",
-    "explanation": "109-2 也考過差不多的題目！當心包膜積血速度快或累積到一定量，就可能導致心包腔內壓力上升，進而造成心包膜填塞 (cardiac tamponade)，以下直接比較張力性氣胸與心包膜填塞的臨床特徵：\n\n| 項目 | 張力性氣胸 (tension pneumothorax) | 心包膜填塞 (cardiac tamponade) |\n| :--- | :--- | :--- |\n| **呼吸音** | 患側小聲 or 聽不見 | 不受影響 |\n| **頸靜脈** | 頸靜脈鼓脹 | 頸靜脈鼓脹 |\n| **心音** | 變小聲 | 變小聲 |\n| **Vital sign** | 血壓降低 → 心跳代償加速 | 血壓降低 → 心跳代償加速 |\n| **其他特徵** | 胸痛、血氧降低 | pulsus paradoxus |\n\n另外，心包膜填塞的 Beck's triad: hypotension, distant heart sound, JVP ↑ 也是常見考點，可以連同本題觀念一起記起來！\n\n(A) 根據上表，只有張力性氣胸患側的呼吸音會明顯變小聲甚至聽不到，故呼吸音可以用以鑑別二者\n(B) 肋骨骨折與受傷機制有關，二者不見得一定會或一定不會同時出現肋骨骨折，故不適合作為鑑別診斷的依據\n(C) 二者心音皆會變小聲\n(D) 二者心跳皆會加速",
+    "explanation": "答案 (A)。\n\n**張力性氣胸與心包膜填塞的鑑別**\n\n| 項目 | 張力性氣胸 | 心包膜填塞 |\n| --- | --- | --- |\n| 頸靜脈 | 怒張 | 怒張 |\n| 血壓 | 下降 | 下降（Beck 三聯徵：低血壓、頸靜脈怒張、心音遙遠） |\n| 患側呼吸音 | 消失 | 正常 |\n| 叩診 | 鼓音 | 正常 |\n| 氣管 | 偏向對側（晚期徵象） | 正中 |\n| 心音 | 正常或稍遠 | 遙遠、模糊 |\n| 奇脈 | 可有 | 常見 |\n\n- 兩者都會造成頸靜脈怒張與阻塞性休克，最能幫助鑑別的是單側胸部呼吸音是否消失。\n- 心音是否清晰在吵雜的急診環境中不容易判斷；心跳加快兩者都有。\n- 處置：張力性氣胸立即針刺減壓（第 4–5 肋間腋中線或第 2 肋間鎖骨中線）再放胸管；心包膜填塞以 FAST 確認後心包膜穿刺或開胸。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-2_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-2_merged.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "外科概論",
-    "category": "外科概論"
+    "chapter": "胸腔外科",
+    "category": "胸腔外科"
   },
   {
     "id": "111-2-醫學(五)-3",
@@ -10403,12 +10403,12 @@
       "D": "治療 renal cell carcinoma 可針對 vascular endothelial growth factor（VEGF）"
     },
     "answer": "A",
-    "explanation": "",
+    "explanation": "答案 (A)。\n\n**標靶治療的分子標的**\n\n| 疾病 | 標的 | 藥物 |\n| --- | --- | --- |\n| 慢性骨髓性白血病、費城染色體陽性 ALL | BCR-ABL | Imatinib、dasatinib、nilotinib |\n| 多發性骨髓瘤 | 蛋白酶體、CD38、BCMA | Bortezomib、daratumumab、CAR-T |\n| 大腸直腸癌（RAS 野生型） | EGFR | Cetuximab、panitumumab |\n| 乳癌、胃癌 | HER2 | Trastuzumab、pertuzumab、T-DXd |\n| 腎細胞癌 | VEGF/VEGFR | Bevacizumab、sunitinib、axitinib |\n| 肺腺癌 | EGFR 突變、ALK | Osimertinib、alectinib |\n| GIST | KIT | Imatinib |\n\n- 針對 BCR-ABL 的藥物用於慢性骨髓性白血病，而不是多發性骨髓瘤，故 (A) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "大腸直腸科",
-    "category": "大腸直腸科"
+    "chapter": "外科概論",
+    "category": "外科概論"
   },
   {
     "id": "111-2-醫學(五)-4",
@@ -10423,14 +10423,14 @@
       "D": "縮胃手術"
     },
     "answer": "D",
-    "explanation": "| 不可改變的危險因子 | 可改變的危險因子 |\n| :--- | :--- |\n| • 年紀大<br>• 家族史：hereditary breast and ovarian cancer syndrome (BRCA1 or BRCA2), hereditary breast cancer (PALB2), Familial atypical multiple mole melanoma (FAMMM) syndrome (p16/CDKN2A), familial pancreatitis (PRSS1), Lynch syndrome (MLH1 or MSH2), Peutz-Jeghers syndrome (STK11) | • 抽菸（最重要的危險因子！）<br>• 體重過重<br>• 慢性胰臟炎<br>• 喝酒 |\n| • 男性較女性發生胰臟癌的可能性高，但可能是因為男性抽菸的比例較高 | • 患有糖尿病的人比沒有糖尿病的人更常發現胰臟癌，但糖尿病與胰臟癌的直接關係仍不清楚 |\n\n參考資料：American Cancer Society",
+    "explanation": "答案 (D)。\n\n**胰臟癌的危險因子**\n\n- 抽菸（最重要的可改變危險因子，約 20–25% 的胰臟癌）\n- 遺傳：家族史、BRCA2、PALB2、Lynch 症候群、Peutz-Jeghers 症候群（STK11，終身風險可達 30%）、家族性非典型多痣黑色素瘤（CDKN2A）、遺傳性胰臟炎（PRSS1）\n- 慢性胰臟炎、新發糖尿病、肥胖\n- 囊性腫瘤：胰管內乳突狀黏液腫瘤（IPMN）、黏液性囊腫\n- 年齡、飲酒（大量）、紅肉與加工肉品\n\n縮胃（減重）手術不是胰臟癌的危險因子；減重反而可能降低與肥胖相關的癌症風險。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-4_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-4_merged.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "外科概論",
-    "category": "外科概論"
+    "chapter": "一般外科",
+    "category": "一般外科"
   },
   {
     "id": "111-2-醫學(五)-5",
@@ -10445,7 +10445,7 @@
       "D": "傷口縫合必須堅固以防崩裂"
     },
     "answer": "B",
-    "explanation": "傷口缺氧是最常導致傷口癒合失敗的因素，故高壓氧的發展可協助傷口處提高 PO₂，並且刺激血管新生、促進纖維母細胞及白血球作用以及使皮膚微血管反射 (cutaneous microvascular reflexes) 恢復正常。在進行高壓氧治療前，須先評估傷口處的血液供應是否暢通，有必要時須於高壓氧治療前進行血管再生 (revascularization)。高壓氧治療的適應症包括：細菌感染、潛水夫症 (decompression sickness)、改善分層皮膚移植的狀況 (improvement of STSG take)、促進皮瓣健康 (flap survival and salvage)、急性熱灼傷 (acute thermal burn)、壞死性筋膜炎、慢性傷口（如慢性糖尿病潰瘍）、缺氧傷口、放射性骨壞死 (osteoradionecrosis)、放射線傷害",
+    "explanation": "答案 (B)。\n\n**高壓氧治療在傷口照護的應用**\n\n- 機轉：在 2–3 大氣壓下吸入 100% 氧氣，大幅提高血漿中溶解的氧氣，促進纖維母細胞增生、膠原蛋白合成、血管新生與白血球殺菌，並抑制厭氧菌。\n- 傷口應用：糖尿病足潰瘍（Wagner 3 級以上）、放射線傷害（放射性骨壞死、膀胱炎）、受損的皮瓣與植皮、壞死性軟組織感染、慢性骨髓炎。\n- 最重要的先決條件：傷口本身要有足夠的血液循環；高壓氧是靠血液把高濃度氧氣送到組織，若大血管阻塞，氧氣無法到達傷口，因此應先評估並改善血流（如經皮氧分壓測量 TcPO₂、血管重建）。\n- 禁忌：未處理的氣胸（絕對禁忌）、某些化療藥物（bleomycin、doxorubicin）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-5_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-5_merged.png"
@@ -10467,7 +10467,7 @@
       "D": "移植後淋巴增生性病變（posttransplantation lymphoproliferative disorder）的成因，與人類乳突病毒（humanpapillomavirus）活化有關"
     },
     "answer": "D",
-    "explanation": "(A) 移植後病人預防一些伺機性感染的方法：\n\n| 伺機性感染種類 | 預防方法 |\n| :--- | :--- |\n| **CMV infection** | Ganciclovir, Valganciclovir |\n| **Pneumocystis pneumonia & UTI** | Pneumococcal vaccine, trimethoprim-sulfamethoxazole |\n| **Oral & esophageal fungal infections** | Clotrimazole troche, Nystatin |\n\n(B) 節錄自 Sabiston: “Infection with the polyomavirus BK has been found in association with a progressive nephropathy and ureteral obstruction, and the JC virus has been associated with progressive multifocal leukoencephalopathy.”\n(C) 免疫系統除了在抵禦外來病原體有重要角色，在癌症的偵測中也不可或缺，其中尤以可能被病毒感染驅動的癌症為主。故在腎臟移植後使用免疫抑制劑後，確實可能導致之後癌症的發生率升高\n(D) 移植後淋巴增生性病變 (posttransplantation lymphoproliferative disorder) 與 EBV 比較有關係\n\n參考資料：Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 25",
+    "explanation": "答案 (D)。\n\n**腎臟移植後的感染與癌症**\n\n- 巨細胞病毒：移植後 1–6 個月最常見的病毒感染，依捐受贈者血清狀態給予預防性 valganciclovir（或 ganciclovir、letermovir），或定期監測。\n- BK 多瘤病毒：再活化造成 BK 病毒腎病變，可導致移植腎功能喪失；以減少免疫抑制劑治療。\n- 長期免疫抑制使致癌病毒活化與免疫監測下降，增加癌症：皮膚鱗狀細胞癌（HPV 相關，最常見）、Kaposi 肉瘤（HHV-8）、移植後淋巴增生疾病。\n- 移植後淋巴增生疾病（PTLD）主要與 EB 病毒活化有關（尤其 EBV 血清陰性的受贈者接受陽性器官），而不是人類乳突病毒，故 (D) 錯誤。\n- PTLD 治療：減少免疫抑制劑、rituximab、化療。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-6_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-6_merged.png"
@@ -10489,7 +10489,7 @@
       "D": "女性病人"
     },
     "answer": "C",
-    "explanation": "（111-1 第 47 題也考了胃癌的危險因子相關題目）\n會增加胃癌機率的危險因子整理如下：\n\n| 類別 | 危險因子 |\n| :--- | :--- |\n| **營養相關** | • 低脂肪低蛋白質飲食<br>• 醃漬肉類魚品<br>• 攝取過多含有硝酸鹽的食物<br>• 肥胖<br>• 高合成碳水化合物飲食 (high complex carbohydrate consumption) |\n| **環境相關** | • 食物製備差（如熏製、醃漬）<br>• 食物未經冷卻儲藏<br>• 飲用水衛生不佳 (poor drinking water)<br>• 抽菸、喝酒 |\n| **社經相關** | • 低社經地位 |\n| **疾病相關** | • 曾動過胃部手術<br>• H. pylori 或 EBV 感染<br>• 遺傳、相關家族病史<br>• 腹部曾接受過放射線<br>• 萎縮性胃炎 (atrophic gastritis)<br>• 腺瘤性息肉 (adenomatous polyp) |\n| **其他** | • 男性 |\n\n（整理自 2021 Sabiston Chapter 49）\n\n(A) 應改為醃漬、加工食品\n(B) 未經氯消毒過的水與 gastric cancer 的發生較相關\n(D) 應為男性病人",
+    "explanation": "答案 (C)。\n\n**胃癌的危險因子**\n\n- 幽門桿菌感染（最重要，WHO 第一類致癌物）\n- 飲食：高鹽、醃漬或煙燻食物、亞硝胺，蔬果攝取少\n- 抽菸、飲酒\n- 低社經地位（與幽門桿菌感染率高、衛生環境、飲食習慣有關）\n- 慢性萎縮性胃炎、腸上皮化生、惡性貧血\n- 胃部分切除術後（殘胃癌）\n- 家族史、遺傳（遺傳性瀰漫性胃癌 CDH1、Lynch 症候群）、A 型血\n- 男性（約為女性的 2 倍）\n\n高脂高蛋白飲食主要與大腸直腸癌相關；含氯飲用水與胃癌無明確關係；女性的風險較男性低。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-7_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-7_merged.png"
@@ -10511,14 +10511,14 @@
       "D": "在 pineal region 的 germinoma：男女發生比例為 1：1"
     },
     "answer": "D",
-    "explanation": "參考資料：\n(1) Osorio DS, Allen JC. Management of CNS germinoma. CNS Oncol. 2015;4(4):273-9. (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6088312/)\n(2) National Cancer Institute: Childhood Central Nervous System Germ Cell Tumors Treatment\n\n(A) 在 (1) 文章提到 “Intracranial germ cell tumors comprise about 3% of pediatric brain tumors. 90% of cases are diagnosed before 20 years of age.” “Germinomas, comprise two-thirds of intracranial germ cell tumors.” 另在 (2) 中也提到 “In Western countries, GCTs represent 3% to 4% of primary brain tumors in children, with a peak incidence from age 10 to 19 years. In Japan and other Asian countries, a series reported the incidence of CNS GCTs to be approximately 15% of all pediatric CNS tumors.” 題目並未特別註明為哪個地區的佔比，但從資料 (1) 大致計算，此選項的 1～2% 還算是合理的數據\n(B) 承上，此為正確選項\n(C) CNS GCTs 最好發於 pineal region（約 45%），其次為 suprasellar region (30%)\n(D) Germinoma 在男性的發生比例略高於女性 (1.88:1)，但在 pineal region 中男性的發生比例尤為明顯地高出女性（可能高達 13:1）\n\n雖然此題的 (A) 選項感覺出得不是很詳盡，但 (D) 選項明顯錯誤，故答案為 (D)",
+    "explanation": "答案 (D)。\n\n**中樞神經生殖細胞瘤（germinoma）**\n\n- 佔原發性中樞神經腫瘤約 1–2%（東亞較高），90% 以上發生在 20 歲以前（多在 10–20 歲）。\n- 好發部位：松果體區（約 50%）、鞍上區（約 30%），也可同時出現（雙病灶）。\n- 性別：松果體區明顯以男性為主（約 10：1 以上），鞍上區男女相近或女性較多，故 (D) 錯誤。\n- 表現：\n  - 松果體區：阻塞性水腦（頭痛嘔吐）、Parinaud 症候群（向上凝視麻痺、瞳孔光近分離）\n  - 鞍上區：尿崩症（常最早出現）、腦下垂體功能低下、視野缺損\n- 腫瘤標記：純生殖細胞瘤的 AFP 正常、β-hCG 正常或輕度上升；AFP 或 β-hCG 明顯上升代表非生殖細胞瘤性生殖細胞腫瘤。\n- 對放射治療與化療非常敏感，5 年存活率 > 90%。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-8_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-8_merged.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "大腸直腸科",
-    "category": "大腸直腸科"
+    "chapter": "神經外科",
+    "category": "神經外科"
   },
   {
     "id": "111-2-醫學(五)-9",
@@ -10533,14 +10533,14 @@
       "D": "pontine gliomas 常以 multiple cranial nerve palsies 表現"
     },
     "answer": "B",
-    "explanation": "(A)(C)(D) 都是從教科書中直接照翻出的內容\n(B) Midbrain glioma（包括 tectal & tegmental）的存活率通常比 pontine glioma 好\n\n參考資料：Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 68",
+    "explanation": "答案 (B)。\n\n**兒童腦幹膠質瘤**\n\n- 佔兒童腦瘤約 10–20%。\n\n| 類型 | 特點 | 預後 |\n| --- | --- | --- |\n| 瀰漫性內生性橋腦膠質瘤（DIPG，H3 K27M 突變的瀰漫性中線膠質瘤） | 最常見，5–10 歲，短期內出現多發性腦神經麻痺（VI、VII）、長徑束徵象、共濟失調 | 極差，中位存活不到 1 年 |\n| 頂蓋（tectal）膠質瘤 | 低惡性度，常以中腦導水管阻塞造成的水腦表現 | 很好，常只需處理水腦 |\n| 頸延髓、背側外生型膠質瘤 | 多為低惡性度 | 較好，可部分切除 |\n\n橋腦（瀰漫型）膠質瘤的預後是腦幹膠質瘤中最差的，比中腦膠質瘤差，故 (B) 錯誤。\n\n- DIPG 以臨床與 MRI 診斷，以放射治療為主（暫時改善症狀）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-9_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-9_merged.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "神經外科",
+    "category": "神經外科"
   },
   {
     "id": "111-2-醫學(五)-10",
@@ -10555,7 +10555,7 @@
       "D": "可能是一個轉移性腫瘤出血"
     },
     "answer": "A",
-    "explanation": "此題考的是腦實質出血 (intracerebral hemorrhage)，最常見的成因為高血壓進而導致動脈瘤破裂出血，最常出血的位置為殼核 (putamen)；第二常見的成因為類澱粉血管病變出血 (amyloid angiopathy)，較好發於老年人，多於大腦白質出血，常有反覆出血的情況；其他成因包括動靜脈畸形出血、腦腫瘤出血、創傷性腦損傷等。出現 ICH 時，一般會先採取保守治療，原 SBP 介於 150~220 mmHg 者建議降血壓並控制 SBP 於 130~150 mmHg 之間；平時有服用抗凝血劑者須立即停用、服用抗血小板藥物且需進行緊急手術者需評估輸注血小板的需要以減低術後出血風險；已知有癲癇病史、意識狀態改變、腦電圖記錄到癲癇發作者可給予抗癲癇藥物以減少重複癲癇對於腦部的傷害\n\n(A) ICH 需要手術的適應症如下：\n(1) 小腦天幕上出血 >20~30 mL 且 GCS 5~12 分 → 微創血腫清除術 + 內視鏡或立體定向抽吸術；有嚴重症狀者考慮開顱手術拿掉血塊減壓\n(2) 出血流到腦室 (intraventricular hemorrhage, IVH) → 腦室外引流 (external ventricular drain, EVD)",
+    "explanation": "答案 (A)。\n\n**腦葉出血的原因與處置**\n\n- 本題 70 歲男性突然頭痛、頭暈、噁心嘔吐，CT 顯示腦葉（皮質下）出血。\n- 腦葉出血的原因：\n  - 老年人：腦類澱粉血管病變（最常見）\n  - 年輕人：動靜脈畸形、海綿狀血管瘤\n  - 腫瘤出血（轉移性腫瘤：黑色素瘤、腎細胞癌、絨毛膜癌、甲狀腺癌、肺癌；膠質母細胞瘤）\n  - 抗凝血劑、凝血疾病、靜脈竇栓塞、可逆性腦血管收縮症候群\n- 處置：大多數自發性腦出血以內科治療為主（控制血壓、逆轉抗凝血、預防併發症）；STICH 研究顯示常規手術移除血塊並沒有改善預後。手術適應症包括小腦出血合併神經功能惡化或腦幹受壓、表淺腦葉出血合併神經學惡化、有明顯占位效應。\n\n因此「須立即手術移除血塊，否則會有生命危險」並不正確，故 (A) 錯誤。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-10_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-10_merged.png"
@@ -10580,14 +10580,14 @@
       "D": "前位椎間盤切除減壓手術，術後病人可能發生聲音沙啞、喝水容易嗆到、和吞嚥困難的風險"
     },
     "answer": "C",
-    "explanation": "(A)(B) 頸椎退化性疾病（包括頸椎間盤病變、頸椎狹窄、骨關節炎等），保守治療為第一線選擇；對病情嚴重、影響生活品質或工作、保守治療無效或反覆發作者，再考慮手術治療\n\n(C) 此選項過於武斷，手術也是有極限的，無法完全回復因過度使用和年齡帶來的影響\n\n(D) 前位椎間盤切除減壓手術乃從頸部前側剝離層層組織後切除椎間盤以放鬆神經的手術。若術中傷到 recurrent laryngeal nerve，便會造成聲音沙啞；傷及食道使其腫脹會造成暫時性的吞嚥困難",
+    "explanation": "答案 (C)。\n\n**頸椎退化性疾病的治療**\n\n- 急性頸椎神經根病變：大部分（約 75–90%）可藉保守治療改善：休息、短期頸圈、NSAIDs、神經痛藥物、復健、硬脊膜外注射。\n- 手術適應症：保守治療 6–12 週仍無改善、進行性神經學缺損、脊髓病變（頸椎脊髓病變：手部笨拙、步態不穩、反射增強）。\n- 手術方式：前位頸椎間盤切除融合（ACDF）、人工椎間盤、後位椎板成形或椎板切除。\n- 手術結果：神經根痛（手臂痛）的改善率高，但頸部疼痛的改善有限；脊髓病變的手術目的是阻止惡化，已造成的神經損傷不一定能完全恢復，因此不能保證肩頸疼痛與神經症狀都能全部改善，故 (C) 最不適當。\n- 前位頸椎手術的併發症：吞嚥困難、聲音沙啞（返喉神經損傷）、喝水嗆到、食道或氣管受傷、血腫壓迫呼吸道、相鄰節段退化。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-11_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-11_merged.png"
     ],
-    "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "section": "第四篇 其他科",
+    "chapter": "骨科",
+    "category": "骨科"
   },
   {
     "id": "111-2-醫學(五)-12",
@@ -10602,14 +10602,14 @@
       "D": "可藉由切除枕骨下骨（suboccipital craniectomy）與第一頸椎椎弓來治療"
     },
     "answer": "A",
-    "explanation": "Chiari herniation/malformation 指的是後顱窩過小的畸形，可分為 4 種類型：\n\n| 類型 | 特徵與臨床表現 |\n| :--- | :--- |\n| **Chiari I<br>（最常見）** | • 單純小腦扁桃體下疝（小腦扁桃體通過枕骨大孔疝脫到椎管）<br>• 可能產生 syringomyelia（脊髓空洞症）或 hydromyelia（脊髓積水） |\n| **Chiari II** | • 小腦扁桃體下疝，甚至連腦幹、第四腦室等都發生疝脫<br>• 常合併 myelomeningocele<br>• 合併其他腦脊柱異常 |\n| **Chiari III** | • 小腦扁桃體下疝 + 腦膨出 or 顱頸區畸形<br>• 合併神經學異常 |\n| **Chiari IV** | • 小腦發育不全，不算是真正的小腦下疝，故是否為 Chiari malformation 之一仍有疑慮 |\n\n(A) Chiari I malformation 應只有小腦扁桃體 (cerebellar tonsil) 向下疝出，腦幹仍正常位於後顱窩內\n(D) 可藉由切除枕骨下骨 (suboccipital craniectomy) 與第一頸椎椎弓達到 craniocervical decompression",
+    "explanation": "答案 (A)。\n\n**Chiari 第一型畸形**\n\n- 小腦扁桃體向下疝出枕骨大孔 ≥ 5 mm，延髓位置通常正常；延髓與第四腦室一起下移、合併脊髓脊膜膨出的是 Chiari 第二型，故 (A) 錯誤。\n- 常在青少年或成人才出現症狀：\n  - 枕部頭痛，咳嗽、用力或彎腰時加劇（Valsalva 誘發）\n  - 脊髓空洞症（約 30–70%）：披肩狀痛溫覺喪失、手部肌肉萎縮、四肢無力麻木\n  - 腦幹或小腦症狀：眼球震顫（向下跳動）、吞嚥困難、共濟失調、睡眠呼吸中止\n  - 脊椎側彎\n- 診斷：MRI。\n- 治療：有症狀者以後顱窩減壓（枕骨下顱骨切除 + 第一頸椎椎弓切除，常合併硬腦膜擴大成形）治療。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-12_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-12_merged.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "神經外科",
+    "category": "神經外科"
   },
   {
     "id": "111-2-醫學(五)-13",
@@ -10624,7 +10624,7 @@
       "D": "往往不用開刀，而藉由血管介入治療"
     },
     "answer": "D",
-    "explanation": "此題考的是外傷所造成的頸動脈海綿竇廔管 (traumatic carotid-cavernous fistula, CCF)。CCF 為頸動脈與眼後靜脈海綿竇不正常吻合的疾病，可分為 high flow 的 direct type 及 low flow 的 indirect type。典型病徵包括眼球脈動膨脹鼓出 (pulsating exophthalmos)、眼結膜紅腫 (conjunctival chemosis)、眼壓升高（青光眼）、視力減退、重影、眼睛疼痛、眼瞼下垂、眼眶雜音 (orbital bruits)、頭痛等\n\n| 項目 | Direct type 直接型 - Barrow type A | Indirect type 間接型 (Barrow type B) | Indirect type 間接型 (Barrow type C) | Indirect type 間接型 (Barrow type D) |\n| :--- | :--- | :--- | :--- | :--- |\n| **解剖** | 通常為頸動脈與單側海綿竇間僅有單一連結 | 內頸動脈的腦膜分支與海綿竇間產生連結 | 外頸動脈的腦膜分支與海綿竇間產生連結 | 內、外頸動脈的腦膜分支與海綿竇間產生連結 |\n| **臨床表徵** | 較常出現典型病癥（如上述） | 較少出現典型病癥 | 較少出現典型病癥 | 較少出現典型病癥 |\n| **流速** | 通常為高流速 (high flow) 廔管 | 通常為低流速 (low flow) 廔管 | 通常為低流速 (low flow) 廔管 | 通常為低流速 (low flow) 廔管 |\n| **成因** | 通常由頭部或臉部外傷所致 | 大多為不明成因 (idiopathic) 或之前存在微小的血管疾病所致 | 大多為不明成因 (idiopathic) 或之前存在微小的血管疾病所致 | 大多為不明成因 (idiopathic) 或之前存在微小的血管疾病所致 |\n| **診斷** | • CT：主要用已排除其他原因<br>• non-contrast MRI/MRA：可作為診斷工具<br>• 血管攝影：為診斷腦部血管變化最準確的影像，但為侵入性檢查 | • CT：主要用已排除其他原因<br>• non-contrast MRI/MRA：可作為診斷工具<br>• 血管攝影：為診斷腦部血管變化最準確的影像，但為侵入性檢查 | • CT：主要用已排除其他原因<br>• non-contrast MRI/MRA：可作為診斷工具<br>• 血管攝影：為診斷腦部血管變化最準確的影像，但為侵入性檢查 | • CT：主要用已排除其他原因<br>• non-contrast MRI/MRA：可作為診斷工具<br>• 血管攝影：為診斷腦部血管變化最準確的影像，但為侵入性檢查 |\n| **處置** | 靜脈栓塞為首選、放射線治療（如：珈瑪刀） | 大多會自行消失<br>需手術時，首選經靜脈栓塞 (transvenous embolization) | 大多會自行消失<br>需手術時，首選經靜脈栓塞 (transvenous embolization) | 大多會自行消失<br>需手術時，首選經靜脈栓塞 (transvenous embolization) |\n\n(A) 外傷使頸動脈受損，與海綿竇產生不正常相連，形成頸動脈海綿竇廔管所致\n(B) 常因頭部或臉部外傷導致\n(C) 外傷造成的 direct type CCF 通常為高流速 (high flow) 動靜脈廔管\n(D) 若需手術，治療首選為藉由血管介入治療進行靜脈栓塞，也可進行放射線治療，通常不需要開刀",
+    "explanation": "答案 (D)。\n\n**外傷性頸動脈海綿竇瘻管**\n\n- 頭部外傷（顱底骨折）撕裂海綿竇段內頸動脈，使動脈血直接流入海綿竇，屬於直接型、高流速瘻管，故 (C) 錯誤；與總頸動脈分支處的血栓或頸椎旋轉無關，故 (A)(B) 錯誤。\n- 可在外傷後數天至數週出現：\n  - 搏動性突眼、結膜充血水腫（紅眼）、眼睛疼痛\n  - 眼眶或顳部血管雜音\n  - 複視（第 III、IV、VI 對腦神經）、眼壓上升、視力下降\n- 影像：上眼靜脈擴張、海綿竇擴大；以腦血管攝影確診。\n- 治療：以血管內介入治療為主（經動脈以可脫式氣球、線圈或覆膜支架封閉瘻管，或經靜脈栓塞），通常不需開刀，故 (D) 正確；視力快速下降時屬於急症。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-13_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-13_merged.png"
@@ -10646,7 +10646,7 @@
       "D": "血管縫合太鬆導致中膜（tunica media）外露，也是造成術後栓塞的原因"
     },
     "answer": "A",
-    "explanation": "(A) 研究並未顯示顯微組織皮瓣移植後使用抗凝血藥物可增進存活率\n\n(B)(C)(D) 都是從教科書中直接照翻出的內容\n\n(D) 另外，顯微組織皮瓣移植的術後栓塞原因，除了血管縫合太鬆導致 tunica media 外露之外，血管縫合太緊而使得血管撕裂、有過多的 subendothelial exposure 或縫合到血管壁使其阻塞也都是可能出現的 primary thrombosis 成因；secondary thrombosis 成因則包括血管 kinking 或被 hematoma/edema 壓迫造成阻塞\n\n參考資料：Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 69",
+    "explanation": "答案 (A)。\n\n**顯微游離皮瓣的術後照護**\n\n- 栓塞多發生在術後 48–72 小時內（尤其 24 小時內），及早發現並重新探查，救回皮瓣的機會較高；靜脈栓塞比動脈栓塞常見。\n- 監測：皮膚顏色（蒼白代表動脈問題，暗紫代表靜脈鬱血）、溫度、微血管回充時間、針刺出血的顏色與速度（鮮紅緩慢 vs 暗紅快速）、手持或植入式都卜勒。\n- 栓塞原因：血管吻合技術不良（縫合太鬆或太緊、中膜或外膜暴露、內膜損傷）、血管扭轉或受壓、血腫、低血壓、血管痙攣。\n- 抗凝血藥物：術後使用肝素等藥物並沒有證據能顯著增加皮瓣存活率，且增加血腫與出血風險，因此不是常規必用藥物，故 (A) 錯誤；各中心常使用 aspirin 或低劑量肝素作為選擇性預防。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-14_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-14_merged.png"
@@ -10668,14 +10668,14 @@
       "D": "①②③④"
     },
     "answer": "C",
-    "explanation": "① ④ 手部屈曲肌腱可劃分為五區，其中 carpal tunnel 屬於第四區：\n\n| 區域 | 定義 | 特徵 |\n| :--- | :--- | :--- |\n| **Zone 1** | 比屈指淺肌 (FDS) 附著部遠端的部分 (distal to flexor digitorum superficialis insertion) | 內含深屈肌腱，當肌腱遠段端太短時，可考慮切除遠端肌腱而將近端肌腱前移並固定於骨頭上 |\n| **Zone 2** | A1 pulley（第一環狀帶，位於手指手掌交界處）到 FDS 附著部 | 為屈指深肌 (FDP) 與屈指淺肌 (FDS) 肌腱交錯處，易產生沾黏，為手術最困難、預後最差處，故又稱為 Bunnell no-man's land（無人區） |\n| **Zone 3** | 橫腕韌帶 (transverse carpal ligament) 遠端到 A1 pulley 起點處 | 縫合預後僅次於 zone 5 |\n| **Zone 4** | carpal tunnel（腕隧道） | 內含多條肌腱與正中神經 (median nerve)，肌腱損傷常會伴隨正中神經損傷 |\n| **Zone 5** | 比 carpal tunnel 近端的部分 | 無論初級縫合或延遲初級縫合預後均佳 |\n\n② 1, 2, 4 區的肌腱均被滑膜鞘 (synovial sheath) 環繞且包含於半剛性的纖維骨管道中 (semirigid fibro-osseous canal)；3, 5 區則被腱旁組織 (paratendon) 包覆\n③ 被腱旁組織 (paratendon) 包覆處，由於腱旁組織可提供豐富的血流而癒合速度較快\n\n參考資料：Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 70",
+    "explanation": "答案 (C)。\n\n**手部屈肌腱損傷的分區**\n\n| 分區 | 範圍 |\n| --- | --- |\n| I | 屈指淺肌腱止點遠端（只有屈指深肌腱） |\n| II | A1 滑車近端到屈指淺肌腱止點（「無人之地」，兩條肌腱在纖維骨鞘內，修復最困難） |\n| III | 腕隧道遠端到 A1 滑車近端（手掌） |\n| IV | 腕隧道內 |\n| V | 腕隧道近端（前臂） |\n\n- ① 屈肌腱可分為五區（拇指另有分區）。\n- ② 滑膜鞘（腱鞘）包覆的區域：第 I、II 區（手指纖維骨鞘內）與第 IV 區（腕隧道內的屈肌腱共同滑膜鞘）。\n- ③ 錯誤：沒有 paratenon（腱旁組織）、位於滑膜鞘內的肌腱，血液供應依賴腱紐與滑液擴散，受傷後癒合較慢且容易沾黏。\n- ④ 腕隧道屬於第 IV 區。\n\n正確的是 ①②④。\n\n**補充**：屈肌腱修復後需早期保護性活動，以減少沾黏並維持滑動。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-15_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-15_merged.png"
     ],
-    "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "section": "第四篇 其他科",
+    "chapter": "骨科",
+    "category": "骨科"
   },
   {
     "id": "111-2-醫學(五)-16",
@@ -10690,7 +10690,7 @@
       "D": "5 歲前可接受唇或鼻修正術（lip or nose revision）"
     },
     "answer": "D",
-    "explanation": "(A) 一般來說，唇黏合術適合的時機大概在三個月左右。唇修補一般還是遵守所謂的「十的定律」：年齡 10 週、體重 10 磅（約 4.5 公斤）、血紅素高於 10，且白血球計數小於 10,000。Sabiston 裡沒有明確寫出 lip adhesion, lip & primary nose repair, palate repair 及 lip or nose revision 個別時間。因此 (A) 選項筆者認為有討論空間\n(B)(C) 皆為正確選項\n(D) 若有需要進行 lip or nose revision，通常會在 5 歲之後",
+    "explanation": "答案 (D)。\n\n**唇顎裂的修復時程**\n\n| 時間 | 處置 |\n| --- | --- |\n| 出生後即開始 | 餵食指導、鼻齒槽塑形（NAM） |\n| 1–2 個月 | 唇黏合術（較寬裂隙時的初步手術） |\n| 約 3–6 個月（「10 原則」：10 週、10 磅、Hb 10） | 唇裂修補與初步鼻整形 |\n| 9–18 個月 | 顎裂修補（在說話發展前完成） |\n| 3–5 歲 | 腭咽閉鎖不全手術（咽瓣或咽成形術） |\n| 7–11 歲（犬齒萌發前） | 齒槽骨植骨 |\n| 青春期後至骨骼成熟 | 正顎手術、最終鼻整形 |\n\n- 唇或鼻的修正手術時機依需要而定；明顯畸形可在入學前（約 4–6 歲）修正，以減少心理社會影響；最終的鼻整形則需等到青春期後鼻子發育完成。參考答案認為「5 歲前可接受唇或鼻修正術」的時程描述不正確。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-16_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-16_merged.png"
@@ -10712,14 +10712,14 @@
       "D": "紅寶石雷射（ruby laser）"
     },
     "answer": "C",
-    "explanation": "| 病灶種類 & 雷射機制 | 雷射種類 | 作用 |\n| :--- | :--- | :--- |\n| **Vascular lesions**<br>• 利用 oxyhemoglobin 吸收綠光及黃光的特性，可用以治療皮膚血管相關病灶 | Pulsed yellow dye laser (585~595 nm) | 高能量、duration 短，可使溫度快速上升，導致血管擴張 |\n| | Potassium titanyl phosphate (KTP) laser (532 nm、綠光) | duration 較長，較易導致 coagulation |\n| | Diode laser（800 nm，雷射二極體） | 會被 oxyhemoglobin 與 melanin 吸收，可用於 vascular lesion |\n| **Pigmented lesions**<br>• 選擇標的為 melanin 的雷射 | KTP laser (532 nm) | • 波長較短者適合治療上皮色素沉澱 (epidermal pigmentation)<br>• 如：雀斑 (freckles)、曬斑 (solar lentigines)、唇黑色素斑 (labial melanocytic macule) |\n| | Ruby laser (694 nm), Alexandrite laser (755 nm), Diode laser (800 nm) | • 波長較長者適合治療真皮色素沉澱 (dermal pigmentation)<br>• 如：咖啡牛奶斑、太田氏母斑 (nevus of Ota)、伊藤氏母斑 (nevus of Ito) |\n\n參考資料：Grabb and Smith's Plastic Surgery, 7th edition (2014)\n\n(A) Nd:YAG laser 可用於除毛、除刺青，也可用於一些 vascular lesions\n(B) CO₂ laser 通常用於表皮良性病灶\n(C) Pulsed-dye laser 為 port wine stain 的首選治療\n(D) Ruby laser 可用於除毛、除刺青、去除真皮色素沉澱",
+    "explanation": "答案 (C)。\n\n**葡萄酒色斑（微血管畸形）的治療**\n\n- 首選脈衝染料雷射（585–595 nm）：選擇性被血紅素吸收，破壞擴張的微血管，對周圍組織傷害小（選擇性光熱分解）。\n- 越早治療（嬰兒期開始）效果越好；通常需要多次治療。\n- 較厚、結節化或對脈衝染料雷射反應差者：可考慮長脈衝 Nd:YAG（1064 nm，穿透較深）、翠綠寶石雷射或光動力治療。\n- 臉部三叉神經 V1 分布的葡萄酒色斑需排除 Sturge-Weber 症候群（青光眼、軟腦膜血管瘤、癲癇）。\n\n| 其他雷射 | 主要用途 |\n| --- | --- |\n| 二氧化碳雷射 | 汽化組織、換膚、去除表皮病灶 |\n| 紅寶石雷射（Q-switched） | 色素病灶、刺青 |",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-17_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-17_merged.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "整形外科",
+    "category": "整形外科"
   },
   {
     "id": "111-2-醫學(五)-18",
@@ -10734,7 +10734,7 @@
       "D": "增生期（proliferation）"
     },
     "answer": "B",
-    "explanation": "以下 skin grafting 階段整理自 Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Basis (2021). Chapter 69\n\n| 階段 | 特徵與過程 |\n| :--- | :--- |\n| **(1) Serum imbibition (= plasmatic circulation) 浸潤期** | • 發生於植皮後 48hr 內<br>• graft 吸收來自 recipient bed capillaries 的養分 |\n| **(2) Revascularization 血管再生期**<br>• 發生於植皮 48 hr 之後<br>• 包含右述兩個過程 | **primary process: neovascularization**：recipient bed 處的血管長入 graft<br><br>**secondary process: inosculation**：graft 和 recipient 處的血管相互吻合 (anastomoses) |\n| **(3) Organization** | • 此階段在 graft-bed 上血管開始吻合後產生一纖維蛋白介面後立刻開始，為固定 graft 的過程<br>• 植皮後第 7 天開始被 fibroblast 取代<br>• 約植皮後 10~14 天就會與植皮處的組織床貼合 |\n\nSabiston 中提到，最常見導致 skin graft failure 的原因為 graft 下產生 hematoma，進而影響 revascularization 的發生，但在 Sabiston 中又將 revascularization 這個階段細分為 neovascularization 及 inosculation，感覺無法在此題中 (B)(C) 間選出一個較適合的答案\n\nGrabb and Smith's Plastic Surgery, 7th edition 中對 skin grafting 各階段的闡述與 Sabiston 有些微差異：\n\n| 階段 | 特徵 |\n| :--- | :--- |\n| **(1) Serum imbibition 浸潤期** | • 發生於植皮後，並持續 24~48hr<br>• 形成 fibrin layer<br>• graft 吸收來自 recipient bed capillaries 的養分 |\n| **(2) Inosculatory phase 黏合期** | • graft 和 recipient 處的血管相互吻合 (anastomoses) |\n| **(3) Revascularization 血管再生期** | • 透過 “kissing capillaries” 進行血管再生 |\n\n內文提到，導致 graft failure 的原因包括 graft 底下血液/血漿堆積而影響 revascularization、動到 graft 使其無法貼合 recipient bed 而影響 revascularization\n\n綜合上述，筆者認為本題的答案應該 (B)(C) 都開放",
+    "explanation": "答案 (B)。\n\n**皮膚移植的存活階段**\n\n| 階段 | 時間 | 機轉 |\n| --- | --- | --- |\n| 血漿浸潤期（imbibition） | 0–48 小時 | 移植皮片靠擴散吸收受區的血漿營養 |\n| 血管吻合期（inosculation） | 48–72 小時 | 移植皮片的微血管與受區的微血管連接 |\n| 血管再生期（revascularization） | 3–7 天以後 | 受區的新生血管長入移植皮片 |\n\n- 皮膚移植失敗最常見的原因：皮片下的血腫或血清腫（最常見）、剪力移動、感染、受區血流不良（裸露骨頭、肌腱、放射後組織）。\n- 這些因素主要在血管吻合期（植皮後約 48–72 小時）阻礙皮片與受區血管連接，因此此期最容易造成植皮失敗。\n- 預防：仔細止血、加壓敷料（tie-over bolster）或負壓傷口治療、固定避免移動。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-18_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-18_merged.png"
@@ -10756,14 +10756,14 @@
       "D": "延遲重建（delayed reconstruction）是指乳癌得到控制後再進行重建，經常需要等 2 年"
     },
     "answer": "D",
-    "explanation": "(A) 這個選項沒有問題，每個病人都有知道所有治療方案的權利\n(B) Sabiston 中提到 “Prosthetic breast reconstruction does not hinder detection of local or regional recurrence.” 有無植入假體都不會影響腫瘤復發的發生或偵測\n(C) 乳房重建手術包括植入物重建、自體組織重建 & 複合式義乳合併組織重建，通常皆須複雜精細的多步驟手術以達最佳結果\n(D) 延遲重建是指患者沒有在乳房切除的同次手術中進行乳房重建，而是待乳癌治療（包括化療與放療）結束後再進行重建，一般建議於化療結束 1 個月後、放療結束 3~6 個月後再進行；以下比較立即性重建與延遲重建：\n\n| 項目 | 立即性重建 (immediate reconstruction) | 延遲重建 (delayed reconstruction) |\n| :--- | :--- | :--- |\n| **定義** | 乳房切除後，於同次手術中進行立即重建 | 在手術及其他治療告一段落後，若覺得有必要再施行重建手術 |\n| **優點** | • 減輕病人因失去乳房而造成的殘缺感、心理創傷<br>• 外觀較術前比較有一致性<br>• 不影響乳癌再發之偵測率或輔助性化療 | • 癌症切除後，若合併放射治療，並不影響後續進行重建的區域<br>• 病人可有較長時間決定重建方式 |\n| **缺點** | • 相較單純乳房切除，需較長的手術麻醉時間、住院天數及恢復時間<br>• 按重建方法的不同，除了乳房切除傷口外可能有其他手術傷口<br>• 會延遲後續化療，故較不適合較晚期的乳癌患者 | • 需額外手術及住院進行重建<br>• 若胸部已形成疤痕組織或攣縮會對重建造成困難 |",
+    "explanation": "答案 (D)。\n\n**乳癌切除後的乳房重建**\n\n- 所有接受乳房切除的病人都應被告知重建的選擇（美國有法律保障）。\n- 時機：\n  - 立即重建：與乳房切除同時進行，美觀效果較好、手術次數較少\n  - 延遲重建：在術後輔助治療（化療、放療）完成、傷口癒合後才進行，通常在放療結束後 6–12 個月，而不是需要等 2 年，故 (D) 錯誤\n- 方式：\n  - 義乳重建（組織擴張器 + 義乳）：不會影響腫瘤復發的偵測（義乳放在胸大肌下或上，局部復發多在皮膚或皮下）\n  - 自體組織重建（DIEP、TRAM、闊背肌皮瓣）：放療後較適合\n- 為了得到最佳結果，乳房重建常需多階段手術（乳頭乳暈重建、對側對稱手術、修整）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-19_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-19_merged.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "整形外科",
+    "category": "整形外科"
   },
   {
     "id": "111-2-醫學(五)-20",
@@ -10778,7 +10778,7 @@
       "D": "為預防猝死，在無症狀的嚴重主動脈瓣狹窄之病人，可進行主動脈瓣置換手術"
     },
     "answer": "D",
-    "explanation": "主動脈瓣置換手術的適應症，包括：(1) 無症狀嚴重主動脈瓣狹窄且 LVEF<50% (2) 無症狀中等程度以上 (at least moderate) 主動脈瓣狹窄但剛好有其他原因要進行開心手術時 (3) 有症狀的嚴重主動脈瓣狹窄。(嚴重主動脈瓣狹窄 severe AS : Doppler aortic velocity>4 m/sec 或 mean pressure gradient>40 mmHg 或 valve area<1 cm²) 目前並不建議將主動脈瓣置換手術作為預防猝死的手段",
+    "explanation": "答案 (D)。\n\n**主動脈瓣狹窄的瓣膜置換適應症（ACC/AHA）**\n\n| 情況 | 建議 |\n| --- | --- |\n| 有症狀的嚴重主動脈瓣狹窄（喘、心絞痛、暈厥） | 置換（I） |\n| 無症狀嚴重 AS 合併左心室射出分率 < 50% | 置換（I） |\n| 嚴重 AS 且因其他心臟手術（如冠狀動脈繞道）開胸 | 同時置換（I） |\n| 中度 AS 且因其他心臟手術開胸 | 可考慮同時置換（IIa） |\n| 無症狀的極嚴重 AS（流速 ≥ 5 m/s）、運動測試出現症狀或血壓下降、BNP 明顯上升、快速進展 | 可考慮置換（IIa） |\n| 無症狀、左心室功能正常的嚴重 AS | 追蹤（猝死風險約每年 1%，低於手術風險） |\n\n單純為了預防猝死，對所有無症狀、左心室功能正常的嚴重主動脈瓣狹窄病人進行瓣膜置換並不適當，故 (D) 最不適當。\n\n**補充**：可依年齡、手術風險選擇外科瓣膜置換或經導管主動脈瓣置換（TAVI）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(五)-20_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-20_merged.png"
