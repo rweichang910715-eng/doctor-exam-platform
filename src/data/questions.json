@@ -346,8 +346,8 @@
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
-    "chapter": "肝膽腸胃科",
-    "category": "肝膽腸胃科",
+    "chapter": "急診內科",
+    "category": "急診內科",
     "has_explanation": true,
     "book_page": 174
   },
@@ -1714,8 +1714,8 @@
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
-    "chapter": "新陳代謝科",
-    "category": "新陳代謝科",
+    "chapter": "急診內科",
+    "category": "急診內科",
     "has_explanation": true,
     "book_page": 176
   },
@@ -3702,8 +3702,8 @@
       "/explanations/cropped/111-1-醫學(五)-5_merged.png"
     ],
     "section": "第二篇 外科學",
-    "chapter": "小兒外科",
-    "category": "小兒外科"
+    "chapter": "移植科",
+    "category": "移植科"
   },
   {
     "id": "111-1-醫學(五)-6",
@@ -3850,8 +3850,8 @@
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "大腸直腸科",
-    "category": "大腸直腸科"
+    "chapter": "一般外科",
+    "category": "一般外科"
   },
   {
     "id": "111-1-醫學(五)-13",
@@ -3890,8 +3890,8 @@
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "外科概論",
+    "category": "外科概論"
   },
   {
     "id": "111-1-醫學(五)-15",
@@ -4216,8 +4216,8 @@
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-30_merged.png",
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "心臟外科",
-    "category": "心臟外科"
+    "chapter": "小兒外科",
+    "category": "小兒外科"
   },
   {
     "id": "111-1-醫學(五)-31",
@@ -4256,8 +4256,8 @@
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-32_merged.png",
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "胸腔外科",
-    "category": "胸腔外科"
+    "chapter": "心臟外科",
+    "category": "心臟外科"
   },
   {
     "id": "111-1-醫學(五)-33",
@@ -4376,8 +4376,8 @@
     "explanation_image": null,
     "explanation_images": null,
     "section": "第二篇 外科學",
-    "chapter": "一般外科",
-    "category": "一般外科"
+    "chapter": "外科概論",
+    "category": "外科概論"
   },
   {
     "id": "111-1-醫學(五)-39",
@@ -4735,9 +4735,9 @@
     "explanation": "答案 (C)。\n\n**軟組織腫瘤**\n\n- 硬纖維瘤（desmoid tumor，侵襲性纖維瘤病）：局部侵襲性強但不轉移；腹腔外、腹壁或腹腔內（家族性腺瘤性息肉症）。\n- 第一型神經纖維瘤病又稱 von Recklinghausen 病。\n- 惡性周邊神經鞘瘤：約一半發生在第一型神經纖維瘤病病人（多由叢狀神經纖維瘤惡性轉化），比由單一良性神經纖維瘤轉變而來的多。\n- 成人軟組織肉瘤中，最常見的是未分化多形性肉瘤與脂肪肉瘤，其次為平滑肌肉瘤；滑膜肉瘤較少見（約 5–10%，好發於年輕人的關節附近，帶有 t(X;18) SS18-SSX 融合），並非第二常見，故 (C) 最不適當。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "外科概論",
+    "category": "外科概論"
   },
   {
     "id": "111-1-醫學(五)-57",
@@ -4975,9 +4975,9 @@
     "explanation": "答案 (D)。\n\n**脊髓損傷位置與膀胱功能**\n\n| 損傷位置 | 膀胱表現 |\n| --- | --- |\n| 橋腦以上（中風、腦部疾病） | 逼尿肌過動，括約肌協調正常 |\n| 橋腦至薦髓之間（頸髓、胸髓、上腰髓，上運動神經元型） | 逼尿肌反射亢進，常合併逼尿肌–括約肌協調不良（T6 以上還可能有自主神經反射異常） |\n| 薦髓（S2–S4）或馬尾、周邊神經（下運動神經元型） | 逼尿肌無反射（無收縮），尿滯留、溢流性尿失禁 |\n\n- 排尿反射中樞位於薦髓 S2–S4；完全損傷此處會使排尿反射弧中斷，逼尿肌失去收縮能力，不會造成逼尿肌反射亢進。\n- 注意脊髓節段與脊椎骨的高度不同：薦髓位於第 12 胸椎至第 1 腰椎附近（脊髓圓錐）。",
     "explanation_image": "/explanations/cropped/111-1-醫學(五)-68_merged.png",
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "泌尿科",
-    "category": "泌尿科"
+    "section": "第二篇 外科學",
+    "chapter": "神經外科",
+    "category": "神經外科"
   },
   {
     "id": "111-1-醫學(五)-69",
@@ -7653,8 +7653,8 @@
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
-    "chapter": "免疫風濕科",
-    "category": "免疫風濕科"
+    "chapter": "血液腫瘤科",
+    "category": "血液腫瘤科"
   },
   {
     "id": "111-2-醫學(三)-33",
@@ -8568,8 +8568,8 @@
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
-    "chapter": "腎臟科",
-    "category": "腎臟科"
+    "chapter": "急診內科",
+    "category": "急診內科"
   },
   {
     "id": "111-2-醫學(三)-77",
@@ -10210,9 +10210,9 @@
     "images": [
       "/images/111-2/醫學(四)/page_17_img_1.jpeg"
     ],
-    "section": "第四篇 其他科",
-    "chapter": "精神科",
-    "category": "精神科"
+    "section": "第一篇 內科學",
+    "chapter": "神經內科",
+    "category": "神經內科"
   },
   {
     "id": "111-2-醫學(四)-75",
@@ -11603,9 +11603,9 @@
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(五)-57_merged.png"
     ],
-    "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "section": "第二篇 外科學",
+    "chapter": "急診外傷科",
+    "category": "急診外傷科"
   },
   {
     "id": "111-2-醫學(五)-58",
@@ -13729,8 +13729,8 @@
       "/images/111-2/醫學(六)/page_14_img_2.png"
     ],
     "section": "第四篇 其他科",
-    "chapter": "骨科",
-    "category": "骨科"
+    "chapter": "復健科",
+    "category": "復健科"
   },
   {
     "id": "111-2-醫學(六)-74",
