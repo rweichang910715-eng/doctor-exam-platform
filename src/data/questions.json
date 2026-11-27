@@ -3155,14 +3155,14 @@
       "D": "早發的憂鬱症以及治療效果不佳者，將來可能轉變為雙相情緒障礙症的診斷"
     },
     "answer": "A",
-    "explanation": "(A) 錯誤，躁鬱症患者終身的物質濫用盛行率將近五成，而在憂鬱症患者中約三成（記憶：有躁期才有動力去找藥物來 high）\n(B)(C)(D) 皆為正確選項，其中一部分躁鬱症患者在疾病一開始以 depression episode 來表現，此時難以和憂鬱症鑑別，因此才會有 (D) 選項的情況發生",
+    "explanation": "答案 (A)。\n\n**雙相情緒障礙症**\n\n- 共病：雙相情緒障礙症合併物質使用障礙（酒精、毒品）的比例很高（第一型約 50–60%），比重鬱症更常見；也常合併焦慮症、注意力不足過動症，故 (A) 錯誤。\n- 躁期或鬱期都可能出現精神病症狀（幻聽、妄想），躁期常為誇大妄想，鬱期常為罪惡或虛無妄想（與情緒一致）。\n- 病程：每一次發作都可能使大腦更敏感、之後發作更頻繁（點燃假說），因此需要長期維持治療預防復發。\n- 憂鬱症日後轉為雙相情緒障礙症的危險因子：早發（青少年）、精神病性憂鬱、非典型特徵（嗜睡、暴食）、產後發作、雙相家族史、抗憂鬱劑引發輕躁、多次發作或治療反應差。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-61_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-61_merged.png"
     ],
-    "section": "第一篇 內科學",
-    "chapter": "神經內科",
-    "category": "神經內科"
+    "section": "第四篇 其他科",
+    "chapter": "精神科",
+    "category": "精神科"
   },
   {
     "id": "111-1-醫學(四)-62",
@@ -3177,14 +3177,14 @@
       "D": "aripiprazole"
     },
     "answer": "C",
-    "explanation": "此題出的滿細的，部分抗癲癇藥物如 Lamotrigine、Valproate、Carbamazepine 等可穩定躁鬱症病人的情緒，但是 lamotrigine 並沒有獲得 FDA 治療躁症 (mania) 的適應症，下表簡單整理一些藥物在躁鬱症中 FDA 核准的情況\n\n| Medication | Mania | Mixed | Depression | Maintenance |\n| :--- | :---: | :---: | :---: | :---: |\n| Lithium | ✓ | | | ✓ |\n| Lamotrigine | | | | ✓ |\n| Carbamazepine | ✓ | ✓ | | |\n| Valproate | ✓ | | | |\n| Aripiprazole | ✓ | ✓ | | ✓ |\n| Asenapine | ✓ | ✓ | | |\n| Chlorpromazine | ✓ | | | |\n| Olanzapine | ✓ | ✓ | | ✓ |\n| Quetiapine | | | ✓ | |\n| Risperidone | ✓ | ✓ | | |\n| Ziprasidone | ✓ | ✓ | | |\n| Olanzapine + Fluoxetine | | | ✓ | |",
+    "explanation": "答案 (C)。\n\n**雙相情緒障礙症的藥物**\n\n| 藥物 | 急性躁期 | 急性鬱期 | 維持期 |\n| --- | --- | --- | --- |\n| 鋰鹽 | 是 | — | 是（預防躁與鬱，降低自殺） |\n| Valproate、carbamazepine | 是 | — | 是 |\n| Lamotrigine | 否 | 部分證據 | 是（以預防鬱期為主） |\n| 第二代抗精神病藥物（risperidone、olanzapine、quetiapine、aripiprazole、asenapine、cariprazine） | 是 | quetiapine、lurasidone、cariprazine、olanzapine-fluoxetine | 多數是 |\n\nLamotrigine 對急性躁症沒有療效，FDA 只核准用於第一型雙相情緒障礙症的維持治療（主要預防鬱期）；需緩慢加量以避免 Stevens-Johnson 症候群。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-62_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-62_merged.png"
     ],
-    "section": "第一篇 內科學",
-    "chapter": "神經內科",
-    "category": "神經內科"
+    "section": "第四篇 其他科",
+    "chapter": "精神科",
+    "category": "精神科"
   },
   {
     "id": "111-1-醫學(四)-63",
@@ -3199,7 +3199,7 @@
       "D": "conversion disorder"
     },
     "answer": "B",
-    "explanation": "本題主要測驗考生對於懷疑是裝病或是詐病的身體型疾患之名詞定義是否清楚\n(A) 慮病症 (hypochondriasis)：患者常過度關心身體狀況，懷疑自己罹患重大疾病，稍有病痛就胡思亂想，形成一種慮病的心理狀態，但是並非真正喪失生理上的功能\n(B) 裝病症候群 (factitious disorder)：患者有意識的裝病取得「內在好處」，取得疾病角色，獲取醫療上的關注或是同情，本題有特別註明個案生病及住院並沒有明顯外在利益或目的，因此選 (B) 為正解\n(C) 詐病 (malingering)：患者有意識的裝病取得「實質的外在好處」，像是休假、逃避兵役和坐牢或是獲取賠償金等\n(D) 轉化症 (conversion disorder)：和上述不同的是，患者的疾病症狀不是故意裝出來的，如果他們說看不見，真的就是看不見；如果他們說沒力，就是真的一點力氣也沒有，在那個當下，是真實的存在失能與困難，這也是醫療最大的困難之所在，只能在長期監控之下，才能確信心裡層面上的問題\n\n<補充> 思考這類疾病的時候可先判斷患者的行為是有意識的還是無意識的，再去評估個案生病及住院是否有外在利益或目的，進而作出鑑別診斷",
+    "explanation": "答案 (B)。\n\n**人為疾患（factitious disorder）**\n\n- 刻意假造、誇大或製造身體或心理症狀（例如自行注射、偽造檢驗、造成傷口），目的是扮演病人角色，沒有明顯的外在利益。\n- 常見於醫療相關從業人員（護理師、醫檢師），女性較多；常反覆住院、接受多次檢查甚至手術（孟喬森症候群）。\n- 對他人施加的人為疾患：照顧者讓兒童生病（代理型孟喬森症候群），屬於兒童虐待。\n\n| 鑑別 | 症狀是否刻意 | 動機 |\n| --- | --- | --- |\n| 人為疾患 | 刻意製造 | 內在需求（扮演病人角色） |\n| 詐病（malingering） | 刻意製造 | 外在利益（逃避兵役、獲得賠償、取得藥物） |\n| 轉化症 | 非刻意 | 心理衝突（無法以醫學解釋的神經症狀） |\n| 疾病焦慮症 | 非刻意 | 過度擔心罹患重病，身體症狀輕微或沒有 |\n\n本題醫療背景的男性護理師，反覆住院、檢查都正常，且沒有明顯外在利益，最可能是人為疾患。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-63_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-63_merged.png"
@@ -3221,7 +3221,7 @@
       "D": "panic disorder"
     },
     "answer": "B",
-    "explanation": "這題與【111-1(四)63】考點類似，患者有意識的裝病以取得實際的外在好處（逃避兵役），故屬於詐病之行為，本題選 (B)\n\n| 診斷 | 與疾病的關係 | 原因／目的 |\n| :--- | :--- | :--- |\n| 慮病症 | 害怕自己有病 | 就是怕 |\n| 裝病症候群 | 想要呈現自己有病 | 求關注 |\n| 詐病症 | 想要呈現自己有病 | 取得實際利益 |\n| 轉化症 | 真的有病，但難以解釋 | 難以解釋 |",
+    "explanation": "答案 (B)。\n\n**詐病（malingering）**\n\n- 為了明確的外在利益（逃避兵役、工作、刑責，獲得賠償、藥物或保險金）而刻意假造或誇大症狀。\n- 在 DSM-5 中不屬於精神疾病診斷，而是列為「可能需要臨床關注的其他狀況」。\n- 懷疑情境：法律或兵役相關的轉介、主訴與客觀發現明顯不符、不配合檢查與治療、合併反社會人格。\n\n本題男性為了逃避兵役故意裝病，屬於詐病。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-64_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-64_merged.png"
@@ -3243,7 +3243,7 @@
       "D": "paralysis是最常見的症狀之一"
     },
     "answer": "D",
-    "explanation": "轉化症 (conversion disorder) 是一個非常特別的心理疾病，患者的身體會突然呈現出某種功能上的缺失，常見的症狀為下肢的感覺缺失或癱瘓、失語症、暈厥、失明、甚至較少見的解離性痙攣等，患者的這些神經學症狀難以用一個神經學疾病解釋，而經過檢查後，也往往在生理上卻找不到任何問題\n(A) 錯誤，pseudoseizure (non-epileptic seizures) 和 seizure 兩者是可以並存的，兩者的發作可以是有順序性的或是同時的 (sequential and simultaneous)，而在抽搐的形態上則各有特色，pseudoseizure 會有由一邊到另一邊的不同步運動 (asynchronous or side-to-side movements) 或是哭泣與閉眼等表現，而 seizure 則是同步且持續不停地抽搐 (synchronous and continuous)，而且眼睛通常是張開的\n(B) 錯誤，astasia-abasia 指的是失去穩定站立或是走路的功能而呈現的一種特殊步態，但是病患的 motor strength and voluntary coordination 是正常的，雖然此症狀很常是因為轉化症引起，但 weakness and paralysis 才是轉化症最常見的動作異常\n(C) 錯誤，轉化症病患易呈現「漂亮的不關心 (la belle indifference)」，對自身的症狀一派輕鬆、無所謂之灑脫模樣，但教科書有特別提及，la belle indifference 在轉化症中雖然常見，但並非特定疾病的特徵 (not pathognomonic)\n(D) 正確，轉化症最明顯的症狀是突發性感覺、運動系統方面的異常，如突然癱瘓、失明、肢體抽搐、不能說話等等",
+    "explanation": "答案 (D)。\n\n**轉化症（功能性神經症狀障礙）**\n\n- 出現影響隨意運動或感覺功能的神經學症狀，但檢查結果與已知神經或醫學疾病不符；症狀不是刻意製造的。\n- 常見症狀：\n  - 運動：肢體無力或麻痺（最常見之一）、步態異常、顫抖、肌張力不全\n  - 感覺：麻木、視力喪失、聽力喪失\n  - 非癲癇性心因性發作（假性癲癇）\n  - 吞嚥困難、失聲\n- (A) 錯誤：約 10–30% 的心因性非癲癇發作病人同時有真正的癲癇，需以影像腦波（video-EEG）鑑別。\n- (B) 錯誤：步伐不穩（astasia-abasia，無法站立行走但躺著時腿部動作正常）屬於典型但非最常見的表現。\n- (C) 錯誤：「泰然漠視」（la belle indifférence，對症狀表現出不相稱的淡漠）在轉化症與真正神經疾病病人中都可見到，已不作為診斷依據。\n- 診斷重點是找到與神經疾病不一致的正面徵象，例如 Hoover 徵象（無力側腿伸直，對側抬腿時無力側卻能出力）。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-65_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-65_merged.png"
@@ -3265,7 +3265,7 @@
       "D": "為加速戒除長期使用benzodiazepine的病患，安排住院後宜立即停用所有benzodiazepine"
     },
     "answer": "D",
-    "explanation": "BZD 長期服用後易產生耐藥性及依賴性，驟然的停藥可能會發生反彈性失眠及戒斷症狀，故其停藥可藉由漸進式減量再停藥來改善反彈性失眠及戒斷症狀，在成癮性的部分，用的時間越長、劑量越大，半衰期越短 (如：Alprazolam、Lorazepam) 及停藥的速度越快，越容易產生戒斷症候群，戒斷相關症狀包括焦慮、焦躁不安、手腳發抖、心跳、血壓上昇、冒冷汗、耳鳴、頭痛及失眠等等，更嚴重的甚至會有憂鬱、妄想、抽搐及譫妄等症狀",
+    "explanation": "答案 (D)。\n\n**Benzodiazepine 治療失眠的原則**\n\n- 以最低有效劑量、最短時間使用（一般 2–4 週），並優先考慮失眠的認知行為治療。\n- 老年人：代謝慢、對藥物敏感，容易造成跌倒、骨折、認知障礙與譫妄，應盡量避免（Beers criteria）。\n- 短效、高效價的藥物（如 alprazolam、triazolam）起效快、戒斷症狀明顯，較容易成癮。\n- 長期使用者應逐步減量（例如每 1–2 週減少 10–25%，或換成長效 benzodiazepine 再慢慢減），突然停藥會出現戒斷症狀：反彈性失眠、焦慮、顫抖、知覺異常，嚴重時癲癇發作與譫妄，故 (D) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-66_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-66_merged.png"
@@ -3287,7 +3287,7 @@
       "D": "決策（decision making）"
     },
     "answer": "C",
-    "explanation": "記憶題，DSM-5 中認知功能範疇的執行功能中包含：planning、decision making、working memory、responding to feedback、inhibition and flexibility，故此題應選 (C)\n\n六大認知領域 (cognitive domain)：\n\n| 認知領域 | 內容 |\n| :--- | :--- |\n| Executive function（執行能力） | planning, decision making, working memory, inhibition and mental flexibility |\n| Learning and memory（學習及記憶力） | free recall, cued recall, semantic and autobiographical long term memory, and implicit learning |\n| Language（語言） | object naming, word finding, fluency, grammar and syntax |\n| Perceptualmotor function（感知與動作） | visual perception, visuoconstructional reasoning and perceptualmotor coordination |\n| Complex attention（整體注意力） | sustained attention, divided attention, selective attention and information processing speed |\n| Social cognition（社交認知） | recognition of emotions, theory of mind and insight |",
+    "explanation": "答案 (C)。\n\n**DSM-5 的神經認知範疇**\n\n| 認知範疇 | 內容 |\n| --- | --- |\n| 複雜注意力 | 持續注意、分配注意、選擇性注意、處理速度 |\n| 執行功能 | 計畫、決策、工作記憶、回應回饋與錯誤修正、壓抑習慣性反應、心智彈性 |\n| 學習與記憶 | 立即記憶、近期記憶、長期記憶 |\n| 語言 | 表達與理解 |\n| 知覺動作 | 視知覺、視覺建構、知覺動作協調、操作能力（praxis）、辨識（gnosis） |\n| 社會認知 | 情緒辨識、心智理論 |\n\n操作能力（praxis，執行有目的動作的能力）屬於知覺動作範疇，不屬於執行功能。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-67_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-67_merged.png"
@@ -3309,7 +3309,7 @@
       "D": "患者通常發生在感染愛滋病毒（HIV）的前、中期階段就出現精神病症狀，可使用抗精神病藥物治療"
     },
     "answer": "D",
-    "explanation": "仔細觀察可以發現 (B) 和 (D) 相互牴觸\n(A) 正確，HIV 感染的初期症狀往往不明顯，或是與感冒相似，如：發燒、淋巴結腫大、咽喉炎、皮疹、肌肉疼痛、疲倦，口腔潰瘍等，還可能出現頭痛、噁心嘔吐、肝/脾腫大、體重下降、神經系統病變等\n(B) 正確，愛滋病患者若出現記憶衰退、思考障礙、難以專注、口齒不清晰等症狀，稱為 HIV dementia，其原因是病毒侵犯中樞神經系統，是一預後不良的跡象\n(C) 正確，HIV 病毒是透過血液、精液、陰道分泌液、乳汁而傳染，因此各種性行為、輸血、共用針頭、毒品的靜脈注射都是已知的傳染途徑\n(D) 錯誤，HIV-associated Neurocognitive Disorder (HAND) 通常在疾病中晚期才會出現，目前治療選擇為 anti-psychotics，但 HIV 病患比較容易出現 EPS，故臨床上會盡量避免使用 high-potency 的 anti-psychotics (如：haloperidol)",
+    "explanation": "答案 (D)。\n\n**HIV 與精神症狀**\n\n- 急性 HIV 感染：多數有症狀（約 50–90%，參考答案以約 30% 出現類流感症狀描述），表現為發燒、喉嚨痛、皮疹、淋巴結腫大。\n- 傳染途徑：性行為、共用針頭（注射藥癮者，台灣曾因此爆發大流行）、母子垂直感染、輸血。\n- HIV 相關神經認知障礙：從輕度認知障礙到 HIV 相關失智症；出現失智代表免疫嚴重低下、預後不佳（未治療時多在數月內死亡），抗反轉錄病毒治療後已大幅減少。\n- 精神病症狀（妄想、幻覺）多出現在 HIV 感染晚期（愛滋病期），常與 HIV 腦病變、伺機性中樞神經感染、藥物（efavirenz）或物質使用相關，而不是在感染前中期，故 (D) 錯誤；治療時抗精神病藥物需小劑量，因病人對錐體外症狀較敏感。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-68_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-68_merged.png"
@@ -3331,7 +3331,7 @@
       "D": "methadone藥效不及24小時，所以每天須至少使用兩次"
     },
     "answer": "B",
-    "explanation": "鴉片類藥物在精神科常常出題，藥理學的副作用和戒斷症狀也建議詳讀\n(A) 錯誤，methadone 還是會出現一些類似嗎啡等鴉片類藥物的作用，且在使用期間有生理性依賴的可能，但他可以減緩海洛因成癮者的戒斷症狀\n(B) 正確，methadone 通常以糖漿的方式給予，因此可以降低成癮者共用針頭感染其他疾病的風險\n(C) 錯誤，methadone 目前是第二級管制藥品，海洛因則是第一級管制藥品\n(D) 錯誤，methadone 一劑可持續約 24 小時，相較海洛因的效力只持續數小時，methadone 通常一天服用一次即可",
+    "explanation": "答案 (B)。\n\n**美沙冬替代療法**\n\n- Methadone 是長效、口服的 μ 鴉片受體完全致效劑。\n- 優點：\n  - 口服液，取代注射，減少共用針具造成的 HIV、C 型肝炎傳染，故 (B) 正確\n  - 半衰期長（約 24–36 小時），每天服用一次即可，故 (D) 錯誤\n  - 減少渴求、戒斷症狀與犯罪\n- 本身也具成癮性與依賴性，需在醫療機構監督下服用，故 (A) 錯誤。\n- 在台灣屬於第二級管制藥品，故 (C) 錯誤。\n- 副作用：QT 延長（torsades de pointes）、便秘、呼吸抑制（合併 benzodiazepine 或酒精時更危險）。\n- 另一選擇 buprenorphine（部分致效劑）：天花板效應，過量時呼吸抑制風險較低。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-69_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-69_merged.png"
@@ -3353,7 +3353,7 @@
       "D": "酒精戒斷有可能出現幻覺"
     },
     "answer": "C",
-    "explanation": "(A) 正確，飲用酒類或其他類似物後其吐氣所含酒精濃度達 0.15 mg/L 或血液中酒精濃度達 0.03% 以上，即算酒駕\n(B) 正確，酒精可以讓入睡變快，但會降低深層睡眠時間，使得整體睡眠品質欠佳\n(C) 錯誤，酒精戒斷初期會出現焦慮手抖\n(D) 正確，戒斷的精神症狀包括視覺、聽覺、觸覺等幻覺",
+    "explanation": "答案 (C)。\n\n**酒精相關知識**\n\n- 台灣酒駕標準：吐氣酒精濃度 ≥ 0.15 mg/L 或血液酒精濃度 ≥ 0.03%。\n- 酒精對睡眠的影響：縮短入睡時間，但減少快速動眼期與深層睡眠，後半夜睡眠片段化，整體睡眠品質變差。\n- 酒精戒斷：\n  - 早期（停酒 6–24 小時）：顫抖、焦慮、失眠、冒汗、心悸、噁心，屬於中樞神經過度興奮，以失眠為主而不是嗜睡，故 (C) 錯誤\n  - 12–48 小時：酒精性幻覺症（以幻聽多見）、戒斷性癲癇\n  - 48–96 小時：震顫性譫妄（視幻覺、意識混亂、自主神經亢進）\n- 治療：benzodiazepine、thiamine、矯正電解質。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-70_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-70_merged.png"
@@ -3375,7 +3375,7 @@
       "D": "良好預後的預測指標包括較晚發病、合併憂鬱症"
     },
     "answer": "C",
-    "explanation": "本題描述的情景為社交恐懼症（social phobia），是屬於畏懼症（phobic disorder）的子項目，如果合併憂鬱症者，預後較差，社交畏懼症根據 DSM-V 的敘述如下：\n(1) 對一種或多種社交情況時，由於擔心可能被人審視，而產生顯著的害怕或焦慮，例如社交互動（對話、會見陌生人）、被觀看（吃、喝的時候）及在他人面前演講或表達\n(2) 害怕自己的言行或呈現的焦慮症狀會導致負面的評價，即是被羞辱、感到尷尬而導致被拒絕或冒犯他人\n(3) 社交情況幾乎總是能夠觸發害怕或焦慮\n(4) 主動迴避社交情況，或帶著強烈的害怕或焦慮去忍受\n(5) 這害怕或焦慮與社交情況和社會文化環境所造成的實際威脅不相稱\n(6) 徵狀導致社交、職業或其他重要功能方面的損害\n(7) 以上徵狀須延續 6 個月以上\n\n社交恐懼症（social phobia）的治療包括：\n(1) 非藥物治療：行為治療和心理治療\n(2) 藥物治療：常用的第一線藥物為 SSRI 抗憂鬱劑，也可以輔以 BZD 或 beta-blocker",
+    "explanation": "答案 (C)。\n\n**社交焦慮症**\n\n- 在可能被他人審視的社交情境（上台報告、公開說話、與陌生人互動、在他人面前吃東西）中，明顯害怕被負面評價，出現臉紅、冒汗、發抖、心悸，並逃避這些情境，持續 6 個月以上，影響功能。\n- 好發於兒童期至青少年期（中位數約 13 歲），常呈慢性病程。\n- 本題國小開始怕上台，越來越嚴重，甚至翹課影響學業，符合社交焦慮症，而不是創傷後壓力症，故 (A) 錯誤。\n- 治療：\n  - 認知行為治療（含暴露治療）已證實有效，故 (C) 正確\n  - 第一線藥物為 SSRI 或 SNRI，而不是抗精神病藥物，故 (B) 錯誤；表演型（只怕上台）可在上台前使用 β 阻斷劑\n- 預後不良因子：早發、合併其他精神疾病（憂鬱、物質使用）、廣泛型；較晚發病與無共病預後較好，故 (D) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-71_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-71_merged.png"
@@ -3397,7 +3397,7 @@
       "D": "過動症狀比注意力缺失和衝動控制不佳在成人期改善較明顯"
     },
     "answer": "A",
-    "explanation": "(A) 錯誤，隨著中樞神經活化劑藥物（methylphenidate, amphetamine, pemoline）被發現在 ADHD 病患中有良好的成效之後，藥物能夠成功減少 80-90% ADHD 兒童及青少年以及 70% ADHD 成人分心和過動的現象\n(B) 正確，俗稱聰明藥的利他能（Ritalin）是一種短效的中樞神經興奮劑，主要成分就是 methylphenidate\n(C) 正確，處理 ADHD 需要結合行為教育技巧，和正確使用藥物雙管齊下的方法，研究發現適當劑量的藥物最能治療 ADHD 的核心症狀，而 ADHD 引發的後果（學校表現，與同儕和家人的關係，自尊）則可以結合藥物和行為／教育介入治療獲得改善\n(D) 正確，ADHD 孩童在進入成年後，過動症狀改善的比較明顯、注意力缺失進步幅度則較有限，本選項已經考很多次了！",
+    "explanation": "答案 (A)。\n\n**注意力不足過動症（ADHD）**\n\n- 約一半以上的兒童 ADHD 症狀會持續到成人；成人以注意力不集中、組織計畫困難、衝動為主，過動症狀隨年齡明顯改善（轉為內在的坐立不安）。\n- 藥物治療：\n  - 中樞神經興奮劑（methylphenidate）是兒童與成人的首選藥物之一\n  - 非興奮劑：atomoxetine、guanfacine\n  - 成人 ADHD 使用藥物同樣有良好效果（約 70% 有反應），故 (A) 錯誤\n- 家庭功能不良不是 ADHD 的病因（主要為遺傳與神經發展），但會影響症狀表現、共病與治療效果；親職訓練是重要的介入。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-72_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-72_merged.png"
@@ -3419,7 +3419,7 @@
       "D": "斷續存有自殺意念，自傷方式是割腕，可門診治療或相關心理治療"
     },
     "answer": "D",
-    "explanation": "本題在考辨識誰是自殺高危險群，以及後續該如何處置\n自殺高危險群的特徵包括：\n1. SADPERSONS 危險因子三項或以上\n2. 有「自殺徵兆」或「透露自殺訊息」\n3. 曾有自殺企圖史\n4. 曾有精神疾病就醫史\n5. 重大疾病，如癌症、慢性肺病、洗腎患者等\n6. 醫療人員懷疑有自殺危險者\n\n| 評估項目 | 內容（符合者一項得一分） |\n| :--- | :--- |\n| Sex | Male |\n| Age | 12-29 or >50 y/o |\n| Depression | Depression |\n| Previous attempt | Previous suicide attempt |\n| Ethanol abuse | Alcohol abuse |\n| Rational thinking | Rational thinking loss（如有精神病及器質性腦障礙） |\n| Social support | Social support lacking |\n| Organized plan for suicide | A well thought out plan |\n| No spouse | No spouse |\n| Sickness | Medical or physical illness |\n\n- 2 分以下的急診病人：無需特別 Follow 即可回家\n- 3-4 分：要密切的 Follow\n- 5-6 分：強烈建議考慮住院，並會診精神科\n- 7-10 分：屬 High Risk，務必住院治療\n\n(A) 錯誤，要先進行評估\n(B) 錯誤，有企圖自殺病史又合併重大內科疾病（至少已 2 分），應仔細評估後再作出處置\n(C) 錯誤，憂鬱症狀明顯，深覺無望，缺乏社會支持，應仔細評估後照會精神科\n(D) 正確，雖然沒有提到完整資訊，但是敘述正確",
+    "explanation": "答案 (D)。\n\n**自殺風險評估與處置**\n\n- 評估面向：自殺意念的頻率與強度、是否有具體計畫與方法、可取得的工具、過去自殺企圖、精神疾病（憂鬱、思覺失調、物質使用）、無望感、重大身體疾病、社會支持、保護因子。\n- 處置依風險分級：\n\n| 風險 | 處置 |\n| --- | --- |\n| 高風險（有具體計畫、致命方法、近期企圖、嚴重精神症狀、無望感、缺乏支持） | 住院（必要時強制住院）、移除危險物品、密切觀察 |\n| 中風險 | 加強門診追蹤、安全計畫、家屬參與 |\n| 低風險（斷續的意念、無具體計畫、致命性低） | 門診治療與心理治療，建立安全計畫 |\n\n- (A) 不是所有自殺意念都需要立即住院，應依風險評估。\n- (B) 曾企圖自殺又合併重大內科疾病屬於高風險，不應只轉內科門診。\n- (C) 憂鬱明顯、無望、缺乏社會支持屬於高風險，應積極精神科處置，而非轉給社工與一般門診。\n- (D) 斷續有自殺意念、割腕等致命性較低的自傷方式，可在門診或心理治療中處理並持續評估，最為合適。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-73_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-73_merged.png"
@@ -3441,7 +3441,7 @@
       "D": "生長質出血（hemorrhage of germinal matrix）"
     },
     "answer": "D",
-    "explanation": "早產兒＋腦室擴大＋T2 影像上有低訊號的的血塊 → 生長胚質（germinal matrix）出血，腦室內出血（intraventricular hemorrhage, IVH）是新生兒最常見的顱內出血，好發於早產兒，體重越輕的越容易發生，IVH 後幾週，可能出現 post-hemorrhagic hydrocephalus (PHH)，通常 IVH 越嚴重者越有可能發生 PHH，還可能後續引起 IICP 而須介入處理",
+    "explanation": "答案 (D)。\n\n**早產兒的生發基質出血（腦室內出血）**\n\n- 生發基質位於側腦室旁的尾核區，富含脆弱的微血管，在懷孕 32 週前最明顯，34 週後逐漸退化，因此主要發生在早產兒（尤其 < 32 週或 < 1,500 g）。\n- 多在出生後 72 小時內發生；危險因素包括腦血流波動、呼吸窘迫、氣胸、低血壓或高血壓、凝血異常。\n- 分級（Papile）：\n\n| 分級 | 範圍 |\n| --- | --- |\n| I | 只在生發基質 |\n| II | 腦室內出血 < 50% 腦室容積，無擴大 |\n| III | 腦室內出血 > 50%，合併腦室擴大 |\n| IV | 合併腦室周圍出血性梗塞（腦實質） |\n\n- 併發症：出血後水腦（腦室擴大）、腦室周圍白質軟化、腦性麻痺。\n- MRI T2 或磁敏感影像：腦室壁上的低訊號（含鐵血黃素沉積）。\n\n本題極早產兒出生 2 個月後腦室擴大，腦室壁有低訊號病灶，最可能是生發基質出血後造成的水腦。\n\n| 鑑別 | 特點 |\n| --- | --- |\n| 先天性 CMV | 腦室周圍鈣化（CT 高密度） |\n| 結節硬化症 | 室管膜下結節（可鈣化）、皮質結節 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-74_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-74_merged.png"
@@ -3449,9 +3449,9 @@
     "images": [
       "/images/111-1/醫學(四)/page_14_img_1.jpeg"
     ],
-    "section": "第四篇 其他科",
-    "chapter": "精神科",
-    "category": "精神科"
+    "section": "第三篇 婦兒科",
+    "chapter": "小兒科",
+    "category": "小兒科"
   },
   {
     "id": "111-1-醫學(四)-75",
@@ -3466,7 +3466,7 @@
       "D": "脾臟內"
     },
     "answer": "A",
-    "explanation": "影像上明顯可以看到肝臟左邊有一顆腫瘤，一般考試可能會問分葉，但此題以內外節做區分可能考生會有些陌生，在 CT 圖上肝左右葉（S4 與 S5、S8）分界是以沿膽囊窩上方肝中靜脈至下腔靜脈為基準，題中左外節即是指 S2、S3 部分，符合本圖",
+    "explanation": "答案 (A)。\n\n**肝臟分節（Couinaud 分類）**\n\n| 分節 | 位置 |\n| --- | --- |\n| I | 尾葉 |\n| II | 左外上節 |\n| III | 左外下節 |\n| IV（a、b） | 左內節 |\n| V | 右前下節 |\n| VI | 右後下節 |\n| VII | 右後上節 |\n| VIII | 右前上節 |\n\n- 鐮狀韌帶與臍裂把左葉分為左外節（II、III）與左內節（IV）；中肝靜脈把左右肝分開；右肝靜脈把右前節與右後節分開。\n- 本題 MRI 腫瘤位於鐮狀韌帶左側、肝臟左外側，屬於左外節。\n\n**補充**：5 歲兒童的肝臟腫瘤最常見為肝母細胞瘤（AFP 上升，與早產、Beckwith-Wiedemann 症候群、家族性腺瘤性息肉症相關）；較大兒童與青少年則以肝細胞癌較多。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-75_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-75_merged.png"
@@ -3474,9 +3474,9 @@
     "images": [
       "/images/111-1/醫學(四)/page_14_img_2.png"
     ],
-    "section": "第四篇 其他科",
-    "chapter": "精神科",
-    "category": "精神科"
+    "section": "第三篇 婦兒科",
+    "chapter": "小兒科",
+    "category": "小兒科"
   },
   {
     "id": "111-1-醫學(四)-76",
@@ -3491,14 +3491,14 @@
       "D": "尋常型天疱瘡（pemphigus vulgaris）"
     },
     "answer": "B",
-    "explanation": "使用 allopurinol 後有黏膜潰瘍、表皮壞死等現象，懷疑為 SJS 或 TEN，兩者的區別在於 SJS 影響 BSA<10% 而 TEN 影響 BSA>30%，介於 10-30% 則是 SJS/TEN-overlap\n(A)(B) SJS 和 TEN 同屬嚴重型皮膚藥物過敏反應，是一種發生在身體皮膚與黏膜組織上的發炎反應，發病前期症狀類似感冒的症狀，包括發燒（>39 度）、喉嚨痛、吞嚥困難、眼睛紅腫、結膜發炎等，急性期產生急遽發展的全身性紅斑及水泡，黏膜發炎及潰爛與表皮剝落壞死，嚴重有如全身燙傷的病人，常見引起的藥物包含抗癲癇藥物（anti-convulsants）、降尿酸藥（allopurinol）、抗生素（antibiotics）及非類固醇的抗發炎止痛藥（NSAID）等\n(C) 多形性紅斑（erythema multiforme）也是一種藥物過敏反應，皮膚病灶特點會出現典型的虹膜狀或標靶狀病灶（target-like lesion），而黏膜損害則可能出現口腔或陰道黏膜，眼睛潰瘍，常見原因如藥物（例如：盤尼西林類抗生素、降尿酸藥、水楊酸鹽類，磺胺類藥物、鎮靜劑與抗癲癇藥物 carbamazepine、valproic acid、phenobarbital 等）、其他如感染（細菌、黴菌、病毒：特別是單純疱疹病毒（HSV）和黴漿菌病毒）、結締組織疾病、食物、懷孕等\n(D) 尋常型天疱瘡（pemphigus vulgaris）一種罕見的皮膚自體免疫水疱疾病，患者皆可測得 anti-Dsg3 自體抗體，部分患者也可測得 anti-Dsg1 自體抗體，水泡發生在較深層的表皮，且患者平均在皮膚病灶發作的五個月前就會先發生疼痛的黏膜潰瘍\n\n| 致敏藥物 (SJS/TEN) | HLA 基因型突變 |\n| :--- | :--- |\n| Allopurinol | HLA-B*5801 |\n| Carbamazepine | HLA-B*1502、HLA-B*1511 |\n| Phenytoin | HLA-B*1502 |\n| Abacavir | HLA-B*5701 |\n| Lamotrigine | HLA-B*1502 |",
+    "explanation": "答案 (B)。\n\n**Stevens-Johnson 症候群與毒性表皮溶解症**\n\n| 診斷 | 表皮剝落面積 |\n| --- | --- |\n| Stevens-Johnson 症候群（SJS） | < 10% 體表面積 |\n| SJS/TEN 重疊 | 10–30% |\n| 毒性表皮溶解症（TEN） | > 30% |\n\n- 本題服用 allopurinol 2 週後出現全身紅斑、水疱、黏膜潰爛、表皮剝落壞死，面積 40%，屬於毒性表皮溶解症。\n- 常見誘發藥物：allopurinol（HLA-B*5801）、carbamazepine（HLA-B*1502）、phenytoin、lamotrigine、磺胺類、NSAIDs（oxicam 類）、nevirapine；多在用藥後 4–28 天發生。\n- 表現：前驅發燒、皮膚疼痛，暗紅斑、非典型標靶狀病灶，Nikolsky 徵象陽性，兩處以上黏膜侵犯（口腔、眼睛、生殖器）。\n- 處置：立即停用可疑藥物，以燒燙傷照護方式處理（液體、體溫、感染控制、眼科照護）；可考慮 cyclosporine、IVIG 或 etanercept；以 SCORTEN 評估死亡率。\n\n| 鑑別 | 特點 |\n| --- | --- |\n| 多形性紅斑 | 典型標靶狀病灶、以四肢末端為主，多與單純疱疹感染相關，表皮剝落少 |\n| 尋常型天疱瘡 | 慢性病程，鬆弛性水疱，抗 desmoglein 3 抗體 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-76_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-76_merged.png"
     ],
     "section": "第四篇 其他科",
-    "chapter": "精神科",
-    "category": "精神科"
+    "chapter": "皮膚科",
+    "category": "皮膚科"
   },
   {
     "id": "111-1-醫學(四)-77",
@@ -3513,7 +3513,7 @@
       "D": "對於中毒病人，重要治療包括支持療法及給與足夠鎮定劑"
     },
     "answer": "ALL",
-    "explanation": "安非他命的戒斷症狀包括焦躁不安、困倦、失眠、侵略性、抑鬱等，因此全部選項皆為正確\n\n安非他命簡介\n\n| 項目 | 說明 |\n| :--- | :--- |\n| 作用機轉 | 阻擋神經傳導物質包括（Dopamine, Norepinephrine, Serotonin）的回收，使突觸間隙的神經傳導物質濃度高於正常值 |\n| 代謝 | 安非他命經由消化道吸收，然後在肝臟失去活性，將近一半以原貌由尿液排出，在體內的半衰期為 6-12 小時，而在服用安非他命後的 1-3 天內都可以由尿液檢出 |\n| 臨床表現 | - 輕度：初期會發生煩躁不安、身體顫抖、無法入睡、心悸、目眩頭暈、頭痛、食慾下降及性慾不振<br>- 中度：濫用量增加會愛說話、激動不安、發汗、血壓上升、發熱胸痛、昏厥及心臟衰竭<br>- 重度：過量濫用導致幻覺、昏迷、抽搐、腦出血及休克致死 |\n| 戒斷症狀 | 焦躁不安（Dysphoria）、困倦（Drowsiness）、失眠（Insomnia）、侵略性（Aggression）、抑鬱（Depression）等等 |\n| 治療 | 給予鎮靜劑、症狀治療、心理動力治療 |",
+    "explanation": "答案：一律給分（原答案 C）。\n\n**安非他命濫用**\n\n- 機轉：促進多巴胺、正腎上腺素、血清素釋放並抑制回收。\n- 中毒表現：躁動、欣快、失眠、被害妄想與幻覺（類思覺失調症）、瞳孔放大、盜汗、高體溫、心搏過速、心律不整、高血壓、癲癇、中風、橫紋肌溶解。\n- 尿液篩檢：使用後約 1–3 天（48–72 小時）內可檢出。\n- 戒斷症狀（崩潰期）：極度疲倦、嗜睡、食慾增加、憂鬱、無快感、自殺意念、渴求。\n- 中毒處置：支持性治療，給予 benzodiazepine 鎮靜控制躁動與高體溫；精神病症狀明顯時可加抗精神病藥物；積極降溫、補充水分。\n\n本題各選項敘述大致正確，原答案為 (C)，官方最後公告一律給分。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-77_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-77_merged.png"
@@ -3535,7 +3535,7 @@
       "D": "手掌或腳掌出現小而無痛的出血性斑塊病灶稱為Janeway lesions"
     },
     "answer": "B",
-    "explanation": "此題考的是感染性心內膜炎的身體表徵，詳見以下表格整理\n\nEndocarditis Signs\n\n| 徵象 | 說明 |\n| :--- | :--- |\n| Splinter hemorrhage | 出現在指甲床下之微血管出血 |\n| Roth spots | 出現在視神經盤附近之橢圓狀視網膜出血，中心蒼白 |\n| Osler nodes | 出現在手指或腳趾末端之有壓痛的皮下紅紫色結節 |\n| Clubbing fingers | 出現在指節末端的球狀軟組織腫脹 |\n| Janeway lesions | 出現於手掌或腳掌，小而無痛的出血性斑塊 |",
+    "explanation": "答案 (B)。\n\n**感染性心內膜炎的周邊徵象**\n\n| 徵象 | 描述 | 機轉 |\n| --- | --- | --- |\n| Osler 結節 | 手指或腳趾指腹上小而疼痛的紅紫色結節 | 免疫複合體血管炎 |\n| Janeway 病灶 | 手掌或腳掌上無痛、扁平的出血性斑點 | 敗血性栓塞 |\n| Roth 斑點 | 視網膜出血，中央蒼白 | 免疫複合體 |\n| 裂片狀出血（splinter hemorrhage） | 指甲床下縱向的紅褐色細線 | 栓塞或血管炎 |\n| 點狀出血 | 結膜、口腔黏膜、四肢 | — |\n\nRoth 斑點位於視網膜，指甲床上的病灶是裂片狀出血，故 (B) 錯誤。\n\n**補充**：本題人工瓣膜病人發燒 10 天合併喘，應抽 3 套血液培養、做經食道心臟超音波，依 Duke 標準診斷。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-78_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-78_merged.png"
@@ -3544,8 +3544,8 @@
       "/images/111-1/醫學(四)/page_15_img_1.png"
     ],
     "section": "第四篇 其他科",
-    "chapter": "精神科",
-    "category": "精神科"
+    "chapter": "皮膚科",
+    "category": "皮膚科"
   },
   {
     "id": "111-1-醫學(四)-79",
@@ -3560,14 +3560,14 @@
       "D": "某躁症（mania）病人屢次出現攻擊他人之行為，醫療團隊可以決定將之連續約束2小時，約束期間不予探視，以達到降低攻擊傾向之效果"
     },
     "answer": "B",
-    "explanation": "相信大家應該沒有把精神衛生法背起來，還好本題尚可用常理判斷，以下補充精神衛生法法條供大家參考\n(A)(C) 精神衛生法第 24 條\n(1) 未經病人同意者，不得對病人錄音、錄影或攝影，並不得報導其姓名或住（居）所；於嚴重病人，應經其保護人同意\n(2) 精神照護機構，於保障病人安全之必要範圍內，設置監看設備，不受前項規定之限制，但應告知病人；於嚴重病人，應告知其保護人\n(D) 精神衛生法第 37 條\n(1) 精神照護機構為保護病人安全，經告知病人後，得限制其活動之區域範圍\n(2) 精神醫療機構為醫療之目的或為防範緊急暴力意外、自殺或自傷之事件，得拘束病人身體或限制其行動自由於特定之保護設施內，並應定時評估，不得逾必要之時間\n(3) 精神醫療機構以外之精神照護機構，為防範緊急暴力意外、自殺或自傷之事件，得拘束病人身體，並立即護送其就醫\n(4) 前二項拘束身體或限制行動自由，不得以戒具或其他不正當方式為之",
+    "explanation": "答案 (B)。\n\n**精神衛生法對病人權益的保障**\n\n- 錄影、錄音或攝影：精神醫療機構為醫療與安全目的使用監視設備時，應告知病人；為教學、研究目的錄影，必須取得病人（或保護人）同意，不能以病人「沒有反對」視為同意，故 (A)(C) 錯誤。\n- 通訊與會客：病人有會客與通訊的權利；但經診療醫師評估，為了病人病情需要或安全，可以在必要範圍內限制特定訪客，故 (B) 正確。\n- 約束與隔離：只限於防範緊急暴力或自傷，且必須在最小限度內、以適當方式為之，並定時評估；不能作為懲罰或降低攻擊傾向的治療方式，也不能以約束為由一律不予探視，故 (D) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-79_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-79_merged.png"
     ],
     "section": "第四篇 其他科",
-    "chapter": "精神科",
-    "category": "精神科"
+    "chapter": "醫學倫理與醫療決策",
+    "category": "醫學倫理與醫療決策"
   },
   {
     "id": "111-1-醫學(四)-80",
@@ -3582,14 +3582,14 @@
       "D": "文獻證明「停止呼吸器及供氧」會加速腦死病人走向不可逆的死亡"
     },
     "answer": "A",
-    "explanation": "(A) 正確，本題沒有對家屬說明做腦死判斷之理由\n(B) 錯誤，具備判定資格的醫師包含：(1) 神經科或神經外科專科 (2) 具判定資格（完成訓練課程＋取得證書）的麻醉科、內科、外科、急診科、兒科專科醫師，本題中的醫師是具有腦死判定資格的\n(C) 錯誤，腦死相關之法源為人體器官移植條例第四條第二項規定，且臺灣有訂定腦死判定準則\n(D) 錯誤，雖然有相關論述討論停止呼吸器與腦死狀態改變的關係，但選項所述內容並非已被確認的事實",
+    "explanation": "答案 (A)。\n\n**台灣的腦死判定**\n\n- 台灣的腦死判定規範在《人體器官移植條例》與衛福部「腦死判定準則」中，腦死判定的目的是為了器官捐贈移植；病人或家屬沒有器官捐贈的意願時，原則上不進行腦死判定。\n- 判定程序要點：\n  - 先決條件：昏迷原因明確、排除可逆原因（藥物、低體溫、代謝異常），觀察期後才判定\n  - 兒童（滿 1 歲以上）可由完訓的小兒科專科醫師參與判定，不一定需要神經內外科醫師，故 (B) 不能成立\n  - 兩次判定：腦幹反射測試與無呼吸測試（暫停呼吸器但維持供氧，觀察 PaCO₂ 上升是否有自主呼吸）\n- 臺灣法律中已有腦死的相關規範，故 (C) 不能成立。\n- 無呼吸測試期間持續供氧，並無文獻證明會造成病人死亡；腦死本身即為死亡，故 (D) 不能成立。\n\n本題判定前沒有說明進行腦死判定的理由（例如是否為了器官捐贈），因此 (A) 的控訴最可能成立。",
     "explanation_image": "/explanations/cropped/111-1-醫學(四)-80_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(四)-80_merged.png"
     ],
     "section": "第四篇 其他科",
-    "chapter": "精神科",
-    "category": "精神科"
+    "chapter": "醫學倫理與醫療決策",
+    "category": "醫學倫理與醫療決策"
   },
   {
     "id": "111-1-醫學(五)-1",
@@ -9918,14 +9918,14 @@
       "D": "抗憂鬱劑在憂鬱症與雙相情緒障礙症（bipolar disorder）鬱期，都是首選藥物"
     },
     "answer": "B",
-    "explanation": "* **(A) 錯誤**：躁期病人需要的是情緒穩定劑並非抗憂鬱劑，可參閱【111-1(四) 62】表格\n* **(B) 正確**：aripiprazole 主要是雙相情緒障礙症的用藥，但在作為輔助治療時 MDD 和 ASD 也有拿到適應症\n* **(C) 錯誤**：經顱刺激目前的應用範圍包括：treatment-resistant depression, PTSD, OCD, Tourette syndrome，經顱刺激目前對於思覺失調症的效果仍不明\n* **(D) 錯誤**：抗憂鬱劑運用於雙相情緒障礙症時容易造成情緒不穩定或是引發躁症，因此並非首選用藥",
+    "explanation": "答案 (B)。\n\n**精神疾病的治療**\n\n- 躁期治療：鋰鹽、valproate、carbamazepine、第二代抗精神病藥物；抗憂鬱劑會誘發或加重躁症與快速循環，不用於躁期，故 (A) 錯誤。\n- 抗精神病藥物作為憂鬱症的輔助治療：aripiprazole、brexpiprazole、quetiapine XR、cariprazine 已獲 FDA 核准，故 (B) 正確。\n- 經顱磁刺激：FDA 核准用於難治型憂鬱症、強迫症、戒菸、偏頭痛；對思覺失調症的幻聽與負性症狀仍在研究，尚未核准，故 (C) 錯誤。\n- 雙相情緒障礙症鬱期：首選 quetiapine、lurasidone、lamotrigine、鋰鹽等；不建議單獨使用抗憂鬱劑，故 (D) 錯誤。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-61_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-61_merged.png"
     ],
-    "section": "第一篇 內科學",
-    "chapter": "神經內科",
-    "category": "神經內科"
+    "section": "第四篇 其他科",
+    "chapter": "精神科",
+    "category": "精神科"
   },
   {
     "id": "111-2-醫學(四)-62",
@@ -9940,14 +9940,14 @@
       "D": "思考置入（thought insertion）"
     },
     "answer": "D",
-    "explanation": "最近精神科出了不少給情境要判斷是什麼症狀的題目，務必了解名詞定義\n\n* **(A) 關係妄想**：患者把實際與他無關的事情，認為與他本人有關係。例如本題中患者認為電視都在報導他們家發生的事情就是一例\n* **(B) 思考抽離**：患者會認為自己的想法被從自己的心靈抽出，而且患者無能為力。本題有提到相關症狀\n* **(C) 被害妄想**：患者堅信周圍人的或某些團夥對他進行跟蹤監視、打擊、陷害，甚至在其食物和飲水中放毒等。本題有提到患者認為傭人試圖對他不利\n* **(D) 思考置入**：患者感覺自己的思想不屬於自己，而是由別人植入，有些患者也會妄想別人能加插一些想法予其他人的思想中，或是能中斷及奪去自己的思想。本題沒有提到相關敘述",
+    "explanation": "答案 (D)。\n\n**妄想與思考被控制的症狀**\n\n本題病人的症狀：\n\n| 描述 | 症狀 |\n| --- | --- |\n| 深信女傭偷他的錢、試圖對他不利 | 被害妄想 |\n| 女傭「抽走」他的想法 | 思考抽離（thought withdrawal） |\n| 太太只剩外表，內在被女傭取代 | Capgras 妄想（替身妄想） |\n| 電視都在報導他們家發生的事 | 關係妄想 |\n\n思考置入（thought insertion）是相信有外在力量把不屬於自己的想法放進自己腦中，本題沒有描述。\n\n**補充**：思考抽離、思考置入、思考廣播屬於 Schneider 第一級症狀，常見於思覺失調症。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-62_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-62_merged.png"
     ],
-    "section": "第一篇 內科學",
-    "chapter": "神經內科",
-    "category": "神經內科"
+    "section": "第四篇 其他科",
+    "chapter": "精神科",
+    "category": "精神科"
   },
   {
     "id": "111-2-醫學(四)-63",
@@ -9962,7 +9962,7 @@
       "D": "妄想症（delusional disorder）"
     },
     "answer": "A",
-    "explanation": "純記憶題，焦慮疾患（anxiety disorders）常常伴隨功能性腸胃障礙，最常見的是食道痙攣",
+    "explanation": "答案 (A)。\n\n**功能性腸胃障礙與精神疾病**\n\n- 功能性腸胃障礙（大腸激躁症、功能性消化不良）屬於腦腸互動疾患，腦腸軸失調、內臟高敏感性與心理壓力都有影響。\n- 最常合併的精神疾病是焦慮症（泛焦慮症、恐慌症），其次為憂鬱症與身體症狀障礙症；共病比例約 40–60%。\n- 治療：除了腸胃藥物，低劑量三環抗憂鬱劑或 SSRI、認知行為治療、腸道導向催眠治療都有幫助。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-63_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-63_merged.png"
@@ -9984,14 +9984,14 @@
       "D": "嚴重個案合併藥物與心理治療，會比使用單一治療效果好"
     },
     "answer": "D",
-    "explanation": "* **(A) 錯誤**：睡眠剝奪治療對於憂鬱症的治療雖有效果但都是短期，不然 clerk 在精神科病房夜間學習的任務搞不好就變成一直叫病人起床了\n* **(B) 錯誤**：照光治療其實主要用於高緯度國家的季節性憂鬱的治療，雖然此療法耐受性高，但教科書上還是提到雖然罕見但轉變成躁症的風險\n* **(C) 錯誤**：經顱磁刺激治療常出現頭痛（42%）、頭暈、噁心、疲倦、耳鳴等暫時性副作用，癲癇則相對少見\n* **(D) 正確**：憂鬱症複合治療通常效果好於單一治療",
+    "explanation": "答案 (D)。\n\n**憂鬱症的治療模式**\n\n- 睡眠剝奪治療：可快速改善憂鬱（約 50–60% 有反應），但效果短暫，睡一覺後常復發，故 (A) 錯誤。\n- 照光治療：對季節性憂鬱症有效，也可用於非季節性憂鬱；雙相情緒障礙症病人仍有誘發輕躁或躁症的風險，故 (B) 錯誤。\n- 經顱磁刺激：最常見的副作用是治療部位頭皮不適與頭痛；癲癇發作很少見（約 < 0.1%），故 (C) 錯誤。\n- 中重度或慢性憂鬱症：藥物合併心理治療（如認知行為治療）的效果優於單一治療，故 (D) 正確。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-64_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-64_merged.png"
     ],
-    "section": "第一篇 內科學",
-    "chapter": "神經內科",
-    "category": "神經內科"
+    "section": "第四篇 其他科",
+    "chapter": "精神科",
+    "category": "精神科"
   },
   {
     "id": "111-2-醫學(四)-65",
@@ -10006,7 +10006,7 @@
       "D": "強迫症（obsessive-compulsive disorder）女性罹病率高於男性"
     },
     "answer": "ALL",
-    "explanation": "強迫症在兒童時期以男性為多，但到了青少年與成年之後女性為多。下表整理出常見精神科疾病盛行率男女比，詳細數據各家說法不一，僅供參考\n\n| 疾病 | 女 / 男<br>終身發生率比 | 疾病 | 女 / 男<br>終身發生率比 |\n| :--- | :--- | :--- | :--- |\n| PTSD | 2.08 | Bipolar disorder | 1.0 |\n| Panic disorder | 1.96 | Schizophrenia | 0.71 |\n| Generalized anxiety | 1.88 | Parkinson's disease | 0.53 |\n| MDD | 1.75 | Drug use disorder | 0.51 |\n| OCD | 1.6 | Alcohol dependence | 0.46 |\n| Alzheimer's disease | 1.3 | ADHD | 0.42 |",
+    "explanation": "答案：一律給分（原答案 D）。\n\n**焦慮相關疾病的性別差異**\n\n| 疾病 | 性別比例 |\n| --- | --- |\n| 社交焦慮症 | 社區研究中女性略多（約 1.5–2：1）；臨床樣本男女相近 |\n| 泛焦慮症 | 女性約為男性 2 倍 |\n| 恐慌症 | 女性約為男性 2 倍 |\n| 特定畏懼症 | 女性較多 |\n| 強迫症 | 成人女性略多；兒童期男性較多且發病較早 |\n\n原答案認為強迫症女性罹病率高於男性的敘述錯誤（成人兩性相近）；但不同研究結果有出入，官方最後公告一律給分。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-65_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-65_merged.png"
@@ -10028,7 +10028,7 @@
       "D": "高劑量或混合使用可產生肝臟毒性，長期使用會提高各類生理疾病和意外事故的風險"
     },
     "answer": "A",
-    "explanation": "應該算送分題，急性副作用是嚴重的戒斷症候群這個敘述本身十分矛盾\n\n* **(A) 錯誤**：BZD 急性副作用包括嗜睡、噁心、嘔吐、記憶力障礙、反彈性失眠（rebound insomnia）、精神恍惚、運動失調、呼吸抑制等。突然停藥可能產生的戒斷症狀包括初期的表徵類似焦慮症狀，接著可能會出現焦慮增加、注意力無法集中、疲倦、不安、厭食、頭暈、出汗、嘔吐、失眠、暴躁、噁心、頭痛、肌肉緊張／抽搐、顫抖等症狀\n* **(B) 正確**：補充 BZD 的四種藥物特性有抗焦慮（anxiolytic）、抗痙攣（anti-convulsion）、安眠（hypnotics）、以及肌肉放鬆（muscle relaxant）。實際運用上：Lorazepam（抗焦慮為主）、Estazolam（安眠為主）、Clonazepam（抗癲癇為主）、Diazepam（治療焦慮、肌肉痙攣、失眠及癲癇都很強）\n* **(C) 正確**：短效的 BZD 比長效的成癮性高\n* **(D) 正確**：BZD 長期使用會產生耐受性、依賴性及出現嗜睡、步履不穩、注意力不集中、記憶力和判斷力減退等症狀",
+    "explanation": "答案 (A)。\n\n**Benzodiazepine（BZD）**\n\n- 機轉：增強 GABA-A 受體的作用（增加氯離子通道開啟頻率）。\n- 臨床作用：抗焦慮、鎮靜安眠、肌肉放鬆、抗癲癇；用於焦慮、失眠、酒精戒斷、癲癇重積。\n- 急性副作用：嗜睡、頭暈、注意力與記憶力下降、動作協調變差、跌倒；與酒精或鴉片類合併使用可造成呼吸抑制；老年人可出現矛盾性激動或譫妄。\n- 戒斷症候群是長期使用後突然停藥時才出現的問題，不是急性副作用，故 (A) 錯誤。\n- 短效、高效價的 BZD 作用快、容易產生耐受性，成癮性較高。\n- 長期使用增加跌倒骨折、交通事故、認知障礙等風險。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-66_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-66_merged.png"
@@ -10050,7 +10050,7 @@
       "D": "②③④"
     },
     "answer": "A",
-    "explanation": "鴉片類藥物的成癮和副作用真的每次都考一題，①③皆為正確敘述\n\n* 海洛因**急性中毒**表現的症狀包括縮瞳、呼吸抑制、噁心嘔吐、暈眩、意識不清、皮膚癢、便秘、尿液滯留及低血壓等，因此 **② 並不正確**\n* 關於**戒斷症狀**目前會用 “Changed Set Point” 模型解釋。在正常人中，the locus ceruleus 會設定好釋放足量的 noradrenaline 給大腦其他部位以維持呼吸心跳和警醒。鴉片的使用會讓這個設定好的機制改變，當鴉片結合上 mu receptor 時，the locus ceruleus 釋放的 noradrenaline 量會降低，使人昏昏欲睡、心跳血壓降低。暴露於鴉片久了以後，the locus ceruleus 因為長久被壓抑只好提高之前設定好 noradrenaline 釋放量來維持正常功能。當停用海洛因時，noradrenaline 就會變得過量而產生緊張、焦慮、腹瀉、顫抖等副作用，因此只好使用更多的鴉片將活性抑制而造成惡性循環，因此 **④ 並不正確**",
+    "explanation": "答案 (A)。\n\n**海洛因的中毒與戒斷**\n\n- ① 正確：鴉片類系統、兒茶酚胺（多巴胺，獎賞路徑）與 GABA 系統是藥物濫用與成癮最主要的神經傳導機制。\n- ② 錯誤：海洛因急性中毒的表現是欣快感後鎮靜、嗜睡、說話含糊、注意力與記憶力下降、瞳孔縮小（針尖瞳孔），過量時呼吸抑制、昏迷；選項描述的興奮、多話、瞳孔放大較像興奮劑中毒。缺氧嚴重時瞳孔反而可能放大。\n- ③ 正確：海洛因（短效）戒斷症狀約在最後一次使用後 6–12 小時出現，1–3 天達高峰，約 7–10 天緩解。\n- ④ 錯誤：鴉片類會抑制藍斑核的正腎上腺素神經元；停用時藍斑核的正腎上腺素神經元活性反彈「增加」，造成戒斷時的自主神經亢進（流淚、流鼻水、冒汗、心跳加快、腹瀉、起雞皮疙瘩）。因此 α2 致效劑（clonidine、lofexidine）可緩解戒斷症狀。\n\n正確的是 ①③。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-67_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-67_merged.png"
@@ -10072,7 +10072,7 @@
       "D": "認知退化進展後，發生自發性巴金森氏的特徵"
     },
     "answer": "A",
-    "explanation": "謹記三個 core features (demantia + Parkinsonism + visual hallucination) 即可\n\n| Diagnosis requires |\n| :--- |\n| ≥ 2 core features or 1 core feature + 1 suggestive feature |\n| **Core features** |\n| (1) Fluctuating cognition (2) Recurrent visual hallucination (3) Parkinsonism |\n| **Suggestive features** |\n| (1) REM sleep behavior disorder (2) Severe neuroleptic sensitivity (3) Low dopamine activity in basal ganglia on dopamine transporter SPECT or PET |",
+    "explanation": "答案 (A)。\n\n**路易氏體失智症的診斷特徵**\n\n- 核心特徵：\n  1. 認知功能波動，合併注意力與警覺度的明顯變化\n  2. 反覆出現、清楚具體的視幻覺（常看到人或動物）\n  3. 快速動眼期睡眠行為障礙\n  4. 自發性巴金森症狀（在認知退化之後或同時出現）\n- 支持特徵：對抗精神病藥物極度敏感、姿勢不穩、反覆跌倒、短暫意識喪失、自主神經失調、嗜睡、嗅覺喪失、其他幻覺、系統化妄想、憂鬱焦慮。\n- 指標性生物標記：多巴胺轉運體造影（DaTscan）基底核攝取下降、心臟 MIBG 攝取降低、多項睡眠檢查證實快速動眼期無肌肉失張力。\n\n系統化的妄想屬於支持特徵，不是核心診斷特徵。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-68_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-68_merged.png"
@@ -10094,7 +10094,7 @@
       "D": "替代性治療可降低病人戒菸期間的戒斷症狀"
     },
     "answer": "C",
-    "explanation": "* **(A)**：教科書的原文是 “Withdrawl symptoms can develop within 2 hours”，雖然翻譯上有些瑕疵，不過相對來說還算是正確選項\n* **(B)(D) 正確**\n* **(C) 錯誤**：高達 90% 的思覺失調症患者對尼古丁有依賴性，研究推測可能是思覺失調症患者腦中的 nicotinic receptor 異常所導致",
+    "explanation": "答案 (C)。\n\n**菸草使用疾患**\n\n- 尼古丁戒斷：最後一根菸後數小時內開始，1–3 天達高峰，大多在 2–4 週內緩解，但渴求與體重增加可持續數月；症狀包括易怒、焦慮、注意力不集中、食慾增加、失眠、憂鬱。\n- 孕婦在懷孕前或第一孕期戒菸，可降低低出生體重、早產等風險。\n- 精神疾病病人的吸菸率遠高於一般人：思覺失調症約 60–90%，是所有精神疾病中最高的之一（尼古丁可暫時改善認知與抗精神病藥物副作用，且菸會誘導 CYP1A2 降低 clozapine、olanzapine 濃度），故 (C) 錯誤。\n- 治療：尼古丁替代療法（貼片、口嚼錠）可降低戒斷症狀；varenicline 效果最好；bupropion；合併行為諮商。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-69_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-69_merged.png"
@@ -10116,7 +10116,7 @@
       "D": "維持注意力（sustain attention）"
     },
     "answer": "B",
-    "explanation": "轉換注意力（shift attention）即是將注意力或是焦點從現在這個主題轉換到下一個的能力，本題病人此功能有障礙",
+    "explanation": "答案 (B)。\n\n**譫妄的注意力障礙**\n\n- 譫妄的核心是注意力障礙與意識混亂，急性發作且有波動。\n- 注意力的面向：\n\n| 面向 | 意義 | 障礙表現 |\n| --- | --- | --- |\n| 聚焦注意力 | 把注意力集中在特定刺激上 | 容易被無關刺激吸引 |\n| 維持注意力 | 持續專注一段時間 | 無法完成倒數、說出一年 12 個月倒序 |\n| 轉換注意力 | 從一個主題或刺激轉到另一個 | 持續言語（perseveration）：反覆回答上一個問題 |\n\n病人在已經問下一個問題時仍持續回答上一個問題，代表無法轉換注意力。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-70_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-70_merged.png"
@@ -10138,7 +10138,7 @@
       "D": "與一般族群相比，此症的手足罹患其他發展障礙症的比例並未較高"
     },
     "answer": "B",
-    "explanation": "* **(A) 錯誤**：ASD 男生約為女生的四倍\n* **(B) 正確**：確診 ASD 的女生智能不足的比例較高。然而，近年有許多研究認為，其實有一群智能較高的 ASD 女性沒有正確的被診斷出來，因為智能較高的女性即使在 ASD 的症狀影響之下也能發展出維持日常生活的策略，所以不容易被診斷出來\n* **(C) 錯誤**：ASD 患者的基因異質性高，目前認為 ASD 是結合多基因遺傳、新的基因突變以及後天環境多因素結合而成\n* **(D) 錯誤**：與一般族群相比，ASD 手足光罹患 ASD 的風險就是一般族群的 8 倍",
+    "explanation": "答案 (B)。\n\n**自閉症類群障礙症（ASD）**\n\n- 盛行率約 1–2%，男女比例約 4：1，故 (A) 錯誤。\n- 女性 ASD 病人較容易合併智能不足（臨床上被診斷的女性多為較嚴重者；輕症女性較容易被忽略），故 (B) 正確。\n- 病因以多基因與環境交互作用為主，遺傳率高（約 70–90%），單基因疾病（如 X 染色體脆折症、結節硬化症、Rett 症候群）只佔少數，故 (C) 錯誤。\n- 手足罹患 ASD 的機率約 10–20%，罹患其他發展障礙（語言遲緩、注意力不足過動症、學習障礙）的比例也較高，故 (D) 錯誤。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-71_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-71_merged.png"
@@ -10160,7 +10160,7 @@
       "D": "通常增加多巴胺之藥物，譬如治療過動症之藥物有可能用來治療妥瑞氏症狀"
     },
     "answer": "D",
-    "explanation": "妥瑞氏症 (Tourette's disorder) 是一種在兒童時期發病的神經發展疾病，常會伴隨其他精神症狀出現。盛行率大約是 0.3%~1%，男女比例是 4：1。病理生理學的部分牽涉到皮質 - 紋狀體 - 丘腦 - 皮質迴路和多巴胺調節系統，影響了運動、認知、動機、等行為\n\n* **(A) 正確**：有研究認為此疾病和第 13 對染色體長臂的 SLITRK1 基因相關\n* **(B) 正確**：約 80% 以上的患者會同時合併其他共病，如：注意力不集中及過動症 (21%~90%)、強迫症 (20~80%)、侵略性、焦慮、憂鬱、自我傷害的行為及睡眠異常 (20%~50%) 等\n* **(C) 正確**：PET 和 SPECT 影像發現部分腦區包括蒼白球 (globus pallidus)、殼核 (putamen)、尾核 (caudate nucleus) 及前額葉 (prefrontal cortex) 等活性降低\n* **(D) 錯誤**：目前 FDA 核准治療妥瑞氏症的藥物如第一代精神調節藥物 Haloperidol 和 Pimozide 都是強效的多巴胺受體拮抗劑",
+    "explanation": "答案 (D)。\n\n**妥瑞氏症**\n\n- 遺傳性高，候選基因包括第 13 對染色體長臂的 SLITRK1。\n- 常合併注意力不足過動症（約 50–60%）與強迫症（約 30–50%）。\n- 神經生物學：皮質–紋狀體–視丘–皮質迴路異常，多巴胺功能過度活躍；基底核（尾核、殼核、蒼白球）與前額葉參與抽動的抑制。\n- 治療：\n  - 衛教與行為治療（習慣反轉訓練、CBIT）\n  - 藥物：α2 致效劑（clonidine、guanfacine）、多巴胺阻斷劑（aripiprazole、risperidone、haloperidol）、VMAT2 抑制劑、topiramate\n- 增加多巴胺的藥物（如中樞神經興奮劑）理論上可能加重抽動，不是用來治療抽動症狀的藥物，故 (D) 錯誤；不過合併 ADHD 時，研究顯示興奮劑多數不會明顯惡化抽動，仍可謹慎使用。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-72_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-72_merged.png"
@@ -10182,7 +10182,7 @@
       "D": "精神疾病，例如思覺失調症或酒癮，並非重要因素"
     },
     "answer": "B",
-    "explanation": "注意題目要問的是自殺行為還是自殺死亡的風險\n\n* **(A) 錯誤**：男性自殺時通常手段較激烈，因此死亡風險較高\n* **(B) 正確**：自殺死亡率較高的科別，依序為精神科、麻醉科和急重症科\n* **(C) 錯誤**：自殺行為的高峰男性約為 45 歲而女性約為 55 歲，也就是俗稱的中年危機。而老年人的自殺率雖然沒有那麼高，但是自殺死亡率卻高於其他族群\n* **(D) 錯誤**：精神疾病是自殺的重要危險因子",
+    "explanation": "答案 (B)。\n\n**自殺死亡的危險因子**\n\n- 性別：女性自殺企圖較多，但男性自殺死亡率較高（約 2–3 倍），故 (A) 錯誤。\n- 年齡：老年人自殺死亡率最高，故 (C) 錯誤；青少年自殺是重要死因但比率不是最高。\n- 精神疾病：約 90% 的自殺死亡者有精神疾病（憂鬱症、雙相情緒障礙症、思覺失調症、物質與酒精使用障礙、人格障礙），故 (D) 錯誤。\n- 其他：過去自殺企圖（最強的預測因子）、家族史、慢性疼痛或重大疾病、獨居、失業、喪偶、可取得致命工具。\n- 醫師的自殺率高於一般人（女醫師更明顯），精神科醫師、麻醉科醫師屬於較高風險的族群，故 (B) 正確。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-73_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-73_merged.png"
@@ -10204,7 +10204,7 @@
       "D": "血管性失智症（vascular dementia）"
     },
     "answer": "D",
-    "explanation": "",
+    "explanation": "答案 (D)。\n\n**血管性失智症**\n\n- 由腦血管疾病造成的認知障礙：多發性梗塞、策略性部位梗塞（視丘、角回）、小血管疾病（廣泛白質病變與腔隙性梗塞）。\n- 特點：\n  - 有中風病史或血管危險因子（高血壓、糖尿病、抽菸）\n  - 可呈階梯式退化\n  - 以執行功能與處理速度下降為主，記憶相對保留\n  - 可合併局部神經學缺損、步態障礙、尿失禁、假性延髓麻痺、情緒冷漠\n- MRI：多處梗塞、腔隙性梗塞、廣泛白質高訊號、微出血。\n\n本題 55 歲男性認知退化，MRI 顯示多處腔隙性梗塞與廣泛白質病變，最可能是血管性失智症。\n\n| 鑑別 | MRI 特點 |\n| --- | --- |\n| 阿茲海默症 | 海馬迴與內側顳葉萎縮 |\n| 額顳葉失智症 | 額葉與前顳葉不對稱萎縮 |\n| 路易氏體失智症 | 內側顳葉相對保留 |",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
@@ -10227,14 +10227,14 @@
       "D": "頸部磁振造影多可見頸長肌纖維化現象"
     },
     "answer": "D",
-    "explanation": "嬰幼兒斜頸症以肌肉性斜頸最常見，好發於右側，是因為胸鎖乳突肌纖維化而導致攣縮。其典型症狀以右側肌性斜頸為例，寶寶頭頸傾向右側（即右耳較貼近右肩）、臉則會朝向左側轉",
+    "explanation": "答案 (D)。\n\n**嬰兒先天性肌肉性斜頸**\n\n- 最常見的嬰兒斜頸原因，胸鎖乳突肌纖維化縮短（可能與子宮內姿勢或生產受傷有關），常可摸到頸部腫塊（胸鎖乳突肌腫瘤）。\n- 頭部向患側傾斜、下巴轉向對側；可合併斜頭畸形、臉部不對稱。\n- 文獻報告以右側較多。\n- 合併髖關節發育不良的比例較高（約 10–20%），建議做髖關節超音波（4–6 週大時）篩檢。\n- 診斷：頸部超音波可見胸鎖乳突肌增厚或纖維化，一般不需要 MRI；纖維化發生在胸鎖乳突肌，而不是頸長肌，故 (D) 錯誤。\n- 治療：被動伸展運動與擺位，多數在 1 歲前改善；無效時考慮肉毒桿菌素注射或手術延長胸鎖乳突肌。\n- 需排除其他原因：頸椎異常（Klippel-Feil）、眼睛斜視造成的眼性斜頸、後顱窩腫瘤、寰樞椎旋轉半脫位、Sandifer 症候群（胃食道逆流）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-75_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-75_merged.png"
     ],
-    "section": "第四篇 其他科",
-    "chapter": "精神科",
-    "category": "精神科"
+    "section": "第三篇 婦兒科",
+    "chapter": "小兒科",
+    "category": "小兒科"
   },
   {
     "id": "111-2-醫學(四)-76",
@@ -10249,14 +10249,14 @@
       "D": "15：2"
     },
     "answer": "B",
-    "explanation": "在成人心肺復甦術中，無論施救者人數，壓胸與吹氣的比例皆為 30：2。若是嬰兒或是兒童的心肺復甦術時，單一 1 人施救者的壓胸與吹氣的比例為 30：2，若有 2 人以上的施救者則壓胸與吹氣的比例為 15：2",
+    "explanation": "答案 (B)。\n\n**兒童心肺復甦的按壓與通氣比例**\n\n| 對象 | 單人施救 | 雙人施救（醫療人員） |\n| --- | --- | --- |\n| 成人 | 30：2 | 30：2 |\n| 兒童（1 歲至青春期） | 30：2 | 15：2 |\n| 嬰兒（< 1 歲） | 30：2 | 15：2 |\n| 新生兒 | 3：1 | 3：1 |\n\n本題現場只有你一人，6 歲女童無呼吸無心跳，比例為 30：2。\n\n- 兒童按壓深度約胸廓前後徑的 1/3（約 5 cm），速度每分鐘 100–120 次。\n- 單人施救且沒有目擊倒下時，先做 2 分鐘 CPR 再求救並取得 AED（兒童心跳停止多為呼吸原因）。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-76_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-76_merged.png"
     ],
-    "section": "第四篇 其他科",
-    "chapter": "精神科",
-    "category": "精神科"
+    "section": "第三篇 婦兒科",
+    "chapter": "小兒科",
+    "category": "小兒科"
   },
   {
     "id": "111-2-醫學(四)-77",
@@ -10271,7 +10271,7 @@
       "D": "老人"
     },
     "answer": "B",
-    "explanation": "根據保護司 2017 年以來的統計數據，性侵受害者 6 成以上是未滿 18 歲兒少，且 4 分之 1 是男童。兒少性侵的加害者中有近 8 成是熟人",
+    "explanation": "答案 (B)。\n\n**兒童性侵害的加害者**\n\n- 大多數兒童性侵害的加害者是兒童認識的人（約 90%）：家人或親戚、家庭成員的伴侶、鄰居、老師、教練、照顧者、同儕。\n- 陌生人只佔少數。\n- 熟人性侵常為長期、反覆發生，加害者利用信任與權力關係，並以威脅或誘騙要求保密，因此常延遲揭露。\n- 醫事人員知悉時應依《性侵害犯罪防治法》與《兒童及少年福利與權益保障法》在 24 小時內通報。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-77_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-77_merged.png"
@@ -10293,14 +10293,14 @@
       "D": "血管收縮劑如 norepinephrine 不適合用在此病人身上"
     },
     "answer": "B",
-    "explanation": "依題目所敘述之被魚鰭刺傷 → 出現暗紅色出血的水泡，可以聯想到本題是想考感染海洋弧菌 (Vibrio vulnificus) 之後，快速惡化形成的壞死性筋膜炎 (necrotizing fasciitis)\n\n* **(A) 錯誤**：海洋弧菌 (Vibrio vulnificus) 才是最可能的致病菌\n* **(B) 正確**：治療首選是第三代 cephalosporin 加上 tetracycline 或 fluoroquinolone 類藥物\n* **(C) 錯誤**：病人已經出現敗血性休克，應該穩定生命徵象後盡快照會外科執行清創\n* **(D) 錯誤**：升壓劑還是可以適用於此類病人\n\n| 海洋弧菌 (Vibrio vulnificus) | |\n| :--- | :--- |\n| **細菌分類** | 革蘭氏陰性桿菌 (Gram negative bacilli, GNB) |\n| **好發族群** | 慢性病患，特別是肝硬化、酒精中毒、血色素沉著症及腎衰竭 |\n| **臨床表現** | (1) 原發性敗血症：吃入未煮熟的魚蝦貝類，導致腸胃道感染<br>(2) 傷口感染：傷口接觸到含有病菌的海水或被蝦、蟹類刺傷 |\n| **抗生素選擇** | 合併四環黴素（如 Minocycline、Doxycycline）及第三代的頭孢子菌素（如 Cefotaxime、Ceftazidime） |\n| **外科清創的必要** | 當合併有嚴重的皮膚或軟組織感染，如組織壞疽或壞死性筋膜炎 |",
+    "explanation": "答案 (B)。\n\n**創傷弧菌感染合併敗血性休克**\n\n- 本題肝硬化與糖尿病的漁夫，處理魚鰭刺傷手部後隔天發燒，手部出現暗黑色出血性水疱，合併低血壓與心搏過速，最可能是創傷弧菌（Vibrio vulnificus）壞死性筋膜炎合併敗血性休克，而不是 A 群鏈球菌，故 (A) 錯誤。\n- 處置：\n  - 抗生素：第三代頭孢菌素（ceftriaxone 或 ceftazidime）合併 doxycycline（或 minocycline），故 (B) 正確\n  - 盡早（不要等抗生素反應）由外科清創、筋膜切開，必要時截肢；延誤手術會明顯增加死亡率，故 (C) 錯誤\n  - 敗血性休克：積極輸液，血壓仍低時使用 norepinephrine 等升壓劑，故 (D) 錯誤\n- 死亡率可達 50% 以上；肝硬化、慢性病人應避免生食海鮮與傷口接觸海水。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-78_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-78_merged.png"
     ],
     "section": "第四篇 其他科",
-    "chapter": "精神科",
-    "category": "精神科"
+    "chapter": "皮膚科",
+    "category": "皮膚科"
   },
   {
     "id": "111-2-醫學(四)-79",
@@ -10315,7 +10315,7 @@
       "D": "請她詢問兒子保險公司業務員只開立前次住院之診斷書是否有幫助"
     },
     "answer": "B",
-    "explanation": "依據醫師法第 11 條：「醫師非親自診察，不得施行治療、開給方劑或交付診斷書。」開立診斷書，病人應親自就醫，另可申請「病歷摘要」以作為證明之用，非原負責醫師只能依照原病歷記載開立，且不得於診斷書中記載原病歷上未記載之內容，本題選 (B)",
+    "explanation": "答案 (B)。\n\n**診斷證明書的開立原則**\n\n- 依《醫師法》第 11 條，醫師非親自診察，不得開立診斷書；《醫師法》與相關規範也要求診斷書內容必須真實。\n- 本題孩子沒有到診，醫師也已兩年未親自診察，不能證明孩子「目前一切正常」；若依母親要求直接開立上述內容的診斷書，違反親自診察原則與誠實原則，最不恰當。\n- 適當的做法：\n  - 對過去住院的部分，可依病歷開立當時住院的診斷證明（或請病人申請病歷摘要）\n  - 目前健康狀況必須親自診察後才能開立\n  - 請家長確認保險公司需要的文件內容\n\n選項 (A)(C)(D) 都是合理的處理方式。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-79_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-79_merged.png"
@@ -10337,14 +10337,14 @@
       "D": "需由法定代理人決定是否停止洗腎"
     },
     "answer": "A",
-    "explanation": "吳先生目前意識與智能均正常，已有明確意思表示，故應尊重病人醫療自主、保障其善終權益，故本題選 (A)",
+    "explanation": "答案 (A)。\n\n**拒絕維生治療的病人自主**\n\n- 意識清楚、具決定能力的成年病人，有權利在充分知情下拒絕任何醫療處置，包括維持生命的治療（如透析），這是尊重自主原則的核心。\n- 本題吳先生意識與智能正常，經多方輔導後仍持續、一致地表達不願繼續洗腎，醫療團隊應：\n  1. 評估決定能力，排除可治療的憂鬱症或其他影響判斷的因素\n  2. 確認他了解停止洗腎的後果\n  3. 尊重他的決定，提供安寧緩和照護與症狀控制\n- 依《安寧緩和醫療條例》與《病人自主權利法》，病人可以拒絕或撤除維生醫療；具行為能力的成年人不需要法院判定或法定代理人代為決定。\n- 醫療人員個人的宗教或價值觀不應凌駕於病人的自主決定；若醫師無法接受，可轉介其他醫師，但不能強迫病人接受治療。",
     "explanation_image": "/explanations/cropped/111-2-醫學(四)-80_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-2-醫學(四)-80_merged.png"
     ],
     "section": "第四篇 其他科",
-    "chapter": "精神科",
-    "category": "精神科"
+    "chapter": "醫學倫理與醫療決策",
+    "category": "醫學倫理與醫療決策"
   },
   {
     "id": "111-2-醫學(五)-1",
