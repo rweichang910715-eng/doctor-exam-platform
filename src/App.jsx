@@ -21,6 +21,36 @@ const escapeRegExp = (string) => {
   return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
 }
 
+// Normalize text for searching: full-width → half-width, lower case, 臺 → 台, unify dashes
+const normalizeSearchText = (s) => (s || '')
+  .normalize('NFKC')
+  .toLowerCase()
+  .replace(/臺/g, '台')
+  .replace(/[‐‑‒–—―]/g, '-')
+
+const SEARCH_PAGE_SIZE = 30
+const SEARCH_YEARS = [...new Set(questionsData.map(q => q.year))].sort().reverse()
+const SEARCH_SUBJECTS = ['醫學(三)', '醫學(四)', '醫學(五)', '醫學(六)']
+
+// Wrap occurrences of the matched terms in <mark> for display
+const highlightTerms = (text, terms) => {
+  if (!text || !terms || terms.length === 0) return text
+  const normalized = normalizeSearchText(text)
+  // NFKC can change length for some characters; fall back to plain text in that case
+  if (normalized.length !== text.length) return text
+  const pattern = new RegExp(terms.map(escapeRegExp).sort((a, b) => b.length - a.length).join('|'), 'g')
+  const parts = []
+  let last = 0
+  for (const m of normalized.matchAll(pattern)) {
+    if (m.index > last) parts.push(text.slice(last, m.index))
+    parts.push(<mark key={m.index} className="search-hit">{text.slice(m.index, m.index + m[0].length)}</mark>)
+    last = m.index + m[0].length
+  }
+  if (parts.length === 0) return text
+  if (last < text.length) parts.push(text.slice(last))
+  return parts
+}
+
 // Map questions to medical subspecialties (腎臟內科, 胸腔內科, 心臟內科, etc.)
 // Map questions to medical subspecialties (32 Chapters across 4 Sections)
 const getQuestionSubspecialty = (q) => {
@@ -583,6 +613,10 @@ function App() {
   const [searchMode, setSearchMode] = useState('disease') // 'disease' | 'fulltext'
   const [searchResults, setSearchResults] = useState([])
   const [searchAnswers, setSearchAnswers] = useState({}) // { questionId: selectedOption }
+  const [searchScope, setSearchScope] = useState('question') // 'question' (stem + options) | 'all' (+ explanation)
+  const [searchFilters, setSearchFilters] = useState({ year: '', subject: '', chapter: '' })
+  const [searchVisible, setSearchVisible] = useState(SEARCH_PAGE_SIZE)
+  const [searchRan, setSearchRan] = useState(false)
   
   // Bookmarks practice state
   const [bookmarkAnswers, setBookmarkAnswers] = useState({}) // { questionId: selectedOption }
@@ -921,69 +955,70 @@ function App() {
   }
 
   // Handle Search Input with Disease/Medical Term Filter
-  const triggerSearch = (query = searchQuery, mode = searchMode) => {
-    const qTrim = query.trim()
-    if (!qTrim) {
+  // Space-separated keywords are ANDed. By default only the stem and options are searched;
+  // explanations are opt-in because their long supplementary tables mention many unrelated terms.
+  const triggerSearch = (query = searchQuery, mode = searchMode, opts = {}) => {
+    const scope = opts.scope ?? searchScope
+    const filters = opts.filters ?? searchFilters
+    const terms = normalizeSearchText(query).split(/\s+/).filter(Boolean)
+    setSearchVisible(SEARCH_PAGE_SIZE)
+    setSearchAnswers({})
+    if (terms.length === 0) {
       setSearchResults([])
+      setSearchRan(false)
       return
     }
 
-    const qLower = qTrim.toLowerCase()
-    const isAscii = /^[\x00-\x7F]+$/.test(qTrim)
-
-    const results = []
-
-    questionsData.forEach(q => {
-      const fullText = [
-        q.text,
-        ...Object.values(q.options || {}),
-        q.note || '',
-        q.explanation || ''
-      ].join(' ')
-      const fullTextLower = fullText.toLowerCase()
-
-      if (mode === 'disease') {
-        if (isAscii) {
-          // Word boundary prefix search for English medical terms: \bquery[a-z0-9_-]*
-          const pattern = new RegExp(`\\b${escapeRegExp(qLower)}[a-z0-9_-]*\\b`, 'gi')
-          const matches = fullText.match(pattern) || []
-          
-          const validMatches = new Set()
-          matches.forEach(m => {
-            const mLower = m.toLowerCase()
-            if (mLower === qLower || !NON_MEDICAL_ENGLISH_WORDS.has(mLower)) {
-              validMatches.add(m)
-            }
-          })
-
-          if (validMatches.size > 0) {
-            results.push({
-              ...q,
-              matchedTerms: Array.from(validMatches)
-            })
+    // Build one matcher per keyword
+    const matchers = terms.map(term => {
+      const isAscii = /^[\x00-\x7F]+$/.test(term)
+      if (mode === 'disease' && isAscii && /^[a-z0-9]/.test(term)) {
+        // English term: must start at a word boundary (prefix match), skip common non-medical words
+        const pattern = new RegExp(`(?<![a-z0-9])${escapeRegExp(term)}[a-z0-9_-]*`, 'g')
+        return (text) => {
+          const found = new Set()
+          for (const m of text.match(pattern) || []) {
+            if (m === term || !NON_MEDICAL_ENGLISH_WORDS.has(m)) found.add(m)
           }
-        } else {
-          // Chinese search: direct substring match
-          if (fullTextLower.includes(qLower)) {
-            results.push({
-              ...q,
-              matchedTerms: [qTrim]
-            })
-          }
-        }
-      } else {
-        // Fulltext mode: naive substring match
-        if (fullTextLower.includes(qLower)) {
-          results.push({
-            ...q,
-            matchedTerms: [qTrim]
-          })
+          return [...found]
         }
       }
+      return (text) => (text.includes(term) ? [term] : [])
     })
 
+    const results = []
+    questionsData.forEach(q => {
+      if (filters.year && q.year !== filters.year) return
+      if (filters.subject && q.subject !== filters.subject) return
+      if (filters.chapter && getQuestionSubspecialty(q) !== filters.chapter) return
+
+      const stem = normalizeSearchText(q.text || '')
+      const options = normalizeSearchText(Object.values(q.options || {}).join(' '))
+      const extra = scope === 'all'
+        ? normalizeSearchText([q.note || '', q.explanation || explanationsMap[q.id]?.explanation || ''].join(' '))
+        : ''
+
+      let score = 0
+      const matchedTerms = new Set()
+      for (const match of matchers) {
+        const inStem = match(stem)
+        const inOpts = match(options)
+        const inExtra = extra ? match(extra) : []
+        if (inStem.length + inOpts.length + inExtra.length === 0) return // AND: every keyword must match
+        ;[...inStem, ...inOpts, ...inExtra].forEach(t => matchedTerms.add(t))
+        score += inStem.length ? 100 : inOpts.length ? 10 : 1
+      }
+      results.push({ ...q, matchedTerms: [...matchedTerms], searchScore: score })
+    })
+
+    // Stem matches first, then option matches, then explanation-only; newest exams first within each tier
+    results.sort((a, b) => b.searchScore - a.searchScore
+      || b.year.localeCompare(a.year)
+      || a.subject.localeCompare(b.subject)
+      || a.number - b.number)
+
     setSearchResults(results)
-    setSearchAnswers({})
+    setSearchRan(true)
   }
 
   // Dashboard Renderer
@@ -2212,9 +2247,10 @@ function App() {
           </div>
 
           <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: '1rem' }}>
-            {searchMode === 'disease' 
-              ? '【疾病術語模式】依字首與詞界比對疾病與醫學單字（例如輸入 app 僅匹配 appendicitis / appendectomy，自動過濾 appearance, approach 等非醫學字詞）' 
-              : '【全文模式】比對題目與選項中所有出現的字串或子字詞'}
+            {searchMode === 'disease'
+              ? '【疾病術語模式】英文依字首比對（輸入 app 會找到 appendicitis，不會找到 happen）；中文直接比對。'
+              : '【全文模式】比對任何位置出現的字串（輸入 app 也會找到 happen）。'}
+            {' '}多個關鍵字用空格分開，會找出「同時包含所有關鍵字」的題目（例如：<code>sle 腎</code>）。
           </p>
 
           <div style={{ display: 'flex', gap: '0.5rem' }}>
@@ -2230,6 +2266,37 @@ function App() {
               }}
             />
             <button className="btn btn-primary" onClick={() => triggerSearch(searchQuery)}>搜尋</button>
+          </div>
+
+          {/* Scope and filters */}
+          <div className="search-filters">
+            <label className="search-filter">
+              <span>搜尋範圍</span>
+              <select value={searchScope} onChange={(e) => {
+                setSearchScope(e.target.value)
+                triggerSearch(searchQuery, searchMode, { scope: e.target.value })
+              }}>
+                <option value="question">題目與選項</option>
+                <option value="all">題目、選項與詳解</option>
+              </select>
+            </label>
+            {[
+              { key: 'year', label: '年度', options: SEARCH_YEARS.map(y => [y, `${y} 年`]) },
+              { key: 'subject', label: '科目', options: SEARCH_SUBJECTS.map(s => [s, s]) },
+              { key: 'chapter', label: '科別', options: SUBSPECIALTY_GROUPS.flatMap(g => g.items).map(c => [c, c]) },
+            ].map(f => (
+              <label key={f.key} className="search-filter">
+                <span>{f.label}</span>
+                <select value={searchFilters[f.key]} onChange={(e) => {
+                  const next = { ...searchFilters, [f.key]: e.target.value }
+                  setSearchFilters(next)
+                  triggerSearch(searchQuery, searchMode, { filters: next })
+                }}>
+                  <option value="">全部</option>
+                  {f.options.map(([v, l]) => <option key={v} value={v}>{l}</option>)}
+                </select>
+              </label>
+            ))}
           </div>
 
           {/* Quick Keyword Chips */}
@@ -2251,17 +2318,23 @@ function App() {
           </div>
         </div>
 
+        {searchRan && searchResults.length === 0 && (
+          <div className="card" style={{ textAlign: 'center', padding: '2rem', color: 'var(--text-secondary)' }}>
+            找不到符合的題目。可以試試：減少關鍵字、改用英文或中文、切換到「全文模式」，或把搜尋範圍改成「題目、選項與詳解」。
+          </div>
+        )}
+
         {searchResults.length > 0 && (
           <div className="card">
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem', flexWrap: 'wrap', gap: '0.5rem' }}>
               <h3 style={{ fontSize: '1.1rem', margin: 0 }}>搜尋結果 ({searchResults.length} 題)</h3>
               <span className="question-meta-badge" style={{ fontSize: '0.75rem' }}>
-                模式: {searchMode === 'disease' ? '🩺 疾病與醫學術語' : '🌐 全文模式'}
+                {searchMode === 'disease' ? '🩺 疾病與醫學術語' : '🌐 全文模式'}・{searchScope === 'all' ? '含詳解' : '題目與選項'}
               </span>
             </div>
 
             <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
-              {searchResults.map((q, idx) => {
+              {searchResults.slice(0, searchVisible).map((q, idx) => {
                 const userSelected = searchAnswers[q.id]
                 const answered = userSelected !== undefined
                 const bookmarked = bookmarks.includes(q.id)
@@ -2271,16 +2344,20 @@ function App() {
                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '0.75rem', flexWrap: 'wrap', gap: '0.5rem' }}>
                       <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap' }}>
                         <span className="question-meta-badge">{q.year}年 / {q.subject} / Q{q.number}</span>
+                        <span className="question-meta-badge">{getQuestionSubspecialty(q)}</span>
                         {q.matchedTerms && q.matchedTerms.length > 0 && (
                           <span className="tag tag-green" style={{ backgroundColor: 'var(--success-light)', color: 'var(--success)', fontSize: '0.75rem', fontWeight: 600 }}>
                             🎯 匹配術語: {q.matchedTerms.join(', ')}
                           </span>
                         )}
+                        {q.searchScore < 10 && (
+                          <span className="question-meta-badge" style={{ fontSize: '0.75rem' }}>僅詳解提及</span>
+                        )}
                       </div>
 
                     </div>
 
-                    <div className="question-text" style={{ fontSize: '1.05rem', fontWeight: 600 }}>{q.text}</div>
+                    <div className="question-text" style={{ fontSize: '1.05rem', fontWeight: 600 }}>{highlightTerms(q.text, q.matchedTerms)}</div>
                     
                     {q.images && q.images.length > 0 && (
                       <div style={{ marginBottom: '1rem', display: 'flex', gap: '0.5rem' }}>
@@ -2315,7 +2392,7 @@ function App() {
                             disabled={answered}
                             onClick={() => setSearchAnswers(prev => ({ ...prev, [q.id]: letter }))}
                           >
-                            <strong>({letter})</strong> {text}
+                            <strong>({letter})</strong> {highlightTerms(text, q.matchedTerms)}
                           </button>
                         )
                       })}
@@ -2335,6 +2412,16 @@ function App() {
                 )
               })}
             </div>
+
+            {searchResults.length > searchVisible && (
+              <button
+                className="btn btn-secondary"
+                style={{ marginTop: '1.5rem', width: '100%' }}
+                onClick={() => setSearchVisible(v => v + SEARCH_PAGE_SIZE)}
+              >
+                顯示更多（還有 {searchResults.length - searchVisible} 題）
+              </button>
+            )}
           </div>
         )}
       </div>
