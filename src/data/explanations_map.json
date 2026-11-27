@@ -1,104 +1,104 @@
 {
   "111-1-醫學(三)-21": {
-    "explanation": "Model for End-Stage Liver Disease（MELD）score 是 Mayo Clinic 的 Patrick S. Kamath 與同事研發的，最初叫做 Mayo End-Stage Liver Disease（MELD）model，本來是拿來預測肝硬化不做 TIPS 的存活率。後來成為了決定接受肝移植優先次序的模型，故本題選 (A)\n\nMELD score 以前有個版本叫做 MELD-Na，不過 MELD 在 2021 更新成為 MELD 3.0 後，本身就加入性別、Na、Albumin 等評分項目了（Creatinine 的上限從 4 下調到 3 mg/dL）。有關肝臟疾病的常用指標或計分整理如下：\n\n| score / grade / stage | 用途 | 項目 |\n| --- | --- | --- |\n| MELD（舊版） | 肝臟移植排序 | Bilirubin、Creatinine、INR、BIW 洗腎或近一週內 CVVH ≥ 24hr |\n| MELD 3.0 | | Bilirubin、Creatinine、INR、Na、Gender、Albumin |\n| Child-Turcotte-Pugh | 評估肝硬化嚴重度、肝功能 | Albumin、Ascites、Bilirubin、encephalopathy、PT 或 INR |\n| Maddrey discriminant function score | 找出適合使用類固醇的酒精肝炎病患 | PT、Bilirubin |\n| BCLC stage | HCC 治療參考 | 腫瘤顆數、大小、整體 ECOG 狀況（performance status）、Child-Pugh |\n\n(B) Child-Turcotte-Pugh 過去會考算分數，所以細項都要會：\n\n| Child-Turcotte-Pugh Score | 1 | 2 | 3 |\n| --- | --- | --- | --- |\n| Albumin | > 3.5 | 2.8 ~ 3.5 | < 2.8 |\n| Ascites | 無 | 輕 ~ 中（利尿劑有效） | 嚴重（利尿劑 refractory） |\n| Bilirubin | < 2 | 2 ~ 3 | > 3 |\n| Coagulation（PT 延長） | < 4 | 4 ~ 6 | > 6 |\n| Coagulation（INR） | < 1.7 | 1.7 ~ 2.3 | > 2.3 |\n| Encephalopathy | 無 | 輕 ~ 中（Gr 1~2） | 嚴重（Gr 3~4） |\n\nClass A：5 ~ 6 分\nClass B：7 ~ 9 分\nClass C：10 ~ 15 分\n\n(D) SOFA score 跟 APACHE-II score 都是用於預測 ICU 病人的死亡率，但 APACHE-II 只看前 24 hr，而 SOFA 看的是連續的變化（sequential）",
+    "explanation": "答案 (A)。\n\n**肝臟移植的優先順序**\n\n- 目前多數國家（含台灣）以 MELD 分數決定屍肝分配的優先順序：以總膽紅素、creatinine、INR（MELD-Na 再加血鈉）計算，可客觀預測 3 個月死亡率，分數越高越優先。\n- 肝細胞癌等特殊情況會給予額外分數（MELD exception）。\n\n| 分數 | 用途 |\n| --- | --- |\n| Child-Turcotte-Pugh | 評估肝硬化嚴重度與手術風險（含主觀項目：腹水、肝性腦病變） |\n| Maddrey 判別函數 | 評估酒精性肝炎嚴重度，≥ 32 考慮類固醇 |\n| SOFA | 加護病房的器官衰竭評估、敗血症診斷 |",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-21_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-21_merged.png"
     ]
   },
   "111-1-醫學(三)-22": {
-    "explanation": "這題在考 Peptic ulcer 的 Forrest classification，從 class I 到 class III 再出血機率由高至低，各家統計出來的再出血機率數值略有不同，本題知道相對風險就可以作答。選項中再出血機率最小的應為 (C)，屬 Forrest class III\n\n| Forrest class | 內視鏡下表現 | 再出血機率 |\n| --- | --- | --- |\n| I A | 正在噴血（spurting hemorrhage） | 高<br>↓<br>↓<br>↓<br>↓<br>低 |\n| I B | 滲血（oozing hemorrhage） | |\n| II A | 未出血的血管（non-bleeding visible vessel） | |\n| II B | 潰瘍底部有附著血塊（adherent clot） | |\n| II C | 黑色的潰瘍底（hematin covered lesion） | |\n| III | 乾淨的潰瘍底（clean base w/o active bleeding） | |",
+    "explanation": "答案 (C)。\n\n**消化性潰瘍出血的內視鏡分級（Forrest）與再出血風險**\n\n| 分級 | 內視鏡所見 | 未治療時再出血率 |\n| --- | --- | --- |\n| Ia | 噴射性出血 | 約 90% |\n| Ib | 滲出性出血 | 約 50% |\n| IIa | 可見未出血的血管 | 約 40–50% |\n| IIb | 黏附的血塊 | 約 20–30% |\n| IIc | 黑色色素斑點 | 約 7–10% |\n| III | 乾淨的潰瘍底部 | 約 3–5% |\n\n- Ia–IIa 需內視鏡止血；IIb 可考慮移除血塊後處理。\n- 潰瘍底部乾淨者再出血風險最低，可早期進食、出院。\n- (D) 動靜脈畸形（血管擴張症）可反覆出血，且未治療時再出血率不低。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-22_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-22_merged.png"
     ]
   },
   "111-1-醫學(三)-23": {
-    "explanation": "B 肝的血清學反應很愛考，請務必記熟。被 HBV 感染後，第 1 個（8 ~ 12 週）可以在血中偵測到的是 HBsAg，過了 2 ~ 6 週後才會開始出現症狀以及肝指數上升。HBcAg 出現在肝細胞內，因此通常無法在血中直接偵測到，但 anti-HBc IgM 在偵測到 HBsAg 後 1 ~ 2 週即可被測得，比 anti-HBs 早數週甚至數個月出現。若發生只有 anti-HBc 陽性的情況，可能是急性輸血相關肝炎或 occult infection\n\n| HBV 感染血清學指標 | | | |\n| --- | --- | --- | --- |\n| 血清指標 | 出現時機 | 消失時機 | 意義 |\n| HBsAg | 感染後 8 ~ 12 週 | 出現黃疸後 1 ~ 2 個月，不超過 6 個月（變慢性則會） | 活動性感染（active infection）的指標 |\n| anti-HBs | 急性：HBsAg 消失後 | - | 有保護力的 Ab |\n| HBcAg | 通常測不到 | - | 真的有感染才會由 |\n| anti-HBc | IgM 在 HBsAg 出現 1 ~ 2 週後出現 → 慢性感染時為 IgG | - | 感染 (+)、打疫苗 (-) |\n| HBeAg | HBsAg 出現時或出現後隨即可測得 | 自限性：肝指數對頂、HBsAg 消失前 | 複製活躍度、感染力高<br>* 量化指標：HBV DNA |\n| anti-HBe | HBeAg 消失後 | - | 複製活躍度、感染力低 |",
+    "explanation": "答案 (D)。\n\n**急性 B 型肝炎的血清學變化**\n\n- 潛伏期約 1–6 個月。\n- HBsAg 是最早出現的血清標記，約在感染後 1–12 週（常在 8–12 週）出現，比轉胺酶上升與症狀早 2–6 週。\n- Anti-HBc IgM 在 HBsAg 出現後約 1–2 週、症狀出現時即可測到，是急性感染的診斷指標，而不是 HBsAg 出現 4 週後才測得到，故 (D) 錯誤。\n- 空窗期：HBsAg 已消失但 anti-HBs 尚未出現時，只有 anti-HBc（IgM）陽性。\n- 單獨 anti-HBc 陽性的可能情況：\n  - 急性感染的空窗期\n  - 很久以前感染痊癒、anti-HBs 已降到測不到\n  - 隱匿性 B 型肝炎（HBsAg 陰性但肝內與血中仍有 HBV DNA）\n  - 偽陽性",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-23_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-23_merged.png"
     ]
   },
   "111-1-醫學(三)-24": {
-    "explanation": "出現 creatinine 爬升、切片下內皮細胞損傷 + 有 C4d 沉積 → antibody-mediated 腎排斥。治療方法包含：血漿置換（plasmapheresis）、IVIG、rituximab（anti-CD20 針對 B cell）、bortezomib（針對漿細胞）。並非使用 anti-IL2 receptor 的單株抗體，故選 (C)\n\n| 排斥類型 | 病理表現 | 治療 |\n| --- | --- | --- |\n| Acute T-cell mediated | 間質、腎小管、血管有免疫細胞浸潤 | 高劑量類固醇（500 ~ 1000 mg MTP x 3 天）、ATG |\n| Antibody-mediated | 內皮細胞損傷、微血管有 C4d 沉積 | 血漿置換、IVIG、rituximab、bortezomib |\n\n＜補充＞\n1. 腎臟移植病患的前三大死因：心血管意外（29%）、感染（18%）、惡性腫瘤（17%）\n2. 腎移植後免疫抑制治療：\n\n| 腎移植後免疫抑制藥 | | |\n| --- | --- | --- |\n| 類型 | 舉例 | |\n| 誘導期 | depleting | anti-thymocyte globulin (ATG)、Alemtuzumab |\n| | non-depleting | basiliximab (IL-2R antagonist)（只能當預防，不能當已發生排斥的治療） |\n| 維持期 | anti-metabolite | Azathioprine (AZA)、mycophenolate (MMF) |\n| | steroids | methylprednisolone (MTP) |\n| | calcineurin-i | cyclosporine、tacrolimus (FK506) |\n| | mTOR-i | sirolimus (rapamycin)、everolimus |\n| | costimulation-i | belatacept（CTLA-4 融合蛋白） |",
+    "explanation": "答案 (C)。\n\n**抗體媒介性排斥（AMR）的治療**\n\n- 本題腎臟移植後腎功能惡化，切片顯示微血管內皮細胞損傷合併 C4d 沉積，符合急性抗體媒介性排斥（需合併捐贈者特異性抗體）。\n- 治療目標是移除與減少抗體：\n  - 血漿置換\n  - 靜脈免疫球蛋白（IVIG）\n  - 抗 CD20 單株抗體（rituximab）\n  - 其他：bortezomib（漿細胞）、eculizumab（補體 C5）、高劑量類固醇\n- 抗 IL-2 受體單株抗體（basiliximab）用於移植時的誘導治療，可預防 T 細胞媒介性排斥，對已發生的抗體媒介性排斥沒有效果，故 (C) 最不適當。\n\n| 排斥類型 | 治療 |\n| --- | --- |\n| T 細胞媒介性 | 類固醇脈衝，嚴重者抗胸腺細胞球蛋白 |\n| 抗體媒介性 | 血漿置換 + IVIG ± rituximab |",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-24_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-24_merged.png"
     ]
   },
   "111-1-醫學(三)-25": {
-    "explanation": "圖中的結晶形狀像信封，是最常見的 calcium oxalate dihydrate 結石\n\n| 結石的 risk factors | | | | | |\n| --- | --- | --- | --- | --- | --- |\n| 結石 | 食物 | 飲水 / 尿量 | 尿液成分 | 尿液 pH | 其他 |\n| 草酸鈣（75%） | 低鈣飲食、高劑量 vitamin C | 水喝太少、UOP < 1 L/d、含糖飲料（柳橙汁例外） | 高草酸 / 高鈣、低檸檬酸 | 不影響 | - |\n| 磷酸鈣（15%） | - | | 高磷酸 / 高鈣、低檸檬酸 | ≥ 6.5 | type 1 RTA、1° 副甲亢 |\n| 尿酸（8%） | 高普林飲食 | | 高尿酸 | ≤ 5.5 | - |\n\n(A) 錯誤，飲食中有攝取「高鈣食物」反而會「降低」結石的生成。因為高鈣飲食會讓腸道吸收較少 oxalate，反而不容易形成 calcium oxalate stones。但如果是透過吃保健食品補鈣，則會增加結石機率（可能與攝取的時間與平常進食不同，或與總量過高有關）。因此平常食物要高鈣，但不用特別去補充鈣離子營養品\n(B) 正確，尿液 pH 不會影響 calcium oxalate 結石的生成\n(C) 錯誤，tiopronin 跟 penicillamine 是治療 cystinuria 的藥，透過生成溶解度比 cystine 高的 disulfide 來增進結石排除，兩者均無法減少 calcium oxalate 結石生成\n(D) 錯誤，vitamin C 會增加男性 calcium oxalate 結石生成。因為 vitamin C 會增加尿液中的 oxalate 濃度，故應該要避免額外補充 vitamin C",
+    "explanation": "答案 (B)。\n\n**尿中結晶與結石處置**\n\n- 題圖的結晶最符合草酸鈣結晶（信封狀的二水草酸鈣），是最常見的腎結石成分。\n- 草酸鈣的形成與尿液 pH 關係不大，因此通常不需要調整尿液酸鹼值，故 (B) 正確。（尿酸結石需鹼化尿液；磷酸鈣與感染性結石在鹼性尿液中形成。）\n- 草酸鈣結石的預防：\n  - 多喝水，每日尿量 > 2–2.5 L\n  - 正常鈣攝取（低鈣飲食會使腸道草酸吸收增加，反而增加結石），故 (A) 錯誤\n  - 減少鹽分、動物性蛋白與高草酸食物\n  - 低檸檬酸尿時補充 potassium citrate；高鈣尿時使用 thiazide\n- 避免高劑量維生素 C（會代謝成草酸），故 (D) 錯誤。\n- Tiopronin 與 penicillamine 用於胱胺酸結石（六角形結晶），故 (C) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-25_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-25_merged.png"
     ]
   },
   "111-1-醫學(三)-26": {
-    "explanation": "急性間質性腎炎（acute interstitial nephritis, AIN）可有以下幾種表現類型：\n1. 常見：偶然發現 creatinine 升高\n2. 典型：發燒、紅疹、血中嗜酸性白血球增加、使用 β-lactam Abx 後出現\n   * 雖稱典型，但這些症狀並不常見\n3. 非典型：嚴重蛋白尿、使用 NSAID 後出現\n\n診斷方式：\n\n| 診斷方式 | |\n| --- | --- |\n| 支持診斷、常見 | 無法解釋的腎損傷、有膿尿（pyuria）與 WBC casts、血尿 |\n| 可支持診斷、少見 | 周邊嗜酸性白血球增加 |\n| 可有可無 | oliguria、藥物暴露史 |\n| 不敏感也不準確 | 尿中嗜酸性白血球 |\n| 通常不用做 | 腎臟切片（間質、腎小管大量免疫細胞浸潤） |\n\n(C) 使用 PPI 所導致免疫性間質性腎炎進程比較緩慢，其他也會有類似表現的藥物包含：sulfonamide、5-ASA、反轉錄病毒藥物\n(D) 這句中文有點神秘，推測想表達的應該是：AIN 表現的急性腎衰竭的病程（包含時程），與免疫反應相關，會造成組織水腫、腎小管細胞受損、影響腎小管內正常流動、產生 cast 或 crystals 等\n\n＜其他考點＞\n1. drug free 一陣子後重新使用（reintroduce）rifampin 會導致嚴重且快速發生的 AIN\n2. 慢性間質性腎病的常見臨床表現：Fanconi syndrome、貧血",
+    "explanation": "答案 (C)。\n\n**急性間質性腎炎（AIN）**\n\n- 原因：藥物（約 70%：抗生素如 β-lactam、PPI、NSAIDs、allopurinol）、感染、自體免疫疾病（類肉瘤病、修格蘭氏症候群、IgG4 相關疾病）。\n- 表現：用藥後數天至數週出現急性腎損傷（符合免疫反應的時間進程）；典型三聯徵（發燒、皮疹、嗜酸性球增多）不到 10% 同時出現。\n- 尿液：輕度蛋白尿（< 1 g/day）、白血球尿、白血球圓柱、血尿，可有嗜酸性球尿；FENa 常 > 1%（腎小管受損）。\n- 例外：NSAIDs 可同時造成 AIN 與微小變化型腎病，出現腎病症候群程度的蛋白尿；PPI 引起的 AIN 通常不會有大量蛋白尿，故 (C) 不是常見表現。\n- 治療：停用可疑藥物；腎功能未改善者可使用類固醇。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-26_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-26_merged.png"
     ]
   },
   "111-1-醫學(三)-27": {
-    "explanation": "ADPKD 是最常見的遺傳性腎臟疾病，分為兩型，都是影響 primary cilium 中的 polycystin (PC)。PC1 以及 PC2 會以 1:3 的比例組合成 PC1/2 通道複合體，負責調控鈣離子的進出以及 G-protein signaling。如果其中一者發生異常，可能會導致 cAMP 增加 → protein kinase A 活性增加 → 促進囊泡內襯細胞增生及液體分泌。長期下來，兩邊的腎臟會變很大顆，與一般 CKD 腎臟會萎縮的表現不同\n\n| ADPKD 症狀 | |\n| --- | --- |\n| 常見症狀 | 1. 60% 有背或軀幹疼痛：因為 cyst 感染、出血、長腎結石<br>2. 40% 有 gross hematuria：因為 cyst 破掉出血、腎結石磨擦<br>3. 最常見死因是心血管併發症（40%）：第二常見死因是感染（25%）<br>4. 最常見腎外併發症：liver cysts（膽道上皮長出來的） |\n| 較少見症狀 | 1. proteinuria（就算有通常也不嚴重）<br>2. renal cell carcinoma（罕見，跟一般人比起來風險無顯著增加！） |\n\n(B) 正確，整理於下表。ADPKD 遺傳形式為完全外顯（complete penetrance）但表現度多樣（variable expressivity）。另外要記 ARPKD 的突變基因是 PKHD1（chr. 6p），嚴重者會因為腎功能太差 → 尿液製造困難 → oligohydramnios → 影響胎兒肺發育\n\n| ADPKD 比較 | | | | |\n| --- | --- | --- | --- | --- |\n| | 基因 | 30 歲 | 50 歲 | 70 歲 |\n| 第一型（85%） | PKD1 (chr. 16p13.3) → polycystin 1 (PC1) | focal cysts；< 5% 腎衰竭 | 上百、千顆 cysts；35% 腎衰竭 | 95% 腎衰竭 |\n| 第二型（15%） | PKD2 (chr. 4q21-23) → polycystin 2 (PC2) |（惡化較慢） | < 5% 腎衰竭 | 45% 腎衰竭 |\n\n(C) 錯誤，ADPKD 病人發生顱內動脈瘤的機率約為一般人的 4 ~ 5 倍，盛行率約 8%，有家族史的人風險又再 x3 倍。雖說這種動脈瘤是「先天性」的，但其實並非出生時就有，而是隨著年紀才逐漸長出；動脈瘤破裂一般常見於 50 歲的中年女性\n(D) 正確，ADPKD 的紅血球生成素（EPO）比起其他原因導致的 CKD 高，因此血比容（Hct）也較高、會較晚才出現貧血症狀\n\n＜其他考點＞\n1. 腎臟會變大顆的 CKD：ADPKD、DM、HIV、amyloidosis、腎靜脈栓塞\n2. ADPKD 最常合併的心臟瓣膜異常：mitral valve prolapse（25 ~ 30%）\n3. ADPKD 如果發生 cyst 感染，一般的抗生素不易穿透，要選 FQ 或 3 代 cefa\n4. ADPKD 的腎結石有過半是 uric acid stone，calcium oxalate 僅第二多\n5. 經證實可延緩 ADPKD 腎功能衰退、減緩體積增加的藥是 tolvaptan（目前唯一經美國 FDA 認可）【110 內專】\n6. 低鹽飲食可能對 ADPKD 有幫助，高血壓一線用藥：ACE-i、ARB【110 內專】",
+    "explanation": "答案 (C)。\n\n**多囊性腎臟病**\n\n- 體染色體顯性多囊腎（ADPKD）是最常見的遺傳性腎臟病（約 1/400–1/1,000）。\n- 致病基因：PKD1（16p13.3，約 85%，病情較重、較早進入末期腎病）與 PKD2（4q21–23，約 15%）。\n- 腎外表現：肝囊腫（最常見）、顱內動脈瘤、二尖瓣脫垂、大腸憩室、腹壁疝氣。\n- 顱內動脈瘤：約 5–10%（有家族史者約 20%），破裂多發生在 50 歲左右；並無男性或 30 歲以下較多的情況，故 (C) 錯誤。有家族史或高風險職業者建議以 MRA 篩檢。\n- 由於腎臟囊腫仍可分泌紅血球生成素，ADPKD 病人的貧血比其他末期腎病輕，有時甚至紅血球增多。\n- 進入末期腎病時，可接受透析或腎臟移植（病人自己的腎臟過大或反覆感染時，可能需要先切除）。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-27_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-27_merged.png"
     ]
   },
   "111-1-醫學(三)-28": {
-    "explanation": "在 108 年內專考了一題幾乎一樣的（差在抽掉一個選項）\n\n腎病症候群（nephrotic syndrome）的典型臨床表現為嚴重蛋白尿、輕微血尿、低白蛋白、高膽固醇血症、水腫以及高血壓。雖然血栓相關併發症是所有腎病症候群的共同特色，但 membranous nephropathy (MN) 或稱 membranous glomerulonephritis (MGN) 的發生率最高。目前對於是否要預防性使用抗凝血藥物還有爭議，但如果出現「低白蛋白血症」則建議使用",
+    "explanation": "答案 (C)。\n\n**腎病症候群與血栓**\n\n- 腎病症候群的高凝狀態：\n  - 尿中流失抗凝血因子（抗凝血酶 III、protein S）\n  - 肝臟製造凝血因子與纖維蛋白原增加\n  - 血小板活化、血液濃縮、利尿劑、低活動量\n- 各種腎絲球疾病中，膜性腎病變最容易發生血栓（腎靜脈栓塞可達 20–30%），其次為膜增生性腎絲球腎炎、微小變化型腎病。\n- 血清白蛋白越低（< 2.0–2.5 g/dL），血栓風險越高；高風險的膜性腎病病人可考慮預防性抗凝血。\n\n**補充**：腎靜脈栓塞可表現為突發腰痛、血尿、蛋白尿惡化、腎功能下降，也可能無症狀；肺栓塞是嚴重的併發症。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-28_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-28_merged.png"
     ]
   },
   "111-1-醫學(三)-29": {
-    "explanation": "| 皮質集尿管（cortical collecting duct）上皮細胞類型 | |\n| --- | --- |\n| 主細胞（principal cell，chief cell！） | 1. 負責留水、留 Na、排 K 的細胞<br>2. aldosterone、保鉀利尿劑、鹽皮質素受體拮抗劑（MRA，如：spironolactone 與 eplerenone）的作用細胞 |\n| A 型間細胞 | 負責排酸（H⁺）、再吸收重碳酸根（HCO₃⁻） |\n| B 型間細胞 | 負責排重碳酸根（HCO₃⁻）、再吸收酸（H⁺） |\n\n(A) 是排鉀離子，不是再吸收\n(C)(D) 正好寫反，A 型間細胞排酸、B 型間細胞排鹼\n＜記法＞ 叫什麼型間細胞就排什麼，A 型排酸（acid）、B 型排鹼（base）",
+    "explanation": "答案 (B)。\n\n**皮質集尿管的細胞**\n\n| 細胞 | 功能 | 藥物作用 |\n| --- | --- | --- |\n| 主細胞（principal cell） | ENaC 再吸收鈉、ROMK 分泌鉀；在 ADH 作用下經 aquaporin-2 再吸收水 | 醛固酮、amiloride、triamterene（ENaC 阻斷）、spironolactone、eplerenone（醛固酮拮抗）、ADH |\n| A 型間細胞（α） | 頂端 H⁺-ATPase 分泌氫離子，基底側再吸收碳酸氫根；H⁺/K⁺-ATPase 再吸收鉀 | — |\n| B 型間細胞（β） | 分泌碳酸氫根（pendrin）、再吸收氫離子 | — |\n\n- (A) 主細胞是分泌鉀，而不是再吸收鉀。\n- (C)(D) A 型與 B 型的功能顛倒：A 型分泌酸並再吸收碳酸氫根，B 型分泌碳酸氫根。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-29_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-29_merged.png"
     ]
   },
   "111-1-醫學(三)-30": {
-    "explanation": "急性腎損傷的處置：透過輸液及升壓劑維持良好血液動力學、少用傷腎的藥（ACE-i / ARB / NSAID / aminoglycoside）、適時啟動 renal replacement therapy（RRT）\n\n(A) 如果有大量出血者應輸 packed RBC，其他 AKI 患者建議選擇 crystalloid，因為 albumin 比較貴，而且跟 crystalloid 比並沒有 survival benefit，也不會降低使用 renal replacement therapy 的需求\n\n| 狀況 | 輸液選擇 |\n| --- | --- |\n| 大失血 | packed RBC |\n| hypochloremic AKI | 0.9% normal saline (NS) |\n| non-hypochloremic AKI | Buffered crystalloid（例：lactate Ringer）<br>* 如果輸太多 NS 可能會導致高氯酸血症 |\n\n(B) 在嚴重 AKI 的病人身上出現蛋白質消耗是一件常見的事情。然而蛋白質的攝取量多寡要依 AKI 嚴重度有所調整。總熱量目標是每天 20 ~ 30 kcal/kg，過低可能導致酮酸血症（ketoacidosis）或出現負的氮平衡（nitrogen balance）。不同嚴重度每日所需之蛋白質量參考 Harrison 21/e Ch. 310 整理如下：\n\n| 狀態 | 每日所需蛋白質 |\n| --- | --- |\n| 不用洗腎 | 0.8 ~ 1.0 g/kg/day |\n| 洗腎中 | 1.0 ~ 1.5 g/kg/day |\n| 持續進行 RRT | 最多 1.7 g/kg/day<br>* 有 guideline 建議 1.5 ~ 2.5，但考試先以 Harrison 為主 |\n\n(C) 因為 BUN、creatinine 主要是看腎絲球過濾率，不能完全反應腎實質的損傷，所以拿來預測 AKI 惡化程度的還有其他指標，整理於下表。選項中的 furosemide stress test 主要是看在體液容積足夠的情況下，腎小管的功能是否有損傷、是否能對 furosemide 的刺激做出相對的反應，可以作為 AKI 惡化的預測工具。檢測方法是 iv. bolus 1.0 ~ 1.5 mg/kg 的 furosemide，並於 2 hr 內監測 urine output（UOP）\n\n| 指標 | 說明 |\n| --- | --- |\n| Furosemide test | 1. 適合用於寡尿型 AKI（oliguric），檢測腎小管功能<br>2. 注射後 2hr 的 UOP < 200 mL 者可能惡化較快 |\n| 尿液鏡檢 | 有腎小管上皮細胞、granular cast 者可能惡化較快 |\n| KIM-1 | 反應腎臟缺血性傷害、nephrotoxin 導致的損傷（如：cisplatin） |\n| NGAL | 反應發炎、近端腎小管損傷 |\n| IGFBP7 + TIMP-2 | 用於預測 critically ill 病人發展出中重度 AKI 之風險 |\n\n(D) 已經有不少物質被證實對 ATN 沒有任何好處，包含：ANP、low dose dopamine、endothelin antagonist、EPO、CCB、α-blockers、PGE、IGF 等。依照 2012 KDIGO AKI 指引的 Chapter 3.1: Hemodynamic monitoring and support for prevention and management of AKI，建議使用血管收縮劑配上輸液以維持腎臟灌流預防 AKI。但相比於 norepinephrine，low-dose dopamine 會有較高的風險產生心律不整，因此並不建議使用",
+    "explanation": "答案 (B)。\n\n**急性腎損傷的處置（KDIGO）**\n\n- 非出血性休克的輸液：使用等張晶體液（平衡鹽溶液或生理食鹽水），而不是膠體液。\n- 低劑量 dopamine 不能預防或治療急性腎損傷，不建議使用。\n- 利尿劑只用於體液過多，不能用來預防或治療急性腎損傷；但 furosemide 壓力測試（1–1.5 mg/kg 後 2 小時尿量 < 200 mL）可預測腎損傷惡化、需要透析的可能。\n- 營養：重症急性腎損傷病人處於高分解代謝狀態，不應為了延緩透析而限制蛋白質；建議蛋白質 0.8–1.0 g/kg/day（非透析、非分解代謝），接受腎臟替代療法者 1.0–1.5 g/kg/day，連續性透析或高分解代謝者最多 1.7 g/kg/day，故 (B) 錯誤。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-30_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-30_merged.png"
     ]
   },
   "111-1-醫學(三)-36": {
-    "explanation": "【答案】(A) 或 (D)\n【解析】\n\n原始公告答案為 (A)，經試題疑義申覆後，考選部公告 (A) 或 (D) 均給分\n\n(A) 錯誤，**Interferon-γ（IFN-γ）** 是促進發炎、促進細胞免疫的主要細胞激素（由 Th1、CD8+ CTL 與 NK 細胞分泌），具有活化巨噬細胞、上調 MHC 分子表現及促進抗腫瘤（anti-tumor）免疫反應之功能；腫瘤細胞主要分泌 **TGF-β、IL-10、VEGF** 等免疫抑制性細胞激素來壓制免疫系統\n\n(B) 正確，腫瘤細胞常透過突變或下調（downregulate）**MHC class I** 分子（如 β2-microglobulin 突變），減少腫瘤相關抗原呈現，使 CD8+ 毒殺性 T 細胞無法有效辨識與殺傷腫瘤細胞\n\n(C) 正確，腫瘤微環境會分泌趨化因子募集並活化 **調節性 T 細胞（Tregs，CD4+ CD25+ FoxP3+）** 及骨髓衍生抑制細胞（MDSC），釋放免疫抑制因子阻斷效應 T 細胞之功能\n\n(D) 錯誤/爭議（故開放給分），**CTLA-4** 是表現於 **T 細胞（T cells）表面** 的免疫檢查點抑制性受體，而非由腫瘤細胞產生；腫瘤細胞主要表現的是 **PD-L1（結合 T 細胞的 PD-1）** 或透過表現 B7 家族分子與 T 細胞上的 CTLA-4 結合發送信號選項敘述「腫瘤細胞產生 CTLA-4」在免疫學定義上不正確，因此考選部開放 (D) 亦給分\n\n### 腫瘤免疫逃脫主要機制（Tumor Immune Evasion Mechanisms）\n\n| 逃脫機制類別 | 具體細胞或分子變化 | 免疫學效應與結果 |\n| :--- | :--- | :--- |\n| **抗原呈現缺失** | • 下調或喪失 MHC class I 表現<br>• 抗原處理機制缺陷（TAP 轉運蛋白、β2-microglobulin 突變） | CD8+ 毒殺性 T 細胞無法辨識腫瘤細胞抗原 |\n| **免疫檢查點途徑活化** | • 腫瘤細胞表面過度表現 **PD-L1**（結合 T 細胞之 PD-1）<br>• APC 或腫瘤表現 B7 結合 T 細胞之 **CTLA-4** | 直接傳遞抑制信號，造成效應 T 細胞功能耗竭（exhaustion）與無反應性（anergy） |\n| **免疫抑制性微環境建立** | • 分泌抑制性細胞激素（**TGF-β、IL-10、VEGF**）<br>• 募集免疫抑制性細胞（**Tregs、MDSCs、M2 巨噬細胞**） | 抑制 Th1/CTL 活化與增殖，阻斷樹突細胞抗原呈現 |\n| **代謝途徑重塑** | • 腫瘤微環境高表現 **IDO（吲哚胺 2,3-雙加氧酶）**，消耗色胺酸並產生犬尿氨酸<br>• 局部乳酸蓄積、酸中毒與低氧環境 | 抑制 T 細胞增殖與殺傷活性，誘導 T 細胞凋亡 |",
+    "explanation": "答案 (A)、(D)（原答案 A，官方更正為 A、D 或 AD 均給分）。\n\n**腫瘤的免疫逃脫機轉**\n\n- 腫瘤細胞降低或喪失 MHC class I，使毒殺 T 細胞無法辨識。\n- 招募與活化調節性 T 細胞、骨髓來源抑制細胞（MDSC）、M2 型巨噬細胞，抑制抗腫瘤免疫。\n- 分泌抑制性細胞激素：TGF-β、IL-10、VEGF；表現 PD-L1 與 T 細胞上的 PD-1 結合，使 T 細胞耗竭。\n\n逐項檢視：\n- (A) 錯誤：IFN-γ 是活化免疫的細胞激素（由 T 細胞與 NK 細胞分泌，增加 MHC 表現），不是腫瘤分泌的免疫抑制細胞激素。（IFN-γ 也會誘導腫瘤表現 PD-L1，但題意不符。）\n- (D) 錯誤：CTLA-4 是表現在 T 細胞（特別是調節性 T 細胞）上的抑制性受體，與抗原呈現細胞上的 B7 結合，抑制 T 細胞活化；不是腫瘤細胞產生的。\n\n因此官方更正 (A)、(D) 均給分。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-36_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-36_merged.png"
     ]
   },
   "111-1-醫學(三)-37": {
-    "explanation": "【答案】(D)\n【解析】\n\n(A) 正確，**肥胖（Obesity / high BMI）** 是食道腺癌（Esophageal Adenocarcinoma, EAC）的重要危險因子；肥胖會增加腹內壓促使胃食道逆流發生，且內臟脂肪組織分泌的發炎性細胞激素與脂肪激素亦促進致癌轉化\n\n(B) 正確，**慢性胃食道逆流（Chronic GERD）** 是食道腺癌最強的危險因子；胃酸與膽汁長期反覆刺激下段食道黏膜，會誘發鱗狀上皮轉化為柱狀化生上皮，形成**巴氏食道（Barrett's esophagus）**，此為食道腺癌最關鍵的癌前病變\n\n(C) 正確，**抽菸（Cigarette smoking）** 是食道腺癌與食道鱗狀細胞癌共同的確定危險因子\n\n(D) 錯誤，**幽門螺旋桿菌（Helicobacter pylori）** 感染引起慢性萎縮性胃炎，導致胃酸分泌減少（胃酸缺乏），在大型流行病學研究中反而與食道腺癌的發生呈**負相關（反向關聯，具有保護效果 Protective effect）**，因此不是食道腺癌的危險因子；H. pylori 是**胃腺癌（Gastric adenocarcinoma）** 與**胃 MALT 淋巴瘤** 的確定致病危險因子\n\n### 食道腺癌 vs 食道鱗狀細胞癌之主要特徵比較\n\n| 比較項目 | 食道腺癌（Esophageal Adenocarcinoma） | 食道鱗狀細胞癌（Esophageal SCC） |\n| :--- | :--- | :--- |\n| **好發位置** | **食道下段（Distal 1/3 esophagus）**、食道胃交界處（GE junction） | **食道中段與上段（Mid-to-upper esophagus）** |\n| **關鍵危險因子** | • **慢性胃食道逆流（GERD）**<br>• **巴氏食道（Barrett's esophagus）**<br>• **肥胖（High BMI）**<br>• **抽菸（Smoking）**<br>• 男性、白人族群 | • **抽菸（Smoking）**<br>• **飲酒（Alcohol consumption）**<br>• **嚼檳榔（Betel nut）**<br>• 飲用滾燙熱飲、醃漬亞硝酸鹽食物<br>• 腐蝕性食道狹窄、Achalasia |\n| **幽門桿菌 (H. pylori) 關聯** | **呈負相關（保護效應，可降低逆流與腺癌風險）** | 無直接相關 |\n| **全球流行趨勢** | 近數十年在歐美西方國家發生率迅速上升 | 亞洲（如台灣、中國沿海）、非洲等地區最常見的食道癌型態（> 90%） |",
+    "explanation": "答案 (D)。\n\n**食道腺癌的危險因子**\n\n| 鱗狀細胞癌 | 腺癌 |\n| --- | --- |\n| 抽菸、喝酒（加乘）、檳榔、熱飲、亞硝胺、食道失弛緩症、腐蝕性傷害、頭頸癌病史 | 慢性胃食道逆流、Barrett 食道（最重要）、肥胖（中心型）、抽菸、男性、白人 |\n\n- 抽菸同時是鱗狀細胞癌與腺癌的危險因子。\n- 幽門桿菌感染（尤其 cagA 陽性菌株）可能使胃酸分泌減少、逆流減輕，反而與食道腺癌呈負相關，因此相關性最低。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-37_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-37_merged.png"
     ]
   },
   "111-1-醫學(三)-38": {
-    "explanation": "【答案】(C)\n【解析】\n\n(A) 正確，對於可手術切除之局部胰臟癌，術後進行為期 **6 個月（半年）** 的輔助性化學治療（Adjuvant chemotherapy）為標準治療指引，可顯著降低復發率並延長總生存期\n\n(B) 正確，根據大型第三期臨床試驗 **ESPAC-4** 結果證實，胰臟癌術後使用 **Gemcitabine + Capecitabine（GemCap）** 輔助化療相較於 Gemcitabine 單藥治療，顯著延長患者中位整體存活期（28.0 個月 vs 25.5 個月，HR 0.82）\n\n(C) 錯誤，晚期及轉移性胰臟癌之全身性化學治療研究中，**組合式化學治療（Combination chemotherapy）顯著優於 Gemcitabine 單一治療**：\n1. **FOLFIRINOX** 處方（5-FU + Leucovorin + Irinotecan + Oxaliplatin，PRODIGE 4/ACCORD 11 試驗）：中位整體存活期顯著優於 Gemcitabine 單藥（11.1 個月 vs 6.8 個月，HR 0.57）\n2. **Gemcitabine + Nab-paclitaxel**（白蛋白結合型紫杉醇，MPACT 試驗）：中位整體存活期顯著優於 Gemcitabine 單藥（8.5 個月 vs 6.7 個月，HR 0.72）\n因此「組合式化學治療並未優於 gemcitabine 單一治療」敘述完全錯誤\n\n(D) 正確，根據全球第三期臨床試驗 **NAPOLI-1** 研究結果，對於先前接受 Gemcitabine 處方治療失敗或惡化之晚期轉移性胰臟癌患者，使用微脂體伊立替康 **Liposomal irinotecan (Nal-IRI) + 5-FU + Leucovorin** 組合治療，顯著改善病患之整體存活期（OS 6.1 個月 vs 4.2 個月），已獲美國 FDA 及台灣 TFDA 核准為轉移性胰臟癌的二線標準處方\n\n### 胰臟癌全身性化學治療臨床指引處方整理\n\n| 疾病階段 / 治療定位 | 體能狀態 (ECOG) | 第一線/標準建議化學治療處方 | 關鍵臨床試驗依據 |\n| :--- | :--- | :--- | :--- |\n| **術後輔助化療 (Adjuvant)** | 體能良好 (ECOG 0-1) | • **Modified FOLFIRINOX（首選）**<br>• **Gemcitabine + Capecitabine (GemCap)** | PRODIGE 24 試驗<br>ESPAC-4 試驗 |\n| **術後輔助化療 (Adjuvant)** | 體能不佳或年長者 | • **Gemcitabine 單藥** 或 **5-FU/LV 單藥**（治療期 6 個月） | CONKO-001 試驗 |\n| **晚期轉移第一線 (1st-line Metastatic)** | 良好體能 (ECOG 0-1) | • **FOLFIRINOX**<br>• **Gemcitabine + Nab-paclitaxel** | PRODIGE 4/ACCORD 11 試驗<br>MPACT 試驗 |\n| **晚期轉移第一線 (1st-line Metastatic)** | 體能較弱 (ECOG 2) | • **Gemcitabine 單藥** 或 最佳支持療法（BSC） | Burris trial |\n| **轉移性二線治療 (2nd-line Post-Gem)** | Gemcitabine 治療失敗後 | • **Liposomal irinotecan (Nal-IRI) + 5-FU + Leucovorin**<br>• **FOLFOX** 或 **FOLFIRI** | NAPOLI-1 試驗 |",
+    "explanation": "答案 (C)。\n\n**胰臟癌的藥物治療**\n\n- 術後輔助化療 6 個月：mFOLFIRINOX（體能狀態好者，效果最好）或 gemcitabine + capecitabine（ESPAC-4 證實優於單用 gemcitabine）。\n- 晚期或轉移的第一線治療：\n  - FOLFIRINOX（PRODIGE 4 試驗）\n  - Gemcitabine + nab-paclitaxel（MPACT 試驗）\n  - NALIRIFOX\n  兩者都證實組合式化療的存活優於 gemcitabine 單一治療，故 (C) 錯誤；體能狀態差者才使用 gemcitabine 單藥。\n- 第二線：gemcitabine 失敗後，可用 liposomal irinotecan + 5-FU + leucovorin（NAPOLI-1 試驗，FDA 核准）。\n- 生殖細胞 BRCA 突變者，含鉑化療有效後可以 olaparib 維持。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-38_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-38_merged.png"
     ]
   },
   "111-1-醫學(三)-39": {
-    "explanation": "【答案】(B)\n【解析】\n\n非小細胞肺癌（NSCLC）的手術切除評估需同時考量「腫瘤解剖侵犯期別（Oncologic resectability）」與「病人生理機能儲備（Physiologic operability）」：\n\n(A) 上腔靜脈症候群（Superior Vena Cava Syndrome）：代表腫瘤已廣泛侵犯縱膈腔大血管結構（屬於 T4 或廣泛縱膈淋巴侵犯），屬於無法直接行根除性手術切除的範疇（除非少數經嚴格評估並行血管置換重建之特殊誘導化放療後病例，一般臨床視為不可切除之局部晚期/禁忌症）\n\n(B) **同側肺門淋巴結轉移（Ipsilateral hilar lymph node metastasis）**：在 TNM 分期中定義為 **N1 淋巴結轉移**（侵犯同側 peribronchial 或 hilar lymph nodes），屬於局部區域淋巴結轉移（Stage IIA, IIB 或部分 IIIA 期），**是標準可接受根除性肺葉切除合併淋巴結廓清手術的適應症，絕非手術切除之禁忌症**，故選 (B)\n\n(C) 穩定性心絞痛（Stable angina pectoris）：若未經完整評估冠狀動脈疾病風險或心肌缺血程度，在大型胸腔手術全身麻醉與肺切除壓力下有極高之圍手術期心肌梗塞與死亡風險，須先完成心臟評估與血管再暢通治療\n\n(D) 肺功能檢查 FEV1 大於 1 公升：肺葉切除術（Lobectomy）通常要求術前 FEV1 > 1.5 L，全肺切除術（Pneumonectomy）要求 FEV1 > 2.0 L；若術前預測術後殘存（predicted postoperative, ppo）FEV1 < 0.8 L（或 < 30~40% 預測值）則為肺切除之絕對生理禁忌症\n\n### 非小細胞肺癌（NSCLC）手術可切除性與禁忌症評估\n\n| 評估維度 | 手術切除禁忌症（Inoperable / Unresectable） | 可進行手術切除範疇（Resectable） |\n| :--- | :--- | :--- |\n| **淋巴結轉移 (N Stage)** | • **對側縱膈或對側肺門淋巴結轉移（N3）**<br>• **同側或對側鎖骨上淋巴結轉移（N3）**<br>• 多站固定融合之同側縱膈淋巴結轉移（Bulky N2） | • 無淋巴結轉移（N0）<br>• **同側肺門 / 支氣管周圍淋巴結轉移（N1）**<br>• 單站微小同側縱膈淋巴結轉移（Selected N2，通常配合多專科誘導輔助治療） |\n| **腫瘤侵犯 (T Stage)** | • 侵犯心臟、大血管（主動脈、上腔靜脈 SVC）、氣管、食道、脊椎椎體（T4 廣泛侵犯）<br>• 惡性肋膜積水或心包膜積水（M1a） | • 侵犯胸壁、橫膈神經、心包膜（T3 / 局部 T4 可行整塊廣泛切除者） |\n| **遠端轉移 (M Stage)** | 遠端器官轉移（M1b/M1c，如腦、骨、肝、對側肺等廣泛轉移） | 寡轉移（Oligometastasis，如單一孤立腦轉移且原發肺病灶可切除者）經特殊多專科評估處理 |\n| **肺功能與生理儲備** | • **術後預估 ppo-FEV1 < 0.8 L 或 < 30% 預測值**<br>• **術後預估 ppo-DLCO < 30%**<br>• 嚴重心肺衰竭、近 3 個月內急性心肌梗塞 | • 術前 FEV1 > 1.5 L（可耐受肺葉切除）<br>• 術前 FEV1 > 2.0 L（可耐受全肺切除）<br>• 運動心肺測試 VO2 max > 15 mL/kg/min |",
+    "explanation": "答案 (A)。\n\n**非小細胞肺癌的可切除性**\n\n- 可手術的分期：第 I、II 期，與部分第 IIIA 期（如 T3N1、部分 N2 經術前治療後）。\n- 不可切除的情況：\n  - 對側縱膈或鎖骨上淋巴結轉移（N3）\n  - 多站或大範圍的同側縱膈淋巴結轉移（bulky N2）\n  - 侵犯縱膈重要構造（T4：心臟、大血管、氣管、食道、椎體），例如腫瘤或淋巴結壓迫造成上腔靜脈症候群\n  - 惡性肋膜或心包膜積液（M1a）\n- 病人可手術性的評估：肺功能（預估術後 FEV1 與 DLCO > 40–60% 預測值；FEV1 > 2 L 可做全肺切除、> 1.5 L 可做肺葉切除）、心血管風險。\n\n同側肺門淋巴結轉移（N1）、穩定性心絞痛、FEV1 > 1 L 都不是絕對的手術禁忌；上腔靜脈症候群代表局部晚期，是治癒性切除的禁忌。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-39_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-39_merged.png"
     ]
   },
   "111-1-醫學(三)-40": {
-    "explanation": "【答案】(C)\n【解析】\n\n(A) 正確，泌尿道癌症最常見（約 90% 以上）的組織型態為**泌尿上皮癌（Urothelial carcinoma，舊稱移行上皮癌 Transitional cell carcinoma, TCC）**\n\n(B) 正確，依分子病理與分化程度可將泌尿上皮癌分為兩大表型：\n1. **Low grade（乳突狀 papillary）**：常伴隨 **RAS/RAF 路徑活化、60~80% FGFR3 活化突變或基因融合**，侵襲性較低、較不易早期轉移\n2. **High grade（扁平狀 flat / CIS）**：常伴隨 **TP53 缺失/突變、RB1 缺失、CDH1 突變與 VEGFR2 增加**，侵襲性高、早期易發生轉移與肌肉浸潤\n\n(C) 錯誤，剛診斷膀胱癌時的分期分佈為：\n1. **非平滑肌肉層侵犯型（NMIBC）佔絕大多數（約 75%）**\n2. **平滑肌肉層侵犯型（MIBC，T2~T4）約佔 18%**\n3. **已出現遠端轉移（Metastatic）者最少（僅約 3%）**\n選項敘述恰好完全顛倒，故選 (C)\n\n(D) 正確，對於高復發風險（如 T1、High-grade、合併原位癌 CIS）之非平滑肌肉層侵犯型膀胱癌（NMIBC），於經尿道膀胱腫瘤切除術（TURBT）完整刮除肉眼可見腫瘤後，給予每週一次共 6 週的膀胱內卡介苗灌注（**Intravesical BCG 引導治療**），隨後視情況給予維持治療（Maintenance BCG），能顯著降低腫瘤復發並延緩惡化進展至肌肉侵犯之風險\n\n### 泌尿上皮癌分子病理特徵比較\n\n| 分級與病理形態 | 組織型態特徵 | 常見基因突變與路徑異常 | 臨床生物學表現 |\n| :--- | :--- | :--- | :--- |\n| **Low grade** | 乳突狀（Papillary） | **RAS/RAF 路徑**、**FGFR3 活化突變/基因融合（60~80%）** | 侵襲性較低、易局部反覆復發、較不易早期轉移 |\n| **High grade** | 扁平狀（Flat / CIS） | **TP53 缺失/突變**、**RB1 缺失**、**CDH1 突變**、VEGFR2 增加 | 侵襲性高、進展迅速、易侵犯平滑肌層與早期轉移 |\n\n### 膀胱癌臨床分期與治療處置原則（依 Harrison 21/e 整理）\n\n| 臨床分期分類 | 病人族群與風險分級 | 標準處置與建議治療方針 |\n| :--- | :--- | :--- |\n| **NMIBC（非肌肉侵犯型）** | 低復發風險（單一腫瘤、low grade、< 3 cm、無 CIS） | **TURBT** ＋ 術後 24 小時內單次膀胱灌注化療藥物（Mitomycin C / Epirubicin / Gemcitabine） |\n| **NMIBC（非肌肉侵犯型）** | 中度至高復發風險（T1、high grade、多發、> 3 cm、CIS） | **TURBT** ＋ **膀胱灌注 BCG 引導治療**（每週一次共 6 週），後續評估給予維持性 BCG 灌注 |\n| **MIBC（肌肉侵犯型）** | 大部分任何 MIBC（T2-T4a, N0） | **根除性膀胱全切除術（Radical cystectomy）＋ 骨盆腔淋巴結廓清術**<br>（適合 Cisplatin 者建議加做 **Neoadjuvant 化療**，提升存活率 5~10%） |\n| **MIBC（肌肉侵犯型）** | 單顆、T2、位於 dome（膀胱頂部） | 可考慮部分膀胱切除術（Partial cystectomy） |\n| **MIBC（肌肉侵犯型）** | 無 CIS 且無腎水腫、欲保留膀胱者 | 可考慮膀胱保留三合一療法（Maximal TURBT ＋ CCRT 同步化放療） |\n| **Metastatic（轉移性）** | 適合 Cisplatin 體能良好者 | 第一線標準化療：**MVAC 處方**（MTX + Vinblastine + Doxorubicin + Cisplatin）或 **GC 處方**（Gemcitabine + Cisplatin） |\n| **Metastatic（轉移性）** | 無法接受 Cisplatin 者 | Carboplatin-based 化學治療，或評估 PD-L1 表現給予免疫檢查點抑制劑 |\n| **Metastatic（轉移性）** | 具 FGFR2/3 突變者 | 標靶藥物 **Erdafitinib**（FGFR 酪胺酸激酶抑制劑） |\n| **Metastatic（轉移性）** | 化療與免疫檢查點抑制劑失敗者 | 抗體藥物複合體（ADC）：**Enfortumab vedotin**（抗 Nectin-4） |",
+    "explanation": "答案 (C)。\n\n**膀胱癌**\n\n- 最常見的組織型是泌尿上皮癌（約 90%）；鱗狀細胞癌與慢性刺激（血吸蟲、長期導尿管）相關。\n- 分子特徵：\n  - 低惡性度（乳突狀、非肌肉侵犯）：FGFR3 突變或融合\n  - 高惡性度（肌肉侵犯、原位癌）：TP53、RB1 突變\n- 診斷時的分期分布：約 70–75% 為非肌肉侵犯性，約 20–25% 為肌肉侵犯性，只有少數（約 5%）已遠處轉移；選項的描述順序顛倒，故 (C) 錯誤。\n- 高風險非肌肉侵犯性膀胱癌（T1、高惡性度、原位癌）：經尿道完整切除（必要時再次切除），再以膀胱內 BCG 灌注（誘導 + 維持）降低復發與惡化。",
     "explanation_image": "/explanations/cropped/111-1-醫學(三)-40_merged.png",
     "explanation_images": [
       "/explanations/cropped/111-1-醫學(三)-40_merged.png"
@@ -2071,43 +2071,53 @@
   },
   "111-2-醫學(三)-21": {
     "text": "胰腺癌 (pancreatic adenocarcinoma) 最常發生在胰臟頭部，其症狀包含：上腹痛（因吃東西或躺平加劇）、背痛、體重減輕、黃疸、白色糞便、出現新的糖尿病、憂鬱情緒、肝腫大、靜脈炎 (Trousseau's syndrome)、無痛性腫大膽囊 (Courvoisier's sign)、脾腫大（若有 portal v. thrombosis）等，血糖應該會偏高而不是出現低血糖，故本題選 (D)\n\n< 其他考點 >\n胰臟癌的危險因子、非危險因子是近年各科愛考的重點：\n1. 胰臟癌危險因子：抽菸、年紀、高油高糖飲食、BBQ 燒肉【108-2】\n2. 胰臟癌相關基因之風險倍率：STK11 (76~140x) > PRSS1/SPIN11 (53x) > microsatellite (9~30x) > BRCA2 (2~6x)\n3. 非胰臟癌危險因子：H. pylori、咖啡、中度酒精攝取\n4. 胰臟癌的 tumor marker：CA-199、CEA，如果兩個都陰性 → 抽 CA-125\n5. 胰臟管腺癌最常見的突變：KRAS",
-    "image": "/explanations/cropped/111-2-醫學(三)-21_merged.png"
+    "image": "/explanations/cropped/111-2-醫學(三)-21_merged.png",
+    "explanation": "答案 (D)。\n\n**胰臟腺癌的症狀**\n\n- 體重減輕（最常見，與食慾不振、吸收不良有關）\n- 腹痛與背痛（侵犯後腹腔神經叢，平躺時加劇、前傾可緩解）\n- 無痛性黃疸（胰頭癌，合併茶色尿、灰白便、搔癢、Courvoisier 徵象）\n- 新發糖尿病（尤其 50 歲以上、無家族史、體重減輕者）\n- 脂肪瀉、遷移性血栓性靜脈炎（Trousseau 徵象）、憂鬱\n\n胰臟腺癌會破壞胰島細胞而造成高血糖或新發糖尿病，而不是低血糖；低血糖是胰島素瘤的表現。"
   },
   "111-2-醫學(三)-22": {
     "text": "肝細胞癌 (hepatocellular carcinoma, HCC) 的危險因子包含：肝硬化、HBV/HCV 感染、酒精濫用、代謝症候群（→ NASH）、血鐵沉著症 (hemochromatosis) 等；肝鈣化點通常是良性的，與過去的感染或肉芽疾病有關（如：TB），故本題選 (C)\n\n< 其他考點 >\n流病數字沒看過實在很難猜，以下整理一些課本中的數據供大家參考：\n1. 肝細胞癌病人中 80% 有肝硬化\n2. 肝硬化者有 1/3 的人在其一生中會得到肝癌\n3. NASH 引起的 HCC 有 25~30% 並沒有出現肝硬化\n4. 因為 HBV/HCV 引起的肝硬化，每年得到 HCC 的風險：3～8%\n5. 因為其他原因引起的肝硬化，每年得到 HCC 的風險：1～3%\n6. HBV 感染引起的 HCC：佔亞洲族群 60%、歐美族群僅 20%\n7. 歐美族群 HCC 致病因子：HCV (30%) > HBV (20%) > NASH (15~20%)",
-    "image": "/explanations/cropped/111-2-醫學(三)-22_merged.png"
+    "image": "/explanations/cropped/111-2-醫學(三)-22_merged.png",
+    "explanation": "答案 (C)。\n\n**肝細胞癌的高危險群**\n\n- B 型肝炎帶原（台灣最主要的原因，即使沒有肝硬化也有風險）\n- 慢性 C 型肝炎\n- 任何原因造成的肝硬化：酒精性、代謝功能障礙相關脂肪肝病（MASLD）、血色素沉積症、原發性膽汁性膽管炎、自體免疫性肝炎\n- 黃麴毒素、肥胖、糖尿病、抽菸\n- 肝癌家族史\n\n- 高危險群應每 6 個月接受腹部超音波與 AFP 檢查。\n- 肝臟鈣化點常是過去感染（結核、寄生蟲）或肉芽腫留下的良性鈣化，不代表肝癌風險增加。"
   },
   "111-2-醫學(三)-23": {
     "text": "肝移植的禁忌症包含以下幾種，絕對與相對禁忌症是 Harrison 的分法，而原因的分類只是筆者自己分的，大家可以照自己覺得好懂的方法記憶\n\n| 絕對禁忌 | 相對禁忌 |\n| :--- | :--- |\n| **有立即危險** | 不受控制的肝外感染、進行中的敗血症、危及生命的系統性疾病 | - |\n| **移植後有風險** | 死亡率很高：肝外癌症（不含 non-melanoma 皮膚癌）、轉移到肝臟的其他癌症、膽管癌、無法改正且影響壽命的先天疾病、嚴重心肺疾病、AIDS | 死亡率偏高，但有機會改善：年紀 > 70、portal v. 栓塞、腎衰竭、之前有肝外癌症、嚴重肥胖、嚴重營養不良、HIV 控制差、肝內敗血症、PAH > 35 mmHg、PO₂ < 50 mmHg |\n| **自理有困難** | 正在物質濫用 | 藥物順從性差、活動性精神病 |\n\n故只有 (D) 選項是相對禁忌之一，其他都可以進行肝移植\n\n< 其他考點 >\n1. hepatic vein thrombosis 是肝移植適應症，但 portal vein thrombosis 是相對禁忌症喔！\n2. 嚴重肝腎症候群 (hepato-renal syndrome) 不是肝移植的禁忌症（此時也只剩移植可以救這樣的病人了...）【109 重專】",
-    "image": "/explanations/cropped/111-2-醫學(三)-23_merged.png"
+    "image": "/explanations/cropped/111-2-醫學(三)-23_merged.png",
+    "explanation": "答案 (D)。\n\n**肝臟移植的適應症與禁忌症**\n\n| 適應症 | 禁忌症 |\n| --- | --- |\n| 失代償性肝硬化（腹水、靜脈瘤出血、肝性腦病變、黃疸），MELD ≥ 15 | 活動性酒精或藥物濫用 |\n| 符合米蘭或 UCSF 標準的肝細胞癌 | 肝外惡性腫瘤，或超出標準的肝細胞癌 |\n| 原發性膽汁性膽管炎、原發性硬化性膽管炎末期 | 無法控制的全身感染、敗血症 |\n| 猛爆性肝衰竭 | 嚴重心肺疾病（如嚴重肺高壓） |\n| 代謝疾病（Wilson 氏症、α1-抗胰蛋白酶缺乏） | 活動性精神疾病、缺乏社會支持、無法遵從醫囑 |\n\n活動性精神病會影響移植後長期服用免疫抑制劑與追蹤的遵從性，屬於禁忌症。\n\n**補充**：UCSF 標準：單一腫瘤 ≤ 6.5 cm，或 ≤ 3 顆、最大 ≤ 4.5 cm 且總直徑 ≤ 8 cm。"
   },
   "111-2-醫學(三)-24": {
     "text": "T cell 的活化主要有兩種訊號：signal 1 為抗原呈現、signal 2 為 costimulation，Belatacept 會先佔據 CD80/86，抗原呈現細胞的 CD28 就不能與 T cell 上的 CD80/86 結合，T cell 沒有 costimulation signal 就會進入 anergy → apoptosis，Abatacept 也是結合 CD80/86，但效果不及 belatacept，目前主要適應症是拿來治療 RA、JIA；2021 年 12 月美國 FDA 新核准的用途是預防造血幹細胞移植後的 acute GVHD（搭配 MTX + calcineurin inhibitor）\n\n| | T cell | 抗原呈現細胞 (APC) |\n| :--- | :--- | :--- |\n| signal 1（抗原呈現） | T cell receptor (CD4, CD8) | MHC (II, I) + Ag |\n| signal 2 (costimulation) | costimulatory ligands (CD80/86 = B7.1/B7.2) | CD28 |\n\n考試當下還以為是風濕免疫科考題，但其實這是腎臟科的題目，近幾年腎臟科很愛考抗排斥藥，整理如下\n\n| 免疫抑制劑 | 作用機制 | 副作用 |\n| :--- | :--- | :--- |\n| Glucocorticoids | 抑制 IL-1、IL-2、IL-3、IL-6、TNF-α、IFN-γ 的生成 | 高血壓、葡萄糖耐受不良、骨質疏鬆、脂質代謝異常 |\n| Cyclosporine (CsA) | 結合 cyclophilin A → 抑制 calcineurin → IL-2 減少 | 腎毒性、高血壓、脂質代謝異常、多毛、牙齦增生 |\n| Tacrolimus (FK506) | 結合 FKBP-12 → 抑制 calcineurin → IL-2 減少 | 類似 CsA，但更容易有糖尿病、較不會多毛或牙齦增生 |\n| Azathioprine | 抑制 purine 合成 | 骨髓抑制 (WBC>RBC>PLT) |\n| Mycophenolate mofetil (MMF) | 轉為 MPA → 抑制 IMPDH → 抑制 purine 合成 | 腹瀉、腹痛、輕微骨髓抑制 |\n| Sirolimus (rapamycin) / everolimus | 結合 FKBP-12 → 抑制 mTOR → 停在 G1 phase | 高血脂、血小板低下 |\n| Belatacept | 結合 CD80/86 → 阻擋 CD28 → 缺乏 costimulation → T cell 無法有效活化 | post-transplant lymphoproliferative disease (PTLD) |",
-    "image": "/explanations/cropped/111-2-醫學(三)-24_merged.png"
+    "image": "/explanations/cropped/111-2-醫學(三)-24_merged.png",
+    "explanation": "答案 (D)。\n\n**移植免疫抑制劑的作用機轉**\n\n| 藥物 | 機轉 |\n| --- | --- |\n| Tacrolimus、cyclosporine | Calcineurin 抑制劑，阻斷 IL-2 轉錄（訊號 1） |\n| Belatacept | CTLA-4–Ig 融合蛋白，與抗原呈現細胞的 B7（CD80/86）結合，阻斷 CD28 共刺激路徑（訊號 2） |\n| Basiliximab | 抗 IL-2 受體（CD25）單株抗體（訊號 3） |\n| Sirolimus、everolimus | mTOR 抑制劑，阻斷 IL-2 受體下游的細胞增生訊號（訊號 3） |\n| Mycophenolate mofetil | 抑制 IMPDH，阻斷嘌呤合成，抑制淋巴球增生 |\n| 抗胸腺細胞球蛋白 | 清除 T 細胞 |\n\n作用在共刺激路徑的是 belatacept。\n\n**補充**：belatacept 沒有 calcineurin 抑制劑的腎毒性，但 EBV 血清陰性的受贈者使用會增加移植後淋巴增生疾病（尤其中樞神經）的風險，屬禁忌。"
   },
   "111-2-醫學(三)-25": {
     "text": "馬兜鈴酸腎病變 (aristolochic acid nephropathy, AAN) 即中藥腎病變、巴爾幹腎病變 (Balkan nephropathy)，會導致慢性腎小管間質性腎炎 (chronic tubulointerstitial nephritis)，其造成的病理及臨床特色為腎臟間質纖維化、稀疏細胞浸潤、微量蛋白尿，以及不成比例的貧血 (disproportionate anemia)，馬兜鈴酸不只是腎毒素，還是致癌物，其引起的典型 DNA 損傷為 A:T-to-T:A transversion，因此有馬兜鈴酸腎病變的人也會有較高上泌尿道泌尿上皮癌的風險，綜合以上所述，本題選 (A)，蛋白尿並不明顯，因此也不會有明顯的 protein-energy malnutrition",
-    "image": "/explanations/cropped/111-2-醫學(三)-25_merged.png"
+    "image": "/explanations/cropped/111-2-醫學(三)-25_merged.png",
+    "explanation": "答案 (A)。\n\n**馬兜鈴酸腎病變**\n\n- 原因：服用含馬兜鈴酸的中草藥（廣防己、關木通、青木香、馬兜鈴等），比利時減肥藥事件與台灣的研究都證實；巴爾幹地方性腎病變也與麵粉污染有關。\n- 臨床特徵：\n  - 慢性腎小管間質纖維化，腎功能快速惡化至末期腎病\n  - 蛋白尿輕微，尿液沉渣變化不明顯\n  - 與腎功能程度不成比例的嚴重貧血\n  - 上泌尿道（腎盂、輸尿管）泌尿上皮癌風險明顯增加，TP53 出現特徵性 A:T→T:A 突變\n- 末期腎病或已移植者，可考慮預防性切除原腎臟與輸尿管，並定期追蹤尿液細胞學與膀胱鏡。\n\n明顯的蛋白質熱量營養不良不是馬兜鈴酸腎病變的臨床特徵。"
   },
   "111-2-醫學(三)-26": {
     "text": "腰痛、血尿、發燒 → 急性腎盂腎炎，打 constrast 前的圖可以看到左邊輸尿管中有顆 radiopaque 的物體；打完 contrast 後，可以看到從那一段以上的輸尿管以及腎盂都擴張了（水腎）→ 那顆是塞住輸尿管的結石，因為輸尿管阻塞導致的 UTI 是 medical emergency，需要立即介入處置，可以會診泌尿科醫師在輸尿管放 stent 或做經皮腎造口 (PCN)，本題選 (B)",
-    "image": "/explanations/cropped/111-2-醫學(三)-26_merged.png"
+    "image": "/explanations/cropped/111-2-醫學(三)-26_merged.png",
+    "explanation": "答案 (B)。\n\n**阻塞性腎盂腎炎（感染合併尿路阻塞）**\n\n- 本題左腰痛、血尿合併發燒，靜脈腎盂攝影顯示左側腎臟延遲顯影、集尿系統擴張，代表結石阻塞合併感染。\n- 阻塞的尿路合併感染是泌尿科急症，可快速進展為膿腎與敗血性休克；單靠抗生素無法有效進入阻塞的腎臟。\n- 處置：\n  1. 立即給予經驗性廣效抗生素並採集血液與尿液培養\n  2. 緊急引流減壓：輸尿管雙 J 管或經皮腎造廔\n  3. 感染控制後再處理結石（不在感染期碎石）\n- (A) α 阻斷劑促進排石只用於無感染、腎功能正常、疼痛可控制的小結石。\n- (D) 鼓勵大量喝水不適當。\n\n參考答案以照會泌尿科介入引流為最優先考量；臨床上抗生素應同時給予，不能因等待引流而延誤。"
   },
   "111-2-醫學(三)-27": {
     "text": "孕婦不可以用 ACE-i，真的已經考到稀爛了...... 其他選項 methyldopa、labetalol、nifedipine (CCB) 都是懷孕期間可使用的降血壓藥，婦產科也會考，要背起來！\n(D) 如果要預防 pre-eclampsia 的發生，可給予低劑量 (80-100 mg/day) aspirin",
-    "image": "/explanations/cropped/111-2-醫學(三)-27_merged.png"
+    "image": "/explanations/cropped/111-2-醫學(三)-27_merged.png",
+    "explanation": "答案 (D)。\n\n**慢性腎病合併懷孕的血壓治療**\n\n- 懷孕期間的降壓藥：labetalol、長效 nifedipine、methyldopa、hydralazine（急性）。\n- ACEI 與 ARB 在懷孕期間禁用（第二、三孕期造成胎兒腎臟發育異常、羊水過少、顱骨發育不全、死亡），即使用於降低蛋白尿也不適合；計畫懷孕的慢性腎病女性應在懷孕前或確認懷孕時立即停用。\n- 預防子癇前症：高風險孕婦（含慢性腎病、慢性高血壓）在懷孕 12–16 週開始服用低劑量 aspirin，而不是 ACEI。"
   },
   "111-2-醫學(三)-28": {
     "text": "Focal segmental glomerulosclerosis (FSGS) 是一種局部腎絲球結疤 (scarring) 的疾病，其發生率正在增加，已佔目前成人腎病症候群的 1/3\n\n| Focal segmental glomerulosclerosis (FSGS) | |\n| :--- | :--- |\n| 病理特徵 | 1. 位置：主要病變在 corticomedullary junction 的腎絲球（切片太淺可能被誤認成 MCD）<br>2. 類型：局部細胞增生伴隨嚴重蛋白尿、節段或全體塌陷型（預後差）、腎絲球尖端型 (glomerular tip lesion，預後好) |\n| 臨床表現 | 1. 血尿、高血壓、任何嚴重度的蛋白尿、腎衰竭<br>2. 預後差的表現：腎病症候群程度蛋白尿、腎衰竭 |\n| 治療 | 很少自己好，但治療可改善預後<br>1. 必須包含 RAAS inhibitors<br>2. primary FSGS 出現大量蛋白尿：steroids<br>3. secondary FSGS：治療 underlying、控制蛋白尿、不建議使用 steroids 或 cyclosporine<br>4. 移植後 recurrent FSGS：plasmapheresis |\n\n（參考 Harrison 21/e Ch. 314）\n\n(C) 節段或全體塌陷型 (segmental or global collapse) 的預後比較差，腎絲球尖端型 (glomerular tip lesion) 才是預後好的（以常理推論，全部塌光光的預後大概不會好到哪去......）\n\n< 其他考點 >\n1. FSGS 的致病機轉跟免疫複合物沈澱 (immune complex) 無關\n2. 對類固醇治療反應不佳，目前 rituximab、mycophenolate mofetil 都沒有治療角色，cyclosporine 有可能可以讓對類固醇有反應的人達到 remission 但證據不充分，且一停藥就容易復發\n3. FSGS 腎移植後又出現 FSGS 的機率：primary > secondary > genetic\n4. 塌陷型 FSGS 一般常見於 HIV 相關的腎絲球疾病",
-    "image": "/explanations/cropped/111-2-醫學(三)-28_merged.png"
+    "image": "/explanations/cropped/111-2-醫學(三)-28_merged.png",
+    "explanation": "答案 (C)。\n\n**局部節段性腎絲球硬化（FSGS）**\n\n- 表現：蛋白尿（可達腎病症候群）、血尿、高血壓、腎功能不全；大量蛋白尿與腎功能不全者進入透析的風險高。\n- 病灶先出現在皮質與髓質交界處的腎絲球，若切片太淺只取到表淺腎絲球，可能被誤判為微小變化型腎病。\n- 分類：\n  - 原發性（循環中的通透性因子，對類固醇可能有反應）\n  - 遺傳性（足細胞蛋白基因）\n  - 續發性（肥胖、腎元減少、逆流性腎病、HIV、海洛因、藥物）：治療潛在原因並使用 ACEI/ARB，不需類固醇\n- 病理變異型與預後：\n\n| 型態 | 預後 |\n| --- | --- |\n| Tip lesion | 最好，對類固醇反應佳 |\n| NOS（未分類） | 中等 |\n| Collapsing（塌陷型） | 最差，進展最快；與 HIV、APOL1 基因型、COVID-19、pamidronate 相關 |\n\n塌陷型 FSGS 代表較差的預後，故 (C) 錯誤。"
   },
   "111-2-醫學(三)-29": {
     "text": "集尿管主細胞 (principle cell) 的 basolateral membrane 會表現 V2 receptor，接受抗利尿激素 (ADH = vasopressin = AVP) 的刺激 → 增加細胞內的 cAMP 濃度 → 把水通道蛋白 2 (aquaporin 2) 插到 apical membrane → 增加對水的通透性，原答案只給 (D)，但因為一階國考用書 Guyton and Hall 14/e Ch. 29 有提到遠端腎小管的末端也有相同功能，故經申覆開放 (C)(D) 均可\n\n< 其他考點 >\n1. 腎小管對水分通透性最低處：Henle 氏環上行枝\n2. ADH 除了增加對水的通透外，也可以增加 urea 在集尿管的通透度",
-    "image": "/explanations/cropped/111-2-醫學(三)-29_merged.png"
+    "image": "/explanations/cropped/111-2-醫學(三)-29_merged.png",
+    "explanation": "答案 (C)、(D)（原答案 D，官方更正為 C、D 或 CD 均給分）。\n\n**抗利尿激素（ADH）的作用部位**\n\n- ADH 與 V2 受體結合後，使 aquaporin-2 插入頂端膜，增加對水的通透性。\n- 作用部位：\n  - 集尿管（皮質與髓質集尿管，最主要）\n  - 連接小管（connecting tubule）與遠端腎小管後段\n- 其他部位：\n\n| 部位 | 水通透性 |\n| --- | --- |\n| 近端腎小管 | 永遠高（aquaporin-1），不受 ADH 調控 |\n| 亨利氏環下行枝 | 永遠高（aquaporin-1），不受 ADH 調控 |\n| 亨利氏環上行枝 | 不通透水 |\n| 遠端曲小管前段 | 基本上不通透水 |\n\n由於遠端腎小管後段（連接小管）也受 ADH 影響，官方更正 (C)、(D) 均給分。"
   },
   "111-2-醫學(三)-30": {
     "text": "| 顯影劑腎病變 (contrast induced nephropathy) | |\n| :--- | :--- |\n| 顯影劑類型 | 含碘顯影劑、高劑量 group 1 Gadolinium 顯影劑 |\n| 風險因子 | CKD、multiple myeloma、既存腎臟問題、脫水 |\n| 臨床表現 | 注射後 24~48 hr 出現 creatinine 升高 → 3~5 天達高峰 → 1 週恢復 |\n| 致病機轉 | 1. 小血管受損 → 外層髓質缺氧<br>2. 游離自由基、高滲透壓 → 直接傷害細胞<br>3. 顯影劑結晶 → 暫時性腎小管阻塞 |\n\n（參考 Harrison 21/e Ch. 310）\n\n< 其他考點 >\n1. 預防顯影劑引發 AKI 的方法：isotonic saline volume expansion、注射前 48hr 停用 metformin，鹼化尿液無預防效果 (PRESERVE trial)【108、109 內專】\n2. DM 本身跟肥胖都不是顯影劑腎病變的風險因子，但糖尿病腎病變是重要風險因子之一",
-    "image": "/explanations/cropped/111-2-醫學(三)-30_merged.png"
+    "image": "/explanations/cropped/111-2-醫學(三)-30_merged.png",
+    "explanation": "答案 (D)。\n\n**顯影劑相關急性腎損傷**\n\n- 機轉：腎臟血管收縮造成髓質缺氧，以及顯影劑對腎小管上皮細胞的直接毒性（含活性氧化物），主要傷害腎小管而不是腎絲球，故 (A) 錯誤。\n- 時間進程：顯影後 24–48 小時 creatinine 開始上升，3–5 天達高峰，7–10 天恢復，故 (B) 錯誤。\n- 危險因子：\n  - 原本的慢性腎病（最重要）、糖尿病腎病變\n  - 多發性骨髓瘤、脫水、心衰竭、高齡\n  - 顯影劑劑量大、高滲透壓顯影劑、動脈內注射、短期內重複注射（故 (C) 錯誤）\n  - 同時使用腎毒性藥物\n- 預防：減少劑量、使用低或等滲透壓顯影劑、高風險者等張輸液水化。"
   },
   "111-2-醫學(三)-45": {
     "text": "(A) 錯誤，懷孕婦女如果沒有控制好氣喘，會對胎兒產生負面影響；懷孕期間應避免誘發因子（如：香菸），並使用藥物控制以下藥物可在懷孕期間使用：吸入性 albuterol、beclomethasone、budesonide、以及 fluticasone；formoterol、salmeterol 目前也被認為是安全的但如果是口服的類固醇，則可能導致孕婦發展出 preeclampsia、胎兒出現 adrenal insufficiency、低體重、並增加一些唇顎裂的風險\n\n(B) 錯誤，aspirin-sensitive asthma 的機轉是 COX-1 受到抑制 → leukotrienes 變多（用 COX-2 inhibitors 及 acetaminophen 通常不會有問題）可用 steroids、dupilumab、montelukast、zafirlukast、以及 zileuton 治療\n\n(D) 錯誤，allergic bronchopulmonary aspergillosis (ABPA) 約佔氣喘病人的 1~2%，是一種 IgE 主導的過敏反應，Aspergillus fumigatus 是最常見的 trigger治療的選擇包含：itraconazole、voriconazole 以及口服 corticosteroids，所以口服類固醇不只是禁忌，更是治療的標準選擇之一\n\n< 其他考點 >\n1. 高齡氣喘患者：超過 65 歲的氣喘患者死亡率是年輕患者的 5 倍；如果是老了才新發生的氣喘，很多都有抽菸史或正在抽菸\n2. asthma-COPD overlap：兩種都有的病患對吸入性類固醇反應可能比較差，應考慮使用抗膽鹼藥物\n3. 運動誘發型氣喘：SABA pretreat、常常需要運動的可考慮規律用 leukotriene receptor antagonist (LTRA)",
@@ -8836,5 +8846,50 @@
   },
   "111-1-醫學(三)-16": {
     "explanation": "答案 (B)。\n\n**急性闌尾炎**\n\n- 典型病程：先上腹或臍周痛（內臟痛），伴噁心、食慾不振，之後轉移到右下腹（壁層腹膜受刺激），再出現發燒。\n- 育齡女性需鑑別婦產科問題：子宮外孕、卵巢扭轉或破裂、骨盆腔發炎、子宮內膜異位症；並排除泌尿道結石或感染。\n- 身體診察徵象：\n\n| 徵象 | 方法 |\n| --- | --- |\n| McBurney 點壓痛 | 肚臍與右前上腸骨棘連線外 1/3 處壓痛 |\n| Rovsing 徵象 | 壓左下腹時右下腹痛 |\n| Psoas 徵象 | 右髖被動伸展時疼痛（後盲腸位） |\n| Obturator 徵象 | 右髖屈曲內旋時疼痛（骨盆位） |\n\n  McBurney 點壓痛就是 McBurney 點壓痛，Rovsing 徵象是壓左下腹引起右下腹痛，故 (B) 錯誤。\n- CT：闌尾直徑 > 6 mm、管壁增厚、周邊脂肪浸潤，糞石不一定存在；孕婦與兒童優先超音波或 MRI。\n- 闌尾破裂形成局部膿瘍時，可先抗生素加經皮引流，待發炎改善後再擇期切除（interval appendectomy）。"
+  },
+  "111-1-醫學(三)-31": {
+    "explanation": "答案 (B)。\n\n**痛風**\n\n- 好發於中年男性；女性停經後因雌激素（促進尿酸排泄）減少，痛風的發生率會上升，故 (A) 錯誤。\n- 急性發作時，血中尿酸可能正常甚至偏低（發作時的發炎反應增加尿酸排出），約 10–40% 的病人發作時尿酸正常，因此不能以正常尿酸排除痛風，故 (B) 正確；確診需關節液中找到尿酸鈉結晶。\n- 影像：早期 X 光多正常，晚期才出現「打洞樣」骨侵蝕（懸掛邊緣）；關節超音波可看到「雙軌徵象」（尿酸結晶沉積在軟骨表面）與痛風石，故 (C) 錯誤。\n- 急性發作的治療：colchicine、NSAIDs、類固醇；腎功能不全病人不適合 NSAIDs，colchicine 需減量，類固醇（口服或關節內注射）反而是較安全的選擇，故 (D) 錯誤。"
+  },
+  "111-1-醫學(三)-32": {
+    "explanation": "答案 (C)。\n\n**類風濕性關節炎藥物與懷孕**\n\n| 藥物 | 懷孕 |\n| --- | --- |\n| Hydroxychloroquine、sulfasalazine（合併葉酸） | 可全程使用 |\n| 低劑量類固醇（prednisolone） | 可使用（胎盤會代謝大部分），盡量低劑量 |\n| Azathioprine、cyclosporine、tacrolimus | 可使用 |\n| TNF 抑制劑 | 多數可用到第二孕期；certolizumab（不經胎盤主動運輸）可全程使用 |\n| Methotrexate | 致畸胎，懷孕前至少停藥 1–3 個月 |\n| Leflunomide | 致畸胎，需停藥並以 cholestyramine 加速排除，確認血中濃度測不到 |\n| Mycophenolate、cyclophosphamide | 禁用 |\n\n- (A) Methotrexate 與 leflunomide 需在懷孕前停藥，不能等到驗孕陽性才停。\n- (B) 並非所有生物製劑都可全程使用，且第三孕期使用者，嬰兒出生後 6 個月內不應接種活性疫苗。\n- (D) 低劑量類固醇在懷孕中仍可使用。"
+  },
+  "111-1-醫學(三)-33": {
+    "explanation": "答案 (C)。\n\n**急性風濕熱**\n\n- A 群鏈球菌咽炎後約 2–4 週（平均 3 週）發生的自體免疫反應（分子模仿），故 (A)(B) 錯誤；皮膚感染不會引起風濕熱。\n- 修訂版 Jones 診斷標準（需有鏈球菌感染證據，加上 2 項主要，或 1 項主要 + 2 項次要）：\n\n| 主要表現 | 頻率 |\n| --- | --- |\n| 心臟炎 | 約 50–70% |\n| 遊走性多關節炎 | 約 35–75%（最常見） |\n| 舞蹈症（Sydenham chorea） | 約 10–30% |\n| 皮下結節 | 約 0–10% |\n| 邊緣性紅斑（erythema marginatum） | < 6%，最少見 |\n\n- 次要表現：發燒、關節痛、ESR 或 CRP 上升、PR 間期延長。\n- 約 30–50% 的風濕熱病人會進展為慢性風濕性心臟病（以二尖瓣最常受影響），而不是 10%，故 (D) 錯誤；反覆發作會增加風險，因此需長期 penicillin 預防。"
+  },
+  "111-1-醫學(三)-34": {
+    "explanation": "答案 (C)。\n\n**TNF 抑制劑引起的狼瘡**\n\n- TNF 抑制劑（infliximab、adalimumab 較常見，etanercept 較少）可誘發自體抗體（ANA、anti-dsDNA），少數出現藥物引起的狼瘡（皮疹、關節炎、漿膜炎），通常沒有嚴重腎臟或中樞神經侵犯。\n- 與一般藥物性狼瘡（procainamide、hydralazine）不同，TNF 抑制劑引起者常有 anti-dsDNA 陽性、低補體。\n- 處置：停用 TNF 抑制劑，症狀多在數週至數月內消失；必要時短期使用低劑量類固醇或 hydroxychloroquine。\n- 後續治療類風濕性關節炎時，宜改用不同機轉的生物製劑（如 rituximab、abatacept、tocilizumab），避免換成另一種 TNF 抑制劑（類別效應，可能再發），故選 (C)。\n- (B) 高劑量類固醇並繼續使用 adalimumab 不適當。"
+  },
+  "111-1-醫學(三)-35": {
+    "explanation": "答案 (B)。\n\n**脊椎關節炎的起始病灶**\n\n- 脊椎關節炎（僵直性脊椎炎、乾癬性關節炎、反應性關節炎、發炎性腸道疾病相關關節炎）的特徵病灶是肌腱附著點炎（enthesitis）：肌腱、韌帶或關節囊附著在骨頭的位置發炎。\n- 附著點受到機械壓力後，局部 IL-23/IL-17 路徑活化，造成發炎、骨侵蝕，修復過程中再形成新骨（韌帶骨贅、竹節狀脊椎）。\n- 臨床常見部位：阿基里斯腱、足底筋膜、髕骨肌腱附著點、薦腸關節、脊椎。\n\n**補充**：類風濕性關節炎的起始病灶是滑膜；退化性關節炎是軟骨。"
+  },
+  "111-2-醫學(三)-31": {
+    "explanation": "答案 (C)。\n\n**類肉瘤病（sarcoidosis）**\n\n- 原因不明的多系統肉芽腫疾病，主要由 CD4+ Th1（與 Th17）細胞對未知抗原產生過度免疫反應，形成非乾酪性肉芽腫，而不是 B 細胞與自體抗體造成，故 (A) 錯誤。\n- 器官侵犯：\n  - 肺與胸內淋巴結（> 90%）：兩側肺門淋巴結腫大、間質性肺病\n  - 皮膚（約 25–30%）：結節性紅斑、凍瘡樣狼瘡（lupus pernio）\n  - 眼睛（葡萄膜炎）、心臟（傳導阻滯、猝死）、神經、肝脾\n  - 故 (B) 錯誤。\n- 鈣代謝：肉芽腫內巨噬細胞製造 1α-羥化酶，使 1,25(OH)₂D 增加；高尿鈣約 40%，高血鈣約 10–20%；血中 ACE 由肉芽腫產生（不是腎臟），故 (D) 錯誤。\n- 典型病理：非乾酪性肉芽腫，故 (C) 正確。\n- Löfgren 症候群：結節性紅斑 + 兩側肺門淋巴結腫大 + 遊走性關節炎（踝關節），預後好。"
+  },
+  "111-2-醫學(三)-32": {
+    "explanation": "答案 (D)。\n\n**肥厚性骨關節病變**\n\n- 表現：杵狀指、長骨（脛骨、腓骨、橈骨、尺骨）遠端骨膜新骨形成、對稱性關節痛與關節腫脹。\n- 機轉：可能與血小板或巨核細胞未在肺部碎裂而進入周邊血管，釋放 PDGF、VEGF 等生長因子有關。\n- 原因：\n  - 次發性（最常見）：肺癌（尤其非小細胞肺癌，最重要）、其他胸腔腫瘤（間皮瘤）、慢性肺部感染（支氣管擴張、膿胸、囊腫纖維化）、發紺型先天性心臟病、感染性心內膜炎、肝硬化、發炎性腸道疾病。\n  - 原發性（pachydermoperiostosis）：遺傳性，年輕男性。\n\n老年男性出現杵狀指合併肥厚性骨關節病變，應優先排除支氣管源性肺癌，安排胸部影像。"
+  },
+  "111-2-醫學(三)-33": {
+    "explanation": "答案 (C)。\n\n**修格蘭氏症候群**\n\n- 好發於中年女性，淋巴球浸潤外分泌腺，造成口乾、眼乾。\n- 唾液腺病理：小唾液腺切片可見局部淋巴球浸潤（focus score ≥ 1），以 CD4+ T 細胞為主，也有 B 細胞，而不是 CD8+ T 細胞，故 (B) 錯誤。\n- 腺體外表現：\n  - 關節痛或關節炎：多為對稱性、非侵蝕性，故 (C) 正確\n  - 腎臟：間質性腎炎、遠端腎小管酸中毒（第一型 RTA），臨床明顯的腎臟侵犯不到 10%，故 (A) 錯誤\n  - 間質性肺病、周邊神經病變、皮膚血管炎、雷諾氏現象\n  - B 細胞淋巴瘤（MALT 淋巴瘤）風險增加\n- 抗體：anti-Ro（SS-A）、anti-La（SS-B）、類風濕因子、ANA。\n- 遺傳：與 HLA-DR3（DRB1*03）、HLA-B8 相關，而不是 HLA-DR5，故 (D) 錯誤。"
+  },
+  "111-2-醫學(三)-34": {
+    "explanation": "答案 (A)。\n\n**發炎體病（inflammasomopathies）**\n\n- 發炎體（如 NLRP3、pyrin）活化 caspase-1，使 IL-1β 與 IL-18 成熟分泌。\n- 單一基因突變造成發炎體過度活化的自體發炎疾病：\n\n| 疾病 | 基因 |\n| --- | --- |\n| 家族性地中海熱（FMF） | MEFV（pyrin） |\n| Cryopyrin 相關週期性症候群：家族性冷因性自體發炎症候群（FCAS）、Muckle-Wells 症候群（MWS）、新生兒多系統發炎疾病（NOMID） | NLRP3 |\n| 高 IgD 症候群 | MVK |\n\n- 治療以 IL-1 阻斷劑（anakinra、canakinumab、rilonacept）為主；FMF 首選 colchicine。\n\nSLE 是多基因與環境因素造成的自體免疫疾病（自體抗體、免疫複合體、第一型干擾素），不是單一基因突變引起的發炎體過度活化。"
+  },
+  "111-2-醫學(三)-35": {
+    "explanation": "答案 (B)。\n\n**抗磷脂質抗體症候群（APS）**\n\n- 本題反覆流產（包括一次 10 週以後的胎兒死亡），合併輕度血小板低下，應懷疑抗磷脂質抗體症候群。\n- 診斷（Sydney 標準）：臨床條件 + 實驗室條件，兩次檢驗相隔至少 12 週都陽性：\n  - Lupus anticoagulant（狼瘡抗凝血因子）\n  - 抗心脂質抗體（anticardiolipin IgG/IgM，中高效價）\n  - 抗 β2 糖蛋白 I 抗體（IgG/IgM）\n- 臨床條件：動靜脈血栓，或產科併發症（≥ 3 次 10 週前連續流產、≥ 1 次 10 週後不明原因胎兒死亡、34 週前因子癇前症或胎盤功能不全早產）。\n\n抗血小板抗體用於評估免疫性血小板低下，對確立 APS 的診斷沒有幫助。"
+  },
+  "111-2-醫學(三)-36": {
+    "explanation": "答案 (C)。\n\n**妊娠滋養層腫瘤的預後評分（FIGO/WHO）**\n\n| 項目 | 0 分 | 1 分 | 2 分 | 4 分 |\n| --- | --- | --- | --- | --- |\n| 年齡 | < 40 | ≥ 40 | — | — |\n| 前次懷孕 | 葡萄胎 | 流產 | 足月 | — |\n| 距前次懷孕月數 | < 4 | 4–6 | 7–12 | > 12 |\n| 治療前 hCG | < 10³ | 10³–10⁴ | 10⁴–10⁵ | ≥ 10⁵ |\n| 最大腫瘤 | < 3 cm | 3–5 cm | ≥ 5 cm | — |\n| 轉移部位 | 肺 | 脾、腎 | 腸胃道 | 腦、肝 |\n| 轉移數目 | 0 | 1–4 | 5–8 | > 8 |\n| 先前化療失敗 | — | — | 單藥 | 多藥 |\n\n- 總分 ≤ 6 分為低風險，以單一藥物（methotrexate 或 actinomycin D）治療；≥ 7 分為高風險，需多藥合併化療（EMA-CO）。\n- 肺轉移是最常見的轉移部位，計 0 分，不屬於高危險因子；腦、肝轉移各 4 分，懷孕結束後越久（如 4 個月以上）分數越高。"
+  },
+  "111-2-醫學(三)-37": {
+    "explanation": "答案 (D)。\n\n**副腫瘤內分泌症候群**\n\n| 症候群 | 體液因子 | 常見腫瘤 |\n| --- | --- | --- |\n| 惡性高血鈣 | PTHrP（最常見，約 80%） | 肺、頭頸部、食道鱗狀細胞癌，腎、膀胱、乳癌 |\n| 惡性高血鈣 | 1,25(OH)₂D | 淋巴瘤 |\n| 惡性高血鈣 | 骨轉移局部溶骨 | 乳癌、多發性骨髓瘤 |\n| 庫欣症候群 | ACTH | 小細胞肺癌、類癌、甲狀腺髓質癌 |\n| SIADH | Vasopressin（ADH） | 小細胞肺癌 |\n| 低血糖 | IGF-2 | 大型間質腫瘤、肝細胞癌 |\n| 紅血球增多 | 紅血球生成素 | 腎細胞癌、肝細胞癌、小腦血管母細胞瘤 |\n\n惡性腫瘤造成高血鈣的體液因子不包括甲狀腺素。"
+  },
+  "111-2-醫學(三)-38": {
+    "explanation": "答案 (C)。\n\n**胃腺癌的治療**\n\n- 局部胃癌：根治性胃切除合併 D2 淋巴結廓清為主。\n  - 術前與術後化療（FLOT）或術後輔助化療（XELOX、S-1）可增加存活率。\n  - 單獨術後放療並不能增加存活率，故 (A) 錯誤。\n- 胃腺癌對放療並不特別敏感，放化療無法達到與根治性手術相當的治癒率，故 (B) 錯誤。\n- 轉移或復發：\n  - 以含鉑與氟嘧啶的組合化療為主，並依生物標記加上標靶或免疫治療：\n    - HER2 陽性：化療合併 trastuzumab，可顯著延長存活（ToGA 試驗），故 (C) 正確\n    - PD-L1 陽性：化療合併 nivolumab 或 pembrolizumab\n    - Claudin 18.2 陽性：zolbetuximab\n  - 化療合併 bevacizumab（AVAGAST 試驗）並未顯著延長整體存活；第二線可用 ramucirumab（抗 VEGFR2），故 (D) 錯誤。"
+  },
+  "111-2-醫學(三)-39": {
+    "explanation": "答案 (D)。\n\n**局部晚期直腸癌（第 II、III 期）**\n\n- 手術：全直腸繫膜切除術（TME），完整切除直腸周圍的繫膜與淋巴結，大幅降低局部復發。\n- 降低局部復發的輔助治療：\n  - 術前同步放射化學治療（以 5-FU 或 capecitabine 作為放射增敏劑），或短程放療\n  - 全新輔助治療（TNT）：術前同時完成放化療與全身化療\n  - 術前放化療優於術後（局部復發較少、毒性較低、括約肌保留機會較高）\n- 抗 EGFR 單株抗體（cetuximab）合併放療並未證實能降低直腸癌局部復發或改善預後，不是標準治療；抗 EGFR 藥物只用於 RAS 野生型的轉移性大腸直腸癌。"
+  },
+  "111-2-醫學(三)-40": {
+    "explanation": "答案 (B)。\n\n**睪丸生殖細胞腫瘤治癒後的長期影響**\n\n- 含 cisplatin 化療的長期副作用：\n  - 代謝症候群、高血壓、高血脂、心血管事件增加\n  - 耳毒性（耳鳴、聽損）、周邊神經病變\n  - 腎功能下降、雷諾氏現象、性腺功能低下\n  - 第二個實體腫瘤風險增加\n- 放射治療：增加照射範圍內第二個實體腫瘤（胃、胰臟、膀胱、大腸）的風險。\n- Etoposide：與治療相關的急性骨髓性白血病（11q23/MLL 重組）有關，累積劑量越高風險越高；但絕對風險很低（標準劑量 < 0.5%，高累積劑量 > 2 g/m² 時約 1–2%），不是 80%，故 (B) 錯誤。"
   }
 }
