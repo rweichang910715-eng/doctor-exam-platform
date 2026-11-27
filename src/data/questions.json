@@ -18763,7 +18763,7 @@
       "D": "環甲膜切開術不應作為將來病人之永久性通氣道（permanent airway）"
     },
     "answer": "A",
-    "explanation": "(A) 錯誤，在六歲以下的兒童，環狀軟骨所在的位置是氣道最狹窄的地方（相比成人最狹窄的地方在聲門的地方），而且甲狀腺 isthmus 的高度可能會到環甲膜 (cricothyroid membrane) 的位置，因此六歲以下是環甲膜切開術的禁忌症，這個年紀的兒童可以用 transtracheal jet ventilation（TTJV，又稱 needle cricothyrotomy）的方式建立緊急呼吸道\n(B) 正確，環甲膜的位置就在甲狀軟骨之下、環狀軟骨之上，而通常會建議在環甲膜的下三分之一下刀，比較不會傷及動脈 (cricothyroid artery)，因此可以透過兩軟骨的距離找到下三分之一的位置\n(C) 正確，基本上任何侵入性的治療都會有疼痛、出血、感染這三種常見的併發症\n(D) 正確，一般會認為氣切管 (tracheostomy) 才比較適合當作永久氣切管，因為環甲膜切開術可能會有聲門下狹窄的併發症，不過其實有不少篇研究做出來發現這個機率其實很低，但是多半還是會建議以氣切管當作永久性通氣道\n\n參考資料：P Talving, et al. (2010), Conversion of emergent cricothyrotomy to tracheotomy in trauma patients. Archives of Surgery, 145(1), 87-91.",
+    "explanation": "答案 (A)。\n\n**環甲膜切開術**\n\n- 適應症：「無法插管、無法通氣」（CICO）的緊急狀況，作為最後的救命手段。\n- 定位：病人平躺、頸部伸展，觸摸甲狀軟骨（喉結）往下，甲狀軟骨下緣與環狀軟骨之間的凹陷就是環甲膜。\n- 方法：手術刀–探條–氣管內管（scalpel-bougie-tube）技術，或針頭環甲膜穿刺。\n- 併發症：出血、感染、皮下氣腫、管子位置錯誤、聲門下狹窄、聲音改變。\n- 只作為暫時性呼吸道，病人穩定後應改為正式氣管切開或插管，不適合作為永久呼吸道。\n- 兒童（尤其 < 6–12 歲）的環甲膜很小、喉部結構不易辨認，且環狀軟骨是支撐呼吸道唯一完整的軟骨環，手術切開容易造成聲門下狹窄；因此兒童緊急時建議以針頭環甲膜穿刺（合併噴射通氣），不建議手術切開，故 (A) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18783,7 +18783,7 @@
       "D": "神經軸麻醉（neuraxial anesthesia）不會發生體溫過低的現象"
     },
     "answer": "D",
-    "explanation": "身體有冷覺受器 (Aδ fiber)、溫覺受器 (C fiber)，兩種受器藉外側脊髓丘腦束 (lateral spinothalamic tract) 連結至下視丘的前核 (anterior nu.) 和視前核 (preoptic nu.) 溝通調節，在 36.7℃ - 37.1℃ 以外的體溫，身體便會產生一系列行為和恆定調節，太熱時，身體流汗、血管擴張；太冷時，身體血管收縮、發抖、非發抖性產熱（脂解褐色脂肪組織）\n\n麻醉期間 hypothermia 的主要過程有三個階段：\n(1) 體溫再分布作用 (redistribution)：此階段體溫散失最快，血管擴張使中樞的溫血分布到周邊，也使周邊的冷血散布至中樞，血管擴張的原因來自麻醉藥物的直接作用（交感神經訊號下降）和產熱機制閾值改變的影響\n(2) 由於代謝率下降，體熱散失多於產熱效率：此階段體溫仍在散失，但較平緩\n(3) 身體對低體溫反應性血管收縮，此階段熱散失與產熱平衡，體溫沒有變化 (plateau)\n\n其他促成體溫下降的風險因子有老人、小孩（體表面積大）、手術室低溫、術前低體溫、大且立即的手術、同時合併全身和局部麻醉劑\n\n(D) 神經軸麻醉包含硬脊膜外 (epidural) 和脊髓 (spinal) 麻醉，屬於局部麻醉，單純的神經軸麻醉仍會體溫散失，只是程度不若全身麻醉大\n\n參考資料：C Riley & J Andrzejowski. (2018), Inadvertent perioperative hypothermia. BJA education, 18(8), 227.",
+    "explanation": "答案 (D)。\n\n**手術期間的低體溫**\n\n- 三個時期：\n\n| 時期 | 時間 | 機轉 |\n| --- | --- | --- |\n| 第一期（重新分布） | 麻醉後第 1 小時，核心體溫下降 1–1.5°C | 麻醉藥使周邊血管擴張，核心熱量流向周邊（最主要的初始原因） |\n| 第二期（線性下降） | 之後 2–3 小時 | 散熱大於產熱（輻射、對流、傳導、蒸發） |\n| 第三期（平原期） | 約 3–5 小時後 | 體溫低到啟動血管收縮，熱量散失與產生達到平衡 |\n\n- 全身麻醉降低血管收縮與寒顫的閾值，使身體在更低的溫度才啟動保溫反應。\n- 手術室低溫、輸入冷的液體、大面積暴露與體腔打開都會加重低體溫。\n- 神經軸麻醉（脊椎或硬脊膜外麻醉）同樣會造成低體溫：阻斷區域的血管擴張造成熱重新分布，阻斷區域無法寒顫與血管收縮，且病人常感覺不到冷，故 (D) 錯誤。\n- 低體溫的後果：傷口感染增加、凝血功能下降、出血增加、心臟事件、藥物代謝延長、術後寒顫。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18803,7 +18803,7 @@
       "D": "④②①③"
     },
     "answer": "B",
-    "explanation": "由於愈遠端動脈的順應性 (compliance) 愈差，在血流相同下產生的收縮壓也會愈大，因此本題的收縮壓高低應為 dorsalis pedis a. > femoral a. > brachial a. > subclavian a.，答案為 (B)\n\n連結：診斷周邊動脈疾病常用的 Ankle-brachial pressure index (ABI)，正常值介於 1.0~1.4 之間，也可以由此推論正常時足部動脈的收縮壓比近端上肢動脈高",
+    "explanation": "答案 (B)。\n\n**動脈收縮壓的遠端放大現象**\n\n- 動脈壓力波從主動脈往周邊傳遞時，由於血管管徑變小、彈性下降，以及周邊反射波的疊加，收縮壓會逐漸上升，舒張壓略微下降，脈搏壓變寬；平均動脈壓則逐漸略降。\n- 因此離心臟越遠的動脈，收縮壓越高：\n  - 足背動脈 > 股動脈 > 肱動脈 > 鎖骨下動脈（接近中央主動脈）\n\n**補充**：臨床上以橈動脈或足背動脈測得的收縮壓會高於中央主動脈壓，判讀時應以平均動脈壓較為可靠。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18823,7 +18823,7 @@
       "D": "fentanyl的低分子量和高脂溶性有利其經皮吸收（transdermal absorption）"
     },
     "answer": "B",
-    "explanation": "複習鴉片類藥物機轉：opioid 受體 → 活化 Gi → 鈣離子內流 ↓、鉀離子外流 ↑ → 細胞膜過極化、電訊號被抑制\n\n(A) 正確、(B) 錯誤，鴉片類藥物會抑制鈣離子通道，啟動鉀離子通道，導致胞內正電荷減少、細胞膜過極化\n(C) 正確，opioid 受體的內源性肽有三種，分別是 μ receptor → endorphins（臨床止痛的主要途徑）、δ receptor → enkephalins、κ receptor → dynorphins\n(D) 正確，fentanyl 可以使用靜脈注射，作用快且強（嗎啡的 100 倍），而其低分子量和高脂溶性讓他同時可以皮膚貼片的方式給予",
+    "explanation": "答案 (B)。\n\n**鴉片類藥物的作用機轉**\n\n- 作用於 G 蛋白偶聯的鴉片受體（μ、δ、κ）：\n  - 抑制 adenylyl cyclase，降低 cAMP。\n  - 打開鉀離子通道，使鉀離子外流，細胞膜過極化（突觸後抑制）。\n  - 抑制電壓依賴性鈣離子通道，減少突觸前神經傳導物質釋放。\n- 因此鴉片類藥物是「抑制鈣離子通道、打開鉀離子通道」，與選項 (B) 的敘述相反。\n- 內源性鴉片胜肽：腦內啡（endorphins）、腦啡（enkephalins）、強啡（dynorphins）。\n- Fentanyl 分子量低、脂溶性高，適合做成經皮貼片；起效慢（12–24 小時），不適合急性疼痛或未曾用過鴉片類藥物的病人。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18843,7 +18843,7 @@
       "D": "etomidate會抑制腎上腺皮質"
     },
     "answer": "C",
-    "explanation": "(C) 錯誤，Ketamine 可說是在國考出了名的愛考！因為他最特別，可以升血壓、眼壓、腦壓！其他靜脈麻醉藥物的比較整理於下方表格\n\n常見靜脈麻醉藥物：\n| 藥物 | 呼吸抑制 | 掉血壓 | 其他特性 |\n| :--- | :--- | :--- | :--- |\n| **Propofol（俗稱牛奶針）** | ✓ | ✓ | (1) Induction 最常用<br>(2) 低致吐<br>(3) 太快或劑量太大會有 propofol-related infusion syndrome (PRIS) → 代謝酸中毒 |\n| **Etomidate** | X | X | (1) 降腦壓<br>(2) 抑制腎上腺功能（減少生成 cortisol） |\n| **Benzodiazepine 類 (BZD)** | ✓ | X | (1) duration 較其他長，較少用在 induction<br>(2) 解毒劑為 flumazenil |\n| **Barbiturate 類** | ✓ | Thiamylal：X<br><br>Thiopental：✓ | (1) 降腦壓、升心跳<br>(2) 適合幼兒的麻醉劑（ketamine 也是）<br>(3) 較易 bronchospasm（較難插管） |\n| **Ketamine（NMDA 拮抗劑）** | X | 升血壓 | (1) 升眼壓、腦壓（腦部外傷不可用）<br>(2) 增加淚液、唾液分泌<br>(3) 不會 bronchospasm<br>(4) 容易解離性麻醉 |\n\n註：Thiopental 是極短效 barbiturate 類藥物，副作用多，現在已逐漸被 Thiamylal [Citosol] 取代",
+    "explanation": "答案 (C)。\n\n**靜脈麻醉藥的特性**\n\n| 藥物 | 心血管 | 呼吸 | 腦部 | 其他 |\n| --- | --- | --- | --- | --- |\n| Propofol | 血壓下降 | 抑制 | 降低腦血流與腦耗氧 | 止吐 |\n| Barbiturate（thiopental） | 血壓下降 | 抑制 | 腦血管收縮，降低腦血流、腦耗氧與顱內壓 | 紫質症禁用 |\n| Benzodiazepine | 輕微下降 | 抑制，合併鴉片類時可呼吸停止 | — | 可用 flumazenil 拮抗 |\n| Ketamine | 交感神經刺激，血壓與心跳上升 | 保留自主呼吸與呼吸道反射，支氣管擴張 | 增加腦血流 | 解離性麻醉、幻覺；適合休克、氣喘病人 |\n| Etomidate | 心血管最穩定 | 輕度抑制 | 降低腦耗氧 | 抑制 11β-羥化酶，造成腎上腺皮質抑制；肌陣攣、噁心嘔吐 |\n\nKetamine 會「升高」血壓與心跳，故 (C) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18863,7 +18863,7 @@
       "D": "propofol"
     },
     "answer": "C",
-    "explanation": "見【112-1(六)5】詳解；另 (B) fentanyl 為嗎啡類藥物，亦會抑制呼吸中樞",
+    "explanation": "答案 (C)。\n\n**對呼吸抑制最少的麻醉藥**\n\n- Ketamine 是 NMDA 受體拮抗劑，在一般劑量下能保留自主呼吸、呼吸道張力與保護反射，並具支氣管擴張作用，因此對呼吸的抑制最少。\n- Thiopental、propofol：劑量相關的呼吸抑制，誘導劑量常造成短暫呼吸停止。\n- Fentanyl 等鴉片類：抑制腦幹對二氧化碳的反應，呼吸變慢，大劑量可停止呼吸，並可能造成胸壁僵硬。\n\n**補充**：ketamine 會增加分泌物，可合併抗膽鹼藥；也可能造成苏醒期幻覺，可合併 benzodiazepine 預防。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18883,7 +18883,7 @@
       "D": "肥胖病患對脊椎麻醉阻斷皮節高度無影響"
     },
     "answer": "D",
-    "explanation": "影響脊椎麻醉 (spinal anesthesia) 阻斷皮節高度的因素很多：藥物方面如麻醉藥種類、比重、劑量、體積等；病人方面如年紀、體型、CSF 量等；麻醉操作方面如病人姿勢、注射位置、給藥速率等\n\n(A) 局部麻醉劑的比重與會影響藥物在 CSF 中擴散（或阻斷）的範圍，藥物比重愈大，阻斷的皮節就愈高\n(B) 劑量 = 體積 × 濃度，麻醉藥劑量愈大，阻斷的皮節愈高；另外同濃度的藥物體積愈大，可阻斷的皮節也愈高（約每增加 1~2 ml 體積可多阻斷一個脊髓皮節）\n(C) 病人姿勢也會影響麻醉藥阻斷的範圍，因此不同部位的手術會使用各自適合的姿勢與麻醉劑，例如側臥位 (lateral decubitus) 搭配高比重藥物 (hyperbaric) 經常使用在無痛分娩、下肢手術；俯臥屈位 (prone jackknife) 搭配低比重藥物 (hypobaric) 則適合用在直腸肛門的手術\n(D) 錯誤，從語意的「無影響」就能猜有很大機率是錯的，由於皮下脂肪與硬膜外血管較多，同劑量的麻醉藥在肥胖病人阻斷的皮節會比一般人更高，在劑量選擇上要小心\n\n參考資料：S Sakura. (2000), Factors influencing the level of spinal anesthesia:(I). Characteristics of anesthetic solutions. Masui. The Japanese Journal of Anesthesiology, 49(1), 18-25.",
+    "explanation": "答案 (D)。\n\n**影響脊椎麻醉阻斷高度的因素**\n\n| 主要因素 | 說明 |\n| --- | --- |\n| 藥物比重 | 高比重藥物往低處流，等比重藥物較少移動，低比重往高處 |\n| 病人姿勢 | 與藥物比重共同決定擴散方向 |\n| 藥物劑量（最重要）與體積 | 劑量越大，阻斷越高 |\n| 注射部位 | 注射節段越高，阻斷越高 |\n| 腦脊髓液容積 | 容積越少，擴散越廣 |\n\n- 腦脊髓液容積減少的情況：肥胖、懷孕、腹內壓上升（腹水、腫瘤），這些病人在相同劑量下阻斷高度較高，需減少劑量。\n- 其他次要因素：年齡（老年人較高）、身高（影響有限）、脊椎彎曲度。\n\n肥胖會使腹內壓上升、硬脊膜外靜脈擴張，腦脊髓液容積減少，阻斷高度會較高，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18903,7 +18903,7 @@
       "D": "即使是腸胃道手術，也儘可能不置放鼻胃管"
     },
     "answer": "C",
-    "explanation": "多模式止痛 (multimodal analgesia) 包括合併中樞神經、周邊神經、局部止痛以及全身性止痛四個面向，來達到更佳的止痛效果並降低單一止痛藥所需劑量\n\nEnhanced recovery after surgery (ERAS) 則是希望透過更好的止痛模式，降低止痛藥的併發症及增加止痛品質，達到術後早期活動、早期禁食及降低手術過程 NPO 時間的目的\n\n(A) 使用 NSAIDs 仍有造成腎損傷風險，但在多模式止痛中可以降低使用劑量及頻次\n(B) PCA 的使用能讓病患在有突破性疼痛時，有安全範圍內的劑量增加，可以提高病患滿意度\n(C) 錯誤，使用 peripheral nerve blockade 可以讓病患達到術後早期開始活動的目標，可以加速恢復、縮短住院時間\n(D) 降低噁心嘔吐、腸胃不蠕動的麻醉併發症，腸胃道手術亦可避免鼻胃管的使用",
+    "explanation": "答案 (C)。\n\n**術後加速康復（ERAS）**\n\n- 多模式止痛的目的是減少鴉片類藥物用量（減少噁心嘔吐、腸麻痺、呼吸抑制），促進早期進食與下床：\n  - Acetaminophen、NSAIDs 或 COX-2 抑制劑（注意腎功能、出血與吻合處滲漏風險）\n  - 區域麻醉：硬脊膜外止痛、周邊神經阻斷、腹橫肌平面阻斷、傷口浸潤\n  - Gabapentinoid、ketamine、lidocaine 靜脈輸注、dexamethasone\n  - 病人自控式止痛（PCA）可提高滿意度\n- 周邊神經阻斷是 ERAS 的重要組成，可減少鴉片類藥物、加速恢復與出院，應積極使用，故 (C) 錯誤。\n- 其他 ERAS 要素：術前不長時間禁食（術前 2 小時可喝清流質、碳水化合物飲料）、避免常規放置鼻胃管與引流管、目標導向輸液、預防噁心嘔吐、早期進食與下床、及早拔除導尿管。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -18923,12 +18923,12 @@
       "D": "敗血性休克（septic shock）"
     },
     "answer": "D",
-    "explanation": "其實這題考在這個時代有點怪... 自從 2016 年的 Sepsis-3 定義後，SIRS 已經不被建議當作評估 sepsis 的判斷標準，而 severe sepsis 也被視為多餘的名詞，另外 2021 年有更新 sepsis 的 guideline，不再建議單以 qSOFA 來判斷病人有無 sepsis，要佐以 SOFA score 去評估，和 2016 的 Sepsis-3 有異曲同工之妙\n\n**Sepsis 定義**：\nSOFA score 的項目每一個都有 0-4 分，總分 2 分以上就符合定義（在此不列每一項分數，記正常值就可以大致推估是否符合 sepsis，完整分數可上網搜尋）\n| 項目 | 指標 | 正常值（SOFA score 的 0 分） |\n| :--- | :--- | :--- |\n| **呼吸** | PaO2/FiO2 | 400 以上 |\n| **凝血** | 血小板 | 15 萬以上 |\n| **肝** | Total bilirubin | <1.2 mg/dL |\n| **腎** | Creatinine | <1.2 mg/dL |\n| **血壓** | MAP (⅓ SBP + ⅔ DBP) | 70 mmHg 以上 |\n| **CNS** | GCS | 15 |\n\n**Septic Shock 定義**：\n即使 fluid resuscitation 之後仍然 (1) 要升壓劑才能使 MAP > 65 mmHg (2) Lactate > 2 mmol/L\n\n由於病人血壓在給予 3000 ml 的輸液後 MAP 仍然 <65 mmHg (90×⅓ + 45×⅔ = 60 mmHg)，代表需要升壓劑才足以超過 65 mmHg，雖然題目並未給 Lactate 的數值，但是應該可以下 septic shock 這個診斷\n\n雖然不影響作答，但筆者還是在底下列出 SIRS 與 severe sepsis 的定義，再次強調，這兩個名詞現在不會拿來評估 sepsis（在 2016 以前，選項的四個名詞是一關一關過的，依序看是否符合 SIRS → sepsis → severe sepsis → septic shock）：\n| 項目 | 定義與標準 |\n| :--- | :--- |\n| **SIRS（符合 ≥2 項者）** | (1) 體溫 >38℃ 或 < 36℃<br>(2) 心跳 >90/min<br>(3) 呼吸速率 >20/min 或 PaCO2 < 32mmHg<br>(4) WBC > 12000 或 < 4000 或 >10% band form |\n| **severe sepsis** | 符合 sepsis 且有以下任一：(1) 低血壓 (2) 器官衰竭 (3) 乳酸過高 |\n\n參考資料：\n1. L Evans, et al. (2021), Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Intensive care medicine, 47(11): 1181-1247\n2. M Singer, et al. (2016), The third international consensus definitions for sepsis and septic shock (Sepsis-3). JAMA, 315(8): 801-810",
+    "explanation": "答案 (D)。\n\n**敗血症的定義（Sepsis-3，2016）**\n\n| 名稱 | 定義 |\n| --- | --- |\n| 敗血症 | 感染合併宿主反應失調造成的器官功能障礙（SOFA 分數上升 ≥ 2 分） |\n| 敗血性休克 | 敗血症經適當輸液復甦後，仍需要升壓劑才能維持平均動脈壓 ≥ 65 mmHg，且血中乳酸 > 2 mmol/L |\n\n- 本題肺炎病人合併意識改變（器官功能障礙）、低血壓，已給予 3,000 mL（約 40 mL/kg）輸液後血壓仍只有 90/45 mmHg（平均動脈壓約 60 mmHg），需要考慮升壓劑，屬於敗血性休克。\n- Sepsis-3 已不再使用 SIRS 與「嚴重敗血症」的分類。\n\n**補充**：處置以 1 小時內給予抗生素、30 mL/kg 晶體液、升壓劑首選 norepinephrine 為主。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第四篇 其他科",
-    "chapter": "麻醉科",
-    "category": "麻醉科"
+    "section": "第一篇 內科學",
+    "chapter": "感染科",
+    "category": "感染科"
   },
   {
     "id": "112-1-醫學(六)-10",
@@ -18943,12 +18943,12 @@
       "D": "雖然與系統疾病相關，發作時通常以單眼發作為主"
     },
     "answer": "A",
-    "explanation": "(A)(D) 典型僵直性脊椎炎的葡萄膜炎是「急性、前葡萄膜炎、單側」，與之相比較的是乾癬性關節炎 (psoriatic arthritis, PsA)，其他常見免疫疾病與葡萄膜炎型態整理如下：\n\n| 疾病 | Uveitis 型態 | 其他眼睛表現 |\n| :--- | :--- | :--- |\n| **僵直性脊椎炎 (AS)** | 前葡萄膜炎、急性、單側 | |\n| **乾癬性關節炎 (PsA)** | 後葡萄膜炎、慢性、雙側 | |\n| **反應性關節炎 (ReA)** | 前葡萄膜炎、單側 | 結膜炎 |\n| **兒童特發性關節炎 (JIA)** | 前葡萄膜炎、慢性、雙側 | |\n| **貝西氏症 (Behcet's disease)** | 全葡萄膜炎、雙側 | 視網膜血管炎、前房蓄膿 (hypopyon) |\n| **原田氏症** | 全葡萄膜炎、雙側 | |\n| **類風濕性關節炎 (RA)** | X | 鞏膜炎 |\n\n(C) AS 和 HLA-B27 的關係很愛考：AS 中近 80-90% HLA-B27 (+)；但反之不然，驗出 HLA-B27(+) 的人僅 5% 會有 AS，HLA-B27(+) AS 與 HLA-B27(-) AS 相比，前者發病年齡早、疾病較不嚴重、較易有家族史、較多葡萄膜炎但合併較少乾癬 (psoriasis) 和發炎性腸道疾病 (IBD)",
+    "explanation": "答案 (A)。\n\n**HLA-B27 相關前葡萄膜炎**\n\n- 最常見的非感染性葡萄膜炎類型之一，常合併僵直性脊椎炎、反應性關節炎、發炎性腸道疾病、乾癬性關節炎。\n- 好發於年輕男性，HLA-B27 多為陽性。\n- 表現為急性前葡萄膜炎（虹彩睫狀體炎），而不是全葡萄膜炎，故 (A) 錯誤：\n  - 單眼突然發作（可左右交替反覆發作）\n  - 紅眼、畏光、疼痛、視力模糊\n  - 前房細胞與蛋白（嚴重時前房積膿、纖維素滲出）、睫狀充血\n- 治療：局部類固醇與散瞳劑（預防虹膜後沾黏）；反覆發作者治療全身性疾病（如 TNF-α 抑制劑）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
-    "chapter": "麻醉科",
-    "category": "麻醉科"
+    "chapter": "眼科",
+    "category": "眼科"
   },
   {
     "id": "112-1-醫學(六)-11",
@@ -18963,7 +18963,7 @@
       "D": "輕度非增殖性糖尿病視網膜病變（mild nonproliferative diabetic retinopathy）"
     },
     "answer": "A",
-    "explanation": "眼底鏡判讀的題目真的很難，但好在圖片中視神經盤有顯著的新生血管 (neovascularization)，一出現此特徵就表示病人已經有增值性糖尿病視網膜病變，就放心選 (A) 吧！\n\n| 糖尿病視網膜病變 | 眼底鏡特徵 |\n| :--- | :--- |\n| **mild NPDR** | 只有 microaneurysms |\n| **moderate NPDR** | microaneurysms / dot and blot hemorrhages / hard exudates / cotton-wool spots（以前叫 soft exudates）任一者以上 |\n| **severe NPDR** | 4-2-1 原則：視網膜 4 象限各有 ≥20 hemorrhages / 至少 2 象限有 venous beading / 至少 1 象限有 microvascular abnormalities |\n| **PDR** | neovascularization / vitreous or preretinal hemorrhages 任一者以上 |\n\nNPDR = 非增殖性糖尿病視網膜病變 (Non-proliferative diabetic retinopathy)\nPDR = 增殖性糖尿病視網膜病變 (Proliferative diabetic retinopathy)",
+    "explanation": "答案 (A)。\n\n**糖尿病視網膜病變的分期**\n\n| 分期 | 眼底表現 |\n| --- | --- |\n| 輕度非增殖性 | 只有微血管瘤 |\n| 中度非增殖性 | 比輕度多，但未達重度（出血、硬性滲出、棉絮斑） |\n| 重度非增殖性（4-2-1 法則） | 四個象限都有大量出血，或兩個象限靜脈串珠狀，或一個象限明顯視網膜內微血管異常（IRMA） |\n| 增殖性 | 視神經盤或視網膜新生血管、玻璃體或視網膜前出血、纖維血管增生 |\n\n題圖眼底照片可見新生血管（與纖維增生），屬於增殖性糖尿病視網膜病變。\n\n**補充**：治療包括全視網膜雷射光凝固、玻璃體內注射抗 VEGF、合併玻璃體出血或牽引性視網膜剝離時做玻璃體切除手術。",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
@@ -18986,7 +18986,7 @@
       "D": "若合併不規則散光，可配戴硬式隱形眼鏡矯正"
     },
     "answer": "A",
-    "explanation": "(A) 調節性近視（假性近視）是源於睫狀肌過度緊張、水晶體過度增厚，成像就會聚焦在視網膜前，容易發生在調節能力較強的幼童，利用「散」瞳劑可幫助改善；若長期無法放鬆導致睫狀肌失去調節能力，就會演變為真性近視，「縮」瞳劑主要用於青光眼降眼壓\n(C) 近視雷射可藉由改變角膜和晶體的曲度和折射能力，改變晶體的屈光度，以此治療近視\n(D) 不規則散光沒有互相垂直的主軸，多源自角膜受傷或潰瘍，致使角膜凹凸不平，硬式隱形眼鏡（如 RGP）和鞏膜鏡 (scleral lens) 可矯正不規則散光，眼鏡與一般軟式隱形眼鏡則只能矯正規則散光",
+    "explanation": "答案 (A)。\n\n**近視的矯正與控制**\n\n- 矯正方法：眼鏡、隱形眼鏡（不規則散光如圓錐角膜可用硬式隱形眼鏡）、屈光手術（LASIK、PRK、SMILE）、有晶體眼人工水晶體植入。\n- 兒童近視控制：低濃度 atropine 點眼、角膜塑型片、周邊離焦眼鏡或隱形眼鏡、增加戶外活動。\n- 假性近視是睫狀肌持續收縮（調節痙攣）造成的暫時性近視，治療是用「睫狀肌麻痺劑」（如 atropine、cyclopentolate、tropicamide）放鬆睫狀肌；縮瞳劑（如 pilocarpine）會使睫狀肌收縮，反而加重近視，故 (A) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19006,7 +19006,7 @@
       "D": "長期配戴隱形眼鏡"
     },
     "answer": "B",
-    "explanation": "非常冷門的考題，輪部 (limbus) 位在角膜與結膜的交界處，limbus 上有角膜幹細胞可以不斷產生新的角膜上皮，LSCD 就是這群角膜幹細胞被破壞，取而代之的，結膜上皮會開始增生並覆蓋原本的角膜，症狀上會導致視力減退甚至失明\n\nLSCD 治療會依據病因因而有不同方式，大部分是減少角膜受到的刺激（如減少乾眼、不要戴隱形眼鏡等），手術也是治療選擇之一，包含清創（移除增生的結膜上皮）、移植 limbus 等\n\n筆者猜測 (B) 選項是為了誘答，根據文獻，乾眼可能惡化 LSCD 但並非造成 LSCD 的直接病因\n\n以下將參考文獻提到的病因表格整理並放上給大家參考：\n| 分類 | limbal stem cell deficiency 病因 |\n| :--- | :--- |\n| **先天性** | • 虹膜缺損 (aniridia)<br>• 先天性角化不全 (dyskeratosis congineta)<br>• 外胚層增生不良 (ectodermal dysplasia)<br>• 多重內分泌激素不足導致的角膜炎 |\n| **後天性** | • 化學藥物或熱傷害 → (A)<br>• SJS / TEN → (C)<br>• 粘膜性天皰瘡 (mucous membrane pemphigoid)<br>• 影響到 limbus 的手術、創傷、感染、放射治療或慢性發炎<br>• 配戴隱形眼鏡 → (D)<br>• 角膜水疱樣病變 (bullous keratopathy)<br>• 化療藥中的抗代謝劑：如 5-FU、Mitomycin C |\n\n參考資料：K Sejpal, P Bakhtiari & SX Deng. (2013), Presentation, diagnosis and management of limbal stem cell deficiency. Middle East African journal of ophthalmology, 20(1), 5.",
+    "explanation": "答案 (B)。\n\n**角膜緣幹細胞缺乏症（LSCD）**\n\n- 角膜緣幹細胞負責更新角膜上皮，並作為阻擋結膜長入角膜的屏障。\n- 缺乏時：結膜上皮與血管長入角膜（結膜化），角膜表面不穩定、反覆上皮缺損、新生血管、混濁，視力下降。\n- 原因：\n\n| 類型 | 原因 |\n| --- | --- |\n| 後天性 | 化學灼傷（最常見，尤其鹼性）、熱灼傷、Stevens-Johnson 症候群、眼部瘢痕性類天疱瘡、長期配戴隱形眼鏡、多次眼表手術、放射線或冷凍治療、長期使用防腐劑眼藥 |\n| 先天性 | 無虹膜症（aniridia） |\n\n- 修格蘭氏症候群主要造成水液缺乏型乾眼症，一般不會直接導致角膜緣幹細胞缺乏，故 (B) 錯誤。\n- 治療：角膜緣幹細胞移植（自體或異體）、培養上皮細胞移植、羊膜移植。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19026,7 +19026,7 @@
       "D": "睫狀體（ciliary body）"
     },
     "answer": "D",
-    "explanation": "隅角鏡檢查可辨別開放性或閉鎖性青光眼，並依據前房隅角角度以 Shaffer system 分級（角度不用記，因臨床多粗估，記可見結構的順序）：\n\n| Shaffer Grade | 隅角角度 | 描述 / 臨床意義 | 隅角鏡可見結構 |\n| :--- | :--- | :--- | :--- |\n| **4** | 35°-45° | wide open / 不可能閉鎖 | 睫狀體 (ciliary body) |\n| **3** | 20°-35° | open / 不可能閉鎖 | 鞏膜脊 (scleral spur) |\n| **2** | 10°-20° | narrow / 可能閉鎖 | 小樑 (trabeculum meshwork) |\n| **1** | < 10° | extremely narrow / 非常可能閉鎖 | 施瓦布線 (Schwalbe line) 和小樑頂端 |\n| **0** | 0° | closed / 閉鎖 | 無 |\n\n(D) 睫狀體是最後一個可見結構，看得到睫狀體的情況下不可能為隅角閉鎖性青光眼",
+    "explanation": "答案 (D)。\n\n**隅角鏡檢查的房角結構**\n\n由前（角膜側）往後（虹膜側）依序可見：\n\n1. Schwalbe line（角膜後彈力層末端）\n2. 小樑網（前方非色素、後方色素部分）\n3. 鞏膜突（scleral spur）\n4. 睫狀體帶（ciliary body band）\n5. 虹膜根部\n\n- 房角越寬，能看到的結構越多；開放性房角可看到睫狀體帶。\n- 隅角閉鎖時，周邊虹膜貼住或沾黏在小樑網（周邊前沾黏，PAS），睫狀體帶被虹膜遮住而看不到；部分閉鎖時仍可能看到 Schwalbe line 或部分小樑網。\n\n因此睫狀體帶一定不會出現在隅角閉鎖性青光眼的隅角鏡檢中。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19046,7 +19046,7 @@
       "D": "房水排出後，最後會由淋巴系統回收"
     },
     "answer": "D",
-    "explanation": "眼房水生理和青光眼治療幾乎每年眼科必考，若沒時間準備眼科也務必要了解這部分\n\n(A) 房水由睫狀體 (ciliary body) 的微血管分泌，因此成分和血漿相近，但葡萄糖和大分子蛋白較血漿少，且有較高濃度的維他命 C、丙酮酸、乳酸等\n(B)(C) 正確，青光眼藥物之一的膽鹼促效劑 (cholinergic agonists，如 pilocarpine) 就是透過收縮睫狀肌，打開前房隅角促進房水從小樑網排出\n(D) 錯誤，眼房水的排出無論是小樑網路徑 (trabecular meshwork, 80%) 或是葡萄膜鞏膜路徑 (uveoscleral pathway, 20%)，最終都會進入鞏膜或結膜靜脈回到體循環，補充小知識：眼球沒有淋巴系統，眼皮才有",
+    "explanation": "答案 (D)。\n\n**房水的生成與排出**\n\n- 生成：由睫狀體非色素上皮以主動分泌為主（碳酸酐酶、Na⁺/K⁺-ATPase），每分鐘約 2–3 μL。\n- 成分：與血漿相似，但蛋白質濃度很低，維生素 C（抗壞血酸）與乳酸濃度較高。\n- 流動：睫狀體 → 後房 → 經瞳孔 → 前房 → 房角排出。\n- 排出途徑：\n\n| 途徑 | 比例 | 路徑 |\n| --- | --- | --- |\n| 傳統途徑（小樑網途徑） | 約 80–90% | 小樑網 → Schlemm 管 → 集液管 → 房水靜脈 → 鞏膜上靜脈（回到靜脈系統） |\n| 葡萄膜鞏膜途徑 | 約 10–20% | 睫狀肌間隙 → 脈絡膜上腔 → 鞏膜 |\n\n- 睫狀肌收縮會拉動鞏膜突、撐開小樑網，增加傳統途徑的排出（pilocarpine 的作用）；前列腺素類藥物則增加葡萄膜鞏膜途徑的排出。\n- 房水最後主要進入靜脈系統，而不是由淋巴系統回收，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19066,7 +19066,7 @@
       "D": "眼窩尖端症候群（orbital apex syndrome）"
     },
     "answer": "B",
-    "explanation": "(B) 重症肌無力會表現眼瞼下垂 (ptosis，提上眼瞼肌無力，常是雙側) 和複視 (diplopia，眼外肌無力)，不會有眼球突出 (exophthalmos)\n\n其他選項：\n(A) 急性眼窩外傷性血腫：可因血腫導致眼球凸出，壓迫眼外肌導致複視\n(C) 甲狀腺相關眼疾：甲狀腺亢進的典型症狀即是凸眼及複視\n補充：甲狀腺眼病變侵犯眼外肌比率 IR > MR > SR > LR → 容易發展成下斜視或內斜視，【112-2(六)18】考甲狀腺眼病變，詳解有完整介紹\n(D) 眼窩尖端症候群 (orbital apex syndrome)：可以因為腫瘤、外傷、發炎、感染等原因，導致眼尖處發炎壓迫到 CNII、III、IV、VI 的罕見症候群，由於眼尖處發炎水腫導致眼球突出、疼痛，加上神經壓迫會出現複視",
+    "explanation": "答案 (B)。\n\n**複視合併突眼的原因**\n\n眼窩內的占位性或發炎病灶，會同時把眼球往前推（突眼）並限制眼外肌活動（複視）：\n\n- 甲狀腺眼疾（成人單側或雙側突眼最常見原因）\n- 眼窩蜂窩性組織炎\n- 眼窩外傷性血腫、眼窩腫瘤\n- 頸動脈海綿竇瘻管\n- 眼窩尖端症候群（腦神經 III、IV、VI、V1 與視神經受影響，可合併突眼）\n\n重症肌無力影響神經肌肉接合處，造成波動性眼瞼下垂與複視，但不會造成眼球突出。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19086,7 +19086,7 @@
       "D": "大腸癌"
     },
     "answer": "B",
-    "explanation": "脈絡膜是癌症轉移至眼睛最容易發生的部位，根據一項 479 個病例的文獻統計，最常見轉移到脈絡膜的是乳癌 (53%)，第二常見則是肺癌 (20%)，第三常見才是腸胃相關的惡性腫瘤 (4%)，根據題目所述，要看的是「成人男性」，因此最常見的應為肺癌\n\n另外，乳癌轉移到脈絡膜，較會出現雙側及多發病灶；反之，肺癌較會出現單側及單一病灶\n\n參考資料：S Arepalli, S Kaliki & CL Shields. (2015), Choroidal metastases: origin, features, and therapy. Indian journal of ophthalmology, 63(2), 122.",
+    "explanation": "答案 (B)。\n\n**脈絡膜轉移性腫瘤**\n\n- 眼內最常見的惡性腫瘤是轉移性腫瘤，最常轉移到血流豐富的脈絡膜（尤其後極部）。\n- 原發部位：\n  - 女性：乳癌最常見，其次為肺癌。\n  - 男性：肺癌最常見，其次為前列腺癌、腸胃道癌。\n- 外觀：一個或多個奶油黃色、扁平的脈絡膜病灶，常合併滲出性視網膜剝離。\n- 治療：全身性治療、局部放射治療、抗 VEGF。\n\n**補充**：成人最常見的原發性眼內惡性腫瘤是脈絡膜黑色素瘤；兒童是視網膜母細胞瘤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19106,7 +19106,7 @@
       "D": "在一歲前進行淚管通條疏通未打開的淚管瓣膜"
     },
     "answer": "C",
-    "explanation": "先天性淚管阻塞為新生兒鼻淚管結構發育不完全，鼻淚管末端（位於下鼻甲）的 Hasner valve 薄膜尚未打開，使新生兒出現溢淚、多黏稠分泌物 / 黃眼屎的症狀，先天性淚管阻塞多在一歲前自行緩解，處置策略依年齡有所不同\n\n(1) < 6 月：指腹淚囊按摩 (Crigler massage)，自淚囊往鼻淚管方向、上而下增加壓力幫助疏通，注意清潔與適度抗生素眼藥水，避免淚囊炎\n(2) 6 月 ~ 1 歲：保守療法無效，考慮淚囊灌洗術 (irrigation)、鼻淚管探針術 (surgical probing)，若病人無結構異常，大都能解除阻塞\n(3) > 1 歲：考慮鼻淚管氣球擴張術 (balloon dacryocystoplasty)，但若為嚴重或完全阻塞，則需手術建立排放淚水的通道，稱為淚囊鼻腔造口術 (dacryocystorhinostomy, DCR)\n\n後天性淚管阻塞多發生在中老年人，原因可能是長期發炎、外傷、腫瘤、放射線或化療藥物，治療需先找到原因，解決根本原因，並以手術打通淚管，治療選項同上",
+    "explanation": "答案 (C)。\n\n**先天性鼻淚管阻塞**\n\n- 原因：鼻淚管下端的 Hasner 瓣膜未打開，約 5–20% 新生兒有此問題。\n- 表現：出生後數週開始持續流淚，內眼角有黏液或膿性分泌物，按壓淚囊有分泌物流出。\n- 自然病程：約 90% 在 1 歲前自行打開。\n- 處置：\n  1. 淚囊按摩（Crigler massage），由上往下推壓淚囊，增加壓力幫助瓣膜打開；有感染時加上抗生素眼藥。\n  2. 約 6–12 個月仍未改善，可施行鼻淚管探通術（在門診或麻醉下），成功率約 90%。\n  3. 探通失敗時再考慮插管或鼻淚管手術（淚囊鼻腔吻合術多在較大兒童施行）。\n\n嬰兒期不需要立即進行鼻淚管手術，故 (C) 錯誤。\n\n**補充**：先天性淚囊膨出合併感染（急性淚囊炎）時則需積極處理。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19126,12 +19126,12 @@
       "D": "下前庭神經位於內聽道之前下方"
     },
     "answer": "A",
-    "explanation": "見示意圖，內聽道 (internal auditory canal) 內共有兩條腦神經通過：前上方為面神經 (CN VII)，前下方為聽神經 (cochlear nerve of CN VIII)；後上方與後下方則分別通過上 / 下前庭神經 (superior/inferior vestibular nerve of CN VIII)，對照解剖後正確答案為 (A)\n\n提供筆者自創的口訣：「____ 前七上八下；____ 後八成穩拿」，空格填考試、約會都行",
+    "explanation": "答案 (A)。\n\n**內聽道的神經排列**\n\n內聽道被橫嵴（falciform crest）分為上下兩半，上半部再被垂直嵴（Bill's bar）分為前後：\n\n| 位置 | 神經 |\n| --- | --- |\n| 前上方 | 顏面神經 |\n| 前下方 | 耳蝸神經（聽神經） |\n| 後上方 | 上前庭神經 |\n| 後下方 | 下前庭神經 |\n\n可用口訣「7 up, Coke down」記憶：顏面神經（第七對）在上，耳蝸神經在下。\n\n- 內聽道內有兩條腦神經：顏面神經（含中間神經）與前庭耳蝸神經（第八對，分為耳蝸與上下前庭神經），故 (B) 錯誤。\n\n**補充**：聽神經瘤多起源於前庭神經（下前庭神經較多）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
-    "chapter": "眼科",
-    "category": "眼科"
+    "chapter": "耳鼻喉科",
+    "category": "耳鼻喉科"
   },
   {
     "id": "112-1-醫學(六)-20",
@@ -19146,12 +19146,12 @@
       "D": "將修補的耳膜放在stapes footplate上"
     },
     "answer": "A",
-    "explanation": "鼓室成型術可以依開刀位置分成耳後、耳前、與耳道，手術類型可分五種，其中 type 1、3、4 較常用（需熟記）：\n\n| 類別 | 耳膜連結點 | 術後的聽小骨鏈 | 使用人工聽小骨 |\n| :--- | :--- | :--- | :--- |\n| **type 1** | Malleus | 不變 (M-I-S) | x |\n| **type 2** | Incus | Malleus 及 Incus 一同貼在耳膜上 (M&I-S) | x |\n| **type 3** | Stapes | 只剩 Stapes | 可以使用 |\n| **type 4** | Stapes footplate（上半部已損壞） | 只剩 Stapes 底部 | 可以使用 |\n| **type 5** | oval window | 完全去除 | 可以使用 |",
+    "explanation": "答案 (A)。\n\n**鼓室成形術的分類（Wullstein）**\n\n| 類型 | 方式 |\n| --- | --- |\n| Type I | 聽小骨鏈完整，只修補鼓膜（myringoplasty） |\n| Type II | 錘骨缺損，移植的鼓膜放在砧骨上 |\n| Type III | 錘骨與砧骨缺損，移植的鼓膜放在鐙骨頭上（myringostapediopexy） |\n| Type IV | 只剩鐙骨足板，鼓膜放在足板上，形成小鼓室保護圓窗 |\n| Type V | 鐙骨足板固定，做外半規管開窗（Va）或鐙骨足板切除（Vb） |\n\n**補充**：慢性中耳炎合併鼓膜穿孔，若聽小骨完整，修補鼓膜即可改善聽力與減少反覆感染。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
-    "chapter": "眼科",
-    "category": "眼科"
+    "chapter": "耳鼻喉科",
+    "category": "耳鼻喉科"
   },
   {
     "id": "112-1-醫學(六)-21",
@@ -19166,7 +19166,7 @@
       "D": "卡他莫拉菌（Moraxella catarrhalis）"
     },
     "answer": "B",
-    "explanation": "送分題！細菌性鼻竇炎最常見的三隻菌務必背起來，最常見的是肺炎鏈球菌，第二常見的是 Haemophilus influenzae，第三常見則是 Moraxella catarrhalis，這三隻也是急性中耳炎最常見的菌（記憶：那些細菌跑到鼻咽順著耳咽管跑就會變成中耳炎）！綠膿桿菌也可能導致急性鼻竇炎，只是相對少見\n\n其他考點：\n• 若只論「急性鼻竇炎」則是病毒較常見（由 common cold 的病毒所致，以 rhinovirus 為大宗）\n• 慢性鼻竇炎代表時間超過 3 個月，上皮變化可能不可逆",
+    "explanation": "答案 (B)。\n\n**急性細菌性鼻竇炎的致病菌**\n\n- 成人與兒童最常見：\n  - 肺炎鏈球菌\n  - 流感嗜血桿菌（非 b 型）\n  - 卡他莫拉菌（兒童較常見）\n- 其他：金黃色葡萄球菌、A 群鏈球菌、厭氧菌（牙源性）。\n\n綠膿桿菌不是社區型急性細菌性鼻竇炎的常見致病菌，較常見於院內感染（如長期插管、鼻胃管）、囊腫纖維化或免疫不全病人。\n\n**補充**：病毒性上呼吸道感染症狀超過 10 天、嚴重症狀（高燒 > 39°C、膿性鼻涕）3–4 天，或症狀改善後再惡化（double sickening）時，考慮細菌性鼻竇炎，首選 amoxicillin（± clavulanate）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19186,7 +19186,7 @@
       "D": "骨性發炎（bone inflammation）"
     },
     "answer": "A",
-    "explanation": "慢性鼻竇炎可分為三類：\n1. 慢性鼻竇炎無合併鼻息肉（CRSsNP，佔 65%）\n2. 慢性鼻竇炎合併鼻息肉（CRSwNP，佔 25%）\n3. 過敏黴菌性鼻竇炎（allergic fungi rhinosinusitis, AFRS，佔 10%）\n\n鼻竇炎的核心機轉都是「發炎」，但「無」合併與「有」合併息肉兩者在病因仍有些不同，前者主因是竇口鼻道複合體 (osteomeatal complex) 阻塞，後者偏重與嗜酸性球浸潤的鼻黏膜水腫有關，竇口鼻道複合體阻塞的原因，包含鼻腔解剖結構有異、鼻內纖毛功能缺陷、全身性因素（如先天或後天免疫缺陷、囊狀纖維化）、生物膜 (biofilm)、骨性發炎 (osteitis)，一些疾病也被發現會增加患病風險（過敏性鼻炎、胃食道逆流、氣喘、慢性阻塞性肺病等）\n\n(A) 耳咽管功能異常很常是鼻竇炎的結果，而非原因",
+    "explanation": "答案 (A)。\n\n**慢性鼻竇炎（無鼻息肉）的致病因素**\n\n- 宿主因素：\n  - 解剖結構異常（鼻中隔彎曲、竇口鼻道複合體狹窄、泡狀中鼻甲、Haller 細胞）\n  - 黏液纖毛清除功能障礙（原發性纖毛運動障礙、囊腫纖維化、抽菸）\n  - 過敏、免疫缺陷\n  - 骨炎（osteitis，篩骨等骨頭的慢性發炎可使發炎持續）\n- 環境因素：微生物（細菌生物膜）、空氣污染、抽菸、牙源性感染。\n- 無鼻息肉型多以 Th1 型發炎（嗜中性球）為主；合併鼻息肉者多為 Th2 型發炎（嗜酸性球）。\n\n耳咽管功能異常是中耳疾病（中耳積液、慢性中耳炎）的致病因素，不是慢性鼻竇炎的原因。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19206,7 +19206,7 @@
       "D": "誤食鈕扣電池（button battery）必須緊急進行食道鏡手術移除，因短時間內，食道黏膜就會受損，可能導致食道穿孔"
     },
     "answer": "B",
-    "explanation": "(A) 正確，食道管腔內的 linear opacity 在 X 光下通常比周邊組織亮且邊界清楚，是食道異物（如魚骨）的重要特徵\n(B) 雖然考得偏細，但根據統計食道異物最常卡的位置為食道上段的環咽肌（cricopharyngeal muscle，近 thoracic inlet 處），占約 70%；其次主動脈弓和橫膈狹窄處則發生率差不多\n(C) 正確，二次探查的目的在於排除食道異物殘留，並檢查食道結構是否異常或有腫瘤；此外也有建議在內視鏡檢查後加做食道 X 光確認\n(D) 早期的鈕扣電池就是俗稱的水銀電池，腐蝕性之強可想而知，無論是何種類型的電池都有一定的腐蝕性，一旦誤食都必須緊急食道鏡移除；至於其他食道異物多數可以自行排出，只有 20% 病人需要手術",
+    "explanation": "答案 (B)。\n\n**食道異物**\n\n- 食道生理性狹窄處：\n  1. 環咽肌（上食道括約肌，最常卡住的位置，約 70%）\n  2. 主動脈弓與左主支氣管壓迫處（中段）\n  3. 下食道括約肌\n- 異物最常卡在食道入口（環咽肌處），而不是中段食道，故 (B) 錯誤；成人若卡在下段，要懷疑食道本身有狹窄或腫瘤。\n- 側頸 X 光：魚刺或骨頭呈線狀不透光影，可見椎前軟組織增厚、食道內積氣。\n- 取出後建議再次檢查（second look），確認無殘留、黏膜損傷或其他病灶。\n- 鈕扣電池：卡在食道時 2 小時內即可造成黏膜燒傷，甚至穿孔、氣管食道瘻管、主動脈食道瘻管，必須緊急取出；取出前可給予蜂蜜（12 個月以上兒童）減少傷害。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19226,7 +19226,7 @@
       "D": "最常見的惡性腫瘤病理為濾泡性腺癌（follicular adenocarcinoma）"
     },
     "answer": "D",
-    "explanation": "(D) 最常見的惡性腫瘤病理為 papillary carcinoma\n\n| 比較項目 | 成人甲狀腺癌 | 兒童甲狀腺癌 |\n| :--- | :--- | :--- |\n| **性別** | 女 > 男 | 女 > 男 |\n| **類型** | 兩者比例相似<br>papillary carcinoma (85–90%) > follicular carcinoma > medullary carcinoma | 兩者比例相似<br>papillary carcinoma (85–90%) > follicular carcinoma > medullary carcinoma |\n| **thyroid nodules** | 發生率高<br>惡性比率約 5-15% | 發生率低<br>惡性比率約 70% |\n| **遺傳性** | 多為體染色體突變 | 遺傳性高<br>(10% follicular carcinoma are familial) |\n| **放射線敏感度** | 兒童 > 成人 | 兒童 > 成人 |\n| **復發率** | 兒童 > 成人 | 兒童 > 成人 |\n\n各類型甲狀腺癌的比較，請看【112-2(三)57】詳解",
+    "explanation": "答案 (D)。\n\n**兒童甲狀腺癌**\n\n- 罕見，但兒童甲狀腺結節的惡性比例（約 20–25%）比成人（約 5–10%）高。\n- 青春期女性較多。\n- 危險因子：頭頸部放射線暴露（如車諾比核災）、家族史、遺傳症候群（MEN 2、家族性腺瘤性息肉症、PTEN、DICER1）。\n- 組織型：乳突癌最常見（約 90%），而不是濾泡癌，故 (D) 錯誤。\n- 特點：診斷時常已有頸部淋巴結轉移與肺轉移，但對放射碘治療反應好，長期存活率很高（> 95%）。\n- 治療：全甲狀腺切除，依風險合併淋巴結廓清與放射碘治療。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19246,7 +19246,7 @@
       "D": "出現遠端轉移後，部分病人疾病進程緩慢，仍可存活數年"
     },
     "answer": "A",
-    "explanation": "(A) 錯誤，三者型態的預後：cribriform 和 tubular 差不多，但型態若有 solid component 則預後差\n(B) 正確，因為其親神經性，容易在疾病初期發現神經學異常的症狀，在一項有 198 個 adenoid cystic carcinoma 病人的研究統計，發現有 69% 有 perineural spread\n(C) 正確，雖然「治療失敗」這個名詞有點怪，但筆者認為題目想表達的是 disease-free survival，而遠端轉移確實常發生在這類疾病裡面\n(D) 正確，Adenoid cystic carcinoma 即使遠端轉移仍有約 10% 的病人可以活超過 10 年\n\n| 惡性唾液腺腺樣囊狀癌 (Adenoid Cystic Carcinoma) | |\n| :--- | :--- |\n| **特性** | 進展緩慢<br>親神經性、易沿著神經侵犯（臉癱、舌頭單側無力等） |\n| **頻率** | 第二常見的唾液腺惡性腫瘤（第一常見是 mucoepidermoid carcinoma） |\n| **位置** | 是下頜腺、小唾液腺最常見的惡性腫瘤<br>（腮腺最常見的惡性腫瘤是 mucoepidermoid carcinoma）<br>除唾液腺外，也能原發於乳房、淚腺、氣管等有外分泌腺體處 |\n| **組織** | 由 ductal, myoepithelial 兩種細胞組成，可排列成 cribriform, tubular, solid 三種組織型態 |\n| **復發** | 雙峰分佈，最常見復發時間為 5 年內，另一分佈則在 20 年後 |\n| **轉移** | 較常以血行轉移，最容易到肺 (70%)、骨頭、肝 |\n| **預後較差** | 年紀大、一開始就有遠端轉移（骨轉移又比肺、肝轉移預後差）、原發位置在下頜或鼻竇區域、solid pattern |\n\n可參閱【112-1(五)17】了解其他常見唾液腺良惡性腫瘤\n參考資料：M Amit, et al. (2014). Analysis of failure in patients with adenoid cystic carcinoma of the head and neck. An international collaborative study. Head & neck, 36(7): 998-1004",
+    "explanation": "答案 (A)。\n\n**腺樣囊狀癌**\n\n- 小唾液腺最常見的惡性腫瘤，也是頜下腺常見的惡性腫瘤。\n- 組織型與預後：\n\n| 型態 | 預後 |\n| --- | --- |\n| 管狀（tubular） | 最好 |\n| 篩狀（cribriform，最常見，呈「瑞士起司」樣） | 中等 |\n| 實心（solid） | 最差 |\n\n  篩狀型並不是預後最差的類型，故 (A) 錯誤。\n- 特點：\n  - 強烈親神經性，容易沿神經侵犯（造成疼痛、顏面神經麻痺），並可跳躍式擴散，切緣不易乾淨。\n  - 淋巴轉移少，遠處轉移（以肺最常見）是治療失敗的主要原因。\n  - 病程緩慢，即使有遠處轉移，部分病人仍可存活多年；需長期追蹤（10–20 年）。\n- 治療：手術廣泛切除合併術後放療。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19266,7 +19266,7 @@
       "D": "是惡性腫瘤"
     },
     "answer": "C",
-    "explanation": "Warthin's tumor（又稱 papillary cystadenoma lymphomatosum）是唾液腺第二常見的良性腫瘤，約佔腮腺腫瘤的 2%-10%，且常見於腮腺尾端 (tail)，病因未明但與吸菸高度相關，流行病學上好發於 50-70 歲、男性多於女性，【112-1(五)17】也有考唾液腺腫瘤，請參考其詳解",
+    "explanation": "答案 (C)。\n\n**Warthin 腫瘤（乳突狀囊腺淋巴瘤）**\n\n- 唾液腺第二常見的良性腫瘤，幾乎只發生在腮腺，好發於腮腺尾部（下極），故 (C) 正確。\n- 好發於 50–70 歲中老年男性（近年女性比例上升），與抽菸密切相關，故 (A)(B) 錯誤。\n- 約 10–15% 為雙側或多發性（唾液腺腫瘤中最常見雙側者）。\n- 病理：囊腫內襯雙層嗜酸性上皮（oncocytes），間質為淋巴組織。\n- 為良性腫瘤，惡性轉化極罕見，故 (D) 錯誤。\n- 核醫唾液腺掃描（Tc-99m pertechnetate）可呈熱結節。\n- 治療：手術切除（淺葉腮腺切除或局部切除）；年長或手術風險高者也可追蹤觀察。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -19286,7 +19286,7 @@
       "D": "頸部腫塊"
     },
     "answer": "D",
-    "explanation": "實在不懂出症狀常見度要幹嘛，四個選項都可以發生在鼻咽癌病人，而且不同研究做出來的症狀常見度也可能有差，要解釋大概只能說鼻咽癌早期多為無症狀且容易轉移，因此病人出現症狀時大多已經有頸部淋巴結轉移了\n\n筆者能找到最相符的研究為香港的回溯性研究 (n=4768)，裡面的統計結果供參就好：\n\n| 鼻咽癌症狀 | 最早出現症狀 (%) | 症狀發生率 (%) |\n| :--- | :--- | :--- |\n| **頸部腫塊** | 37.3 | 75.8 |\n| **單側鼻血 / 鼻水 / 鼻塞** | 35.4 | 73.4 |\n| **聽力損失及耳鳴** | 19.1 | 62.4 |\n| **頭痛** | 3.7 | 34.8 |\n| **複視及瞇眼** | 1.0 | 10.7 |\n| **面神經麻痺** | 0.5 | 7.6 |\n| **體重減輕** | <0.1 | 6.9 |\n| **牙關緊閉、口齒不清** | 0.1 | 5.4 |\n| **其他症狀** | 0.3 | 1.2 |\n\n參考資料：WMA Lee, et al. (1997). Nasopharyngeal carcinoma: presenting symptoms and duration before diagnosis. Hong Kong medical journal",
+    "explanation": "答案 (D)。\n\n**鼻咽癌的症狀**\n\n- 頸部腫塊：最常見的初始症狀（約 60–75%），多為上頸部（第 II 區）或後頸（第 V 區）無痛性淋巴結腫大，常為雙側。\n- 鼻部症狀：鼻涕帶血（尤其早晨回吸的痰中帶血）、鼻塞。\n- 耳部症狀：單側中耳積液造成的耳悶、聽力下降、耳鳴（腫瘤阻塞耳咽管開口）；成人單側中耳積液要排除鼻咽癌。\n- 腦神經症狀：侵犯顱底時，最常影響第 V、VI 對腦神經（臉部麻木、複視），而不是顏面神經。\n- 頭痛（顱底侵犯）。\n\n**補充**：台灣為鼻咽癌好發地區，與 EB 病毒、遺傳、醃製食物相關；EBV 抗體（VCA-IgA）與血漿 EBV DNA 可用於篩檢與追蹤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25226,7 +25226,7 @@
       "D": "Mallampati classification II"
     },
     "answer": "A",
-    "explanation": "本題看似簡單其實藏有小陷阱，面罩通氣困難與困難插管是兩個不同命題。通氣困難主要與面罩密合度相關，困難插管則有很多的因素 (LEMON)，包含口腔結構 (Mallampati classification)、呼吸道結構 (3-3-2 rule)、頸部活動度、肥胖等，當然很多因素相互會有影響，但 (B) (C) (D) 甚至不是困難插管的預測因子，因此 (A) 選項明顯正確！",
+    "explanation": "答案 (A)。\n\n**面罩通氣困難的預測因子**\n\n常用記憶法「BOOTS」或「BONES」：\n\n| 字母 | 因子 |\n| --- | --- |\n| B | Beard（大鬍子，面罩不易密合） |\n| O | Obesity（肥胖，BMI > 26–30） |\n| O / N | Older age（> 55 歲）；No teeth（缺牙，臉頰凹陷） |\n| T / S | Toothless；Snoring / Sleep apnea（打鼾、睡眠呼吸中止） |\n| S | Stiff lungs 或頸部放射治療史 |\n\n- 其他：Mallampati III–IV、下顎前突能力受限、頸部放療後。\n\n大鬍子是選項中最可能造成面罩通氣困難的因子；青少年、BMI 偏低、Mallampati II 都不是危險因子。\n\n**補充**：面罩通氣困難時可使用口咽或鼻咽呼吸道、雙人雙手扣面罩，或改用聲門上呼吸道裝置。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25246,7 +25246,7 @@
       "D": "肺動脈導管（pulmonary artery catheter）"
     },
     "answer": "D",
-    "explanation": "靜脈氧飽和度 (SvO2) 指的是「在身體組織利用完後的氧飽和度」，即 O2 delivery - O2 consumption，故要最精確測量氧飽和度的位置，會是血氧交換前的「肺動脈」\n\n其他考點：\n- 影響 O2 delivery（氧氣含量）的因素為 CO（心輸出量）、Hgb（血紅素）、SaO2（動脈血氧飽和度）\n- 正常 SvO2 約在 70%-75%（寬鬆則 60%-80%），代表全身組織才消耗總氧量的 25%-30%。另一與 SvO2 很像的血液動力學參數為 ScvO2 (central venous oxygen saturation)，以下比較：\n\n| | SvO2 | ScvO2 |\n| --- | --- | --- |\n| 測量位置／導管 | 近端肺動脈<br>(Swan-Ganz，較侵入性) | 上腔靜脈<br>(中心靜脈導管 (CVC)) |\n| 數值（血氧飽和度） | 較高 | 較低 \\* |\n\n\\* 儘管 ScvO2 取樣位置在 SvO2 之前，但上腔靜脈回收自腦部的血流，其耗氧量大，因此一般 ScvO2 數值較 SvO2 低約 5-10%。另外有兩種情況下 ScvO2 反而高過 SvO2：(1) 腦部受抑制，耗氧量下降時，如麻醉狀態、腦傷 (2) 內臟組織用氧量大，如休克，使回收進下腔靜脈氧飽和度低",
+    "explanation": "答案 (D)。\n\n**混合靜脈血氧飽和度（SvO₂）**\n\n- 混合靜脈血是全身各器官回流的靜脈血在右心室充分混合後的血液，應從肺動脈導管的遠端抽取。\n- 正常值約 65–75%，反映全身氧氣供應與消耗的平衡：\n\n| SvO₂ | 可能原因 |\n| --- | --- |\n| 下降 | 心輸出量下降、貧血、低血氧、耗氧量增加（發燒、寒顫、躁動） |\n| 上升 | 敗血症（組織無法利用氧氣、分流）、低體溫、氰化物中毒、左向右分流 |\n\n- 中央靜脈血氧飽和度（ScvO₂）由上腔靜脈（中央靜脈導管）抽取，只反映上半身的回流血，正常約比 SvO₂ 高 2–3%（休克時兩者關係可能改變），可作為替代指標但不夠精確。\n- 動脈血（橈動脈導管）用於測 SaO₂ 與動脈血氣。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25266,7 +25266,7 @@
       "D": "潮氣末二氧化碳（end-tidal CO ）與動脈血CO 分壓有固定的差距，其可以完全反應動脈血CO 分壓的變化2 2 2"
     },
     "answer": "D",
-    "explanation": "這題錯誤的選項為 (D)。術中呼吸功能監測必要的兩項指標就是氧合 (oxygenation) 和換氣 (ventilation)，氧合透過脈搏血氧儀 (pulse oximeter) 監測血氧飽和度 (SpO2，正常為 96~99%)；換氣則透過二氧化碳記錄圖 (capnography) 監測潮氣末二氧化碳 (EtCO2，麻醉病人正常為 30~40 mmHg)；另外二氧化碳記錄圖的波形正常下為 plateau，不成形的波形代表有食道插管等氣管內管位置異常\n\nEtCO2 和動脈 CO2 分壓 (PaCO2) 的差距正常下為 PaCO2 - EtCO2 = 2~5 mmHg，但此差距並非固定值，因此不能完全反應 PaCO2 的變化。常見使 PaCO2 - EtCO2 增加的原因有：灌流不足 (deadspace ↑，如低血壓、肺栓塞、心衰竭等)、肺泡未完全排空、EtCO2 採樣不佳等",
+    "explanation": "答案 (D)。\n\n**術中呼吸功能監測**\n\n- 美國麻醉醫學會基本監測標準：氧合（吸入氧氣濃度分析、脈搏血氧儀）、換氣（呼氣末二氧化碳、胸廓起伏與呼吸音）、循環、體溫。\n- 呼氣末二氧化碳監測（capnography）：\n  - 確認氣管內管位置（最可靠的方法之一）\n  - 監測換氣量、呼吸道阻塞、心跳停止時的 CPR 品質、惡性高熱、肺栓塞\n- 正常時呼氣末二氧化碳比動脈血二氧化碳分壓低約 2–5 mmHg；但兩者差距會隨著死腔增加而變大，例如：\n  - 肺栓塞、低心輸出量、低血壓\n  - 慢性阻塞性肺病\n  - 側臥、單肺通氣\n  - 高齡\n  因此呼氣末二氧化碳無法完全反映動脈血二氧化碳分壓的變化，故 (D) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25286,7 +25286,7 @@
       "D": "意外注射bupivacaine於血管中，可導致嚴重心臟毒性"
     },
     "answer": "A",
-    "explanation": "局部麻醉劑有分 amide 類（如 bupivacaine）以及 ester 類（如 cocaine），其中 ester 類的代謝才是透過血漿中的 pseudocholinesterase，amide 類的代謝是透過肝臟的 cytochrome P450，因此 (A) 是錯的。另外，amide 類局部麻醉劑作用時間較久，ester 較短\n\n非離子化麻醉劑由於脂溶性的特性會比離子化麻醉劑作用上更快速，因此當麻醉劑當中非離子化濃度占比越高，onset 會越快；(D) 選項的情形又稱作 Local anesthetic systemic toxicity (LAST)，可能發生在如選項敘述把局部麻醉劑打進血管，或即便沒打到血管但是使用過多局部麻醉劑也可能發生。症狀上最常見是以癲癇來表現，而 cardiac arrest 也是常有的情形（而且即便施行復甦術仍可能繼續發生）。治療上除了基本的復甦處置外，可以靜脈注射 lipid 來處理\n\n小技巧：如何知道一個局部麻醉劑是 amide 還是 ester 類？\namide 類的名字會有兩個 i；而 ester 只會有一個 i",
+    "explanation": "答案 (A)。\n\n**局部麻醉劑**\n\n| 類別 | 代表藥物 | 代謝 |\n| --- | --- | --- |\n| 酯類（ester） | Procaine、chloroprocaine、tetracaine、cocaine | 血漿中偽膽鹼酯酶水解；代謝物 PABA 較易過敏 |\n| 醯胺類（amide） | Lidocaine、bupivacaine、ropivacaine、mepivacaine、prilocaine | 肝臟 CYP450 代謝 |\n\n（記憶法：醯胺類的英文名稱有兩個「i」。）\n\n醯胺類主要經肝臟代謝，而不是偽膽鹼酯酶，故 (A) 錯誤。\n\n- 全身吸收：與注射部位血流有關（肋間 > 尾椎 > 硬脊膜外 > 臂神經叢 > 坐骨神經 > 皮下）；加入 epinephrine 可減少吸收。\n- 起效：非離子型（脂溶性）才能穿過神經細胞膜；pKa 越接近生理 pH，起效越快；發炎組織較酸，局部麻醉效果較差。\n- 局部麻醉劑全身毒性：先中樞神經症狀（口周麻、耳鳴、抽搐），再心血管毒性；bupivacaine 心臟毒性最強，誤注入血管可造成難以復甦的心律不整與心跳停止，治療使用 20% 脂肪乳劑。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25306,7 +25306,7 @@
       "D": "大劑量的opioids可以抑制手術引起的catecholamine上升"
     },
     "answer": "C",
-    "explanation": "(A) 鴉片類藥物多數是肝代謝、腎排出，因此此選項敘述有些許錯誤，應是嗎啡累積，若是腎衰竭則是其活性代謝物累積\n(B) 正確，快速施打大劑量鴉片類藥物（特別是短效的 fentanyl, sufentanil, remifentanil, alfentanil）會造成胸腹肌肉僵直（muscle tone 上升），又被稱為 wooden chest syndrome\n(C) 錯誤，鴉片類藥物長期使用會使中樞的神經結構發生改變，對於痛的敏感度會上升，又稱為 opioid-induced hyperalgesia\n(D) 可用推理得知：術中的 catecholamine 產生主要源自創傷或疼痛引發的腎上腺反應，因此大劑量的鴉片類藥物有預防疼痛、避免神經及內分泌反應的效果\n\n補充考點：\n1. 鴉片類藥物作用在 μ、δ、κ 三種受體上，其中副作用造成的呼吸抑制和 μ 受體有關，縮瞳則和 κ 受體有關\n2. 無法因為耐受而緩解的鴉片類副作用：便秘、縮瞳\n3. 拮抗劑：Naloxone",
+    "explanation": "答案 (C)。\n\n**鴉片類藥物的副作用**\n\n- 呼吸抑制、鎮靜、噁心嘔吐、便秘（不會產生耐受性）、尿滯留、搔癢、瞳孔縮小。\n- 快速大劑量注射（尤其 fentanyl 類）可造成胸壁僵硬，影響通氣，需給予肌肉鬆弛劑。\n- 高劑量鴉片類可抑制手術刺激引起的壓力反應（兒茶酚胺、皮質醇上升）。\n- 嗎啡經肝臟代謝為 morphine-6-glucuronide（活性，具鎮痛與呼吸抑制作用）與 morphine-3-glucuronide，由腎臟排出；腎衰竭時代謝物蓄積，造成長時間鎮靜與呼吸抑制。肝衰竭時嗎啡本身代謝變慢，也會蓄積。\n- 長期使用可能產生耐受性與鴉片類引起的痛覺過敏（opioid-induced hyperalgesia），而不是痛覺減退，故 (C) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25326,7 +25326,7 @@
       "D": "術中宜監測胎心音（monitor fetal heart rate）"
     },
     "answer": "A",
-    "explanation": "(A) Permissive hypercapnia 是治療急性呼吸窘迫症候群 (ARDS) 的呼吸器設定策略。但此策略在孕婦上研究不多，母體高二氧化碳的狀態易導致胎兒呼吸性酸中毒，臨床上很少採用\n\n其他選項與【112-1(五)53】一樣考孕婦腹腔鏡的注意事項：\n(B) 孕婦腹腔鏡手術的氣腹壓力應與正常人相仿 (10-15 mmHg)\n(C) 為了增加手術視野，調整病人姿勢於腹腔鏡手術中很常見（特別是頭低腳高），孕婦則要避免擺位去影響血液循環，致使胎盤血流減少\n(D) 有疑義，因氣腹之故，術中通常無法進行非侵入性胎心音監測，若無必要不建議術中例行連續性胎心音監測，一般在術前與術後監測即可",
+    "explanation": "答案 (A)。\n\n**懷孕期間的非產科手術麻醉**\n\n- 目標：維持母體氧合、血壓與子宮胎盤灌流，避免胎兒缺氧與酸中毒，避免誘發早產。\n- 原則：\n  - 第二孕期是最安全的手術時機（器官生成期已過，早產風險較低）。\n  - 懷孕 20 週後採左側傾斜姿勢，避免子宮壓迫下腔靜脈。\n  - 腹腔鏡手術氣腹壓力維持 10–15 mmHg，避免過度的頭低或頭高姿勢。\n  - 依胎兒週數監測胎心音（可存活週數後連續監測）。\n  - 維持正常的二氧化碳分壓（孕婦正常 PaCO₂ 約 30–32 mmHg）。\n- 高碳酸血症會造成胎兒呼吸性酸中毒、子宮血管收縮與心肌抑制，因此不宜採用容許性高碳酸血症，故 (A) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25346,7 +25346,7 @@
       "D": "完成硬脊膜外導管（epidural catheter）置放後，可先給予test dose，以確認導管沒有移位至脊髓腔內"
     },
     "answer": "B",
-    "explanation": "產婦硬脊膜外止痛就是俗稱的無痛分娩，重點整理於下表：\n\n| 產婦硬脊膜外止痛 (labor epidural analgesia) | |\n| --- | --- |\n| 目的 | 降低產婦分娩期間的疼痛與不適感，有助於縮短產程 |\n| 方式 | 1. 從 L2-L4 高度進針，穿過黃韌帶後朝頭端置入硬脊膜外導管，導管延伸至 T10-L1 高度後於硬脊膜外給藥（約為脊髓尾端高度）<br>2. 完成置放後先給予 test dose，確認導管位置是否正確。若移位入脊髓腔內，則給藥後的運動抑制會比硬膜外更明顯<br>3. 留置軟管，於分娩中持續給藥或漸進式調整劑量 |\n| 藥物 | 局部麻醉劑 (e.g. lidocaine, bupivacaine) + 鴉片類神經止痛藥 (e.g. morphine, fentanyl)；test dose 則含有 epinephrine 幫助止血 |\n| 使用時機 | 第一產程：一旦產婦開始有規律宮縮痛或有止痛需求時就可以考慮無痛分娩。Cochrane 於 2014 年的系統性回顧發現，第一產程早期（子宮頸口 <4~5 cm）即施行無痛分娩，與晚期（子宮頸口 ≥4~5 cm）相比無產程延長或剖腹產風險的顯著差異，且止痛效果比晚期更好<br><br>第二產程：無痛分娩可持續到第二產程初期。然而若持續使用於第二產程，則可能因麻醉過度而延長產程時間 |\n| 副作用 | 頭痛、噁心嘔吐、低血壓、呼吸抑制等，但發生率與嚴重度皆比脊髓麻醉 (spinal anesthesia) 輕微 |\n\n參考資料：BL Sng, et al. (2014). Early versus late initiation of epidural analgesia for labour. Cochrane Database of Systematic Reviews, (10)",
+    "explanation": "答案 (B)。\n\n**分娩硬脊膜外止痛**\n\n- 第一產程疼痛來自子宮收縮與子宮頸擴張，經 T10–L1 傳入；第二產程加上產道與會陰的牽張，經 S2–S4（陰部神經）傳入。\n- 時機：不需要等子宮頸開到特定公分數；研究顯示早期施打不會增加剖腹產率，只要產婦要求且已進入產程即可施打（ACOG 建議），故 (B) 錯誤。\n- 第二產程：硬脊膜外止痛可能使第二產程延長，並增加器械生產的機會，但不增加剖腹產。\n- 放置導管後先給予含 epinephrine 的局部麻醉劑試驗劑量，排除導管誤入血管（心跳加快）或蜘蛛膜下腔（快速出現脊椎麻醉）。\n- 副作用：低血壓、搔癢、發燒、硬脊膜穿刺後頭痛。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25366,7 +25366,7 @@
       "D": "oral oxycodone"
     },
     "answer": "C",
-    "explanation": "(A) (B) (D) 都是癌症疼痛常用的 pure agonist opioids。morphine、hydromorphone、oxycodone、fentanyl 都是屬於半衰期較短的鴉片類藥物，相較半衰期長的 methadone、levorphanol 更好隨時調整劑量；fentanyl 的脂溶性高，可以透過皮膚貼片來讓藥物吸收\n\n止痛藥的給藥途徑通常以最簡單、不具侵入性的方法優先。不論口服或皮膚貼片都比 (C) 靜脈注射來得更適合。另外 NCCN guidelines 特別提出兩種不建議使用的藥物：\n1. Meperidine：長期使用會使代謝物累積（尤其腎功能差或脫水者），造成神經毒性或心律不整\n2. Mixed agonist-antagonist opioid：有天花板效應，另外如果之前使用 pure agonist opioids 可能會有嚴重的戒斷症狀\n\n綜上所述，IV meperidine 並不適合長期疼痛使用\n參考資料：RA Swarm, et al. (2019). Adult cancer pain, version 3.2019, NCCN clinical practice guidelines in oncology. Journal of the National Comprehensive Cancer Network, 17(8), 977-1007",
+    "explanation": "答案 (C)。\n\n**癌症疼痛的長期用藥**\n\n- WHO 原則：口服優先、按時給藥、依止痛階梯、個別化、注意細節。\n- 長期使用的鴉片類藥物：口服嗎啡（速效與長效）、oxycodone、hydromorphone、tapentadol、經皮 fentanyl 貼片、methadone。\n- Meperidine（pethidine）不適合長期使用：\n  - 代謝物 normeperidine 半衰期長，蓄積後具中樞神經毒性（顫抖、肌陣攣、癲癇），腎功能不全時更嚴重。\n  - 作用時間短，需頻繁給藥。\n  - 與 MAO 抑制劑併用可能造成血清素症候群。\n  - 靜脈注射也不符合長期居家使用的原則。\n\n**補充**：腎功能不全時宜避免嗎啡與 meperidine，可選擇 fentanyl、methadone 或 hydromorphone。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25386,7 +25386,7 @@
       "D": "胸部X光通常呈現單側肺浸潤，尤其是左側，因心臟擴大而受到壓迫"
     },
     "answer": "A",
-    "explanation": "ARDS 簡易的解釋是：一週內發生，無法用心臟問題、肺積液或塌陷解釋的急性雙側肺浸潤。以此就可以快速刪去 (C) (D)，至於 (B) 重度 ARDS 定義是 P/F ratio 小於 100，因此只剩 (A) 選項能選，以下附上 Berlin definition 給大家參考\n\n| Berlin definition of ARDS | 定義解釋 |\n| --- | --- |\n| 發生時間 | 一週內發生的臨床事件或新的／惡化的呼吸症狀 |\n| 胸部影像 | 雙側肺陰影：無法以積液、肺塌陷或肺結節完全解釋的 |\n| 肺水腫成因 | - 呼吸衰竭：無法完全以心衰竭或積液過多解釋<br>- 可用心臟超音波進一步評估呼吸功能 |\n| 氧合能力<br>(PEEP ≥ 5cmH2O 下) | - Mild：200 < P/F ≤ 300 mmHg<br>- Moderate：100 < P/F ≤ 200 mmHg<br>- Severe：P/F ≤ 100 mmHg |",
+    "explanation": "答案 (A)。\n\n**ARDS 的柏林定義（2012）**\n\n| 項目 | 條件 |\n| --- | --- |\n| 時間 | 在已知的臨床誘因或新發／惡化的呼吸症狀後 1 週內發生 |\n| 胸部影像 | 兩側浸潤，無法完全以積液、肺塌陷或結節解釋 |\n| 水腫來源 | 無法完全以心衰竭或體液過多解釋；沒有危險因子時需客觀評估（如心臟超音波）排除靜水壓性水腫 |\n| 氧合（PEEP 或 CPAP ≥ 5 cmH₂O） | 輕度：200 < PaO₂/FiO₂ ≤ 300；中度：100 < PaO₂/FiO₂ ≤ 200；重度：PaO₂/FiO₂ ≤ 100 |\n\n- (B) PaO₂/FiO₂ ≤ 300 是輕度 ARDS 的上限，重度為 ≤ 100。\n- (C) ARDS 是非心因性肺水腫，不是左心衰竭造成的。\n- (D) 胸部影像是兩側浸潤。\n\n**補充**：治療以低潮氣量（6 mL/kg 理想體重）、高原壓 < 30 cmH₂O、適當 PEEP 為主，中重度可俯臥通氣。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25406,12 +25406,12 @@
       "D": "葡萄腫（staphyloma）"
     },
     "answer": "B",
-    "explanation": "(B) 格子狀退化／變性 (lattice degeneration) 易發生在高度近視的人身上，由於眼軸拉長，導致周邊視網膜脆弱、變薄萎縮而出現小圓洞，故稱格子狀退化。病變區域為「周邊」視網膜，超出普通 OCT 的評估範圍。診斷方式多靠眼底鏡，可搭配眼底照相 (fundus cameras)\n格子狀退化通常無症狀，但容易進一步造成視網膜裂孔和視網膜剝離，高度近視且有格子狀退化的人發生視網膜剝離的機會高達 30%\n\n(D) 這裡應特指與高度近視相關的後葡萄腫 (posterior staphyloma)，為眼軸拉長使眼球後極 (posterior pole) 向後擴張的表現\n\n(A) (C) (D) 發生區域都在黃斑部與視神經盤附近，可用 OCT 評估診斷，(C) 若有光學共軛掃描血管攝影 (OCTA) 更佳",
+    "explanation": "答案 (B)。\n\n**光學同調斷層掃描（OCT）**\n\n- 利用低同調干涉光，非侵入性取得視網膜與視神經的高解析度橫切面影像，主要評估後極部（黃斑部與視神經盤）。\n- 高度近視常見的黃斑部併發症都可以用 OCT 評估：\n  - 黃斑裂孔、近視牽引性黃斑病變（黃斑劈裂）\n  - 脈絡膜新生血管\n  - 後極部葡萄腫（後鞏膜向外突出）\n  - 脈絡膜變薄、漆裂紋\n- 格子狀退化位於周邊視網膜，是視網膜剝離的危險因子，一般 OCT 掃描範圍到不了，應以散瞳後間接眼底鏡（合併鞏膜壓陷）檢查，故選 (B)。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
-    "chapter": "麻醉科",
-    "category": "麻醉科"
+    "chapter": "眼科",
+    "category": "眼科"
   },
   {
     "id": "112-2-醫學(六)-11",
@@ -25426,7 +25426,7 @@
       "D": "治療選項包括類固醇、免疫調節劑及生物製劑"
     },
     "answer": "A",
-    "explanation": "本題為眼科題，實際上考的是免疫風濕科。有關貝西氏症 (Behçet disease) 的詳細介紹可參考【112-1(四)15】，而本題 (A) 錯誤之處在目前貝西氏症的診斷是看症狀／體徵，不包括 HLA-B51 陽性。關於常見免疫疾病的葡萄膜炎表現，可見【112-1(六)10】詳解的整理表格",
+    "explanation": "答案 (A)。\n\n**貝西氏症葡萄膜炎**\n\n- 診斷主要依據臨床表現（國際標準）：反覆口腔潰瘍，加上生殖器潰瘍、眼睛病變（葡萄膜炎、視網膜血管炎）、皮膚病變、針刺反應等；HLA-B51 與疾病相關，但不是診斷必要條件，且陽性也不能確診，故 (A) 錯誤。\n- 眼睛表現：\n  - 反覆發作的非肉芽腫性全葡萄膜炎，可有前房積膿（常會移動）\n  - 閉塞性視網膜血管炎（動脈與靜脈都可受侵犯），可造成視網膜出血、缺血、新生血管\n  - 眼底螢光血管攝影可評估血管滲漏與缺血範圍\n- 全身表現：口腔潰瘍、生殖器潰瘍、皮膚病灶（結節性紅斑、毛囊炎樣）、血管病變（靜脈血栓、動脈瘤）、神經、腸胃道侵犯。\n- 治療：類固醇（急性期）、免疫調節劑（azathioprine、cyclosporine）、生物製劑（TNF-α 抑制劑如 infliximab、adalimumab，干擾素 α）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25446,7 +25446,7 @@
       "D": "同半胱胺酸（homocysteine）"
     },
     "answer": "A",
-    "explanation": "不是看到一圈不同顏色的角膜環就是 Kayser-Fleischer ring 喔！從圖片上可以看到角膜外環有一圈淺灰、淺藍的沉積，這個表現被稱為 corneal arcus，是脂質沉澱的結果。大部分 corneal arcus 是老年人才會發生，但若發生在年輕人身上通常代表有脂質代謝疾病使得血脂過高；另外圖上還可以看到中間角膜基質也有一層霧霧的 central opacity，也是脂質沉澱的結果，且可能跟 Schnyder corneal dystrophy 有關，因此答案是 (A)\n\n(B) 血中鈣離子過高可能導致鈣沉澱在角膜上，形成 limbus sign，會有一層白或黃色霧狀沉澱覆蓋在角膜上，並不會產生如圖的環狀病變\n\n(C) 血中銅離子過高在眼睛的表現是在角膜外面形成一圈深咖啡色（銅色）環，稱為 Kayser–Fleischer ring (K-F ring)，通常和 Wilson disease 有關。另外，K-F ring 幾乎不會影響視力，因此從外觀與病史來看，比較不像血中銅離子過高的問題\n\n(D) 血中 homocysteine 過高較不會有 specific 的表現，可能和視網膜病變、白內障、視神經萎縮等問題有關",
+    "explanation": "答案 (A)。\n\n**角膜結晶與脂質沉積**\n\n- 本題年輕男性有視力模糊與眩光，角膜基質中央有晶狀沉積物，合併角膜環（arcus），最符合 Schnyder 角膜失養症（Schnyder corneal dystrophy）：\n  - 體染色體顯性遺傳（UBIAD1 基因）\n  - 角膜中央基質出現膽固醇與磷脂質的結晶沉積，周邊合併早發性角膜環\n  - 部分病人合併高膽固醇血症，應檢查血脂\n- 40 歲以下出現角膜環（arcus juvenilis），也要懷疑家族性高膽固醇血症。\n\n| 其他角膜沉積 | 相關物質 |\n| --- | --- |\n| 帶狀角膜病變 | 鈣（高血鈣、慢性葡萄膜炎） |\n| Kayser-Fleischer 環 | 銅（Wilson 氏症） |\n| 胱胺酸症 | 胱胺酸結晶 |\n\n同半胱胺酸上升與水晶體向下脫位（homocystinuria）有關。",
     "explanation_image": null,
     "explanation_images": null,
     "images": [
@@ -25469,7 +25469,7 @@
       "D": "不可逆之角膜水腫造成病人視力衰退時，可考慮以角膜移植治療"
     },
     "answer": "ALL",
-    "explanation": "角膜組織分成五層，分別是 Epithelium（可分裂再生）、Bowman layer（無細胞）、Stroma（有神經支配）、Descemet's membrane（基底膜）、Endothelium（主動排水）\n\n(A) 眼科教科書上敘述內皮細胞無法再生，但過去組織學的觀點則認為其仍有有限的再生能力，只是在人體目前為觀察到有成功再生的案例，故此選項有爭議送分\n\n延續 (A) 的敘述，內皮細胞有作為屏障及排水的功能，但受損後很難復原，因此若因發炎、外傷或手術造成內皮細胞過度損傷，角膜會不可逆的水腫，此時無法單純修復內皮細胞，需考慮角膜移植",
+    "explanation": "答案：一律給分（原答案 A）。\n\n**角膜內皮細胞**\n\n- 單層六角形細胞，位於角膜最內層。\n- 功能：\n  - 屏障功能：限制房水進入角膜基質。\n  - 幫浦功能：Na⁺/K⁺-ATPase 把水分打出基質，使角膜維持相對脫水（含水量約 78%）而保持透明。\n- 人類角膜內皮細胞幾乎沒有分裂再生能力；受損後由鄰近細胞擴大、移行來填補（細胞密度下降、多形性增加）。原答案認為「具有適度的再生能力」錯誤。\n- 細胞密度隨年齡下降；低於約 500 cells/mm² 時無法維持角膜脫水，出現不可逆的角膜水腫（大泡性角膜病變），常見原因為白內障手術傷害、Fuchs 角膜內皮失養症、外傷、青光眼。\n- 治療：角膜移植（現多採角膜內皮移植 DSAEK、DMEK）。\n\n本題各選項敘述的精確度有爭議（例如含水量數值的寫法），官方最後公告一律給分。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25489,7 +25489,7 @@
       "D": "葛瑞夫茲病（Graves' disease）"
     },
     "answer": "D",
-    "explanation": "白內障的病因眾多，可以是老化（最常見）、眼外傷／手術／放療、慢性發炎（如前葡萄膜炎）、高度近視、遺傳性疾病、全身性疾病、藥物等。全身性疾病與藥物較常考：\n\n| 全身性疾病 | 藥物 |\n| --- | --- |\n| 糖尿病 (type 1, 2 都會) | Corticosteroids |\n| 異位性皮膚炎 | Chlorpromazine |\n| 強直性肌肉失養症 | Amiodarone |\n| 神經纖維瘤第二型 | Busulfan |\n| 威爾森氏症、唐氏症 | (Statins 有爭議) |\n| 慢性腎臟病、低血鈣 | |\n\n(D) Graves' disease 造成的眼睛病變於【112-2(六)18】說明",
+    "explanation": "答案 (D)。\n\n**與白內障相關的全身性疾病**\n\n| 疾病 | 白內障特點 |\n| --- | --- |\n| 糖尿病 | 較早發生，年輕病人可出現「雪花狀」白內障；血糖劇烈變化也會造成屈光改變 |\n| 強直性肌肉失養症 | 多彩聖誕樹狀（Christmas tree）白內障 |\n| 異位性皮膚炎 | 前囊下或後囊下白內障（盾狀白內障），可合併圓錐角膜、視網膜剝離 |\n| 長期使用類固醇 | 後囊下白內障 |\n| 其他 | 低血鈣（副甲狀腺功能低下）、Wilson 氏症（向日葵白內障）、半乳糖血症、唐氏症、先天性德國麻疹 |\n\n葛瑞夫茲病主要造成甲狀腺眼病變（突眼、眼瞼退縮、眼外肌肥厚、複視、壓迫性視神經病變），與白內障較無關聯。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25509,7 +25509,7 @@
       "D": "幼年特發性關節炎合併之葡萄膜炎（juvenile idiopathic arthritis associated uveitis）"
     },
     "answer": "B",
-    "explanation": "看到題目關鍵字：三歲以下、視網膜出血、無外傷，要反射想到兒虐造成的嬰兒搖晃症候群（shaken baby syndrome，現正名為 abusive head trauma）。嬰兒搖晃症候群好發於一至兩歲以下的嬰幼兒，且很少超過三歲；機轉為頭部在搖晃下因劇烈速度改變產生的鈍挫傷；最重要的表現為雙眼多層的視網膜出血 (bilateral multilayered retinal hemorrhage)，其他表現有硬腦膜下／蜘蛛網膜下出血、肋骨骨折、長骨骨骺骨折等，嚴重則可併發腦水腫甚至致死\n\n此外，造成嬰幼兒視網膜出血的其他常見原因如：頭部外傷、生產創傷 (birth trauma)、腦壓升高、凝血異常或白血病、缺氧、感染、心肺復甦術等。本題除了嬰兒搖晃症的其他三項雖然也可能造成視網膜出血，但幾乎都不會發生在三歲以下，因此最適合的答案為 (B)",
+    "explanation": "答案 (B)。\n\n**嬰兒搖晃症候群（受虐性頭部外傷）**\n\n- 好發於 2 歲以下（尤其 6 個月以下）的嬰兒。\n- 典型表現：\n  - 硬腦膜下出血\n  - 雙眼多層次、廣泛的視網膜出血（延伸到周邊視網膜），可合併視網膜劈裂\n  - 腦病變（嗜睡、癲癇、嘔吐、呼吸暫停）\n  - 可能沒有明顯的頭部外傷痕跡；可合併肋骨後側骨折、長骨幹骺端骨折\n- 機轉：劇烈的前後搖晃造成加速與減速的剪力，扯斷橋靜脈與視網膜血管。\n- 3 歲以下兒童出現雙眼視網膜出血而沒有合理的外傷病史時，應懷疑虐待，需完整評估（頭部影像、全身骨骼 X 光、凝血功能）並通報。\n\n**補充**：新生兒在自然產後也可能有視網膜出血，但多在 2–4 週內消失。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25529,7 +25529,7 @@
       "D": "兩眼遠視四百度"
     },
     "answer": "A",
-    "explanation": "弱視 (amblyopia) 是指視力發育在嬰兒或幼童時期有異常，通常發生在單眼，大腦會逐漸忽略該異常眼的訊號而變成弱視，因此要遮住正常眼來矯正。導致弱視的原因大致如下：\n1. 斜視 (strabismus)：屬於最常見的病因，歪斜的方向可以向內、外、或垂直，但如果斜視是小角度、間歇性 (intermittent) 或交替性斜視 (alternating，兩隻眼睛輪流錯位)，則發展成弱視的機率就比較低。因此 (A) 選項最不易造成弱視\n2. 屈光不正：次常見，包含近視、遠視、散光、老花。其中雙眼遠視是屈光不正當中最常見發展成弱視的原因。而兩隻眼睛如果有視差，也會導致弱視\n3. 阻塞性弱視：最少見，因為某些因素擋在了光跟視網膜中間，如白內障、眼皮下垂或一些角膜病變\n\n參考資料：NR Doshi & MLF Rodriguez. (2007). Amblyopia. American family physician, 75(3): 361-367",
+    "explanation": "答案 (A)。\n\n**弱視的危險因子**\n\n弱視是視覺發育關鍵期中，某一眼或雙眼長期接收不到清楚的影像，造成矯正後視力仍不佳：\n\n| 類型 | 原因 |\n| --- | --- |\n| 斜視性 | 恆定性單眼斜視（固定使用某一眼注視，另一眼被抑制） |\n| 不等視性 | 兩眼屈光度差距大（如遠視差 ≥ 1–1.5 D、近視差 ≥ 3 D），兩眼視差 500 度屬於此類 |\n| 屈光性 | 雙眼高度遠視（≥ 4–5 D）、高度散光或高度近視 |\n| 剝奪性（最嚴重） | 先天性白內障、眼瞼下垂、角膜混濁，阻擋視覺刺激 |\n\n間歇性交替性外斜視：兩眼輪流注視，且大部分時間眼位正常，雙眼都能得到正常視覺刺激，造成弱視的機會最小。\n\n**補充**：弱視越早治療效果越好（最好在 7 歲前），方法包括屈光矯正、遮蓋健眼、atropine 點健眼。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25549,7 +25549,7 @@
       "D": "①②③"
     },
     "answer": "D",
-    "explanation": "類固醇有抑制發炎的效果，因此以猜題來說最不可能的副作用為 ④，可以很快選出 (D)！實際上，依據美國的大型研究 (ONTT, Optic Neuritis Treatment Trial)，靜脈輸注高劑量類固醇可加速視神經炎患者的視力恢復進程（但對最終視力恢復的程度，有無使用類固醇沒有差別）\n\n使用類固醇除了會增加感染風險（例如 fungal keratitis）、使傷口難以癒合，類固醇同時會使房水 (aqueous humor) 的排出下降導致 ②眼壓升高、結合到水晶體促使上面的蛋白發生變性成為 ①白內障，或在使用中產生單眼視力模糊，就須考慮到 ③中心性漿液性脈絡膜視網膜病變（有部分的視網膜色素上皮細胞層剝離），然而其原因仍未知",
+    "explanation": "答案 (D)。\n\n**類固醇的眼部副作用**\n\n| 副作用 | 說明 |\n| --- | --- |\n| 後囊下白內障 | 與劑量和使用時間相關 |\n| 眼壓升高、類固醇性青光眼 | 局部點眼較常見，約 1/3 人是「類固醇反應者」 |\n| 中心性漿液性脈絡膜視網膜病變 | 口服、吸入、局部或注射都可能誘發 |\n| 其他 | 傷口癒合變慢、感染風險增加（疱疹性角膜炎、黴菌）、眼瞼下垂、瞳孔放大 |\n\n類固醇是視神經炎的治療藥物（高劑量靜脈類固醇可加速恢復），不會造成視神經炎，因此 ④ 錯誤，正確為 ①②③。\n\n**補充**：長期使用類固醇眼藥的病人應定期測量眼壓。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25569,7 +25569,7 @@
       "D": "手術矯正斜視，須等待甲狀腺指數正常及斜視角度穩定至少半年"
     },
     "answer": "C",
-    "explanation": "甲狀腺眼症 (Graves' ophthalmopathy 或 thyroid eye disease) 最常導因於 Graves' disease 的甲狀腺亢進 (90%)，但也可發生在甲狀腺功能正常或低下的人身上，疾病嚴重度與甲狀腺功能無必然對應關係。病生理機轉始於自體抗體〔大部分是抗甲狀腺受器抗體 (anti-TSH receptor antibody)〕活化了眼窩組織的纖維母細胞 (orbital fibroblasts)，在一系列細胞激素的作用下使其分泌醣胺聚醣 (glycosaminoglycan)，醣胺聚醣吸收大量水分，使眼外肌與眼窩脂肪組織脹大，造成眼凸、眼眶水腫、眼臉攣縮、眼球轉動時痠痛，若肌肉纖維化、壓迫視神經，則可分別造成複視、視力減退。最常侵犯的眼外肌為下直肌 (IR)、其次為內直肌 (MR)，但值得留意，眼外肌的 belly 肥厚但肌腱卻不受影響\n\n治療方式依症狀嚴重度而定，保守療法為維持正常甲狀腺濃度、戒菸，並針對複視、角膜暴露等給予對應處置。藥物包括類固醇、免疫抑制劑—Teprotumumab (anti IGF-1R)，也可嘗試眼眶放射線治療。約 5% 病人需要手術替眼窩減壓 (orbital decompression)，方式包含脂肪抽取或敲掉眼窩部分骨頭，以減緩眼凸。嚴重複視者可做斜視手術，但這必須在眼窩減壓後、眼外肌排列已穩定、甲狀腺功能控制良好六個月後施作。有眼瞼閉合不全者可做眼瞼矯正手術",
+    "explanation": "答案 (C)。\n\n**甲狀腺眼病變的複視**\n\n- 機轉：眼外肌與眼窩脂肪發炎、黏多醣堆積、纖維化，造成眼外肌增厚與限制性斜視。\n- 最常侵犯的肌肉（依序）：下直肌 > 內直肌 > 上直肌 > 外直肌（口訣 I'M SLow）；下直肌纖維化造成向上看受限與上視複視。\n- CT 特徵：眼外肌「肌腹」肥厚，而「肌腱」附著處保留正常（呈紡錘狀），故 (C) 錯誤；眼窩肌炎則肌腹與肌腱都會腫大。\n- 斜視手術時機：甲狀腺功能控制正常，且眼位與斜視角度穩定至少 6 個月（非活動期）以後。\n- 處理順序：先做眼窩減壓（若需要），再做斜視手術，最後做眼瞼手術。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25589,12 +25589,12 @@
       "D": "患側耳聽性腦幹反應（auditory brainstem response）第五波潛時（latency）會延長"
     },
     "answer": "C",
-    "explanation": "雖然文字敘述不同，但其實語音辨識度也是聽力的功能之一，而聽神經瘤產生的聽力變差也會使語音辨識度變差，因此選項 (C) 最不適當\n\n| 聽神經瘤 (acoustic neuroma，已正名為前庭神經鞘瘤 (vestibular schwannoma)) | |\n| --- | --- |\n| 流行病學 | 約占原發性腦瘤的 9~10%；占小腦橋腦角 (CPA) 腫瘤的 75% |\n| 基因異常 | NF2／神經纖維瘤增生第二型，~100% 會出現雙側聽神經瘤 |\n| 症狀 | 患側漸進式的感音性聽力損失（包含語音辨識度下降、純音聽損等）；另外還有耳鳴、眩暈／平衡感失調、耳痛／耳脹、頭痛、顏面麻痺等 |\n| 診斷工具 | 1. 聽力測試 (audiometry)<br>2. 耳聽性腦幹反應：可見第五波潛時延長 (prolonged latency in wave V)，但結果容易受體溫、性別等因素影響，適合用來篩檢而非診斷<br>3. 磁振造影：診斷的黃金標準 |\n| 治療 | 手術切除、立體定位放射手術（加馬刀） |\n\n其他考點：\n• 耳聽性腦幹反應 (auditory brainstem response, ABR) 是一種檢查聽覺傳導路徑的電生理檢查，呈現的五個波峰分別代表：cochlear nerve and nuclei (waves I and II)、superior olivary nucleus (wave III)、lateral lemniscus (wave IV)、inferior colliculi (wave V)",
+    "explanation": "答案 (C)。\n\n**聽神經瘤（前庭神經鞘瘤）**\n\n- 起源於前庭神經的許旺細胞，生長於內聽道與小腦橋腦角。\n- 症狀：\n  - 單側漸進性感音性聽力損失（最常見）\n  - 單側耳鳴\n  - 平衡不穩（急性眩暈較少，因生長慢可被中樞代償）\n  - 腫瘤大時：臉部麻木（第五對腦神經）、小腦症狀、水腦\n- 聽力檢查：\n  - 純音聽力：患側感音性聽損\n  - 語音辨識度：患側明顯下降，且比純音聽閾不成比例地差（後耳蝸病變的特徵），故 (C) 錯誤\n  - 聽性腦幹反應：第 V 波潛時延長、I–V 波間期延長\n- 確診：顯影劑 MRI（內聽道腫瘤）。\n- 不對稱感音性聽損或單側耳鳴都應排除聽神經瘤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
-    "chapter": "眼科",
-    "category": "眼科"
+    "chapter": "耳鼻喉科",
+    "category": "耳鼻喉科"
   },
   {
     "id": "112-2-醫學(六)-20",
@@ -25609,12 +25609,12 @@
       "D": "前庭性偏頭痛（vestibular migraine）"
     },
     "answer": "C",
-    "explanation": "眩暈 (vertigo) 的鑑別診斷是耳鼻喉科一大重點，可以根據特性與伴隨症狀去判斷。本題 (C) 梅尼爾氏症的典型症狀 triad 即是「眩暈、感音神經性聽損、耳鳴」。另外無論中樞／周邊型眩暈，一般都會伴噁心、嘔吐，筆者就不在表格中重複提及了\n\n| 疾病名稱 | | 特性與伴隨症狀 |\n| --- | --- | --- |\n| 周邊型 | 良性陣發性姿勢性眩暈 (BPPV) | 就是耳石脫落，可透過 Dix-Hallpike maneuver 診斷<br>眩暈常在一分鐘內緩解，姿勢改變時加劇 |\n| 周邊型 | 前庭神經炎 (vestibular neuritis) | 通常是病毒感染導致 (e.g. herpes virus)<br>眩暈持續數小時甚至一天，幾天後就會自己緩解 |\n| 周邊型 | 內耳迷路炎 (labyrinthitis) | 內耳的前庭與耳蝸受細菌或病毒感染造成<br>可想成「前庭神經炎 + 聽力症狀」，眩暈外，會耳鳴、耳脹、聽力損失，耳朵流出分泌物 |\n| 周邊型 | 梅尼爾氏症 (Meniere's disease) | 可能和內耳液的電解質不平衡有關<br>陣發性眩暈每次持續數分鐘至幾小時，聽力損失隨病程明顯，伴隨耳鳴、耳脹 |\n| 中樞型 | 前庭性偏頭痛 (vestibular migraine) | 會有偏頭痛 aura（怕光、怕吵），無聽力損失 |\n| 中樞型 | 腦血管疾病 (CVD) | 通常是 gradual onset、持續的微暈並伴隨有神經學症狀 |",
+    "explanation": "答案 (C)。\n\n**常見眩暈疾病的比較**\n\n| 疾病 | 眩暈時間 | 聽力損失 | 特點 |\n| --- | --- | --- | --- |\n| 良性陣發性姿勢性眩暈 | 數秒至 1 分鐘 | 無 | 頭部姿勢改變誘發，Dix-Hallpike 測試陽性 |\n| 前庭神經炎 | 數天 | 無 | 前驅上呼吸道感染，持續性眩暈，頭部衝擊測試陽性 |\n| 梅尼爾氏症 | 20 分鐘至 12 小時 | 有（波動性低頻感音性聽損） | 反覆眩暈、耳鳴、耳悶，晚期聽力永久下降 |\n| 前庭性偏頭痛 | 數分鐘至 72 小時 | 通常無 | 偏頭痛病史，眩暈伴隨頭痛或畏光 |\n| 突發性聽損合併眩暈 | 單次發作 | 有 | 突發性感音性聽損 |\n\n選項中最常合併聽力損失的是梅尼爾氏症。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
-    "chapter": "眼科",
-    "category": "眼科"
+    "chapter": "耳鼻喉科",
+    "category": "耳鼻喉科"
   },
   {
     "id": "112-2-醫學(六)-21",
@@ -25629,7 +25629,7 @@
       "D": "蝶竇（sphenoid sinus）是最晚開始發育且最晚完成的鼻竇"
     },
     "answer": "ALL",
-    "explanation": "(A) 錯誤，氣化意即由骨頭中產生此空腔，額竇是最晚開始發育的\n(B) 錯誤，雖然篩竇在出生時已發育良好，但篩竇小室 (ethmoid cells) 數量仍會繼續增加，在 6 個月大時才在 X 光上可見\n(C) 錯誤，上頜竇在出生時就發育完成\n(D) 錯誤，額竇才是最晚開始發育且最晚完成的鼻竇\n\n以下整理常見考點（鼻竇發育及開口位置）：\n\n| | 發育開始 | 發育結束 | x 光可見 | 引流出口 |\n| --- | --- | --- | --- | --- |\n| 蝶竇 | 2 歲 | 6 歲 | -- | 上鼻道 |\n| 篩竇 | 胚胎第 14 週 | 出生 | 6 個月大 | middle turbinate<br>(前後篩竇分界) |\n| 上頜竇 | 胚胎第 10 週 | 出生 | 6 個月大 | 中鼻道 |\n| 額竇 | 3 歲 | 18 歲 | 7 歲左右 | |",
+    "explanation": "答案：一律給分（原答案 D）。\n\n**鼻竇的發育**\n\n| 鼻竇 | 出生時 | 發育 |\n| --- | --- | --- |\n| 上頜竇 | 已存在（最早出現，胚胎期即開始） | 3 歲與 7–12 歲（恆齒萌發）有兩次快速生長期 |\n| 篩竇 | 已存在 | 小室數目與大小持續增加，到 12 歲左右接近成人 |\n| 蝶竇 | 出生時很小 | 約 3–5 歲開始氣化，青春期後發育完成 |\n| 額竇 | 出生時不存在 | 約 5–7 歲才在 X 光上可見，青春期後至成年早期才完成，是最晚發育完成的鼻竇 |\n\n- (A) 最早開始氣化的是上頜竇，不是額竇。\n- (B) 篩竇小室出生後仍會增加。\n- (C) 上頜竇的快速成長期在幼兒期與恆齒萌發期。\n- (D) 原答案，但額竇才是最晚出現、最晚完成的鼻竇，蝶竇雖然氣化較晚，教材描述不一。\n\n因選項敘述皆有爭議，官方最後公告一律給分。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25649,12 +25649,12 @@
       "D": "上眼瞼出現皺褶（Dennie-Morgan folds）"
     },
     "answer": "B",
-    "explanation": "過敏性鼻炎的理學檢查發現：\n(A) 眼下黑眼圈及浮腫 (allergic shiners)，跟鼻塞使得血液與組織液在眼眶下溝累積有關\n(B) 鼻尖上橫紋 (transverse nasal crease) 是過敏的孩童，頻繁上推、揉鼻子而導致的，這個上推鼻子的動作很像是敬禮，故又被稱作 allergic salute。(可見 NEJM 的照片：10.1056/NEJMicm2111716)\n(D) Dennie-Morgan folds 是「下眼瞼」皺褶，暗示合併有過敏性結膜炎 (allergic conjunctivitis)，與過敏性鼻炎高度相關\n\n上述 'allergic shiners'、'transverse nasal crease'、'Dennie-Morgan folds' 是三個最常被提及的發現，另外在過敏性鼻炎的孩童中，眼睛 (C) 眼睫毛顯著較長、結膜水腫／翻紅、紅眼有血絲，並頻繁流淚、眼睛癢；鼻子有鼻黏膜水腫、鼻涕增加，常造成倒流 (postnasal drip) 而有清喉嚨的動作。鼻竇檢查可能有壓痛。耳朵基本上正常，有時可用氣動耳鏡檢查出耳咽管功能障礙 (Eustachian tube dysfunction)",
+    "explanation": "答案 (B)。\n\n**過敏性鼻炎的理學檢查**\n\n| 徵象 | 說明 |\n| --- | --- |\n| 過敏性黑眼圈（allergic shiners） | 下眼瞼顏色變暗（靜脈鬱血），不是反白 |\n| 過敏性敬禮（allergic salute） | 兒童用手掌往上推鼻尖止癢 |\n| 鼻尖上橫紋（transverse nasal crease） | 長期推鼻子造成的鼻樑下段橫紋 |\n| Dennie-Morgan 線 | 下眼瞼的皺褶，而不是上眼瞼 |\n| 長睫毛 | 過敏病人的睫毛常較長，而不是較短 |\n| 鼻黏膜 | 蒼白或淡紫色、水腫，清澈水樣分泌物；下鼻甲腫大 |\n| 其他 | 張口呼吸、腺樣體臉（長期鼻塞）、結膜充血 |\n\n因此選項中正確的是鼻尖上橫紋。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
-    "chapter": "眼科",
-    "category": "眼科"
+    "chapter": "耳鼻喉科",
+    "category": "耳鼻喉科"
   },
   {
     "id": "112-2-醫學(六)-23",
@@ -25669,7 +25669,7 @@
       "D": "以目前的光學技術及醫療影像而言，兩者均可呈現高解析度影像畫質"
     },
     "answer": "A,C",
-    "explanation": "這題原答案為 (C)，但最後 (A)、(C) 都給分\n(A) 直接、間接喉鏡檢查的差別在於能否「直視」探查部位：\n\n| | 直接喉鏡檢查<br>(direct laryngoscopy) | 間接喉鏡檢查<br>(indirect laryngoscopy) |\n| --- | --- | --- |\n| 原理 | 透過長直管使眼睛直視目標 | 運用玻璃纖維可彎曲光束的特性，使眼睛不須直視目標即可看到影像 |\n| 喉內視鏡 | 皆為硬式，急救插管常用的彎刀形喉鏡就屬於這一類 | 分成硬式、軟式兩類。<br>硬式：Optical stylet、Bullard、Glidescope 等<br>軟式：Flexible laryngoscope、電子喉鏡等 |\n\n雖然間接喉鏡檢查以軟式纖維喉鏡為主流，但仍有硬式喉鏡的間接檢查，因此 (A) 也錯誤\n\n(B) 正確。軟式喉內視鏡較硬式細長且可彎曲，產生的不適感較低；加上是經鼻孔進入，不用像硬式需要病人平躺擺位成 sniffing position 且不容易誘發咽反射，因此很適合在門診檢查；硬式喉內視鏡則多在手術房使用全麻檢查\n\n(C) 錯誤。軟式喉內視鏡和胃鏡、大腸鏡一樣也有工作管腔，能夠放入器械進行治療手術，如腫瘤切片、息肉切除、聲帶治療等\n\n(D) 正確。若為早期的軟式喉內視鏡，確實會因纖維容易斷裂而使影像解析度較差，然而隨著纖維材料進步加上電子喉鏡的出現，軟式和硬式喉內視鏡均能呈現高畫質的影像",
+    "explanation": "答案 (A)、(C)（原答案 A，官方更正為 A、C 或 AC 均給分）。\n\n**軟式與硬式喉內視鏡**\n\n| 項目 | 軟式喉內視鏡 | 硬式喉內視鏡（含直接喉鏡） |\n| --- | --- | --- |\n| 檢查方式 | 經鼻放入，門診局部麻醉或不需麻醉 | 硬式 70 度或 90 度喉鏡可在門診經口檢查；直接喉鏡多需全身麻醉在開刀房進行 |\n| 屬於 | 間接（以影像觀察）；經鼻的軟式內視鏡有時也被歸為「直接」觀察 | 經口硬式內視鏡為間接觀察；手術用懸吊式直接喉鏡為直接喉鏡 |\n| 治療 | 也可經工作管道做切片、注射（如聲帶注射）、雷射 | 可在顯微鏡下做喉顯微手術 |\n| 影像 | 晶片內視鏡已有高解析度 | 高解析度 |\n\n- (A) 錯誤：分類並非單純以軟或硬區分，門診用的硬式內視鏡也屬於間接檢查。\n- (C) 錯誤：軟式喉內視鏡也可進行切片、注射等治療性處置。\n\n因此官方更正 (A)、(C) 均給分。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25689,12 +25689,12 @@
       "D": "可放置較大管徑的人工呼吸管路"
     },
     "answer": "A",
-    "explanation": "很微妙的一題。其實光從增加呼吸道 dead space 不會是優點而是缺點就可以選出答案 (A) 了。理論上氣管切開術 (tracheotomy) 會減少 dead space，因為氣體少了口腔到氣管這一段空間，會比 endotracheal tube 更早能脫離呼吸器，減少加護病房住院天數。許多文獻也有提到氣切能降低住院中的死亡率，但實際上其實減少的空間也不多，大約 10-18 ml 而已",
+    "explanation": "答案 (A)。\n\n**氣管切開術的優點**\n\n與長期經口氣管內插管相比，氣管切開的好處：\n\n- 減少呼吸道死腔（管子較短），降低呼吸功\n- 減少對聲帶、聲門下與喉部的傷害（喉部狹窄、肉芽組織）\n- 較舒適，可減少鎮靜劑使用，病人可經口進食與說話（使用說話瓣）\n- 口腔衛生較好，可能減少呼吸器相關肺炎\n- 較容易清除分泌物與更換管路\n- 有助於脫離呼吸器，縮短加護病房與住院時間\n- 可放置較大管徑的管路，降低呼吸道阻力\n\n氣管切開會減少而不是增加死腔，故 (A) 不是優點。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
-    "chapter": "耳鼻喉科",
-    "category": "耳鼻喉科"
+    "chapter": "麻醉科",
+    "category": "麻醉科"
   },
   {
     "id": "112-2-醫學(六)-25",
@@ -25709,7 +25709,7 @@
       "D": "lateral cricoarytenoid muscle"
     },
     "answer": "B",
-    "explanation": "本題在考聲帶控制肌肉的神經支配，建議搭配個別肌肉的功能記憶，除了 (B) cricothyroid muscle 外皆是由 recurrent laryngeal n. 支配，詳見下表：\n\n| 肌肉 | 神經支配 | 功能 | |\n| --- | --- | --- | --- |\n| Posterior cricoarytenoid muscle | recurrent laryngeal n. | 開啟聲門 | 無 |\n| Lateral cricoarytenoid muscle | recurrent laryngeal n. | 關閉聲門 | 無 |\n| Transverse arytenoid muscle | recurrent laryngeal n. | 關閉聲門 | 無 |\n| Vocalis muscle / Thyroarytenoid muscle | recurrent laryngeal n. | 關閉聲門 | 放鬆聲帶<br>（聲音變低） |\n| Cricothyroid muscle | external branch of superior laryngeal n. | 關閉聲門 | 拉緊聲帶<br>（聲音變高） |",
+    "explanation": "答案 (B)。\n\n**喉部神經支配**\n\n| 神經 | 支配 |\n| --- | --- |\n| 上喉神經外支 | 環甲肌（唯一的外喉肌由此支配），負責拉長、拉緊聲帶，調控高音 |\n| 上喉神經內支 | 聲門上方的感覺 |\n| 返喉神經 | 環甲肌以外的所有喉內肌（甲杓肌、後環杓肌、側環杓肌、杓間肌），以及聲門下方的感覺 |\n\n- 甲狀腺手術結紮上甲狀腺動脈時，容易傷到伴行的上喉神經外支，造成環甲肌麻痺：聲音容易疲勞、無法發高音、音域變窄（常見於歌手）。\n- 返喉神經損傷：單側造成聲音沙啞，雙側可造成呼吸道阻塞。\n- 後環杓肌是唯一可使聲帶外展（打開聲門）的肌肉。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25729,7 +25729,7 @@
       "D": "原發腫瘤周圍出現淋巴血管侵犯（lymphovascular invasion）"
     },
     "answer": "A",
-    "explanation": "此題考得很細，原發腫瘤的術後輔助治療大致分成術後輔助化學放射治療 (CCRT) 和術後單獨放射治療兩類。NCCN guidelines 的建議如下：\n\n| 必須術後輔助化學放射治療 | - 淋巴結外膜侵犯 (extranodal extension, ENE)<br>- 切緣腫瘤陽性 (positive margin) |\n| 單獨術後放射治療即可 | - 原病理分期為 T3、T4<br>- 有 N2 以上淋巴轉移<br>- 腫瘤有神經或淋巴血管侵犯 |\n\n補充口腔癌分期與採取的 primary treatment（參考 AJCC 第 8 版和 NCCN 2023 指引）：\n\n| Stage | TMN | 簡單描述 | primary treatment |\n| --- | --- | --- | --- |\n| I | T1 | 0-2 cm | 手術（或 definite RT） |\n| II | T2 | 2-4 cm | 手術（或 definite RT） |\n| III | T3N0M0 / [T1, T2, T3] N1M0 | > 4 cm or < 4 cm 但有淋巴結轉移 | 手術 + 術後輔助治療 |\n| IVA | T4a [N0, N1] M0 / [T1, T2, T3, T4a] N2M0 | 有 T4a（侵犯 adjacent structures, e.g. bone） | 手術 + 術後輔助治療 |\n| IVB | [Any T] N3M0 / T4b [Any N] M0 | 有 T4b（侵犯 skull base、內頸動脈） | 手術或 CCRT |\n| IVC | [Any T][Any N] M1 | 有 M（遠端轉移） | 化療、標靶治療 |",
+    "explanation": "答案 (A)。\n\n**口腔癌術後輔助治療**\n\n| 風險 | 因子 | 建議 |\n| --- | --- | --- |\n| 高風險（主要） | 手術切緣陽性、淋巴結囊外侵犯 | 術後同步化學放射治療（cisplatin） |\n| 中風險（次要） | pT3–T4、pN2–N3、神經侵犯、淋巴血管侵犯、第 IV、V 區淋巴結轉移、切緣過近 | 術後放射治療（多個風險因子時可考慮合併化療） |\n\n手術切緣陽性屬於高風險因子，建議術後同步化學放射治療；晚期 T 分期、神經或淋巴血管侵犯只建議術後放射治療。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
@@ -25749,7 +25749,7 @@
       "D": "Warthin氏腫瘤的另一個名稱是papillary cystadenoma lymphomatosum"
     },
     "answer": "D",
-    "explanation": "本題只有 (D) 的名稱配對正確。延伸主題建議參閱【112-1(五)17】的解析\n\n唾液腺腫瘤無論是良性或惡性，首選治療一律都是手術切除 (surgical excision)。然而題目很刁鑽的寫成「腫瘤摘除 (enucleation)」，和 excision 是兩種不同的術式：\n\n| 摘除／剜除 (enucleation) | 只取腫瘤本體 |\n| 切除 (excision) | 取腫瘤本體和周邊組織，斬草除根的概念 |\n\n多形性腺瘤、Warthin 氏腫瘤等良性腫瘤都有機會轉成惡性，且未清除乾淨下的復發率很高，因此手術切除 (excision) 的療效較好，其中以耳下腺囊外廓清術 (extracapsular dissection) 最常使用",
+    "explanation": "答案 (D)。\n\n**唾液腺良性腫瘤**\n\n- 多形性腺瘤：\n  - 最常見的唾液腺腫瘤，多位於腮腺淺葉。\n  - 有不完整的假包膜，腫瘤會伸出偽足；若只做摘除（enucleation），容易殘留而復發，故 (A) 錯誤。標準治療為帶有正常組織邊緣的切除（如淺葉腮腺切除術，保留顏面神經）。\n  - 長期未治療有惡性轉化（多形性腺瘤癌化）的風險，時間越長風險越高（約 10–15 年後可達 10%），年輕人更應手術，故 (B) 錯誤。\n- Warthin 腫瘤：\n  - 又名乳突狀囊腺淋巴瘤，故 (D) 正確。\n  - 常見於有抽菸習慣的中老年男性，位於腮腺尾部，可雙側。\n  - 治療為手術切除（淺葉腮腺切除或局部切除），不建議單純摘除；年長或手術風險高者可觀察，故 (C) 錯誤。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第四篇 其他科",
