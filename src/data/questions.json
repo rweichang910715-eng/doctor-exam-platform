@@ -100,7 +100,7 @@
       "D": "注射pralidoxime（2-PAM）"
     },
     "answer": "C",
-    "explanation": "答案 (C)。\n\n- (A)(C) 大部分研究指出活性碳對有機磷沒有解毒效果；但相較之下，physostigmine 會抑制乙醯膽鹼酯酶，使乙醯膽鹼更高，副交感作用增強 → 中毒症狀加劇，所以最不適當的是 (C)。\n- (B)(D) 正確：atropine 是常用的有機磷解毒劑（若是交感過度活躍的中毒，解毒劑才是 physostigmine）。2-PAM 也是常用解毒劑，但它是帶正電的四級銨，無法通過血腦障壁，不能有效改善中樞症狀，這點與 atropine 不同。\n\n**補充說明（書上）**\n\n- ACLS 有症狀的心搏過緩用 atropine：1 mg，每 3–5 分鐘可給一次，最多 3 mg。\n\n| 藥物 | 解毒劑 |\n| --- | --- |\n| 鴉片類 | naloxone（速效）、naltrexone |\n| benzodiazepine | flumazenil（診斷用；BZD 中毒以支持性療法為主） |\n| 氰化物 | 維生素 B12（hydroxocobalamin）；以前用 amyl nitrite + sodium nitrite + sodium thiosulfate |\n| 甲醇 | 乙醇 |\n| kanamycin | calcium gluconate、neostigmine |\n| methotrexate | folinic acid |\n| heparin / LMWH | protamine sulfate |\n| warfarin | 維生素 K |\n| dabigatran | idarucizumab |\n| rivaroxaban | andexanet |\n| acetaminophen | N-acetylcysteine |\n| propranolol | isoprenaline、glucagon |\n| caffeine | esmolol |\n| digoxin | 毛地黃專一抗體片段（DSFab） |",
+    "explanation": "答案 (C)。\n\n- (A)(C) 大部分研究指出活性碳對有機磷沒有解毒效果；但相較之下，physostigmine 會抑制乙醯膽鹼酯酶，使乙醯膽鹼更高，副交感作用增強 → 中毒症狀加劇，所以最不適當的是 (C)。\n- (B)(D) 正確：atropine 是常用的有機磷解毒劑（若是交感過度活躍的中毒，解毒劑才是 physostigmine）。2-PAM 也是常用解毒劑，但它是帶正電的四級銨，無法通過血腦障壁，不能有效改善中樞症狀，這點與 atropine 不同。\n\n**相關整理**\n\n- ACLS 有症狀的心搏過緩用 atropine：1 mg，每 3–5 分鐘可給一次，最多 3 mg。\n\n| 藥物 | 解毒劑 |\n| --- | --- |\n| 鴉片類 | naloxone（速效）、naltrexone |\n| benzodiazepine | flumazenil（診斷用；BZD 中毒以支持性療法為主） |\n| 氰化物 | 維生素 B12（hydroxocobalamin）；以前用 amyl nitrite + sodium nitrite + sodium thiosulfate |\n| 甲醇 | 乙醇 |\n| kanamycin | calcium gluconate、neostigmine |\n| methotrexate | folinic acid |\n| heparin / LMWH | protamine sulfate |\n| warfarin | 維生素 K |\n| dabigatran | idarucizumab |\n| rivaroxaban | andexanet |\n| acetaminophen | N-acetylcysteine |\n| propranolol | isoprenaline、glucagon |\n| caffeine | esmolol |\n| digoxin | 毛地黃專一抗體片段（DSFab） |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -2800,7 +2800,7 @@
       "D": "diffusion-weighted imaging（DWI）"
     },
     "answer": "D",
-    "explanation": "答案 (D)。\n\n擴散權重影像（DWI）主要依水分子的擴散程度顯影，對急性腦梗塞相當敏感，中風後兩小時就會有明顯訊號。腦梗塞早期腦細胞腫脹，從細胞外間隙吸收水分，細胞內外的水分子擴散受限，局部 ADC 值降低，DWI 訊號就增強。\n\n**補充說明（書上）**：腦梗塞後各序列的變化：\n\n| 序列 | 意義 |\n| --- | --- |\n| T2* | 可偵測鐵質沉積與出血，訊號變弱表示出血，出血後數年仍偵測得到 |\n| T2 | 水腫、去髓鞘、硬化都會使訊號增強 |\n| DWI | 早期梗塞兩小時後就可見訊號增強，敏感度高；老舊梗塞訊號減弱 |\n| ADC | 細胞毒性水腫訊號變弱；血管性水腫訊號變強 |\n| T2 FLAIR | 早期梗塞不會增強，約三天後開始增強（通常一週內可見），持續兩週後消失；若持續存在要考慮腫瘤 |",
+    "explanation": "答案 (D)。\n\n擴散權重影像（DWI）主要依水分子的擴散程度顯影，對急性腦梗塞相當敏感，中風後兩小時就會有明顯訊號。腦梗塞早期腦細胞腫脹，從細胞外間隙吸收水分，細胞內外的水分子擴散受限，局部 ADC 值降低，DWI 訊號就增強。\n\n**各序列的變化**：腦梗塞後各序列的變化：\n\n| 序列 | 意義 |\n| --- | --- |\n| T2* | 可偵測鐵質沉積與出血，訊號變弱表示出血，出血後數年仍偵測得到 |\n| T2 | 水腫、去髓鞘、硬化都會使訊號增強 |\n| DWI | 早期梗塞兩小時後就可見訊號增強，敏感度高；老舊梗塞訊號減弱 |\n| ADC | 細胞毒性水腫訊號變弱；血管性水腫訊號變強 |\n| T2 FLAIR | 早期梗塞不會增強，約三天後開始增強（通常一週內可見），持續兩週後消失；若持續存在要考慮腫瘤 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -7729,7 +7729,7 @@
       "D": "肝臟轉移"
     },
     "answer": "C",
-    "explanation": "答案 (C)。\n\n- 侵襲性滋養層細胞疾病對化療效果很好，治療目標是 100% 治癒。約 90% 病人單用 dactinomycin 或 methotrexate 就能治癒；高風險者需用組合化療（EMA-CO：etoposide + methotrexate + dactinomycin，交替 cyclophosphamide + vincristine）。\n- 高風險因子：極高的 β-hCG、懷孕 ≥ 四個月後才發生、腦或肝轉移、對 methotrexate 無效。\n- 肺轉移不是高風險因子，故選 (C)。\n\n**補充說明（書上）**：WHO 預後評分中肺轉移 0 分、腦與肝轉移各 4 分；(B) 超過四個月可得 1–4 分，當年有人申覆但沒有給分，大概是因為 Harrison 原文寫「非肺部轉移」才是高風險。",
+    "explanation": "答案 (C)。\n\n- 侵襲性滋養層細胞疾病對化療效果很好，治療目標是 100% 治癒。約 90% 病人單用 dactinomycin 或 methotrexate 就能治癒；高風險者需用組合化療（EMA-CO：etoposide + methotrexate + dactinomycin，交替 cyclophosphamide + vincristine）。\n- 高風險因子：極高的 β-hCG、懷孕 ≥ 四個月後才發生、腦或肝轉移、對 methotrexate 無效。\n- 肺轉移不是高風險因子，故選 (C)。\n\n**相關說明**：WHO 預後評分中肺轉移 0 分、腦與肝轉移各 4 分；(B) 超過四個月可得 1–4 分，當年有人申覆但沒有給分，大概是因為 Harrison 原文寫「非肺部轉移」才是高風險。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
