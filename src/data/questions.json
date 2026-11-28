@@ -15072,7 +15072,7 @@
       "D": "出現acute HIV syndrome後若未給與抗病毒藥物治療，症狀也會自然消失"
     },
     "answer": "A",
-    "explanation": "答案 (A)。\n\n**急性 HIV 症候群**\n\n- 約 50–90% 的人在初次感染後會出現急性症狀，而不是少於 10%，故 (A) 錯誤。\n- 通常在感染後 3–6 週出現，類似單核球增多症：發燒、喉嚨痛、淋巴結腫大、皮疹、肌肉關節痛、頭痛，有時有無菌性腦膜炎。\n- 此時病毒量非常高（血中 HIV RNA 可 > 10⁶ copies/mL），傳染力最強；抗體可能還沒產生，需以 HIV RNA 或第四代（抗原＋抗體）檢驗診斷。\n- 症狀通常在 1–4 週內自行緩解，進入臨床潛伏期，但病毒仍持續破壞 CD4 細胞。\n\n**補充**：目前建議一經診斷即開始抗反轉錄病毒治療，包括急性期。",
+    "explanation": "答案 (A)。\n\n初次感染 HIV 後，病程可分為三個時期：\n\n1. 急性感染期：急性 HIV 症候群是初次感染 HIV 後 (B) 3–6 週時出現的急性症狀，(A) 約 50–70% 的 HIV 感染者會經歷，症狀嚴重度不一，從發燒、全身無力、食慾減輕、肌肉痠痛、頭痛、噁心、咽喉炎、淋巴結腫大、皮膚紅疹，到腦膜炎、週邊神經炎、脊髓炎都有可能。此時 (C) HIV 病毒快速複製並於體內散播，血中可測得非常高的病毒量，通常也是 HIV 傳染性最強的一個時期。(D) 症狀於數週內自行逐漸緩解，視為體內自然的免疫反應，病毒量亦下降，病人體內 CD4⁺ T 細胞數只會些微減少，部分甚至在急性期後回到正常值。大部分病人接著進入無症狀的臨床潛伏期，僅約 10% 病人在急性期後病程快速惡化。\n2. 臨床潛伏期：急性期後至病人發病前的期間，快則半年，慢則 10 年以上，取決於介入手段。此時期的病人沒有症狀，但 HIV 於體內持續複製增加，CD4⁺ T 細胞數逐漸下降。穩定透過抗病毒療法控制病毒量的病人，通常不具傳染力。\n3. 發病期：當病人又開始出現全身性症狀，便進入發病期；當 HIV 感染者的 CD4⁺ T 細胞數 < 200/cumm，或有任一項 AIDS 定義疾病（伺機性感染、惡性腫瘤），便可下 AIDS 的診斷。此時病人的免疫力已嚴重受限，病毒量快速攀升，並具有傳染力。\n\n所以 (A)「只有小於 10% 會出現急性症狀」是錯的。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -15092,7 +15092,7 @@
       "D": "①②③④⑤"
     },
     "answer": "A",
-    "explanation": "答案 (A)。\n\n**WHO 手部衛生五時機**\n\n1. 接觸病人前\n2. 執行清潔或無菌技術前\n3. 暴露病人體液風險後\n4. 接觸病人後\n5. 接觸病人周遭環境後\n\n逐項檢視：\n\n| 敘述 | 正確嗎 | 原因 |\n| --- | --- | --- |\n| ① 只碰床欄，離開不用洗手 | 錯 | 接觸病人周遭環境後需洗手 |\n| ② 協助病人移位不用洗手 | 錯 | 接觸病人前後都需洗手 |\n| ③ 戴手套倒完第一床尿壺接著倒第二床 | 錯 | 暴露體液風險後須脫手套並洗手，戴手套不能取代手部衛生 |\n| ④ 準備藥物或清潔病人前不用洗手 | 錯 | 屬於清潔或無菌操作前 |\n| ⑤ 導尿前乾洗手 | 對 | 無菌操作前執行手部衛生 |\n\n因此錯誤的是 ①②③④。",
+    "explanation": "答案 (A)。\n\n相信這一題的 ①–④ 對大家來說都不難，洗手五時機：(1) 接觸病人前、(2) 接觸病人後、(3) 接觸病人環境後、(4) 接觸病人血液、體液後、(5) 操作無菌技術前。\n\n比較會卡住的是 ⑤。需要濕洗手的情形：(1) 手上明顯髒污、(2) 被血液、體液污染後、(3) 暴露於可形成芽孢的細菌或沒有外套膜的病毒（如困難梭狀桿菌、腸病毒、諾羅病毒）。其餘情況都可以使用酒精乾洗手（殺菌效果較好也較方便）。⑤ 是在還沒接觸病人體液前，此時乾洗手即可。所以錯誤的是 ①②③④。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -15132,7 +15132,7 @@
       "D": "流感快篩陰性，即可排除流感"
     },
     "answer": "D",
-    "explanation": "答案 (D)。\n\n**流行性感冒**\n\n- 流感病毒屬於 RNA 病毒（正黏液病毒科），A 型會因抗原漂移與抗原移型造成流行或大流行。\n- 傳播途徑：飛沫為主，也可經接觸傳染。\n- 可傳染期：發病前 1 天到發病後約 5–7 天；兒童與免疫缺損病人排出病毒的時間較長。\n- 流感快速篩檢（抗原）的專一性高，但敏感度只有約 50–70%，陰性不能排除流感，故 (D) 錯誤。臨床高度懷疑或屬高風險族群時，應依臨床判斷給予抗病毒藥物，或以分子檢測（PCR）確診。\n\n**補充**：抗病毒藥物（oseltamivir 等）在發病 48 小時內使用效果最好，但重症或高風險病人即使超過 48 小時仍建議使用。",
+    "explanation": "答案 (D)。\n\n這題無論是靠選項語意或以前學過的微免都不難作答，很佛心的一題！\n\n- (A) 正確：流感病毒為有套膜的負股 RNA 病毒，有 8 個 RNA 片段且各自帶有轉錄酶。\n- (B) 正確：可以想成流感主要為人群之間飛沫傳染；禽流感則是容易發生在與家禽接觸者。\n- (C) 正確：流感在症狀出現前 1 天至出現後的 3–7 天都可能會傳染給別人；兒童及免疫缺損病人的傳播期則通常 > 7 天，甚至可長達數月。\n- (D) 錯誤：流感快篩的缺點之一就是偽陰性高。流感常用的診斷工具：\n\n| 檢查 | 敏感度 | 特異度 | 檢測時間 |\n| --- | --- | --- | --- |\n| 病毒培養 | 高 | 高 | 1–3 天 |\n| 免疫螢光檢驗 | 中 | 高 | 1–4 小時 |\n| 快速抗原檢驗（俗稱流感快篩） | 中（50–60%） | 高（90–95%） | < 15 分鐘，不需實驗室即可檢測 |\n| 分子檢驗（NAAT） | 高（90–92%） | 高（≥ 98%） | 15–30 分鐘 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -15152,7 +15152,7 @@
       "D": "M. microti"
     },
     "answer": "C",
-    "explanation": "答案 (C)。\n\n**結核分枝桿菌群（M. tuberculosis complex）**\n\n- 包括：M. tuberculosis、M. bovis（含 BCG 疫苗株）、M. africanum、M. microti、M. canettii、M. caprae、M. pinnipedii。\n- 這些菌種的基因高度相似，都可引起結核病。\n\nM. chelonae 屬於快速生長的非結核分枝桿菌，常造成皮膚軟組織感染（如美容手術、刺青、注射後）。\n\n**補充**：M. bovis 對 pyrazinamide 天然抗藥。",
+    "explanation": "答案 (C)。\n\n一翻兩瞪眼，考很細，考生很無奈。分枝桿菌屬共分為三類：\n\n1. 結核分枝桿菌複合體（MTBC）：最常見為 M. tuberculosis、M. bovis；其他包括 M. africanum、M. microti、M. caprae、M. canettii、M. orygis 等。\n2. 非結核分枝桿菌（NTM）：M. avium complex（MAC，包含 M. avium、M. intracellulare）、M. xenopi、M. kansasii、M. marinum、M. malmoense、M. scrofulaceum、M. gordonae、M. haemophilum，以及 M. fortuitum、M. chelonae、M. abscessus 等。\n3. 痲瘋桿菌：M. leprae、M. lepromatosis。\n\nM. chelonae 屬於非結核分枝桿菌，不屬於結核分枝桿菌複合體，所以選 (C)。112-2 醫學(三) 第 50 題單獨針對 NTM 考一題，十分刁鑽，請參考其詳解。\n\n**補充**：書上本題標示的答案是 (A)，但依書中自己的分類與考選部公告答案，正解應為 (C)，(A) 應是誤植。另外書上把 MAC 等歸為「快速生長菌群」、把 M. fortuitum、M. chelonae、M. abscessus 歸為「緩慢生長菌群」，剛好相反：後三者才是快速生長型（< 7 天），MAC、M. kansasii、M. marinum 等是緩慢生長型（可對照 112-2 醫學(三) 第 50 題的 Runyon 分類）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -15172,7 +15172,7 @@
       "D": "Vibrio vulnificus"
     },
     "answer": "D",
-    "explanation": "答案 (D)。\n\n**創傷弧菌（Vibrio vulnificus）感染**\n\n- 存在於溫暖的海水與河口，夏季較多；台灣西南沿海（高雄、台南、嘉義）常見。\n- 感染途徑：\n  - 傷口接觸海水，或被魚刺、蝦蟹刺傷\n  - 生食海鮮（尤其生蠔）\n- 高危險群：肝硬化（最重要，鐵質過多、補體與吞噬功能差）、酒精濫用、血色素沉積症、免疫不全。\n- 表現：快速進展的蜂窩性組織炎或壞死性筋膜炎，皮膚出現紫紅色出血性水泡，合併敗血性休克，死亡率可 > 50%。\n\n本題肝硬化病人在海邊被魚刺傷，隔天出現出血性水泡與休克，最可能是創傷弧菌。",
+    "explanation": "答案 (D)。\n\n看到關鍵字：在海邊被魚刺刺到、肝硬化病史，優先要想到海洋弧菌感染！其實四個選項都是有可能的致病菌，但在一天內就快速進展成蜂窩性組織炎伴隨水泡，是海洋弧菌感染的一大特色。順帶一提，吃海產也可能感染這隻細菌。\n\n其他考點：若是接觸淡水後導致的蜂窩性組織炎要想到 Aeromonas hydrophila；接觸到髒水則要多考慮厭氧菌感染。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -15192,7 +15192,7 @@
       "D": "cefazolin＋amikacin"
     },
     "answer": "C",
-    "explanation": "答案 (C)。\n\n**創傷弧菌感染的治療**\n\n- 抗生素：第三代頭孢菌素（ceftazidime 或 ceftriaxone）合併 tetracycline 類（doxycycline、minocycline）；也可使用 fluoroquinolone 合併第三代頭孢菌素。\n- 外科：盡早清創，壞死性筋膜炎可能需要筋膜切開或截肢，延誤手術會增加死亡率。\n- 支持性治療：積極處理敗血性休克。\n\n| 選項 | 適用 |\n| --- | --- |\n| Vancomycin + gentamicin | MRSA 或腸球菌 |\n| Clindamycin + penicillin | A 群鏈球菌壞死性筋膜炎 |\n| Cefazolin + amikacin | 不涵蓋弧菌的最佳組合 |",
+    "explanation": "答案 (C)。\n\n這些特殊細菌通常被歸類在非典型感染，猜題的話優先猜含有 tetracycline 類藥物的組合。深層軟組織感染造成壞死性筋膜炎，需要考慮最常見的三種細菌：\n\n| 細菌 | 治療 |\n| --- | --- |\n| Vibrio vulnificus（海水）、Aeromonas hydrophila（淡水） | 第三代 cephalosporin + tetracycline 類 |\n| A 群鏈球菌 | penicillin + clindamycin（兩者合用有協同效應） |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -18643,12 +18643,12 @@
       "D": "狗咬傷：amoxicillin-clavulanate"
     },
     "answer": "B",
-    "explanation": "答案 (B)。\n\n**動物咬傷的病原與抗生素**\n\n| 咬傷 | 重要病原 | 第一線抗生素 |\n| --- | --- | --- |\n| 狗、貓 | Pasteurella multocida（貓更常見）、Capnocytophaga（狗，無脾者危險）、葡萄球菌、鏈球菌、厭氧菌 | Amoxicillin-clavulanate |\n| 人 | Eikenella corrodens、口腔厭氧菌、鏈球菌 | Amoxicillin-clavulanate |\n| 猴子 | 猴疱疹病毒（B virus，可造成致命腦炎） | 抗病毒藥預防（valacyclovir 或 acyclovir），合併 amoxicillin-clavulanate |\n| 海水魚、海洋生物 | 弧菌（Vibrio vulnificus） | Fluoroquinolone 或 doxycycline 合併第三代頭孢菌素 |\n| 淡水 | Aeromonas | Fluoroquinolone |\n\n猴子咬傷最重要的是預防猴疱疹病毒，應給予抗病毒藥物，fluoroquinolone 不是第一線治療。",
+    "explanation": "答案 (B)。\n\n被動物咬傷主要需考慮動物口腔內細菌，其次是人體皮膚常見細菌；快速的記法是陸上動物用 amoxicillin-clavulanate、海裡動物用 fluoroquinolone 類。\n\n| | 菌種 | 預防性抗生素 |\n| --- | --- | --- |\n| 人體表皮菌 | 革蘭氏陽性：葡萄球菌、鏈球菌 | amoxicillin-clavulanic acid |\n| 哺乳類口腔菌（以貓狗為主） | 革蘭氏陰性：Pasteurella、Capnocytophaga、Bartonella henselae（貓抓病） | amoxicillin-clavulanic acid；Bartonella henselae 傳染力低，有症狀或懷疑再加上 azithromycin、doxycycline |\n| 水中生物菌叢 | 革蘭氏陰性：Vibrio（海水）、Aeromonas（淡水） | fluoroquinolone；單用於預防有效，但嚴重感染需再加上第三代 cephalosporin 治療 |\n\n猴子咬傷屬於陸上哺乳類，第一線是 amoxicillin-clavulanate，所以 (B) 最不適當。",
     "explanation_image": null,
     "explanation_images": null,
-    "section": "第二篇 外科學",
-    "chapter": "急診外傷科",
-    "category": "急診外傷科"
+    "section": "第一篇 內科學",
+    "chapter": "感染科",
+    "category": "感染科"
   },
   {
     "id": "112-1-醫學(五)-76",
@@ -18923,7 +18923,7 @@
       "D": "敗血性休克（septic shock）"
     },
     "answer": "D",
-    "explanation": "答案 (D)。\n\n**敗血症的定義（Sepsis-3，2016）**\n\n| 名稱 | 定義 |\n| --- | --- |\n| 敗血症 | 感染合併宿主反應失調造成的器官功能障礙（SOFA 分數上升 ≥ 2 分） |\n| 敗血性休克 | 敗血症經適當輸液復甦後，仍需要升壓劑才能維持平均動脈壓 ≥ 65 mmHg，且血中乳酸 > 2 mmol/L |\n\n- 本題肺炎病人合併意識改變（器官功能障礙）、低血壓，已給予 3,000 mL（約 40 mL/kg）輸液後血壓仍只有 90/45 mmHg（平均動脈壓約 60 mmHg），需要考慮升壓劑，屬於敗血性休克。\n- Sepsis-3 已不再使用 SIRS 與「嚴重敗血症」的分類。\n\n**補充**：處置以 1 小時內給予抗生素、30 mL/kg 晶體液、升壓劑首選 norepinephrine 為主。",
+    "explanation": "答案 (D)。\n\n其實這題考在這個時代有點怪……自從 2016 年的 Sepsis-3 定義後，SIRS 已經不被建議當作評估 sepsis 的判斷標準，而 severe sepsis 也被視為多餘的名詞。另外 2021 年有更新 sepsis 的指引，不再建議單以 qSOFA 來判斷病人有無 sepsis，要佐以 SOFA score 去評估，和 2016 年的 Sepsis-3 有異曲同工之妙。\n\n**Sepsis 定義**：SOFA score 的項目每一個都有 0–4 分，總分 2 分以上就符合定義（在此不列每一項分數，記正常值就可以大致推估是否符合 sepsis，完整分數可上網搜尋）。\n\n| 項目 | 指標 | 正常值（SOFA 0 分） |\n| --- | --- | --- |\n| 呼吸 | PaO₂/FiO₂ | 400 以上 |\n| 凝血 | 血小板 | 15 萬以上 |\n| 肝 | 總膽紅素 | < 1.2 mg/dL |\n| 腎 | 肌酸酐 | < 1.2 mg/dL |\n| 血壓 | MAP（1/3 SBP + 2/3 DBP） | 70 mmHg 以上 |\n| 中樞神經 | GCS | 15 |\n\n**Septic shock 定義**：即使輸液復甦之後仍然 (1) 要升壓劑才能使 MAP > 65 mmHg，且 (2) 乳酸 > 2 mmol/L。\n\n由於病人血壓在給予 3000 mL 的輸液後 MAP 仍然 < 65 mmHg（90 × 1/3 + 45 × 2/3 = 60 mmHg），代表需要升壓劑才足以超過 65 mmHg；雖然題目並未給乳酸的數值，但是應可以下 septic shock 這個診斷。\n\n雖然不影響作答，書中還是列出 SIRS 與 severe sepsis 的定義；再次強調，這兩個名詞現在不會拿來評估 sepsis（在 2016 以前，選項的四個名詞是一關一關過的，依序看是否符合 SIRS → sepsis → severe sepsis → septic shock）。\n\n| 名詞 | 定義 |\n| --- | --- |\n| SIRS（符合 ≥ 2 項者） | 體溫 > 38°C 或 < 36°C；心跳 > 90/min；呼吸速率 > 20/min 或 PaCO₂ < 32 mmHg；WBC > 12000 或 < 4000 或 > 10% 帶狀型 |\n| severe sepsis | 符合 sepsis 且有以下任一：低血壓、器官衰竭、乳酸過高 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -21544,7 +21544,7 @@
       "D": "僅①②④"
     },
     "answer": "B",
-    "explanation": "答案 (B)。\n\n**中心靜脈導管相關血流感染（CLABSI）的預防組合**\n\n- 置放時：\n  - 手部衛生\n  - 最大無菌面防護（戴帽子、口罩、無菌衣、無菌手套，鋪蓋病人全身的無菌單）\n  - 以含 chlorhexidine（> 0.5%）的酒精溶液消毒皮膚\n  - 避免股靜脈，成人優先選擇鎖骨下靜脈\n- 照護時：\n  - 每日評估導管是否仍有必要，不需要就盡早移除\n  - 醫療人員接受教育訓練\n  - 管路接頭使用前消毒\n\n不應常規定期更換中心靜脈導管，因為更換本身也會增加感染與置放併發症的風險，故 ④ 錯誤。",
+    "explanation": "答案 (B)。\n\nBundle care 在此指一套「組合式（要全做才有意義）」的介入措施，由美國醫療促進協會（IHI）2004 年倡議，以實證為基礎，提出 5 項措施來預防加護病房中心導管的感染：\n\n- 手部衛生\n- 最大範圍防護裝備\n- 以 2% chlorhexidine 消毒皮膚\n- 選擇適當的置入部位，避免由股靜脈置入\n- 每日評估是否拔除導管\n\n題目只有 ④ 錯誤。臨床實務上，若病人仍有管路需求，中心靜脈導管約 1–2 週更換一次以減少管路感染風險（周邊靜脈 3 天、A-line 7 天、PICC 3–6 個月、port-A 數年）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -21564,7 +21564,7 @@
       "D": "Neisseria meningitidis"
     },
     "answer": "D",
-    "explanation": "答案 (D)。\n\n**TMP-SMX 的預防效果**\n\n造血幹細胞移植後，常規使用 TMP-SMX 主要用來預防肺囊蟲肺炎（*Pneumocystis jirovecii*），同時可減少以下感染：\n\n- *Toxoplasma gondii*\n- *Nocardia* spp.\n- *Listeria monocytogenes*\n- 部分肺炎鏈球菌、流感嗜血桿菌等有莢膜細菌\n\n腦膜炎雙球菌（*Neisseria meningitidis*）感染的預防以疫苗為主，TMP-SMX 對其沒有可靠的預防效果；且 TMP-SMX 用於腦膜炎雙球菌的預防已因抗藥性高而不建議。",
+    "explanation": "答案 (D)。\n\nTMP-SMX 的抗菌光譜包括：\n\n- 革蘭氏陽性：鏈球菌、MSSA、MRSA（社區型）、Listeria monocytogenes、Nocardia。\n- 革蘭氏陰性：E. coli、Proteus mirabilis、Salmonella、Shigella、Burkholderia cepacia、Stenotrophomonas maltophilia（沒有綠膿桿菌！）。\n- 黴菌：Pneumocystis jirovecii。\n\n由上述整理確定 (D) Neisseria meningitidis 並不在 TMP-SMX 抗菌範圍中，其首選的治療藥物應是 penicillin G。\n\n**相關整理（書上）**：由其抗菌光譜可知，臨床上 TMP-SMX 的使用時機：\n\n1. 泌尿道常見感染菌，所以常用在泌尿道感染的治療或預防。\n2. 免疫力低下病人常見的 PJP 治療或預防。\n3. 少數 carbapenem 類無效的革蘭氏陰性菌治療首選。\n4. Nocardia 感染的治療首選。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -21584,7 +21584,7 @@
       "D": "ciprofloxacin"
     },
     "answer": "B",
-    "explanation": "答案 (B)。\n\n**細菌性腦膜炎的經驗性抗生素**\n\n| 族群 | 常見菌 | 經驗性治療 |\n| --- | --- | --- |\n| < 1 個月 | B 群鏈球菌、大腸桿菌、李斯特菌 | Ampicillin + cefotaxime |\n| 1 個月–50 歲 | 肺炎鏈球菌、腦膜炎雙球菌 | Vancomycin + 第三代頭孢菌素 |\n| > 50 歲或細胞免疫缺損 | 肺炎鏈球菌、腦膜炎雙球菌、李斯特菌、格蘭氏陰性桿菌 | Vancomycin + 第三代頭孢菌素 + ampicillin |\n| 神經外科術後、頭部外傷 | 葡萄球菌、綠膿桿菌 | Vancomycin + cefepime 或 meropenem |\n\n李斯特菌對頭孢菌素天然抗藥，治療首選 ampicillin（可合併 gentamicin），對 penicillin 過敏者可用 TMP-SMX。\n\n**補充**：疑似肺炎鏈球菌腦膜炎時，應在第一劑抗生素前或同時給予 dexamethasone，可降低聽力喪失與死亡率。",
+    "explanation": "答案 (B)。\n\nListeria monocytogenes 對環境適應力強，常見於土壤與腐生植物，又可以耐低溫，所以常出現在未洗淨的蔬菜或未經消毒的牛奶。一般人感染 Listeria 多數是自限性的腸胃道症狀，然而題幹所敘述免疫較差的病人可能會發生 Listeria 腦膜炎。這類病人第一線治療為單獨靜脈注射 ampicillin，或合併 aminoglycoside 使用；這個處方不僅相當有效，副作用也很低。TMP-SMX、fluoroquinolone 類、vancomycin 等都屬於第二線藥物，而 cephalosporin 類抗生素對 Listeria 則沒有效果。\n\n其他考點：\n\n1. 腦膜炎的常見致病菌肺炎鏈球菌、腦膜炎雙球菌、流感嗜血桿菌都可用第三代 cephalosporin 治療，惟 Listeria 不可；在免疫低下者或 1 歲以下嬰兒的腦膜炎需特別懷疑。\n2. 在新生兒的 Listeria 感染當中，主要被感染的原因是母體透過胎盤傳染。\n\n腦膜炎的相關考題，可見 112-1 醫學(四) 第 56 題、112-2 醫學(四) 第 58 題。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -21604,7 +21604,7 @@
       "D": "發生這些併發症的病人，超過80%帶有HLA-B27表現型（phenotype）"
     },
     "answer": "A",
-    "explanation": "答案 (A)。\n\n**反應性關節炎**\n\n- 在腸胃道感染（Salmonella、Shigella、Yersinia、Campylobacter）或泌尿生殖道感染（Chlamydia trachomatis，非淋菌性尿道炎最常見的病原）後 1–4 週發生的無菌性關節炎。\n- 典型三聯徵：關節炎、尿道炎、結膜炎（以前稱 Reiter 症候群）。\n- 其他表現：不對稱下肢大關節炎、薦腸關節炎、肌腱附著點炎、香腸指、葡萄膜炎、膿漏性皮膚角化症（手掌腳掌丘疹）、環狀龜頭炎。\n- 屬於脊椎關節炎，與 HLA-B27 相關（有併發症的病人中比例很高）。\n\n本題病人在非淋菌性尿道炎之後出現關節炎、結膜炎、葡萄膜炎與手腳丘疹，符合反應性關節炎，而不是葡萄球菌心內膜炎合併化膿性關節炎（應有發燒、菌血症、心雜音，關節液培養陽性），故 (A) 錯誤。\n\n**補充**：治療以 NSAIDs 為主，慢性病人可用 sulfasalazine；有活動性披衣菌感染時應治療病人與性伴侶。",
+    "explanation": "答案 (A)。\n\n題目關鍵字：非淋菌性尿道炎、關節炎（尤其薦椎部）、結膜炎、葡萄膜炎，看到這些症狀大概就離反應性關節炎的診斷不遠了！另外無發燒、心雜音、出血性病灶等症狀不像是感染性心內膜炎；多發性關節炎也不符合敗血性關節炎的表現（> 80% 為單關節發作），所以 (A) 錯誤。\n\n| 反應性關節炎 | |\n| --- | --- |\n| 病生理 | 主要源自泌尿道（如 Chlamydia、Ureaplasma）、腸胃道（如 Shigella、Salmonella、Yersinia、Campylobacter）感染，於感染後 1–4 週內發作；由於症狀為身體受感染時免疫反應異常造成，所以稱為反應性關節炎 |\n| 流行病學 | 好發於 20–40 歲男性；約 60–85% 病人帶有 HLA-B27 表現型，其中合併關節炎以外表現者則是 > 80% 帶有 HLA-B27 |\n| 臨床症狀 | 萊特氏症候群：關節炎、尿道炎與結膜炎；關節炎為多發性、不對稱且主要分布在膝、踝和薦椎關節，屬於無菌性關節炎，所以關節液無法培養出病原菌；其他肌肉骨骼症狀包括肌腱炎、著骨點炎；眼睛症狀包括葡萄膜炎、角膜炎；皮膚症狀則包括環狀龜頭炎、膿漏性角皮症等 |\n| 治療、預後 | NSAID、類固醇 ± DMARD，一線藥物無效時考慮生物製劑；症狀大多在 3–6 個月內會改善，但 HLA-B27 陽性者有機會變成慢性關節炎 |",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -21624,7 +21624,7 @@
       "D": "Vibrio cholerae所致的腹瀉係因產生enterotoxin，糞便中鮮少或不會出現白血球"
     },
     "answer": "B",
-    "explanation": "答案 (B)。\n\n**細菌性食物中毒與旅行者腹瀉**\n\n| 病原 | 潛伏期 | 機轉與特點 |\n| --- | --- | --- |\n| 金黃色葡萄球菌、仙人掌桿菌（嘔吐型） | 1–6 小時 | 食物中預先形成的毒素，以嘔吐為主 |\n| 產氣莢膜梭菌、仙人掌桿菌（腹瀉型） | 8–16 小時 | 腸毒素，水瀉 |\n| 霍亂弧菌、腸毒素型大腸桿菌（旅行者腹瀉最常見） | 1–3 天 | 腸毒素造成大量水瀉，糞便很少白血球 |\n| 志賀氏菌、侵襲性大腸桿菌、Campylobacter | 1–3 天 | 侵襲黏膜，血便、發燒，糞便有白血球 |\n\n- 感染劑量：志賀氏菌（10–100 隻）、阿米巴、梨形鞭毛蟲很低；霍亂弧菌與沙門氏菌需要大量菌數（10⁵–10⁸）。\n- 志賀氏菌因為感染劑量極低，除了污染的水與食物外，也很容易經由人與人直接接觸（糞口途徑）傳染，常在托兒所、安養機構發生群聚，故 (B) 錯誤。",
+    "explanation": "答案 (B)。\n\n- (A) 正確：依我國 110 年食品中毒發生與防治年報統計，最常見的細菌性食物中毒病原為 Bacillus cereus；若計入病毒，則 Norovirus 最常見，中毒人數約等於所有細菌性中毒人數之和。國內常見病原的潛伏時間與關鍵食品：\n\n| 病原 | 潛伏時間 | 關鍵食品 |\n| --- | --- | --- |\n| S. aureus | 約 2–6 小時 | |\n| Bacillus cereus（嘔吐型） | 約 2–6 小時 | 炒飯 |\n| Bacillus cereus（腹瀉型） | 約 8–15 小時 | |\n| Vibrio parahaemolyticus | 約 12–24 小時 | 海鮮 |\n| Salmonella | 約 12–36 小時 | 雞蛋 |\n| E. coli（現已很少） | 約 12–48 小時 | |\n| Norovirus（最大宗） | 約 24–48 小時 | |\n\n- (B) 錯誤：Shigella 的傳染途徑包括直接（糞口傳染）與間接（汙水和食物）傳染，尤其已開發國家以直接傳染居多。\n- (C) 正確：致病菌量最常比較的是 Salmonella 10⁵–10⁸，而 Shigella 僅需 10–100，Vibrio cholerae 跟 Salmonella 一樣 10⁵–10⁸ 也要很大菌量才能致病；Entamoeba histolytica > 1000、Giardia lamblia 10–100，為腹瀉最常見的兩種寄生蟲病原。\n- (D) 正確：只有侵襲性的細菌才會使糞便出現白血球或潛血反應：出血性大腸桿菌（E. coli O157:H7）、侵入性大腸桿菌（EIEC）、C. difficile、Salmonella、Shigella、Campylobacter、Yersinia、V. parahaemolyticus（腸炎弧菌，而非選項的霍亂弧菌）。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -21644,7 +21644,7 @@
       "D": "oxacillin"
     },
     "answer": "D",
-    "explanation": "答案 (D)。\n\n**MRSA 肺炎的治療**\n\n- MRSA 的 mecA 基因產生 PBP2a，對所有 β-lactam 類抗生素（包括 oxacillin、cefazolin 等）抗藥（ceftaroline 例外），因此 oxacillin 無效。\n- 可用藥物：\n\n| 藥物 | 注意事項 |\n| --- | --- |\n| Vancomycin | 依血中濃度調整（透析病人需在透析後補充） |\n| Teicoplanin | 半衰期長 |\n| Linezolid | 肺部濃度好，不需依腎功能調整；長期使用可能骨髓抑制 |\n| Daptomycin | 會被肺表面張力素破壞，不能用於肺炎 |\n\n**補充**：長期血液透析病人因頻繁就醫與血管通路，是 MRSA 感染的高危險群。",
+    "explanation": "答案 (D)。\n\n送分題，MRSA 的名字就告訴你這隻菌是對 methicillin/oxacillin 抗藥，所以可以很快地選出 (D)！需要特別注意的是，daptomycin 雖然對 MRSA 有效，但它對血液肺泡屏障的穿透力差，在肺泡的治療濃度趨近於零，所以不可用來治療 MRSA 肺炎。\n\n- MSSA：oxacillin（首選）、nafcillin、cefazolin。\n- MRSA：vancomycin、teicoplanin、daptomycin、tigecycline、linezolid、TMP-SMX。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -21664,7 +21664,7 @@
       "D": "預防性抗生素治療"
     },
     "answer": "D",
-    "explanation": "答案 (D)。\n\n**肺炎的預防**\n\n- 戒菸：抽菸是社區性肺炎的重要危險因子。\n- 疫苗：\n  - 肺炎鏈球菌疫苗：65 歲以上或有慢性肺病等高風險者應接種（台灣公費提供）。\n  - 流感疫苗：每年流感季節前接種。\n  - 其他：COVID-19、RSV 疫苗（60 歲以上可考慮）。\n- 控制共病、改善營養與口腔衛生、預防吸入。\n\n一般不建議以預防性抗生素預防肺炎，會增加抗藥性與副作用；COPD 頻繁急性惡化者使用長期 azithromycin 是為了減少急性惡化，而不是作為肺炎的常規預防。",
+    "explanation": "答案 (D)。\n\n疫苗是預防肺炎的一大重點：流感疫苗與肺炎鏈球菌疫苗都能有效預防 COPD 病人得到肺炎的發生率，更能降低住院時間與死亡率，甚至可以減低此類病人罹患缺血性心臟病的風險。抽菸更是得到肺炎的重要危險因子，所以戒菸也能減少肺炎的發生。\n\n2018 年發表的一篇統合分析討論 COPD 病人使用預防性 macrolide，研究對象主要為 65–72 歲、有中度以上的 COPD 病人，結論為連續或間歇使用 macrolide 可以降低 COPD 急性惡化的發生率。然而文獻中也提到在使用預防性抗生素時還需要考量諸多因素，並非所有 COPD 病人都適合使用，使用不當反而會增加抗藥性風險。所以只有 (A)(B)(C) 三選項是絕對正確，(D) 則要視病患情況才會考慮。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
@@ -21907,7 +21907,7 @@
       "D": "Salmonella typhi菌株對於fluoroquinolone類抗生素沒有抗藥性的產生"
     },
     "answer": "B",
-    "explanation": "答案 (B)。\n\n**傷寒**\n\n- 由 *Salmonella* Typhi 引起，經糞口途徑傳播。\n- 臨床表現：\n  - 逐漸上升的持續發燒、頭痛、腹痛、全身倦怠。\n  - 相對性心搏過緩（發燒時心跳不相對增加）。\n  - 玫瑰疹（胸腹部淡紅色斑疹）、肝脾腫大。\n  - 腹瀉或便秘都可能，血便不是主要表現（嚴重時腸出血或穿孔），故 (A) 錯誤。\n- 檢驗：白血球偏低（相對性）、肝功能異常，故 (B) 正確。\n- 診斷：\n  - 血液培養在第一週陽性率最高。\n  - 骨髓培養敏感度最高，即使已使用抗生素仍可培養出細菌，故 (C) 錯誤。\n- 治療：fluoroquinolone 的抗藥性已相當普遍（尤其南亞），目前常用第三代頭孢菌素或 azithromycin，故 (D) 錯誤。\n\n**補充**：慢性帶菌者細菌常藏在膽囊（尤其有膽結石者），是重要的傳染源。",
+    "explanation": "答案 (B)。\n\n傷寒與非傷寒沙門氏菌的比較：\n\n| | 傷寒（Salmonella typhi） | 非傷寒沙門氏菌（NTS） |\n| --- | --- | --- |\n| 治病菌種 | S. typhi、S. paratyphi | S. enteritidis、S. typhimurium |\n| 菌株特性 | 只存在人，存在帶原者的膽囊中 | 人畜共通 |\n| 感染途徑 | 帶原者的糞、尿、汙水 | 生食雞肉、雞蛋 |\n| 潛伏期 | 傷寒 3–60 天，通常為 7–14 天；副傷寒 1–10 天 | 6–72 小時 |\n| 腹部外表現 | 玫瑰色斑、相對性心搏過緩 | 可能有其他局部感染，如骨髓炎、腦膜炎、關節炎 |\n| 診斷培養 | 血液培養（第 1 週 90% 陽性、第 3 週剩 50%）；尿液/糞便培養（第 3 週 90% 陽性）；骨髓培養 | 必要糞便培養 |\n| 治療與通報 | 必要使用抗生素；第二類法定傳染病，24 小時內通報 | 特殊情況才需抗生素 |\n| 疫苗 | 有（保護力約 7 年） | 無 |\n\n- (A) 錯誤：發燒確實是最常見的表現之一（約 75%），但腹瀉只佔了 25–30% 左右，而血便更是只有 10–20%。\n- (B) 正確：約有 15–25% 的病人會表現出白血球低下、淋巴球下降等情況；而肝脾腫大較少，約 3–6%。\n- (C) 錯誤：使用抗生素後，最容易培養出菌落的是骨髓，在使用抗生素 1 週還是可以驗得到。而糞便培養在前期通常驗不到，要到感染第三週才有較高機率會培養出菌落。\n- (D) 錯誤：多重抗藥的 S. typhi 最開始在亞洲出現，現在已經擴散到南美、非洲等地。由於它們的出現，所以 fluoroquinolone 被廣泛使用，進而讓 fluoroquinolone 對於多重抗藥菌株的敏感度也下降了；目前對這類菌株的第一線用藥已改為 azithromycin 或第三代以後的 cephalosporin（如 ceftriaxone）。\n\n其他考點：\n\n- 非傷寒沙門氏菌病人使用抗生素的情況：請見 112-1 醫學(四) 第 32 題詳解。\n- 可用 Widal test 檢測血中對 Salmonella 抗原的抗體，但敏感度、特異度皆低：≤ 1:80 陽性可能曾經感染過 Salmonella 或過去曾接種傷寒疫苗；≥ 1:160 陽性懷疑正在感染 Salmonella（包含傷寒/副傷寒/非傷寒）。\n- Widal test 不要與 Weil-Felix test 搞混；後者是利用立克次體與特定 Proteus 抗原相似的特性，來檢測立克次體感染症，包括斑疹傷寒、斑疹熱。",
     "explanation_image": null,
     "explanation_images": null,
     "section": "第一篇 內科學",
